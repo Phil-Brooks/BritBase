@@ -1,0 +1,1285 @@
+﻿[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.10"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Tisdall, Jonathan D"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2450"]
+[BlackElo "2350"]
+[PlyCount "57"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nge2 Re8 7. O-O b6 8. e4
+dxc4 9. Bxc4 Bb7 10. Qd3 c5 11. d5 exd5 12. exd5 Nbd7 13. f4 a6 14. a4 Qc7 15.
+b3 Rad8 16. Bb2 Qb8 17. Ng3 b5 18. axb5 axb5 19. Nxb5 Bxd5 20. Nf5 Bxc4 21.
+bxc4 Ne5 22. Qh3 Neg4 23. Nxg7 Re2 24. Bxf6 Nxf6 25. Nh5 Rdd2 26. Qg3+ Kf8 27.
+Qg7+ Ke7 28. Qxf6+ Ke8 29. Rfe1 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.10"]
+[Round "1"]
+[White "Goodman, David SC"]
+[Black "Van der Vliet, Fredrik"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2375"]
+[BlackElo "2380"]
+[PlyCount "79"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Nbd7 6. g3 a6 7. a4 g6 8. Bg2 Bg7
+9. Nh3 O-O 10. O-O Ne8 11. Be3 h6 12. Qd2 Kh7 13. Rae1 Rb8 14. Qd3 b6 15. Kh1
+Nc7 16. b3 Kh8 17. f4 exf4 18. gxf4 b5 19. Bd2 bxc4 20. bxc4 Rb4 21. a5 Ne8 22.
+Ra1 Kh7 23. Ra2 Rb8 24. Ng1 Nef6 25. Nce2 Re8 26. Ng3 Ng8 27. Nf3 Qc7 28. h4
+Qb7 29. Ra3 Qb2 30. h5 Nf8 31. hxg6+ fxg6 32. e5 Bg4 33. Nh2 Bc8 34. e6 Qd4 35.
+Qxd4 Bxd4 36. Ra2 Re7 37. f5 Be5 38. fxg6+ Nxg6 39. Nf5 Reb7 40. Ng4 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.10"]
+[Round "1"]
+[White "Gruchacz, Robert"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2365"]
+[BlackElo "2490"]
+[PlyCount "46"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 g6 8. Bd2
+O-O 9. Bd3 d6 10. f4 Qb6 11. Nf3 Nd7 12. Qh3 dxe5 13. fxe5 Qc7 14. Nb5 Bxd2+
+15. Kxd2 Qa5+ 16. c3 Qb6 17. Rae1 a6 18. Qh6 Rd8 19. Rhf1 Nf8 20. Ng5 Nf4 21.
+Rxf4 Qxb5 22. Re3 Qxb2+ 23. Kd1 Qxc3 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.10"]
+[Round "1"]
+[White "Taulbut, Shaun M"]
+[Black "Cummings, David H"]
+[Result "1-0"]
+[ECO "B46"]
+[WhiteElo "2375"]
+[BlackElo "2265"]
+[PlyCount "63"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Nge7 7. Nb3 d6 8. Bg2
+Bd7 9. a4 Nc8 10. O-O Be7 11. Qe2 O-O 12. a5 Bf6 13. Rd1 Qc7 14. f4 Nb4 15. Be3
+Rb8 16. Qf2 b5 17. axb6 Nxb6 18. e5 Nc4 19. exf6 Nxc2 20. Nd5 exd5 21. Qxc2 Qb7
+22. Qxc4 dxc4 23. Bxb7 Rxb7 24. Na5 Rxb2 25. Nxc4 Re2 26. Rd2 Rxd2 27. Bxd2 d5
+28. Nb6 Bb5 29. Nxd5 gxf6 30. Nxf6+ Kg7 31. Bc3 Rc8 32. Ne4+ 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.10"]
+[Round "1"]
+[White "Watson, William N"]
+[Black "Day, Lawrence A"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "2300"]
+[BlackElo "2385"]
+[PlyCount "112"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Bb3 d5 5. Nf3 Bb4+ 6. c3 Bd6 7. O-O Be6 8. Re1
+Nbd7 9. Nbd2 O-O 10. d4 exd4 11. e5 dxc3 12. bxc3 Bc5 13. exf6 Nxf6 14. Nd4 Bg4
+15. N2f3 Ne4 16. Bc2 Re8 17. Qd3 Qf6 18. Bg5 Qg6 19. Bf4 Qf6 20. Bg5 Qg6 21.
+Bf4 Qf6 22. Bg3 g6 23. Ne5 Rxe5 24. Bxe5 Qxf2+ 25. Kh1 Qxe1+ 26. Rxe1 Nf2+ 27.
+Kg1 Nxd3 28. Bxd3 Re8 29. Kf2 Bb6 30. Bf6 Rxe1 31. Kxe1 Ba5 32. Kd2 Bc7 33. h3
+Be6 34. Nf3 c5 35. Be5 Bxe5 36. Nxe5 Kf8 37. Ke3 Ke7 38. Kf4 f6 39. Nf3 g5+ 40.
+Nxg5 fxg5+ 41. Kxg5 Bg8 42. Kh6 c4 43. Bc2 b5 44. a3 a5 45. Kg5 d4 46. cxd4 a4
+47. Kf4 b4 48. Ke3 bxa3 49. Bb1 c3 50. Kd3 a2 51. Bxa2 Bxa2 52. Kxc3 Bd5 53. g4
+a3 54. h4 Kf6 55. Kc2 Be6 56. g5+ Kg6 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.11"]
+[Round "2"]
+[White "Cummings, David H"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2265"]
+[BlackElo "2450"]
+[PlyCount "81"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nf3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc6 6. d4 cxd4 7. Nxd4 Ndb4 8.
+Nxc6 Qxd1+ 9. Kxd1 Nxc6 10. Bxc6+ bxc6 11. Nc3 g6 12. Bf4 Bg7 13. Kd2 O-O 14.
+Rhc1 a5 15. Na4 Ra7 16. f3 Rb7 17. Rxc6 Rb4 18. Nc3 Rxb2+ 19. Ke1 Bb7 20. Rc7
+Ba6 21. Bd2 Rd8 22. Rd1 Bxc3 23. Rxc3 Rxa2 24. Re3 Kf8 25. Re5 f6 26. Re3 Kf7
+27. f4 Bc8 28. Bc1 Rxd1+ 29. Kxd1 Bg4 30. Ke1 a4 31. Ba3 e6 32. Bc5 Rc2 33. Bb4
+Rc4 34. Ba3 Bf5 35. Bb2 Rc2 36. Ba3 Ke8 37. Kd1 Rc4 38. Bb2 Ke7 39. Rc3 Rd4+
+40. Ke1 Rd7 41. Ba3+ 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.11"]
+[Round "2"]
+[White "Day, Lawrence A"]
+[Black "Goodman, David SC"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2385"]
+[BlackElo "2375"]
+[PlyCount "25"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 Nf6 5. h3 O-O 6. g3 e5 7. Bg2 exd4 8. Bxd4
+Nc6 9. Be3 Be6 10. Nge2 Qd7 11. Nf4 Bc4 12. Nfe2 Be6 13. Nf4 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.11"]
+[Round "2"]
+[White "Gruchacz, Robert"]
+[Black "Taulbut, Shaun M"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2365"]
+[BlackElo "2375"]
+[PlyCount "37"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Ne4 5. Nce2 f6 6. f3 Ng5 7. h4 Nf7 8. f4 c5
+9. c3 Nc6 10. Nf3 Be7 11. g3 O-O 12. Bg2 Qb6 13. exf6 Bxf6 14. dxc5 Qxc5 15.
+Qd3 e5 16. fxe5 Ncxe5 17. Nxe5 Bxe5 18. Be3 Qc4 19. Qxc4 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.11"]
+[Round "2"]
+[White "Speelman, Jonathan S"]
+[Black "Van der Vliet, Fredrik"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2490"]
+[BlackElo "2380"]
+[PlyCount "77"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Bb5+ Bd7 9. Bxd7+ Qxd7 10. O-O O-O 11. Be3 cxd4 12. cxd4 e6 13. Rc1 Nc6 14. Qd2
+b6 15. d5 exd5 16. exd5 Na5 17. Bh6 Bxh6 18. Qxh6 f6 19. Rfd1 Rac8 20. h4 Rxc1
+21. Qxc1 Rd8 22. Qf4 Qd6 23. Qg4 Qd7 24. Qd4 Qf7 25. Qf4 Nb7 26. Nh2 Nd6 27.
+Ng4 Nf5 28. h5 gxh5 29. Qxf5 hxg4 30. Qxg4+ Kh8 31. Qf5 Qe7 32. Qd3 Qd6 33. Re1
+Kg7 34. Qf5 Qd7 35. Re6 Qf7 36. d6 Qg6 37. Re7+ Kh8 38. Qxg6 hxg6 39. d7 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.11"]
+[Round "2"]
+[White "Tisdall, Jonathan D"]
+[Black "Watson, William N"]
+[Result "0-1"]
+[ECO "B53"]
+[WhiteElo "2350"]
+[BlackElo "2300"]
+[PlyCount "76"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Bg4 5. Nbd2 Qd7 6. h3 Nc6 7. Qe3 Bh5 8.
+Bb5 e6 9. O-O Nf6 10. c4 Be7 11. b3 O-O 12. Bb2 a6 13. Bxc6 Qxc6 14. Nd4 Qc5
+15. Rac1 Rfe8 16. Qg3 Bg6 17. Kh1 Nh5 18. Qe3 Bf6 19. b4 Qg5 20. N2f3 Qf4 21.
+Rce1 Rac8 22. Bc1 Bxd4 23. Qxd4 Qf6 24. e5 dxe5 25. Nxe5 Red8 26. Qg4 Qe7 27.
+Bg5 Nf6 28. Qh4 Bf5 29. Re3 h6 30. Bxh6 gxh6 31. Rfe1 Kh7 32. g4 Rd4 33. Rf3
+Rg8 34. Nc6 bxc6 35. Rxf5 Rg6 36. Re3 Qd8 37. Rc5 Rd1+ 38. Kh2 Nxg4+ 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.12"]
+[Round "3"]
+[White "Chandler, Murray G"]
+[Black "Gruchacz, Robert"]
+[Result "1-0"]
+[ECO "E42"]
+[WhiteElo "2450"]
+[BlackElo "2365"]
+[PlyCount "53"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Nge2 d5 6. cxd5 Nxd5 7. g3 cxd4 8.
+exd4 Bd7 9. Bg2 Bc6 10. O-O O-O 11. Nxd5 Bxd5 12. Bxd5 Qxd5 13. Nf4 Qd7 14. d5
+exd5 15. Nxd5 Bd6 16. Qb3 Na6 17. Be3 Nc5 18. Qc2 Qa4 19. Qe2 Rfe8 20. Rfd1
+Rad8 21. Rac1 b6 22. Rc4 Qxa2 23. Rh4 Bf8 24. Qh5 h6 25. Rg4 Qb3 26. Nf6+ Kh8
+27. Qxh6+ 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.12"]
+[Round "3"]
+[White "Goodman, David SC"]
+[Black "Tisdall, Jonathan D"]
+[Result "1-0"]
+[ECO "D32"]
+[WhiteElo "2375"]
+[BlackElo "2350"]
+[PlyCount "99"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c5 4. e3 Nc6 5. cxd5 exd5 6. Nf3 Nf6 7. Be2 a6 8. O-O
+Bd6 9. b3 O-O 10. Bb2 cxd4 11. Nxd4 Re8 12. Nxc6 bxc6 13. Na4 Ne4 14. Bf3 Re6
+15. g3 Rb8 16. Rc1 Qe7 17. Rxc6 Rg6 18. Bg2 Bd7 19. Rb6 Rd8 20. Qxd5 Nxf2 21.
+Rxf2 Bxa4 22. Rb7 Bd7 23. Bd4 Rc8 24. Qe4 Qd8 25. Rc2 Rxc2 26. Qxc2 h5 27. Ra7
+Qa5 28. Bc3 Qb5 29. a4 Qc5 30. Rxd7 Qxe3+ 31. Kh1 Be5 32. Rd3 Qc5 33. Qd2 h4
+34. Bxe5 Qxe5 35. gxh4 Re6 36. Bf3 Qa1+ 37. Kg2 Rg6+ 38. Kf2 Qg1+ 39. Ke2 Re6+
+40. Re3 Qxh2+ 41. Kd1 Rd6 42. Rd3 Qg1+ 43. Kc2 Qg6 44. Be2 Rc6+ 45. Kb1 Qf5 46.
+Ka2 g6 47. Rd8+ Kh7 48. Qb2 f6 49. Bd3 Qg4 50. Qd4 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.12"]
+[Round "3"]
+[White "Taulbut, Shaun M"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2375"]
+[BlackElo "2490"]
+[PlyCount "26"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6
+8. Qd2 Ne5 9. Bd4 Bf6 10. O-O-O Be6 11. Qe3 Nxf3 12. Qxf3 Bxd4 13. cxd4 Qg5+
+1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.12"]
+[Round "3"]
+[White "Van der Vliet, Fredrik"]
+[Black "Day, Lawrence A"]
+[Result "1-0"]
+[ECO "A55"]
+[WhiteElo "2380"]
+[BlackElo "2385"]
+[PlyCount "115"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 e5 5. g3 c6 6. Bg2 Be7 7. O-O O-O 8. e4
+a6 9. h3 b5 10. cxb5 axb5 11. Qc2 b4 12. dxe5 dxe5 13. Nb1 Bc5 14. Nbd2 Ba6 15.
+Re1 Qb8 16. b3 Re8 17. Bb2 Bxf2+ 18. Kxf2 Qa7+ 19. Re3 Nc5 20. Bf1 Bxf1 21.
+Nxf1 Nfxe4+ 22. Kg2 f5 23. Nxe5 Kh8 24. Bd4 Qc7 25. Nf3 Ne6 26. Be5 Qb7 27. g4
+fxg4 28. Qxe4 gxf3+ 29. Qxf3 Rf8 30. Qg4 c5+ 31. Kg1 Qf7 32. Re2 h6 33. Nh2 c4
+34. bxc4 b3 35. Qxe6 Qxe6 36. Bxg7+ Kxg7 37. Rxe6 Ra3 38. Re2 Rc8 39. Rg2+ Kh8
+40. Rb2 Rca8 41. Ng4 Kg7 42. Nf2 bxa2 43. c5 Kf7 44. c6 Ke7 45. Rd2 Rc3 46.
+Rdxa2 Rg8+ 47. Kh2 Rxc6 48. Ra7+ Kf6 49. R7a6 Rgc8 50. Kg3 Rxa6 51. Rxa6+ Kg5
+52. Ra5+ Kg6 53. Nd3 Rc3 54. Rd5 Ra3 55. Kg4 Ra4+ 56. Nf4+ Kf6 57. Rd6+ Ke5 58.
+Re6+ 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.12"]
+[Round "3"]
+[White "Watson, William N"]
+[Black "Cummings, David H"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2300"]
+[BlackElo "2265"]
+[PlyCount "75"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Bf4 d6 7. Bg3 Nf6 8. Be2
+Be7 9. Nxc6 bxc6 10. e5 Nd5 11. exd6 Bxd6 12. Na4 Bxg3 13. hxg3 Qa5+ 14. c3 c5
+15. Bf3 O-O 16. Be4 h6 17. O-O Bd7 18. Bc2 Rfd8 19. Qg4 Rac8 20. Rfc1 Bc6 21.
+Qh4 Nf6 22. Rd1 Qb5 23. c4 Qb7 24. Nxc5 Qxb2 25. Bb3 Qa3 26. Nd3 Ba4 27. Rab1
+Bxb3 28. axb3 Rb8 29. Ne5 Qc5 30. Rxd8+ Rxd8 31. Ng4 Qf5 32. Nxf6+ gxf6 33. Rc1
+Rd2 34. Qf4 Qxf4 35. gxf4 Rd3 36. Rb1 Rc3 37. Kf1 Rc2 38. g3 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.13"]
+[Round "4"]
+[White "Cummings, David H"]
+[Black "Goodman, David SC"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2265"]
+[BlackElo "2375"]
+[PlyCount "153"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 e5 4. Bg2 Nc6 5. Rb1 a5 6. a3 d6 7. b4 axb4 8. axb4
+Nf6 9. d3 O-O 10. b5 Ne7 11. Nf3 h6 12. Qb3 Nh5 13. O-O Bg4 14. Ba3 Rb8 15. Nd2
+Be6 16. Nd5 Qd7 17. Rfc1 Kh7 18. Qc2 f5 19. Bb4 b6 20. Bc3 f4 21. Nxe7 Qxe7 22.
+Ne4 Qd7 23. Ra1 Bh3 24. Ra7 Nf6 25. Bb4 Nxe4 26. Bxe4 Rf6 27. f3 h5 28. Kf2 Bh6
+29. Rg1 fxg3+ 30. hxg3 Be6 31. Rh1 Bf5 32. Bc6 Qe7 33. Bd2 Bxd2 34. Qxd2 Rf7
+35. Ke1 Be6 36. g4 h4 37. g5 h3 38. Bd5 Kg7 39. Qe3 Rh8 40. d4 Bxd5 41. cxd5
+Rh4 42. f4 exf4 43. Qxe7 Rxe7 44. Kf2 Rh5 45. Ra3 h2 46. Rf3 Rxg5 47. Rxf4 Rxd5
+48. Rxh2 Rxb5 49. Rfh4 Rf5+ 50. Ke1 d5 51. Rh8 Kf6 52. Rd8 c5 53. Rg2 Re6 54.
+Rf2 cxd4 55. Rxd5 Re4 56. Rfxf5+ gxf5 57. Kd2 Re5 58. Rxd4 Ke6 59. Rb4 b5 60.
+Kd3 Kd6 61. Rf4 Kd5 62. Kd2 Kc6 63. Kc3 Kc5 64. Rf3 b4+ 65. Kb3 Kb5 66. Rf2 Kc5
+67. Rf3 Kb5 68. Rf2 Re3+ 69. Kb2 Ka4 70. Rxf5 Rxe2+ 71. Kb1 Ka3 72. Rf3+ Ka4
+73. Rg3 Rf2 74. Rh3 Rg2 75. Rf3 Rh2 76. Rg3 b3 77. Rg8 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.13"]
+[Round "4"]
+[White "Gruchacz, Robert"]
+[Black "Watson, William N"]
+[Result "0-1"]
+[ECO "B77"]
+[WhiteElo "2365"]
+[BlackElo "2300"]
+[PlyCount "64"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. h4 Ne5 11. Bb3 h5 12. Bh6 Bxh6 13. Qxh6 Rc8 14. Nde2 b5 15.
+a3 Qa5 16. O-O-O Rc5 17. Nd5 Nxd5 18. Rxd5 Rxd5 19. exd5 b4 20. Qd2 Rb8 21. Kb1
+Qc5 22. axb4 Rxb4 23. Ng3 a5 24. Ne4 Qb5 25. Re1 a4 26. Ba2 Rxb2+ 27. Ka1 Bf5
+28. Qc3 Rb4 29. Ng3 Bd7 30. Ne4 Bf5 31. Ng3 Qa5 32. Qd2 Rb1+ 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.13"]
+[Round "4"]
+[White "Speelman, Jonathan S"]
+[Black "Day, Lawrence A"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2490"]
+[BlackElo "2385"]
+[PlyCount "82"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. b4 Bb6 6. d3 d6 7. a4 a6 8. O-O Be6
+9. Nbd2 O-O 10. Bb2 Qd7 11. Kh1 Ne7 12. Bxe6 fxe6 13. d4 Ng6 14. Qc2 exd4 15.
+cxd4 d5 16. e5 Ng4 17. h3 Nh6 18. Ng1 Rf7 19. g3 Raf8 20. f4 Nf5 21. Qd3 h5 22.
+Ne2 c6 23. Rf3 Bd8 24. Bc3 Nh8 25. Raf1 g5 26. fxg5 Bxg5 27. Nb3 Ne3 28. Rxf7
+Rxf7 29. Rxf7 Qxf7 30. Ng1 Qf2 31. Qe2 Qxg3 32. Be1 Qf4 33. Nc5 Qf5 34. Qxh5
+Nf7 35. Qf3 Qb1 36. Bd2 Nf5 37. Qg4 N5h6 38. Qg2 Qf5 39. Bxg5 Nxg5 40. Nxe6
+Qxe6 41. Qxg5+ Kh7 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.13"]
+[Round "4"]
+[White "Taulbut, Shaun M"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2375"]
+[BlackElo "2450"]
+[PlyCount "12"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.13"]
+[Round "4"]
+[White "Tisdall, Jonathan D"]
+[Black "Van der Vliet, Fredrik"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2350"]
+[BlackElo "2380"]
+[PlyCount "96"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. Be3 b6 8. f4
+Bb7 9. Bd3 Nbd7 10. O-O Be7 11. Qf3 Rc8 12. Qh3 Qc7 13. Rae1 Nc5 14. Kh1 O-O
+15. Nf3 Ncxe4 16. Ng5 d5 17. Bd4 h6 18. Ncxe4 dxe4 19. Nxe4 Bxe4 20. Bxe4 Nxe4
+21. Rxe4 Qxc2 22. Qg3 e5 23. Rxe5 Bf6 24. Qe3 Qc4 25. Re1 Bxe5 26. fxe5 b5 27.
+axb5 axb5 28. b3 Qd5 29. h3 Rc2 30. Qe4 Qxe4 31. Rxe4 Rd8 32. Kh2 Rd2 33. Bc5
+Re8 34. b4 Re6 35. Re3 Rg6 36. Rg3 Kh7 37. Bd6 Rxg3 38. Kxg3 Kg6 39. Kf3 Kf5
+40. Bf8 Kg6 41. g3 h5 42. Ke4 Rg2 43. Kf4 Rc2 44. Ke4 Rc3 45. Kd5 Rxg3 46. h4
+Kf5 47. Kc6 g5 48. hxg5 h4 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.14"]
+[Round "5"]
+[White "Chandler, Murray G"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[WhiteElo "2450"]
+[BlackElo "2490"]
+[PlyCount "28"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nge2 c5 7. cxd5 cxd4 8.
+exd4 Qxd5 9. O-O Qh5 10. Bf4 Nc6 11. a3 Bxc3 12. Nxc3 Qxd1 13. Raxd1 Rd8 14.
+Bb5 Nd5 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.14"]
+[Round "5"]
+[White "Day, Lawrence A"]
+[Black "Tisdall, Jonathan D"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2385"]
+[BlackElo "2350"]
+[PlyCount "83"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. f4 e6 3. Qe2 Nc6 4. Nf3 Nf6 5. c3 b6 6. g3 Be7 7. Na3 Bb7 8. d3 a6
+9. Nc2 b5 10. Bg2 Qc7 11. O-O O-O 12. Kh1 Na5 13. Ng5 b4 14. c4 b3 15. Ne3 bxa2
+16. Rxa2 Nb3 17. Nh3 Nd4 18. Qd1 d6 19. Bd2 a5 20. Bc3 Nd7 21. g4 Bc6 22. g5
+Rfb8 23. Qh5 a4 24. Nf2 Rb3 25. Ra3 Rxa3 26. bxa3 Rb8 27. Nfg4 Qd8 28. Bxd4
+cxd4 29. Nc2 Nc5 30. Nxd4 Be8 31. f5 Bxg5 32. f6 Bxf6 33. Nxf6+ gxf6 34. Bh3
+Kf8 35. Qxh7 Qa5 36. Bxe6 Nxe4 37. Qxe4 fxe6 38. Qxe6 Qa8+ 39. Kg1 Rb2 40.
+Qxf6+ Kg8 41. Qf8+ Kh7 42. Rf7+ 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.14"]
+[Round "5"]
+[White "Goodman, David SC"]
+[Black "Gruchacz, Robert"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2375"]
+[BlackElo "2365"]
+[PlyCount "65"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bb4 7. Bd3 O-O 8. O-O
+Re8 9. a3 Bd6 10. e4 dxc4 11. Bxc4 e5 12. Be3 Qe7 13. Rfe1 exd4 14. Bxd4 Ne5
+15. Nxe5 Bxe5 16. Bxe5 Qxe5 17. Rad1 Ng4 18. g3 Qh5 19. h4 Ne5 20. Be2 Bg4 21.
+Kg2 Bf3+ 22. Bxf3 Qxf3+ 23. Kh2 Rad8 24. Rxd8 Rxd8 25. Qe2 h5 26. Kh3 Rd3 27.
+Qxf3 Nxf3 28. Rd1 Rxd1 29. Nxd1 Nd2 30. Nc3 Nc4 31. Nd1 Nd2 32. Nc3 Nc4 33. Nd1
+1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.14"]
+[Round "5"]
+[White "Van der Vliet, Fredrik"]
+[Black "Cummings, David H"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2380"]
+[BlackElo "2265"]
+[PlyCount "87"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Nbd7 11. Ba5 Rc8 12. Nbd2 Qe8 13. b4 Bd8 14. a4 e5 15.
+axb5 axb5 16. dxe5 Nxe5 17. Nxe5 Bxg2 18. Kxg2 Qxe5 19. Nf3 Qe6 20. Rfd1 Re8
+21. Nd4 Qd5+ 22. Kg1 Ng4 23. Qc6 Qxc6 24. Nxc6 Bf6 25. Ra2 Re6 26. Rc2 Rce8 27.
+e3 h5 28. Bxc7 h4 29. gxh4 Bxh4 30. Bg3 Bf6 31. Rd5 Ra8 32. Kg2 Ra1 33. Rxb5
+Rb1 34. Rbc5 g6 35. R5c4 Nh6 36. e4 Bg7 37. f3 f5 38. e5 g5 39. Rc1 Rb2+ 40.
+R4c2 Rxc2+ 41. Rxc2 f4 42. Bf2 Bxe5 43. b5 Bd6 44. b6 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.14"]
+[Round "5"]
+[White "Watson, William N"]
+[Black "Taulbut, Shaun M"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2300"]
+[BlackElo "2375"]
+[PlyCount "81"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bd2 c6 7. Bc4 e6 8.
+O-O Bb4 9. a3 Bxc3 10. Bxc3 Qc7 11. b3 O-O 12. Bb2 a5 13. a4 Nbd7 14. h3 b5 15.
+axb5 cxb5 16. Bd3 Bxd3 17. Qxd3 b4 18. c4 bxc3 19. Bxc3 h6 20. Ne5 Nxe5 21.
+dxe5 Nd5 22. Rfc1 Rfb8 23. Qc4 Qb6 24. Bd2 Qxb3 25. Qxb3 Rxb3 26. Rxa5 Rab8 27.
+Rac5 Kh7 28. g3 Rd3 29. R5c2 h5 30. h4 Kg6 31. Ra2 Rb7 32. Kg2 Kf5 33. Re1 Rd7
+34. Re2 Ne7 35. Bb4 Ng6 36. Bd6 Rd5 37. Ra3 Nh8 38. Ra8 Ng6 39. Ra3 Rd4 40. Re1
+Rc4 41. Kh3 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.15"]
+[Round "6"]
+[White "Chandler, Murray G"]
+[Black "Watson, William N"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2450"]
+[BlackElo "2300"]
+[PlyCount "101"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2 exd5
+9. cxd5 b6 10. a4 Ba6 11. Nb5 Re8 12. Nh3 h6 13. Be3 Kh7 14. Be2 Bb7 15. Nf2
+Na6 16. O-O Nc7 17. Ra3 Ncxd5 18. exd5 Nxd5 19. Bc4 Nxe3 20. Rxe3 Rxe3 21. Qxe3
+a6 22. Nc3 d5 23. Rd1 Bd4 24. Qf4 Qd7 25. Bf1 Re8 26. Rxd4 cxd4 27. Ng4 Re6 28.
+Ne2 f5 29. Qxh6+ Kg8 30. Nf2 Qg7 31. Qd2 Qe5 32. Nxd4 Qe3 33. Qxe3 Rxe3 34. Nd3
+Re7 35. Kf2 Kg7 36. h4 Kf6 37. g3 Rc7 38. Ke3 Re7+ 39. Kf4 a5 40. Nf2 Re1 41.
+Bd3 Ra1 42. b3 Ra2 43. Bc2 Ra1 44. Nd1 Ba6 45. Nc3 Bb7 46. Bb1 Ra3 47. Ba2 Ke7
+48. Nc2 d4 49. Nxa3 dxc3 50. Bb1 Bd5 51. Bc2 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.15"]
+[Round "6"]
+[White "Cummings, David H"]
+[Black "Day, Lawrence A"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2265"]
+[BlackElo "2385"]
+[PlyCount "81"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 Nc6 5. Rb1 Bd7 6. d3 a6 7. Bd2 Qc8 8. Qc1
+h5 9. h4 Ne5 10. b4 Bc6 11. f3 Nh6 12. b5 axb5 13. cxb5 Bd7 14. Nd5 Kd8 15. d4
+Be6 16. Nxe7 Nxf3+ 17. Nxf3 Kxe7 18. e4 Bg4 19. Qc4 Qe6 20. Qxc7+ Qd7 21. Qxd7+
+Kxd7 22. e5 Rxa2 23. Ng5 f6 24. Ne4 fxe5 25. Nc3 Rc2 26. Bxb7 exd4 27. Bc6+ Kc8
+28. Nd5 Nf5 29. Nb4 Rxc6 30. bxc6 Re8+ 31. Kf1 Nxg3+ 32. Kg1 Kc7 33. Rh2 Ne2+
+34. Kf1 d3 35. Nxd3 Kxc6 36. Nf2 Ng3+ 37. Kg1 Bd4 38. Rg2 Nf5 39. Kf1 Nxh4 40.
+Rh2 Nf3 41. Nxg4 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.15"]
+[Round "6"]
+[White "Gruchacz, Robert"]
+[Black "Van der Vliet, Fredrik"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2365"]
+[BlackElo "2380"]
+[PlyCount "70"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 13. Bd3 h6 14. Nxe6
+hxg5 15. Rde1 Rh4 16. Qd1 fxe6 17. Bg6+ Ke7 18. Rxe5 Nxe5 19. Qd2 Rf4 20. Rd1
+Nbc6 21. Qd6+ Kf6 22. Nd5+ Kxg6 23. Nxf4+ gxf4 24. Qxe6+ Kh7 25. Rd5 Rc8 26. a3
+Rc7 27. Qf5+ Kg8 28. Qxf4 Rf7 29. Qg3 Nc4 30. Rd1 Bc5 31. Re1 Nd4 32. h4 Nf5
+33. Qb8+ Bf8 34. g3 Nd4 35. g4 Rf2 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.15"]
+[Round "6"]
+[White "Speelman, Jonathan S"]
+[Black "Tisdall, Jonathan D"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2490"]
+[BlackElo "2350"]
+[PlyCount "61"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. Nf3 e6 2. d4 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. c4 dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Nc6 11. e3 Ra7 12. Rc1 Qa8 13. Ne1 Nd5 14. a3 Rd8 15. Nc3
+Nxc3 16. Qxc3 Rd6 17. Qb3 Bf6 18. Rc2 Qb8 19. Rac1 Ne7 20. Rxc7 Bxg2 21. Rxa7
+Bd5 22. Qb4 Nc6 23. Ra8 Qxa8 24. Qxd6 Qb7 25. Ba5 g5 26. Nd3 Be7 27. Qc7 Qa8
+28. Rxc6 Qxc6 29. Qxe7 Qc2 30. Ne1 Qe4 31. Qxg5+ 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.15"]
+[Round "6"]
+[White "Taulbut, Shaun M"]
+[Black "Goodman, David SC"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2375"]
+[BlackElo "2375"]
+[PlyCount "67"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 d6 3. c3 Bg7 4. Nf3 Nf6 5. Bd3 O-O 6. O-O Nc6 7. d5 Nb8 8. h3
+Nbd7 9. Re1 Nc5 10. Bc2 e5 11. dxe6 Bxe6 12. Nd4 Re8 13. Bg5 h6 14. Bh4 Bc8 15.
+Nd2 a5 16. f4 Qd7 17. Qf3 b6 18. Bxf6 Bxf6 19. e5 Bb7 20. Ne4 Bxe4 21. Bxe4
+Nxe4 22. Rxe4 Bg7 23. Rae1 dxe5 24. fxe5 Qd5 25. Kh1 Qxa2 26. e6 f5 27. R4e2
+Qc4 28. e7 c5 29. b3 Qa6 30. Nc6 c4 31. Qd5+ Kh7 32. Qf7 cxb3 33. Re6 g5 34.
+Ne5 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.16"]
+[Round "7"]
+[White "Day, Lawrence A"]
+[Black "Gruchacz, Robert"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "2385"]
+[BlackElo "2365"]
+[PlyCount "43"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. f4
+cxd4 9. Nf3 Nbc6 10. Nbxd4 Bd7 11. Be2 Qb6 12. O-O Nxd4 13. Qxd4 Qxd4+ 14. Nxd4
+Rac8 15. c3 Rc7 16. a4 a5 17. Rfc1 Rfc8 18. Bd3 Rf8 19. g3 Nc8 20. Rc2 Nb6 21.
+b3 Re8 22. Kf2 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.16"]
+[Round "7"]
+[White "Goodman, David SC"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2375"]
+[BlackElo "2450"]
+[PlyCount "56"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 Nc6 10. d5 Bxc3+ 11. Bd2 Bxd2+ 12. Qxd2 Nb8 13. h4 f6 14. h5 g5
+15. h6 e5 16. Nh2 b6 17. Ng4 Na6 18. g3 Bxg4 19. Bxg4 Qd6 20. f4 gxf4 21. gxf4
+Kh8 22. Be6 exf4 23. Rg1 Nc7 24. Bf5 Rg8 25. Kf2 f3 26. Kxf3 Nb5 27. Rg7 Rxg7
+28. hxg7+ Kxg7 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.16"]
+[Round "7"]
+[White "Tisdall, Jonathan D"]
+[Black "Cummings, David H"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2350"]
+[BlackElo "2265"]
+[PlyCount "71"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. Nc3 O-O 8. b3 a6
+9. Bb2 Nbd7 10. Qe2 c5 11. cxd5 exd5 12. Rac1 Re8 13. Bf5 Ne4 14. dxc5 Nxc3 15.
+Bxc3 bxc5 16. Qd3 Nf8 17. Rfd1 Ng6 18. g3 a5 19. Rd2 Qb6 20. Ba1 Rad8 21. Bh3
+Bf8 22. Bg2 h6 23. Qc2 Qa7 24. Qd1 Qa8 25. Ne1 Be7 26. Qf3 Rd7 27. Qf5 Red8 28.
+Nd3 Qa7 29. h4 Bf8 30. h5 Ne7 31. Qg4 Nc6 32. Nxc5 f5 33. Qxf5 Bxc5 34. Rxd5
+Rxd5 35. Bxd5+ Kh8 36. Bxg7+ 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.16"]
+[Round "7"]
+[White "Van der Vliet, Fredrik"]
+[Black "Taulbut, Shaun M"]
+[Result "0-1"]
+[ECO "E66"]
+[WhiteElo "2380"]
+[BlackElo "2375"]
+[PlyCount "82"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. Nc3 Rb8 8. d5
+Na5 9. Nd2 c5 10. Qc2 e6 11. dxe6 Bxe6 12. b3 d5 13. cxd5 Nxd5 14. Bb2 Nb4 15.
+Qc1 Nac6 16. a3 Nd4 17. Qd1 Nbc6 18. Rb1 Na5 19. b4 cxb4 20. axb4 Nc4 21. Nxc4
+Bxc4 22. Re1 Bb3 23. Qc1 Rc8 24. Qf4 Bc2 25. Rbc1 Ne6 26. Qf3 Ng5 27. Qxb7 Bxc3
+28. Bxc3 Rxc3 29. Qxa7 Qc7 30. Qxc7 Rxc7 31. b5 Rb8 32. Bc6 Be4 33. h4 Bxc6 34.
+hxg5 Rxb5 35. Rc4 Kf8 36. Rec1 Rb6 37. f3 Ke7 38. Kf2 Kd7 39. Rd1+ Kc8 40. Rdc1
+Kb7 41. Rh1 Rb2 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.16"]
+[Round "7"]
+[White "Watson, William N"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "2300"]
+[BlackElo "2490"]
+[PlyCount "28"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 Qa5+ 12. Bd2 Qc7 13. O-O e6 14. Qe2 O-O-O
+1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.17"]
+[Round "8"]
+[White "Chandler, Murray G"]
+[Black "Van der Vliet, Fredrik"]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[WhiteElo "2450"]
+[BlackElo "2380"]
+[PlyCount "77"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 Nbd7 7. h3 O-O 8. Nf3 a6
+9. Be3 Ne8 10. Qe2 Kh8 11. g4 g6 12. Bh6 Ng7 13. O-O-O Nf6 14. Rdg1 Bd7 15. Nd2
+Ng8 16. Be3 f5 17. gxf5 gxf5 18. f4 Bf6 19. exf5 Nxf5 20. Bxf5 Bxf5 21. Nde4 b5
+22. Nxf6 Qxf6 23. cxb5 axb5 24. Qxb5 exf4 25. Bxf4 Bg6 26. Rf1 Rfe8 27. Bd2 Qe5
+28. Qc4 Nf6 29. Qf4 Qxf4 30. Rxf4 Nd7 31. Nb5 Rxa2 32. Bc3+ Kg8 33. Kd2 Nb6 34.
+Nc7 Rc8 35. Rhf1 Ra7 36. Ne6 Rf7 37. Rxf7 Bxf7 38. Rg1+ Bg6 39. Nf4 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.17"]
+[Round "8"]
+[White "Gruchacz, Robert"]
+[Black "Tisdall, Jonathan D"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2365"]
+[BlackElo "2350"]
+[PlyCount "26"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 Be7 7. e3 c6 8.
+Bd3 O-O 9. Qc2 Re8 10. h3 Nf8 11. O-O-O Qa5 12. Kb1 Be6 13. g4 Ne4 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.17"]
+[Round "8"]
+[White "Speelman, Jonathan S"]
+[Black "Cummings, David H"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2490"]
+[BlackElo "2265"]
+[PlyCount "101"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. O-O Nec6 7. Nxc6 Nxc6 8.
+Bf4 d6 9. Nd2 Be7 10. a4 Ne5 11. Nc4 Qc7 12. b3 O-O 13. a5 Nxc4 14. Bxc4 b5 15.
+axb6 Qxb6 16. Qh5 Bb7 17. Rfe1 Rac8 18. Qe2 Bf6 19. Ra4 Ra8 20. Bd3 Rfd8 21.
+Be3 Qc7 22. Bd4 Bxd4 23. Rxd4 a5 24. e5 dxe5 25. Qxe5 Qxe5 26. Rxd8+ Rxd8 27.
+Rxe5 Rd5 28. Rxd5 Bxd5 29. f4 Kf8 30. Kf2 Ke7 31. g3 h6 32. Ke3 Kd6 33. Be4 Kc5
+34. Bxd5 exd5 35. c3 Kd6 36. Kd4 f6 37. g4 Kc6 38. h3 Kd6 39. h4 Kc6 40. g5
+hxg5 41. fxg5 fxg5 42. hxg5 Kd6 43. g6 Kc6 44. Ke5 Kc5 45. Ke6 d4 46. cxd4+
+Kxd4 47. Kf7 Kc3 48. Kxg7 Kxb3 49. Kf6 a4 50. g7 a3 51. g8=Q+ 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.17"]
+[Round "8"]
+[White "Taulbut, Shaun M"]
+[Black "Day, Lawrence A"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2375"]
+[BlackElo "2385"]
+[PlyCount "56"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. d4 d6 3. Nc3 Bf5 4. g3 h6 5. Bg2 Qc8 6. O-O c6 7. Nh4 Bh7 8. f4
+d5 9. f5 Nbd7 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bg2 g5 14. fxg6 fxg6
+15. c3 Bg7 16. Qb3 g5 17. Nf3 Bg8 18. Qc2 Bh7 19. Qe2 O-O 20. Bd2 Qd7 21. Rae1
+Rae8 22. b3 Ne4 23. Ne5 Rxf1+ 24. Kxf1 Qf5+ 25. Kg1 Bxe5 26. Bxe4 Qxe4 27. Qxe4
+Bxe4 28. Rxe4 Bf6 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.17"]
+[Round "8"]
+[White "Watson, William N"]
+[Black "Goodman, David SC"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2300"]
+[BlackElo "2375"]
+[PlyCount "23"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Nf3 Nf6 5. Bg5 h6 6. Bf4 Bg4 7. h3 Bxf3 8. Qxf3
+Nfd7 9. e5 Nc6 10. O-O-O Qc8 11. exd6 cxd6 12. Qe3 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.18"]
+[Round "9"]
+[White "Cummings, David H"]
+[Black "Gruchacz, Robert"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2265"]
+[BlackElo "2365"]
+[PlyCount "25"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Bg7 4. Bg2 Nc6 5. Rb1 Rb8 6. a3 a6 7. b4 cxb4 8. axb4
+b5 9. cxb5 axb5 10. Nf3 e6 11. d4 d5 12. Bf4 Rb6 13. O-O 1/2-1/2
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.18"]
+[Round "9"]
+[White "Day, Lawrence A"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2385"]
+[BlackElo "2450"]
+[PlyCount "97"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. g3 c5 2. Bg2 d5 3. d3 Nc6 4. c4 Nf6 5. Bg5 dxc4 6. Bxc6+ bxc6 7. dxc4 Qd4 8.
+Qb3 Ng4 9. Be3 Nxe3 10. fxe3 Qf6 11. Nc3 g6 12. Nf3 Bh6 13. Qa3 Qe6 14. Qxc5
+Bxe3 15. Nd4 Qf6 16. Ne4 Qxd4 17. Qxc6+ Kf8 18. Qxa8 Qxb2 19. Rd1 Kg7 20. Qd5
+Bb7 21. Qd3 Qb4+ 22. Kf1 Rd8 23. Qc3+ Qxc3 24. Nxc3 Rc8 25. Nd5 Bc5 26. e4 e6
+27. Ke2 exd5 28. exd5 Ba6 29. Kd3 Ba3 30. Rc1 Bxc1 31. Rxc1 Kf6 32. Kd4 Ke7 33.
+c5 Rb8 34. d6+ Kd7 35. Kd5 Rb5 36. Re1 Bb7+ 37. Kd4 Rb4+ 38. Ke5 f5 39. Kf6 Be4
+40. Kg7 Rc4 41. Kxh7 g5 42. h4 gxh4 43. gxh4 Rxc5 44. Kg7 Kxd6 45. h5 Ke5 46.
+h6 f4 47. a4 f3 48. Rf1 Rc7+ 49. Kg8 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.18"]
+[Round "9"]
+[White "Goodman, David SC"]
+[Black "Speelman, Jonathan S"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2375"]
+[BlackElo "2490"]
+[PlyCount "66"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 g6 6. Bf4 Bg7 7. h3 O-O 8. Qd2 d6
+9. Rd1 Qe7 10. Bg5 c5 11. d5 exd5 12. cxd5 Re8 13. e3 h6 14. Bf4 a6 15. a4 Ne4
+16. Qc2 Nxc3 17. bxc3 Qf6 18. Be2 g5 19. Bg3 Qxc3+ 20. Qxc3 Bxc3+ 21. Kf1 Nd7
+22. Nd2 Bxd2 23. Rxd2 Nf6 24. Bf3 Rad8 25. Bh2 b5 26. Ke2 b4 27. a5 Bc8 28. g4
+Bd7 29. Rb1 Bb5+ 30. Ke1 Kg7 31. Bg3 Kg6 32. h4 Ne4 33. Bxe4+ Rxe4 0-1
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.18"]
+[Round "9"]
+[White "Tisdall, Jonathan D"]
+[Black "Taulbut, Shaun M"]
+[Result "1-0"]
+[ECO "E77"]
+[WhiteElo "2350"]
+[BlackElo "2375"]
+[PlyCount "47"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. d5 e6 8. Nf3 exd5
+9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O Bf5 14. Nxe5 Bxe5 15.
+g4 Bd4+ 16. Kh1 Bd7 17. Ne4 Bb5 18. b4 Qxb4 19. Rb1 Bxe2 20. Qxe2 Qa4 21. Rxb7
+Nd7 22. Be7 Rfe8 23. Nd6 Ne5 24. Nxf7 1-0
+
+[Event "Competence Computers Int"]
+[Site "Brighton"]
+[Date "1980.12.18"]
+[Round "9"]
+[White "Watson, William N"]
+[Black "Van der Vliet, Fredrik"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[WhiteElo "2300"]
+[BlackElo "2380"]
+[PlyCount "36"]
+[EventDate "1980.12.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "EXT 2018"]
+[Source "ChessBase"]
+[SourceDate "2017.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+c6 9. h3 Qb6 10. Re1 Ne8 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Be3 Qxb2 14. Qb3 Qxb3
+15. axb3 Nc7 16. Bxa7 Ne6 17. Bb6 Bd7 18. Rad1 Nd4 1/2-1/2
+

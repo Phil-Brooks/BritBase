@@ -1,0 +1,1872 @@
+[
+  {
+    "Year": 1980,
+    "Name": "SCCU Champ'ship",
+    "Winner": "Peter Large, David Cummings",
+    "StartDate": "1980.04.04",
+    "EndDate": "1980.04.07",
+    "GamesCount": "17",
+    "DateUpdated": "2025.10.25",
+    "PgnFileName": "198004sutton.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Surrey Open",
+    "Winner": "John Nunn, Gyula Sax",
+    "StartDate": "1980.04.04",
+    "EndDate": "1980.04.07",
+    "GamesCount": "12^",
+    "DateUpdated": "2025.10.25",
+    "PgnFileName": "198004sutton.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Phillips & Drew Kings",
+    "Winner": "Miles Korchnoi Andersson",
+    "StartDate": "1980.04.10",
+    "EndDate": "1980.04.25",
+    "GamesCount": "91",
+    "DateUpdated": "2020.08.25",
+    "PgnFileName": "198004phillipsdrew.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Phillips & Drew Kts",
+    "Winner": "vd Sterren, Botterill",
+    "StartDate": "1980.04.11",
+    "EndDate": "1980.04.25",
+    "GamesCount": "105^",
+    "DateUpdated": "2020.08.25",
+    "PgnFileName": "198004phillipsdrew.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Florin Gheorghiu",
+    "StartDate": "1980.08.20",
+    "EndDate": "1980.08.28",
+    "GamesCount": "132",
+    "DateUpdated": "2021.02.28",
+    "PgnFileName": "198008lloyds.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Lloyds Bank Juniors",
+    "Winner": "1980.08.20",
+    "StartDate": "1980.08.28",
+    "EndDate": "3^",
+    "GamesCount": "2021.02.28",
+    "DateUpdated": "",
+    "PgnFileName": "198008lloyds.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "GBR-ch Brighton",
+    "Winner": "Nunn, Hartston",
+    "StartDate": "1980.08.04",
+    "EndDate": "1980.08.15",
+    "GamesCount": "220",
+    "DateUpdated": "2019.03.30",
+    "PgnFileName": "198008bcf.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "GBR-ch other",
+    "Winner": "1980.08.04",
+    "StartDate": "1980.08.15",
+    "EndDate": "15^",
+    "GamesCount": "2019.03.30",
+    "DateUpdated": "",
+    "PgnFileName": "198008bcf.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "GBR-ch Play-Off",
+    "Winner": "Nunn bt Hartston",
+    "StartDate": "1981.02.13",
+    "EndDate": "1981.02.17",
+    "GamesCount": "6^",
+    "DateUpdated": "2019.03.28",
+    "PgnFileName": "198008bcf.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Manchester Bened.",
+    "Winner": "John Nunn",
+    "StartDate": "1980.09.03",
+    "EndDate": "1980.09.11",
+    "GamesCount": "104",
+    "DateUpdated": "2024.02.18",
+    "PgnFileName": "198009benedictine.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Guernsey Open 6th",
+    "Winner": "five-way tie",
+    "StartDate": "1980.10.19",
+    "EndDate": "1980.10.25",
+    "GamesCount": "14",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": "198010guernsey.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Jersey International",
+    "Winner": "Ian D Wells",
+    "StartDate": "1980.10.26",
+    "EndDate": "1980.11.01",
+    "GamesCount": "53",
+    "DateUpdated": "2026.05.08",
+    "PgnFileName": "198010jersey.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Brighton",
+    "Winner": "Chandler, Speelman",
+    "StartDate": "1980.12.10",
+    "EndDate": "1980.12.18",
+    "GamesCount": "45",
+    "DateUpdated": "2020.08.19",
+    "PgnFileName": "198012brighton.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Welsh Champ 1981",
+    "Winner": "A Howard Williams",
+    "StartDate": "1980.12.28",
+    "EndDate": "1981.01.03",
+    "GamesCount": "28",
+    "DateUpdated": "2020.08.28",
+    "PgnFileName": "198012wales.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Hastings Premier",
+    "Winner": "Ulf Andersson",
+    "StartDate": "1980.12.29",
+    "EndDate": "1981.01.15",
+    "GamesCount": "120",
+    "DateUpdated": "2022.07.04",
+    "PgnFileName": "198012hast.pgn"
+  },
+  {
+    "Year": 1980,
+    "Name": "Hastings Challengers",
+    "Winner": "M Rivas",
+    "StartDate": "1980.12.29",
+    "EndDate": "1981.01.08",
+    "GamesCount": "51+9^",
+    "DateUpdated": "2022.12.07",
+    "PgnFileName": "198012hast.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "ARC Young Masters 1st",
+    "Winner": "Murray Chandler",
+    "StartDate": "1981.02.27",
+    "EndDate": "1981.03.01",
+    "GamesCount": "138",
+    "DateUpdated": "2022.08.01",
+    "PgnFileName": "198102arcyoungmasters.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Botvinnik Simul",
+    "Winner": "Botvinnik 4½-3½",
+    "StartDate": "1981.04.08",
+    "EndDate": "4+1",
+    "GamesCount": "2024.06.24",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1981,
+    "Name": "West of England Ch",
+    "Winner": "Peter H Clarke",
+    "StartDate": "1981.04.16",
+    "EndDate": "1981.04.19",
+    "GamesCount": "34",
+    "DateUpdated": "2024.07.19",
+    "PgnFileName": "198104wecu.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "West of England other",
+    "Winner": "1981.04.16",
+    "StartDate": "1981.04.19",
+    "EndDate": "6^",
+    "GamesCount": "2024.07.19",
+    "DateUpdated": "",
+    "PgnFileName": "198104wecu.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "SCCU Champ'ship",
+    "Winner": "John Pigott",
+    "StartDate": "1981.04.17",
+    "EndDate": "1981.04.20",
+    "GamesCount": "6",
+    "DateUpdated": "2025.12.07",
+    "PgnFileName": "198104wecu.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Surrey Open",
+    "Winner": "M Franklin, B Jacobs",
+    "StartDate": "1981.04.17",
+    "EndDate": "1981.04.20",
+    "GamesCount": "7^",
+    "DateUpdated": "2025.12.07",
+    "PgnFileName": "198104wecu.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Staffordshire Open",
+    "Winner": "John Carleton",
+    "StartDate": "1981.05.23",
+    "EndDate": "1981.05.27",
+    "GamesCount": "87",
+    "DateUpdated": "2023.12.18",
+    "PgnFileName": "198105staffs.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "GBR-ch Morecambe",
+    "Winner": "Paul Littlewood",
+    "StartDate": "1981.08.03",
+    "EndDate": "1981.08.14",
+    "GamesCount": "286",
+    "DateUpdated": "2019.06.20",
+    "PgnFileName": "198108bcf.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "GBR-ch other",
+    "Winner": "1981.08.03",
+    "StartDate": "1981.08.14",
+    "EndDate": "4^",
+    "GamesCount": "2022.12.20",
+    "DateUpdated": "",
+    "PgnFileName": "198108bcf.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Keene, Seirawan, Miles",
+    "StartDate": "1981.08.25",
+    "EndDate": "1981.09.02",
+    "GamesCount": "129+7",
+    "DateUpdated": "2025.08.02",
+    "PgnFileName": "198108lloyds.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Berks & Bucks C'gress",
+    "Winner": "W Hartston, S Taulbut",
+    "StartDate": "1981.08.28",
+    "EndDate": "1981.08.31",
+    "GamesCount": "10",
+    "DateUpdated": "2026.06.15",
+    "PgnFileName": "198108bcf.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Manchester Bened.",
+    "Winner": "Tony Miles",
+    "StartDate": "1981.09.04",
+    "EndDate": "1981.09.12",
+    "GamesCount": "116",
+    "DateUpdated": "2020.09.06",
+    "PgnFileName": "198109benedictine.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Guernsey Open 7th",
+    "Winner": "five-way tie",
+    "StartDate": "1981.10.18",
+    "EndDate": "1981.10.24",
+    "GamesCount": "14",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1981,
+    "Name": "Lewisham Intern'l",
+    "Winner": "Mark Hebden",
+    "StartDate": "1981.11.24",
+    "EndDate": "1981.12.03",
+    "GamesCount": "173",
+    "DateUpdated": "2023.07.16",
+    "PgnFileName": "198111lewisham.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Regency Ramsgate",
+    "Winner": "John Fedorowicz",
+    "StartDate": "1981.12.05",
+    "EndDate": "1981.12.13",
+    "GamesCount": "249",
+    "DateUpdated": "2021.09.05",
+    "PgnFileName": "198112ramsgate.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Brighton",
+    "Winner": "Murray Chandler",
+    "StartDate": "1981.12.13",
+    "EndDate": "1981.12.21",
+    "GamesCount": "45",
+    "DateUpdated": "2020.09.06",
+    "PgnFileName": "198112brighton.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Hastings Premier",
+    "Winner": "Viktor Kupreichik",
+    "StartDate": "1981.12.28",
+    "EndDate": "1982.01.12",
+    "GamesCount": "91",
+    "DateUpdated": "2025.01.04",
+    "PgnFileName": "198112hast.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Hastings Challengers",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1981.12.28",
+    "EndDate": "1982.01.07",
+    "GamesCount": "10^",
+    "DateUpdated": "2025.08.02",
+    "PgnFileName": "198112hast.pgn"
+  },
+  {
+    "Year": 1981,
+    "Name": "Hastings other",
+    "Winner": "1981.12.28",
+    "StartDate": "1982.01.07",
+    "EndDate": "6^",
+    "GamesCount": "Hastings",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1981,
+    "Name": "Welsh Champ 1982",
+    "Winner": "A Howard Williams",
+    "StartDate": "1981.12",
+    "EndDate": "1982.01",
+    "GamesCount": "28",
+    "DateUpdated": "2020.09.06",
+    "PgnFileName": "198112wales.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Kings Head Inter'l",
+    "Winner": "Jonathan Tisdall",
+    "StartDate": "1982.01.31",
+    "EndDate": "1982.02.07",
+    "GamesCount": "45",
+    "DateUpdated": "2020.10.14",
+    "PgnFileName": "198201kingshead.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "ARC Young Masters 2nd",
+    "Winner": "Speelman, Britton, Martin",
+    "StartDate": "1982.02.26",
+    "EndDate": "1982.02.28",
+    "GamesCount": "9",
+    "DateUpdated": "2025.10.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1982,
+    "Name": "Sweden v England",
+    "Winner": "England (by 9½-6½)",
+    "StartDate": "1982.03.13",
+    "EndDate": "1982.03.14",
+    "GamesCount": "16+1",
+    "DateUpdated": "2025.12.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1982,
+    "Name": "Karpov simul, 25 bds",
+    "Winner": "Karpov 16, ENG Juniors 9",
+    "StartDate": "1982.04.13",
+    "EndDate": "bulletin",
+    "GamesCount": "5",
+    "DateUpdated": "2026.04.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1982,
+    "Name": "London GLC Kings",
+    "Winner": "Andersson, Karpov",
+    "StartDate": "1982.04.15",
+    "EndDate": "1982.04.30",
+    "GamesCount": "91",
+    "DateUpdated": "2026.01.11",
+    "PgnFileName": "198204londonpdglc.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "London GLC Kts",
+    "Winner": "William Watson",
+    "StartDate": "1982.04.15",
+    "EndDate": "1982.04.30",
+    "GamesCount": "120^",
+    "DateUpdated": "2026.01.11",
+    "PgnFileName": "198204londonpdglc.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Robert Silk YM",
+    "Winner": "William Watson",
+    "StartDate": "1982.07.13",
+    "EndDate": "1982.07.22",
+    "GamesCount": "45",
+    "DateUpdated": "2007.05.02",
+    "PgnFileName": "198207robertsilk.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "GBR-ch Torquay",
+    "Winner": "Tony Miles",
+    "StartDate": "1982.08.02",
+    "EndDate": "1982.08.13",
+    "GamesCount": "308",
+    "DateUpdated": "2020.09.18",
+    "PgnFileName": "198208bcf.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "GBR-ch other",
+    "Winner": "1982.08.02",
+    "StartDate": "1982.08.13",
+    "EndDate": "2^",
+    "GamesCount": "2021.08.19",
+    "DateUpdated": "",
+    "PgnFileName": "198208bcf.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Tony Miles",
+    "StartDate": "1982.08.25",
+    "EndDate": "1982.09.02",
+    "GamesCount": "149",
+    "DateUpdated": "2022.12.30",
+    "PgnFileName": "198208lloyds.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Berks & Bucks C'gress",
+    "Winner": "William Hartston",
+    "StartDate": "1982.08.27",
+    "EndDate": "1982.08.30",
+    "GamesCount": "10",
+    "DateUpdated": "2026.06.15",
+    "PgnFileName": "198208bcf.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Manchester Benedict.",
+    "Winner": "Miles, Kudrin",
+    "StartDate": "1982.09.08",
+    "EndDate": "1982.09.16",
+    "GamesCount": "111+6",
+    "DateUpdated": "2020.11.05",
+    "PgnFileName": "198209benedictine.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Guernsey Open 8th",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1982.10.17",
+    "EndDate": "1982.10.23",
+    "GamesCount": "15",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1982,
+    "Name": "Lewisham Int'l",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1982.11.22",
+    "EndDate": "1982.12.01",
+    "GamesCount": "88",
+    "DateUpdated": "2023.01.24",
+    "PgnFileName": "198211lewisham.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Regency Ramsgate",
+    "Winner": "Mark Hebden",
+    "StartDate": "1982.12.04",
+    "EndDate": "1982.12.12",
+    "GamesCount": "92",
+    "DateUpdated": "2021.10.13",
+    "PgnFileName": "198212ramsgate.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Brighton Kt Flight",
+    "Winner": "3-way-tie",
+    "StartDate": "1982.12.13",
+    "EndDate": "1982.12.21",
+    "GamesCount": "55",
+    "DateUpdated": "2022.12.24",
+    "PgnFileName": "198212brighton.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Hastings Premier",
+    "Winner": "Rafael Vaganian",
+    "StartDate": "1982.12.28",
+    "EndDate": "1983.01.12",
+    "GamesCount": "91",
+    "DateUpdated": "2025.01.09",
+    "PgnFileName": "198212hast.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Hastings Challengers",
+    "Winner": "Andrew D Martin",
+    "StartDate": "1982.12.28",
+    "EndDate": "1983.01.12",
+    "GamesCount": "4^",
+    "DateUpdated": "2026.01.21",
+    "PgnFileName": "198212hast.pgn"
+  },
+  {
+    "Year": 1982,
+    "Name": "Hastings other",
+    "Winner": "1982.12.28",
+    "StartDate": "1983.01.12",
+    "EndDate": "0",
+    "GamesCount": "See Hastings Page",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "ARC Young Masters 3rd",
+    "Winner": "Kosten, Nunn, P Littlewood, Short",
+    "StartDate": "1983.02.25",
+    "EndDate": "1983.02.27",
+    "GamesCount": "15",
+    "DateUpdated": "2025.10.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "Midland Indiv Champ",
+    "Winner": "Geoff Lawton",
+    "StartDate": "1983.03.25",
+    "EndDate": "1983.03.27",
+    "GamesCount": "30",
+    "DateUpdated": "2023.07.08",
+    "PgnFileName": "198303mccu.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "BBC TV Master Game",
+    "Winner": "Tony Miles",
+    "StartDate": "1983.04",
+    "EndDate": "(25)",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "Charlton",
+    "Winner": "Hebden, Plaskett, etc",
+    "StartDate": "1983.04.05",
+    "EndDate": "1983.04.15",
+    "GamesCount": "96+17",
+    "DateUpdated": "1998.11.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Yuri Razuvaev",
+    "StartDate": "1983.08.24",
+    "EndDate": "1983.09.01",
+    "GamesCount": "142+1",
+    "DateUpdated": "2026.05.11",
+    "PgnFileName": "198308lloyds.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "GBR-ch Southport",
+    "Winner": "Jonathan Mestel",
+    "StartDate": "1983.08.08",
+    "EndDate": "1983.08.19",
+    "GamesCount": "319",
+    "DateUpdated": "2023.01.13",
+    "PgnFileName": "198308bcf.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "GBR-ch others",
+    "Winner": "1983.08.08",
+    "StartDate": "1983.08.19",
+    "EndDate": "35^",
+    "GamesCount": "2024.09.14",
+    "DateUpdated": "",
+    "PgnFileName": "198308bcf.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "Manchester Benedict.",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1983.09.07",
+    "EndDate": "1983.09.15",
+    "GamesCount": "103/225",
+    "DateUpdated": "2022.07.10",
+    "PgnFileName": "198309benedictine.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "Guernsey Open 9th",
+    "Winner": "Bruno Carlier",
+    "StartDate": "1983.10.16",
+    "EndDate": "1983.10.22",
+    "GamesCount": "14",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "BBC TV Master Game",
+    "Winner": "Anatoly Karpov",
+    "StartDate": "1983.11",
+    "EndDate": "0",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "London Candidates",
+    "Winner": "Kasparov, Korchnoi",
+    "StartDate": "1983.11.21",
+    "EndDate": "1983.12.16",
+    "GamesCount": "(11)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "London Candidates",
+    "Winner": "Smyslov, Ribli",
+    "StartDate": "1983.11.21",
+    "EndDate": "1983.12.16",
+    "GamesCount": "(11)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "Lewisham Int'l",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1983.11.24",
+    "EndDate": "1983.12.02",
+    "GamesCount": "101",
+    "DateUpdated": "2022.04.19",
+    "PgnFileName": "198311lewisham.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "Lewisham others",
+    "Winner": "1983.11.24",
+    "StartDate": "1983.12.02",
+    "EndDate": "7^",
+    "GamesCount": "2021.08.11",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "Regency Ramsgate",
+    "Winner": "Mark Hebden",
+    "StartDate": "1983.12.03",
+    "EndDate": "1983.12.11",
+    "GamesCount": "100/222",
+    "DateUpdated": "2021.10.14",
+    "PgnFileName": "198312ramsgate.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "Brighton",
+    "Winner": "John Nunn",
+    "StartDate": "1983.12.12",
+    "EndDate": "1983.12.20",
+    "GamesCount": "45",
+    "DateUpdated": "2022.07.11",
+    "PgnFileName": "198312brighton.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "Welsh Champ 1984",
+    "Winner": "John G Cooper",
+    "StartDate": "1983.12.27",
+    "EndDate": "1984.01.02",
+    "GamesCount": "28",
+    "DateUpdated": "2026.01.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "Hastings Premier",
+    "Winner": "L Karlsson, J Speelman",
+    "StartDate": "1983.12.28",
+    "EndDate": "1984.01.12",
+    "GamesCount": "91",
+    "DateUpdated": "2025.01.02",
+    "PgnFileName": "198312hast.pgn"
+  },
+  {
+    "Year": 1983,
+    "Name": "Hastings Challengers",
+    "Winner": "G Flear, K Berg",
+    "StartDate": "1983.12.28",
+    "EndDate": "1984.01.06",
+    "GamesCount": "19^",
+    "DateUpdated": "2026.05.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1983,
+    "Name": "Hastings other",
+    "Winner": "1983.12.28",
+    "StartDate": "1984.01.08",
+    "EndDate": "7^",
+    "GamesCount": "See Hastings Page",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Midland Individ Ch",
+    "Winner": "Mark Hebden",
+    "StartDate": "1984.02.17",
+    "EndDate": "1984.02.19",
+    "GamesCount": "26",
+    "DateUpdated": "2022.08.23",
+    "PgnFileName": "198402mccu.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "ARC Young Masters 4th",
+    "Winner": "Flear, P Littlewood, Speelman",
+    "StartDate": "1984.02.24",
+    "EndDate": "1984.02.26",
+    "GamesCount": "13",
+    "DateUpdated": "2025.10.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Oakham Masters",
+    "Winner": "Niaz Murshed",
+    "StartDate": "1984.04.08",
+    "EndDate": "1984.04.17",
+    "GamesCount": "180",
+    "DateUpdated": "2023.08.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "West of England Ch",
+    "Winner": "Gary W Lane",
+    "StartDate": "1984.04.19",
+    "EndDate": "1984.04.23",
+    "GamesCount": "37+2",
+    "DateUpdated": "2024.07.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Phillips & D/GLC Kings",
+    "Winner": "Anatoly Karpov",
+    "StartDate": "1984.04.26",
+    "EndDate": "1984.05.11",
+    "GamesCount": "91",
+    "DateUpdated": "2022.07.11",
+    "PgnFileName": "198404londonpdglc.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Phillips & D/GLC Kts",
+    "Winner": "D Johansen, P Large",
+    "StartDate": "1984.04.26",
+    "EndDate": "1984.05.11",
+    "GamesCount": "111^",
+    "DateUpdated": "2022.07.11",
+    "PgnFileName": "198404londonpdglc.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "USSR-World Match",
+    "Winner": "USSR",
+    "StartDate": "1984.06.24",
+    "EndDate": "1984.06.29",
+    "GamesCount": "(40)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Oxford International",
+    "Winner": "Gert Ligterink",
+    "StartDate": "1984.06.25",
+    "EndDate": "1984.07.03",
+    "GamesCount": "45",
+    "DateUpdated": "2021.06.19",
+    "PgnFileName": "198406oxford.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "SCO Centenary, Troon",
+    "Winner": "Lev Psakhis",
+    "StartDate": "1984.07.12",
+    "EndDate": "1984.07.20",
+    "GamesCount": "45",
+    "DateUpdated": "2024.02.18",
+    "PgnFileName": "198407bcf.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "SCO Open Ch'ship",
+    "Winner": "1984.07.14",
+    "StartDate": "1984.07.20",
+    "EndDate": "15^",
+    "GamesCount": "2024.02.18",
+    "DateUpdated": "",
+    "PgnFileName": "198407bcf.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Robert Silk YM",
+    "Winner": "William Hartston",
+    "StartDate": "1984.07.15",
+    "EndDate": "1984.07.23",
+    "GamesCount": "45",
+    "DateUpdated": "2022.07.11",
+    "PgnFileName": "198407robertsilk.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Robert Silk Lady M",
+    "Winner": "N Hoiberg",
+    "StartDate": "1984.07.15",
+    "EndDate": "1984.07.23",
+    "GamesCount": "45^",
+    "DateUpdated": "2022.07.11",
+    "PgnFileName": "198407bcf.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Glorney Cup ENG",
+    "Winner": "England",
+    "StartDate": "1984.07.15",
+    "EndDate": "1984.07.18",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": "198407bcf.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "GBR-ch Brighton",
+    "Winner": "Nigel Short",
+    "StartDate": "1984.07.30",
+    "EndDate": "1984.08.10",
+    "GamesCount": "347",
+    "DateUpdated": "2020.09.17",
+    "PgnFileName": "198407bcf.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "GBR-ch others",
+    "Winner": "1984.07.30",
+    "StartDate": "1984.08.10",
+    "EndDate": "33^",
+    "GamesCount": "2024.07.12",
+    "DateUpdated": "",
+    "PgnFileName": "198407bcf.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Lloyds Bank Under-21",
+    "Winner": "Viswanathan Anand",
+    "StartDate": "1984.08.20",
+    "EndDate": "1984.08.21",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "John Nunn",
+    "StartDate": "1984.08.22",
+    "EndDate": "1984.08.30",
+    "GamesCount": "184",
+    "DateUpdated": "2021.07.05",
+    "PgnFileName": "198408lloyds.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Lewisham Int'l",
+    "Winner": "M Hebden, G de Boer",
+    "StartDate": "1984.09.04",
+    "EndDate": "1984.09.14",
+    "GamesCount": "112",
+    "DateUpdated": "2021.08.19",
+    "PgnFileName": "198409lewisham.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "NatWest YM",
+    "Winner": "4-way tie",
+    "StartDate": "1984.09",
+    "EndDate": "1984.10.06",
+    "GamesCount": "45",
+    "DateUpdated": "2024.02.19",
+    "PgnFileName": "198409londonnwym.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Chequers Tournament",
+    "Winner": "Gavin Crawley",
+    "StartDate": "1984.10?",
+    "EndDate": "(45)",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Guernsey Open 10th",
+    "Winner": "Bruno Carlier, Mark Hebden",
+    "StartDate": "1984.10.14",
+    "EndDate": "1984.10.20",
+    "GamesCount": "8",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Regency Ramsgate",
+    "Winner": "4-way tie",
+    "StartDate": "1984.12.08",
+    "EndDate": "1984.12.16",
+    "GamesCount": "212",
+    "DateUpdated": "2021.08.19",
+    "PgnFileName": "198412ramsgate.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Brighton Zonal",
+    "Winner": "Jonathan Speelman",
+    "StartDate": "1984.12.12",
+    "EndDate": "1984.12.20",
+    "GamesCount": "45",
+    "DateUpdated": "2022.07.12",
+    "PgnFileName": "198412brightonzonal.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Welsh Champ 1985",
+    "Winner": "John G Cooper",
+    "StartDate": "1984.12.27",
+    "EndDate": "1985.01.02",
+    "GamesCount": "28",
+    "DateUpdated": "2022.07.11",
+    "PgnFileName": "198412wlschamp.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Hastings Premier",
+    "Winner": "Evgeny Sveshnikov",
+    "StartDate": "1984.12.29",
+    "EndDate": "1985.01.13",
+    "GamesCount": "91",
+    "DateUpdated": "2025.06.19",
+    "PgnFileName": "198412hast.pgn"
+  },
+  {
+    "Year": 1984,
+    "Name": "Hastings Challengers",
+    "Winner": "Ed Formanek",
+    "StartDate": "1984.12.29",
+    "EndDate": "1985.01.07",
+    "GamesCount": "12^",
+    "DateUpdated": "2025.06.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1984,
+    "Name": "Hastings other",
+    "Winner": "1984.12.29",
+    "StartDate": "1985.01.07",
+    "EndDate": "See Hastings Page",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Plymouth Under-18",
+    "Winner": "Neil McDonald",
+    "StartDate": "1985.01.02",
+    "EndDate": "1985.01.06",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "ARC Young Masters 5th",
+    "Winner": "4-way tie",
+    "StartDate": "1985.02.08",
+    "EndDate": "1985.02.10",
+    "GamesCount": "18",
+    "DateUpdated": "2023.05.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Midland Individ Ch",
+    "Winner": "Chris Baker, Simon Small",
+    "StartDate": "1985.02.15",
+    "EndDate": "1985.02.17",
+    "GamesCount": "45",
+    "DateUpdated": "2022.08.22",
+    "PgnFileName": "198502mccu.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "Commonwealth Ch",
+    "Winner": "Spraggett, Thipsay",
+    "StartDate": "1985.02.16",
+    "EndDate": "1985.02.26",
+    "GamesCount": "199",
+    "DateUpdated": "2023.08.22",
+    "PgnFileName": "198502commonwealth.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "West of England Ch",
+    "Winner": "Gary W Lane",
+    "StartDate": "1985.04.04",
+    "EndDate": "1985.04.08",
+    "GamesCount": "40+1",
+    "DateUpdated": "2024.07.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "West of England other",
+    "Winner": "1985.04.04",
+    "StartDate": "1985.04.08",
+    "EndDate": "8^",
+    "GamesCount": "2024.07.20",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Chequers Masters",
+    "Winner": "Hebden, Condie, McNab",
+    "StartDate": "1985.04.06",
+    "EndDate": "1985.04.17",
+    "GamesCount": "45",
+    "DateUpdated": "2022.07.12",
+    "PgnFileName": "198504chequers.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "Jersey Open",
+    "Winner": "Erik O M C Teichmann",
+    "StartDate": "1985.05.04",
+    "EndDate": "1985.05.10",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Glorney Cup, NED",
+    "Winner": "1985.07.15",
+    "StartDate": "1985.07.19",
+    "EndDate": "0",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "198507bcf.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "GBR-ch Edinburgh",
+    "Winner": "Jonathan Speelman",
+    "StartDate": "1985.07.29",
+    "EndDate": "1985.08.09",
+    "GamesCount": "418",
+    "DateUpdated": "2023.02.20",
+    "PgnFileName": "198507bcf.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "GBR-ch others",
+    "Winner": "1985.07.29",
+    "StartDate": "1985.08.09",
+    "EndDate": "19^",
+    "GamesCount": "2024.10.19",
+    "DateUpdated": "",
+    "PgnFileName": "198507bcf.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "NatWest Team",
+    "Winner": "England",
+    "StartDate": "1985.08.11",
+    "EndDate": "1985.08.20",
+    "GamesCount": "54",
+    "DateUpdated": "2023.02.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Alexander Belyavsky",
+    "StartDate": "1985.08.21",
+    "EndDate": "1985.08.29",
+    "GamesCount": "185",
+    "DateUpdated": "2023.02.20",
+    "PgnFileName": "198508lloyds.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "Berks & Bucks C'gress",
+    "Winner": "S Taulbut, D Cummings",
+    "StartDate": "1985.08.24",
+    "EndDate": "1985.08.26",
+    "GamesCount": "11",
+    "DateUpdated": "2026.06.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "NatWest YM",
+    "Winner": "David Norwood",
+    "StartDate": "1985.09.07",
+    "EndDate": "1985.09.15",
+    "GamesCount": "45",
+    "DateUpdated": "2022.07.12",
+    "PgnFileName": "198509londonnwym.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "London Cand.Res.",
+    "Winner": "Speelman, Gavrikov, vd Wiel",
+    "StartDate": "1985.09.04",
+    "EndDate": "1985.09.17",
+    "GamesCount": "(12)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Guernsey Open 11th",
+    "Winner": "S Conquest, J Hodgson",
+    "StartDate": "1985.10.13",
+    "EndDate": "1985.10.19",
+    "GamesCount": "97",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Guernsey Holiday",
+    "Winner": "Wim Badenhop",
+    "StartDate": "1985.10.13",
+    "EndDate": "1985.10.18",
+    "GamesCount": "9^",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Brighton",
+    "Winner": "Andrew Whiteley",
+    "StartDate": "1985.12.12",
+    "EndDate": "1985.12.18",
+    "GamesCount": "45",
+    "DateUpdated": "2020.10.19",
+    "PgnFileName": "198512brighton.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "Hastings Premier",
+    "Winner": "Margeir Petursson",
+    "StartDate": "1985.12.28",
+    "EndDate": "1986.01.12",
+    "GamesCount": "91",
+    "DateUpdated": "2026.01.29",
+    "PgnFileName": "198512hast.pgn"
+  },
+  {
+    "Year": 1985,
+    "Name": "Hastings Challengers",
+    "Winner": "Peter Large",
+    "StartDate": "1985.12.28",
+    "EndDate": "1986.01.06",
+    "GamesCount": "13^",
+    "DateUpdated": "2025.10.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1985,
+    "Name": "Hastings other",
+    "Winner": "1985.12.28",
+    "StartDate": "1986.01.06",
+    "EndDate": "0",
+    "GamesCount": "See Hastings Page",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "ARC Young Masters 6th",
+    "Winner": "James Plaskett",
+    "StartDate": "1986.02.21",
+    "EndDate": "1986.02.23",
+    "GamesCount": "3",
+    "DateUpdated": "2025.10.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "Midland Indiv Ch",
+    "Winner": "K Arkell, C Baker, G Lawton",
+    "StartDate": "1986.03.07",
+    "EndDate": "1986.03.09",
+    "GamesCount": "55",
+    "DateUpdated": "2016.01.18",
+    "PgnFileName": "198603mccu.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "GLC Challenge",
+    "Winner": "Glenn Flear",
+    "StartDate": "1986.03.11",
+    "EndDate": "1986.03.27",
+    "GamesCount": "91",
+    "DateUpdated": "2022.07.12",
+    "PgnFileName": "198603glcchallenge.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "GLC Masters",
+    "Winner": "J Levitt, N McDonald",
+    "StartDate": "1986.03.11",
+    "EndDate": "1986.03.27",
+    "GamesCount": "120^",
+    "DateUpdated": "2022.07.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "Oakham Masters",
+    "Winner": "Robert Kuczynski",
+    "StartDate": "1986.04.02",
+    "EndDate": "1986.04.10",
+    "GamesCount": "189",
+    "DateUpdated": "2022.07.12",
+    "PgnFileName": "198604oakham.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "Chequers Invitation",
+    "Winner": "K Arkell, N McDonald",
+    "StartDate": "1986.05.19",
+    "EndDate": "1986.05.30",
+    "GamesCount": "(45)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "Speelman-Alburt m",
+    "Winner": "1986.05",
+    "StartDate": "(8)",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "GBR-ch Southamp'n",
+    "Winner": "Speelman, etc",
+    "StartDate": "1986.07.28",
+    "EndDate": "1986.08.08",
+    "GamesCount": "341",
+    "DateUpdated": "2020.09.13",
+    "PgnFileName": "198607bcf.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "GBR-ch other",
+    "Winner": "1986.07.28",
+    "StartDate": "1986.08.08",
+    "EndDate": "1^",
+    "GamesCount": "2023.06.26",
+    "DateUpdated": "",
+    "PgnFileName": "198607bcf.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "GBR-ch Play-Off",
+    "Winner": "Jonathan Speelman",
+    "StartDate": "1986.12.11",
+    "EndDate": "1986.12.17",
+    "GamesCount": "8^",
+    "DateUpdated": "2020.09.13",
+    "PgnFileName": "198607bcf.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "Commonwealth Ch",
+    "Winner": "Hjartarson, Prasad",
+    "StartDate": "1986.08.11",
+    "EndDate": "1986.08.19",
+    "GamesCount": "29",
+    "DateUpdated": "2023.07.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Simen Agdestein",
+    "StartDate": "1986.08.20",
+    "EndDate": "1986.08.28",
+    "GamesCount": "145",
+    "DateUpdated": "2023.06.26",
+    "PgnFileName": "198608lloyds.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "NatWest YM's",
+    "Winner": "Pedersen, Norwood",
+    "StartDate": "1986.08.30",
+    "EndDate": "1986.09.07",
+    "GamesCount": "45",
+    "DateUpdated": "2022.07.12",
+    "PgnFileName": "198608londonnwym.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "Guernsey Open 12th",
+    "Winner": "B Carlier, R Harris, JM Hodgson",
+    "StartDate": "1986.10.12",
+    "EndDate": "1986.10.18",
+    "GamesCount": "103",
+    "DateUpdated": "2025.12.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "Guernsey Holiday",
+    "Winner": "H Enevoldsen",
+    "StartDate": "1986.10.12",
+    "EndDate": "1986.10.18",
+    "GamesCount": "9^",
+    "DateUpdated": "2025.12.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1986,
+    "Name": "Hastings Premier",
+    "Winner": "M Chandler, etc",
+    "StartDate": "1986.12.29",
+    "EndDate": "1987.01.13",
+    "GamesCount": "91",
+    "DateUpdated": "2020.08.20",
+    "PgnFileName": "198612hast.pgn"
+  },
+  {
+    "Year": 1986,
+    "Name": "Hastings Challengers",
+    "Winner": "Nigel Davies",
+    "StartDate": "1986.12.29",
+    "EndDate": "1987.01",
+    "GamesCount": "6^",
+    "DateUpdated": "Hastings",
+    "PgnFileName": "198612hast.pgn"
+  },
+  {
+    "Year": 1987,
+    "Name": "Nott'm Chessforce",
+    "Winner": "Keith Arkell",
+    "StartDate": "1987.01.20",
+    "EndDate": "1987.01.29",
+    "GamesCount": "45+PDF",
+    "DateUpdated": "2016.01.18",
+    "PgnFileName": "198701nott.pgn"
+  },
+  {
+    "Year": 1987,
+    "Name": "Bath Zonal",
+    "Winner": "Jonathan Speelman",
+    "StartDate": "1987.02.14",
+    "EndDate": "1987.02.24",
+    "GamesCount": "55",
+    "DateUpdated": "2026.04.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "Bath Women's Zonal",
+    "Winner": "Susan Arkell (»Lalic)",
+    "StartDate": "1987.02.19",
+    "EndDate": "1987.02.24",
+    "GamesCount": "15+2^",
+    "DateUpdated": "2026.04.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "ARC Young Masters 7th",
+    "Winner": "Nigel Davies",
+    "StartDate": "1987.02.27",
+    "EndDate": "1987.03.01",
+    "GamesCount": "15",
+    "DateUpdated": "2025.10.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "West of England Ch",
+    "Winner": "Michael Adams",
+    "StartDate": "1987.04.16",
+    "EndDate": "1987.04.20",
+    "GamesCount": "0",
+    "DateUpdated": "2022.02.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "GBR-ch Swansea",
+    "Winner": "Nigel Short",
+    "StartDate": "1987.08.03",
+    "EndDate": "1987.08.14",
+    "GamesCount": "321",
+    "DateUpdated": "2020.09.13",
+    "PgnFileName": "198708bcf.pgn"
+  },
+  {
+    "Year": 1987,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Michael Wilder",
+    "StartDate": "1987.08.22",
+    "EndDate": "1987.08.31",
+    "GamesCount": "213",
+    "DateUpdated": "2023.08.20",
+    "PgnFileName": "198708lloyds.pgn"
+  },
+  {
+    "Year": 1987,
+    "Name": "Chess for Peace",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1987.09.01",
+    "EndDate": "1987.09.11",
+    "GamesCount": "167",
+    "DateUpdated": "2023.08.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "NatWest YM",
+    "Winner": "Gary Lane",
+    "StartDate": "1987.10.03",
+    "EndDate": "1987.10.11",
+    "GamesCount": "45",
+    "DateUpdated": "2023.04.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "Guernsey Open 13th",
+    "Winner": "G Ballon, B Carlier",
+    "StartDate": "1987.10.18",
+    "EndDate": "1987.10.24",
+    "GamesCount": "105",
+    "DateUpdated": "2025.12.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "Guernsey Holiday",
+    "Winner": "A Molet",
+    "StartDate": "1987.10.18",
+    "EndDate": "1987.10.24",
+    "GamesCount": "9^",
+    "DateUpdated": "2025.12.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1987,
+    "Name": "Hastings Premier",
+    "Winner": "Nigel Short",
+    "StartDate": "1987.12.29",
+    "EndDate": "1988.01.14",
+    "GamesCount": "56",
+    "DateUpdated": "2025.01.08",
+    "PgnFileName": "198712hast.pgn"
+  },
+  {
+    "Year": 1987,
+    "Name": "Hastings Challengers",
+    "Winner": "Tony Kosten",
+    "StartDate": "1987.12.29",
+    "EndDate": "1988.01.07",
+    "GamesCount": "33^",
+    "DateUpdated": "2025.01.08",
+    "PgnFileName": "198712hast.pgn"
+  },
+  {
+    "Year": 1987,
+    "Name": "Hastings others",
+    "Winner": "Hastings",
+    "StartDate": "1987.12.29",
+    "EndDate": "1988.01.07",
+    "GamesCount": "21^",
+    "DateUpdated": "2026.07.14",
+    "PgnFileName": "198712hast.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "ARC Young Masters 8th",
+    "Winner": "John Fedorowicz",
+    "StartDate": "1988.02.26",
+    "EndDate": "1988.02.28",
+    "GamesCount": "5",
+    "DateUpdated": "2025.10.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1988,
+    "Name": "Midland Indiv Ch",
+    "Winner": "Graham Waddingham",
+    "StartDate": "1988.03.18",
+    "EndDate": "1988.03.20",
+    "GamesCount": "69",
+    "DateUpdated": "2022.11.29",
+    "PgnFileName": "198803mccu.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "Oakham Masters",
+    "Winner": "James Howell",
+    "StartDate": "1988.03.28",
+    "EndDate": "1988.04.05",
+    "GamesCount": "233+PDF",
+    "DateUpdated": "2026.01.26",
+    "PgnFileName": "198803oakham.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "Watson, Farley & W",
+    "Winner": "Paul Motwani",
+    "StartDate": "1988.05.27",
+    "EndDate": "1988.06.07",
+    "GamesCount": "66",
+    "DateUpdated": "2026.09.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1988,
+    "Name": "Haringey Masters",
+    "Winner": "Julian Hodgson, J Murey",
+    "StartDate": "1988.07.21",
+    "EndDate": "1988.07.29",
+    "GamesCount": "81",
+    "DateUpdated": "2020.10.21",
+    "PgnFileName": "198807haringey.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "GBR-ch Blackpool",
+    "Winner": "Jonathan Mestel",
+    "StartDate": "1988.08.01",
+    "EndDate": "1988.08.12",
+    "GamesCount": "305",
+    "DateUpdated": "2023.04.30",
+    "PgnFileName": "198808bcf.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "GBR-ch other",
+    "Winner": "1988.08.01",
+    "StartDate": "1988.08.12",
+    "EndDate": "1^",
+    "GamesCount": "2023.04.30",
+    "DateUpdated": "",
+    "PgnFileName": "198808bcf.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Gary Lane",
+    "StartDate": "1988.08.20",
+    "EndDate": "1988.08.29",
+    "GamesCount": "206",
+    "DateUpdated": "2025.08.07",
+    "PgnFileName": "198808lloyds.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "NatWest YM",
+    "Winner": "David Norwood, etc",
+    "StartDate": "1988.08.31",
+    "EndDate": "1988.09.09",
+    "GamesCount": "45",
+    "DateUpdated": "2023.04.30",
+    "PgnFileName": "198808bcf.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "Guernsey Open 14th",
+    "Winner": "Marinus Kuijf",
+    "StartDate": "1988.10.16",
+    "EndDate": "1988.10.22",
+    "GamesCount": "107",
+    "DateUpdated": "2025.08.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1988,
+    "Name": "Duncan Lawrie",
+    "Winner": "Judit Polgar",
+    "StartDate": "1988.10.22",
+    "EndDate": "1988.10.30",
+    "GamesCount": "45",
+    "DateUpdated": "2025.08.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1988,
+    "Name": "Hastings Premier",
+    "Winner": "Nigel Short",
+    "StartDate": "1988.12.29",
+    "EndDate": "1989.01.14",
+    "GamesCount": "51",
+    "DateUpdated": "2023.05.23",
+    "PgnFileName": "198812hast.pgn"
+  },
+  {
+    "Year": 1988,
+    "Name": "Hastings Challengers",
+    "Winner": "Judit Polgar",
+    "StartDate": "1988.12.28",
+    "EndDate": "1989.01.06",
+    "GamesCount": "111^",
+    "DateUpdated": "2025.01.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1988,
+    "Name": "Hastings other",
+    "Winner": "1988.12.28",
+    "StartDate": "1989.01.06",
+    "EndDate": "9^",
+    "GamesCount": "2025.10.12",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Barnsdale Young M's",
+    "Winner": "Mihai Suba",
+    "StartDate": "1989.02.24",
+    "EndDate": "1989.02.26",
+    "GamesCount": "47/230",
+    "DateUpdated": "2026.08.11",
+    "PgnFileName": "198902barnsdale.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "Midland Indiv Ch",
+    "Winner": "Andrew Ledger",
+    "StartDate": "1989.03.10",
+    "EndDate": "1989.03.12",
+    "GamesCount": "69",
+    "DateUpdated": "2022.11.28",
+    "PgnFileName": "198903mccu.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "Edinburgh Open",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1989.03.24",
+    "EndDate": "1989.04.01",
+    "GamesCount": "216",
+    "DateUpdated": "2025.08.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Watson, Farley & W",
+    "Winner": "Bent Larsen",
+    "StartDate": "1989.05.19",
+    "EndDate": "1989.06.01",
+    "GamesCount": "91",
+    "DateUpdated": "2025.08.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Northumberland Open",
+    "Winner": "David J Walker",
+    "StartDate": "1989.05.26",
+    "EndDate": "1989.05.29",
+    "GamesCount": "106",
+    "DateUpdated": "2025.10.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Park Hall International",
+    "Winner": "M Adams (2nd GM norm)",
+    "StartDate": "1989.06.18",
+    "EndDate": "1989.06.26",
+    "GamesCount": "45",
+    "DateUpdated": "2025.08.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "British Rapidplay Ch",
+    "Winner": "John Nunn",
+    "StartDate": "1989.07.01",
+    "EndDate": "1989.07.02",
+    "GamesCount": "14",
+    "DateUpdated": "2025.08.05",
+    "PgnFileName": "198907bcf.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "Haringey Masters",
+    "Winner": "M Adams (final GM norm)",
+    "StartDate": "1989.07.11",
+    "EndDate": "1989.07.21",
+    "GamesCount": "81",
+    "DateUpdated": "2025.08.03",
+    "PgnFileName": "198907bcf.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "Scottish Championship",
+    "Winner": "Mark L Condie",
+    "StartDate": "1989.07.13",
+    "EndDate": "1989.07.21",
+    "GamesCount": "63",
+    "DateUpdated": "2025.08.05",
+    "PgnFileName": "198907bcf.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "GBR-ch Plymouth",
+    "Winner": "Michael Adams",
+    "StartDate": "1989.07.31",
+    "EndDate": "1989.08.11",
+    "GamesCount": "315",
+    "DateUpdated": "2024.08.29",
+    "PgnFileName": "198907bcf.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "GBR other",
+    "Winner": "1989.07.31",
+    "StartDate": "1989.08.11",
+    "EndDate": "2+1^",
+    "GamesCount": "2026.04.25",
+    "DateUpdated": "",
+    "PgnFileName": "198907bcf.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Zurab Azmaiparashvili",
+    "StartDate": "1989.08.19",
+    "EndDate": "1989.08.28",
+    "GamesCount": "223",
+    "DateUpdated": "2021.07.25",
+    "PgnFileName": "198908lloyds.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "NatWest Young GMs",
+    "Winner": "Dibyendu Barua",
+    "StartDate": "1989.08.30",
+    "EndDate": "1989.09.08",
+    "GamesCount": "45",
+    "DateUpdated": "2023.04.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Young England v Polgars",
+    "Winner": "Drawn (rapidplay)",
+    "StartDate": "1989.11.12",
+    "EndDate": "1989.11.13",
+    "GamesCount": "18",
+    "DateUpdated": "2025.09.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Hastings Premier",
+    "Winner": "Sergei Dolmatov",
+    "StartDate": "1989.12.28",
+    "EndDate": "1990.01.14",
+    "GamesCount": "56",
+    "DateUpdated": "2025.01.16",
+    "PgnFileName": "198912hast.pgn"
+  },
+  {
+    "Year": 1989,
+    "Name": "Hastings Challengers",
+    "Winner": "Tony Kosten",
+    "StartDate": "1989.12.28",
+    "EndDate": "1990.01.07",
+    "GamesCount": "97^",
+    "DateUpdated": "2025.01.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Hastings Masters",
+    "Winner": "(Scheveningen format)",
+    "StartDate": "1990.01",
+    "EndDate": "1990.01",
+    "GamesCount": "54^",
+    "DateUpdated": "2025.01.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1989,
+    "Name": "Hastings other",
+    "Winner": "See Hastings Page",
+    "StartDate": "1989.12.28",
+    "EndDate": "1990.01",
+    "GamesCount": "22^",
+    "DateUpdated": "2026.10.05",
+    "PgnFileName": ""
+  }
+]

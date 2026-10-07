@@ -1,11 +1,24 @@
 import requests
+from bs4 import BeautifulSoup
 
-test_url = "https://web.archive.org/web/20230601000000id_/http://www.saund.co.uk/britbase/hastings.htm"
+url = "https://web.archive.org/web/20230601000000id_/http://www.saund.co.uk/britbase/brit80.htm"
+headers = {"User-Agent": "Mozilla/5.0"}
+resp = requests.get(url, headers=headers)
+soup = BeautifulSoup(resp.text, "html.parser")
 
-try:
-    r = requests.get(test_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
-    print(f"Status Code: {r.status_code}")
-    print(f"Bytes received: {len(r.content)}")
-    print("Sample content from archive:", r.text[:200])
-except Exception as e:
-    print(f"Error: {e}")
+# Check for <pre> tags
+pres = soup.find_all("pre")
+print(f"Number of <pre> tags: {len(pres)}")
+if pres:
+    for idx, p in enumerate(pres):
+        print(f"PRE {idx} (first 300 chars):")
+        print(p.get_text()[:300])
+        print("-" * 40)
+
+# Check all links on the page that mention 'pgn' or '1980'
+print("\nLinks containing 'pgn' or '198':")
+for a in soup.find_all("a", href=True):
+    href = a["href"]
+    text = a.get_text(strip=True)
+    if any(k in href.lower() for k in ["pgn", "198", "sutton"]):
+        print(f"  href: {href} | text: {text}")
