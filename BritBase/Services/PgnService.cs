@@ -1,0 +1,158 @@
+﻿using System.Text;
+using System.Text.RegularExpressions;
+using BritBase.Models;
+
+namespace BritBase.Services;
+
+public class PgnService
+{
+    private readonly IWebHostEnvironment _env;
+    private readonly List<ChessGame> _cachedGames = new();
+    private bool _isLoaded = false;
+    private readonly object _lock = new();
+
+    public PgnService(IWebHostEnvironment env)
+    {
+        _env = env;
+    }
+
+    /// <summary>
+    /// Loads all PGN files from Data/Pgns folder into memory.
+    /// </summary>
+    public IReadOnlyList<ChessGame> GetAllGames()
+    {
+        if (_isLoaded) return _cachedGames;
+
+        lock (_lock)
+        {
+            if (_isLoaded) return _cachedGames;
+
+            var pgnDir = Path.Combine(_env.ContentRootPath, "Data", "pgn");
+            if (!Directory.Exists(pgnDir))
+            {
+                Directory.CreateDirectory(pgnDir);
+            }
+
+            var files = Directory.GetFiles(pgnDir, "*.pgn", SearchOption.AllDirectories);
+            foreach (var file in files)
+            {
+                var games = ParsePgnFile(file);
+                _cachedGames.AddRange(games);
+            }
+
+            _isLoaded = true;
+            return _cachedGames;
+        }
+    }
+
+    public ChessGame? GetGameById(string id)
+    {
+        return GetAllGames().FirstOrDefault(g => g.Id == id);
+    }
+
+    public IEnumerable<ChessGame> Search(string? query, string? year, int limit = 100)
+    {
+        var games = GetAllGames().AsEnumerable();
+
+        if (!string.IsNullOrWhiteSpace(query))
+        {
+            var q = query.Trim();
+            games = games.Where(g =>
+                g.White.Contains(q, StringComparison.OrdinalIgnoreCase) ||
+                g.Black.Contains(q, StringComparison.OrdinalIgnoreCase) ||
+                g.Event.Contains(q, StringComparison.OrdinalIgnoreCase) ||
+                g.Site.Contains(q, StringComparison.OrdinalIgnoreCase));
+        }
+
+        if (!string.IsNullOrWhiteSpace(year))
+        {
+            games = games.Where(g => g.Date.StartsWith(year.Trim(), StringComparison.OrdinalIgnoreCase));
+        }
+
+        return games.Take(limit);
+    }
+
+    private static List<ChessGame> ParsePgnFile(string filePath)
+    {
+        var result = new List<ChessGame>();
+        var fileName = Path.GetFileName(filePath);
+
+        if (!File.Exists(filePath)) return result;
+
+        var lines = File.ReadAllLines(filePath, Encoding.UTF8);
+        ChessGame? currentGame = null;
+        var movesBuilder = new StringBuilder();
+
+        var tagRegex = new Regex(@"^\[(\w+)\s+""(.*)""\]$", RegexOptions.Compiled);
+
+        foreach (var rawLine in lines)
+        {
+            var line = rawLine.Trim();
+
+            // Skip empty lines
+            if (string.IsNullOrEmpty(line))
+            {
+                continue;
+            }
+
+            var match = tagRegex.Match(line);
+            if (match.Success)
+            {
+                var key = match.Groups[1].Value;
+                var val = match.Groups[2].Value;
+
+                // A new [Event ...] tag signals the start of a new game entry
+                if (key.Equals("Event", StringComparison.OrdinalIgnoreCase))
+                {
+                    if (currentGame != null)
+                    {
+                        currentGame.Moves = CleanMoves(movesBuilder.ToString());
+                        result.Add(currentGame);
+                        movesBuilder.Clear();
+                    }
+
+                    currentGame = new ChessGame { SourceFile = fileName, Event = val };
+                    continue;
+                }
+
+                if (currentGame == null)
+                {
+                    currentGame = new ChessGame { SourceFile = fileName };
+                }
+
+                switch (key.ToLowerInvariant())
+                {
+                    case "site": currentGame.Site = val; break;
+                    case "date": currentGame.Date = val; break;
+                    case "round": currentGame.Round = val; break;
+                    case "white": currentGame.White = val; break;
+                    case "black": currentGame.Black = val; break;
+                    case "result": currentGame.Result = val; break;
+                    case "eco": currentGame.Eco = val; break;
+                }
+            }
+            else
+            {
+                // This is move text (e.g., 1. e4 e5 ...)
+                if (currentGame != null)
+                {
+                    movesBuilder.Append(' ').Append(line);
+                }
+            }
+        }
+
+        // Add the last game if exists
+        if (currentGame != null)
+        {
+            currentGame.Moves = CleanMoves(movesBuilder.ToString());
+            result.Add(currentGame);
+        }
+
+        return result;
+    }
+
+    private static string CleanMoves(string rawMoves)
+    {
+        return Regex.Replace(rawMoves.Trim(), @"\s+", " ");
+    }
+}

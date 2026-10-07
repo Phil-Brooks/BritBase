@@ -1,0 +1,62 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "BritBase Chess Archive";
+}
+
+<div class="container py-3">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="display-6 fw-bold">BritBase Chess Archive</h1>
+            <p class="text-muted">Search British chess historical games and replay them interactively.</p>
+        </div>
+    </div>
+
+    <!-- Search Controls with HTMX live search -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <form id="search-form" class="row g-3"
+                  hx-get="/Index?handler=Search"
+                  hx-target="#game-list-container"
+                  hx-trigger="keyup from:input changed delay:300ms, change from:select">
+
+                <div class="col-md-8">
+                    <label class="form-label fw-semibold">Search Player, Tournament, or Site</label>
+                    <input type="text"
+                           name="query"
+                           class="form-control"
+                           placeholder="e.g. Capablanca, Hastings, Penrose..."
+                           autocomplete="off" />
+                </div>
+
+                <div class="col-md-4">
+                    <label class="form-label fw-semibold">Year (Optional)</label>
+                    <input type="text"
+                           name="year"
+                           class="form-control"
+                           placeholder="e.g. 1920"
+                           autocomplete="off" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Game Replay Area (Target for Step 5) -->
+    <div id="game-viewer-panel" class="mb-4">
+        <!-- Replay board will appear here when a game is loaded -->
+    </div>
+
+    <!-- Game List Container (Updated via HTMX) -->
+    <div class="card shadow-sm">
+        <div class="card-header bg-white d-flex justify-content-between align-items-center">
+            <h5 class="mb-0">Games</h5>
+            <!-- HTMX loading spinner indicator -->
+            <div id="loading-spinner" class="htmx-indicator spinner-border spinner-border-sm text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+        <div class="card-body p-0" id="game-list-container">
+            <partial name="_GameListPartial" model="Model.Games" />
+        </div>
+    </div>
+</div>
