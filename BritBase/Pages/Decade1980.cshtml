@@ -61,7 +61,7 @@
                                 <!-- Tournament Name: triggers game viewer via HTMX -->
                                 <td>
                                     <button class="btn btn-link p-0 text-start fw-semibold text-decoration-none"
-                                            hx-get="/Decade1980?handler=TournamentGames&tournamentName=@Uri.EscapeDataString(t.Name)&year=@t.Year"
+                                            hx-get="/Decade1980?handler=TournamentGames&pgnFile=@t.PgnFileName&tournamentName=@Uri.EscapeDataString(t.Name)&year=@t.Year"
                                             hx-target="#tournament-games-container"
                                             hx-swap="innerHTML"
                                             title="View games for @t.Name">

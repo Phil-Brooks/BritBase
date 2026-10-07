@@ -1,0 +1,5718 @@
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Caiafas, Theophilus"]
+[Black "Thomas, Ian L"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2205"]
+[PlyCount "64"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 b5 2. e4 Bb7 3. Bd3 e6 4. Nf3 c5 5. c3 cxd4 6. cxd4 Nf6 7. Nbd2 Qb6 8.
+O-O Nc6 9. Qe2 Nxd4 10. Nxd4 Qxd4 11. Nb3 Qb6 12. Be3 Qd8 13. Bg5 a6 14. Rac1
+d6 15. Rfd1 Be7 16. Nc5 Bc8 17. Bxf6 Bxf6 18. e5 Bxe5 19. Be4 Ra7 20. Bc6+ Ke7
+21. Nd3 Bf6 22. Nb4 a5 23. Qe3 Rb7 24. Bxb7 Bxb7 25. Qa7 Qd7 26. Qxa5 Rc8 27.
+Nd3 Rc4 28. b3 Qc6 29. f3 Bc3 30. Qa3 b4 31. Qa5 Rg4 32. Ne5 Bd4+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Condie, Mark L"]
+[Black "Potts, Alan W"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "2380"]
+[PlyCount "68"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Bg5 d6 3. e3 Nc6 4. Bc4 g6 5. Bxg8 Rxg8 6. f4 Qd7 7. Nf3 Bg7 8. Nc3
+b6 9. Qe2 Bb7 10. O-O-O O-O-O 11. Kb1 Rde8 12. Rhe1 h6 13. Bh4 e6 14. Bg3 Qf7
+15. Qc4 Rgf8 16. Qa4 Kb8 17. Re2 Rd8 18. Rde1 Ne7 19. Bh4 Bf6 20. Bxf6 Qxf6 21.
+Nd2 e5 22. g3 g5 23. Qc4 gxf4 24. gxf4 Rg8 25. dxe5 dxe5 26. Nb3 Rg4 27. h3 Rg3
+28. e4 exf4 29. exf5 Nxf5 30. Qxf4 Qg5 31. Qc4 Nd6 32. Qe6 Bc8 33. Ne4 Bxe6 34.
+Nxg5 Bxb3 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Davies, Nigel Rodney"]
+[Black "Patgawkar, V."]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2355"]
+[PlyCount "63"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. O-O d6 6. d4 Nbd7 7. Qc2 e5 8. Rd1
+Re8 9. dxe5 dxe5 10. e4 c6 11. h3 Qc7 12. Be3 Nf8 13. c5 Be6 14. Nbd2 h6 15.
+Bf1 N8d7 16. Nc4 Bxc4 17. Bxc4 Bf8 18. Nh4 Nxc5 19. Nxg6 Ncxe4 20. Nxf8 Rxf8
+21. Bxh6 Rfd8 22. Re1 Kh7 23. Bg5 Kg7 24. Rxe4 Nxe4 25. Qxe4 f6 26. Be3 Qd7 27.
+h4 b5 28. Be2 Qe6 29. Bd3 Rg8 30. Rc1 Qd5 31. Qg6+ Kf8 32. Bc5+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Disu, M."]
+[Black "Bellin, Robert"]
+[Result "0-1"]
+[ECO "B56"]
+[BlackElo "2390"]
+[PlyCount "62"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bb5 Bd7 7. O-O g6 8.
+Be3 Bg7 9. Qd2 Ng4 10. Nxc6 bxc6 11. Be2 Nxe3 12. Qxe3 O-O 13. Rab1 Qb6 14. Qd2
+Rab8 15. Nd1 Be6 16. c4 a5 17. b3 Qb4 18. Qd3 d5 19. Ne3 dxe4 20. Qxe4 Qd2 21.
+Qc2 Qxc2 22. Nxc2 Bf5 23. Rbc1 a4 24. Rfd1 Bb2 25. Nd4 Bxc1 26. Rxc1 axb3 27.
+axb3 Bd7 28. Bd1 c5 29. Nf3 Bg4 30. Rc3 Rfd8 31. Bc2 Bf5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Friedgood, David"]
+[Black "Hebden, Mark L"]
+[Result "1/2-1/2"]
+[ECO "E80"]
+[WhiteElo "2305"]
+[BlackElo "2480"]
+[PlyCount "90"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. f3 a6 6. Nge2 c6 7. Be3 b5 8. cxb5
+axb5 9. b4 O-O 10. Qd2 Nbd7 11. Nc1 Nb6 12. Nb3 Nc4 13. Bxc4 bxc4 14. Na5 Qc7
+15. O-O c5 16. a3 cxb4 17. axb4 Be6 18. Rfc1 Rfc8 19. d5 Bd7 20. Bd4 e6 21.
+Rab1 Qd8 22. dxe6 Bxe6 23. Nd5 Nxd5 24. exd5 c3 25. Rxc3 Bxd4+ 26. Qxd4 Rxc3
+27. Qxc3 Qb6+ 28. Kh1 Bxd5 29. Rd1 Qb5 30. Qd4 Re8 31. h3 Re5 32. f4 Qe2 33.
+Qd2 Bxg2+ 34. Kg1 Re8 35. Qxe2 Rxe2 36. b5 Bxh3 37. b6 Rg2+ 38. Kh1 Rb2 39.
+Rxd6 Kg7 40. Rd3 Be6 41. b7 Bf5 42. Re3 Be6 43. Rd3 Bf5 44. Re3 Be6 45. Rd3 Bf5
+1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Hodgson, Julian M"]
+[Black "Blackstock, Leslie Steven F"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2455"]
+[BlackElo "2275"]
+[PlyCount "129"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Bb3 O-O 6. O-O d6 7. c3 h6 8. Nbd2
+Re8 9. Re1 Bf8 10. Nf1 Na5 11. Bc2 c5 12. h3 Nc6 13. Ng3 g6 14. a3 Bg7 15. Be3
+b6 16. Qd2 Kh7 17. d4 cxd4 18. cxd4 exd4 19. Nxd4 Nxd4 20. Bxd4 Bb7 21. Rad1
+Qc7 22. h4 Rad8 23. h5 d5 24. exd5 Rxe1+ 25. Rxe1 Rxd5 26. hxg6+ fxg6 27. Qd3
+Rg5 28. Re6 Qf7 29. Qe2 Nd5 30. Bxg7 Nf4 31. Qd2 Nxe6 32. Bc3 Ng7 33. Ne4 Bxe4
+34. Bxe4 Rc5 35. Qd8 Rxc3 36. bxc3 Ne6 37. Qd6 Nc5 38. Bd5 Qg7 39. c4 h5 40. g3
+Kh6 41. Kg2 Kh7 42. Qd8 Kh6 43. Bg8 Ne4 44. Qd5 Nf6 45. Qd2+ g5 46. Be6 Qe7 47.
+Qe3 Ne8 48. Qe4 Nc7 49. Bf5 Qxe4+ 50. Bxe4 Kg7 51. f4 gxf4 52. gxf4 Kf6 53. Kf3
+Ne6 54. Ke3 h4 55. Bg2 Nc5 56. Bh3 Nb3 57. Bg4 Nc5 58. Kd4 Ne6+ 59. Ke4 Nc5+
+60. Kd5 Nd3 61. Kc6 Nxf4 62. Kb7 Ke5 63. Kxa7 Kd4 64. Kxb6 Kxc4 65. a4 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Jackson, Sheila"]
+[Black "Hanreck, Alan E"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2235"]
+[BlackElo "2275"]
+[PlyCount "81"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nc6 8. h3
+Bh5 9. Be3 cxd4 10. Nxd4 Bxe2 11. Qxe2 Bd6 12. Nb5 Bb8 13. Rd1 Qe5 14. f4 Qf5
+15. g4 Qe4 16. Nd2 Qc2 17. Rdc1 Qa4 18. b3 Qa6 19. c4 O-O 20. g5 Nd7 21. Ne4
+Ne7 22. Rd1 Qc6 23. Ng3 e5 24. f5 e4 25. Nd4 Qc7 26. Nxe4 Qe5 27. Qf3 Re8 28.
+Nf2 Nb6 29. Ng4 Qg3+ 30. Qxg3 Bxg3 31. f6 Ng6 32. fxg7 Be5 33. Nh6+ Kxg7 34.
+Ndf5+ Kh8 35. Nxf7+ Kg8 36. N5h6+ Kg7 37. Nxe5 Nxe5 38. Bd4 Kg6 39. Bxe5 Rxe5
+40. Rd6+ Kh5 41. Nf7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Jamieson, Peter McKeich"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2315"]
+[BlackElo "2535"]
+[PlyCount "74"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Nc3 Bb4 5. Bg5 Bb7 6. Qc2 h6 7. Bf4 Ne4 8. h4
+Bxc3+ 9. bxc3 d6 10. e3 Nd7 11. Bd3 f5 12. g4 Nef6 13. d5 fxg4 14. Nd4 Nc5 15.
+Bg6+ Kf8 16. O-O-O e5 17. Bg3 exd4 18. exd4 Ncd7 19. h5 b5 20. c5 Bxd5 21. cxd6
+cxd6 22. Bxd6+ Kg8 23. Rhe1 Rc8 24. Re3 Qb6 25. Be7 a5 26. Qf5 Qc6 27. Rd2 b4
+28. Rc2 b3 29. axb3 Bxb3 30. Rce2 Qa4 31. Qb1 Bd5 32. Rc2 Bf7 33. Qb7 Rb8 34.
+Qa6 Bc4 35. Qd6 Qa1+ 36. Kd2 Rb1 37. Rd3 Re1 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Knott, Simon JB"]
+[Black "Johansen, Darryl Keith"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2260"]
+[BlackElo "2425"]
+[PlyCount "85"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 f5 2. Nf3 g6 3. g3 Bg7 4. d4 Nf6 5. Bg2 O-O 6. O-O d6 7. Nc3 Qe8 8. d5
+Na6 9. Nd4 Bd7 10. Rb1 c6 11. b4 c5 12. bxc5 Nxc5 13. Ba3 Rc8 14. e3 Ng4 15.
+Nce2 Ne5 16. Bxc5 Ba4 17. Qd2 Nxc4 18. Qe1 dxc5 19. Ne6 Nd6 20. Nc3 Bc2 21. Rc1
+Bd3 22. e4 fxe4 23. Nxe4 Nxe4 24. Bxe4 Bxf1 25. Kxf1 Qa4 26. Qe2 Qa3 27. Rc2
+Rf6 28. d6 exd6 29. Bd5 Rcf8 30. Nxf8+ Kxf8 31. Qe4 Rf5 32. Re2 Be5 33. Kg2 Qb4
+34. f4 Qxe4+ 35. Bxe4 Bf6 36. Bxf5 gxf5 37. Re6 Be7 38. Rh6 Kg7 39. Re6 Kf7 40.
+Rh6 Kg7 41. Re6 Kf7 42. Rh6 Kg7 43. Re6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Lalic, Susan Kathryn"]
+[Black "Tilak, Sharad"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2010"]
+[BlackElo "2280"]
+[PlyCount "65"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 e6 6. Be2 Nf6 7. O-O cxd4 8.
+cxd4 Be7 9. Nc3 Qd6 10. Bg5 O-O 11. Bxf6 Bxf6 12. Ne4 Qd8 13. Rc1 Be7 14. a3
+Qb6 15. Rc2 Rd8 16. Rd2 Bd7 17. Nc5 Be8 18. b4 Bf6 19. Bc4 a5 20. Na4 Qc7 21.
+b5 Ne7 22. Qe2 Rac8 23. Bb3 Qd6 24. Nc5 Qb6 25. a4 Nd5 26. Ne5 Qc7 27. Rc2 Qe7
+28. Rd1 Nb4 29. Rc3 Bxe5 30. Qxe5 b6 31. Nxe6 fxe6 32. Qxe6+ Qf7 33. Rxc8 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Littlewood, Paul E"]
+[Black "Barber, Haydn"]
+[Result "1-0"]
+[ECO "A87"]
+[WhiteElo "2445"]
+[BlackElo "2270"]
+[PlyCount "91"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Nf3 g6 3. g3 Nf6 4. b3 Bg7 5. Bb2 O-O 6. Bg2 d6 7. c4 Ne4 8. O-O
+Nc6 9. Nbd2 Nxd2 10. Qxd2 e5 11. dxe5 dxe5 12. Qd5+ Kh8 13. Qxd8 Rxd8 14. Ng5
+Rf8 15. Bxc6 bxc6 16. Rfd1 h6 17. Nf3 Re8 18. Rd2 g5 19. Rad1 Bf6 20. Ne1 Kg7
+21. Nd3 Kf7 22. Nc5 h5 23. f3 f4 24. Kf2 Kg6 25. Nd7 Kf5 26. e3 fxg3+ 27. hxg3
+Bxd7 28. Rxd7 Rad8 29. Ke2 Rxd7 30. Rxd7 Re7 31. Rd1 h4 32. Kf2 Rf7 33. gxh4
+gxh4 34. e4+ Ke6 35. Bc1 Rg7 36. Rh1 Kf7 37. Be3 a6 38. Rh2 Kg6 39. Rg2+ Kh5
+40. Rxg7 Bxg7 41. Bc5 Bf6 42. Kg2 Kg5 43. b4 Kg6 44. a4 Bg5 45. a5 Bd2 46. b5
+1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "NOVAG MONSTER X"]
+[Black "Law, Andrew P"]
+[Result "0-1"]
+[ECO "A29"]
+[BlackElo "2335"]
+[PlyCount "76"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
+d3 O-O 9. a4 a5 10. Be3 Bg4 11. h3 Be6 12. Bxb6 cxb6 13. Rc1 f5 14. Qd2 f4 15.
+Ne4 Bd5 16. Qc3 Bb4 17. Qc2 Kh8 18. Nfd2 Nd4 19. Qd1 Nf5 20. Nf3 fxg3 21. Nxg3
+Nxg3 22. fxg3 Bc6 23. b3 Qe7 24. Kh2 Rad8 25. Qc2 Ba3 26. Ra1 e4 27. dxe4 Bxe4
+28. Qa2 Bd6 29. Rac1 Rf6 30. Bh1 Rg6 31. Rg1 h5 32. Qa1 h4 33. Bg2 Rxg3 34. Kh1
+Qe6 35. Rgf1 Rxh3+ 36. Kg1 Rg3 37. Nxh4 Bxg2 38. Rf2 Be4+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Nunn, John DM"]
+[Black "Carr, Neil L"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2615"]
+[BlackElo "2325"]
+[PlyCount "79"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. h3 c6 8. a4 Be6
+9. O-O d5 10. Bg5 Qd7 11. exd5 Nxd5 12. dxe5 Nxc3 13. Nxc3 Qxd1 14. Raxd1 Bxe5
+15. Rfe1 Bxc3 16. bxc3 Kg7 17. Bf4 Re8 18. Rb1 Re7 19. Red1 Bd5 20. c4 Bxg2 21.
+Kxg2 Na6 22. Bd6 Re4 23. Rxb7 Kg8 24. Rd7 Rxc4 25. Be5 Kf8 26. Bf6 Re4 27. Rd8+
+Rxd8 28. Rxd8+ Re8 29. Rd7 Re6 30. Bg5 Nb4 31. Rxa7 Nxc2 32. a5 Nd4 33. a6 Nb5
+34. Bh6+ Ke8 35. Ra8+ Kd7 36. a7 Nc7 37. Rf8 Re8 38. Rxf7+ Re7 39. Rf3 Re8 40.
+Bg5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Orr, Mark JL"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "A33"]
+[WhiteElo "2320"]
+[BlackElo "2585"]
+[PlyCount "88"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. g3 Qb6 7. Nb3 d5 8.
+cxd5 Nxd5 9. Bg2 Nxc3 10. bxc3 Be7 11. O-O O-O 12. Be3 Qc7 13. c4 e5 14. c5 Be6
+15. Qd3 Rfd8 16. Qb5 Rd7 17. Rad1 Rad8 18. Rxd7 Rxd7 19. Nc1 h6 20. a3 a6 21.
+Qb6 Qxb6 22. cxb6 Nd4 23. Bxd4 exd4 24. a4 Bc5 25. Nd3 Bxb6 26. Rb1 Rd6 27.
+Bxb7 a5 28. Ba6 g5 29. Bb5 Kg7 30. Ne5 Bc5 31. Nc4 Bxc4 32. Bxc4 Bb4 33. Bb5
+Kf6 34. Rc1 Bc3 35. Bd3 Rc6 36. Kg2 Ke5 37. Rf1 Bd2 38. Rb1 Bb4 39. Rf1 Bd2 40.
+Rb1 Bb4 41. Rf1 f5 42. f4+ gxf4 43. Rxf4 Rf6 44. g4 Kxf4 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Smart, Leslie J"]
+[Black "Borg, Geoffrey"]
+[Result "0-1"]
+[ECO "C63"]
+[BlackElo "2360"]
+[PlyCount "38"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Qe2 d5 7. Nxe5 dxe4 8.
+Nxc6 bxc6 9. Bxc6+ Bd7 10. Bxe4 Nxe4 11. Qxe4+ Be7 12. d3 O-O 13. Bf4 Kh8 14.
+O-O Rb8 15. Bxc7 Qxc7 16. Qxe7 Rbe8 17. Qa3 Qxc2 18. Qxa7 Bb5 19. Qa3 Bxd3 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Speelman, Jonathan S"]
+[Black "Ady, Jonathan James"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2530"]
+[BlackElo "2305"]
+[PlyCount "49"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. O-O Bg7 8. d3
+Nxc3 9. bxc3 Bxc3 10. Rb1 Bg7 11. Qc2 Qd6 12. Be3 b6 13. Bf4 Qd7 14. d4 c4 15.
+Rfd1 Bb7 16. d5 Na5 17. Ne5 Bxe5 18. Bxe5 O-O 19. Bc3 Rac8 20. Qc1 Rfd8 21. Qh6
+f6 22. Bh3 Qc7 23. Be6+ Kh8 24. Rd4 Rg8 25. d6 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Nicholson, John G"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2560"]
+[BlackElo "2310"]
+[PlyCount "121"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. Bg5 a6 10. Bxf6 Bxf6 11. Qd3 Ra7 12. Rad1 Be7 13. Ne4 O-O 14. Rd2 Bxe4
+15. Qxe4 Qc8 16. b3 b5 17. Rc2 Rc7 18. Rfc1 bxc4 19. Rxc4 Rxc4 20. Qxc4 Qxc4
+21. Rxc4 d5 22. Rc2 Bf6 23. e3 e5 24. Bf1 Rd8 25. Rc7 g6 26. h4 Kg7 27. Bh3 Rd6
+28. Bf1 h6 29. a3 e4 30. Nd2 Bb2 31. Nb1 Nc6 32. Bxa6 d4 33. Be2 dxe3 34. fxe3
+Bc1 35. Nc3 Bxe3+ 36. Kg2 Nd4 37. Nxe4 Re6 38. Bd3 Nxb3 39. Bc4 Rxe4 40. Bxb3
+Bd4 41. Rxf7+ Kh8 42. Rb7 Re3 43. a4 Be5 44. a5 Rxg3+ 45. Kf2 Rc3 46. a6 Bd4+
+47. Ke2 Re3+ 48. Kd2 Rh3 49. Rd7 Rxb3 50. Rxd4 Ra3 51. Rd6 Kg7 52. Kc2 Ra5 53.
+Kb3 Kf7 54. Kb4 Ra1 55. Kb5 g5 56. Rxh6 gxh4 57. Rxh4 Ra2 58. Ra4 Rb2+ 59. Ka5
+Rd2 60. a7 Rd5+ 61. Kb4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Stebbings, Anthony J"]
+[Black "NOVAG MONSTER Y"]
+[Result "0-1"]
+[ECO "E83"]
+[WhiteElo "2210"]
+[PlyCount "148"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 Re8 8. Nge2
+Rb8 9. Nc1 e5 10. Nb3 Nxd4 11. Nxd4 exd4 12. Bxd4 a6 13. Be2 Bd7 14. O-O b5 15.
+cxb5 axb5 16. Rac1 c5 17. Be3 b4 18. Nd1 Be6 19. Bc4 Bxc4 20. Rxc4 Ra8 21. b3
+Qd7 22. Nf2 Qe6 23. Rd1 d5 24. Rxc5 dxe4 25. f4 Ng4 26. Nxg4 Qxg4 27. Rd5 Re7
+28. Qxb4 Rxa2 29. Qb8+ Bf8 30. R5d2 Rd7 31. h3 Qxd1+ 32. Rxd1 Rxd1+ 33. Kh2 Ra5
+34. b4 Rad5 35. Bc5 Rd8 36. Qb7 Bxc5 37. bxc5 Rc1 38. Qxe4 Rc8 39. f5 R1xc5 40.
+f6 R5c6 41. Qe7 Re6 42. Qd7 Rf8 43. Qd4 Rb8 44. h4 h5 45. Kg3 Rbb6 46. Qd8+ Kh7
+47. Qf8 Rxf6 48. Kh3 Rb3+ 49. Kh2 Rf4 50. Qe7 Rf2 51. Qd8 Rb4 52. Kg1 Rbb2 53.
+Kh1 Rbc2 54. Qb8 Ra2 55. Qd8 Rab2 56. Qd4 Rfe2 57. Qd8 Rbd2 58. Qc8 Rd4 59. Kg1
+Rxh4 60. Qd8 Rg4 61. Kh1 Rf4 62. Qc8 Rh4+ 63. Kg1 Rg4 64. Kh1 Rf4 65. Qd8 Rf1+
+66. Kh2 f5 67. Qf6 Rff2 68. Kh1 Rd2 69. Qf8 Rfe2 70. Qf6 Kh6 71. Qf8+ Kg5 72.
+Qg7 h4 73. Qh8 Rd1+ 74. Kh2 Ree1 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.16"]
+[Round "1"]
+[White "Wright, Josie H"]
+[Black "Thipsay, Bagyashree Sathe"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[BlackElo "2075"]
+[PlyCount "43"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6 dxc6 8.
+Nxe5 Be7 9. d4 Ne6 10. c3 O-O 11. Qd3 Bd6 12. Nd2 Nf4 13. Qf3 Ng6 14. Ndc4 Be6
+15. Nxd6 cxd6 16. Nxg6 hxg6 17. Qg3 Re8 18. Bf4 Bxa2 19. Bxd6 Qd7 20. f3 Rxe1+
+21. Rxe1 Re8 22. Rxe8+ 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Allen, Keith"]
+[Black "Jamieson, Peter McKeich"]
+[Result "1-0"]
+[ECO "B08"]
+[BlackElo "2315"]
+[PlyCount "59"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. h3 Nbd7 8. e5
+Nd5 9. Nxd5 cxd5 10. Bf4 dxe5 11. dxe5 Nc5 12. Qd2 Be6 13. Rfd1 Qb6 14. Qe3
+Rac8 15. Nd4 Rfd8 16. Bg5 Ne4 17. Nxe6 Qxe3 18. Bxe3 fxe6 19. Bxa7 Bxe5 20. c3
+Bf6 21. Bf3 Nd6 22. Bd4 Nf5 23. Rd2 e5 24. Bb6 Rd6 25. Bxd5+ e6 26. Bxb7 Rb8
+27. Rxd6 Rxb7 28. Rxe6 Kf7 29. Rxf6+ Kxf6 30. Bd8+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Ayinla, Jubrila"]
+[Black "Smart, Leslie J"]
+[Result "0-1"]
+[ECO "E87"]
+[WhiteElo "2205"]
+[PlyCount "103"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c5 8. Qd2 Ne8
+9. g4 f5 10. Bg5 Bf6 11. Bxf6 Qxf6 12. gxf5 Qh4+ 13. Qf2 Qxf2+ 14. Kxf2 gxf5
+15. Bh3 Na6 16. a3 Nac7 17. Bxf5 Bxf5 18. exf5 Rxf5 19. Ne4 b5 20. b3 bxc4 21.
+bxc4 Rb8 22. Ne2 Rb3 23. Rhg1+ Kf8 24. Rg3 Na8 25. Rag1 Nb6 26. Rg8+ Kf7 27.
+R1g3 Rbxf3+ 28. Rxf3 Rxf3+ 29. Kxf3 Kxg8 30. N2c3 Nxc4 31. a4 Kf7 32. Ng5+ Kg6
+33. Ne6 Kf5 34. Ne4 Nf6 35. Ng3+ Kg6 36. Nc7 a5 37. Ne4 Nxe4 38. Kxe4 Kf6 39.
+Nb5 Ke7 40. Kf5 Ne3+ 41. Ke4 Ng4 42. Kd3 Nxh2 43. Na7 Ng4 44. Nc6+ Kd7 45. Nxa5
+Nf6 46. Kc4 h5 47. Nb3 h4 48. Nd2 h3 49. Nf1 Ng4 50. Kb5 h2 51. Ng3 Ne3 52. Kb6
+0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Barber, Haydn"]
+[Black "NOVAG MONSTER X"]
+[Result "1-0"]
+[ECO "C69"]
+[WhiteElo "2270"]
+[PlyCount "94"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Bd7 10. Bf4 O-O-O 11. Nc3 c4 12. Na5 g5 13. Bg3 Bc5 14. e5 Nh6
+15. exf6 Bf5 16. Nxc4 Ng4 17. Rd5 Rxd5 18. Nxd5 Be6 19. Nce3 Nxe3 20. Nxe3 Bd4
+21. Re1 Rf8 22. Nd1 Rxf6 23. Be5 Bxe5 24. Rxe5 Kd7 25. Rxg5 Kc6 26. b3 Rf7 27.
+Ne3 Kd6 28. Rh5 b6 29. g3 a5 30. f4 a4 31. Rh6 Ke7 32. f5 Bd7 33. g4 Kf8 34.
+Rh3 axb3 35. axb3 Kg7 36. Kf2 Rf8 37. Ng2 Rf7 38. Nf4 Kf6 39. Re3 c6 40. Kg3
+Rf8 41. Nh5+ Kf7 42. Kf4 Ra8 43. Ng3 Ra2 44. Re2 Ra1 45. g5 Rd1 46. h4 Rd4+ 47.
+Re4 Rd2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Blackstock, Leslie Steven F"]
+[Black "Martin, Andrew D"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "2275"]
+[BlackElo "2425"]
+[PlyCount "66"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O b6 10. a4 Na6 11. Bg5 Nb4 12. Bb1 Re8 13. f4 Ba6 14. Nb5 Bxb5 15.
+axb5 Qd7 16. Bxf6 Bxf6 17. Nc3 a6 18. bxa6 Rxa6 19. Rxa6 Nxa6 20. e5 dxe5 21.
+Ne4 Bg7 22. f5 Nb4 23. d6 Rd8 24. fxg6 hxg6 25. Qb3 Qe6 26. Qxe6 fxe6 27. Ng5
+Rxd6 28. Bxg6 Bh6 29. Ne4 Rd4 30. Ng3 Be3+ 31. Kh1 Nd3 32. Bxd3 Rxd3 33. h4 Rd4
+0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Borg, Geoffrey"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2360"]
+[BlackElo "2560"]
+[PlyCount "64"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 b6 7. Nc3 Bb7 8. Bd3
+Nxc3 9. bxc3 Qc7 10. Bd2 d6 11. O-O Nd7 12. Bf4 Be7 13. Re1 O-O 14. Re3 g6 15.
+Rc1 dxe5 16. Nxe5 Nxe5 17. Bxe5 Bd6 18. Qg4 Bxe5 19. Rxe5 Rad8 20. h4 Rd5 21.
+Rxd5 Bxd5 22. Rc2 Bc4 23. Qe2 Rc8 24. Rd2 Bxd3 25. Rxd3 Qf4 26. Re3 Qxh4 27.
+Rxe6 Rxc3 28. Re8+ Kg7 29. Qd2 Rc4 30. d5 Qd4 31. Qxd4+ Rxd4 32. Re7 Rd1+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Caiafas, Theophilus"]
+[Black "Thipsay, Praveen Mahadeo"]
+[Result "0-1"]
+[ECO "E98"]
+[WhiteElo "2205"]
+[BlackElo "2470"]
+[PlyCount "47"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. f4 exf4 12. Bxf4 fxe4 13. Nxe4 Nf5 14. Qd2 Nf6
+15. Bg5 Nxe4 16. Bxd8 Nxd2 17. Rfd1 Nxc4 18. Bxc7 Nd4 19. Bf1 Rf7 20. Re1 Rxc7
+21. Re8+ Kf7 22. Rae1 Ne5 23. Rd8 Rd7 24. Rxd7+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Chandler, Murray G"]
+[Black "Howell, James C"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2485"]
+[BlackElo "2395"]
+[PlyCount "77"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Qd3 Be6 10. Nd5 Bxd5 11. exd5 Nbd7 12. c4 Ne8 13. Be3 a5 14. Rac1 a4 15.
+Nd2 Nc5 16. Qc2 Bg5 17. Bxg5 Qxg5 18. b4 axb3 19. axb3 Nf6 20. b4 Na6 21. Rb1
+Qf4 22. Rfd1 Ra7 23. g3 Qd4 24. Nf1 Qb6 25. c5 dxc5 26. Bxa6 Rxa6 27. bxc5 Qa7
+28. Ne3 g6 29. Rb5 Rc8 30. Qb2 Rxc5 31. Rxb7 Ra2 32. Rb8+ Kg7 33. Qxe5 Rc4 34.
+Rb2 Ra1 35. Rbd2 Rcc1 36. d6 h5 37. d7 Qxe3 38. Qxe3 Rxd1+ 39. Kg2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Clemance, Philip A"]
+[Black "Vaidya, Arun Bhaskar"]
+[Result "1-0"]
+[ECO "B83"]
+[WhiteElo "2220"]
+[BlackElo "2310"]
+[PlyCount "55"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O Nc6 8.
+Be3 O-O 9. f4 e5 10. Nb3 exf4 11. Rxf4 Ne8 12. Rf2 Bh4 13. Rf1 Bf6 14. Qd2 Be5
+15. Nd4 Nxd4 16. Bxd4 Be6 17. Qe3 a6 18. Rad1 Qc7 19. Bd3 Rc8 20. Nd5 Bxd4 21.
+Qxd4 Qc5 22. Qxc5 Rxc5 23. b4 Bxd5 24. bxc5 Bc6 25. cxd6 Nxd6 26. e5 Ne4 27.
+Bc4 Nc5 28. Rxf7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Gallagher, Joseph G"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[ECO "B93"]
+[WhiteElo "2370"]
+[BlackElo "2615"]
+[PlyCount "64"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 O-O 10. O-O Qb6+ 11. Kh1 exf4 12. a5 Qc7 13. Bd5 Ne5 14. Bxf4 Be6
+15. Nd4 Bxd5 16. exd5 Rfe8 17. Nf5 Bf8 18. Qd4 Rac8 19. Bg5 Nfd7 20. Ne4 g6 21.
+Nexd6 gxf5 22. Nxc8 Qxc8 23. c3 h6 24. Bh4 Nc5 25. Qf2 Ng6 26. Bg3 f4 27. Bxf4
+Nd3 28. Qf3 Ndxf4 29. g3 Qf5 30. gxf4 Nh4 31. Qg3+ Kh7 32. b4 Be7 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Hebden, Mark L"]
+[Black "Knott, Simon JB"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[WhiteElo "2480"]
+[BlackElo "2260"]
+[PlyCount "105"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. Nf3 Nbc6 7. a3 Bxc3+ 8.
+bxc3 Qa5 9. Bd2 Bd7 10. dxc5 O-O-O 11. Bd3 f5 12. Qg3 g5 13. Nd4 Rdg8 14. Qe3
+Qxc5 15. Nxc6 Qxe3+ 16. Bxe3 Nxc6 17. O-O f4 18. Bc5 g4 19. Rfe1 Rg5 20. c4 Re8
+21. Bd6 f3 22. Rad1 fxg2 23. c3 d4 24. Re4 dxc3 25. Rc1 Ne7 26. Re2 Bc6 27. Be4
+Bxe4 28. Rxe4 Nc6 29. Rxc3 h5 30. Kxg2 Rf5 31. h3 gxh3+ 32. Rxh3 Rg8+ 33. Rg3
+Rxg3+ 34. Kxg3 b6 35. f4 Kb7 36. Kf3 Na5 37. Rd4 Kc6 38. Be7 Nb7 39. Bf6 Kc7
+40. Rd1 Kc6 41. Rg1 Nc5 42. Ke3 b5 43. cxb5+ Kxb5 44. Be7 Na6 45. Bd6 h4 46.
+Rg5 Rf7 47. Rh5 Nc7 48. Ke4 Nd5 49. Rxh4 a5 50. Kf3 Kc6 51. Rg4 Kd7 52. a4 Kc6
+53. Rh4 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Johansen, Darryl Keith"]
+[Black "Coleman, David J"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2425"]
+[PlyCount "59"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 c6 8. O-O
+Nbd7 9. Qc2 h6 10. Rad1 Qe7 11. h3 Re8 12. Rfe1 Qf8 13. Bf1 Nh7 14. b4 f5 15.
+exf5 gxf5 16. d5 e4 17. Nd4 Ne5 18. Qd2 Qf6 19. Kh1 Bd7 20. dxc6 bxc6 21. b5 c5
+22. Nd5 Qh4 23. Nb3 Rab8 24. Nf4 Nf7 25. Nxc5 Bxb5 26. cxb5 dxc5 27. Bc4 Bd4
+28. Bxd4 cxd4 29. g3 e3 30. Qxd4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Lalic, Susan Kathryn"]
+[Black "Speelman, Jonathan S"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2010"]
+[BlackElo "2530"]
+[PlyCount "74"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nbd7 8. h3
+Bh5 9. Bf4 cxd4 10. cxd4 Qa5 11. Nc3 Be7 12. Ne5 Bxe2 13. Qxe2 Nd5 14. Nxd5
+Qxd5 15. Nxd7 Kxd7 16. Qe5 Rhc8 17. Rac1 Qxe5 18. dxe5 Rxc1 19. Rxc1 Rc8 20.
+Rxc8 Kxc8 21. Kf1 Kc7 22. Ke2 Kc6 23. Kd3 Kd5 24. Be3 a6 25. f4 Bh4 26. Bd2 g5
+27. Ke3 gxf4+ 28. Kxf4 Bd8 29. Bc3 Bc7 30. h4 f6 31. h5 Bxe5+ 32. Bxe5 fxe5+
+33. Ke3 e4 34. b4 b5 35. h6 Ke5 36. g3 Kf5 37. Kd4 Kg5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Law, Andrew P"]
+[Black "Murshed, Niaz"]
+[Result "1-0"]
+[ECO "A67"]
+[WhiteElo "2355"]
+[BlackElo "2415"]
+[PlyCount "73"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bd3 Rb8 13. Kh1 a6 14. a5 b5 15.
+axb6 Rxb6 16. Nd2 Rb4 17. Nc4 Nb6 18. Na5 Bd7 19. Nb7 Qf6 20. e5 dxe5 21. Nxc5
+exf4 22. N3e4 Qd8 23. Bxf4 Ncxd5 24. Bg5 f6 25. Bc1 f5 26. Nxd7 Qxd7 27. Nc5
+Qd6 28. Nxa6 Rd4 29. Qf3 Be5 30. Bh6 Rh4 31. Bxf8 Rxh2+ 32. Kg1 Bd4+ 33. Rf2
+Kxf8 34. Rd1 Rh5 35. Rdd2 Rh4 36. g3 Rg4 37. Qxg4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "NOVAG MONSTER Y"]
+[Black "King, Daniel J"]
+[Result "0-1"]
+[ECO "B92"]
+[BlackElo "2425"]
+[PlyCount "99"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Nc6 10. f4 Nb4 11. Kh1 Bd7 12. Be3 Bc6 13. Bf3 b5 14. axb5 axb5 15.
+Qe2 Qc7 16. Rxa8 Rxa8 17. Qd2 Qb7 18. Bg1 Bf8 19. fxe5 dxe5 20. Nc5 Qc7 21. Rd1
+Na6 22. Nxa6 Rxa6 23. g3 b4 24. Nd5 Bxd5 25. exd5 e4 26. Bg2 Rd6 27. Qe2 Nxd5
+28. Bxe4 Nf6 29. Bf3 Re6 30. Qd3 h5 31. Ra1 Ng4 32. Ra7 Qb8 33. Qf5 Rf6 34.
+Qxh5 Rxf3 35. Qxg4 Rf1 36. Qd4 Qb5 37. Rc7 Qf5 38. Qd2 Bc5 39. Rxc5 Qxc5 40.
+Qd8+ Qf8 41. Qd5 Rd1 42. Qc6 Qd8 43. h4 Qd5+ 44. Qxd5 Rxd5 45. Be3 Rd1+ 46. Kg2
+Rb1 47. Bd4 Rc1 48. c3 b3 49. Kf3 Rc2 50. c4 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Pein, Malcolm"]
+[Black "Jackson, Sheila"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "2370"]
+[BlackElo "2235"]
+[PlyCount "103"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nbd2 Be7 5. e3 Nbd7 6. Bd3 h6 7. Bh4 O-O 8.
+O-O b6 9. c3 Bb7 10. Ne5 Ne4 11. Bxe7 Qxe7 12. Nxd7 Qxd7 13. Bxe4 dxe4 14. Qc2
+f5 15. Nc4 a5 16. Ne5 Qd6 17. a3 a4 18. Rfd1 Rfd8 19. Rd2 c5 20. Rad1 Qc7 21.
+c4 Rd6 22. h3 Kh7 23. g3 cxd4 24. Rxd4 Rxd4 25. exd4 b5 26. Qe2 bxc4 27. Qxc4
+Qxc4 28. Nxc4 Bd5 29. Nb6 Rb8 30. Nxd5 exd5 31. Rc1 Rxb2 32. Rc5 Rb3 33. Rxd5
+Kg6 34. Re5 Rxa3 35. g4 fxg4 36. hxg4 Rd3 37. Rxe4 a3 38. Re6+ Kg5 39. Kg2 Rxd4
+40. Ra6 Rxg4+ 41. Kf3 Rb4 42. Rxa3 h5 43. Kg3 h4+ 44. Kh3 Kh5 45. Kg2 Kg4 46.
+Rf3 g5 47. Ra3 Kf4 48. Rf3+ Kg4 49. Ra3 Kf5 50. Rf3+ Rf4 51. Ra3 Re4 52. Rf3+
+1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Thipsay, Bagyashree Sathe"]
+[Black "Friedgood, David"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[WhiteElo "2075"]
+[BlackElo "2305"]
+[PlyCount "51"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f3 Qc7 11. Qf2 b5 12. Nxc6 Bxc6 13. Bd3 Be7 14. Rhe1 b4
+15. Ne2 e5 16. Kb1 a5 17. Ng3 g6 18. h3 Nd7 19. f4 Bh4 20. Rf1 Rh7 21. Qf3 exf4
+22. Qxf4 Bg5 23. Qf2 Bxe3 24. Qxe3 Ne5 25. Ne2 Qa7 26. Qxa7 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.17"]
+[Round "2"]
+[White "Short, Nigel D"]
+[Black "Davies, Nigel Rodney"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2535"]
+[BlackElo "2355"]
+[PlyCount "52"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. h3 O-O 6. Be3 Na6 7. g3 b6 8. Bg2
+Bb7 9. d5 c5 10. O-O Nc7 11. a4 e6 12. dxe6 fxe6 13. Bg5 h6 14. Bxf6 Bxf6 15.
+e5 dxe5 16. Qe2 Nd5 17. Ne4 Bg7 18. c3 Qe7 19. Rfe1 Rad8 20. a5 Bc6 21. axb6
+axb6 22. Ned2 Qb7 23. Qa6 Qf7 24. Qe2 Qb7 25. Qa6 Qf7 26. Qf1 Qb7 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Borg, Geoffrey"]
+[Black "Lalic, Susan Kathryn"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2360"]
+[BlackElo "2010"]
+[PlyCount "55"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 Bd7 13. Qxc3 Rc8 14. Rb1
+b6 15. Bd2 Nf5 16. Qd3 Nce7 17. Rb2 Ba4 18. Nc3 Bc6 19. Rg1 Qb7 20. g4 a6 21.
+Qxa6 Qxa6 22. Bxa6 Ra8 23. Rxb6 Nd4 24. Kf2 Nxc2 25. Nb5 Kd7 26. Rc1 Bxb5 27.
+Bxb5+ Kc7 28. Rd6 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Condie, Mark L"]
+[Black "Hebden, Mark L"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2380"]
+[BlackElo "2480"]
+[PlyCount "98"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d5 6. Bd3 dxe4 7. Nxe4 Nxe4 8.
+Bxe4 c5 9. c3 cxd4 10. Nxd4 Qa5 11. Be3 Nd7 12. O-O Ne5 13. Nb3 Qc7 14. Bf4 Rd8
+15. Qe2 Qc4 16. Rfe1 Qxe2 17. Rxe2 Nc4 18. Rae1 e5 19. Bg5 f6 20. Bc1 Rb8 21.
+Bc2 f5 22. Nc5 b5 23. a4 Bf8 24. Nd3 e4 25. Nf4 bxa4 26. Bxa4 Bd7 27. Bc2 Nxb2
+28. Bxe4 fxe4 29. Rxb2 Rxb2 30. Bxb2 Rb8 31. Ba1 a5 32. Nd5 Kf7 33. c4 Bf5 34.
+Kf1 a4 35. Ke2 a3 36. Bd4 Rb3 37. Ra1 Be6 38. Ne3 Rd3 39. Be5 Bc5 40. Rc1 a2
+41. Ba1 Rb3 42. Kd2 Bd7 43. Nd1 Rd3+ 44. Ke2 Ba3 45. Rc3 Ba4 46. Ne3 Rxc3 47.
+Bxc3 Bf8 48. Ng4 Bg7 49. Ne5+ Ke6 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Davies, Nigel Rodney"]
+[Black "Potts, Alan W"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2355"]
+[PlyCount "55"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. b3 c6 7. Bb2 d6 8. Nbd2
+Na6 9. e3 Nc7 10. Ne1 Be6 11. Nd3 Bf7 12. c4 Nd7 13. e4 fxe4 14. Nxe4 Ne6 15.
+d5 cxd5 16. cxd5 Nd4 17. Ng5 Nc5 18. Nf4 Nf3+ 19. Bxf3 Bxb2 20. b4 Bxa1 21.
+Qxa1 e5 22. dxe6 Qxg5 23. exf7+ Rxf7 24. h4 Qe5 25. bxc5 Qxa1 26. Rxa1 Kh8 27.
+cxd6 Rd8 28. Rd1 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Dunn, Andrew"]
+[Black "Ady, Jonathan James"]
+[Result "1-0"]
+[ECO "B44"]
+[BlackElo "2305"]
+[PlyCount "37"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 e6 6. e4 Bb4 7. Nxc6 bxc6 8.
+Bd3 h5 9. Qa4 Bc5 10. h3 Rb8 11. e5 Ng8 12. Ne4 Bb4+ 13. Kf1 a5 14. c5 f5 15.
+Nd6+ Kf8 16. Be3 f4 17. Bd4 Qh4 18. a3 f3 19. Be3 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Granat, Russell"]
+[Black "Martin, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2245"]
+[BlackElo "2425"]
+[PlyCount "67"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. Be2 Bg7 6. O-O O-O 7. c4 Nb6 8.
+Nc3 Bg4 9. h3 Bxf3 10. Bxf3 Nc6 11. c5 Nd7 12. Bxc6 bxc6 13. Qa4 e5 14. dxe5
+Qe7 15. Qxc6 Nxe5 16. Qe4 Qxc5 17. Be3 Qc4 18. Rac1 Rfe8 19. Qxc4 Nxc4 20. Nd5
+Nxe3 21. fxe3 Rac8 22. Rc2 f5 23. Rfc1 Re5 24. Rxc7 Rxc7 25. Nxc7 Rxe3 26. Nd5
+Re8 27. b4 Be5 28. Kf2 Kf7 29. Kf3 Rd8 30. Rc5 Rd6 31. Ra5 Rd7 32. g4 fxg4+ 33.
+hxg4 h6 34. Ke4 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Hodgson, Julian M"]
+[Black "Clemance, Philip A"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2455"]
+[BlackElo "2220"]
+[PlyCount "89"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 a6 8. Nbd2
+Na5 9. b4 Nxc4 10. bxc5 Nxd2 11. Bxd2 Bg4 12. cxd6 Qxd6 13. h3 Bh5 14. d4 Bxf3
+15. Qxf3 Rfe8 16. Bg5 Nd7 17. Rad1 f6 18. Bc1 Rad8 19. Qg3 Qe7 20. f4 exf4 21.
+Bxf4 c6 22. c4 c5 23. e5 fxe5 24. dxe5 Nf8 25. Bg5 Rxd1 26. Bxe7 Rxe1+ 27. Qxe1
+Rxe7 28. Qe4 Ne6 29. Qd5 Kf7 30. a4 Ke8 31. a5 Kf8 32. Kh2 Kf7 33. h4 Kf8 34.
+g3 Kf7 35. Kh3 Kf8 36. Kg4 Ke8 37. Qe4 Nf8 38. Qd5 Ne6 39. h5 Kf8 40. Qd6 Kf7
+41. Kf5 Nd4+ 42. Ke4 Ne6 43. Kd5 Re8 44. Qd7+ Re7 45. Qc8 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Howell, James C"]
+[Black "Johansen, Darryl Keith"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2370"]
+[BlackElo "2425"]
+[Annotator "Johansen,D"]
+[PlyCount "92"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "DB Johansen 2"]
+[Source "Johansen,D"]
+[SourceDate "2012.09.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. g3 f6
+9. Bd3 Be7 10. Kf1 cxd4 11. cxd4 O-O 12. Kg2 Kh8 13. Bc2 g5 14. exf6 Bxf6 15.
+fxg5 Bxd4 16. Ne2 Bg7 17. Qd3 Rf5 18. Be3 Qxb2 19. Rab1 Qxa2 20. Ned4 Nde5 21.
+Nxe5 Nxe5 22. Qe2 b6 23. Bxf5 Qxe2+ 24. Nxe2 exf5 25. Bd4 Ba6 26. Nf4 Rc8 $6 (
+26... Nd3 27. Bxg7+ Kxg7 $13) 27. Rbc1 Nc4 28. Bxg7+ Kxg7 29. Rhe1 Kf7 30. Nxd5
+$16 Rc5 31. Re7+ Kf8 32. Rxa7 Bb5 33. Nc3 Bc6+ 34. Kf2 Ne5 35. Ke3 Ng4+ 36. Kf4
+$6 Nf2 37. Ke3 Ng4+ 38. Kd4 Nxh2 39. Ne2 Rd5+ 40. Ke3 Ng4+ 41. Kf4 Ne5 42. Rb1
+Ng6+ 43. Ke3 b5 44. Rxh7 Ne5 45. Nf4 Nc4+ 46. Kf2 Rd2+ {Source: Darryl
+Johansen. Contributed by Paul Summers, 16 February 2023.} 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Jackson, Sheila"]
+[Black "Ravisekhar, Raja"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2235"]
+[BlackElo "2420"]
+[PlyCount "74"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 Nc6 5. Ne2 g6 6. O-O Bg7 7. d5 Ne5 8. Bc2
+O-O 9. f4 Ned7 10. Nd2 Rb8 11. a4 a6 12. a5 b5 13. axb6 Nxb6 14. h3 Ne8 15. Bd3
+Nc7 16. Nc4 Nxc4 17. Bxc4 Bd7 18. Ra2 Bb5 19. Bxb5 axb5 20. f5 Ne8 21. fxg6
+hxg6 22. Bg5 Nf6 23. Ng3 Nd7 24. Qd2 Ne5 25. Bh6 f6 26. Bxg7 Kxg7 27. Ne2 Rf7
+28. Nf4 Qb6 29. Ne6+ Kg8 30. Rfa1 b4 31. Ra8 bxc3 32. bxc3 Rh7 33. Rxb8+ Qxb8
+34. Qa2 Kf7 35. Rb1 Qe8 36. Qa7 Rh8 37. Rb7 Rg8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Jamieson, Peter McKeich"]
+[Black "Patgawkar, V."]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2315"]
+[PlyCount "55"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 Be7 8. O-O
+Nbd7 9. Nb3 b5 10. Qe1 Qc7 11. Bd2 Bb7 12. a3 O-O-O 13. Nd1 Rdg8 14. a4 bxa4
+15. Rxa4 Qc6 16. Rc4 Nc5 17. Na5 Qb6 18. Nxb7 Kxb7 19. Rb4 Nxd3+ 20. Rxb6+ Kxb6
+21. cxd3 d5 22. Bb4 Bd8 23. Nc3 Bc7 24. Ba5+ Kb7 25. Bxc7 Kxc7 26. exd5 exd5
+27. Qe7+ Kc8 28. Nb5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "King, Daniel J"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "2425"]
+[BlackElo "2585"]
+[PlyCount "92"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. f4 d5 3. Nc3 dxe4 4. Nxe4 Qc7 5. Nf3 Nf6 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
+8. d3 g6 9. Nxf6+ Nxf6 10. Ne5 Bg7 11. Qf3 O-O 12. O-O Nd7 13. Nxd7 Qxd7 14. f5
+Rac8 15. Kh1 Qxf5 16. Qxf5 gxf5 17. Rxf5 c4 18. Be3 cxd3 19. cxd3 b6 20. Rf2
+Rfd8 21. Rd2 Rd5 22. Kg1 f5 23. Kf1 Kf7 24. g3 Rc6 25. a4 Ra5 26. Kf2 Rc7 27.
+Ra2 Rc1 28. b4 Rd5 29. a5 Rb5 30. axb6 axb6 31. Ra7 Rc6 32. Re2 Bf6 33. Rb7
+Rxb4 34. Ra2 Rb3 35. Rd7 Ke6 36. Rb7 Kf7 37. Rd7 b5 38. h3 b4 39. g4 fxg4 40.
+hxg4 Rbc3 41. Raa7 Re6 42. Rab7 Rc2+ 43. Kf3 Bc3 44. Bc5 Rce2 45. Bxb4 R6e3+
+46. Kf4 Be5+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Law, Andrew P"]
+[Black "Bellin, Robert"]
+[Result "0-1"]
+[ECO "A93"]
+[WhiteElo "2335"]
+[BlackElo "2390"]
+[PlyCount "88"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d5 7. b3 Nc6 8. Nc3
+Bd7 9. Bb2 Be8 10. Ng5 Bf7 11. e3 Qd7 12. Nxf7 Rxf7 13. Rc1 Bf8 14. Na4 b6 15.
+Qc2 Nb4 16. Qb1 Ne4 17. Rfd1 Rd8 18. a3 Nc6 19. Nc3 Nf6 20. b4 Ne7 21. Qa2 g5
+22. a4 Bh6 23. cxd5 exd5 24. Nb5 c6 25. Nc3 f4 26. e4 f3 27. Bxf3 g4 28. Bg2
+Bxc1 29. Bxc1 Nxe4 30. Nxe4 dxe4 31. Bxe4 Nd5 32. Qc4 Re8 33. Bg2 Qf5 34. Bf4
+Nxf4 35. gxf4 Qxf4 36. Qc2 Rfe7 37. Qc4+ Kg7 38. Qc3 Rf8 39. Rf1 Rf6 40. Bxc6
+Re2 41. Bg2 Rxf2 42. Re1 Rd2 43. Kh1 Qxd4 44. Qc7+ Rf7 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Littlewood, Paul E"]
+[Black "Pein, Malcolm"]
+[Result "1-0"]
+[ECO "D84"]
+[WhiteElo "2445"]
+[BlackElo "2370"]
+[PlyCount "61"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8.
+Bxc7 Na6 9. Bxa6 Qxg2 10. Qf3 Qxf3 11. Nxf3 bxa6 12. Rg1 Be6 13. Kd2 f6 14.
+Rgc1 Bd5 15. Ne1 e5 16. Rc5 Bb7 17. d5 Rf7 18. d6 Bf8 19. Rd1 Rd7 20. Ke2 Re8
+21. Rc3 Re6 22. Nd3 Rexd6 23. Bxd6 Rxd6 24. Ne1 e4 25. Rc7 Rb6 26. b3 a5 27.
+Rd8 a4 28. Kd2 axb3 29. axb3 Rxb3 30. Nc2 Rb2 31. Rb8 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "NOVAG MONSTER X"]
+[Black "Thomas, Ian L"]
+[Result "0-1"]
+[ECO "A40"]
+[PlyCount "62"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 b5 2. e4 Bb7 3. f3 a6 4. c4 bxc4 5. Bxc4 e6 6. Nc3 Bb4 7. Nge2 d5 8. Bd3
+c5 9. O-O cxd4 10. Nxd4 Bc5 11. Be3 e5 12. Qa4+ Qd7 13. Nf5 d4 14. Qc4 Ba7 15.
+Qb4 dxe3 16. Nd6+ Kf8 17. Nxb7+ Ne7 18. Be2 Nbc6 19. Nc5 Qc8 20. Qa3 Nd4 21.
+Nb3 Nc2 22. Qd6 Bb8 23. Qd3 Nxa1 24. Rxa1 g6 25. Rc1 Kg7 26. Nd5 Qd8 27. Nxe7
+Qxe7 28. Nc5 a5 29. Qxe3 Ba7 30. b4 axb4 31. Ba6 Bxc5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Norwood, David"]
+[Black "NOVAG MONSTER Y"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2335"]
+[PlyCount "65"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Nc3 Bb7 5. e3 Be7 6. Bd3 O-O 7. O-O d5 8. cxd5
+exd5 9. Ne5 Nbd7 10. f4 c5 11. Qf3 Rc8 12. Bf5 g6 13. Bh3 cxd4 14. exd4 Bb4 15.
+Nxd7 Nxd7 16. f5 Ba6 17. Rf2 Bxc3 18. bxc3 Qe7 19. Bh6 Rfd8 20. fxg6 hxg6 21.
+Qxd5 Nf8 22. Qg5 Qd6 23. Bxc8 Rxc8 24. Bxf8 Qxf8 25. Qg3 Bc4 26. Re1 Qa3 27. h4
+Bd5 28. h5 Qf8 29. hxg6 f6 30. Qh3 Rc7 31. Rxf6 Qd8 32. Ref1 Qe8 33. Rf8+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Nunn, John DM"]
+[Black "Watson, William N"]
+[Result "0-1"]
+[ECO "B70"]
+[WhiteElo "2615"]
+[BlackElo "2460"]
+[PlyCount "60"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Kh1 Nc6 9. Nb3 a5 10. a4 Be6 11. Bg5 Rc8 12. f4 Nb4 13. Bh4 Nd7 14. Qd2 Bxb3
+15. cxb3 Nc5 16. Qd1 Nc6 17. Rc1 Bxc3 18. Rxc3 Nxe4 19. Rh3 d5 20. f5 Qd6 21.
+Bd3 Ne5 22. Bb1 Rc6 23. fxg6 fxg6 24. Rxf8+ Kxf8 25. Be1 h5 26. Bxe4 dxe4 27.
+Qe2 Rc1 28. Rc3 Ra1 29. Qe3 Ng4 30. Rc8+ Kf7 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Spraggett, Kevin"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "B64"]
+[WhiteElo "2560"]
+[BlackElo "2530"]
+[PlyCount "48"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 e5 11. Nf5 Bxf5 12. exf5 exf4 13. Kb1 d5 14. Bxf6
+Bxf6 15. Nxd5 Be5 16. Bc4 b5 17. Bxb5 Rb8 18. c4 Nd4 19. Rhe1 f6 20. Qf2 Nxb5
+21. cxb5 Rxb5 22. Nxf4 Qa5 23. Nd3 Rfb8 24. Nxe5 Rxb2+ 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.18"]
+[Round "3"]
+[White "Thipsay, Praveen Mahadeo"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "C16"]
+[WhiteElo "2470"]
+[BlackElo "2535"]
+[PlyCount "110"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Nf3 b6 6. a3 Bxc3+ 7. bxc3 Qd7 8. a4
+Ba6 9. Bd3 Bxd3 10. cxd3 Nbc6 11. O-O O-O 12. Re1 Rac8 13. Ng5 h6 14. Nh3 Ng6
+15. Qh5 Nce7 16. g4 f6 17. exf6 Rxf6 18. g5 Rf5 19. Qg4 Kh7 20. Ra2 c5 21. Rae2
+Rc6 22. Kh1 cxd4 23. cxd4 Qe8 24. Ba3 Qf7 25. Re3 Ng8 26. Rg1 e5 27. gxh6 gxh6
+28. Bb2 Nf8 29. dxe5 Rg6 30. Qd4 Rxg1+ 31. Kxg1 Ne6 32. Qxd5 Ne7 33. Qe4 Nc5
+34. Qg4 Qa2 35. Rg3 Ne6 36. Qb4 Qb1+ 37. Kg2 Nd5 38. Qe4 Nef4+ 39. Nxf4 Nxf4+
+40. Kf3 Qd1+ 41. Ke3 Qe2+ 42. Kd4 Qxb2+ 43. Kc4 Qa2+ 44. Kb5 Qe6 45. Qb7+ Rf7
+46. Qe4+ Ng6 47. d4 Rxf2 48. Qb7+ Rf7 49. Qe4 Rf4 50. Qb7+ Qe7 51. Qc6 Nf8 52.
+Qc4 Qd7+ 53. Ka6 Ne6 54. Qc2+ Kh8 55. Qg6 Nc5+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Ayinla, Jubrila"]
+[Black "Koelle, Arthur"]
+[Result "0-1"]
+[ECO "D32"]
+[WhiteElo "2205"]
+[PlyCount "56"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. Bf4 Nf6 7. h3 Bf5 8. e3
+a6 9. Be2 h6 10. Rc1 c4 11. O-O b5 12. Ne5 Na5 13. Bf3 Bb4 14. Nxd5 Nxd5 15. e4
+Nxf4 16. exf5 Rc8 17. a3 Bd6 18. Qe1 O-O 19. Qe4 Qg5 20. g3 Bxe5 21. dxe5 Nd3
+22. Rc2 Nb3 23. Rd1 Nbc5 24. Qe2 Rce8 25. Be4 Rxe5 26. f3 Qxg3+ 27. Kh1 Qxh3+
+28. Kg1 Rfe8 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Barber, Haydn"]
+[Black "King, Daniel J"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2270"]
+[BlackElo "2425"]
+[PlyCount "56"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Nc6 10. f4 Nb4 11. Kh1 Be6 12. Be3 Rc8 13. a5 exf4 14. Bxf4 d5 15. e5
+Ne4 16. Nxe4 dxe4 17. Nd4 Nd5 18. c3 Rc5 19. Nxe6 fxe6 20. Bg3 Rxf1+ 21. Qxf1
+Rxa5 22. Bg4 Ne3 23. Bxe6+ Kh8 24. Qc1 Rxa1 25. Qxa1 Qd3 26. Bf2 Nd1 27. h3
+Nxf2+ 28. Kh2 Bh4 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Blackstock, Leslie Steven F"]
+[Black "Friedgood, David"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[WhiteElo "2275"]
+[BlackElo "2305"]
+[PlyCount "40"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 a6 6. Be3 c6 7. c5 O-O 8. Nge2
+Nbd7 9. Nc1 dxc5 10. dxc5 Ne5 11. Qxd8 Rxd8 12. Na4 Be6 13. Be2 Nfd7 14. Nb3
+Bc4 15. Na5 Bb5 16. Nc3 Nd3+ 17. Bxd3 Bxd3 18. O-O-O Bxc3 19. bxc3 Ne5 20. Rd2
+Nc4 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Chandler, Murray G"]
+[Black "Bellin, Robert"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2585"]
+[BlackElo "2390"]
+[PlyCount "95"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 g5 11. fxg5 Ng4 12. Be2 Nge5 13. Nxc6 Bxc6 14. g3
+Ng6 15. Kb1 h5 16. Qe3 Bg7 17. Nd5 exd5 18. exd5+ Qe7 19. Qxe7+ Kxe7 20. dxc6
+bxc6 21. c3 a5 22. a4 Be5 23. Bc4 d5 24. Bd3 Kd6 25. Rhf1 Ra7 26. Rd2 Rb7 27.
+Ka2 Re7 28. Rdf2 Rh7 29. Kb1 Rb7 30. Kc2 Rg7 31. Re2 Nxh4 32. gxh4 Rg8 33. Ref2
+Rg7 34. Rf5 Re7 35. R1f2 Rb7 36. Ba6 Ra7 37. Be2 Rh7 38. Bd3 Rg7 39. Re2 Re7
+40. c4 c5 41. cxd5 Kxd5 42. b3 Kd6 43. Bc4 Rh7 44. Kd3 Rg7 45. Bxf7 Rgxf7 46.
+Rexe5 Rxf5 47. Rxf5 Rb7 48. g6 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Hanreck, Alan E"]
+[Black "Thipsay, Praveen Mahadeo"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "2275"]
+[BlackElo "2470"]
+[PlyCount "80"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 c5 6. Nge2 Nc6 7. O-O d6 8. d3
+a6 9. h3 Rb8 10. a4 Ne8 11. Be3 Nd4 12. Rb1 Nc7 13. b4 Bd7 14. Bxd4 cxd4 15.
+Nd5 b6 16. Kh2 e6 17. Ndf4 Bc6 18. Qc2 Qd7 19. b5 Ba8 20. Qa2 a5 21. Nc1 Kh8
+22. Nb3 f5 23. exf5 gxf5 24. Nh5 Bxg2 25. Kxg2 e5 26. Nxg7 Qxg7 27. Qe2 Ne6 28.
+Qf3 Rf6 29. Rh1 Rbf8 30. Rbf1 f4 31. Qc6 fxg3 32. fxg3 Nf4+ 33. Kh2 Nh5 34. Qg2
+Rxf1 35. Rxf1 Rxf1 36. Qxf1 Qxg3+ 37. Kh1 Nf4 38. Nd2 Qxd3 39. Qxd3 Nxd3 40.
+Kg2 Nc5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Hebden, Mark L"]
+[Black "Borg, Geoffrey"]
+[Result "1-0"]
+[ECO "C39"]
+[WhiteElo "2480"]
+[BlackElo "2360"]
+[PlyCount "97"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 d6 7. Nd3 Nxe4 8. Qe2
+Qe7 9. Bxf4 Bg7 10. c3 h5 11. Nd2 Nxd2 12. Kxd2 Qxe2+ 13. Bxe2 Nc6 14. Rae1 Be6
+15. Rhf1 Kd7 16. Bd1 Rae8 17. Bg5 Bxa2 18. b3 f6 19. Bxf6 Rxe1 20. Kxe1 Re8+
+21. Be2 Bxf6 22. Rxf6 Bxb3 23. Rf5 Bc4 24. Kd2 Rh8 25. Rxh5 Rxh5 26. Bxg4+ Ke7
+27. Bxh5 a5 28. Bf3 Bxd3 29. Kxd3 Nd8 30. g4 b5 31. g5 c5 32. dxc5 dxc5 33. Ke4
+a4 34. Bd1 Nc6 35. h5 a3 36. Bb3 Na5 37. Ba2 b4 38. cxb4 cxb4 39. h6 Kf8 40.
+Bd5 a2 41. Bxa2 b3 42. Bb1 Nc4 43. Kf5 Nd6+ 44. Kf6 Ne8+ 45. Ke5 Kf7 46. Bd3 b2
+47. g6+ Kg8 48. Bc4+ Kh8 49. Ba2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Howell, James C"]
+[Black "Granat, Russell"]
+[Result "1-0"]
+[ECO "C91"]
+[WhiteElo "2395"]
+[BlackElo "2245"]
+[PlyCount "71"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Be7 6. Re1 Nf6 7. c3 O-O 8. d4
+b5 9. Bb3 exd4 10. cxd4 Bg4 11. Nc3 b4 12. Nd5 Rb8 13. Nxe7+ Qxe7 14. Bg5 Rb5
+15. Bh4 Rh5 16. Bg3 Nd8 17. h3 Bxf3 18. Qxf3 Ra5 19. Bh4 g5 20. e5 Ne8 21. exd6
+Qxd6 22. Bg3 Qg6 23. Rac1 Ne6 24. Bxe6 fxe6 25. Qb3 Qf7 26. Rxe6 Ng7 27. Rxc7
+Nxe6 28. Rxf7 Kxf7 29. d5 Nf4 30. Bxf4 gxf4 31. d6+ Kg7 32. Qxb4 Rb5 33. Qd4+
+Kh6 34. d7 Rbb8 35. Qd6+ Kg7 36. Qe7+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Jackson, Sheila"]
+[Black "Orr, Mark JL"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2235"]
+[BlackElo "2320"]
+[PlyCount "80"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Nbd7 8.
+Nc3 h6 9. Bh4 Qxe2+ 10. Bxe2 g6 11. O-O Bg7 12. d4 a6 13. Rfe1 O-O 14. a4 Nb6
+15. Bxf6 Bxf6 16. a5 Nd7 17. Nd5 Bd8 18. Bc4 Nf6 19. Ne7+ Kg7 20. Nxc8 Rxc8 21.
+g3 Re8 22. Rxe8 Nxe8 23. c3 c6 24. Bf1 d5 25. b4 Nd6 26. Nd2 Bg5 27. f4 Bf6 28.
+Nf3 g5 29. Re1 gxf4 30. gxf4 Ne4 31. Re3 Rg8 32. Bh3 Be7 33. Ne1 Bh4 34. Kf1
+Nd2+ 35. Ke2 Nc4 36. Nf3 Nxe3 37. Kxe3 Re8+ 38. Kd3 Bf2 39. Bg2 Be3 40. f5 Bf4
+0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Johansen, Darryl Keith"]
+[Black "Hon, Kah Seng Christie"]
+[Result "1-0"]
+[ECO "E46"]
+[WhiteElo "2425"]
+[BlackElo "2345"]
+[PlyCount "61"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. cxd5 exd5 8. g3
+a5 9. Bg2 c6 10. O-O Bf5 11. h3 Re8 12. g4 Bg6 13. f4 Be4 14. g5 Bxg2 15. gxf6
+Bxf1 16. fxe7 Qxe7 17. Qxf1 Nd7 18. Bd2 a4 19. Ng3 Nb6 20. Re1 Nc4 21. Bc1 Qf6
+22. Kh2 b5 23. Qf2 Rad8 24. Na2 Rd6 25. Nb4 Rde6 26. Nd3 g6 27. Re2 Qe7 28. Nc5
+Rd6 29. e4 dxe4 30. Ncxe4 Rdd8 31. f5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Lalic, Susan Kathryn"]
+[Black "Macfarlane, Donald"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "2010"]
+[PlyCount "72"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. Nxd4 g6 6. Nc3 Bg7 7. Nxc6 bxc6 8.
+O-O Qe7 9. Kh1 Nf6 10. f3 O-O 11. Bg5 Qe5 12. f4 Qc5 13. Bd3 Qb4 14. Qe1 Qxb2
+15. Rb1 Qa3 16. Rb3 Qa5 17. Bxf6 Bxf6 18. Nd5 Qxe1 19. Nxf6+ Kg7 20. Nh5+ Kh6
+21. Rxe1 Kxh5 22. Reb1 Re8 23. h3 Be6 24. Rb7 Re7 25. g4+ Kh4 26. f5 Bc8 27. f6
+Re6 28. Rxc7 Rxf6 29. Rf1 Rxf1+ 30. Bxf1 Be6 31. a4 d5 32. e5 Kg3 33. Rxc6 Rc8
+34. Rxc8 Bxc8 35. Bg2 d4 36. Kg1 h5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Martin, Andrew D"]
+[Black "Carton, Pat"]
+[Result "1-0"]
+[ECO "E45"]
+[WhiteElo "2425"]
+[BlackElo "2300"]
+[PlyCount "75"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ba6 6. Ng3 O-O 7. e4 Bxc3+ 8.
+bxc3 d6 9. Bd3 Nc6 10. O-O e5 11. Be3 Bc8 12. h3 h6 13. f4 exf4 14. Rxf4 Nh7
+15. Qd2 Qe7 16. Raf1 Nd8 17. Nf5 Bxf5 18. exf5 f6 19. Rg4 Kh8 20. Re1 Qd7 21.
+Re4 Nc6 22. Bc2 Rae8 23. Rxe8 Rxe8 24. Ba4 d5 25. cxd5 Qxd5 26. Bxh6 Rxe1+ 27.
+Qxe1 gxh6 28. Qe8+ Kg7 29. Bb3 Qd8 30. Qxc6 Ng5 31. h4 Qe7 32. Be6 Nxe6 33.
+fxe6 f5 34. Qd5 Kg6 35. h5+ Kg5 36. Qe5 c6 37. g3 Qa3 38. e7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "NOVAG MONSTER X"]
+[Black "Murphy, Hugh W"]
+[Result "0-1"]
+[ECO "E40"]
+[PlyCount "109"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 d6 6. Nf3 b6 7. Bd3 Bb7 8.
+O-O Nbd7 9. Qe2 Ne4 10. Qc2 f5 11. Nd2 Nxd2 12. Bxd2 O-O 13. Rab1 Qf6 14. Qa4
+Rf7 15. f4 Qe7 16. Be1 Nf6 17. Bh4 Qd7 18. Qxd7 Nxd7 19. Rb3 h6 20. Rfb1 g6 21.
+g4 Rg7 22. gxf5 gxf5+ 23. Kf1 Kf7 24. R1b2 Rag8 25. Bf2 Bf3 26. Ke1 Ke8 27. Ra3
+a5 28. Rab3 Rg4 29. Bf1 Be4 30. Kd2 Kd8 31. Bh3 R4g6 32. Bh4+ Kc8 33. Bg3 Kb7
+34. Ke2 Kc6 35. Rb5 Nf6 36. Bh4 Nh5 37. Bf1 Rg1 38. Bf2 Rh1 39. h3 Bg2 40.
+Bxg2+ Rxg2 41. d5+ Kd7 42. Kf3 Rgh2 43. h4 Nf6 44. c5 dxc5 45. c4 Ne4 46. dxe6+
+Kxe6 47. Rc2 Rf1 48. Rbb2 a4 49. a3 c6 50. Re2 b5 51. cxb5 cxb5 52. Rbc2 b4 53.
+axb4 cxb4 54. Rc6+ Kd5 55. Rcc2 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "NOVAG MONSTER Y"]
+[Black "Coleman, David J"]
+[Result "0-1"]
+[ECO "E97"]
+[PlyCount "86"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 12. a4 f5 13. bxc5 bxc5 14. f3 f4 15. Kh1
+g5 16. Ba3 Rf6 17. Rb3 Rh6 18. Qc2 Nf6 19. Rfb1 g4 20. fxg4 Nxg4 21. Bxg4 Bxg4
+22. h3 Ng6 23. Qd3 f3 24. Nxf3 Nf4 25. Qf1 Nxh3 26. gxh3 Rxh3+ 27. Nh2 Bf3+ 28.
+Qxf3 Rxf3 29. Nxf3 Qc8 30. Kh2 Qg4 31. Rb8+ Rxb8 32. Rxb8+ Kf7 33. Ng1 Bh6 34.
+Kh1 Be3 35. Nce2 Qxe4+ 36. Kh2 Qxc4 37. Rb2 Qxa4 38. Rb7+ Kg6 39. Bb2 Qd1 40.
+Rb8 Qxd5 41. Kg3 Qd3 42. Kg2 c4 43. Nc3 d5 {time} 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Nunn, John DM"]
+[Black "Davies, Nigel Rodney"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2615"]
+[BlackElo "2355"]
+[PlyCount "71"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. h3 O-O 6. Be3 Na6 7. Be2 c5 8. dxc5
+Nxc5 9. e5 Nfe4 10. Nxe4 Nxe4 11. Qd5 Nc5 12. exd6 exd6 13. c3 Be6 14. Qd2 Ne4
+15. Qc2 d5 16. O-O Qc7 17. Bd4 Qf4 18. Bxg7 Kxg7 19. Rad1 Rac8 20. Rd4 Qf6 21.
+Qa4 a6 22. Qb4 Ng5 23. Rf4 a5 24. Qa4 Nxf3+ 25. Rxf3 Qe5 26. Re3 Qc7 27. Qd4+
+Kg8 28. Rd1 Rfd8 29. h4 Qc5 30. Qf6 Qf8 31. Rd4 Rd6 32. Qf4 Rb6 33. Rd2 Qd6 34.
+Qf6 Bf5 35. Qd4 Qc5 36. Re8+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Potts, Alan W"]
+[Black "Clemance, Philip A"]
+[Result "1-0"]
+[ECO "C71"]
+[BlackElo "2220"]
+[PlyCount "45"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4 Bg4 6. Nc3 Nge7 7. d3 g6 8. Bg5
+Qc8 9. Nd5 h6 10. Bf6 Rg8 11. O-O Bd7 12. d4 Nxd4 13. Nxd4 exd4 14. Bxd7+ Qxd7
+15. Qxd4 b6 16. b4 O-O-O 17. a4 Nxd5 18. cxd5 Be7 19. Bxe7 Qxe7 20. a5 Kb7 21.
+axb6 cxb6 22. Qc4 Ra8 23. Qc6+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Hodgson, Julian M"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[WhiteElo "2535"]
+[BlackElo "2455"]
+[PlyCount "51"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Bd2 O-O 9. Bc3 f6 10. d4 exd4 11. Nxd4 Nc5 12. Qe2 Bd6 13. Nd2 Re8 14. f4 Kh8
+15. b3 Ne6 16. Nxe6 Bxe6 17. Rae1 Bc5+ 18. Kh1 Bd4 19. Qd3 Bxc3 20. Qxc3 Qd6
+21. e5 fxe5 22. Ne4 Qd4 23. fxe5 Qxc3 24. Nxc3 Rad8 25. Kg1 Kg8 26. Rf2 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Speelman, Jonathan S"]
+[Black "Littlewood, Paul E"]
+[Result "1/2-1/2"]
+[ECO "E64"]
+[WhiteElo "2530"]
+[BlackElo "2445"]
+[PlyCount "97"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 c5 7. h3 Nc6 8. Be3
+Qa5 9. Qd2 Qb4 10. b3 Bf5 11. Rc1 Ne4 12. Nxe4 Bxe4 13. d5 Qxd2+ 14. Bxd2 Nb4
+15. Bxb4 cxb4 16. O-O a5 17. c5 Bc3 18. cxd6 exd6 19. Rfd1 Rfe8 20. e3 Bxf3 21.
+Bxf3 a4 22. Rc2 axb3 23. axb3 Ra3 24. Rb1 Rea8 25. Be4 Kg7 26. h4 Ra1 27. Rcc1
+R1a2 28. Rc2 Ra1 29. Rcc1 R1a2 30. Rc2 Rxc2 31. Bxc2 Kf6 32. Be4 Ke5 33. Bf3
+Ra2 34. Bg2 f5 35. Kf1 h6 36. f4+ Kf6 37. Bf3 Bd2 38. Kf2 Rc2 39. Ke2 Ra2 40.
+Kf2 Bc1+ 41. Be2 Rc2 42. Kf3 Rc3 43. Bd3 Rxd3 44. Rxc1 Rxd5 45. Rc4 Rb5 46. Rc7
+h5 47. Rd7 Ke6 48. Rg7 Kf6 49. Rd7 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.19"]
+[Round "4"]
+[White "Watson, William N"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2460"]
+[BlackElo "2560"]
+[PlyCount "86"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 e6 3. f4 d5 4. Nf3 Nc6 5. Bb5 Nf6 6. Ne5 Qc7 7. Qe2 Be7 8. O-O
+O-O 9. Bxc6 bxc6 10. b3 c4 11. bxc4 Bb4 12. exd5 cxd5 13. cxd5 exd5 14. Bb2 Re8
+15. Kh1 Bb7 16. a3 Bc5 17. Qd3 Rad8 18. Rab1 Qc8 19. Nb5 d4 20. Nxd4 Qa8 21.
+Nef3 Re4 22. Qb5 Bb6 23. c4 Rxf4 24. c5 Rd5 25. Rbc1 Ne4 26. Ne2 Rg4 27. d4 Rh5
+28. Qd7 Nf6 29. Qd6 Rd5 30. Qe7 Re4 31. Qxe4 Nxe4 32. cxb6 axb6 33. Rc7 Nf6 34.
+Rfc1 Rd8 35. Neg1 Nd5 36. R7c2 Ne3 37. Re2 Nd5 38. Rce1 h6 39. Re5 Nf4 40. Rf5
+Nd3 41. Re2 Be4 42. Rb5 Qc6 43. a4 Nf4 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Bellin, Robert"]
+[Black "Hodgson, Julian M"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2390"]
+[BlackElo "2455"]
+[PlyCount "62"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 Bg4 4. e3 Nbd7 5. Be2 e6 6. O-O Bd6 7. c4 Bxf3 8.
+Bxf3 c6 9. cxd5 exd5 10. Ba3 Bxa3 11. Nxa3 a5 12. Nc2 O-O 13. d3 Re8 14. Qd2
+Nf8 15. Be2 Qd6 16. f4 c5 17. Bf3 b5 18. g3 Ra7 19. Rfe1 b4 20. Qg2 a4 21. e4
+dxe4 22. dxe4 axb3 23. e5 Qd3 24. axb3 Rxa1 25. Nxa1 N6d7 26. Rd1 Qc3 27. Bc6
+Re7 28. Qc2 Qe3+ 29. Qf2 Qc3 30. Qc2 Qe3+ 31. Qf2 Qc3 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Condie, Mark L"]
+[Black "Dunn, Andrew"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2380"]
+[PlyCount "65"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Bg5 Nbd7 5. e3 c6 6. Nc3 Qa5 7. cxd5 Nxd5 8.
+Qd2 N7b6 9. Bd3 Na4 10. O-O Ndxc3 11. bxc3 Qxc3 12. Qe2 Qb2 13. Bc2 Qb5 14. Qd2
+Bb4 15. Qc1 Nc3 16. Qb2 Ba5 17. Bb3 Ne4 18. a4 Qb6 19. Qc2 Nxg5 20. Nxg5 Qd8
+21. f4 h6 22. Nxf7 Kxf7 23. f5 Ke8 24. fxe6 Qg5 25. Qe4 Bd2 26. Rf3 Rf8 27.
+Raf1 Rxf3 28. Rxf3 a5 29. h4 Qh5 30. e7 Qxf3 31. gxf3 Bh3 32. Kh2 Bf1 33. Qe6
+1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Davies, Nigel Rodney"]
+[Black "Ravisekhar, Raja"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2355"]
+[BlackElo "2420"]
+[PlyCount "48"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. g3 e5 2. Bg2 Nc6 3. c4 g6 4. Nc3 Bg7 5. Rb1 f5 6. b4 d6 7. b5 Nce7 8. e3 Nf6
+9. Nge2 e4 10. d3 exd3 11. Qxd3 Nd7 12. Qc2 a6 13. O-O axb5 14. cxb5 Nc5 15. a4
+O-O 16. Ba3 Ra7 17. Bxc5 dxc5 18. b6 cxb6 19. Nb5 Ra5 20. Qc4+ Kh8 21. Rfd1 Qe8
+22. Nd6 Qxa4 23. Nf7+ Kg8 24. Nh6+ Kh8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Disu, M."]
+[Black "NOVAG MONSTER X"]
+[Result "0-1"]
+[ECO "B92"]
+[PlyCount "66"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Nd2 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. Bf3 Qb5 14. b3 Nc6
+15. c4 Qa5 16. Bxc6 bxc6 17. Qf3 Rad8 18. Rfd1 Bb4 19. Ne4 Rxd1+ 20. Qxd1 Rd8
+21. Qf3 h6 22. Qg3 Qxa2 23. Rf1 Qxb3 24. h3 Bxc4 25. Rc1 Ba3 26. Rc3 Qb1+ 27.
+Kh2 Qxe4 28. Rxa3 Rd6 29. f3 Qc2 30. Qxe5 Rg6 31. Bg5 Bf1 32. Qb8+ Kh7 33. Qg3
+Rxg5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Jamieson, Peter McKeich"]
+[Black "Miles, Jana"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[WhiteElo "2315"]
+[BlackElo "2230"]
+[PlyCount "61"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. c3 g6 6. O-O Bg7 7. Nbd2 O-O 8. e4
+Nxe4 9. Ng5 Nd6 10. Bxb7 Nxb7 11. d5 e6 12. Ndf3 Nd6 13. Bf4 Nc4 14. dxe6 fxe6
+15. Qe2 b5 16. b3 Nb6 17. Bd6 Rf5 18. Ne4 Nc6 19. Bxc5 b4 20. Nd4 bxc3 21. Nxc6
+dxc6 22. Rac1 Nd5 23. Rfd1 Qa5 24. Bd4 Raf8 25. Nd6 Bxd4 26. Qxe6+ Kh8 27. Rxd4
+Rxf2 28. Qe5+ Kg8 29. Qe6+ Kh8 30. Qe5+ Kg8 31. Qe6+ 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "King, Daniel J"]
+[Black "Nunn, John DM"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "2425"]
+[BlackElo "2615"]
+[PlyCount "59"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. h3 a6 8. g4
+Nc6 9. Qd2 Bd7 10. O-O-O Rc8 11. Nxc6 Rxc6 12. Bg2 Rc4 13. e5 dxe5 14. b3 Rd4
+15. Bxd4 exd4 16. Qxd4 Qa5 17. Nd5 O-O 18. Nxf6+ Bxf6 19. Qxd7 e6 20. Rd3 Qxa2
+21. Qc7 Qb2+ 22. Kd2 Be5 23. Qc4 b5 24. Qc5 b4 25. Ke2 Bc3 26. Rxc3 bxc3 27.
+Be4 Re8 28. Qa5 f5 29. Bd3 Rb8 30. Qa1 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Littlewood, Paul E"]
+[Black "Law, Andrew P"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2445"]
+[BlackElo "2335"]
+[PlyCount "85"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. e3 Bg7 7. Nc3 O-O 8. a4 e6
+9. dxe6 fxe6 10. Qd6 axb5 11. Bxb5 Na6 12. O-O Ne8 13. Qg3 d5 14. e4 d4 15. Ne2
+Nd6 16. Bc6 Ra7 17. Bf4 Nf7 18. Ng5 Nb4 19. Bb5 e5 20. Bd2 Nxg5 21. Bxg5 Qb6
+22. Rac1 Be6 23. Bd2 Na6 24. Qd3 Rc8 25. a5 Qd6 26. Bc4 Rb8 27. b3 Bf8 28. Ra1
+Nb4 29. Bxb4 Rxb4 30. Rfc1 Bxc4 31. Rxc4 Qb8 32. Rxb4 Qxb4 33. a6 Bh6 34. Kf1
+Kg7 35. g3 Kf6 36. f4 Ke7 37. Ra4 Qb6 38. Kg2 Qd6 39. Kf3 exf4 40. gxf4 g5 41.
+e5 Qd5+ 42. Kf2 Ke6 43. Qh3+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Martin, Andrew D"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[ECO "E29"]
+[WhiteElo "2425"]
+[BlackElo "2535"]
+[PlyCount "66"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 O-O 7. Bd3 Nc6 8.
+Ne2 b6 9. e4 Ne8 10. O-O Ba6 11. f4 f5 12. Ng3 Ne7 13. exf5 Nxf5 14. Nxf5 exf5
+15. dxc5 bxc5 16. Rb1 Rb8 17. Be3 d6 18. Qa4 Rxb1 19. Rxb1 Qc8 20. Bf2 Nf6 21.
+Bh4 Nd5 22. cxd5 Bxd3 23. Re1 Qb7 24. Be7 Rc8 25. Bxd6 Be4 26. Bxc5 Qxd5 27.
+Bf2 h6 28. Rd1 Qc6 29. Qxc6 Rxc6 30. Rd7 Rxc3 31. Rxg7+ Kxg7 32. Bd4+ Kg6 33.
+Bxc3 a6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Norwood, David"]
+[Black "Johansen, Darryl Keith"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2335"]
+[BlackElo "2425"]
+[Annotator "Johansen,D"]
+[PlyCount "83"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 b5 5. g3 bxc4 6. Nc3 exd5 7. Nxd5 Bb7 8. e4
+Nxd5 9. exd5 Qe7+ 10. Be3 Qe4 11. Bg2 Na6 12. O-O Qxd5 13. Qe2 Qd3 14. Qe1
+O-O-O $5 15. Qa5 d5 $2 (15... Qd6) 16. Bh3+ f5 17. Rad1 Qe4 18. Ng5 Qe8 19.
+Bxf5+ Kb8 20. Ne6 Bd6 21. Rfe1 $16 d4 22. Nxd8 Qxd8 23. Qxd8+ Rxd8 24. Bg5 Rf8
+25. Bxh7 Kc7 26. Re6 Bc8 $2 27. Rg6 Nb4 28. Rxg7+ Kb6 29. a3 Nd3 30. Bxd3 cxd3
+31. Rxd3 Kb5 32. Be7 Bxe7 33. Rxe7 a5 34. Re5 Rd8 35. Rd2 Bb7 36. f4 d3 37. Kf2
+Kc4 38. Ke3 a4 39. f5 Ba6 40. f6 Kb3 41. Rxc5 Re8+ 42. Kf4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Orr, Mark JL"]
+[Black "Watson, William N"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[WhiteElo "2320"]
+[BlackElo "2460"]
+[PlyCount "64"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. Nf3 O-O 6. Be2 c6 7. O-O e5 8. Bg5
+Qb6 9. d5 c5 10. a3 h6 11. Bd2 a5 12. Ne1 Ne8 13. Nd3 f5 14. f4 fxe4 15. Nxe4
+Bf5 16. Bf3 exf4 17. Bxf4 g5 18. Bd2 Nd7 19. Bc3 Bxc3 20. Nxc3 Nef6 21. Qd2
+Rae8 22. Be2 Ne4 23. Nxe4 Rxe4 24. Rf2 Rxc4 25. Raf1 Re4 26. Rxf5 c4+ 27. R5f2
+cxd3 28. Qxd3 Rff4 29. g3 Nc5 30. Qc3 Rxf2 31. Rxf2 Re5 32. Qf3 Ne4 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Shailendra, P."]
+[Black "NOVAG MONSTER Y"]
+[Result "1-0"]
+[ECO "C98"]
+[PlyCount "57"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. Nf1 Nb7 15. g4
+h5 16. N3h2 hxg4 17. hxg4 Qd7 18. Ne3 Qc7 19. Qf3 Bd7 20. Nf5 Bxf5 21. gxf5 Nd7
+22. Kh1 b4 23. Rg1 bxc3 24. Rxg7+ Kxg7 25. Qg4+ Kh8 26. Qh5+ Kg8 27. Be3 Rfb8
+28. Rg1+ Bg5 29. Bxg5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Speelman, Jonathan S"]
+[Black "Hebden, Mark L"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2530"]
+[BlackElo "2480"]
+[PlyCount "77"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 Nc6 10. h3 Nh6 11. d5 Ne7 12. Qc2 f5 13. O-O-O f4 14. Ng5 Bf6 15. c5
+Nef5 16. Ne6 Bxe6 17. Bxf6 Rxf6 18. dxe6 Nd4 19. Rxd4 exd4 20. Qb3 Kh8 21. e7
+Qxe7 22. Nd5 Qxe4 23. Bf3 Qf5 24. Nxf6 Qxf6 25. Qxb7 Rd8 26. c6 Qf7 27. Qxa7
+Nf5 28. Re1 Qc4+ 29. Kb1 Qb4 30. Rc1 Rb8 31. b3 Qb6 32. Qxb6 Rxb6 33. Re1 Kg7
+34. Re8 d5 35. Bxd5 d3 36. Rc8 Nd4 37. Rxc7+ Kf6 38. Rd7 d2 39. Bf3 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Spraggett, Kevin"]
+[Black "Chandler, Murray G"]
+[Result "1-0"]
+[ECO "A33"]
+[WhiteElo "2560"]
+[BlackElo "2585"]
+[PlyCount "67"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. g3 Qb6 7. Nb3 d5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. Bg2 Bb4+ 11. Bd2 Bg4 12. O-O Rd8 13. Bxb4 Qxb4 14.
+Qc2 O-O 15. Rfd1 Qc4 16. Rd2 Rfe8 17. e3 g6 18. h3 Bf5 19. Qd1 Be4 20. Rc1 Qb4
+21. Nd4 Qb6 22. Rc3 Nxd4 23. Rxd4 Rc8 24. Qc1 Qe6 25. f3 Bb1 26. Qxb1 Rxc3 27.
+bxc3 Qxe3+ 28. Kh2 Qf2 29. Qf1 Qxa2 30. f4 a5 31. Qb5 Re1 32. Rxd5 Qf2 33. Qc5
+Re3 34. Rd8+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Thipsay, Praveen Mahadeo"]
+[Black "Howell, James C"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2470"]
+[BlackElo "2395"]
+[PlyCount "67"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. a3 Rb8 12. Bxf6 Nxf6 13. f5 b4 14. axb4 Rxb4
+15. g5 Nd7 16. fxe6 Bxg5+ 17. Kb1 Nb6 18. Qxf7+ Qxf7 19. exf7+ Kd7 20. Bh3+ Kc7
+21. Bxc8 Kxc8 22. Ne6 Bf6 23. Nd5 Nxd5 24. Rxd5 Rxb2+ 25. Kc1 Ra2 26. Kd2 Be7
+27. Rf1 Bf8 28. e5 Kd7 29. Nd4 g6 30. e6+ Ke7 31. Re1 Bh6+ 32. Kc3 Rc8+ 33. Kb3
+Bd2 34. Rf1 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Wade, Robert G"]
+[Black "Blackstock, Leslie Steven F"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2315"]
+[BlackElo "2275"]
+[PlyCount "46"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 Bd6 5. Bd3 O-O 6. Nd2 c6 7. Qh5 g6 8.
+Qh6 f5 9. Ne2 Qf6 10. O-O-O Qg7 11. Qxg7+ Kxg7 12. h3 Be6 13. Rdg1 h5 14. Nf4
+Bxf4 15. exf4 Nd7 16. h4 Rfe8 17. Re1 f6 18. Re3 Bf7 19. Rhe1 Rxe3 20. Rxe3 Re8
+21. Rxe8 Bxe8 22. Nb3 b6 23. Kd2 Kf8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.20"]
+[Round "5"]
+[White "Wright, Josie H"]
+[Black "Ayinla, Jubrila"]
+[Result "1-0"]
+[ECO "C42"]
+[BlackElo "2205"]
+[PlyCount "85"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d5 4. exd5 Qxd5 5. Nf3 Bg4 6. Be2 Bc5 7. Nc3 Qh5 8.
+h3 O-O 9. d4 Rd8 10. Be3 Nc6 11. Na4 Bxd4 12. Nxd4 Bxe2 13. Qxe2 Nxd4 14. Qxh5
+Nxc2+ 15. Ke2 Nxh5 16. Rac1 Nxe3 17. Kxe3 Rd7 18. Rhd1 Rad8 19. Rxd7 Rxd7 20.
+Nc5 Re7+ 21. Kf3 b6 22. Rd1 h6 23. Rd8+ Kh7 24. Nd7 Kg6 25. g4 Nf6 26. Nf8+ Kg5
+27. Kg3 Ne4+ 28. Kg2 Kh4 29. Rd5 Nf6 30. Rf5 h5 31. g5 Re4 32. gxf6 g5 33. Ng6+
+fxg6 34. f7 gxf5 35. f8=Q f4 36. Qa3 Re2 37. Qc3 c5 38. a4 a6 39. b3 Ra2 40.
+Qd3 Rb2 41. Qc4 Rb1 42. Qe2 Rxb3 43. f3 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Ady, Jonathan James"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[ECO "B66"]
+[WhiteElo "2305"]
+[BlackElo "2615"]
+[PlyCount "132"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 Nc6 7. Qd2 e6 8.
+O-O-O h6 9. Be3 Nxd4 10. Bxd4 b5 11. f3 Be7 12. Kb1 Bb7 13. a3 Bc6 14. g4 Qb8
+15. Be2 a5 16. h4 e5 17. Bf2 b4 18. axb4 axb4 19. Na2 b3 20. Nb4 bxc2+ 21. Nxc2
+O-O 22. g5 hxg5 23. hxg5 Nxe4 24. fxe4 Qb3 25. Qe3 Qa2+ 26. Kc1 Rfb8 27. g6
+fxg6 28. b3 d5 29. Bg4 Ba3+ 30. Nxa3 Qxa3+ 31. Kd2 Qb4+ 32. Ke2 Bb5+ 33. Kf3
+Rf8+ 34. Kg3 Rf6 35. exd5 Raf8 36. Be6+ Rxe6 37. dxe6 Bc6 38. Rh2 Qe7 39. Qxe5
+Rf3+ 40. Kg4 Rf5 41. Qb8+ Rf8 42. Qe5 Bf3+ 43. Kg3 Bxd1 44. Bc5 Rf3+ 45. Kg2
+Qb7 46. Kg1 Rf5 47. Qe3 Qb5 48. Rf2 Bxb3 49. Rxf5 gxf5 50. e7 Bf7 51. Qe5 Qb1+
+52. Kf2 Qc2+ 53. Ke3 Qc1+ 54. Kf2 Qd2+ 55. Kg1 Qg5+ 56. Kf2 Qh4+ 57. Kg1 Qg4+
+58. Kf2 Be8 59. Bd6 Kh7 60. Qf4 Qh5 61. Qh2 Qxh2+ 62. Bxh2 g5 63. Be5 Kg6 64.
+Kg3 Kf7 65. Bd4 f4+ 66. Kg4 Kg6 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Allen, Keith"]
+[Black "NOVAG MONSTER X"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[PlyCount "64"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e4 Bc5 5. Nxe5 Nxe5 6. d4 Bb4 7. dxe5 Nxe4 8.
+Qd4 Nxc3 9. bxc3 Be7 10. Qg4 Kf8 11. Qg3 d6 12. Bf4 Bh4 13. Qe3 Be6 14. Rd1 Be7
+15. Be2 h6 16. h4 Kg8 17. h5 Qf8 18. exd6 Bxd6 19. Bxd6 cxd6 20. Qd4 Re8 21.
+O-O Rc8 22. Qxa7 Bxc4 23. Bxc4 Rxc4 24. Qxb7 Rxc3 25. Qd7 Kh7 26. Rfe1 Rc5 27.
+Re7 Qd8 28. Rxd6 Qa5 29. Rd1 Rxh5 30. Rxf7 Qe5 31. Qc7 Rh1+ 32. Kxh1 Qh5+
+1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Bellin, Robert"]
+[Black "Martin, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2390"]
+[BlackElo "2425"]
+[PlyCount "61"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 e6 2. Nf3 d5 3. e3 Nf6 4. Bd3 c5 5. b3 Qa5+ 6. c3 Nc6 7. O-O Qc7 8. c4
+dxc4 9. bxc4 Be7 10. Bb2 O-O 11. Nbd2 b6 12. Rc1 Bb7 13. a3 Rad8 14. Bb1 cxd4
+15. exd4 Qf4 16. Re1 Qh6 17. Qe2 Bd6 18. Nf1 Ne7 19. Ne5 Nh5 20. g3 Nf6 21. Ne3
+Bxe5 22. dxe5 Nd7 23. Qg4 Nc5 24. Rcd1 Ng6 25. f4 Ne4 26. Nf1 Nc5 27. Bc2 Ne7
+28. Rxd8 Rxd8 29. Rd1 Rxd1 30. Qxd1 Ng6 31. Qg4 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Carr, Neil L"]
+[Black "Dunn, Andrew"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2325"]
+[PlyCount "79"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Ng3 Bg6 6. h4 h5 7. Be2 Be7 8. Bxh5
+Bxh5 9. Nxh5 g6 10. Nf4 Rxh4 11. Rxh4 Bxh4 12. Qg4 Nh6 13. Qh3 Nf5 14. c3 Be7
+15. Qh7 Bf8 16. Na3 Qh4 17. Qxh4 Nxh4 18. g4 Be7 19. Ke2 Nd7 20. Bd2 Nb6 21.
+Rh1 Kd7 22. Nh3 f6 23. exf6 Bxf6 24. Bg5 Rf8 25. Bxh4 Bxh4 26. g5 Na4 27. Rg1
+b5 28. Rg4 Bxf2 29. Nxf2 Nxb2 30. Nc2 Na4 31. Rg3 Kd6 32. Ng4 c5 33. Ne5 Nxc3+
+34. Rxc3 cxd4 35. Rf3 Rxf3 36. Nxf3 e5 37. Nh4 Ke6 38. Nf3 a5 39. Na1 e4 40.
+Nxd4+ {remaining moves indecipherable} 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Chandler, Murray G"]
+[Black "Thipsay, Praveen Mahadeo"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2585"]
+[BlackElo "2470"]
+[PlyCount "77"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nc3 Na5 11. Ba2 b4 12. Ne2 c5 13. Ng3 Bc8 14. h3 Be6 15. Bxe6
+fxe6 16. Be3 Qd7 17. c3 bxc3 18. bxc3 Rab8 19. Qc2 Rb7 20. Rab1 Rfb8 21. d4
+exd4 22. cxd4 cxd4 23. Bxd4 Nb3 24. Bxf6 Bxf6 25. Rbd1 Be7 26. Qc4 Nc5 27. Nf5
+Qc7 28. N3d4 Rb4 29. Nxe6 Rxc4 30. Nxc7 Bf8 31. Nxd6 Bxd6 32. Rxd6 Nxe4 33.
+Rxa6 Rbb4 34. Ra8+ Kf7 35. Nb5 Kg6 36. Ra6+ Kg5 37. Nd6 Nxd6 38. Rxd6 Rxa4 39.
+Re7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Coleman, David J"]
+[Black "Wright, Josie H"]
+[Result "1-0"]
+[ECO "B09"]
+[PlyCount "51"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 c6 7. Qd2 b5 8. Bd3
+Nbd7 9. e5 Ng4 10. Bg1 Nb6 11. O-O-O Nc4 12. Qe1 Rb8 13. b3 Na3 14. h3 Nh6 15.
+Ne4 b4 16. Be3 d5 17. Nc5 a5 18. g4 f6 19. e6 Nb5 20. Bxb5 Rxb5 21. Qd2 Kh8 22.
+f5 g5 23. Rdg1 Qe8 24. h4 Nxg4 25. Rxg4 Qh5 26. Qg2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Hanreck, Alan E"]
+[Black "Howell, James C"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2275"]
+[BlackElo "2395"]
+[PlyCount "111"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Nbd2 Nc6 7. c3 Qe8 8. Bh2
+e5 9. dxe5 dxe5 10. Bb5 e4 11. Nd4 Nd5 12. O-O Bd7 13. Bc4 Nb6 14. Nxc6 Bxc6
+15. Bxc7 Qe7 16. Bxb6 axb6 17. Nb3 b5 18. Be2 b4 19. Nd4 bxc3 20. bxc3 Ra3 21.
+Qd2 Qc5 22. Rfc1 Rfa8 23. Bd1 Bd5 24. Bb3 Bxb3 25. Nxb3 Qc4 26. Qb2 Be5 27. Rc2
+b5 28. Nd4 R8a5 29. Nb3 R5a4 30. Nd4 Ra5 31. Nb3 Qxb3 32. axb3 Rxa1+ 33. Rc1
+Rxc1+ 34. Qxc1 b4 35. g4 bxc3 36. Qc2 f5 37. gxf5 gxf5 38. b4 Rb5 39. Qa2+ Kg7
+40. Qa7+ Kg8 41. Qd7 c2 42. Qc8+ Kg7 43. Qxc2 Rxb4 44. Qc5 Rb1+ 45. Kg2 Kf6 46.
+Qf8+ Kg6 47. Qe8+ Kf6 48. Qh8+ Ke6 49. Qxh7 Rb8 50. Qg6+ Bf6 51. h4 Rh8 52. h5
+Ke5 53. h6 Rf8 54. h7 f4 55. Qg8 f3+ 56. Kh3 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Hebden, Mark L"]
+[Black "Thipsay, Bagyashree Sathe"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2480"]
+[BlackElo "2075"]
+[PlyCount "87"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 a5 11. Nge2 a4 12. Qb5 Bd7 13. Qb4 Bf5 14. Bxf6
+Bxf6 15. Rd1 Rc8 16. O-O Qd6 17. Qxd6 exd6 18. Nb5 Rfd8 19. Nec3 Nc4 20. g4 Bd7
+21. b3 axb3 22. axb3 Bxb5 23. Nxb5 Nb6 24. Ra1 Rd7 25. Rfc1 Rxc1+ 26. Rxc1 Bd8
+27. Kg2 Kg7 28. Kg3 Na8 29. Rc8 Nb6 30. Rb8 h6 31. Be4 Be7 32. f4 Bd8 33. h4 f6
+34. Kf3 Be7 35. Ke2 Bd8 36. Kd3 Be7 37. Ke2 Bd8 38. Kf1 Be7 39. Kg2 Bd8 40. Kg3
+Be7 41. h5 f5 42. gxf5 gxh5 43. f6+ Kxf6 44. Rh8 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Hodgson, Julian M"]
+[Black "Orr, Mark JL"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2455"]
+[BlackElo "2320"]
+[PlyCount "42"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nd5 Be7 6. Nxd4 Nxd5 7. Nf5 Bb4+
+8. Bd2 Bxd2+ 9. Qxd2 Qf6 10. exd5 Qxf5 11. dxc6 dxc6 12. O-O-O O-O 13. Bc4 Be6
+14. Bxe6 Qxe6 15. Kb1 Rfe8 16. a3 Qe2 17. Qf4 Qe5 18. Qxe5 Rxe5 19. Rd7 Rc8 20.
+Rhd1 Kf8 21. b3 Re2 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Johansen, Darryl Keith"]
+[Black "Friedgood, David"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2425"]
+[BlackElo "2305"]
+[Annotator "Johansen,D"]
+[PlyCount "81"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 Nf6 5. Qd2 Ng4 6. Bg5 h6 7. Bh4 g5 8. Bg3
+e5 9. dxe5 Nxe5 10. h4 Be6 11. O-O-O Nbd7 12. hxg5 hxg5 13. Rxh8+ Bxh8 14. Nh3
+Bxh3 15. gxh3 Nb6 16. Bb5+ Kf8 17. Be2 Qf6 18. Nd5 Nxd5 19. Qxd5 Rb8 20. c3 a6
+21. Qd4 $2 {White persists in looking for a non-existent edge. Soon enough he
+is worse.} Qe6 $1 22. Qa7 $2 {What??} Nc6 23. Qe3 Qxa2 24. Qxg5 $6 Qa1+ 25. Kc2
+Nb4+ $1 {Ouch. Humble pie must be eaten.} 26. Kd2 (26. cxb4 Qxb2+ 27. Kd3 Qc3#)
+26... Qxb2+ 27. Ke1 Qxc3+ 28. Kf1 Qf6 $2 {Anxious to consolidate, Black makes
+a typical error.} (28... Nc6) (28... Be5) 29. Qa5 Qc3 30. Rxd6 cxd6 31. Bxd6+
+Ke8 32. Qg5 $5 Nc6 33. Qg8+ Kd7 34. Bxb8 {Short of time, Black forgets to
+"keep it simple".} Qa1+ $2 (34... Nxb8 35. Qxb8 Qxh3+ 36. Kg1 Kc6 $11) 35. Kg2
+Qg7+ 36. Bg4+ $1 {Counter check!} Ke7 37. Qc8 Nxb8 38. Qxb7+ Kf6 39. Qxb8 Kg5 {
+Wow.} (39... Qg5 40. Qg3 Qe5 41. f4 {1-0 is the finish as (incorrectly) given
+on 2022 CB Mega Database.}) 40. Qg3 Qe5 $4 41. f4+ {Hmmm.} 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Jones, Iolo Cerredig"]
+[Black "Dunnington, Angus J"]
+[Result "1/2-1/2"]
+[ECO "E09"]
+[WhiteElo "2250"]
+[BlackElo "2290"]
+[PlyCount "60"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2 c6 8. Nbd2
+b6 9. e4 Bb7 10. e5 Ne8 11. cxd5 exd5 12. Re1 Nc7 13. Nf1 c5 14. b3 Rc8 15.
+dxc5 Nxc5 16. Bb2 N7e6 17. Qd1 Ne4 18. a3 a5 19. Nd4 Bc5 20. Ne3 Re8 21. f3
+Bxd4 22. Bxd4 Nc3 23. Bxc3 Rxc3 24. Nf5 d4 25. Nd6 Re7 26. Rc1 Rxc1 27. Qxc1
+Bd5 28. Qb2 Nc5 29. Qxd4 Bxb3 30. f4 Ne6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "King, Daniel J"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2425"]
+[BlackElo "2530"]
+[PlyCount "28"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bg5 Be7 9. Bxf6 Bxf6 10. Qd3 Bd7 11. O-O-O Bc6 12. d5 Bxd5 13. Bxd5 Qxd5 14.
+Qxd5 exd5 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Law, Andrew P"]
+[Black "Condie, Mark L"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2335"]
+[BlackElo "2380"]
+[PlyCount "39"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 Ne7 5. e3 c5 6. Bd3 Nbc6 7. O-O O-O 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 e5 12. d5 Rd8 13. Ng5 Be6 14. Qh5 Nxd5
+15. Qxh7+ Kf8 16. e4 Nf4 17. Bxf4 Bxa2 18. Be3 Bc4 19. Bxc5+ Ke8 20. Rfd1 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Littlewood, Paul E"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2445"]
+[BlackElo "2560"]
+[PlyCount "32"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 Bg4 8. d5
+Na5 9. Nd2 c5 10. h3 Bd7 11. Qc2 e5 12. a3 b6 13. b4 Nb7 14. e3 Qe7 15. Nb3
+Rfc8 16. b5 a6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Miles, Jana"]
+[Black "Jackson, Sheila"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2230"]
+[BlackElo "2235"]
+[PlyCount "69"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. e3 Bb7 6. Bd3 O-O 7. a3 Bxd2+ 8.
+Bxd2 Ne4 9. O-O d6 10. Be1 Nd7 11. Nd2 Nxd2 12. Bxd2 Nf6 13. Qc2 e5 14. dxe5
+dxe5 15. Bc3 Qe7 16. f4 e4 17. Be2 Rad8 18. Rad1 Rxd1 19. Rxd1 Rd8 20. Be5 Ne8
+21. Qa4 a5 22. Rxd8 Qxd8 23. c5 bxc5 24. Qxa5 Qe7 25. Qb5 Bd5 26. b4 c6 27.
+Qxc5 Qxc5 28. bxc5 f6 29. Bb8 Bb3 30. Kf2 Kf7 31. Ke1 Ke6 32. Kd2 Kd5 33. Kc3
+Ba2 34. Kb4 g5 35. Bh5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "NOVAG MONSTER Y"]
+[Black "Koelle, Arthur"]
+[Result "0-1"]
+[ECO "C56"]
+[PlyCount "57"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 Bd6 13. Bd2 Qh5 14.
+c3 d3 15. h3 Rhf8 16. b4 Qf5 17. Qe1 Kd7 18. Re3 g5 19. Nd4 Nxd4 20. cxd4 Rde8
+21. Rxe8 Rxe8 22. Qd1 Re7 23. Be3 Bf4 24. Qf1 Qe4 25. Kh1 Qf5 26. Rd1 Bxe3 27.
+fxe3 Qxf1+ 28. Rxf1 d2 29. Kh2 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Norwood, David"]
+[Black "Watson, William N"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2335"]
+[BlackElo "2460"]
+[PlyCount "76"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6 5. a4 Nf6 6. Be2 Nbd7 7. e5 Nd5 8. Nxd5
+cxd5 9. exd6 exd6 10. Bg5 Qb6 11. a5 Qc7 12. c3 O-O 13. O-O Nf6 14. Bxf6 Bxf6
+15. Ne1 b6 16. a6 Bf5 17. Nd3 Bxd3 18. Bxd3 b5 19. Qf3 Bg7 20. Qxd5 Rab8 21.
+Bxb5 Qb6 22. c4 Bxd4 23. Rad1 Be5 24. Kh1 Rfd8 25. b4 Bc3 26. Rb1 Rbc8 27. Rb3
+Bf6 28. f4 Rc7 29. f5 g5 30. Re1 Qf2 31. Rbe3 Qb2 32. h4 Qf2 33. Re4 h6 34.
+R1e2 Qf1+ 35. Kh2 Kg7 36. Re1 Qf2 37. R1e2 Qf1 38. Re1 Qf2 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.21"]
+[Round "6"]
+[White "Short, Nigel D"]
+[Black "Murshed, Niaz"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "2535"]
+[BlackElo "2415"]
+[PlyCount "100"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3
+Be7 9. Be2 O-O 10. O-O b6 11. Be3 Ne5 12. f4 Ned7 13. Bf3 Bb7 14. Qe2 Qc7 15.
+Rac1 Rac8 16. Rfd1 Rfe8 17. g4 h6 18. h4 Nh7 19. Qh2 Qd8 20. Bf2 g5 21. hxg5
+hxg5 22. Bg3 gxf4 23. Bxf4 e5 24. Be3 Bg5 25. Qd2 Nc5 26. Bg2 Bxe3+ 27. Qxe3
+Ne6 28. Ne2 Rc6 29. Rc3 Qg5 30. Qxg5+ Nexg5 31. Nc2 Nf6 32. Ng3 Re6 33. Ne3 Rc5
+34. Rcd3 Nfxe4 35. b4 Rc7 36. Nxe4 Nxe4 37. Bxe4 Bxe4 38. Rxd6 Rxd6 39. Rxd6
+Rc6 40. Rd7 Rf6 41. Re7 Rh6 42. Kf2 Rh2+ 43. Kg3 Re2 44. Rxe5 Rxe3+ 45. Kf4 Re2
+46. Rxe4 Rxa2 47. Ke5 Kf8 48. Kd6 Ra4 49. c5 bxc5 50. Kxc5 a5 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Caiafas, Theophilus"]
+[Black "Disu, M."]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2205"]
+[PlyCount "39"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Be7 7. Nf3 h6 8.
+Bd3 b6 9. O-O Ba6 10. Bxa6 Nxa6 11. Qa4+ Qd7 12. Qxa6 O-O 13. Ne5 Qe8 14. Qe2
+f6 15. Nd3 Rc8 16. f4 c5 17. dxc5 Bxc5+ 18. Nxc5 Rxc5 19. Ba3 Qc8 20. Bxc5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Chandler, Murray G"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2585"]
+[BlackElo "2445"]
+[PlyCount "68"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4 Bb7
+9. e4 e6 10. Bc4 exd5 11. exd5 Re8+ 12. Be3 Ng4 13. O-O Nxe3 14. fxe3 axb5 15.
+Nxb5 d6 16. Qb3 Ba6 17. Na3 Nd7 18. Bxa6 Rxa6 19. Nc4 Nf6 20. Qd3 Qa8 21. Rfd1
+Rxa4 22. Nb6 Rxa1 23. Nxa8 Rexa8 24. h3 c4 25. Qf1 Rxd1 26. Qxd1 Ra5 27. e4 Nd7
+28. Qc2 Ne5 29. Nd2 h5 30. b4 Ra1+ 31. Kh2 h4 32. g4 ({This is the move given
+on ChessBase (which has the game year wrongly set to 1986). In Informator 39 
+(1985), the position in the Combinations section shows the position with
+White's pawn on g3 - JS} 32. g3) 32... c3 33. Kg2 cxd2 34. Qxd2 Rg1+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Clemance, Philip A"]
+[Black "Barber, Haydn"]
+[Result "0-1"]
+[ECO "B61"]
+[WhiteElo "2220"]
+[BlackElo "2270"]
+[PlyCount "59"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+O-O-O Nxd4 9. Qxd4 Qa5 10. Bd2 g6 11. Kb1 Bg7 12. f3 O-O 13. Nd5 Qd8 14. Bc3
+Be6 15. Qxa7 Nxd5 16. Bxg7 Nb4 17. Bc3 Nxa2 18. Ba5 b6 19. Bxb6 Qe8 20. Rd4 Qc6
+21. Bd3 Rb8 22. Ba5 Rb7 23. Qa6 Qxa6 24. Bxa6 Ra7 25. Bd3 Rxa5 26. c3 Rc8 27.
+Kc2 Nxc3 28. bxc3 Ra2+ 29. Kc1 Rxc3+ 30. Kb1 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Friedgood, David"]
+[Black "Nicholson, John G"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2305"]
+[BlackElo "2310"]
+[PlyCount "61"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. Bg5 a6 10. Bxf6 Bxf6 11. Qd3 Qc7 12. Rfd1 Be7 13. Rac1 O-O 14. b4 Rd8 15.
+Nd4 Bxg2 16. Kxg2 Nd7 17. f4 Rac8 18. b5 Qxc4 19. Qxc4 Rxc4 20. bxa6 d5 21.
+Nxd5 exd5 22. Rxc4 dxc4 23. Nc6 Re8 24. Nxe7+ Rxe7 25. a7 Rxe2+ 26. Kf3 Rxa2
+27. Rxd7 Kf8 28. Rd8+ Ke7 29. a8=Q Rxa8 30. Rxa8 Kd6 31. Ke4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Gallagher, Joseph G"]
+[Black "Knott, Simon JB"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[WhiteElo "2370"]
+[BlackElo "2260"]
+[PlyCount "31"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 dxe4 5. a3 Ba5 6. b4 Bb6 7. Nxe4 e5 8.
+dxe5 Qxd1+ 9. Kxd1 Nc6 10. Bb2 Bg4 11. c4 O-O-O+ 12. Kc2 Bf5 13. N2g3 Bxe4+ 14.
+Nxe4 Bd4 15. Rd1 Nh6 16. Be2 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Howell, James C"]
+[Black "Thipsay, Bagyashree Sathe"]
+[Result "1-0"]
+[ECO "C83"]
+[WhiteElo "2395"]
+[BlackElo "2075"]
+[PlyCount "55"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Nxe4 dxe4 13. Qd5 exf3 14. Qxc6 fxg2
+15. Qxg2 Qc8 16. Bh6 g6 17. Bxf8 Bxf8 18. Rfe1 c6 19. e6 Bxe6 20. Bxe6 fxe6 21.
+Qg4 Kf7 22. Qh3 h5 23. Rad1 Ra7 24. Rd3 Re7 25. Red1 Qc7 26. Rd6 Kg7 27. Rxe6
+Rf7 28. Qg3 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Lalic, Susan Kathryn"]
+[Black "Ayinla, Jubrila"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "2010"]
+[BlackElo "2205"]
+[PlyCount "67"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. Nf3 Nbc6 7. a3 Qa5 8. Bd2
+cxd4 9. Nxd4 Nxd4 10. Qxd4 Bc5 11. Qg4 Qb6 12. Bb5+ Bd7 13. Bxd7+ Kxd7 14. O-O
+Qc6 15. Rad1 a6 16. Be3 h5 17. Qh3 Kc7 18. Rd3 Bxe3 19. fxe3 Raf8 20. Ne2 Kb8
+21. Nd4 Qd7 22. b4 Nc6 23. Qg3 Rhg8 24. Rc3 Na7 25. Qf3 Nc8 26. b5 a5 27. Nb3
+b6 28. Rc6 Kb7 29. Nd4 h4 30. c4 Ne7 31. c5 Nc8 32. Rxb6+ Ka8 33. Ra6+ Kb8 34.
+Qe2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Law, Andrew P"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[WhiteElo "2335"]
+[BlackElo "2535"]
+[PlyCount "29"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Bd3 b6 13. O-O bxc5 14. dxc5 O-O
+15. Qc2 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Martin, Andrew D"]
+[Black "Hanreck, Alan E"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[WhiteElo "2425"]
+[BlackElo "2275"]
+[PlyCount "58"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nbd7 9. e5 dxe5 10. fxe5 Nh5 11. e6 fxe6 12. dxe6 Qh4+ 13. g3 Nxg3 14. hxg3
+Qxh1 15. Be3 O-O 16. Qb3 c4 17. Bxc4 Kh8 18. O-O-O Ne5 19. Bd5 Qh2 20. Nge2 Qh3
+21. Nf4 Qxg3 22. Ne4 Qh2 23. Qc2 Qh4 24. Rf1 Bxe6 25. Bxe6 g5 26. Nxg5 Qxg5 27.
+Rh1 h6 28. Rg1 Qh4 29. Qc7 Qf6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "NOVAG MONSTER X"]
+[Black "Patgawkar, V."]
+[Result "1-0"]
+[ECO "B92"]
+[PlyCount "61"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. f4
+Qc7 9. g4 Be7 10. g5 Nfd7 11. f5 Bc4 12. Be3 b5 13. Nd5 Bxd5 14. Qxd5 Qc6 15.
+O-O-O Qxd5 16. Rxd5 Nc6 17. Kb1 Kd8 18. Rhd1 Kc7 19. c4 bxc4 20. Bxc4 f6 21. h4
+Rhd8 22. Rc1 Nb6 23. Be2 Kb7 24. Rd3 Rac8 25. Rdc3 Nd4 26. Na5+ Ka8 27. Bxa6
+Rxc3 28. bxc3 Ka7 29. Bf1 Rb8 30. Bxd4 exd4 31. Nc6+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Norwood, David"]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2335"]
+[BlackElo "2455"]
+[PlyCount "40"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 c6 3. e3 Bg4 4. Be2 e6 5. O-O Nd7 6. Nbd2 Ngf6 7. b3 Bd6 8. Bb2
+Qb8 9. h3 Bh5 10. g4 Bg6 11. Nh4 Be4 12. f4 g5 13. Nxe4 Nxe4 14. Ng2 h5 15.
+gxh5 gxf4 16. Nxf4 Rg8+ 17. Kh2 Rg3 18. Bc1 Qd8 19. Rg1 Qh4 20. Qf1 O-O-O 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Nunn, John DM"]
+[Black "Murshed, Niaz"]
+[Result "1-0"]
+[ECO "B89"]
+[WhiteElo "2615"]
+[BlackElo "2415"]
+[PlyCount "77"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. Bc4 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 Na5 11. g4 b5 12. g5 Nxb3+ 13. axb3 Nd7 14. h4 b4
+15. Na4 Nc5 16. h5 e5 17. Nf5 Bxf5 18. exf5 Nxa4 19. bxa4 Qc6 20. Kb1 Qxa4 21.
+Rh4 Rb8 22. Rd5 Qd7 23. Qd3 b3 24. cxb3 O-O 25. f6 gxf6 26. gxf6 Bxf6 27. Rxd6
+Qe7 28. Rg4+ Kh8 29. Bc5 Rfd8 30. Qd5 Rxd6 31. Bxd6 Qd7 32. Qxe5 Qd8 33. Qg3
+Rb5 34. h6 Rd5 35. Bc7 Qe8 36. Ka2 Rd2 37. Be5 Rxf2 38. Re4 Bxe5 39. Qg7+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Orr, Mark JL"]
+[Black "Ravisekhar, Raja"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2320"]
+[BlackElo "2420"]
+[PlyCount "51"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 d6 4. Nc3 Bg4 5. e3 Nc6 6. Be2 e5 7. d5 Nce7 8. Qb3
+b6 9. Nxe5 Bxe2 10. Qa4+ c6 11. Nxc6 Bxc3+ 12. bxc3 Qd7 13. Kxe2 Rc8 14. Rd1
+Nxc6 15. dxc6 Rxc6 16. Rd4 Ne7 17. Ba3 Nc8 18. Re4+ Kd8 19. Rd1 Re8 20. Red4
+Re6 21. Qb5 f6 22. f4 Rc7 23. R1d3 f5 24. Bb4 a5 25. Bxd6 Nxd6 26. Qxb6 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Pein, Malcolm"]
+[Black "Johansen, Darryl Keith"]
+[Result "0-1"]
+[ECO "D52"]
+[WhiteElo "2360"]
+[BlackElo "2425"]
+[Annotator "Johansen,D"]
+[PlyCount "102"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "DB Johansen 2"]
+[Source "Johansen,D"]
+[SourceDate "2012.09.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5 7. Nd2 dxc4 8.
+Bxf6 Nxf6 9. Nxc4 Qc7 10. Be2 Be7 11. O-O O-O 12. a3 Rd8 13. Qc2 Bd7 14. b4 Be8
+15. Rac1 Rac8 16. Bf3 Nd5 17. Ne4 Nb6 $1 18. Ne5 Nd7 $1 19. Nxd7 Bxd7 $11 20.
+Nc5 Be8 21. Be4 g6 22. f4 a5 23. bxa5 Ra8 24. Rb1 Rdb8 25. Qc3 Rxa5 26. Rb3 b6
+27. Rfb1 Qa7 28. Bf3 $11 Bd6 29. Ne4 Be7 30. Nd2 $2 (30. Nc5 $11) 30... c5 $17
+31. Nc4 Ra4 32. d5 exd5 33. Bxd5 b5 34. Ne5 Bf6 35. Qc1 c4 36. Rb4 Rxa3 $19 37.
+Bxc4 Rxe3 38. Kh1 Bxe5 39. fxe5 Rxe5 40. Qc3 Qe7 41. h3 Qg5 42. Ba2 Rd8 43. Rg4
+Qe7 44. Rf1 Re2 45. Bb3 Re3 46. Qc2 Rdd3 47. Ba2 Kg7 48. Bb1 Rc3 49. Qf2 Re2
+50. Qd4+ Qe5 51. Qd1 Rxh3+ {Source: Darryl Johansen. Contributed by Paul
+Summers, 16 February 2023.} 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Speelman, Jonathan S"]
+[Black "Watson, William N"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[WhiteElo "2530"]
+[BlackElo "2460"]
+[PlyCount "72"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. g3 g6 2. Bg2 Bg7 3. d4 c5 4. d5 d6 5. Nf3 Nf6 6. c4 O-O 7. O-O b5 8. cxb5 a6
+9. bxa6 Bxa6 10. Nc3 Nbd7 11. h3 Qb6 12. Re1 Rfb8 13. Rb1 Ne8 14. Qc2 Bc4 15.
+Nd2 Bxa2 16. Ra1 Bxc3 17. bxc3 Bxd5 18. Rb1 Qc6 19. e4 Be6 20. e5 d5 21. Rxb8
+Rxb8 22. c4 Nb6 23. Nf1 Qc8 24. cxd5 Nxd5 25. Qd2 Nb4 26. Qh6 Nd3 27. Rd1 c4
+28. Bg5 Qc5 29. Ne3 Qxe5 30. Bxe7 Qg7 31. Qh4 Qb2 32. Rf1 Rc8 33. Bd5 Qe5 34.
+Bxc4 Bxc4 35. Nxc4 Qe6 36. Nd2 Ne5 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Spraggett, Kevin"]
+[Black "King, Daniel J"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2560"]
+[BlackElo "2425"]
+[PlyCount "51"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8.
+Qc2 c6 9. Nge2 Re8 10. O-O Nf8 11. Rab1 Ne4 12. Bxe7 Qxe7 13. Bxe4 dxe4 14. b4
+a6 15. Ng3 f5 16. d5 Ng6 17. dxc6 bxc6 18. Na4 Be6 19. Nc5 Ne5 20. Rfd1 g6 21.
+a4 a5 22. Nxe6 Qxe6 23. bxa5 Rxa5 24. Rb7 Re7 25. Rd8+ Kg7 26. Re8 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Thipsay, Praveen Mahadeo"]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[WhiteElo "2470"]
+[BlackElo "2390"]
+[PlyCount "85"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe1 Nh5 12. Be3 Qa5 13. f3 Nf6 14. g4 b5
+15. Kb1 Rc8 16. h4 b4 17. Ne2 Nxe4 18. Nd4 Nf6 19. Bd2 Bd5 20. b3 Rb8 21. Bh3
+Qc5 22. Be3 Qc3 23. Qf2 Bb7 24. g5 Nd5 25. Rd3 Qc7 26. g6 e5 27. Re1 exd4 28.
+Bg5+ Be7 29. gxf7+ Kf8 30. Bxe7+ Nxe7 31. Qxd4 Nd5 32. Be6 Nf6 33. f4 Qc5 34.
+Qxd6+ Qxd6 35. Rxd6 g6 36. Bc4 Ne4 37. Rxg6 Nd2+ 38. Kb2 Nxc4+ 39. bxc4 Kxf7
+40. Ree6 Bf3 41. Rgf6+ Kg7 42. Rg6+ Kf7 43. Rgf6+ 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.22"]
+[Round "7"]
+[White "Wright, Josie H"]
+[Black "NOVAG MONSTER Y"]
+[Result "0-1"]
+[ECO "B23"]
+[PlyCount "88"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. d3 Nf6 6. Be2 d5 7. e5 Ng4 8. O-O
+O-O 9. h3 Nh6 10. Qe1 Nf5 11. g4 Nfd4 12. Nxd4 cxd4 13. Nb1 h5 14. Kg2 hxg4 15.
+hxg4 b6 16. Qh4 Re8 17. Rh1 Kf8 18. e6 Bxe6 19. f5 Bd7 20. fxg6 Ne5 21. gxf7
+Nxf7 22. Qh5 e5 23. Rf1 Be6 24. g5 Ke7 25. Qg6 Rg8 26. Bg4 Qd6 27. b3 Bh8 28.
+Qh5 Rac8 29. Rf2 b5 30. Kf1 b4 31. g6 Nd8 32. Qh7+ Ke8 33. Bxe6 Qxe6 34. Bg5 e4
+35. Bxd8 Kxd8 36. Rf7 Re8 37. Qh4+ Re7 38. Qxh8+ Kd7 39. Rxe7+ Qxe7 40. Qxd4
+Rf8+ 41. Ke2 exd3+ 42. Kxd3 Rf3+ 43. Kd2 Qg5+ 44. Ke1 Re3+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Allen, Keith"]
+[Black "Vaidya, Arun Bhaskar"]
+[Result "0-1"]
+[ECO "E20"]
+[BlackElo "2310"]
+[PlyCount "40"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nc3 O-O 6. cxd5 exd5 7. Nf3 c6 8.
+O-O Re8 9. Bf4 Nbd7 10. a3 Bf8 11. b4 a6 12. Rb1 Ne4 13. Nxe4 dxe4 14. Ne5 Nxe5
+15. Bxe5 Bf5 16. Rb3 Be6 17. Rb2 Bd5 18. f3 exf3 19. Bxf3 Bxf3 20. Rxf3 Rxe5
+0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Barber, Haydn"]
+[Black "Martin, Andrew D"]
+[Result "0-1"]
+[ECO "C15"]
+[WhiteElo "2270"]
+[BlackElo "2425"]
+[PlyCount "58"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7 Rg8 8.
+Qh6 Nbd7 9. Ne2 b6 10. Bb2 Bb7 11. O-O-O Ng4 12. Qf4 Qg5 13. Rd2 Nxf2 14. Qxc7
+e3 15. Rd1 Ba6 16. Rg1 Nxd1 17. Kxd1 Qf5 18. Rh1 Qf2 19. Qc6 Rc8 20. Qf3 Qxf3
+21. gxf3 Nf6 22. Nf4 Bxf1 23. Rxf1 Nd5 24. Nxd5 exd5 25. Re1 Kd7 26. Rxe3 Rce8
+27. Rxe8 Kxe8 28. a4 Rg2 29. Bc1 Rxh2 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Bellin, Robert"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2390"]
+[BlackElo "2530"]
+[PlyCount "151"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bg4 5. b3 e6 6. Bb2 Nbd7 7. d3 Bc5 8. Nbd2
+O-O 9. Qe1 Re8 10. e4 e5 11. h3 Bh5 12. Nh4 Nf8 13. Bf3 Bg6 14. Qe2 Ne6 15.
+Nxg6 hxg6 16. Bxe5 Bd4 17. Bxd4 Nxd4 18. Qd1 Qa5 19. Bg2 Qc3 20. Nf3 Nxf3+ 21.
+Qxf3 dxe4 22. dxe4 Nxe4 23. Rfd1 Qb2 24. Kh2 Re6 25. Re1 Rae8 26. Qd1 Nf6 27.
+Rxe6 Rxe6 28. Rb1 Qa3 29. Kg1 Rd6 30. Qc1 Qc5 31. b4 Qc4 32. Bf1 Qd4 33. Bg2 a6
+34. c3 Qd3 35. Rb2 Qd1+ 36. Qxd1 Rxd1+ 37. Kh2 Rc1 38. Rb3 Rc2 39. a4 Rxf2 40.
+b5 axb5 41. axb5 Nd5 42. Kg1 Rc2 43. bxc6 bxc6 44. Rb8+ Kh7 45. Rc8 Ne3 46.
+Bxc6 Rxc3 47. Bb7 Rxc8 48. Bxc8 g5 49. Kf2 Nc4 50. Ba6 Ne5 51. Ke3 Kg6 52. Ke4
+Kf6 53. Kd4 Nc6+ 54. Ke4 Ne7 55. Bd3 Nc8 56. Kd5 Ne7+ 57. Ke4 Nf5 58. Kf3 Nh6
+59. Ke4 Ke7 60. Ke5 f6+ 61. Kd5 Nf7 62. Bc2 Nd6 63. Bg6 Nb5 64. Bh5 Nc7+ 65.
+Kc6 Ne6 66. Kd5 Nf8 67. Bd1 f5 68. Ke5 g6 69. h4 Nd7+ 70. Kd4 gxh4 71. gxh4 Kf6
+72. Ba4 Ne5 73. Ke3 Kg7 74. Kf4 Nd3+ 75. Ke3 Nc5 76. Bb5 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Blackstock, Leslie Steven F"]
+[Black "Jamieson, Peter McKeich"]
+[Result "0-1"]
+[ECO "E84"]
+[WhiteElo "2275"]
+[BlackElo "2315"]
+[PlyCount "66"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 9. Bh6 b5 10. h4 bxc4 11. Bxg7 Kxg7 12. h5 Ng8 13. O-O-O e5 14. d5 Nb4 15.
+Ng3 Nd3+ 16. Bxd3 cxd3 17. Rh2 Qf6 18. Kb1 Qf4 19. Nf1 Qxd2 20. Rxd2 f5 21.
+hxg6 hxg6 22. Rxd3 Nf6 23. Nd2 Bd7 24. Rh1 Rh8 25. Rc1 Rh2 26. exf5 gxf5 27.
+Nd1 Rb7 28. Nf1 Rxg2 29. Rb3 Rxb3 30. axb3 f4 31. Nc3 c6 32. Ne4 cxd5 33. Nxd6
+Rf2 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Hanreck, Alan E"]
+[Black "Jones, Iolo Cerredig"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[WhiteElo "2275"]
+[BlackElo "2250"]
+[PlyCount "37"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 d6 2. Nc3 Nf6 3. g3 e5 4. Bg2 Be7 5. d3 O-O 6. Nh3 c6 7. f4 Qb6 8. Na4
+Qc7 9. O-O d5 10. fxe5 Qxe5 11. d4 Qc7 12. Bf4 Qd8 13. c5 Ne4 14. Nc3 f5 15.
+Qb3 Kh8 16. Be3 Nd7 17. Nf4 Ndf6 18. Bf3 Qe8 19. Nd1 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Hebden, Mark L"]
+[Black "Thipsay, Praveen Mahadeo"]
+[Result "0-1"]
+[ECO "C34"]
+[WhiteElo "2480"]
+[BlackElo "2470"]
+[PlyCount "76"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Bh6 7. Nc3 Nf6 8. Nge2
+d5 9. e5 Nh5 10. g3 Nc6 11. Nxf4 Nxf4 12. Bxf4 Bxf4 13. gxf4 Ne7 14. h5 Rg8 15.
+Qd2 Bf5 16. O-O-O Qd7 17. Rg1 O-O-O 18. Rg3 Qe6 19. Na4 b6 20. Ba6+ Kb8 21.
+Rdg1 Qh6 22. Nc3 Qxh5 23. Nb5 Qg6 24. Qb4 Nc6 25. Qa4 Bd7 26. Qa3 h5 27. Rc3 h4
+28. b4 Qh6 29. e6 Qxe6 30. Qa4 Qf6 31. Rd1 g3 32. Ra3 g2 33. Nxa7 Na5 34. Nb5
+g1=Q 35. bxa5 Qxf4+ 36. Kb2 Qxd1 37. axb6 Qa1+ 38. Kb3 Qb1+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Hodgson, Julian M"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "2455"]
+[BlackElo "2585"]
+[PlyCount "66"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. f4 d5 3. Nc3 dxe4 4. Nxe4 Qc7 5. Nf3 Nf6 6. d3 Nbd7 7. g3 g6 8. Bg2
+Bg7 9. O-O O-O 10. Qe2 b6 11. Nf2 Bb7 12. Bd2 Rae8 13. Rae1 e5 14. fxe5 Nh5 15.
+Bc3 b5 16. b3 Bxf3 17. Bxf3 Bxe5 18. Bxh5 Bxc3 19. Qxe8 Rxe8 20. Rxe8+ Kg7 21.
+Bf3 Ne5 22. Bg2 Bd4 23. Kh1 Qd7 24. Rb8 Bxf2 25. Rxf2 Qd4 26. Rf4 Qa1+ 27. Rf1
+Qxa2 28. d4 cxd4 29. Re8 Ng4 30. Re7 Ne3 31. Rfxf7+ Kg8 32. Rg7+ Kh8 33. Rxh7+
+Kg8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Johansen, Darryl Keith"]
+[Black "Davies, Nigel Rodney"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2425"]
+[BlackElo "2355"]
+[PlyCount "59"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nc3 g6 2. d4 Bg7 3. e4 d6 4. Be3 Nf6 5. Qd2 c6 6. Nf3 b5 7. Bd3 Nbd7 8. Bh6
+Bxh6 9. Qxh6 e5 10. h3 Qe7 11. O-O Qf8 12. Qd2 Qe7 13. a4 b4 14. Ne2 a5 15. c3
+O-O 16. cxb4 axb4 17. Ng3 (17. Qxb4 c5 18. dxc5 Nxc5 $11) 17... c5 18. d5 Ne8
+19. Qc2 Ng7 20. Nd2 h5 21. Rae1 h4 22. Ne2 Nh5 23. b3 Nf4 24. Bb5 Ba6 25. Bxa6
+Rxa6 26. Nc4 Qg5 27. Nxf4 exf4 28. Qe2 f6 29. Kh1 Rfa8 30. Rc1 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Littlewood, Paul E"]
+[Black "Orr, Mark JL"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2445"]
+[BlackElo "2320"]
+[PlyCount "91"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Nc3 O-O 7. g3 dxc4 8.
+Ne5 c5 9. Rd1 cxd4 10. Qxd4 Qxd4 11. Rxd4 Nbd7 12. Nxc4 b6 13. Bg2 Rb8 14. Nd6
+Nc5 15. b4 Nb7 16. Ndb5 e5 17. Rc4 a6 18. Na7 Nd6 19. Rc7 Bb7 20. O-O Bxg2 21.
+Kxg2 Rb7 22. Rxb7 Nxb7 23. Rc1 a5 24. Na4 axb4 25. Nxb6 Ne4 26. Nd5 f6 27. Nxb4
+Nec5 28. Nbc6 Ra8 29. f4 exf4 30. gxf4 Ne6 31. f5 Nec5 32. Kf3 Kf7 33. Rc4 g6
+34. e4 Nd7 35. Rd4 Nbc5 36. Rd5 Ne5+ 37. Nxe5+ fxe5 38. Nb5 Na6 39. Rxe5 Nb4
+40. a3 Nc2 41. Kf4 Nxa3 42. Nd6+ Kf8 43. f6 Rd8 44. Re6 Nb1 45. f7 Rxd6 46.
+Rxd6 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Miles, Jana"]
+[Black "Murphy, Hugh W"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2230"]
+[PlyCount "59"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bg5 Be4 11. Qc1 Nc6 12. Qe3 Bd5 13. Nc3 Nb4 14. Nxd5 Nbxd5
+15. Qd3 c5 16. dxc5 Bxc5 17. e4 Ne7 18. Qe2 Qb6 19. Bxf6 gxf6 20. e5 Nd5 21.
+exf6 Nxf6 22. Qe5 Be7 23. Rac1 Rac8 24. Qg5+ Kh8 25. Rxc8 Rxc8 26. Ne5 Rf8 27.
+Nd7 Nxd7 28. Qxe7 Qc7 29. Rd1 Rd8 30. Qxf7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Murshed, Niaz"]
+[Black "Norwood, David"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2415"]
+[BlackElo "2335"]
+[PlyCount "73"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. e3 cxd4 5. exd4 d5 6. a3 Be7 7. Nc3 O-O 8. Bd3
+b6 9. cxd5 Nxd5 10. Nxd5 exd5 11. Ne5 Bf6 12. O-O Ba6 13. f4 Bxd3 14. Qxd3 Qd6
+15. b4 a6 16. Be3 Nd7 17. Rac1 b5 18. Qf5 Nb6 19. Rc6 Bxe5 20. Rxd6 Bxd6 21.
+Rf3 Rae8 22. Rh3 g6 23. Qf6 Nc4 24. Bf2 Re6 25. Qh4 h5 26. f5 Be7 27. Qg3 Rc6
+28. Qf4 g5 29. Qf3 Rfc8 30. Qxh5 Bf6 31. Qh7+ Kf8 32. Rh6 Re8 33. h4 g4 34. h5
+Nd2 35. Rxf6 Rc1+ 36. Kh2 Nf1+ 37. Kg1 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "NOVAG MONSTER X"]
+[Black "Shailendra, P."]
+[Result "0-1"]
+[ECO "B63"]
+[PlyCount "102"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Bd7 8.
+Ndb5 Qa5 9. Bxf6 gxf6 10. Nxd6+ Bxd6 11. Qxd6 O-O-O 12. Bd3 Rhg8 13. O-O Ne5
+14. Rfd1 Bc6 15. b4 Nf3+ 16. Kh1 Qh5 17. Qf4 Nd4 18. Qxf6 Rg4 19. Be2 Qg5 20.
+Qxg5 Rxg5 21. Bd3 Rdg8 22. g3 h5 23. f4 R5g7 24. a4 h4 25. Nb5 Bxb5 26. Bxb5
+Nxb5 27. axb5 hxg3 28. Rxa7 Kc7 29. hxg3 Rxg3 30. Rd2 Rh8+ 31. Rh2 Rxh2+ 32.
+Kxh2 Rc3 33. Ra2 Kb6 34. Kg2 Kxb5 35. e5 Rc4 36. Kf3 Rxb4 37. f5 exf5 38. Ra8
+Re4 39. Rf8 Rxe5 40. Kf4 Rc5 41. Rxf7 b6 42. Rf6 Rxc2 43. Rxf5+ Kb4 44. Ke3 Rc7
+45. Kd2 b5 46. Rf3 Rc4 47. Rf7 Kb3 48. Kd3 b4 49. Rb7 Rc8 50. Kd2 Ka3 51. Kd3
+b3 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "NOVAG MONSTER Y"]
+[Black "Jackson, Sheila"]
+[Result "0-1"]
+[ECO "C91"]
+[BlackElo "2235"]
+[PlyCount "76"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c6 12. h3 Bc8 13. dxc6 Qc7 14. Nbd2 Qxc6 15.
+a4 Be6 16. Qe2 b4 17. cxb4 Qxc2 18. bxa5 Qc5 19. Ng5 Bd7 20. Nc4 h6 21. Nf3 Bc6
+22. Qc2 Bxe4 23. Rxe4 Nxe4 24. Qxe4 d5 25. Qe2 Qxc4 26. Qxc4 dxc4 27. Be3 f6
+28. Nd2 Rfc8 29. Rc1 Rab8 30. Bb6 c3 31. bxc3 Bc5 32. c4 Bxb6 33. axb6 Rxb6 34.
+Rc2 Rb4 35. Ra2 Rcb8 36. Ra1 Rb2 37. Nf1 Rb1 38. Rxb1 Rxb1 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Nicholson, John G"]
+[Black "Lalic, Susan Kathryn"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2310"]
+[PlyCount "83"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Nf3 c5 6. a3 Bxc3+ 7. bxc3 Nbc6 8. a4
+Qa5 9. Bd2 Bd7 10. Be2 c4 11. Ng5 h6 12. Nh3 O-O-O 13. Nf4 f6 14. exf6 gxf6 15.
+O-O Rhg8 16. Nh5 Rg6 17. Ng3 e5 18. f4 Nf5 19. Nxf5 Bxf5 20. fxe5 Bh3 21. Rxf6
+Rxg2+ 22. Kh1 Rdg8 23. Rxh6 Bf5 24. Bf3 Rf2 25. Rh4 Qd8 26. Rf4 Rh8 27. Bg2
+Rxg2 28. Kxg2 Qg5+ 29. Kh1 Rg8 30. Qg1 Qd8 31. Rxf5 Rxg1+ 32. Rxg1 Qh4 33. Rf4
+Qh7 34. h4 Qxc2 35. Rg2 Qxa4 36. Rf7 Qd1+ 37. Kh2 Nd8 38. Rf8 Kc7 39. Bf4 Nc6
+40. e6+ Kb6 41. Bg5 Qe1 42. e7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Nunn, John DM"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2615"]
+[BlackElo "2560"]
+[PlyCount "54"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Be7 8. Rg1
+d5 9. Bf4 a6 10. exd5 Nxd5 11. Nxd5 Qxd5 12. Bg2 Qa5+ 13. c3 e5 14. Nb3 Qc7 15.
+Bg3 Be6 16. Nd4 Bc4 17. Qa4+ Nd7 18. O-O-O b5 19. Qc2 Rc8 20. Nc6 Bf6 21. Kb1
+Be6 22. Qe2 Kf8 23. Qe4 g6 24. Qb4+ Kg7 25. Ka1 Rhe8 26. f4 a5 27. Nxa5 Be7
+1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Potts, Alan W"]
+[Black "Granat, Russell"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[BlackElo "2245"]
+[PlyCount "95"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3 Qf6 5. Be2 Bb4+ 6. Nbd2 Nxf3+ 7. Bxf3
+Ne7 8. O-O d6 9. Nb3 Qe5 10. Be3 Bc5 11. Nxc5 dxc5 12. Qd2 Ng6 13. Qd5 Qxd5 14.
+exd5 Bf5 15. Bxc5 O-O-O 16. g3 Rhe8 17. Rac1 Be4 18. Bxe4 Rxe4 19. Rfd1 Ne5 20.
+b3 g5 21. Kg2 g4 22. h4 h5 23. Be3 Nf3 24. c4 f5 25. d6 Rxd6 26. Rxd6 cxd6 27.
+Bxa7 Re2 28. a4 Rb2 29. a5 Rxb3 30. Rd1 Kc7 31. Kf1 Rc3 32. Rd5 Rxc4 33. Rxf5
+Re4 34. Be3 Re5 35. Rxe5 Nxe5 36. Ke2 Kc6 37. Bb6 Kd5 38. Bc7 Ke6 39. Ke3 Kd7
+40. Bb6 Nc4+ 41. Kf4 Nxb6 42. axb6 Ke6 43. f3 gxf3 44. Kxf3 Kf5 45. Ke3 Kg4 46.
+Kd4 Kxg3 47. Kd5 Kxh4 48. Kxd6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Thipsay, Bagyashree Sathe"]
+[Black "Caiafas, Theophilus"]
+[Result "0-1"]
+[ECO "B84"]
+[WhiteElo "2075"]
+[BlackElo "2005"]
+[PlyCount "70"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O 8.
+Be3 a6 9. f4 Qc7 10. Qe1 b5 11. a3 e5 12. Nb3 Be6 13. Nd2 exf4 14. Rxf4 Nc6 15.
+Nb3 d5 16. exd5 Nxd5 17. Nxd5 Bxd5 18. Qf2 Bg5 19. Rf5 Bxe3 20. Qxe3 Rfe8 21.
+Qf2 Rad8 22. Nc5 Rxe2 23. Qxe2 Nd4 24. Qe5 Qxc5 25. Rf2 Nxc2 26. Rc1 Qe3 27.
+Qxe3 Nxe3 28. Rd2 f5 29. Rc5 Kf7 30. Rc7+ Kf6 31. b3 Re8 32. Rc3 f4 33. h3 Re5
+34. Rdd3 Ke6 35. Kh2 Nf1+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Short, Nigel D"]
+[Black "King, Daniel J"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "2535"]
+[BlackElo "2425"]
+[PlyCount "51"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. Be2 Nbd7 8. f4
+b6 9. Bf3 Bb7 10. Qe2 e5 11. Nf5 g6 12. fxe5 Nxe5 13. Nh6 Bg7 14. O-O Qc7 15.
+Bg5 Ng8 16. Nxg8 Rxg8 17. Kh1 h5 18. Qf2 Rf8 19. Be2 f5 20. exf5 Rxf5 21. Qg3
+Rxf1+ 22. Rxf1 Qc6 23. Nb5 Qxc2 24. Qh3 Ng4 25. Bxg4 hxg4 26. Qe3+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.23"]
+[Round "8"]
+[White "Watson, William N"]
+[Black "Law, Andrew P"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2460"]
+[BlackElo "2335"]
+[PlyCount "77"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nc3 Na5 11. Ba2 b4 12. Ne2 c5 13. Ng3 Rb8 14. c3 b3 15. Bb1
+Re8 16. d4 Bf8 17. h3 h6 18. d5 g6 19. Bd3 c4 20. Be2 Bg7 21. Be3 Bc8 22. Rf1
+Qc7 23. Nh2 Kh7 24. Qd2 Re7 25. Kh1 Bd7 26. f4 exf4 27. Rxf4 Be8 28. Rh4 h5 29.
+Rf1 Nd7 30. Bxh5 Kg8 31. Bg4 f6 32. Bh6 Bh8 33. Be6+ Bf7 34. Bxd7 Rxd7 35. Ng4
+Qd8 36. Bg5 fxg5 37. Nh6+ Kg7 38. Nxf7 gxh4 39. Qh6+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Barber, Haydn"]
+[Black "Hebden, Mark L"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "2270"]
+[BlackElo "2480"]
+[PlyCount "79"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6 8.
+Be3 Be6 9. Nbd2 Ne7 10. Rfd1 Ng6 11. Nc4 Bxc4 12. Qxc4 Qe7 13. b4 O-O-O 14. a4
+Rhe8 15. b5 Qxe4 16. Rd4 cxb5 17. axb5 axb5 18. Qxb5 Qc6 19. Qf5+ Kb8 20. Rda4
+b5 21. Nd4 Qxg2+ 22. Kxg2 Nh4+ 23. Kf1 Nxf5 24. Ra8+ Kb7 25. R1a7+ Kb6 26.
+Nxf5+ Kc6 27. Ra6+ Kd5 28. Rxd8 Rxd8 29. Nxg7 Bxh2 30. f4 Bg3 31. Ke2 c6 32.
+Nf5 Bh2 33. Kf3 c5 34. Rxf6 Kc4 35. Rc6 Rd5 36. Ke4 Rd1 37. Rxc5+ Kb4 38. c3+
+Ka4 39. Nd4 h6 40. Rc6 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Chandler, Murray G"]
+[Black "Watson, William N"]
+[Result "1-0"]
+[ECO "E69"]
+[WhiteElo "2585"]
+[BlackElo "2460"]
+[PlyCount "67"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+c6 9. h3 Qb6 10. dxe5 Nxe5 11. b3 Nxf3+ 12. Qxf3 Nxe4 13. Nxe4 Bxa1 14. Bh6 Qd4
+15. Rd1 Qe5 16. Bxf8 Kxf8 17. Nxd6 f5 18. Qd3 Rb8 19. f4 Qc5+ 20. Kh2 Bf6 21.
+b4 Qxb4 22. Qe3 Bd7 23. Qxa7 Re8 24. Nxe8 Bxe8 25. Qb8 Qxc4 26. Re1 Qf7 27. a4
+h5 28. h4 Qd7 29. Rb1 c5 30. Rxb7 Qd2 31. Qc7 Qd4 32. a5 Bd8 33. Qh7 Bxa5 34.
+Qe7+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Coleman, David J"]
+[Black "Stebbings, Anthony J"]
+[Result "1-0"]
+[ECO "B44"]
+[BlackElo "2210"]
+[PlyCount "61"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3
+Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bb7 12. f4 e5 13. f5 Nd4 14. Bd3 b5 15. cxb5
+Nxb5 16. Naxb5 axb5 17. Bxb5 Nxe4 18. Nxe4 Bxe4 19. Qg4 Bb7 20. Bh6 g6 21. fxg6
+hxg6 22. a4 Qb6+ 23. Kh1 d5 24. Bxf8 Rxf8 25. Qd7 Bc5 26. a5 Qa7 27. b4 Be3 28.
+Rae1 Bd2 29. Rxe5 Bxb4 30. a6 Qd4 31. Re8 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Condie, Mark L"]
+[Black "Carton, Pat"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2380"]
+[BlackElo "2300"]
+[PlyCount "51"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 a6 4. Nc3 c5 5. e3 b6 6. Bd3 g6 7. O-O Bg7 8. b3 O-O
+9. Ne4 Nxe4 10. Bxe4 d5 11. cxd5 exd5 12. Bd3 Nc6 13. Ba3 cxd4 14. Bxf8 Qxf8
+15. Rc1 Nb4 16. Bb1 d3 17. a3 Nc2 18. Bxc2 dxc2 19. Qxc2 Bf5 20. Qa2 Qd6 21.
+Nd4 Bd7 22. a4 Re8 23. Qc2 Be5 24. Nf3 Rc8 25. Qd3 Bb2 26. Rxc8+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Davies, Nigel Rodney"]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "A92"]
+[WhiteElo "2355"]
+[BlackElo "2390"]
+[PlyCount "28"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 e6 2. g3 f5 3. Bg2 Nf6 4. O-O Be7 5. d4 O-O 6. c4 c6 7. b3 a5 8. Nc3 d5
+9. Bb2 Ne4 10. e3 Nd7 11. Ne2 g5 12. Ne1 b5 13. cxb5 cxb5 14. Nd3 b4 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Hodgson, Julian M"]
+[Black "Nunn, John DM"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2455"]
+[BlackElo "2615"]
+[PlyCount "36"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 e5 2. g3 d6 3. Bg2 Nc6 4. Nc3 g6 5. e3 Bg7 6. Nge2 Nge7 7. O-O Bg4 8. d3
+Qd7 9. Nd5 O-O 10. f3 Be6 11. Nec3 Rab8 12. b3 a6 13. Bb2 b5 14. Qd2 b4 15.
+Nxe7+ Nxe7 16. Ne4 h6 17. d4 f5 18. Nf2 Rfd8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Hon, Kah Seng Christie"]
+[Black "Law, Andrew P"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2345"]
+[BlackElo "2335"]
+[PlyCount "85"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. f4 d5 2. Nf3 Nf6 3. b3 g6 4. Bb2 Bg7 5. e3 O-O 6. Be2 c5 7. O-O Nc6 8. Bb5
+Qc7 9. h3 b6 10. a4 Bb7 11. Bxc6 Qxc6 12. d3 Rad8 13. Nbd2 d4 14. e4 Nh5 15.
+Nh4 Qc7 16. Qg4 Bh6 17. g3 Bg7 18. Kh2 Nf6 19. Qe2 Nd7 20. Rae1 a6 21. Ndf3 b5
+22. axb5 axb5 23. e5 e6 24. b4 cxb4 25. Nd2 Qc5 26. Nhf3 Nb6 27. Nb3 Qd5 28.
+Ng5 Na4 29. Bxd4 Rd7 30. Ne4 Rc8 31. Rf2 Nc3 32. Bxc3 bxc3 33. Ra1 Rdc7 34.
+Rff1 Ra8 35. Rxa8+ Bxa8 36. Ra1 Rc8 37. Qe3 h6 38. Ra7 g5 39. Nbc5 b4 40. Nd7
+Qc6 41. fxg5 Rc7 42. gxh6 Rxa7 43. Qg5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Jackson, Sheila"]
+[Black "Ady, Jonathan James"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2235"]
+[BlackElo "2305"]
+[PlyCount "35"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. Be2 dxe5 6. dxe5 Bg4 7. O-O e6 8.
+Re1 Be7 9. a3 O-O 10. Bd2 Qd7 11. Nc3 Rad8 12. Nxd5 Qxd5 13. Bc3 Qe4 14. Bd3
+Qf4 15. Bd2 Qa4 16. Re4 Bxf3 17. Qxf3 Nd4 18. Qh3 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Jamieson, Peter McKeich"]
+[Black "Clemance, Philip A"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[WhiteElo "2315"]
+[PlyCount "52"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. O-O g6 7. d4 Bg7 8. Bg5
+Nge7 9. dxe5 dxe5 10. Qc1 O-O 11. Rd1 Qe8 12. Na3 Rd8 13. h3 f6 14. Bb3+ Kh8
+15. Bh6 Na5 16. Bxg7+ Kxg7 17. Qe3 Nxb3 18. axb3 Be6 19. b4 Qa4 20. Nd2 Rd7 21.
+b3 Qc6 22. Ndc4 Rfd8 23. Rxd7 Qxd7 24. Rc1 Qd3 25. Qxd3 Rxd3 26. Kf1 Kf7
+1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "King, Daniel J"]
+[Black "Potts, Alan W"]
+[Result "1-0"]
+[ECO "B83"]
+[WhiteElo "2425"]
+[PlyCount "74"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Be3 Qc7 10. a4 Nxd4 11. Qxd4 e5 12. Qd2 exf4 13. Bxf4 Be6 14. Rfd1 Rfd8
+15. Kh1 Rac8 16. Bf3 Qb6 17. Be3 Qa6 18. a5 Nd7 19. Be2 Bc4 20. Nd5 Bf8 21. Re1
+Re8 22. Bg4 Qc6 23. Bxa7 Rcd8 24. b3 Bxd5 25. exd5 Qc7 26. Bxd7 Qxd7 27. c4 g6
+28. Bd4 h5 29. h3 Kh7 30. b4 Rc8 31. Rxe8 Qxe8 32. Qd3 Qd7 33. b5 Qf5 34. Qxf5
+gxf5 35. a6 bxa6 36. bxa6 Bg7 37. Bxg7 Kxg7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Lalic, Susan Kathryn"]
+[Black "NOVAG MONSTER X"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2010"]
+[PlyCount "67"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 Qe7 6. O-O dxc3 7. Nxc3 Nf6 8.
+Nd5 Qd8 9. e5 Nxd5 10. Qxd5 Qe7 11. Bg5 Qf8 12. Rad1 h6 13. Bh4 Nb4 14. Qe4 Be7
+15. Bg3 Nc6 16. Rd2 Qg8 17. Bd3 b6 18. Qa4 Bb4 19. Rc2 Bb7 20. Rxc6 Bxc6 21.
+Qxb4 Bxf3 22. gxf3 Qf8 23. Qc4 c6 24. Rd1 Qe7 25. Bf5 Rd8 26. Rd6 O-O 27. Qg4
+Qg5 28. f4 Qxg4 29. Bxg4 f6 30. Bxd7 c5 31. e6 Rfe8 32. f5 Re7 33. Bb5 Rc8 34.
+Rd7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Martin, Andrew D"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[WhiteElo "2425"]
+[BlackElo "2530"]
+[PlyCount "31"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. a3 cxd4 7. axb4 dxc3 8.
+Nf3 d5 9. c5 b6 10. cxb6 Qxb6 11. bxc3 Qc7 12. Bb2 e5 13. Be2 Nbd7 14. O-O Re8
+15. Ra5 Nb6 16. Nd2 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "NOVAG MONSTER Y"]
+[Black "Ayinla, Jubrila"]
+[Result "0-1"]
+[ECO "C15"]
+[BlackElo "2205"]
+[PlyCount "84"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 Nf6 5. e5 Nfd7 6. a3 Be7 7. f4 c5 8. dxc5
+Bxc5 9. Ng3 Qb6 10. Qf3 Nc6 11. Bd3 Bd4 12. Nb5 Bc5 13. c4 dxc4 14. Bxc4 Nd4
+15. Nxd4 Bxd4 16. Rb1 Qc5 17. Ne4 Qe7 18. Bd2 O-O 19. Bb4 Nc5 20. Rc1 a5 21.
+Bxc5 Bxc5 22. Nxc5 Qxc5 23. Rc3 Qd4 24. Bd3 g6 25. Qg3 Bd7 26. Bc2 Rac8 27. Bd1
+Rxc3 28. bxc3 Qe4+ 29. Kf2 Qc6 30. Qd3 Rd8 31. Qe3 Qd5 32. c4 Qxc4 33. Bb3 Qa6
+34. Rd1 a4 35. Bc2 Rc8 36. Bxg6 hxg6 37. Rxd7 Rc2+ 38. Rd2 Qc6 39. Rxc2 Qxc2+
+40. Kg3 Qb3 41. Qf3 b5 42. f5 exf5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Orr, Mark JL"]
+[Black "Johansen, Darryl Keith"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2320"]
+[BlackElo "2425"]
+[Annotator "Johansen,D"]
+[PlyCount "154"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. d4 cxd4 5. Nxd4 Bb4 6. g3 Ne4 7. Qd3 Qa5 8.
+Nb3 Nxc3 9. Bd2 Ne4 10. Qxe4 Bxd2+ 11. Nxd2 Nc6 12. Bg2 O-O 13. Qe3 d5 14. O-O
+d4 15. Qd3 Rd8 16. a3 Ne5 17. Qc2 Qc7 18. Rac1 Bd7 $11 19. Nf3 Nxf3+ 20. Bxf3
+Bc6 21. Qd3 a5 22. b3 e5 23. Bxc6 Qxc6 24. e4 $6 Qc5 $15 25. a4 $6 Ra6 26. f4
+exf4 27. Rxf4 Re6 28. Rf5 Re5 29. Rxe5 Qxe5 30. Rd1 g6 31. Kg2 Kg7 32. Rd2 Qc5
+33. Qf3 Qe5 34. Qd3 b6 35. Rd1 Rd7 36. Rd2 Qc5 37. Kf1 h6 38. Kg2 Qe5 39. Kf1
+Rd6 40. Kg2 h5 41. h4 Kf8 42. Kf3 Ke7 43. Kg2 g5 44. hxg5 Qxg5 $17 45. Rf2 h4
+46. Rf3 hxg3 47. Rxg3 Qf4 48. Qf3 Qxf3+ 49. Kxf3 d3 50. Rg1 Ke6 51. Ke3 d2 52.
+Rd1 Ke5 53. Rxd2 Rxd2 54. Kxd2 Kxe4 $19 55. Kc3 f5 56. b4 axb4+ 57. Kxb4 Kd4 (
+57... f4 $19) 58. Kb5 f4 59. Kxb6 f3 60. c5 f2 61. c6 f1=Q 62. c7 Qf8 63. Kb7
+Qe7 64. Kb8 Qb4+ 65. Ka7 Qa5+ 66. Kb7 Qb4+ 67. Ka7 Qxa4+ 68. Kb7 Qb4+ 69. Ka7
+Qe7 70. Ka8 Qa3+ 71. Kb7 Qb4+ 72. Ka7 Qc5+ 73. Kb7 Qb5+ 74. Ka7 Qd7 75. Kb8 Qd6
+76. Kb7 Qe7 77. Ka8 Qxc7 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Pein, Malcolm"]
+[Black "Thipsay, Bagyashree Sathe"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2370"]
+[BlackElo "2075"]
+[PlyCount "43"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 Be6 10. dxc5 Bxc5 11. Rc1 Bb6 12. Na4 h6 13. Bxf6 Qxf6 14. Ne1 Rfd8
+15. Nd3 Qe7 16. a3 Bc7 17. Re1 Na5 18. Nb4 d4 19. Nc5 Bb6 20. Nxe6 Qxe6 21. Nd3
+Nb3 22. Nf4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Short, Nigel D"]
+[Black "Littlewood, Paul E"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "2535"]
+[BlackElo "2445"]
+[PlyCount "175"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+Bb7 9. c3 O-O 10. d4 h6 11. Nbd2 Re8 12. d5 Nb8 13. Qe2 Qd7 14. c4 c6 15. dxc6
+Nxc6 16. axb5 axb5 17. Rxa8 Rxa8 18. cxb5 Na7 19. Bc4 Nc8 20. Bd3 Nb6 21. Nb1
+Qe6 22. Nc3 Nfd7 23. Be3 Qb3 24. Rb1 Qb4 25. Ne1 Bd8 26. Nc2 Qb3 27. Bxb6 Nxb6
+28. Ne3 Qb4 29. g3 Bg5 30. Nc2 Qc5 31. h4 Bd8 32. Ne3 g6 33. h5 Kg7 34. hxg6
+fxg6 35. Rd1 Rc8 36. Bb1 Bg5 37. Ned5 Nxd5 38. exd5 Qc4 39. Qc2 e4 40. Qxe4
+Qxe4 41. Nxe4 Be7 42. Ba2 Rc2 43. Rd2 Rc1+ 44. Kg2 Bc8 45. Rd4 Bf5 46. b6 Rc8
+47. Rb4 Rb8 48. Nc3 Bd8 49. b7 Bd3 50. Bc4 Ba5 51. Rb5 Bxc4 52. Rxa5 Rxb7 53.
+Ra4 Bd3 54. Rd4 Bf5 55. b4 Bd7 56. Nd1 Kf6 57. f4 g5 58. Ne3 gxf4 59. Rxf4+ Ke5
+60. Kf3 h5 61. Re4+ Kf6 62. Kf4 Rb5 63. Rd4 Rb8 64. Nd1 Rh8 65. Nf2 h4 66. g4
+h3 67. Rd1 h2 68. Rh1 Rb8 69. Ne4+ Kg7 70. Rxh2 Rxb4 71. Ra2 Kg6 72. Ra8 Kf7
+73. Ra7 Ke8 74. g5 Ba4 75. Ke3 Bc2 76. Nxd6+ Kf8 77. Rf7+ Kg8 78. Rc7 Bg6 79.
+Nc4 Bf7 80. d6 Be6 81. Kd4 Rb5 82. Re7 Bh3 83. Ne5 Rb1 84. d7 Rd1+ 85. Nd3 Bxd7
+86. Rxd7 Rg1 87. Rd5 Kg7 88. Nf4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Smart, Leslie J"]
+[Black "Nicholson, John G"]
+[Result "0-1"]
+[ECO "B81"]
+[BlackElo "2310"]
+[PlyCount "44"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8. Bxg5
+Nc6 9. Qd2 Qb6 10. Nb3 a6 11. O-O-O Qc7 12. Bf4 Ne5 13. Be3 b5 14. f4 Nc4 15.
+Bxc4 bxc4 16. Nd4 Bb7 17. Qg2 Rb8 18. Rhe1 g6 19. Nde2 Bg7 20. f5 Nxe4 21. Nxe4
+Bxb2+ 22. Kd2 exf5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.24"]
+[Round "9"]
+[White "Spraggett, Kevin"]
+[Black "Thipsay, Praveen Mahadeo"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2560"]
+[BlackElo "2460"]
+[PlyCount "36"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 h6 8. dxe5
+Ng4 9. Bd2 Nxe5 10. Nxe5 dxe5 11. h4 Nc6 12. h5 g5 13. O-O Nd4 14. Nd5 Be6 15.
+Ne3 Qd7 16. Bg4 Rad8 17. Bb4 Rfe8 18. Bxe6 fxe6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Ady, Jonathan James"]
+[Black "Lalic, Susan Kathryn"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2305"]
+[BlackElo "2010"]
+[PlyCount "49"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7
+8. Qe2 O-O 9. Bg5 Nd5 10. h4 c5 11. dxc5 Qa5+ 12. c3 Qxc5 13. Bxe7 Qxe7 14.
+O-O-O Bd7 15. Bxh7+ Kxh7 16. Rxd5 Bc6 17. Ng5+ Kg6 18. Re5 Rfe8 19. Qd3+ f5 20.
+Rxe6+ Qxe6 21. Nxe6 Rxe6 22. g4 Rf8 23. gxf5+ Rxf5 24. Rg1+ Kf6 25. Qd4+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Bellin, Robert"]
+[Black "King, Daniel J"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[WhiteElo "2390"]
+[BlackElo "2425"]
+[PlyCount "126"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qc7 10. Qg3 O-O 11. a3 Kh8 12. Bg5 Bd7 13. Rad1 Nc6 14. Nde2 Na5 15.
+Rd3 Bc6 16. Qh4 Ng8 17. Bxe7 Nxe7 18. Rh3 h6 19. Nf4 Nxb3 20. cxb3 Ng8 21. Nh5
+Qe7 22. Qg3 g6 23. Nf4 Kg7 24. Qe3 a5 25. Nd3 e5 26. b4 a4 27. f4 exf4 28. Rxf4
+Qa7 29. e5 Rfe8 30. Qxa7 Rxa7 31. exd6 Rd7 32. Rd4 Re6 33. Nc5 Rexd6 34. Rxd6
+Rxd6 35. Rd3 Rxd3 36. Nxd3 Kf6 37. Kf2 Ne7 38. g3 h5 39. Nc5 Nf5 40. b3 axb3
+41. Nxb3 Ke5 42. Ne2 Nd6 43. Nd2 g5 44. Ke3 f6 45. Nd4 Bd7 46. Kd3 Be8 47.
+N4f3+ Kd5 48. Nd4 h4 49. gxh4 gxh4 50. Ne2 Bg6+ 51. Ke3 Nc4+ 52. Nxc4 Kxc4 53.
+Nf4 Bh7 54. Ng2 h3 55. Nf4 Bf5 56. Nh5 Kb3 57. Kd4 Kxa3 58. Kc5 Bd3 59. Nxf6
+Kb3 60. Nd5 Kc2 61. Nf4 Bf1 62. Nxh3 Bxh3 63. Kxb5 Kb3 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Caiafas, Theophilus"]
+[Black "Koelle, Arthur"]
+[Result "0-1"]
+[ECO "D34"]
+[WhiteElo "2205"]
+[PlyCount "78"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Nc3
+Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 Na5 13. Qc2 Nc4 14. Bf4 Qb6 15.
+Ndb5 d4 16. Nc7 dxc3 17. Nxa8 Qxb2 18. Rac1 Bb4 19. Qxb2 Nxb2 20. a3 Ba5 21. e3
+Nd3 22. Rcd1 Nxf4 23. gxf4 Bg4 24. Bxb7 Bxd1 25. Rxd1 Rb8 26. Rb1 c2 27. Rc1
+Rxb7 28. Rxc2 Rb8 29. Rc5 Bd8 30. Nc7 Rc8 31. Na6 Rxc5 32. Nxc5 Be7 33. Na6
+Bxa3 34. f3 Kf8 35. e4 Ke7 36. Kf2 Kd7 37. Ke3 Kc6 38. Nb8+ Kc7 39. e5 Ne8 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Carr, Neil L"]
+[Black "Jackson, Sheila"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteElo "2325"]
+[BlackElo "2235"]
+[PlyCount "79"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d4 exd4 6. Nxd4 Bd7 7. Nxc6 bxc6 8.
+Bd3 Be7 9. O-O O-O 10. f4 d5 11. Kh1 Bb4 12. e5 Ng4 13. Qe1 f5 14. h3 Nh6 15.
+a3 Be7 16. Be3 Be6 17. Qf2 a5 18. b3 Kh8 19. Ne2 Bc8 20. Bc5 Ba6 21. Bxa6 Rxa6
+22. Rad1 Qe8 23. Rd3 Ng8 24. Rc3 Bxc5 25. Rxc5 Ne7 26. Nd4 Qd7 27. Qe3 Kg8 28.
+Rf3 g6 29. Qe2 Rfa8 30. Rfc3 Rb6 31. Qf2 Rba6 32. Qh4 Rf8 33. Kh2 Kg7 34. b4
+axb4 35. axb4 Rb6 36. b5 Kg8 37. bxc6 Qe8 38. Ne6 Rf7 39. Nxc7 Qc8 40. Nxd5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Dunn, Andrew"]
+[Black "NOVAG MONSTER Y"]
+[Result "1/2-1/2"]
+[ECO "A23"]
+[PlyCount "44"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 Qb6 7. Nb3 cxd5 8. Bg2
+Bf5 9. d3 Bb4 10. O-O Bxc3 11. bxc3 O-O 12. Be3 Qc7 13. c4 dxc4 14. Rc1 exd3
+15. exd3 Nc6 16. Rxc4 Be6 17. Rc1 Rfe8 18. Nd4 Bd5 19. Nxc6 bxc6 20. Qa4 Bxg2
+21. Kxg2 Re6 22. Rfe1 Rae8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Gallagher, Joseph G"]
+[Black "Vaidya, Arun Bhaskar"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[WhiteElo "2370"]
+[BlackElo "2310"]
+[PlyCount "33"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 c6 5. Bg2 Bd6 6. O-O O-O 7. Qc2 Nbd7 8. Nbd2
+b6 9. e4 Nxe4 10. Nxe4 dxe4 11. Qxe4 Bb7 12. Ne5 Rc8 13. Bf4 Qc7 14. Rfe1 Ba8
+15. Qe2 Nxe5 16. dxe5 Be7 17. Rad1 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Hanreck, Alan E"]
+[Black "Knott, Simon JB"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2275"]
+[BlackElo "2260"]
+[PlyCount "55"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 Nc6 6. Nbd2 d6 7. Bh2 Re8 8. c3
+e5 9. dxe5 dxe5 10. Bb5 Nd5 11. O-O f6 12. Nb3 Nb6 13. Qc2 Qe7 14. e4 a5 15. a4
+Be6 16. Nfd2 Red8 17. Bg3 Bh6 18. Rfd1 Na7 19. Be2 Nac8 20. f3 c5 21. Nf1 Rxd1
+22. Qxd1 Nc4 23. Bf2 b6 24. Qc2 Ra7 25. Rd1 Rd7 26. Nc1 Rxd1 27. Bxd1 Qd7 28.
+Nd3 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Johansen, Darryl Keith"]
+[Black "Martin, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2425"]
+[BlackElo "2425"]
+[PlyCount "29"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 c5 4. e3 Be7 5. Nbd2 b6 6. Bd3 Bb7 7. O-O Nc6 8. c3
+cxd4 9. exd4 O-O 10. Re1 Nd5 11. Bxe7 Ncxe7 12. Ne4 Qc7 13. Bf1 f5 14. Ned2 Nf6
+15. Ne5 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Miles, Jana"]
+[Black "Friedgood, David"]
+[Result "1-0"]
+[ECO "E80"]
+[WhiteElo "2230"]
+[BlackElo "2305"]
+[PlyCount "47"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Bg5 a6 7. Qd2 b5 8. d5 bxc4
+9. Bxc4 O-O 10. Nge2 Bb7 11. O-O cxd5 12. exd5 Nbd7 13. Rae1 Nb6 14. Bb3 Rc8
+15. Ng3 Nc4 16. Qe2 Qb6+ 17. Kh1 Ne5 18. f4 Ned7 19. Nge4 Nc5 20. Nxc5 dxc5 21.
+f5 Rfd8 22. fxg6 hxg6 23. Qf2 Qd6 24. Ne4 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Murshed, Niaz"]
+[Black "Orr, Mark JL"]
+[Result "1-0"]
+[ECO "D66"]
+[WhiteElo "2415"]
+[BlackElo "2320"]
+[PlyCount "99"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Rc1 c6 8. Bd3
+a6 9. O-O dxc4 10. Bxc4 b5 11. Bd3 c5 12. Bb1 Bb7 13. dxc5 Nxc5 14. Qc2 Nce4
+15. Rfd1 Qb6 16. h4 Rac8 17. Qe2 Nxc3 18. Rxc3 Rxc3 19. bxc3 Qc7 20. Rc1 e5 21.
+c4 Rc8 22. c5 e4 23. Nd4 Qd7 24. Nb3 Bd5 25. Rd1 Qc6 26. Bxf6 Bxf6 27. Qg4 Qe6
+28. Qh5 Rd8 29. Nd4 Bxd4 30. Rxd4 f5 31. Qd1 Rd7 32. Bc2 Kf8 33. Qd2 Ke7 34.
+Bb3 Bxb3 35. axb3 Rxd4 36. Qxd4 a5 37. Qxg7+ Kd8 38. Qh8+ Kc7 39. Qxh7+ Kc6 40.
+Qa7 Qxb3 41. Qb6+ Kd7 42. Qd6+ Ke8 43. c6 Qb1+ 44. Kh2 Qd3 45. Qb8+ Ke7 46. c7
+Qd6+ 47. g3 Qd2 48. Kg2 Qd1 49. c8=Q Qf3+ 50. Kg1 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Nicholson, John G"]
+[Black "Granat, Russell"]
+[Result "0-1"]
+[ECO "C73"]
+[WhiteElo "2310"]
+[BlackElo "2245"]
+[PlyCount "82"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 exd4 7. Qxd4 c5 8.
+Qd3 Be7 9. Nc3 Nf6 10. Bf4 O-O 11. O-O-O Bb7 12. e5 Ng4 13. Qe2 Qd7 14. Kb1 Qf5
+15. exd6 Bf6 16. Bg3 Bxc3 17. bxc3 cxd6 18. Nh4 Qe6 19. Rhe1 Bd5 20. Qxe6 fxe6
+21. c4 Bxc4 22. Re4 d5 23. Rxe6 Nxf2 24. Bxf2 Rab8+ 25. Kc1 Rxf2 26. Rde1 Bxa2
+27. R6e2 Rxe2 28. Rxe2 d4 29. Re7 c4 30. Kd2 Rb2 31. Nf5 d3 32. Re8+ Kf7 33.
+Nd6+ Kg6 34. Re6+ Kh5 35. Re5+ g5 36. Ne4 Rxc2+ 37. Ke3 Rxg2 38. Kf3 d2 39. Rd5
+c3 40. Rd6 c2 41. Ng3+ Rxg3+ 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Norwood, David"]
+[Black "Davies, Nigel Rodney"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2335"]
+[BlackElo "2355"]
+[PlyCount "83"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. f4 Nge7 8. Nf3
+Nd4 9. O-O O-O 10. g4 f5 11. h3 Bd7 12. Qd2 Bc6 13. Qf2 Nxf3+ 14. Bxf3 Qd7 15.
+Rad1 Rae8 16. d4 fxe4 17. Nxe4 cxd4 18. Bxd4 e5 19. Bxa7 Rxf4 20. Rxd6 Qc7 21.
+Qc5 Nc8 22. Qc4+ Kh8 23. Rxc6 bxc6 24. Be3 Nd6 25. Qa4 Nxe4 26. Bxe4 Rxf1+ 27.
+Kxf1 Rf8+ 28. Kg2 Rc8 29. Qc4 Qd8 30. a4 Bf6 31. Qe6 Rb8 32. a5 Bg7 33. a6 Qd1
+34. Qc4 Rf8 35. Qd3 Qe1 36. Bc5 Ra8 37. Bxc6 e4 38. Bxe4 Re8 39. a7 Rxe4 40.
+a8=Q+ Re8 41. Qaf3 Re2+ 42. Qfxe2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Nunn, John DM"]
+[Black "Chandler, Murray G"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2615"]
+[BlackElo "2585"]
+[PlyCount "43"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. f5 Nc6 10. Nxc6 Qxc6 11. Bxf6 gxf6 12. Bd3 Bg7 13. fxe6 fxe6 14. Qh5+ Kd8
+15. e5 Qc5 16. O-O-O Qxe5 17. Qf3 Rb8 18. Rhe1 Qxh2 19. Kb1 Bd7 20. g3 Qh6 21.
+Rh1 Qg5 22. Rh5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Thipsay, Bagyashree Sathe"]
+[Black "NOVAG MONSTER X"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2075"]
+[PlyCount "85"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nf6 5. Be2 O-O 6. h3 e5 7. O-O exd4 8. Nxd4
+Nbd7 9. f4 Nc5 10. Bf3 Re8 11. Re1 c6 12. Kh1 Bd7 13. Nb3 Nxb3 14. axb3 Be6 15.
+Be3 a6 16. Qe2 Qc7 17. Qf2 d5 18. e5 Nd7 19. Na4 Rad8 20. Nc5 Nxc5 21. Bxc5 Rd7
+22. b4 Bf5 23. c3 Be6 24. Re2 Bf5 25. Rg1 Be6 26. g4 Qc8 27. Qg3 f5 28. exf6
+Bxf6 29. Rge1 Rf7 30. g5 Bg7 31. Bg4 Rf5 32. Bxf5 gxf5 33. g6 Qd7 34. gxh7+
+Kxh7 35. Qh4+ Bh6 36. Bd4 Qf7 37. Kh2 Qd7 38. Bf6 Kg6 39. Rg2+ Kh7 40. Bg5 Qg7
+41. Bxh6 Qxh6 42. Qxh6+ Kxh6 43. Rge2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Speelman, Jonathan S"]
+[Black "Hodgson, Julian M"]
+[Result "1-0"]
+[ECO "A04"]
+[PlyCount "53"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 b5 2. e4 Bb7 3. Bxb5 Bxe4 4. O-O e6 5. d4 Nf6 6. c4 Be7 7. Nc3 Bb7 8.
+Ba4 O-O 9. d5 Bb4 10. Bg5 Bxc3 11. bxc3 h6 12. Bh4 Na6 13. Re1 Nc5 14. Bc2 exd5
+15. cxd5 Bxd5 16. Re5 Bxf3 17. Qxf3 d6 18. Rf5 Ncd7 19. h3 Rb8 20. Ba4 Ne5 21.
+Qf4 Nd5 22. Bxd8 Nxf4 23. Bxc7 Ne2+ 24. Kf1 Rb2 25. Bxd6 Nc4 26. Bxf8 Kxf8 27.
+Rb5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Spraggett, Kevin"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2560"]
+[BlackElo "2535"]
+[PlyCount "37"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. c3 Ne7 5. Bb5+ c6 6. Ba4 Ba6 7. Ne2 Qc7 8. Nd2
+Nd7 9. Nf3 h6 10. O-O O-O-O 11. Re1 Kb8 12. Bc2 c5 13. dxc5 bxc5 14. b4 Ka8 15.
+a4 g5 16. bxc5 Nxc5 17. Ned4 g4 18. Nh4 Rg8 19. Bh7 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Thipsay, Praveen Mahadeo"]
+[Black "Littlewood, Paul E"]
+[Result "1-0"]
+[ECO "C99"]
+[WhiteElo "2470"]
+[BlackElo "2445"]
+[PlyCount "91"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Bb7 13. Nbd2 Rc8 14. d5 Qc7 15.
+Bb1 Nh5 16. Nf1 Nf4 17. Kh2 Bd8 18. Ne3 Nc4 19. a4 b4 20. Nxc4 Qxc4 21. g3 Ng6
+22. Bd3 Qc7 23. a5 Rb8 24. Qe2 Qd7 25. Bxa6 Bxa6 26. Qxa6 f5 27. Qd3 fxe4 28.
+Qxe4 Ra8 29. a6 Bb6 30. Be3 Qb5 31. Kg2 Rfb8 32. Ng5 Bxe3 33. Rxe3 Rxa6 34.
+Rxa6 Qxa6 35. Rf3 Qb5 36. Ne6 Qd7 37. h4 Qe7 38. h5 Nh8 39. Qg4 b3 40. h6 g6
+41. Ng5 Re8 42. Qe6+ Qxe6 43. dxe6 d5 44. Rxb3 d4 45. Rb7 d3 46. Rg7+ 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.25"]
+[Round "10"]
+[White "Watson, William N"]
+[Black "Barber, Haydn"]
+[Result "1/2-1/2"]
+[ECO "B89"]
+[WhiteElo "2460"]
+[BlackElo "2270"]
+[PlyCount "62"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 Qc7 9. O-O-O a6 10. Bb3 O-O 11. Rhg1 Na5 12. g4 b5 13. g5 Nxb3+ 14. axb3
+Nd7 15. h4 Nc5 16. g6 fxg6 17. h5 b4 18. hxg6 bxc3 19. Qh5 cxb2+ 20. Kb1 hxg6
+21. Rxg6 Bf6 22. Rdg1 Rf7 23. Rh6 Kf8 24. Rxf6 gxf6 25. Qh8+ Ke7 26. Rg7 Qd7
+27. Rxf7+ Kxf7 28. e5 Bb7 29. Qh7+ Ke8 30. Qh8+ Kf7 31. Qh7+ Ke8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Barber, Haydn"]
+[Black "Johansen, Darryl Keith"]
+[Result "0-1"]
+[ECO "C15"]
+[WhiteElo "2270"]
+[BlackElo "2425"]
+[Annotator "Johansen,D"]
+[PlyCount "272"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne7 6. Bd3 c5 7. e5 Qa5 8. Qd2
+Nbc6 9. Nf3 c4 10. Be2 Qa4 11. O-O Bd7 12. Ne1 O-O-O 13. f4 $6 f5 $11 14. Qd1
+Rdg8 15. Be3 Nd8 16. Qd2 h6 17. Nf3 Be8 18. Rfb1 Bh5 19. Rb4 Qd7 20. a4 Nec6
+21. Rb5 b6 22. Kh1 Na5 23. Ng1 Bxe2 24. Nxe2 g5 $15 25. Qe1 Rg7 26. Qf2 Nf7 27.
+Rbb1 Qe8 28. Rg1 Rhg8 29. g3 Nc6 30. Qe1 Nfd8 31. Qf2 Kb7 32. Qf3 Qg6 33. Rgb1
+Kc8 34. Rg1 Kd7 35. Rab1 Qe8 36. Ra1 Nf7 37. Qf2 Kc7 38. Qf3 Nh8 39. Qf2 Qe7
+40. Qf3 Ng6 41. Bd2 Kd7 42. Be3 {Whilst the position is unpleasant for White,
+he has defended well, shoring up f4. Black now transfers play to the h-file.}
+g4 43. Qf1 h5 44. Bf2 h4 $17 45. gxh4 Rh8 46. Rg2 Rgh7 47. Bg3 Nxh4 48. Bxh4
+Rxh4 49. Ng3 Rh3 50. Qb1 Qh4 51. Nf1 Rf3 52. a5 Rb8 $2 {Fear of not much
+dictated this move being played.} (52... Nxa5 $1 53. Rxa5 (53. Qb4 Kc8) 53...
+bxa5 54. Qb7+ Ke8) 53. axb6 Rxb6 54. Qc1 Rb8 $2 (54... Qh6 $19) 55. Qd2 Qh6 56.
+Rf2 Rxf2 57. Qxf2 a5 58. Ne3 Kc7 59. Kg1 Ra8 $17 60. Nd1 a4 61. Ne3 a3 62. Kg2
+Ra4 63. Nd1 Na7 64. Qf1 Nb5 65. Nb2 axb2 66. Rxa4 Nxc3 67. Rb4 b1=Q 68. Rxb1
+Nxb1 69. Qxb1 Qxf4 70. Qa1 Qe3 71. Kf1 Kb6 72. Qb2+ Kc6 73. Qa1 Qf3+ 74. Kg1
+Kb5 75. c3 Qe3+ 76. Kf1 Qd3+ 77. Kg1 g3 78. Qb2+ Kc6 79. hxg3 Qxg3+ 80. Kh1
+Qf3+ 81. Kh2 Qh5+ 82. Kg2 Qg5+ 83. Kf1 Kd7 84. Qb7+ Ke8 85. Qc7 Qe7 86. Qc8+
+Kf7 87. Qh8 Qg5 88. Qh7+ Qg7 89. Qh5+ Qg6 90. Qh4 Qg7 91. Qh5+ Ke7 92. Qh4+ Kd7
+93. Qh5 $6 {Gives Black a breather.} f4 $1 94. Qh4 $2 f3 95. Qh3 Qg2+ $1 $19
+96. Qxg2 fxg2+ 97. Kxg2 Kc6 98. Kg3 Kb5 99. Kg4 Ka4 100. Kg5 Kb3 101. Kf6 Kxc3
+102. Kxe6 Kxd4 103. Kd6 c3 104. e6 c2 105. e7 c1=Q 106. e8=Q {Most queen
+endings with a clear extra pawn should be winning. But there is plenty of work
+to be done!} Qf4+ 107. Kc6 Qf6+ 108. Kb7 Qe5 109. Qa4+ Ke3 110. Qa3+ Ke4 111.
+Qb4+ d4 112. Qe1+ Kd5 113. Qd1 Qe4 114. Ka6 d3 115. Qh5+ Kd4 116. Qh8+ Qe5 (
+116... Kc5 117. Qf8+ Kc4 118. Qc8+ Kb3 119. Qd8 Qc4+ 120. Kb6 Kc2) 117. Qd8+
+Ke3 118. Qd7 d2 119. Qh3+ Kf2 120. Qh4+ Qg3 121. Qd4+ Ke2 122. Qe4+ Qe3 123.
+Qg2+ Kd3 124. Qd5+ Qd4 125. Qb3+ Qc3 126. Qb1+ Qc2 127. Qf1+ Kc3 128. Qf6+ Kb3
+129. Qb6+ Ka3 (129... Ka2 130. Qa5+ Kb3 131. Qb6+ Ka3 132. Qd6+ Ka2 133. Qd5+
+Ka1 134. Qd4+ $6 Qb2 135. Qg1+ Ka2 136. Qg8+ Qb3 137. Qg2 Qd3+ 138. Kb6 Kb1 {
+0-1 is the finish given by 2022 CB Mega Database}) 130. Qd6+ Ka2 131. Qd5+ Ka1
+132. Qd4+ $6 Qb2 133. Qg1+ Ka2 134. Qg8+ {When the checks get more and more
+"long distance", you know the end is nigh.} Qb3 135. Qg2 Qd3+ 136. Kb6 Kb1 {
+Source: Darryl Johansen. Contributed by Paul Summers, 16 February 2023.} 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Coleman, David J"]
+[Black "Ady, Jonathan James"]
+[Result "0-1"]
+[ECO "B85"]
+[BlackElo "2305"]
+[PlyCount "70"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. a4
+Nc6 9. Be3 O-O 10. f4 Qc7 11. Kh1 Bd7 12. Nb3 b6 13. Bf3 Rab8 14. Be2 Nb4 15.
+Nd4 Rfd8 16. Qc1 Bc8 17. Bg1 Bb7 18. Qe3 Bf8 19. Rfc1 Ba8 20. Bf3 g6 21. Qe1 e5
+22. Nde2 d5 23. exd5 exf4 24. Bd4 Nfxd5 25. Ne4 f5 26. Nf2 Nc6 27. c4 Ne3 28.
+Bf6 Re8 29. Bg5 Bb4 30. Qg1 Nxg2 31. Bd5+ Kg7 32. Qxg2 Rxe2 33. Bf6+ Kxf6 34.
+Ng4+ fxg4 35. Qxe2 Ne5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Davies, Nigel Rodney"]
+[Black "Jones, Iolo Cerredig"]
+[Result "1/2-1/2"]
+[ECO "A54"]
+[WhiteElo "2355"]
+[BlackElo "2250"]
+[PlyCount "48"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 d6 3. d4 Nbd7 4. Bg2 e5 5. c4 Be7 6. O-O O-O 7. Nc3 c6 8. b3
+Re8 9. Qc2 Bf8 10. dxe5 dxe5 11. Bb2 g6 12. Rad1 Qc7 13. Ng5 Be7 14. Qc1 Nf8
+15. Qa1 Nh5 16. Nf3 f6 17. Ne4 Bf5 18. Ne1 Rad8 19. Nd3 Bg4 20. f3 Bf5 21. Nef2
+g5 22. e4 Bc8 23. Bh3 Bxh3 24. Nxh3 Ne6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Dunnington, Angus J"]
+[Black "Vaidya, Arun Bhaskar"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "2290"]
+[BlackElo "2310"]
+[PlyCount "54"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 h6 5. Bh4 Be7 6. Nbd2 b6 7. Bd3 Nbd7 8. O-O
+Bb7 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bg3 Nc5 12. Bb5+ c6 13. Be2 O-O 14. c3 a5 15.
+Qc2 Qc8 16. e4 Ba6 17. c4 Rd8 18. Rfd1 Ra7 19. exd5 cxd5 20. Bf1 Rad7 21. cxd5
+Rxd5 22. Nc4 Rxd1 23. Rxd1 Rxd1 24. Qxd1 Bxc4 25. Bxc4 Ne4 26. Qe2 Nxg3 27.
+hxg3 Qd8 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Friedgood, David"]
+[Black "Koelle, Arthur"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2305"]
+[PlyCount "89"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. b3 c5 7. e3 Nc6 8. Bb2 b6
+9. Qe2 Bb7 10. d3 Rc8 11. Nbd2 Rc7 12. Ne1 a6 13. f4 b5 14. Nef3 bxc4 15. bxc4
+Rd7 16. Ne5 Nxe5 17. fxe5 Ne8 18. cxd5 Bxd5 19. Ne4 Bxe4 20. Bxe4 Nc7 21. d4
+cxd4 22. Bc6 Bg5 23. exd4 Rxd4 24. Bxd4 Qxd4+ 25. Kh1 Qc5 26. Bg2 Nd5 27. h4
+Bh6 28. Bxd5 Qxd5+ 29. Kh2 g6 30. Rad1 Qc5 31. Rd7 Bg7 32. Qf3 Qxe5 33. Rxf7
+Rb8 34. Ra7 h5 35. Qf7+ Kh7 36. Kh3 Qd4 37. Rf4 Qa1 38. Rf1 Qd4 39. Rf4 Qa1 40.
+Rf1 Qd4 41. Qf2 Qg4+ 42. Kh2 Rb2 43. Qxb2 e5 44. Qxe5 Qe2+ 45. Qxe2 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Hodgson, Julian M"]
+[Black "Howell, James C"]
+[Result "1-0"]
+[ECO "C63"]
+[WhiteElo "2455"]
+[BlackElo "2395"]
+[PlyCount "53"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Bxc6 dxc6 5. Nc3 Nf6 6. Qe2 Bd6 7. exf5 Bxf5
+8. d3 O-O 9. Bg5 Qd7 10. Bxf6 gxf6 11. O-O-O Bb4 12. Ne4 Qd5 13. c4 Qa5 14. Kb1
+Be6 15. g4 Kh8 16. g5 f5 17. Nf6 Bd6 18. Rhe1 e4 19. Nd4 Bf7 20. Nb3 Qa4 21.
+Qe3 Rad8 22. dxe4 fxe4 23. Qh3 Bg6 24. Nxh7 Bxh7 25. g6 Rf7 26. Rxe4 Rg8 27.
+gxf7 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Jamieson, Peter McKeich"]
+[Black "Hebden, Mark L"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2315"]
+[BlackElo "2480"]
+[PlyCount "65"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. Nc3
+d6 9. Nd5 Na5 10. d4 Nxd5 11. exd5 Bb7 12. dxe5 dxe5 13. Rxe5 Bd6 14. Rg5 c5
+15. c4 Nxc4 16. Bxc4 bxc4 17. Bd2 f6 18. Rg4 Bxd5 19. Ba5 Bxf3 20. Qxf3 Qxa5
+21. Qd5+ Kh8 22. Qxd6 Rfe8 23. h4 Rad8 24. Qg3 Rd3 25. f3 c3 26. bxc3 Qxc3 27.
+Rb1 f5 28. Rg5 Qd4+ 29. Kh2 f4 30. Qg4 Rd2 31. Qh5 Rde2 32. Rxc5 h6 33. Rb6
+1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "King, Daniel J"]
+[Black "Hon, Kah Seng Christie"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2425"]
+[BlackElo "2345"]
+[PlyCount "92"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8. c4
+c6 9. Nc3 Nf6 10. h3 dxc4 11. Bxc4 Nbd7 12. Bb3 Nb6 13. Re1 Bf5 14. g4 Bd7 15.
+Ne5 Nfd5 16. f4 Be6 17. Bc2 Re8 18. Qd3 g6 19. Nxg6 hxg6 20. Rxe6 Bf6 21. Rxe8+
+Qxe8 22. Ne4 Bg7 23. Bd2 Rd8 24. f5 c5 25. Nxc5 Nb4 26. Bxb4 Bxd4+ 27. Kf1 Bxc5
+28. Re1 Qxe1+ 29. Bxe1 Rxd3 30. Bxd3 g5 31. b4 Bd4 32. Be4 Nc4 33. Bxb7 Kf8 34.
+Ke2 Ne5 35. b5 Ke7 36. Bb4+ Kd7 37. Bd5 f6 38. a4 Kc7 39. a5 Kd7 40. Be6+ Kd8
+41. Bd6 Bg1 42. Bb8 Bd4 43. b6 Nc6 44. Bc7+ Ke7 45. b7 Be5 46. Bxe5 fxe5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Lalic, Susan Kathryn"]
+[Black "Carton, Pat"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2010"]
+[BlackElo "2300"]
+[PlyCount "58"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Nf3 Nc6 7. Qe4 f5 8. exf6
+Nxf6 9. Qc2 Be7 10. Bd3 Qa5 11. O-O Qh5 12. Bf4 O-O 13. Bg3 b6 14. Nbd2 Bb7 15.
+Rad1 Nd5 16. Rfe1 Nf4 17. Bf1 Rac8 18. Qa4 g5 19. Nc4 Nb8 20. Qxa7 Nh3+ 21. Kh1
+Bxf3 22. gxf3 Rxc4 23. Bxb8 Qxf3+ 24. Bg2 Nxf2+ 25. Kg1 Rg4 26. Bg3 Rxg3 27.
+hxg3 Qxg3 28. Qxd7 Ng4 29. Qxe6+ Kh8 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Law, Andrew P"]
+[Black "Murphy, Hugh W"]
+[Result "0-1"]
+[ECO "E40"]
+[WhiteElo "2335"]
+[PlyCount "56"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nge2 d5 6. a3 Be7 7. cxd5 exd5 8. g3
+O-O 9. Bg2 Na5 10. O-O c6 11. f3 Qb6 12. b4 Nc4 13. Nf4 Rd8 14. g4 a5 15. b5 h6
+16. bxc6 Qxc6 17. Nce2 b5 18. Ng3 b4 19. axb4 axb4 20. Rxa8 Qxa8 21. Nd3 Bd7
+22. Nf5 Bf8 23. Nb2 Bb5 24. Re1 Qa1 25. Nxc4 dxc4 26. e4 c3 27. d5 Bc5+ 28. Kh1
+Bf2 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Littlewood, Paul E"]
+[Black "Norwood, David"]
+[Result "0-1"]
+[ECO "A67"]
+[WhiteElo "2445"]
+[BlackElo "2335"]
+[PlyCount "86"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nbd7 9. e5 dxe5 10. fxe5 Nh5 11. e6 Qh4+ 12. g3 Nxg3 13. hxg3 Qxh1 14. Be3 O-O
+15. exd7 Bxd7 16. Bxd7 Rae8 17. Bxe8 Rxe8 18. Qe2 Bd4 19. O-O-O Rxe3 20. Qc4 a6
+21. a4 Qh6 22. Kb1 Qh5 23. Rf1 Bxc3 24. bxc3 Qe5 25. Kb2 b5 26. axb5 axb5 27.
+Qxc5 b4 28. Qxb4 Rxg3 29. d6 Rg2+ 30. Ka3 Qd5 31. Ra1 Rc2 32. Nh3 Qd2 33. Ka4
+Rxc3 34. Ra3 Qd1+ 35. Ka5 Qd5+ 36. Kb6 Qc6+ 37. Ka7 Qd7+ 38. Kb6 Rc6+ 39. Ka5
+Qa7+ 40. Kb5 Qb7+ 41. Ka4 Ra6+ 42. Kb3 Rb6 43. Ra8+ Kg7 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Martin, Andrew D"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "A06"]
+[WhiteElo "2425"]
+[BlackElo "2585"]
+[PlyCount "116"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. b3 Nf6 2. Bb2 d5 3. e3 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. O-O e6 7. d3 Be7 8. Nbd2
+O-O 9. Bxc6 Bxc6 10. Ne5 Rc8 11. Qe2 Be8 12. f4 Nd7 13. Nxd7 Qxd7 14. e4 f6 15.
+Rae1 Bf7 16. exd5 Qxd5 17. a4 Rfe8 18. Nc4 b6 19. Qg4 Rc6 20. Ne5 Rcc8 21. Nxf7
+Kxf7 22. f5 Bf8 23. Re3 e5 24. Re4 Kg8 25. Bc1 a6 26. Qe2 b5 27. axb5 axb5 28.
+c4 bxc4 29. bxc4 Qd7 30. Rh4 Rcd8 31. Rh3 e4 32. dxe4 Qd4+ 33. Kh1 Rxe4 34. Re3
+Rde8 35. Re1 R4e5 36. h3 Bd6 37. Rxe5 Rxe5 38. Qf1 Rxe1 39. Qxe1 Qxc4 40. Bb2
+Kf7 41. Qa1 Qd5 42. Qf1 c4 43. Bc3 Be5 44. Bxe5 fxe5 45. Qe2 Kf6 46. Qh5 e4 47.
+Qxh7 Qxf5 48. Qg8 c3 49. g4 Qe5 50. g5+ Kxg5 51. h4+ Kg4 52. Qa2 e3 53. Qe2+
+Kxh4 54. Qe1+ Kh5 55. Qe2+ Kh6 56. Qa6+ g6 57. Qc8 e2 58. Kg2 e1=Q 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Murshed, Niaz"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2415"]
+[PlyCount "102"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 O-O 7. e3 c5 8.
+dxc5 Bxc5 9. Be2 Nc6 10. O-O Be6 11. Rc1 Rc8 12. Qa4 Bb6 13. Rfd1 h6 14. Qa3
+Re8 15. Ne5 Nxe5 16. Bxe5 Ng4 17. Bd4 Qh4 18. Bxg4 Bxg4 19. Nxd5 Bxd4 20. Rxc8
+Bxc8 21. Qa4 b5 22. Qxd4 Qxd4 23. Rxd4 Be6 24. Kf1 Rb8 25. Ke1 Kf8 26. Kd2 a5
+27. e4 b4 28. b3 g5 29. Kd3 Bd7 30. Ne3 Ke7 31. g3 Be6 32. Nd5+ Kf8 33. f4 gxf4
+34. gxf4 f5 35. Nc7 fxe4+ 36. Kxe4 Bf7 37. f5 a4 38. Ne6+ Ke7 39. Ke5 Rb5+ 40.
+Rd5 Rxd5+ 41. Kxd5 axb3 42. axb3 Kf6 43. Ke4 Bg8 44. Nd4 Bf7 45. h4 Bg8 46. Kf4
+Bd5 47. Nc2 Bxb3 48. Nxb4 Bc4 49. Nc6 Bd3 50. Nd4 Bb1 51. Kg4 Ke5 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "NOVAG MONSTER X"]
+[Black "Caiafas, Theophilus"]
+[Result "0-1"]
+[ECO "B83"]
+[BlackElo "2205"]
+[PlyCount "93"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O 8. f4
+e5 9. Nf3 Nc6 10. Kh1 a6 11. f5 b5 12. Bg5 b4 13. Bxf6 bxc3 14. Bxe7 Qxe7 15.
+bxc3 Bb7 16. Bc4 Na5 17. f6 Qxf6 18. Bd5 Qe7 19. Rb1 Rac8 20. Bxb7 Nxb7 21. Qd5
+Nc5 22. Rb6 Rfd8 23. c4 Rd7 24. Rfb1 Qd8 25. h3 g6 26. c3 Kg7 27. a3 Na4 28.
+Rb7 Nxc3 29. Rxd7 Qxd7 30. Rb7 Rc7 31. Rxc7 Qxc7 32. Qd3 Na4 33. Qf1 Nc5 34.
+Nd2 Qa5 35. Qc1 Nd3 36. Qc2 Qxa3 37. Nb3 Nf2+ 38. Qxf2 Qxb3 39. Qd2 Qb6 40. Qd3
+a5 41. Qc2 Qb4 42. Kg1 a4 43. Kf2 a3 44. Ke2 Qb2 45. Kd2 Qxc2+ 46. Kxc2 f5 47.
+c5 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Orr, Mark JL"]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2325"]
+[BlackElo "2390"]
+[PlyCount "79"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 e6 2. g3 c5 3. Nf3 b6 4. Bg2 Bb7 5. O-O Nf6 6. c4 cxd4 7. Qxd4 Nc6 8. Qd1
+a6 9. Nc3 Bb4 10. Qd3 O-O 11. Rd1 h6 12. Bf4 Rc8 13. Rac1 Na5 14. b3 d5 15.
+cxd5 Ba3 16. Rb1 Bb4 17. Bd2 exd5 18. Nd4 Re8 19. e3 Nc6 20. Nxc6 Bxc6 21. Qxa6
+d4 22. Bxc6 Rxc6 23. Ne2 Bxd2 24. Rxd2 Ne4 25. Rxd4 Qf6 26. Rxe4 Rxe4 27. Qa8+
+Kh7 28. Nd4 Rxd4 29. exd4 Qg6 30. Re1 Rc2 31. a4 Rc3 32. b4 Rc4 33. b5 Rxd4 34.
+a5 bxa5 35. Qxa5 Qf5 36. Qc3 Rd5 37. b6 Rb5 38. Qc6 Rb2 39. Rf1 Qg6 40. Qxg6+
+1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Potts, Alan W"]
+[Black "Gallagher, Joseph G"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[BlackElo "2370"]
+[PlyCount "19"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Qc7 7. Be2 e5 8. Nf3
+h6 9. O-O Be7 10. Be3 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Rose, C Nigel J"]
+[Black "NOVAG MONSTER Y"]
+[Result "0-1"]
+[ECO "E48"]
+[PlyCount "74"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nge2 b6 7. cxd5 exd5 8.
+O-O c5 9. a3 Bxc3 10. bxc3 Nc6 11. f3 Re8 12. Ra2 a6 13. Ng3 b5 14. Raf2 Be6
+15. e4 cxd4 16. cxd4 dxe4 17. fxe4 Ng4 18. d5 Qh4 19. h3 Nxf2 20. Rxf2 Qxg3 21.
+Bf4 Qg6 22. e5 Bf5 23. Bxf5 Qxf5 24. dxc6 Rac8 25. Qd7 Qe6 26. Rc2 Re7 27. Qd6
+Rec7 28. Rc3 h6 29. Kh2 Rxc6 30. Rxc6 Rxc6 31. Qd8+ Kh7 32. Qd3+ Qg6 33. Qd5
+Rc4 34. Bd2 Qe4 35. Qxf7 Qxe5+ 36. Kh1 Qa1+ 37. Kh2 Qf6 0-1
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Shailendra, P."]
+[Black "Thipsay, Bagyashree Sathe"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[BlackElo "2075"]
+[PlyCount "22"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. Nf3 Bg4 6. c3 e6 7. h3 Bh5 8. O-O
+Nf6 9. Nbd2 Bd6 10. Re1 O-O 11. Qb3 Qc7 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Short, Nigel D"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2535"]
+[BlackElo "2530"]
+[PlyCount "24"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. c3 Qc7
+8. Nf3 Bf5 9. O-O e6 10. Re1 Bd6 11. Qe2 O-O 12. h3 h6 1/2-1/2
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Stebbings, Anthony J"]
+[Black "Tilak, Sharad"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2210"]
+[BlackElo "2280"]
+[PlyCount "115"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 b5 8. e5
+Nxe5 9. Rxe5 d6 10. Re1 bxa4 11. Nxd4 Bd7 12. Qf3 O-O 13. Nc6 Bxc6 14. Qxc6 Nd7
+15. Nc3 Nb6 16. Nxa4 Nxa4 17. Qxa4 Bf6 18. Rb1 Qc8 19. Qc6 Qf5 20. Be3 Be5 21.
+b3 d5 22. Rbd1 Rad8 23. Bd4 Bd6 24. Rd3 h6 25. g3 Bb4 26. Re5 Qd7 27. Qxd7 Rxd7
+28. Bc3 Bxc3 29. Rxc3 Rb8 30. Rc6 Rb6 31. Rc5 Rb5 32. Re8+ Kh7 33. Rxb5 axb5
+34. Rb8 c6 35. Rc8 Rd6 36. Kf1 Re6 37. Rc7 Kg8 38. Rc8+ Kh7 39. a4 bxa4 40.
+bxa4 Re4 41. Rxc6 Rxa4 42. Ke2 Ra1 43. h4 g6 44. Rc5 Rc1 45. Kd2 Rf1 46. Ke2
+Rc1 47. Kf3 h5 48. Kf4 Re1 49. Rxd5 Re2 50. c4 Rxf2+ 51. Ke5 Rf3 52. c5 Rxg3
+53. c6 Rc3 54. Kd6 Kg7 55. c7 Rxc7 56. Kxc7 f5 57. Kd6 Kf6 58. Kc5 1-0
+
+[Event "Commonwealth Championship 3rd"]
+[Site "Docklands, London"]
+[Date "1985.02.26"]
+[Round "11"]
+[White "Thipsay, Praveen Mahadeo"]
+[Black "Nunn, John DM"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2470"]
+[BlackElo "2615"]
+[PlyCount "81"]
+[EventDate "1985.02.16"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. a4 Nc6 7. Be2 e6 8. O-O
+Be7 9. Be3 O-O 10. f4 Qc7 11. Qe1 Nxd4 12. Bxd4 e5 13. fxe5 dxe5 14. Qg3 Bc5
+15. Bxc5 Qxc5+ 16. Kh1 Kh8 17. Qh4 Ng8 18. Bd3 Ne7 19. Rad1 Qb4 20. Na2 Qc5 21.
+Nc3 Be6 22. Nd5 Bxd5 23. exd5 f5 24. b4 Qd6 25. Qe1 e4 26. Be2 Rad8 27. c4 Qh6
+28. Qd2 f4 29. d6 e3 30. Qd4 Nc6 31. Qd5 Nxb4 32. Qxb7 Rb8 33. Qe4 Rbe8 34. Qf3
+Na2 35. c5 Nc3 36. c6 Rd8 37. c7 Rxd6 38. Rxd6 Qxd6 39. Qxf4 Qf6 40. Qxf6 gxf6
+41. Bxa6 1-0
+

@@ -7,10 +7,11 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PGN_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "BritBase", "Data", "pgn"))
 JSON_OUT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "BritBase", "Data", "brit80.json"))
 
+LIVE_BASE = "https://www.saund.co.uk/britbase/pgn/"
 ARCHIVE_BASE = "https://web.archive.org/web/20260401000000id_/http://www.saund.co.uk/britbase/pgn/"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0",
-    "Referer": "http://www.saund.co.uk/britbase/brit80.htm"
+    "Accept": "*/*",
 }
 
 # The exact data pasted directly from your prompt
@@ -278,8 +279,8 @@ PGN_MAP = {
 
     # 1984
     ("Midland Individ Ch", 1984): "198402mccu.pgn",
-    ("Phillips & D/GLC Kings", 1984): "198404londonpdglc.pgn",
-    ("Phillips & D/GLC Kts", 1984): "198404londonpdglc.pgn",
+    ("London GLC Kings", 1982): "198204glc.pgn",
+    ("London GLC Kts", 1982): "198204glc.pgn",
     ("Oxford International", 1984): "198406oxford.pgn",
     ("Robert Silk YM", 1984): "198407robertsilk.pgn",
     ("GBR-ch Brighton", 1984): "198407bcf.pgn",
@@ -347,18 +348,42 @@ def download_file_if_missing(filename):
         return
 
     print(f"[*] Downloading missing PGN: {filename} ...")
-    url = f"{ARCHIVE_BASE}{filename}"
+    
+    # Viewer page name used as Referer (e.g. 198004sutton-viewer.html)
+    viewer_page = filename.replace(".pgn", "-viewer.html")
+    live_url = f"{LIVE_BASE}{filename}"
+    referer_url = f"{LIVE_BASE}{viewer_page}"
+
+    req_headers = dict(HEADERS)
+    req_headers["Referer"] = referer_url
+
+    # 1. Try Live Server
     try:
-        r = requests.get(url, headers=HEADERS, timeout=20)
+        r = requests.get(live_url, headers=req_headers, timeout=15)
         if r.status_code == 200 and len(r.content) > 0:
             with open(dest, "wb") as f:
                 f.write(r.content)
-            print(f"    [+] Saved {filename} ({len(r.content)} bytes)")
+            print(f"    [+] Saved from live server: {filename} ({len(r.content)} bytes)")
+            return
         else:
-            print(f"    [!] HTTP {r.status_code} for {filename}")
+            print(f"    [!] Live server returned HTTP {r.status_code}")
     except Exception as e:
-        print(f"    [!] Error downloading {filename}: {e}")
+        print(f"    [!] Live server connection error: {e}")
 
+    # 2. Fallback to Wayback Archive (newest snapshot)
+    archive_url = f"{ARCHIVE_BASE}{filename}"
+    print(f"    [*] Trying archive mirror fallback...")
+    try:
+        r = requests.get(archive_url, headers=HEADERS, timeout=20)
+        if r.status_code == 200 and len(r.content) > 0:
+            with open(dest, "wb") as f:
+                f.write(r.content)
+            print(f"    [+] Saved from archive: {filename} ({len(r.content)} bytes)")
+            return
+        else:
+            print(f"    [!] Archive returned HTTP {r.status_code}")
+    except Exception as e:
+        print(f"    [!] Archive error: {e}")
 
 def main():
     os.makedirs(PGN_DIR, exist_ok=True)
