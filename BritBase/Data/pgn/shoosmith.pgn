@@ -1,0 +1,4155 @@
+[Event "Return match, game 1"]
+[Site "?"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Gibbons, Thomas Charles"]
+[Result "0-1"]
+[ECO "B34"]
+[PlyCount "108"]
+[EventDate "1894.??.??"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bd2 Bg7
+8. Bc3 Bxc3+ 9. Nxc3 Be6 10. O-O-O+ Kc7 11. Be2 Nf6 12. Bf3 Rad8 13. h3 Nd7 14.
+Kb1 Ne5 15. Be2 g5 16. h4 h6 17. hxg5 hxg5 18. b3 Rxd1+ 19. Rxd1 Rh2 20. Rg1
+Ng6 21. Nd1 Nf4 22. Bf1 Kd6 23. Ne3 Ke5 24. f3 Kd4 25. Nd1 g4 26. Kc1 gxf3 27.
+gxf3 Bh3 28. a4 Bg2 29. c3+ Ke5 30. Nf2 Bxf3 31. Rg5+ Kd6 32. e5+ Ke6 33. Nd1
+Bxd1 34. Kxd1 Rh1 35. Ke1 Nd3+ 36. Ke2 Nxe5 37. Kf2 f6 38. Rg8 Rh2+ 39. Bg2
+Nd3+ 40. Kg3 Rh5 41. Bh3+ Ke5 42. Re8 Rg5+ 43. Kf3 Rg7 44. b4 f5 45. Rd8 Nf4
+46. Bxf5 Kxf5 47. Rf8+ Ke6 48. Rxf4 Rf7 49. Rxf7 Kxf7 50. Ke4 Ke6 51. Kd4 Kd6
+52. c4 c5+ 53. bxc5+ Kc6 54. Ke5 Kxc5 {'and wins.' Source: Southern Counties'
+Chess Journal of September 1894,} 0-1
+
+[Event "County Match"]
+[Site "Redhill"]
+[Date "1894.01.13"]
+[Round "1.14"]
+[White "Cresswell, E.."]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C61"]
+[PlyCount "68"]
+[EventDate "1894.01.13"]
+[EventType "team"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "Surrey"]
+[BlackTeam "Sussex"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bc4 Nxf3+ 5. Qxf3 Qf6 6. Qg3 Bc5 7. Nc3 c6 8.
+d3 d6 9. O-O Nh6 10. Be3 Bb6 11. Bxb6 axb6 12. f4 exf4 13. Rxf4 Qd4+ 14. Kh1
+O-O 15. Re1 Qe5 16. h3 Kh8 17. Qf2 Qh5 18. Ne2 b5 19. Bb3 f6 20. c3 Qg6 21. Rh4
+Qe8 22. Nf4 Ng8 23. e5 dxe5 24. Rxe5 fxe5 25. Ng6+ Qxg6 26. Qxf8 Bxh3 27. Qf3
+Be6 28. Bc2 Rxa2 29. Qe2 Rxb2 30. Rh2 Qg3 31. Qe4 Bf5 32. Qe2 Rxc2 33. Rxh7+
+Kxh7 34. Qh5+ Nh6 {Source: Southern Counties' Chess Journal of February 1894.}
+0-1
+
+[Event "McArthur Cup"]
+[Site "Brighton"]
+[Date "1894.03.31"]
+[Round "1.3"]
+[White "Crowley, E Aleister"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C34"]
+[PlyCount "63"]
+[EventDate "1894.03.31"]
+[EventType "simul"]
+[EventCountry "ENG"]
+[SourceTitle "Shoosmith File"]
+[Source "BritBase"]
+[SourceDate "2019.02.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.02.18"]
+[SourceQuality "1"]
+[WhiteTeam "Eastbourne"]
+[BlackTeam "Brighton"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 d6 5. O-O h6 6. d4 Ne7 7. Nc3 Bg7 8. e5 d5
+9. Bb3 c6 10. Ne2 Ng6 11. g3 g4 12. Nxf4 Nxf4 13. Bxf4 gxf3 14. Qxf3 Be6 15. c3
+Nd7 16. Bc2 Nf8 17. Qh5 Qd7 18. Bd2 Bg4 19. Qh4 Ng6 20. Bxg6 fxg6 21. e6 Bxe6
+22. Rae1 g5 23. Qg4 O-O-O 24. Rxe6 h5 25. Qe2 h4 26. Bxg5 Rdg8 27. Re7 Qh3 28.
+g4 Bxd4+ 29. cxd4 Rxg5 30. Re8+ Rxe8 31. Qxe8+ Kc7 32. Qe7+ {Source: Fox and
+James' website 2004. Brian Denman's note (dated 20 Feb 2019): "The game
+between Aleister Crowley and Shoosmith was originally published in the
+Eastbourne Gazette of 4.4.1894. The column was discovered by Chris Ravilious
+about twenty years ago. At that time Crowley was very young for a chess
+columnist and he used the pseudonym of 'Ta Dhuibh'. Although he only wrote the
+articles for about six months, he caused a disagreement within the Eastbourne
+CC. If you look at the article, you will see that the names of the players are
+not given. It was in fact Crowley's usual practice not to name the players
+involved in games and some of these have definitely been traced back to
+Crowley. I myself think it likely that this was the Crowley v Shoosmith game,
+but there is no clear proof of this and I believe that, when the game is
+quoted, a note should be added to say that there is an uncertainty about who
+was playing the game."} 1-0
+
+[Event "Blindfold Simul, 6 boards"]
+[Site "Brighton"]
+[Date "1894.06.20"]
+[Round "?"]
+[White "Blackburne, Joseph Henry"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C45"]
+[PlyCount "46"]
+[EventDate "1894.06.20"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bb5 O-O 8.
+O-O d6 9. Nxc6 bxc6 10. Bxc5 cxb5 11. Be3 Qg6 12. f3 Bb7 13. Na3 a6 14. Nc2 f5
+15. exf5 Nxf5 16. Qd3 Rae8 17. Bd2 Re6 18. Rf2 Qh5 19. Re1 Rg6 20. Ne3 Nh4 21.
+Ng4 Nxg2 22. Rxg2 Bxf3 23. Rg3 Rxg4 {Sources: Southern Counties' Chess Journal
+of August 1894 and the Hereford Times (Brian Denman)} 0-1
+
+[Event "Sussex Championship play-off"]
+[Site "?"]
+[Date "1895.03.02"]
+[Round "1"]
+[White "Shoosmith, Hector William"]
+[Black "Emery, Alfred"]
+[Result "0-1"]
+[ECO "C45"]
+[PlyCount "96"]
+[EventDate "1895.03.30"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Qd2 d5 8.
+Nxc6 Bxe3 9. Qxe3 bxc6 10. Be2 O-O 11. O-O Re8 12. e5 Qg6 13. f4 f6 14. exf6
+Nf5 15. Qd2 Qxf6 16. Na3 Bd7 17. Nc2 Nd6 18. Rae1 Re7 19. Bf3 Rae8 20. Ne3 Ne4
+21. Bxe4 Rxe4 22. g3 Bh3 23. Ng2 Qe7 24. Rxe4 Qxe4 25. Rf2 Bxg2 26. Rxg2 Qb1+
+27. Kf2 Qxa2 28. h3 Qb1 29. Rg1 Qe4 30. Re1 Qxe1+ 31. Qxe1 Rxe1 32. Kxe1 a5 33.
+Kd2 c5 34. Kd3 Kf7 35. b3 Kf6 36. g4 Ke6 37. Ke3 g6 38. Kd3 Kd6 39. Ke3 c4 40.
+bxc4 a4 41. Kd2 dxc4 42. Kc2 Kd5 43. Kb2 Ke4 44. Ka3 Kxf4 45. Kxa4 h5 46. Kb4
+hxg4 47. hxg4 Kxg4 48. Kxc4 Kf4 {'and wins'. Taken from the Southern Counties'
+Chess Journal of April 1895. Also published in the West Sussex County Times
+and Standard of 1.1.1898.} 0-1
+
+[Event "Sussex Championship play-off"]
+[Site "?"]
+[Date "1895.03.30"]
+[Round "3"]
+[White "Shoosmith, Hector William"]
+[Black "Emery, Alfred"]
+[Result "0-1"]
+[ECO "C54"]
+[PlyCount "92"]
+[EventDate "1895.03.30"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. b4 Bb6 6. d3 d6 7. a4 a6 8. O-O Qe7
+9. Be3 Ba7 10. Nbd2 Nd8 11. Qb3 Be6 12. Bxa7 Rxa7 13. d4 Nd7 14. h3 f6 15. d5
+Bf7 16. Bd3 O-O 17. Rae1 g6 18. c4 a5 19. b5 Nc5 20. Qc2 Nxd3 21. Qxd3 b6 22.
+g4 Be8 23. Kh1 Bd7 24. Rg1 Ra8 25. Rg2 Nf7 26. Reg1 Kg7 27. Nf1 Ng5 28. N3d2
+Rh8 29. h4 Nf7 30. Qg3 Rag8 31. Nh2 Kf8 32. Qf3 Ke8 33. Ndf1 Kd8 34. Ne3 Rf8
+35. Qe2 h5 36. gxh5 Rxh5 37. Rxg6 Rxh4 38. f3 Ng5 39. Nf5 Bxf5 40. exf5 Rfh8
+41. Rg2 Qh7 42. Kg1 Nh3+ 43. Kh1 Nf4 44. Qf2 Nxg2 45. Rxg2 Qxf5 46. Qf1 Qf4 {
+Sources: The Daily News (London) of 15.4.1895, West Sussex County Times and
+Standard of 20.4.1895, Southern Counties' Chess Journal of May 1895, and
+Cheltenham Examiner of 29.5.1895. This game, which was completed on 6th April
+after an adjournment, won Emery the county championship.} 0-1
+
+[Event "Brighton v North London CC"]
+[Site "Brighton"]
+[Date "1895.05.25"]
+[Round "1.6"]
+[White "Shoosmith, Hector William"]
+[Black "Biaggini, Charles Edward"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "39"]
+[EventDate "1895.05.25"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "Brighton"]
+[BlackTeam "North London"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nf3 O-O 6. Bg5 Bb4 7. O-O Bxc3 8.
+bxc3 d6 9. h3 Be6 10. Bb3 Qd7 11. Nd2 d5 12. Bxf6 gxf6 13. exd5 Bxd5 14. Bxd5
+Qxd5 15. Ne4 Qe6 16. Qg4+ Kh8 17. Qh4 f5 18. Nf6 Kg7 19. Qg5+ Kh8 20. Qh6 {
+Source: Brighton Society, 1 Jun 1895. Played at Brighton.} 1-0
+
+[Event "Lewes v Brighton YMCA"]
+[Site "Lewes"]
+[Date "1896.03.25"]
+[Round "1.1"]
+[White "Chandler, J.."]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C66"]
+[PlyCount "30"]
+[EventDate "1896.03.25"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "Lewes"]
+[BlackTeam "Brighton"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. d3 d6 6. Ne1 $2 O-O 7. Bxc6 bxc6
+8. f4 Bg4 9. Nf3 d5 $1 10. fxe5 dxe4 11. exf6 Bc5+ 12. Kh1 exf3 13. gxf3 Bh3
+14. Re1 Qxf6 15. Be3 Rfe8 {Source: Brighton Society of 18.4.1896.} 0-1
+
+[Event "Brighton v Ludgate Circus"]
+[Site "Brighton"]
+[Date "1897.03.20"]
+[Round "1.1"]
+[White "Shoosmith, Hector William"]
+[Black "Howell, A.."]
+[Result "1-0"]
+[ECO "C11"]
+[PlyCount "56"]
+[EventDate "1897.03.20"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "Brighton"]
+[BlackTeam "Ludgate Circus"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5 7. Nf3 Nc6 8. a3
+a6 9. Bd3 b5 10. Qe2 Qb6 11. Nd1 Bb7 12. Nf2 Rc8 13. O-O h6 14. f5 Ne7 15. fxe6
+fxe6 16. c3 O-O 17. Bd2 Rf7 18. b4 Bxf2+ 19. Rxf2 Rcf8 20. Raf1 Nf5 21. g4 Ng3
+22. hxg3 Rxf3 23. Bf4 Rxf2 24. Rxf2 Qc7 25. g5 hxg5 26. Qh5 Rf5 27. Bxf5 exf5
+28. e6 gxf4 {'White mates in two.' Sources: Sussex Daily News of 22.3.1897,
+and West Sussex Gazette of 1.4.1897. Unfortunately there may not be a version
+of the West Sussex Gazette surviving in which the full score is legible. The
+game was later published in the West Sussex County Times and Standard of 2.2.
+1907. Played at Brighton.} 1-0
+
+[Event "Sussex-Hampshire County Match"]
+[Site "Portsmouth"]
+[Date "1897.12.11"]
+[Round "1.2"]
+[White "Shoosmith, Hector William"]
+[Black "Elwell, Francis Joseph H"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "68"]
+[EventDate "1897.12.11"]
+[EventType "match"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+[WhiteTeam "Sussex"]
+[BlackTeam "Hampshire"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 b6 6. e3 O-O 7. cxd5 exd5 8. Bd3
+Nbd7 9. Rc1 Bb7 10. O-O h6 11. Bxf6 Nxf6 12. Bb1 a6 13. Ne5 Bd6 14. Qc2 Qe8 15.
+Ng4 Ne4 16. f3 f5 17. fxe4 dxe4 18. Nf2 Kh8 19. a3 Qh5 20. Nh3 g5 21. Qe2 Qh4
+22. Qe1 Qh5 23. Bc2 Rae8 24. Bd1 Qg6 25. Qe2 f4 26. exf4 gxf4 27. Bc2 f3 28.
+Qf2 Rg8 29. Rfe1 Qxg2+ 30. Qxg2 Rxg2+ 31. Kf1 e3 32. d5 Rxh2 33. Bf5 e2+ 34.
+Nxe2 fxe2+ {"and wins" Source: Isle of Wight Observer, 4 June 1898} 0-1
+
+[Event "County Match"]
+[Site "London"]
+[Date "1899.02.04"]
+[Round "1.1"]
+[White "Shoosmith, Hector William"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "D00"]
+[PlyCount "43"]
+[EventDate "1899.02.04"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "Sussex"]
+[BlackTeam "Surrey"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. e3 c5 3. c3 Bf5 4. Bd3 Bg6 5. dxc5 e6 6. b4 Nc6 7. Bb2 Nf6 8. Nf3
+Be7 9. O-O O-O 10. Bxg6 hxg6 11. Nbd2 Nd7 12. a3 g5 13. e4 g4 14. exd5 gxf3 15.
+dxc6 fxg2 16. Re1 bxc6 17. Ne4 Qc7 18. Nd6 Rad8 19. c4 Nf6 20. Be5 Nd7 21. Bxg7
+Kxg7 22. Qg4+ {'and wins.' Sources: West Sussex Gazette of 2.3.1899, and West
+Sussex County Times and Standard of 18.12.1909. Played at the City of London
+CC. In both cases the score does not tell us whether Black played 6..Nc6 and 7.
+.Nf6 or 6..Nf6 and 7..Nc6.} 1-0
+
+[Event "Sussex Cup"]
+[Site "?"]
+[Date "1900.01.??"]
+[Round "?"]
+[White "Dobell, Herbert Edward"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "57"]
+[EventDate "1900.01.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+[WhiteTeam "Hastings"]
+[BlackTeam "Brighton"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Bd3 Nbd7 7. Nf3 b6 8. Rc1
+Bb7 9. O-O c5 10. dxc5 bxc5 11. cxd5 exd5 12. Be2 Nb6 13. Rc2 Qd7 14. Rd2 Rfd8
+15. Qb3 Rac8 16. Rfd1 Qe6 17. Ne1 h6 18. Bf4 c4 19. Qc2 g5 20. Bg3 h5 21. h3 g4
+22. hxg4 hxg4 23. Bh4 Bd6 24. Rd4 Qe5 25. g3 Ne4 26. Nxe4 dxe4 27. Bxd8 Rxd8
+28. Bxg4 f6 29. Qd2 {Source: Hastings and St Leonards Observer, 20 Jan 1900}
+1-0
+
+[Event "Brighton Congress 1st Class Open "]
+[Site "Brighton"]
+[Date "1904.02.10"]
+[Round "4"]
+[White "Shoosmith, Hector William"]
+[Black "Michell, Reginald Pryce"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "76"]
+[EventDate "1904.02.10"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Bd3 O-O 7. Nf3 b6 8. O-O
+Bb7 9. cxd5 exd5 10. Rc1 c5 11. Bb1 Ne4 12. Bxe7 Qxe7 13. Re1 Rad8 14. Qc2 g6
+15. Nd2 Nxd2 16. Qxd2 f5 17. f4 Rf6 18. Rf1 Re6 19. Rf3 Re8 20. Re1 cxd4 21.
+Qxd4 Qc5 22. Qxc5 bxc5 23. Rg3 Kf7 24. Rd1 Nb6 25. Kf2 Nc4 26. Nxd5 Nxb2 27.
+Rd2 Nc4 28. Rd3 Bxd5 29. Rxd5 Nxe3 30. Rxe3 Rxe3 31. Rxc5 Re2+ 32. Kg3 R8e3+
+33. Kh4 Rxg2 34. h3 Rgg3 35. Bxf5 gxf5 36. Rxf5+ Kg6 37. Rg5+ Rxg5 38. fxg5
+Re4+ {Source: The Field, 20 Feb 1904. Contributor: Brian Denman} 0-1
+
+[Event "Brighton Congress 1st Class Open "]
+[Site "Brighton"]
+[Date "1904.02.10"]
+[Round "5"]
+[White "Thomas, George Alan"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C90"]
+[PlyCount "84"]
+[EventDate "1904.02.10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. d3 h6 10. Nbd2 Re8 11. Nf1 Bf8 12. Ng3 Ne7 13. Nh4 Bg4 14. f3 Be6 15.
+Nhf5 Qc8 16. Ne3 c6 17. Bc2 Rd8 18. Qe2 Ng6 19. Qf2 Nf4 20. Nef1 g5 21. Ne2 Ng6
+22. g3 d5 23. f4 dxe4 24. dxe4 Ng4 25. Qf3 gxf4 26. gxf4 Bc5+ 27. Be3 Nxe3 28.
+Nxe3 Bg4 29. Qg3 Bxe2 30. f5 Rd2 31. Bb3 Kh7 32. Kh1 Nf4 33. Bxf7 Bxe3 34. Bg6+
+Kh8 35. Qxe3 Rd3 36. Qc5 Bf3+ 37. Kg1 Qc7 38. Re3 Rxe3 39. Qxe3 Qa7 40. Kf2
+Bxe4 41. Qxa7 Rxa7 42. Ke3 Bd5 {Source: Brian Denman (via Chess Games of GA
+Thomas, Roger Paige, 2005)} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Mortimer, James"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C53"]
+[PlyCount "92"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Qe7 6. d4 Bb6 7. a4 a6 8. a5 Ba7
+9. b4 Nf6 10. b5 axb5 11. Bxb5 O-O 12. Bxc6 bxc6 13. Bg5 h6 14. Bh4 g5 15. Nxg5
+hxg5 16. Bxg5 Qe6 17. Qf3 Nh7 18. Be3 Kh8 19. Nd2 Rg8 20. Kh1 Qg6 21. Rg1 Bg4
+22. Qg3 Qh5 23. f3 Be6 24. Qf2 f6 25. g4 Qf7 26. Qh4 Rab8 27. Rg3 Rb2 28. Rh3
+Qg6 29. a6 Rxd2 30. Bxd2 exd4 31. cxd4 Bxd4 32. Ra4 c5 33. a7 Ra8 34. Qe1 Qe8
+35. Ra5 Kg8 36. Qh4 Qg6 37. Rb5 Rxa7 38. Rb8+ Kg7 39. Re8 Ra1+ 40. Be1 Rxe1+
+41. Qxe1 Qxe8 42. Qa5 Qb8 43. Qe1 Qb2 44. Rg3 Bf2 45. Rg2 Bxe1 46. Rxb2 c4 {
+Sources: West Sussex Gazette of 15.9.1904, 'Chess Tournaments and Matches
+1904' - A J Gillam - The Chess Player (1999), and the Big Database 2003.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Shoosmith, Hector William"]
+[Black "Muller, Oscar Conrad"]
+[Result "1-0"]
+[ECO "D52"]
+[Annotator "Saunders, John"]
+[PlyCount "59"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Bxf6 Nxf6 8.
+Nd2 Bb4 9. Qc2 O-O 10. Be2 Ne4 11. Ndxe4 dxe4 12. O-O f5 13. f3 exf3 14. Rxf3
+Bd7 15. Rd1 Rae8 16. Kh1 Re7 17. e4 Bxc3 18. bxc3 c5 19. Rdf1 Rfe8 20. Bd3 g6
+21. h3 Ba4 22. Qf2 Qxc3 23. exf5 exf5 24. Bxf5 $5 {In a slightly shaky
+position, White decides to risk all on a kingside assault. It is not sound but
+it works.} Qxd4 $1 ({Not} 24... gxf5 $2 25. Rxf5 {which soon leads to mate.})
+25. Qg3 Qe5 26. Qh4 {Again White goes for broke, rather than limp along a pawn
+down in an ending.} gxf5 27. Rxf5 Qc7 $2 {[%mdl 32768]} (27... Qd6 $1 {would
+have won for Black with best play, though he would still have had to find a
+few good moves. He must have overlooked White's very neat finish.}) 28. Qh6 $1
+Rg7 29. Qe6+ Rf7 30. Rg5+ {Sources: American Chess Bulletin of August 1904 
+(courtesy J S Hilbert), 'Chess Tournaments and Matches 1904' - A J Gillam -
+the Chess Player (1999), and the Big Database 2003.} (30. Rg5+ Kf8 31. Qh6+ Ke7
+32. Rxf7+ Kxf7 33. Rg7+ {and mate in a futher two moves.}) 1-0
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Mason, James"]
+[Black "Shoosmith, Hector William"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[PlyCount "111"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Be3 Bb6 7. Qd2 Be6 8. Bb5
+Ba5 9. h3 O-O 10. Bxc6 bxc6 11. O-O h6 12. Qe2 c5 13. Bd2 c6 14. Na4 Rb8 15. b3
+Bxd2 16. Nxd2 g5 17. Nb2 Kh7 18. Nbc4 Rg8 19. g4 h5 20. f3 Ne8 21. Rf2 f6 22.
+Ne3 h4 23. c4 Rg7 24. Nb1 Qa5 25. Qd2 Qa6 26. Nc3 $2 Rxb3 27. Rc1 Rb8 28. Ned1
+Rgb7 29. Rc2 Nc7 30. Ne2 Rb1 31. Kg2 Bg8 32. Ndc3 R1b7 33. Rf1 Ne6 34. Nd1 Qa3
+35. Ne3 Nd4 36. Nxd4 cxd4 37. Nf5 Be6 38. Rfc1 Bxf5 39. gxf5 c5 40. Kf2 Rb2 41.
+Qe2 Qxa2 42. f4 Kh6 43. fxg5+ fxg5 44. Kg2 a5 45. Kf3 a4 46. Kg4 {Now Black is
+careless:} a3 $2 (46... Rxc2 47. Rxc2 Qb1 {leads to an easy win - JS}) 47. Qd2
+$1 Rg8 {Black thinks he has covered the threat but White has a further trick.}
+48. f6 $1 Kh7 $2 ({After the correct} 48... Rxc2 {White has} 49. f7 $1 Rxd2 50.
+fxg8=Q Rg2+ 51. Kf5 Qf2+ 52. Ke6 {and White has perpetual check. The move
+played should actually lose, but White misses his chance of getting the full
+point. (JS)}) 49. Kf5 $2 (49. f7 $1 Rf8 50. Qxg5 (50. Kh5 Rxf7 51. Qxg5 Rg7 52.
+Qf5+ Kg8 53. Rf1 {comes to much the same thing}) 50... Rxc2 51. Kh5 Rxf7 52.
+Rg1 {is game over - Stockfish}) 49... Qb3 50. f7 Rf8 51. Qxg5 Rxf7+ 52. Ke6 Qb7
+53. Qh5+ Kg8 54. Rg1+ Rg7 55. Qe8+ Kh7 56. Qh5+ {Sources: West Sussex Gazette
+of 22.9.1904, 'Chess Tournaments and Matches 1904' - A J Gillam - The Chess
+Player (1999), and the Big Database 2003. Some comments on the finish: London
+Daily News, 28 Jul 1904} 1/2-1/2
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Shoosmith, Hector William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "98"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 c5 4. c3 Nc6 5. f4 Bg4 6. Nf3 e6 7. O-O Bd6 8. Qe1
+Bxf3 9. Rxf3 Ne4 10. Bxe4 dxe4 11. Rf1 f5 12. Nd2 O-O 13. Nc4 Rc8 14. Qe2 cxd4
+15. exd4 Ne7 16. Be3 Nd5 17. Ne5 a6 18. Bd2 Bxe5 19. fxe5 Qb6 20. Rab1 Qc6 21.
+Kh1 b5 22. Rbc1 Qc4 23. Qxc4 bxc4 24. Rfe1 Rb8 25. Rc2 Rfc8 26. Bc1 Rb7 27.
+Ree2 a5 28. Kg1 a4 29. a3 h6 30. Kf2 Rf8 31. Ke1 g5 32. Kd1 Kh7 33. Ke1 Rfb8
+34. Kf2 Kg6 35. Kg1 Ne7 36. Kf2 Nc6 37. Ke1 h5 38. Kd1 h4 39. Bd2 Rxb2 40. Bc1
+Rb1 41. Ke1 Ne7 42. Kf2 Nd5 43. h3 R8b3 44. Bb2 Nf4 45. Red2 Nd3+ 46. Ke3 R3xb2
+47. g4 Re1+ 48. Re2 Rxe2+ 49. Rxe2 f4+ {Sources: 'Chess Tournaments and
+Matches 1904' - A J Gillam - The Chess Player (1999), and the Big Database
+2003.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Brown, Fred"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C77"]
+[PlyCount "68"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. h3 Be7 7. c3 b5 8. Bc2 O-O
+9. O-O d5 10. Nbd2 Bb7 11. Qe2 h6 12. exd5 Nxd5 13. g3 Qd7 14. Kh2 Rae8 15. d4
+Bc8 16. dxe5 Qxh3+ 17. Kg1 g6 18. Qe4 Rd8 19. Nb3 Bf5 20. Qe2 Bg4 21. Be4 Nxe5
+22. Bd2 Nf6 23. Bb7 c6 24. Bxc6 Nxc6 25. Qe3 Rfe8 26. Nh2 Kg7 27. Nd4 Nxd4 28.
+cxd4 Bb4 29. Qxe8 Rxe8 30. Bxb4 Be2 31. Rfe1 Ng4 32. Nxg4 Bf3 33. Bf8+ Kh8 34.
+Bg7+ Kxg7 {Sources: West Sussex Gazette of 20.10.1904, 'Chess Tournaments and
+Matches 1904' - A J Gillam - The Chess Player (1999), and the Big Database
+2003.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Shoosmith, Hector William"]
+[Black "Gunsberg, Isidor"]
+[Result "1-0"]
+[ECO "D46"]
+[PlyCount "49"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. e3 Nf6 5. Bd3 O-O 6. Nf3 Nbd7 7. O-O c6 8. Qe2
+Bd6 9. e4 dxc4 10. Bxc4 e5 11. a3 Qc7 12. h3 h6 13. dxe5 Nxe5 14. Nxe5 Bxe5 15.
+f4 Bxc3 16. bxc3 Re8 17. e5 Nd7 18. Rf3 Nf8 19. Be3 b6 20. Rg3 Be6 21. Bd3 Kh8
+22. f5 Qxe5 23. Qg4 Ng6 24. Bd4 Qd6 25. Qh5 {Sources: Sheffield Daily
+Telegraph, 1 August 1904; The Field, 6 Aug 1904 Sources: The Field of 6.8.1904,
+West Sussex County Times and Standard of 13.8.1904, Brighton and Hove Society
+of 13.8.1904, Birmingham News of 13.8.1904, Illustrated London News of 20.8.
+1904, 'Chess Tournaments and Matches 1904' - A J Gillam - The Chess Player 
+(1999), and the Big Database 2003.} 1-0
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Teichmann, Richard"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C47"]
+[Annotator "Saunders, John"]
+[PlyCount "74"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Be2 d6 5. d4 Be7 6. h3 h6 7. Be3 a6 8. a4 Nd7
+9. Nd5 exd4 10. Nxd4 Nf6 11. Nc3 Nxd4 12. Qxd4 O-O 13. O-O Ne8 14. Nd5 Be6 15.
+Nxe7+ Qxe7 16. Bd3 c5 17. Qc3 c4 18. Be2 d5 19. exd5 Bxd5 20. Rad1 Nf6 21. Rfe1
+Rfe8 22. Qa5 {[%mdl 32768] [diag]} b5 23. axb5 Qb7 $5 {An enterprising idea
+which ultimately pays off.} 24. Bf1 ({Engines find} 24. Qc3 $1 {when} Bxg2 {
+runs into} 25. Bxh6 {and the silicon tell us the complications favour White. A
+human would need nerves of steel to go down that line.}) 24... axb5 25. Qc3 Re6
+26. f3 ({Once again the silicon prescribes} 26. Bxh6 $1 {and this time it
+looks not beyond human powers of calculation after, say,} b4 27. Qg3 Nh5 28.
+Qg5 {, etc.}) 26... Bc6 27. Bf2 Nd5 28. Qd4 Rg6 29. Re5 $2 (29. Kh1 {,
+breaking the pin on the g-file, was called for here.}) 29... Nb4 $1 {Now both
+the f-pawn and c-pawn are under threat.} 30. Qd2 $2 (30. Qh4 $1 {is a handy
+defence. If now} Bxf3 $2 {White punishes Black with} 31. Rd8+ Rxd8 32. Qxd8+
+Kh7 33. Re8 {and White's attack on the opposing king proves the more potent, e.
+g.} Rg5 34. h4 $1 Rg4 35. h5 {and it's all over.}) 30... Bxf3 $1 31. Qxb4 Bxd1
+32. Rxb5 Qc7 33. Rb7 Qe5 (33... Qf4 {is better.}) 34. Bxc4 ({Unsurprisingly,
+in a sharp position the computer finds a lot of good chances that the players
+missed. Here} 34. Rxf7 $1 {might well have saved White:} Be2 $5 (34... Kxf7 $2
+35. Qb7+ Kf6 36. Qxa8 {is good for White}) 35. Qe7 {, etc.}) 34... Rf6 ({
+Here the computer dishes up} 34... Bf3 $1 {which clinches the win for Black.})
+35. Bd3 $2 {[diag]} (35. Bxf7+ $1 {again, when} Rxf7 36. Rxf7 {where White has
+what chances are going.}) 35... Bxc2 $1 {Finally one of the players finds a
+decisive tactic. The threat of Ra1+ is devastating.} 36. Bf1 Qf5 37. Qe1 Ra1 {
+Sources: London Daily News, 4 Aug 1904; BCM 1904, p353; annotations by JS,
+CHESS, Aug 2017, p37; The Daily News (London), 4 Aug 1904 and 13 Apr 1912,
+Times Literary Supplement, 26 Aug 1904, Illustrated London News, 10 Sept 1904,
+'Chess Tournaments and Matches 1904' - A J Gillam - The Chess Player (1999),
+and the Big Database 2003.} (37... Ra1 38. Qxa1 Qxf2+ 39. Kh2 Qxf1 {leaves
+Black a clear piece up.}) 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Shoosmith, Hector William"]
+[Black "Van Vliet, Louis"]
+[Result "0-1"]
+[ECO "D09"]
+[PlyCount "52"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Bb4 7. Qa4 $2 Bxc4 8.
+a3 Bxd2+ 9. Bxd2 Qd5 10. Qc2 d3 11. Qc3 dxe2 12. Bxe2 Bxe2 13. Kxe2 O-O-O 14.
+Rhc1 f6 15. b4 fxe5 16. Be3 Nf6 17. a4 e4 18. Nd4 Qh5+ 19. Ke1 Nd5 20. Qc5
+Ncxb4 21. Ra3 Nd3+ 22. Rxd3 exd3 23. Qa5 Qe5 24. Kd2 Rhe8 (24... Rhf8 {may be
+given in some of the sources quoted below, but The Field (6 Aug 1904) at least
+gives 24...KR-Ksq (JS)}) 25. Rc5 Nxe3 26. Qxa7 Nf1+ {Sources: London Evening
+Standard, 5 Aug 1904; The Field, 6 Aug 1904; Illustrated London News, 1 Oct
+1904; To-day, 10 Aug 1904; Times Literary Supplement, 12 Aug 1904, Birmingham
+Daily Post, 16 Aug 1904; West Sussex CountyTimes and Standard, 12 Nov 1904;
+'ChessTournaments and Matches 1904' - A J Gillam - The Chess Player (1999),
+and the Big Database 2003.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "45"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bd3 d5 8.
+Ne2 O-O 9. Ng3 h6 10. O-O c5 11. dxc5 Bxc5 12. Bf4 Qb6 13. Qd2 Re8 14. Rae1 Bf8
+15. c3 Be6 16. Bb1 Nbd7 17. Qc2 Rac8 18. Ne5 Bd6 19. Nxd7 Bxd7 20. Nh5 Ne4 21.
+Rd1 Be6 22. Bxd6 Qxd6 23. Qxe4 {'and wins.' Sources: Birmingham Daily Post of
+23.8.1904, 'Chess Tournaments and Matches 1904' - A J Gillam - The Chess
+Player (1999) and the Big Database 2003. The last two versions suggest that
+Black resigned after White's 23rd move. "and White won" Source: Sheffield
+Daily Telegraph, 6 Aug 1904} 1-0
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Shoosmith, Hector William"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[PlyCount "90"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. exd4 Nc6 5. Nf3 Bg4 6. Be3 Nf6 7. Be2 Be7 8.
+O-O O-O 9. Nc3 Re8 10. Rc1 Qd7 11. Ne5 Bxe2 12. Qxe2 Qe6 13. f4 Rad8 14. f5 Qc8
+15. cxd5 Nb4 16. Qf3 Nbxd5 17. Nxd5 Nxd5 18. Qh5 Nxe3 19. Qxf7+ Kh8 20. Rf3
+Nxf5 21. Qxf5 Qxf5 22. Rxf5 Rxd4 23. Rxc7 Kg8 24. Nf3 Rb4 {(Source to here
+only: Sheffield Daily Telegraph, 8 August 1904)} 25. b3 Bf6 26. Kf2 Re7 27.
+Rxe7 Bxe7 28. Ke3 Rb6 29. Kd3 Bf6 30. Kc4 Re6 31. Rd5 Re2 32. Rd2 Rxd2 33. Nxd2
+Kf7 34. Kd5 Ke7 35. Nc4 Kd7 36. b4 Bc3 37. b5 Kc7 38. a4 Kd7 39. a5 a6 40. b6
+Ke7 41. h3 Kd7 42. g4 Ke7 43. h4 Kd7 44. h5 Ke7 45. g5 Kd7 {Source: The Field,
+13 Aug 1904. Also given up to Black's 24th move in 'Chess Tournaments and
+Matches 1904' - A J Gillam - The Chess Player (1999), and The Big Database 2003
+} 1/2-1/2
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Tattersall, Creassey Edw Cecil"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C77"]
+[PlyCount "134"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8. Nf1
+O-O 9. Ne3 b5 10. Bc2 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. Be3 Bf5 14. O-O Rad8
+15. Ne1 Rfe8 16. Qd2 e4 17. Bb3 Qd7 18. d4 Na5 19. Bg5 Nxb3 20. axb3 f6 21. Bf4
+g5 22. Be3 Qe6 23. b4 h6 24. Ra3 Bg6 25. g3 Bh5 26. Kh1 Qh3 27. Rg1 Rd6 28. Qc1
+Qe6 29. Qa1 Be2 30. Qa2 Bc4 31. b3 Bd5 32. Ng2 f5 33. Ra1 Ra8 34. Rb1 Rc6 35.
+Qd2 Bf6 36. Kg1 Be7 37. Kf1 a5 38. Rxa5 Rxa5 39. bxa5 Bxb3 40. d5 Bxd5 41. Ra1
+Bc4+ 42. Kg1 Ra6 43. h4 gxh4 44. gxh4 Rd6 45. Qc1 Qg6 46. Kh1 Be2 47. Qg1 Bf3
+48. Bf4 Ra6 49. Bxc7 Qg4 50. Kh2 Kh7 51. Bg3 Bxg2 52. Qxg2 Bxh4 53. Bc7 Qe2 54.
+Bb6 Bg5 55. Qg3 Qh5+ 56. Kg1 Bd8 57. Qb8 Bxb6 58. Qb7+ Kg8 59. Qc8+ Kg7 60.
+Qxa6 Qg4+ 61. Kf1 Qh3+ 62. Ke2 Qd3+ 63. Ke1 Qxc3+ 64. Kd1 Qxa1+ 65. Kc2 Qa4+
+66. Kb1 Qd1+ 67. Kb2 Bd4+ {Sources: West Sussex Gazette of 16.2.1905, 'Chess
+Tournaments and Matches 1904' - A J Gillam - The Chess Player (1999), and the
+Big Database 2003.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Shoosmith, Hector William"]
+[Black "Napier, William Ewart"]
+[Result "0-1"]
+[ECO "D32"]
+[PlyCount "68"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 d4 6. Na4 Nc6 7. e3 Bf5 8.
+exd4 Qxd4 9. Be3 Qxd1+ 10. Rxd1 Bc2 11. Rd2 Bxa4 12. b3 Bxb3 13. axb3 Nf6 14.
+Bb5 Ne4 15. Rc2 Be7 16. f3 Nf6 17. Ne2 Nd5 18. Bd2 Bf6 19. O-O O-O 20. Bxc6
+bxc6 21. Rc4 Rfb8 22. b4 Rb5 23. Nc1 Rab8 24. Nd3 Rd8 25. Nc1 Nc7 26. Bf4 Rd4
+27. Rxd4 Bxd4+ 28. Kh1 Nd5 29. Re1 h6 30. Bd2 Nxb4 31. Re8+ Kh7 32. Re7 Nd5 33.
+Rxa7 Rb1 34. Ra4 Bc3 {Sources: Sheffield Daily Telegraph, 10 Aug 1904; The
+Field, 13 Aug 1904; The Weekly Mercury (Birmingham), 17 Sept 1904, 'Chess
+Tournaments and Matches 1904' - A J Gillam - The Chess Player (1999), and the
+Big Database 2003.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Lee, Francis Joseph"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "A84"]
+[PlyCount "122"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Bd6 4. Bd3 f5 5. c4 c6 6. Nbd2 ({"We fancy} 6. Ne5 {
+here. Experience in the tournament has shown that it is little use playing a
+defensive game against Shoosmith." (London Daily News)}) 6... Qf6 7. Qc2 Nd7 8.
+b3 Nh6 9. Bb2 Nf7 10. Ng1 Qg6 11. g3 Nf6 12. f4 Ne4 13. Ngf3 Qh6 14. Bxe4 fxe4
+15. Ne5 Bxe5 16. dxe5 Qh3 17. Ba3 Bd7 18. cxd5 exd5 19. Qc5 Qe6 20. h3 b6 21.
+Qc2 a5 22. Bb2 h5 23. Nb1 Nh6 24. Nc3 Nf5 25. Qf2 b5 26. Ne2 c5 27. Rc1 Rc8 28.
+Rg1 Nh6 29. Rh1 Nf5 30. Rg1 Nh6 31. Rh1 Rf8 32. Rc2 g6 33. Kd2 b4 34. Kc1 a4
+35. Kb1 Bb5 36. Nc1 Bd3 37. Nxd3 exd3 38. Rd2 c4 39. Bd4 Qa6 40. Qf1 Ra8 41. g4
+Rf7 42. gxh5 axb3 43. hxg6 bxa2+ 44. Ka1 Qxg6 45. Rg1 Qe6 46. Qg2 b3 47. Qg6
+Qxg6 48. Rxg6 Nf5 49. e6 Rf8 50. e7 Nxd4 51. exf8=Q+ Kxf8 52. exd4 c3 53. Rgg2
+Re8 54. Rd1 d2 55. Rgg1 Re2 56. h4 c2 57. Rc1 b2+ {What a position! Showing
+off?} 58. Kxb2 d1=Q 59. Kc3 Qd2+ 60. Kb2 a1=Q+ 61. Kxa1 Qc3+ {Sources: London
+Daily News, 11 Aug 1904; The Field, 13 Aug 1904; Times Literary Supplement, 2
+Sept 1904, 'Chess Tournaments and Matches 1904' - A J Gillam - The Chess
+Player (1999), and the Big Database 2003.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Shoosmith, Hector William"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "E14"]
+[PlyCount "117"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 b6 5. Nf3 Bb7 6. cxd5 exd5 7. Bb5+ c6 8. Bd3
+Bd6 9. O-O O-O 10. Bd2 Nbd7 11. Rc1 Rc8 12. Qe2 Re8 13. Ba6 Bxa6 14. Qxa6 Rc7
+15. Rc2 Ne4 16. Rfc1 Re6 17. Be1 Rh6 18. g3 Nb8 19. Qf1 Qc8 20. Nxe4 dxe4 21.
+Nd2 Qe6 22. a3 Rd7 23. b4 Bf8 24. Nc4 f6 25. f3 exf3 26. Qxf3 Rd5 27. Rf2 c5
+28. dxc5 bxc5 29. b5 Nd7 30. Bc3 Rd3 31. Bb2 Nb6 32. Ne5 Rd5 33. Nc6 a6 34. e4
+Rd6 35. e5 Rd5 36. exf6 gxf6 37. Bxf6 axb5 38. Bg5 Rf5 39. Qxf5 Qxf5 40. Rxf5
+Rxc6 41. Rb1 b4 42. Rbf1 (42. Rb3 {given in some sources}) 42... Bg7 43. axb4
+cxb4 44. Rb5 Bc3 45. Kg2 Nc4 46. Kh3 Kg7 47. Kh4 Nd6 48. Rb8 Ne4 49. Bf4 Nc5
+50. Rb5 Ne4 51. g4 Rc4 52. Rb7+ Kg6 53. Rb6+ Bf6+ 54. Bg5 Rc2 55. Rfxf6+ Nxf6
+56. Bxf6 Rxh2+ 57. Kg3 Rh1 58. Bd4+ Kf7 59. Rxb4 {Sources: American Chess
+Bulletin and A J Gillam's, 'Chess Tournaments and Matches 1904' - The Chess
+Player (1999), and the Big Database 2003 (this last version only goes up to
+White's 44th move). Problems with the score have been encountered and
+amendments have been made. (Brian Denman note)} 1-0
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Mackenzie, Arthur John"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "D40"]
+[PlyCount "78"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. a3 a6 7. dxc5 Bxc5 8. b4
+Be7 9. c5 O-O 10. Bb2 b6 11. cxb6 Qxb6 12. Be2 Bd7 13. O-O Rfd8 14. Na4 Qb7 15.
+Nd4 a5 16. Nxc6 Bxc6 17. Nc5 Bxc5 18. Bxf6 gxf6 19. bxc5 d4 20. Bf3 dxe3 21.
+Bxc6 exf2+ 22. Kh1 Qxc6 23. Qg4+ Kf8 24. Rxf2 f5 25. Qh4 Qxc5 26. Qh6+ Ke8 27.
+Re2 Qc4 28. Ree1 Rac8 29. Qxh7 Qg4 30. h3 Qg5 31. Rab1 Kf8 32. Rb7 Qf6 33. Re3
+f4 34. Rf3 e5 35. Rfb3 Qg7 36. Qxg7+ Kxg7 37. R7b5 Rc1+ 38. Kh2 Rdd1 39. Rg3+
+Kh7 {Sources: 'Chess Tournaments and Matches 1904' - A J Gillam - The Chess
+Player (1999), and Mega Database 2016. Both of these versions suggest that
+White won the game, though the cross table for the tournament and the final
+position suggest that it was Black who won.} 0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Shoosmith, Hector William"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "A13"]
+[PlyCount "117"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. c4 e6 2. g3 d5 3. cxd5 exd5 4. Bg2 Nf6 5. Nf3 Nc6 6. d3 Bd6 7. O-O Ne7 8. e4
+dxe4 9. dxe4 Nd7 10. Nbd2 O-O 11. Nc4 Bc5 12. Be3 Bxe3 13. Nxe3 c6 14. Qc2 Nf6
+15. Rfd1 Qc7 16. e5 Ng4 17. Nc4 Bf5 18. Qe2 Be6 19. Nd4 Bxc4 20. Qxg4 Qxe5 21.
+Nxc6 Nxc6 22. Qxc4 Rac8 23. Rab1 Rfe8 24. Rd7 Qf5 25. Rbd1 Re1+ 26. Rxe1 Qxd7
+27. Bxc6 Rxc6 28. Qd4 Rd6 29. Qxa7 h5 30. Qb8+ Kh7 31. a3 h4 32. Qe8 hxg3 33.
+hxg3 Qxe8 34. Rxe8 Rd2 35. b4 Rd7 36. Kg2 Kg6 37. Kf3 Kf6 38. Ke3 g5 39. Re4 b5
+40. Rd4 Re7+ 41. Kd2 Ke5 42. Rd3 Ra7 43. f3 f5 44. Ke3 f4+ 45. gxf4+ gxf4+ 46.
+Kd2 Ra6 47. Kc2 Rh6 48. Kb3 Rh1 49. a4 Rb1+ 50. Ka2 Rxb4 51. a5 Rc4 52. a6 Rc7
+53. Ra3 Ra7 54. Kb3 Kd5 55. Kb4 Kc6 56. Ra5 Kb6 57. Rxb5+ Kxa6 58. Ra5+ Kb6 59.
+Rxa7 {"and wins". Source: The Field, 20 Aug 1904. In another version of the
+game viz. the Cheltenham Examiner of 24.8.1904, it is again suggested that
+there was further play after White's 59th move. However, 'Chess Tournaments
+and Matches 1904' - A J Gillam - The Chess Player (1999) and the Big Database
+2003 both indicate that Black resigned after White's 59th move (Brian Denman)}
+1-0
+
+[Event "Newnes Amateur ch m"]
+[Site "City of London CC"]
+[Date "1904.11.02"]
+[Round "4"]
+[White "Napier, William Ewart"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "65"]
+[EventDate "1904.11.02"]
+[EventType "match"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. Bd3 Bd6 7. O-O O-O 8. b3 b6
+9. Bb2 Bb7 10. Rc1 Rc8 11. cxd5 exd5 12. Bf5 Ra8 13. dxc5 Bxc5 14. Bb1 Re8 15.
+Qc2 Nb4 16. Qf5 Bc8 17. Qf4 Bd6 18. Qh4 Be7 19. Ne5 h6 20. Rfd1 Ng4 21. Qh5
+Nxe5 22. Qxe5 Bd6 23. Qd4 Bc5 24. Qf4 Bd6 25. Qf3 Qg5 26. Rd4 Bc5 27. Rf4 Bd6
+28. h4 Qe7 29. Rxb4 Bxb4 30. Nxd5 Qd6 31. Rc6 Qf8 32. Rxh6 f5 33. Qh5 {Sources:
+London Daily News, 3 Nov 1904; Illustrated London News, 19 Nov 1904;
+Derbyshire Advertiser and Journal, 25 Nov 1904. Napier won the play-off for
+the Newnes Cup 2-0 with two draws.} 1-0
+
+[Event "City of London ch 0506"]
+[Site "London"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Smith, Stephen Francis"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "D63"]
+[PlyCount "48"]
+[EventDate "1905.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 Re8 8. Bd3
+dxc4 9. Bxc4 a6 10. Ne5 Nxe5 11. dxe5 Nd7 12. Bxe7 Qxe7 13. f4 Nxe5 14. Be2 Ng6
+15. O-O f5 16. Bc4 b5 17. Bb3 Bb7 18. e4 Kh8 19. exf5 Rad8 20. Qh5 exf5 21.
+Rce1 Qc5+ 22. Kh1 Rxe1 23. Rxe1 Bxg2+ 24. Kxg2 Nxf4+ {Source: London Daily
+News, 16 Dec 1905} 0-1
+
+[Event "Match"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Macdonald, Edmund"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C32"]
+[PlyCount "76"]
+[EventDate "1905.??.??"]
+[EventCountry "ENG"]
+[SourceVersionDate "2021.01.09"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Qxd5 6. dxe4 Nxe4 7. Nd2 f5 8.
+Ngf3 Be7 9. Ne5 O-O 10. Qf3 Be6 11. Bc4 Qd6 12. Bxe6+ Qxe6 13. O-O Bc5+ 14. Kh1
+Nc6 15. Nxc6 Qxc6 16. Nxe4 fxe4 17. Qe2 Rae8 18. Bd2 e3 19. Bc3 Qe4 20. Rad1
+Rxf4 21. Rd7 Rf2 22. Rxg7+ Kf8 23. Rg3 Re7 24. Rf3+ Rf7 25. Rxf7+ Kxf7 26. Qh5+
+Ke6 27. Qe8+ Be7 28. Qg8+ Kd7 29. Rd1+ Kc6 30. Ba5 Bd6 31. Qg7 Qf4 32. Qc3+ Bc5
+33. Qd3 Qd4 34. Bc3 Qxd3 35. cxd3 e2 36. Rg1 Rf1 37. d4 Rxg1+ 38. Kxg1 Bxd4+ {
+Source: London Daily News, 20 April 1905. The London article states that the
+match is 'in progress'. Also Exeter and Plymouth Gazette, 25 April 1905; The
+Midlothian Journal, 28 April 1905; Musselburgh News, 28 April 1905} 0-1
+
+[Event "London match"]
+[Site "City of London CC"]
+[Date "1905.03.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "0-1"]
+[ECO "D45"]
+[PlyCount "80"]
+[EventDate "1905.03.??"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Ne4 6. Nxe4 dxe4 7. Nd2 f5 8. Be2
+Bd6 9. O-O O-O 10. f4 c5 11. dxc5 Bxc5 12. Nb3 Be7 13. Qc2 Nc6 14. Bd2 e5 15.
+Rad1 exf4 16. exf4 Be6 17. Be3 Qc7 18. a3 Rfd8 19. Kh1 Bf6 20. Nc5 Bf7 21. b4
+a5 22. b5 Nd4 23. Bxd4 Bxd4 24. Nb3 Be3 25. g3 a4 26. Na1 Qa5 27. Qb2 Rd2 28.
+Rxd2 Qxd2 29. Qxd2 Bxd2 30. Rd1 e3 31. Nc2 Rc8 32. c5 Bb3 {"Black wins, the
+rest of the game being mere detail". Source: London Daily News, 30 March 1905}
+33. Nxe3 Bxe3 34. Rd3 Bxc5 35. Bf3 b6 36. Bc6 Bxa3 37. Kg2 Bc5 38. Kf3 Be6 39.
+h3 a3 40. g4 a2 {Source: West Sussex Gazette, 30 Mar 1905} 0-1
+
+[Event "London match"]
+[Site "City of London CC"]
+[Date "1905.03.??"]
+[Round "2"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C27"]
+[PlyCount "61"]
+[EventDate "1905.03.??"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. f4 Bc5 5. Nc3 d6 6. f5 Na5 7. Qf3 Nxc4 8. dxc4
+h6 9. g4 Bd7 10. h4 Bb4 11. Nge2 Bc6 12. Bd2 Bxc3 13. Nxc3 Nd7 14. O-O-O Qe7
+15. Be3 b6 16. Nd5 Bxd5 17. cxd5 O-O-O 18. Rd3 Kb7 19. a4 Nb8 20. a5 Rc8 {
+The score just gives '20...R-B1'} 21. Rb3 c5 22. axb6 a6 23. Qe2 f6 24. Kd2 Nd7
+25. Ra1 Ra8 26. Rba3 Nb8 27. c3 Rc8 28. b4 c4 29. b5 Qd7 30. Ra5 Qe8 31. Ke1 {
+Source: Morning Post, 27 Mar 1905. Contributor: Brian Denman} 1-0
+
+[Event "London match"]
+[Site "City of London CC"]
+[Date "1905.03.??"]
+[Round "5"]
+[White "Shoosmith, Hector William"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2Q5/6k1/2Pp1qp1/P2P1p2/1P2nP2/4N3/2K5 w - - 0 1"]
+[PlyCount "30"]
+[EventDate "1905.03.??"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. Qd6+ Kh5 2. Nxf4+ gxf4 3. Qe5 Kh4 4. Qxf5 Nxf5 5. c6 Kg3 6. c7 Nd6 7. b4
+Kxf3 8. b5 Ke3 9. b6 f3 10. c8=Q Nxc8 11. b7 f2 12. bxc8=Q f1=Q+ 13. Kb2 Qe2+
+14. Qc2 Qxc2+ 15. Kxc2 Kxd4 {Source: London Daily News, 30 March 1905} 1/2-1/2
+
+[Event "Match"]
+[Site "London"]
+[Date "1905.03.??"]
+[Round "3"]
+[White "Shoosmith, Hector William"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "0-1"]
+[ECO "C67"]
+[PlyCount "78"]
+[EventDate "1905.03.??"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7
+8. Bd3 O-O 9. Nc3 c6 10. b3 Ne8 11. Qf3 d5 12. Bb2 Bf6 13. Re2 Be6 14. Rae1 Qd7
+15. h3 b6 16. Ba3 Nd6 17. g4 Rfe8 18. Qg3 c5 19. f4 Bd4+ 20. Kh1 f5 21. Rg2 Ne4
+22. Nxe4 fxe4 23. Be2 Qc7 24. c3 Bf6 25. g5 Be7 26. Bg4 Bf7 27. h4 Bd6 28. Rf1
+Re7 29. h5 Rae8 30. Be2 Be6 31. Bb2 Rf8 32. g6 Rxf4 33. gxh7+ Kh8 34. Rfg1 Rf3
+35. Bxf3 Bxg3 36. Rxg3 exf3 37. h6 f2 38. hxg7+ Rxg7 39. Rxg7 Qxg7 {Sources:
+Nottingham Guardian, 28 Mar 1905; West Sussex County Times and Standard, 15
+Apr 1905} 0-1
+
+[Event "Test tournament for GB v USA match"]
+[Site "London"]
+[Date "1905.03.??"]
+[Round "?"]
+[White "Gunston, William Hewison"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C84"]
+[PlyCount "83"]
+[EventDate "1905.03.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5 7. Bb3 d6 8. d3
+Na5 9. h3 O-O 10. Ne2 Nxb3 11. axb3 c5 12. Nh2 d5 13. Ng3 Re8 14. Bd2 dxe4 15.
+dxe4 Bb7 16. Re1 Qc7 17. Qe2 Bf8 18. Ng4 Qc6 19. Rad1 Rad8 20. Qf3 Nxg4 21.
+Qxg4 Bc8 22. Qf3 Rd6 23. Be3 Red8 24. Rxd6 Qxd6 25. Nf5 Bxf5 26. Qxf5 g6 27.
+Qf3 f6 28. g4 Be7 29. Kg2 Qc6 30. Rh1 c4 31. bxc4 Qxc4 32. Rc1 Qc6 33. Kg3 a5
+34. h4 a4 35. h5 g5 36. Qf5 b4 37. c4 Rd3 38. c5 b3 39. Rc4 Kg7 40. Rb4 Bxc5
+41. h6+ Kxh6 42. Rb7 {Source: The Daily News (London) of 19.5.1905. A test
+tournament commenced on 25th March 1905 at the City of London CC to help
+decide who should be in the Great Britain team for the cable match against U.S.
+A to take place in the middle of April. Shoosmith was selected to play in the
+cable match and Gunston was not in the team. However, because of a faulty
+cable the match did not take place. Contributed by Brian Denman, Feb 2019.} 1-0
+
+[Event "Consultation game in London"]
+[Site "London"]
+[Date "1905.04.??"]
+[Round "?"]
+[White "Lee FJ/Leonhardt PS"]
+[Black "Shoosmith HW/Gunston WH"]
+[Result "1-0"]
+[ECO "C84"]
+[PlyCount "71"]
+[EventDate "1905.04.??"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Qe2 O-O 8. e5
+Nd5 9. Bb3 Nb6 10. c3 d5 11. Nxd4 Nxd4 12. cxd4 f5 13. f4 Be6 14. Be3 g6 15.
+Nd2 Kg7 16. Rac1 h6 17. Qd3 c6 18. Rf2 Qd7 19. Rcf1 Rf7 20. a3 Rh8 21. Ba2 g5
+22. g4 gxf4 23. Bxf4 fxg4 24. Bb1 Kg8 25. Bg3 Rg7 26. Bh4 Qe8 27. Bf6 Bxf6 28.
+exf6 Rd7 29. Re1 Kf8 30. f7 Qe7 31. Qg6 Bf5 32. Rxe7 Bxg6 33. Re8+ Kg7 34. Bxg6
+Rf8 35. Bh5 Nc8 36. Rfe2 {Sources: The Field of 22.4.1905, Times Literary
+Supplement of 12.5.1905, British Chess Magazine of June 1905 and the Big
+Database 2003. The game was arranged when the proposed cable match, Great
+Britain v U S A, fell through.} 1-0
+
+[Event "Kent Congress 1st Class Open"]
+[Site "London Crystal Palace"]
+[Date "1905.06.??"]
+[Round "?"]
+[White "Loman, Rudolf Johannes"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C32"]
+[PlyCount "30"]
+[EventDate "1905.06.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 Qxd5 7. Nd2 f5 8. g4
+Be7 9. Bg2 Qa5 10. gxf5 Nd6 11. Ngf3 O-O 12. O-O Nxf5 13. Nc4 Qa6 14. Re1 Bc5+
+15. Kh1 $4 (15. Kf1 $15) 15... Qh6 {Sources: London Daily News, 13 July 1905;
+Oxford Times, 24 Dec 1910; Cheltenham Examiner, 16 Aug 1905. Played at the
+Crystal Palace.} 0-1
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.14"]
+[Round "1"]
+[White "Shoosmith, Hector William"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "D53"]
+[PlyCount "55"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 Ne4 7. Bf4 Nxc3 8.
+bxc3 O-O 9. Qc2 f5 10. h3 g5 11. Bh2 Rf7 12. Bd3 Bf6 13. cxd5 exd5 14. Bxf5 Nf8
+15. Bd3 Be6 16. Rb1 b6 17. Ne5 Bxe5 18. Bxe5 Qe7 19. O-O c6 20. f4 gxf4 21.
+exf4 Nd7 22. f5 Nxe5 23. dxe5 Bc8 24. Rbe1 Bb7 25. f6 Qf8 26. Qf2 Kh8 27. e6
+Rc7 28. Qg3 {Sources: The Field, 19 Aug 1905; BCM, Sept 1905, p348; Times
+Literary Supplement, 1 Sept 1905} 1-0
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.15"]
+[Round "2"]
+[White "Michell, Reginald Pryce"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C91"]
+[PlyCount "71"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Bg4 9. d4 Qd7 10. a4 O-O 11. Kh1 Na5 12. Bc2 c5 13. d5 Nb7 14. Nbd2 c4 15. Nf1
+Nc5 16. Ng3 Qb7 17. h3 Bd7 18. axb5 axb5 19. Rxa8 Rxa8 20. Nh4 g6 21. f4 Nfxe4
+22. Nxe4 Bxh4 23. Nxc5 dxc5 24. Rxe5 Ra1 25. Kh2 b4 26. Qd2 Bf6 27. Re2 Qc7 28.
+d6 Qa5 29. cxb4 cxb4 30. Be4 c3 31. Qc2 b3 32. Qxb3 Rxc1 33. Bd5 cxb2 34. Bxf7+
+Kg7 35. Bg8 b1=Q $4 (35... Kh6 {or 35...Kh8} 36. Qf7 Bg7 $19) 36. Qf7+ {
+Sources: The Field, 19 Aug 1905; BCM, Sept 1905, p350. "A fine game on the
+part of Shoosmith, who, however, lost it by "playing for the gallery" instead
+of winning it easily." (The Field)} 1-0
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.16"]
+[Round "3"]
+[White "Shoosmith, Hector William"]
+[Black "Palmer, Wilfred Charles"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[PlyCount "74"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Bxf6 Nxf6 8.
+Nd2 Bb4 9. Qc2 Ne4 10. Ndxe4 dxe4 11. Be2 O-O 12. O-O f5 13. f3 exf3 14. Rxf3
+e5 15. Rd1 e4 16. Rff1 Be6 17. Na4 Rad8 18. c5 Bxa2 19. b3 b5 20. cxb6 axb6 21.
+Ra1 Bd2 22. Rxa2 Bxe3+ 23. Kh1 Rxd4 24. Qxc6 f4 25. Qxb6 Qf5 26. Nc5 Kh8 27.
+Qc6 f3 28. gxf3 exf3 29. Bxf3 Qh3 30. Rg2 Rdf4 31. Qc7 Rg8 32. Be2 Rxf1+ 33.
+Bxf1 Qf5 34. Bd3 Qxc5 35. Qxc5 Bxc5 36. Rg5 Be3 37. Rb5 Bh6 {'Drawn after a
+few more moves.' Source: The Field, 19 Aug 1905.} 1/2-1/2
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.17"]
+[Round "4"]
+[White "Sherrard, Charles Hugh"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "B48"]
+[PlyCount "53"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. a3 Nf6 7. Bd3 Nc6 8. Be3
+b5 9. O-O Bb7 10. Qe2 Be7 11. f4 d6 12. Rad1 O-O 13. Kh1 Nxd4 14. Bxd4 e5 15.
+Be3 Rfe8 16. Qf3 Bf8 17. fxe5 dxe5 18. Bg5 Re6 19. Qh3 Ne8 20. Nd5 Qc6 21. Be2
+Nd6 22. Bh5 Bc8 23. Qg3 Ra7 24. Nf6+ Kh8 25. Bh6 $6 Rxf6 $2 ({Curiously, White
+isn't actually threatening anything here! So Black could continue} 25... Qxc2 {
+, or something of that sort. Instead he allows a brilliant finish - JS}) 26.
+Rxf6 Nxe4 27. Qxg7+ $1 {Sources: Manchester Guardian, 18 Aug 1905; Yorkshire
+Post and Leeds Intelligencer, 18 Aug 1905; The Scotsman, 18 Aug 1905; London
+Daily News, 19 Aug 1905; Falkirk Herald, 23 Aug 1905; BCM, Sept 1905, p347;
+BCM, Quotes and Queries, June 2000} 1-0
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.18"]
+[Round "5"]
+[White "Shoosmith, Hector William"]
+[Black "Ward, William"]
+[Result "0-1"]
+[ECO "D63"]
+[PlyCount "144"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Rc1 a6 8. cxd5
+exd5 9. Bd3 Re8 10. O-O c6 11. h3 Ne4 12. Bf4 Ndf6 13. Ne5 Bf5 14. Ne2 Nd6 15.
+Nxc6 bxc6 16. Bxd6 Bxd3 17. Bxe7 Bxe2 18. Bxd8 Bxd1 19. Bxf6 Be2 20. Rfe1 Bb5
+21. Be5 a5 22. f3 a4 23. e4 Bc4 24. Rxc4 dxc4 25. Rc1 c5 26. Rxc4 cxd4 27. Bxd4
+Rec8 28. Rb4 a3 29. Kh2 axb2 30. Rxb2 Rc4 31. Bg1 Rca4 32. Rb7 Rxa2 33. h4 h6
+34. Kh3 Rc8 35. e5 Rcc2 36. g4 Rg2 37. Be3 Rge2 38. Rb8+ Kh7 39. Rb3 Rh2+ 40.
+Kg3 Rag2+ 41. Kf4 Rxh4 42. Rb7 h5 43. Rxf7 hxg4 44. e6 Kg6 45. Ke5 Re2 46. Kf4
+Rg2 47. Bd4 g3+ 48. Ke5 Rxd4 49. Kxd4 Rd2+ 50. Ke3 g2 51. Kxd2 g1=Q 52. Rf4 Qg5
+53. Ke3 Kh6 54. Ke4 Qe7 55. Kd5 Qb7+ 56. Ke5 Qb5+ 57. Kd4 Qb4+ 58. Ke5 Qc5+ 59.
+Ke4 Qd6 60. Rf5 Qxe6+ 61. Re5 Qc4+ 62. Ke3 g5 63. Re4 Qc2 64. Kd4 Qf2+ 65. Re3
+Kg6 66. Ke4 Kf6 67. Rd3 Qe2+ 68. Kd4 Kf5 69. Re3 Qf2 70. Kd3 Kf4 71. Re4+ Kxf3
+72. Rd4 Qxd4+ {Source: London Daily News, 24 Aug 1905, update 21 Oct 2015,
+contributed by Gerard Killoran} 0-1
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.19"]
+[Round "6"]
+[White "Shoosmith, Hector William"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "0-1"]
+[PlyCount "4"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... etc. "Shoosmith was on the right road with an early
+king's side attack, whilst his opponent's forces were still undeveloped. There
+were elements of success in the plan, which contained some subtle threats in
+its execution; but there was just a link missing, giving Wahltuch time to
+bring his reserve forces into play and to assume the offensive successfully." 
+(The Field, 26 Aug 1905)} 0-1
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.21"]
+[Round "7"]
+[White "Wainwright snr, George Edward"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C77"]
+[PlyCount "119"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. Qe2 Be7 7. O-O O-O 8. e5
+Nd5 9. Rd1 Nb6 10. Bb3 d5 11. c3 Bg4 12. cxd4 Qd7 13. Nc3 Rae8 14. h3 Be6 15.
+Ng5 Bf5 16. a4 Na5 17. Ba2 h6 18. Nf3 Bb4 19. Bd2 Nc6 20. Bb3 a5 21. Be3 f6 22.
+Bf4 fxe5 23. Nxe5 Bxc3 24. bxc3 Qe6 25. Bh2 Nxe5 26. dxe5 Qg6 27. Kh1 c6 28.
+Rd4 Kh8 29. f3 Qe6 30. g4 Bh7 31. f4 c5 32. Rd2 Qc6 33. Kg1 c4 34. Bd1 Be4 35.
+Qe3 Nd7 36. Bc2 Nc5 37. Bxe4 Nxe4 38. Rb2 Nxc3 39. Qxc3 Qc5+ 40. Rf2 d4 41. Qd2
+d3 42. Rc1 Rc8 43. Rc3 Qb4 44. f5 Qxa4 45. e6 Qc6 46. Be5 Kh7 47. Rc1 Qc5 48.
+Bc3 b6 49. Re1 Qe7 50. Re3 Rc5 51. Ref3 Rb5 52. Kg2 Qb7 53. Qe3 Qd5 54. e7 Re8
+55. Bxg7 Kxg7 56. f6+ Kf7 57. Qxh6 Qg5 58. Qh7+ Ke6 59. f7 Rxe7 60. f8=N+ {
+Source: Manchester Guardian, Aug 24, 1905} 1-0
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.22"]
+[Round "8"]
+[White "Shoosmith, Hector William"]
+[Black "Atkins, Henry Ernest"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[PlyCount "84"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Bf4 g6 5. Nc3 Bg7 6. h3 c6 7. e4 Qa5 8. Qd2
+e5 9. Be3 O-O 10. Be2 Qd8 11. O-O-O Qe7 12. d5 c5 13. g4 Ne8 14. Rdg1 f6 15. h4
+Nb6 16. Bh6 Bxh6 17. Qxh6 Qg7 18. Qe3 Kf7 19. g5 f5 20. h5 f4 21. Qd2 Rg8 22.
+hxg6+ hxg6 23. Rh6 Nd7 24. Rgh1 Nf8 25. Nh4 Rh8 26. Nf3 Rg8 27. Qd1 Ke7 28.
+R1h4 Qf7 29. Qh1 Bd7 30. Rh8 Rg7 31. Nd2 a6 32. a4 b6 33. b3 Nc7 34. Kb2 Rb8
+35. Nf3 Ne8 36. R4h6 Kd8 37. Nh4 Kc7 38. Nf3 Kb7 39. Nh4 Kc7 40. Nf3 Kb7 41.
+Qh4 Nc7 42. Nd2 Qe7 {Sources: The Scotsman, 23 Aug 1905; London Daily News, 24
+Aug 1905; The Field, 26 Aug 1905; Northern Whig, 31 Aug 1905; Birmingham News,
+2 Sept 1905; Cheltenham Examiner, 6 Sept 1905. Scotsman, London, Birmingham
+and Cheltenham newspapers end the game after Black's 40th move.} 1/2-1/2
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.23"]
+[Round "9"]
+[White "Bellingham, George Edward H"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[PlyCount "1"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 {... etc. "One of the dry QP openings, which yielded, however, a pretty
+ending, the only redeeming point in it. Legitimately it should have been a
+draw, but Bellingham showed great skill in finding a possibility of winning in
+a position which seemed perfectly even. The forces were R, N and 5Ps against
+Shoosmith's R, B and 5Ps. But Bellingham, after forcing the exchange of rooks,
+was able to win by bringing his K into better play, coupled with the
+superiority of the N against the B." (The Field, 26 Aug 1905)} 1-0
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.24"]
+[Round "10"]
+[White "Shoosmith, Hector William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[PlyCount "4"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... and then he accepted the gambit with d5xc4 (source:
+Yorkshire Post and Leeds Intelligencer, 25 Aug 1905)} 0-1
+
+[Event "GBR-ch 2nd"]
+[Site "Southport"]
+[Date "1905.08.25"]
+[Round "11"]
+[White "Gunston, William Hewison"]
+[Black "Shoosmith, Hector William"]
+[Result "1/2-1/2"]
+[PlyCount "5"]
+[EventDate "1905.08.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {...etc. Not quite clear whether a draw was agreed
+in this game. According to the Manchester Guardian, 26 Aug 1905, "the game
+between the two last was left unfinished". The newspaper then gives the
+players' scores as Gunston 2.5 and Shoosmith 2 (i.e. no score to either of
+them). "The most determined fight of the day to avoid the draw took place
+between Gunston and Shoosmith. After twenty-five moves not a single piece was
+off the board. After another twenty moves one pawn had been exchanged, and the
+doughty combatants were at a late hour in solo possession of the room, every
+other game having been finished." However, The Field, 2 Sept 1905, shows the
+result as a draw, with players' scores as Gunston 3, Shoosmith 2½.} 1/2-1/2
+
+[Event "City of London v Metropolitan"]
+[Site "London"]
+[Date "1905.11.11"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Greenwell, Hubert"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[PlyCount "87"]
+[EventDate "1905.11.11"]
+[EventType "match"]
+[EventCountry "ENG"]
+[SourceTitle "Killoran, Gerard"]
+[WhiteTeam "City of London"]
+[BlackTeam "Metropolitan"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Bd7 7. c3 b5 8. Bc2
+Be7 9. d4 Qc8 10. h3 O-O 11. Nbd2 h6 12. Nf1 Re8 13. Ng3 Bf8 14. Be3 Nd8 15.
+dxe5 dxe5 16. Qd2 c5 17. Rad1 Qc7 18. Nh4 Nc6 19. f4 Rad8 20. Qf2 exf4 21. Bxf4
+Ne5 22. Bxh6 Nfg4 23. hxg4 gxh6 24. Nhf5 Nxg4 25. Qf3 h5 26. e5 Rxe5 27. Rxe5
+Qxe5 28. Be4 Bxf5 29. Rxd8 Bxe4 30. Nxe4 Qh2+ 31. Kf1 Qh4 32. Qd3 Qh1+ 33. Ke2
+Qxg2+ 34. Ke1 Qg1+ 35. Qf1 Qe3+ 36. Qe2 Qc1+ 37. Rd1 Qf4 38. Rd3 Be7 39. Rd2
+Bh4+ 40. Kd1 Ne3+ 41. Kc1 Qxe4 42. Qh2 Bg5 43. Qxh5 Qf4 44. Rf2 {Source: The
+Saturday Review of Politics, Literature, Science and Art, 18 November 1905 p.
+654. Contributor: Gerard Killoran.} 1/2-1/2
+
+[Event "London Lge Lud-Eagle v Bohemians"]
+[Site "London"]
+[Date "1905.12.21"]
+[Round "?"]
+[White "Anspach, Frederick Law"]
+[Black "Shoosmith, Hector William"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[PlyCount "72"]
+[EventDate "1905.12.21"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. e3 e6 3. Bd3 c5 4. c3 Nc6 5. f4 Bd6 6. Nh3 f5 7. Nd2 Nf6 8. Nf3 Qe7
+9. Bd2 Bd7 10. Qe2 c4 11. Bc2 O-O 12. Ne5 b5 13. O-O Ne4 14. b4 a5 15. Bxe4
+fxe4 16. a3 Ra6 17. Rf2 axb4 18. Nxc6 Bxc6 19. cxb4 Rfa8 20. Raf1 Rxa3 21. f5
+Rf8 22. fxe6 Rxf2 23. Qxf2 Qxe6 24. Ng5 Qg6 25. Nf7 Ra8 26. Nxd6 Qxd6 27. Qf7+
+Kh8 28. Be1 h6 29. Bh4 Be8 30. Qb7 Rb8 31. Be7 Rxb7 32. Rf8+ Kh7 33. Bxd6 c3
+34. Rf2 Ra7 35. Rc2 Ra3 36. h3 Rb3 {Adjudicated a draw (N.B. a difficult
+decision - Fritz 10 suggests that Black might have enough to win). Source:
+Western Morning News, 28 Dec 1905. Played in the 'A' Division of the London
+League. Contributed by Brian Denman, Feb 2019. Biographical note (by JS):
+Frederick Law Anspach (b 25 Jan 1874, London) changed his name by deed poll to
+Frederick Law Armstrong in May 1918 and died 24 Jul 1925. See Gerard Killoran
+post on the English Chess Forum <https://www.ecforum.org.uk/viewtopic.
+php?t=8166#p174185>} 1/2-1/2
+
+[Event "City of London CC Championship"]
+[Site "London"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Hamond, Francis Edward (Rev"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C01"]
+[PlyCount "96"]
+[EventDate "1906.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e3 e5 2. d4 exd4 3. exd4 d5 4. Bd3 Bd6 5. Nf3 Nf6 6. O-O O-O 7. Bg5 Bg4 8.
+Nbd2 Nbd7 9. c4 c6 10. c5 Bc7 11. Qc2 h6 12. Bh4 Bf4 13. Rfe1 Re8 14. Rxe8+
+Qxe8 15. Re1 Qf8 16. h3 Be6 17. Nf1 Re8 18. Qa4 Ra8 19. b4 a6 20. Bg3 Qb8 21.
+Qd1 Nh5 22. Kh2 Nxg3 23. fxg3 Bc7 24. Nh4 Nf6 25. Qf3 b5 26. Ne3 a5 27. Nef5
+Qd8 28. a3 axb4 29. axb4 Ra4 30. Rb1 Kf8 31. Bc2 Ra2 32. Bb3 Ra3 33. Qe3 g5 34.
+Qc1 Ra7 35. Bc2 gxh4 36. Qxh6+ Ke8 37. Qxh4 Kd7 38. Rf1 Ra8 39. Nd6 Bxd6 40.
+cxd6 Ne8 41. Qf4 Nxd6 42. h4 (42. Qf6 Qxf6 43. Rxf6 Rh8 44. Bd1 Ne4 45. Rf4 Nc3
+46. Bf3 Na2 47. h4 Nxb4 48. h5 Nc2 49. Rh4 Ne3 50. Be2 f5 51. Kg1 Ng4 {0-1 is
+the end to the game as published in the Cheltenham Examiner, 22 May 1907 
+(Brian Denman)}) 42... Qh8 43. Qf6 Qxf6 44. Rxf6 Rh8 45. Bd1 Ne4 46. Rf4 Nc3
+47. Bf3 Na2 48. h5 Nxb4 {'And after a few more moves Whte resigns.' Source:
+Illustrated London News, 1 Dec 1906} 0-1
+
+[Event "City of London CC Championship"]
+[Site "London"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Healey, P.."]
+[Result "0-1"]
+[ECO "D63"]
+[PlyCount "76"]
+[EventDate "1906.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 a6 8. cxd5
+exd5 9. Bd3 c6 10. O-O Ne4 11. Bf4 f5 12. h3 Qe8 13. Qb3 Kh8 14. Rc2 a5 15. a4
+Bd6 16. Bxd6 Nxd6 17. Qa3 Rf6 18. Ne2 h6 19. Kh2 Ne4 20. g3 g5 21. Nfg1 Qf7 22.
+f3 Nb6 23. Nc3 Nd6 24. b3 f4 25. gxf4 gxf4 26. e4 dxe4 27. fxe4 Qg7 28. Rg2 Rg6
+29. Rxg6 Qxg6 30. Nce2 Nf7 31. Nxf4 Qg7 32. e5 Nd5 33. Ng6+ Kg8 34. Ne2 Nb4 35.
+Rg1 Ng5 36. Bc4+ Kh7 37. Nh4 Qd7 38. Qb2 $4 Qxh3# {Source: Times Literary
+Supplement, 16 Feb 1906.} 0-1
+
+[Event "City of London CC Championship"]
+[Site "London"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Ward, William"]
+[Result "0-1"]
+[ECO "D60"]
+[PlyCount "86"]
+[EventDate "1906.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Bd3 a6 8. c5
+Re8 9. O-O c6 10. h3 Nf8 11. Ne5 N6d7 12. Bxe7 Qxe7 13. f4 f6 14. Ng4 e5 15.
+fxe5 fxe5 16. b4 e4 17. Be2 Qg5 18. Qd2 Ng6 19. Rf2 h5 20. Nh2 Nf6 21. Kh1 Nh4
+22. Rg1 Nf5 23. Nf1 Rf8 24. g3 Bd7 25. a4 Rf7 26. a5 Raf8 27. Nd1 h4 28. g4
+Ng3+ 29. Nxg3 hxg3 30. Rfg2 Qh4 31. Rxg3 Nh5 32. Qe1 Nxg3+ 33. Qxg3 Qh6 34. Kg2
+Rf3 35. Bxf3 Rxf3 36. Qh2 Qh4 37. Rh1 Bxg4 38. Qb8+ Rf8 39. hxg4 Qxh1+ 40. Kxh1
+Rxb8 41. Kg2 Rf8 42. Nc3 Rf3 43. Nd1 Kf7 {Sources: 'The Chess Amateur' of
+January 1907 and West Sussex County Times and Standard of 7.12.1907. It is
+uncertain whether the game was played in 1906 or 1907.} 0-1
+
+[Event "Ostend Congress Amateur 'A' section"]
+[Site "Ostende"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Middleton, Edward Empson jnr"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "80"]
+[EventDate "1906.??.??"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 f5 7. O-O Be7 8. h3
+O-O 9. Re1 Nd7 10. c4 c6 11. Nc3 Ndf6 12. Ne5 Kh8 13. Qb3 Nxc3 14. bxc3 dxc4
+15. Bxc4 Nd5 16. Rb1 f4 17. Ba3 Bxa3 18. Qxa3 f3 19. Bxd5 cxd5 20. Nxf3 Rxf3
+21. gxf3 Qg5+ 22. Kf1 Bf5 23. Qc1 Bd3+ 24. Re2 Qf5 25. Rbb2 Qxf3 26. Ke1 Bxe2
+27. Rxe2 Qxh3 28. Qe3 Qc8 29. Qf3 Qd7 30. Qh5 h6 31. Re5 Rd8 32. Qe2 Qh3 33.
+Kd2 Rc8 34. Re3 Qd7 35. Re7 Qa4 36. Qe5 Qxa2+ 37. Ke1 Qb1+ 38. Ke2 Qc2+ 39. Kf1
+Qd1+ 40. Kg2 Qg4+ {Sources: Nottingham Guardian, 24 Jul 1906 and 'The Second
+International Chess Tournament Ostende 1906' - A J Gillam - Caissa Editions,
+Yorklyn DE (2005). Contributed by Brian Denman, Feb 2019.} 0-1
+
+[Event "Ostend Congress Amateur 'A' section"]
+[Site "Ostende"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Holmes, Harry"]
+[Result "0-1"]
+[ECO "C28"]
+[PlyCount "88"]
+[EventDate "1906.??.??"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 5. Nge2 d6 6. h3 Be6 7. a3 Ba5 8. b4
+Bb6 9. Nd5 Bxd5 10. exd5 Ne7 11. Bg5 Qd7 12. Bxf6 gxf6 13. Ng3 Ng6 14. Nh5
+O-O-O 15. Qf3 Bd4 16. Ra2 Bc3+ 17. Kd1 f5 18. a4 Nh4 19. Qe3 Bd4 20. Qg5 Bxf2
+21. Nf6 Qe7 22. Rf1 Rhg8 23. Qxg8 Rxg8 24. Nxg8 Qg5 25. Rxf2 Qxg8 26. c3 f4 27.
+Rae2 Nf5 28. Bb3 Ne3+ 29. Kd2 Qg5 30. Ke1 Nf5 31. Kd1 Ng3 32. Re1 f5 33. Bc2 c6
+34. dxc6 bxc6 35. a5 Kc7 36. Bb1 a6 37. Bc2 Qh4 38. Rf3 Qf6 39. Kd2 d5 40. Bb1
+e4 41. Rxf4 Qg5 42. Ke3 Nh5 43. Ref1 Nxf4 44. Rxf4 Qg3+ {Sources: Wigan
+Observer and District Advertiser of 31 Aug 1906 and 1 Sep 1906. Contributed by
+Brian Denman, 2019.} 0-1
+
+[Event "Ostend Congress Amateur 'A' section"]
+[Site "Ostende"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Macdonald, Edmund"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "80"]
+[EventDate "1906.??.??"]
+[EventCountry "BEL"]
+[SourceTitle "Shoosmith File"]
+[Source "BritBase"]
+[SourceDate "2019.02.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.02.18"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. b3 Nc6 6. Bb2 cxd4 7. exd4 Bd7 8. O-O
+Nb4 9. Be2 Rc8 10. c4 Bd6 11. a3 Nc6 12. c5 Bb8 13. Nbd2 O-O 14. Bd3 Qe7 15. b4
+a6 16. Re1 Nh5 17. g3 f5 18. Ne5 Be8 19. Ndf3 Bxe5 20. Nxe5 Nf6 21. Nxc6 Bxc6
+22. Bxf5 Ne4 23. Bxe4 dxe4 24. Qc2 Qg5 25. Re3 Rf7 26. Rae1 Rcf8 27. R1e2 Qf5
+28. a4 Qh3 29. Rxe4 Rf5 30. f4 Qg4 31. Bc1 g5 32. Rxe6 gxf4 33. Rxc6 bxc6 34.
+h3 Qg6 35. g4 f3 36. Qb3+ R5f7 37. Re6 f2+ 38. Kf1 Qg7 39. Bb2 Qg5 40. Qd1 Qd5
+{Brian Denman note (Feb 2019): "A game is quoted between Shoosmith and Dr R C
+Macdonald for the 1906 Ostend Amateur 'A' event. The next BCF Yearbook stated
+that Dr R C Macdonald was playing at the tournament, but this seems to have
+been wrong. Tony Gillam in his book on the competition tells us that it was
+Edmund Macdonald, who was competing, and my subsequent investigations into
+newspapers of the time have suggested to me that he was right."} 0-1
+
+[Event "Ostend Congress Amateur 'A' section"]
+[Site "Ostende"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Schories, Georg"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "110"]
+[EventDate "1906.??.??"]
+[EventCountry "BEL"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Nf6 4. Bd3 c5 5. b3 Qc7 6. Bb2 c4 7. Be2 a6 8. a4 cxb3
+9. cxb3 Nc6 10. Nbd2 Bd6 11. Rc1 O-O 12. Bd3 Bd7 13. Ne5 Rac8 14. O-O Rfd8 15.
+f4 Be8 16. Rf3 g6 17. Rh3 Qb6 18. Nxc6 Rxc6 19. Rxc6 Bxc6 20. Qb1 Rc8 21. Rf3
+Bb4 22. Nf1 Ne4 23. Bxe4 dxe4 24. Rf2 Bd5 25. Rc2 Rc6 26. Bc1 Ba5 27. Bd2 Bb4
+28. Qb2 a5 29. Rxc6 Bxc6 30. Qc2 Be7 31. Bc1 Bd5 32. Nd2 Qb4 33. Kf2 b5 34.
+axb5 Qxb5 35. Bb2 f5 36. h3 h6 37. g3 g5 38. Ba1 gxf4 39. exf4 h5 40. h4 Qb4
+41. Bb2 Qb7 42. Bc3 Qc7 43. Qb2 Bxh4 44. gxh4 Qxf4+ 45. Kg1 Qg3+ 46. Kf1 e3 47.
+Nc4 f4 48. Be1 Qf3+ 49. Bf2 Qg2+ 50. Ke1 Bxc4 51. bxc4 exf2+ 52. Qxf2 Qxf2+ 53.
+Kxf2 a4 54. c5 Kf7 55. Kf3 a3 {Sources: Sheffield Weekly News of 13.10.1906
+and 'The Second International Chess Tournament Ostende 1906' - A J Gillam -
+Caissa Editions, Yorklyn DE (2005).} 0-1
+
+[Event "Ostend Congress Amateur 'A' section"]
+[Site "Ostende"]
+[Date "1906.07.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Palmer, Wilfred Charles"]
+[Result "0-1"]
+[ECO "B72"]
+[PlyCount "64"]
+[EventDate "1906.??.??"]
+[EventCountry "BEL"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. Nc3 d6 7. Be2 Nf6 8. h3
+Bd7 9. Nb3 Rc8 10. f4 O-O 11. O-O Ne8 12. f5 b6 13. Qd2 Ne5 14. Bh6 Nc4 15.
+Bxc4 Rxc4 16. Bxg7 Kxg7 17. Rae1 Nf6 18. g4 gxf5 19. gxf5 Kh8 20. Kh2 Qc7 21.
+Qh6 Rg8 22. Nd2 d5+ 23. Kh1 dxe4 24. Nxc4 e3 25. Nxe3 Bc6+ 26. Ned5 Nxd5 27.
+Ne4 Nf6 28. Qh4 Nxe4 29. Rxe4 Qe5 30. Rfe1 Qxf5 31. Kh2 Qf3 32. Rg4 Rxg4 {
+Sources: The Field of 7.7.1906, Bradford Observer Budget of 14.7.1906, Glasgow
+Weekly Herald of 14.7.1906, Cheltenham Examiner of 25.7.1906, Manchester
+Weekly Times and Examiner of 4.8.1906 and 'The Second International Chess
+Tournament Ostende 1906' - A J Gillam - Caissa Editions, Yorklyn DE (2005).}
+0-1
+
+[Event "Practice Match"]
+[Site "London"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1/2-1/2"]
+[ECO "D32"]
+[PlyCount "54"]
+[EventDate "1906.??.??"]
+[EventType "match"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 d4 6. Na4 Bxc5 7. Nxc5 Qa5+ 8.
+Bd2 Qxc5 9. Rc1 Qf5 10. g3 Nc6 11. Bg2 Nge7 12. Nf3 O-O 13. O-O Be6 14. a3 Rfd8
+15. Ne1 Bd5 16. Nd3 Bxg2 17. Kxg2 Rac8 18. Kg1 Ne5 19. Nxe5 Qxe5 20. Bf4 Qd5
+21. Qa4 Ng6 22. Bd2 a6 23. Rxc8 Rxc8 24. Rd1 Qe4 25. Be3 Nh4 26. gxh4 Qg4+ 27.
+Kh1 Qe4+ {Source: Pall Mall Gazette, 20 Jan 1906} 1/2-1/2
+
+[Event "Kent Congress 1st Class Open"]
+[Site "Tunbridge Wells"]
+[Date "1906.04.??"]
+[Round "?"]
+[White "Allcock, James Frederick"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "A03"]
+[PlyCount "46"]
+[EventDate "1906.04.16"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+
+1. e3 d5 2. f4 c5 3. Nf3 Nc6 4. Be2 Nf6 5. d3 e6 6. Nbd2 Be7 7. Nf1 Bd6 8. Ng3
+e5 9. O-O exf4 10. exf4 Qc7 11. Qd2 O-O 12. Nh4 Re8 13. c3 Bd7 14. Ngf5 Bf8 15.
+g3 d4 16. cxd4 cxd4 17. Bf3 g6 18. Bxc6 Bxc6 19. Nxd4 Bc5 20. Qc3 Qb6 21. Be3
+Rxe3 22. Nxc6 Rxg3+ 23. Kh1 Qxc6+ {Source: Kent and Sussex Courier of 8.6.1906.
+The Congress took place at Tunbridge Wells.} 0-1
+
+[Event "Kent Congress 1st Class Open"]
+[Site "Tunbridge Wells"]
+[Date "1906.04.16"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "57"]
+[EventDate "1906.04.16"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 h6 6. Ne2 d6 7. Ng3 O-O 8. O-O
+Na5 9. Bb3 Nxb3 10. axb3 Qe7 11. Nh4 Re8 12. Nhf5 Bxf5 13. Nxf5 Qf8 14. Qf3 Nh7
+15. Kh1 Re6 16. Qh3 Kh8 17. f4 Rae8 18. Rf3 exf4 19. Bxf4 Bb6 20. Raf1 a6 21.
+Bd2 d5 22. exd5 Re2 23. Bc3 f6 24. Rg3 g5 25. Nxh6 Rxc2 26. Rxg5 Qe7 27. Nf5
+Rxc3 28. Nxe7 Rxe7 29. Qc8+ {Sources: The Field, 21 Apr 1906; Hereford Times,
+Lasker's Chess Magazine of April 1906; Times Literary Supplement, 4 May 1906}
+1-0
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.06"]
+[Round "1"]
+[White "Atkins, Henry Ernest"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[Annotator "Saunders, John"]
+[SetUp "1"]
+[FEN "8/3r1pkp/4p1p1/4P3/2qP1Q2/1p6/1P1R2PP/3K4 w - - 0 39"]
+[PlyCount "16"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+{We know that the game opened with 1.d4 but we have no further moves until
+this position after Black's 38th move, where White is under some pressure:} 39.
+Qf6+ {[%mdl 32768]} Kg8 40. Qf4 $4 ({A fatal repetition.} 40. Qf2 {was
+slightly better, though, after} Ra7 41. Ke1 Ra1+ 42. Rd1 Rxd1+ 43. Kxd1 {
+Black could try} Qd3+ 44. Kc1 g5 {with good winning chances.}) (40. Qh4 {
+looks best, threatening a perpetual on d8 and f6 should the black rook leave
+the d-file. Then} Qf1+ 41. Qe1 Qf5 {maintains the pressure on White.}) 40...
+Ra7 $1 {and now the finish seems to have been as follows:} 41. Ke1 Ra1+ 42. Rd1
+Rxd1+ 43. Kxd1 Qc2+ 44. Ke1 Qxb2 45. Qh4 Qc1+ 46. Ke2 g5 {Sources: The
+Scotsman, 8 Aug 1906; London Evening Standard, 8 Aug 1906; annotations by JS,
+CHESS, Aug 2017, p36} 0-1
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.07"]
+[Round "2"]
+[White "Shoosmith, Hector William"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "1-0"]
+[ECO "D61"]
+[PlyCount "119"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c5 8. dxc5
+dxc4 9. Bxc4 Nxc5 10. O-O b6 11. Rfd1 Qc7 12. Bf4 Qb7 13. b4 Nce4 14. Nxe4 Qxe4
+15. Qb3 Bb7 16. a3 Bd5 17. Bxd5 Nxd5 18. Rd4 Qf5 19. Be5 Nf6 20. Rad1 Rad8 21.
+h3 g5 22. Rxd8 Rxd8 23. Rxd8+ Bxd8 24. Qa4 a5 25. bxa5 bxa5 26. Qc6 Kg7 27. e4
+Qg6 28. Bc3 Kh6 29. Ne5 Qxe4 30. Nxf7+ Kh5 31. Nxd8 Qb1+ 32. Kh2 Qb8+ 33. g3
+Qxd8 34. Qxe6 Kg6 35. f4 gxf4 36. gxf4 a4 37. Qxf6+ Qxf6 38. Bxf6 Kxf6 39. Kg3
+Kf5 40. h4 h6 41. h5 Kf6 42. Kf2 Ke6 43. Ke3 Kd5 44. Kd3 Ke6 45. Ke4 Kf6 46. f5
+Ke7 47. Ke5 Kf7 48. f6 Kf8 49. Ke6 Ke8 50. Kd5 Kf7 51. Kc4 Kxf6 52. Kb4 Kg5 53.
+Kxa4 Kxh5 54. Kb5 Kg4 55. a4 h5 56. a5 h4 57. a6 Kg3 58. a7 Kh2 59. a8=Q h3 60.
+Qf3 {Source: Westminster Gazette, 8 Sep 1906. Other sources are The Scotsman
+of 8 Aug 1906, Sunday Times of 12 Aug 1906, Cheltenham Examiner of 5 Sep 1906,
+but none of these versions gives the complete score and the Cheltenham
+Examiner, which is the longest version, only takes the score to White's 39th
+move. Contributed by Brian Denman, 2019.} 1-0
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.08"]
+[Round "3"]
+[White "Michell, Reginald Pryce"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "49"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Bd3 b6 8. O-O
+Bb7 9. Rc1 a6 10. cxd5 exd5 11. Ne5 c5 12. f4 Ne8 13. Bxe7 Qxe7 14. Qf3 Nxe5
+15. fxe5 Rd8 16. Qh3 g6 17. Rf4 Kg7 18. Rcf1 Nc7 19. Ne2 Ne6 20. Rf6 c4 21. Bb1
+b5 22. Ng3 Qc7 23. Nf5+ Kh8 24. Qh6 Kg8 25. Rf3 {Sources: Manchester Guardian,
+9 Aug 1906; The Cornish Telegraph, 23 Aug 1906; Illustrated London News, 1
+Sept 1906; Exeter and Plymouth Gazette, 4 Sept 1906; Falkirk Herald, 26 Sept
+1906; Year-Book of Chess 1907, p206; BCM 1906, p361} 1-0
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.09"]
+[Round "4"]
+[White "Shoosmith, Hector William"]
+[Black "Mercer, Arthur Emerson"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "67"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Qc2 b6 7. Nf3 Bb7 8. cxd5
+exd5 9. Bd3 Nbd7 10. Rd1 h6 11. Bf4 c5 12. h3 Re8 13. O-O Nf8 14. Bb5 N8d7 15.
+Ne5 Rc8 16. Nxd7 Nxd7 17. Qf5 Bc6 18. Bxc6 Rxc6 19. Nxd5 c4 20. Nxe7+ Qxe7 21.
+Qb5 Rec8 22. Rc1 Nf6 23. Rfd1 Qb7 24. f3 a6 25. Qf5 b5 26. d5 Rc5 27. e4 Qe7
+28. Be3 g6 29. Qf4 Nh5 30. Qxh6 c3 31. Bd4 Nf6 32. Qh4 cxb2 33. Rxc5 Rxc5 34.
+Bxf6 {Source: BCM Sept 1906, p360} 1-0
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.10"]
+[Round "5"]
+[White "Shoosmith, Hector William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "C48"]
+[PlyCount "60"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Shoosmith File"]
+[Source "BritBase"]
+[SourceDate "2019.02.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.02.18"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 Bc5 6. d3 Qe7 7. O-O c6 8.
+Nxd4 Bxd4 9. Be3 Bb6 10. Qe2 O-O 11. Bxb6 axb6 12. f4 d6 13. f5 g6 14. g4 gxf5
+15. gxf5 Kh8 16. Kh1 Rg8 17. Rg1 Bd7 18. Bb3 b5 19. Raf1 Raf8 20. Qf3 Qe8 21.
+Ne2 ({The text move is given in primary sources (The Scotsman, 11 August 1906
+and Manchester Guardian, 13 August 1906) but secondary sources such as Big/
+Mega Database and chessgames.com give} 21. Rxg8+ Rxg8 22. h3 Qf8 23. Ne2 Qh6
+24. Bxf7 Rg7 25. Be6 Be8 26. Ng1 Rg5 27. Qe3 $4 Rxg1+ 28. Qxg1 Qxh3+ {0-1})
+21... Rxg1+ 22. Nxg1 ({One reason why secondary sources may have given 21
+Rxg8+ as the text move instead of 21 Ne2 is that White might have been
+expected to play the more natural} 22. Rxg1 {at this point. The text move
+looks odd, especially since he follows it up with 23 h3, leaving the knight to
+return whence it came. The Manchester Guardian columnist questions the move:
+"why not RxR?"}) 22... Rg8 23. h3 Qf8 24. Ne2 Qh6 25. Bxf7 Rg7 26. Be6 Be8 27.
+Ng1 Rg5 28. Qe3 $4 Rxg1+ 29. Qxg1 Qxh3+ {(The Scotsman's score ends here: "and
+wins")} 30. Qh2 Qxf1+ {"and Black won" according to the Manchester Guardian}
+0-1
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.11"]
+[Round "6"]
+[White "Lee, Francis Joseph"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+ 1-0
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.13"]
+[Round "7"]
+[White "Shoosmith, Hector William"]
+[Black "Hamond, Francis Edward (Rev"]
+[Result "1-0"]
+[PlyCount "1"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 1-0
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.14"]
+[Round "8"]
+[White "Parry, John Ellis"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[PlyCount "3"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 {... 70(?)th move. Source: London Daily News, 15 August 1906}
+0-1
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.15"]
+[Round "9"]
+[White "Shoosmith, Hector William"]
+[Black "Palmer, Wilfred Charles"]
+[Result "0-1"]
+[ECO "D32"]
+[PlyCount "48"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Be6 6. Bg5 Be7 7. Bxe7 Qxe7 8.
+dxc5 Qxc5 9. e3 Nf6 10. Bd3 Nc6 11. O-O O-O 12. Rc1 Qe7 13. a3 Rad8 14. Qa4 Bg4
+15. Nb5 Bxf3 16. gxf3 Qe5 17. f4 Qh5 18. f3 d4 19. Nxd4 Nxd4 20. exd4 Nd5 21.
+Rf2 Nxf4 22. Bf1 Qg5+ 23. Kh1 Ne2 24. Bxe2 Qxc1+ {'...and Black eventually won.
+' [in 38 moves, according to the Manchester Guardian] Sources: Manchester
+Guardian, 16 Aug 1906; The Scotsman, 16 Aug 1906} 0-1
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.16"]
+[Round "10"]
+[White "Brown, Frank"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[PlyCount "5"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 {... etc. 38 moves. Source: Morning Post - 17 August
+1906.} 0-1
+
+[Event "GBR-ch 3rd"]
+[Site "Shrewsbury"]
+[Date "1906.08.17"]
+[Round "11"]
+[White "Shoosmith, Hector William"]
+[Black "Wainwright snr, George Edward"]
+[Result "1-0"]
+[ECO "D60"]
+[PlyCount "55"]
+[EventDate "1906.08.06"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Bd3 dxc4 8.
+Bxc4 a6 9. a4 c5 10. O-O cxd4 11. exd4 Re8 12. Qe2 Nb6 13. Bd3 Nfd5 14. Be3
+Nxc3 15. bxc3 Nd5 16. Bd2 Qc7 17. Ne5 g6 18. Qf3 Bf8 19. c4 Nb4 20. Ng4 Rd8 21.
+Bg5 Rxd4 22. Nf6+ Kh8 23. Ne8 Qd7 24. Bf6+ Kg8 25. Be5 Qd8 26. Nf6+ Kh8 27.
+Nxh7+ Kxh7 28. Qxf7+ {Sources: The Scotsman, 18 Aug 1906; Year-Book of Chess
+1907, p207} 1-0
+
+[Event "London League"]
+[Site "London"]
+[Date "1906.10.??"]
+[Round "1.1"]
+[White "Howell, Clarence Seaman"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C90"]
+[PlyCount "75"]
+[EventDate "1906.10.??"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "Metropolitan"]
+[BlackTeam "Chess Bohemians"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Bg4 9. d3 Na5 10. Nbd2 O-O 11. h3 Bxf3 12. Qxf3 c5 13. Nf1 Qc7 14. Bg5 Nxb3 15.
+axb3 Ne8 16. Bxe7 Qxe7 17. Ne3 Nc7 18. Qg3 g6 19. f4 f6 20. f5 Qg7 21. h4 Rfd8
+22. Rf1 gxf5 23. Qxg7+ Kxg7 24. Nxf5+ Kf7 25. Rf2 d5 26. Nh6+ Ke7 27. Raf1 dxe4
+28. dxe4 Rf8 29. Ng4 Ne8 30. Nxe5 Nd6 31. Ng4 Nxe4 32. Re2 f5 33. Nf2 Kd6 34.
+Nxe4+ fxe4 35. Rxe4 Rxf1+ 36. Kxf1 Rf8+ 37. Ke2 h6 38. Rg4 {'White wins'.
+Sources: Times Literary Supplement of 7.12.1906; Bridlington Free Press, 7 Dec
+1906. Played on board 1. According to the Daily News (London) of 29.10.1906
+White won on adjudication} 1-0
+
+[Event "London League"]
+[Site "London"]
+[Date "1906.10.08"]
+[Round "?"]
+[White "Trenchard, Herbert William"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C30"]
+[PlyCount "68"]
+[EventDate "1906.10.08"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "North London"]
+[BlackTeam "Chess Bohemians"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. d3 Bg4 6. Na4 Bb6 7. Nxb6 axb6 8. h3
+Bxf3 9. Qxf3 Nc6 10. c3 d5 11. Be2 dxe4 12. dxe4 exf4 13. Bxf4 Qe7 14. O-O O-O
+15. Kh1 Nxe4 16. Bd3 f5 17. Bxe4 fxe4 18. Qg3 Rf7 19. Bg5 Qe5 20. Bf4 Qe7 21.
+Bg5 Qe6 22. Rxf7 Qxf7 23. Re1 Re8 24. Bf4 Qxa2 25. Bxc7 Qxb2 26. Rf1 b5 27. Qf4
+Qb3 28. Bd6 h6 29. Bc5 Qc4 30. Be3 Ne5 31. Bd4 Ng6 32. Qc1 e3 33. Re1 e2 34.
+Qc2 Qe6 {Source: London Daily News, 18 Oct 1906. Played at The Grid, Cheapside,
+London} 0-1
+
+[Event "London League"]
+[Site "London"]
+[Date "1906.10.15"]
+[Round "1.1"]
+[White "Emery, Alfred"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "72"]
+[EventDate "1906.10.15"]
+[EventCountry "ENG"]
+[SourceTitle "Denman, Brian"]
+[SourceDate "2017.10.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.10.09"]
+[SourceQuality "1"]
+[WhiteTeam "East London"]
+[BlackTeam "Chess Bohemians"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O Re8 11. Bxf6 Nxf6 12. Ne2 a6 13. Ne5 c5 14. Ng3 c4 15.
+Bb1 b5 16. f4 Bf8 17. Qc2 Ne4 18. Nxe4 dxe4 19. Qe2 f6 20. Ng4 Bd5 21. Nf2 Qd7
+22. Kh1 Rac8 23. Rg1 a5 24. g4 b4 25. g5 f5 26. Rg3 a4 27. Rh3 g6 28. Nd1 Qa7
+29. Rg3 a3 30. h4 axb2 31. Qxb2 b3 32. Qh2 Ba3 33. Rc3 Bb4 34. Rc1 Qa3 35. Nb2
+c3 36. h5 Qxb2 {[%eval 1412,0] Sources: The Field of 27.10.1906 and the Times
+Literary Supplement of} 0-1
+
+[Event "City of London CC ch"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Allcock, James Frederick"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "56"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. c3 e6 5. Nd2 Nf6 6. Bd3 Bd6 7. Bxd6 Qxd6 8. Ne2
+e5 9. dxe5 Nxe5 10. Bc2 O-O 11. Ng3 Bd7 12. Nde4 Nxe4 13. Bxe4 Bc6 14. O-O Rad8
+15. Bc2 g6 16. Re1 Qe7 17. h3 Qh4 18. b3 f5 19. Qe2 Rfe8 20. Qd2 Qxh3 21. e4
+fxe4 22. Nxe4 Nf3+ 23. gxf3 dxe4 24. Qg5 Rd5 25. Qg3 Qh6 26. f4 Rd2 27. Rac1 e3
+28. f3 Bxf3 {Sources: Bridlington Free Press, 28 March 1907; Burnley Gazette,
+30 March 1907} 0-1
+
+[Event "City of London CC ch"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Morgan, EA.."]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "94"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nc3 e6 4. a3 Bd6 5. Bg3 a6 6. Nf3 O-O 7. e3 c5 8. Bxd6
+Qxd6 9. Ne5 Nc6 10. f4 Nd7 11. Be2 f6 12. Nf3 b5 13. O-O Bb7 14. Qe1 e5 15.
+dxe5 fxe5 16. fxe5 Ncxe5 17. Rd1 Nf6 18. Nxe5 Qxe5 19. Bf3 Rad8 20. Qd2 Rfe8
+21. Rfe1 Rd7 22. Re2 Kh8 23. Rde1 Rde7 24. Nd1 Qg5 25. Rf1 Re5 26. Ref2 h6 27.
+Qc3 Nd7 28. Qd3 R5e7 29. c3 Ne5 30. Qc2 Kg8 31. e4 dxe4 32. Bxe4 Bxe4 33. Qxe4
+Ng4 34. Qf3 Nxf2 35. Qxf2 Re2 36. Qf7+ Kh7 37. g3 c4 38. Qf3 Qd2 39. Qf5+ Kh8
+40. Nf2 Qxb2 41. Ng4 Qxc3 42. Qc5 Re1 43. Rxe1 Qxe1+ 44. Kg2 Re2+ 45. Kh3 Qf1+
+46. Kh4 g5+ 47. Kh5 Qf7+ {Source: Illustrated London News, 19 Jan 1907. It is
+uncertain whether the game was played in 1906 or 1907. Contributed by Brian
+Denman, Feb 2019} 0-1
+
+[Event "City of London CC ch"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Healey, P.."]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "98"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Bd3 dxc4 8.
+Bxc4 b6 9. O-O Bb7 10. Qe2 Nd5 11. Bxe7 Qxe7 12. e4 Nxc3 13. bxc3 Nf6 14. Bd3
+c5 15. a4 Rfd8 16. Rfb1 Rac8 17. a5 cxd4 18. cxd4 Rc3 19. axb6 axb6 20. Rxb6
+Qc7 21. Rab1 Rc1+ 22. Rxc1 Qxc1+ 23. Ne1 Qc7 24. Rb4 Ba8 25. f3 e5 26. Qf2 Qe7
+27. Nc2 Nh5 28. d5 Nf4 29. Ba6 h5 30. Rb6 Qc7 31. Ne1 Qc3 32. Kf1 Kh7 33. Qc2
+Qd4 34. Qb1 h4 35. Nd3 Nxd3 36. Bxd3 Rc8 37. Ke2 Rc3 38. Rb4 Qc5 39. Rb5 Qd4
+40. Qd1 Ra3 41. Rb1 Ra2+ 42. Bc2 Qc4+ 43. Kd2 Qd4+ 44. Ke2 Qc5 45. Rc1 Bb7 46.
+Qd2 Ba6+ 47. Kd1 Bb5 48. d6 Ba4 49. d7 Qg1+ {Source: 'The Chess Amateur' of
+May 1907. Contributed by Brian Denman, Feb 2019.} 0-1
+
+[Event "City of London CC ch"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Macdonald, Edmund"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "94"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Bd3 b6 8. cxd5
+exd5 9. O-O Bb7 10. Qe2 c5 11. Rad1 Re8 12. dxc5 bxc5 13. Bb5 Rf8 14. e4 d4 15.
+Nxd4 cxd4 16. Rxd4 Qb6 17. Rxd7 Nxd7 18. Bxe7 Rfe8 19. Bg5 Bc6 20. Bc4 Ne5 21.
+Bb3 Rac8 22. Be3 Qb7 23. f4 Ng6 24. f5 Ne5 25. Rf4 Rcd8 26. Rh4 Rd6 27. Bc5 Rf6
+28. g4 Qd7 29. Rh3 h6 30. Re3 Rd8 31. h4 Nd3 32. g5 Nxc5 33. gxf6 gxf6 34. Nd5
+Bxd5 35. Bxd5 Kh7 36. Rg3 Qe7 37. b4 Nd7 38. Qg4 Qf8 39. Qh5 Ne5 40. a3 a5 41.
+bxa5 Qc5+ 42. Kg2 Qc2+ 43. Kh3 Qc1 44. Qe2 Rc8 45. Qg2 Rc3 46. Rxc3 Qxc3+ 47.
+Qg3 Qc1 {Source: The Daiily News (London) of 27.6.1907.} 1/2-1/2
+
+[Event "City of London CC ch"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Macdonald, Edmund"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "94"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Bd3 b6 8. cxd5
+exd5 9. O-O Bb7 10. Qe2 c5 11. Rad1 Re8 12. dxc5 bxc5 13. Bb5 Rf8 14. e4 d4 15.
+Nxd4 cxd4 16. Rxd4 Qb6 17. Rxd7 Nxd7 18. Bxe7 Rfe8 19. Bg5 Bc6 20. Bc4 Ne5 21.
+Bb3 Rac8 22. Be3 Qb7 23. f4 Ng6 24. f5 Ne5 25. Rf4 Rcd8 26. Rh4 Rd6 27. Bc5 Rf6
+28. g4 Qd7 29. Rh3 h6 30. Re3 Rd8 31. h4 Nd3 32. g5 Nxc5 33. gxf6 gxf6 34. Nd5
+Bxd5 35. Bxd5 Kh7 36. Rg3 Qe7 37. b4 Nd7 38. Qg4 Qf8 39. Qh5 Ne5 40. a3 a5 41.
+bxa5 Qc5+ 42. Kg2 Qc2+ 43. Kh3 Qc1 44. Qe2 Rc8 45. Qg2 Rc3 46. Rxc3 Qxc3+ 47.
+Qg3 Qc1 {Source: The Daily News (London), 27 June 1907. Contributed by Brian
+Denman, Feb 2019} 1/2-1/2
+
+[Event "London League"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Fagan, Louisa Matilda"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "A10"]
+[PlyCount "66"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+[WhiteTeam "Ladies"]
+[BlackTeam "Chess Bohemians"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. c4 f5 2. e3 Nf6 3. b3 e6 4. Bb2 Be7 5. Nc3 O-O 6. Qc2 b6 7. Nf3 Bb7 8. h3
+Ne4 9. d3 Nxc3 10. Bxc3 Nc6 11. a3 Bf6 12. d4 Qe7 13. b4 Rae8 14. Be2 d6 15.
+O-O-O Nd8 16. Rdg1 e5 17. d5 e4 18. Nd4 Bxd4 19. Bxd4 c6 20. dxc6 Nxc6 21. Bc3
+Ne5 22. Bd2 Rc8 23. Qb3 d5 24. Kb1 dxc4 25. Qa2 Kh8 26. Bc3 Nd3 27. Bd1 f4 28.
+Bd4 fxe3 29. Bxe3 Qe5 30. g4 a5 31. Bxb6 axb4 32. a4 Bd5 33. Rg3 c3 {Source:
+BCM 1907, p382} 0-1
+
+[Event "Metropolitan CC ch"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Howell, Clarence Seaman"]
+[Result "0-1"]
+[ECO "D61"]
+[PlyCount "80"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c6 8. Rd1
+Re8 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. e4 Nf4 13. g3 Ng6 14. O-O e5 15.
+Be2 exd4 16. Nxd4 Nf6 17. f3 Bd7 18. Rd2 Rad8 19. Rfd1 Bc8 20. Kg2 a6 21. Na4
+Nh5 22. Nb6 Qg5 23. Nxc8 Rxc8 24. Kh1 Ne7 25. f4 Qh6 26. Kg2 Nf6 27. Bf3 {
+"It is but fair to note that Mr. Shoosmith was much pressed for time from this
+point to his 40th move, having to make thirteen moves in about thirteen
+minutes." (Howell)} g5 28. fxg5 Qxg5 29. Ne2 Ng6 30. Kh1 Ne5 31. Ng1 Nxf3 32.
+Nxf3 Qe3 33. Kg2 Qxe4 34. Qxe4 Rxe4 35. h3 Rce8 36. Kf2 {"Black’s 35th move
+was played to induce this, and White had no time to see this trap." (Howell)}
+Ra4 37. b3 Ne4+ 38. Kg2 Nxd2 39. bxa4 Re2+ 40. Kg1 Nxf3+ {"White has lost
+through time pressure, owing to taking too much time on his 21st to 25 th
+moves. The game emphasises the danger of not proportioning time more evenly
+over one’s moves." (Howell) Source: BCM, June 1907, p285} 0-1
+
+[Event "Metropolitan CC ch"]
+[Site "London"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Thomas, George Alan"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "91"]
+[EventDate "1907.??.??"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 h6 6. O-O d6 7. Qe2 Bg4 8. Be3
+Bb6 9. Nd5 Nxd5 10. Bxd5 O-O 11. c3 Kh8 12. h3 Bd7 13. Qd2 Qf6 14. Bxb6 axb6
+15. Qe3 Nd8 16. Nd2 g5 17. d4 h5 18. dxe5 dxe5 19. Qf3 Qg6 20. Nc4 g4 21. Qg3
+f6 22. f4 exf4 23. Rxf4 Ne6 24. Bxe6 Bxe6 25. Ne3 Ra5 26. Raf1 Rg5 27. hxg4
+Bxg4 28. Nxg4 hxg4 29. Rf5 Rf7 30. R1f4 Kg7 31. Rxg5 fxg5 32. Rxg4 Kh6 33. Qh2+
+Qh5 34. Qxh5+ Kxh5 35. Rg3 g4 36. e5 Kg5 37. Re3 Re7 38. Kf2 Kf4 39. e6 c6 40.
+c4 g3+ 41. Rxg3 Rxe6 42. Rd3 Re7 43. Rb3 Rd7 44. Rxb6 Rd2+ 45. Kg1 Rd7 46. a4 {
+Source: Times Literary Supplement, 24 May 1907} 1-0
+
+[Event "Ostende Amateur"]
+[Site "Ostende"]
+[Date "1907.04.01"]
+[Round "3"]
+[White "Schosberger, Ernst"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C84"]
+[PlyCount "81"]
+[EventDate "1907.03.30"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Nd5 8.
+Nxd4 Nxd4 9. Qxd4 Nb6 10. Bb3 O-O 11. c3 d5 12. Bc2 f5 13. f4 Be6 14. Qd3 Nd7
+15. Be3 Nc5 16. Bxc5 Bxc5+ 17. Kh1 Be7 18. Nd2 c5 19. Nf3 Qc7 20. g4 b5 21. b3
+g6 22. g5 Rad8 23. Rad1 a5 24. h4 b4 25. h5 Qc6 26. Kh2 Kf7 27. Kg3 Rg8 28.
+cxb4 axb4 29. Qe2 Ra8 30. Bb1 Bf8 31. Rh1 Ke7 32. Rc1 Qb6 33. hxg6 hxg6 34.
+Rh7+ Ke8 35. Bd3 Ra5 36. Nd4 Be7 37. Bb5+ Bd7 38. Bxd7+ Kxd7 39. e6+ Kd8 40.
+Qe5 Qb7 41. Rxe7 (41. Rxe7 {"At this stage the game was adjourned. Obviously
+Black has no other reply than} Kxe7 {when White forces a win with} 42. Rh1 Ke8
+43. Rh7 Qxh7 44. Qb8+ Ke7 45. Qc7+ Ke8 46. Qc8+ Ke7 47. Qd7+ Kf8 48. Qd8+ Kg7
+49. Qf6# {" (Source: The Field, 6 April 1907) It is not clear whether these
+moves were played, or whether Black resigned without resuming - JS}) 1-0
+
+[Event "Ostende Amateur"]
+[Site "Ostende"]
+[Date "1907.04.03"]
+[Round "6"]
+[White "Shoosmith, Hector William"]
+[Black "Kulesza, Felix"]
+[Result "1-0"]
+[ECO "D66"]
+[PlyCount "57"]
+[EventDate "1907.03.30"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "BEL"]
+[SourceTitle "Shoosmith File"]
+[Source "BritBase"]
+[SourceDate "2019.02.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.02.18"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 c6 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O h6 10. Bh4 Nd5 11. Bg3 N7f6 12. Rc1 Nxc3 13. bxc3 Nh5 14. e4
+Nxg3 15. fxg3 Qa5 16. Ne5 Bd6 17. Nd3 Qg5 18. e5 Bc7 19. Nf4 Bb6 20. Kh1 Bd7
+21. Qf3 Qe7 22. Nh5 Qg5 23. h4 Qe7 24. Nxg7 Kxg7 25. Qg4+ Kh8 26. Rf6 Qxf6 27.
+exf6 Rg8 28. Qf4 Rg6 29. Bd3 {Source: London Daily News, 19 Apr 1907} 1-0
+
+[Event "Ostende Amateur"]
+[Site "Ostende"]
+[Date "1907.04.04"]
+[Round "9"]
+[White "Shoosmith, Hector William"]
+[Black "Kagan, Bernhard"]
+[Result "1-0"]
+[ECO "D46"]
+[PlyCount "61"]
+[EventDate "1907.03.30"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 c6 2. c4 d5 3. e3 Nf6 4. Nc3 e6 5. Nf3 Bd6 6. Bd3 O-O 7. O-O Nbd7 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Nf6 11. Bc2 c5 12. Bg5 Be7 13. Qe2 h6 14. Bh4 Nd7
+15. Bg3 cxd4 16. Nxd4 Qb6 17. Rad1 Bf6 18. Nb5 a6 19. Bc7 Qc5 20. Bd6 Qg5 21.
+f4 Qh4 22. Nc7 Rb8 23. g3 Qh3 24. f5 e5 25. Bxf8 Kxf8 26. Nd5 Bd8 27. b4 f6 28.
+Be4 h5 29. Ne3 Bb6 30. c5 Nxc5 31. Bg2 {Source: The People, Sunday 28 April
+1907, p14. Contributed by Gerard Killoran, 4 Feb 2019. "Shoosmith beat Kagan
+by altogether outplaying him in first-class style. Kagan could not stand the
+quiet, deliberate method of his opponent, and seemed quite surprised that his
+vigorously played moves should not have altered his opponent's placid
+countenance in the slightest degree. This was the first game finished." (The
+Field, 6 Apr 1907)} 1-0
+
+[Event "Ostende Amateur"]
+[Site "Ostende"]
+[Date "1907.04.08"]
+[Round "13"]
+[White "Shoosmith, Hector William"]
+[Black "Leussen, Benjamin"]
+[Result "0-1"]
+[ECO "E90"]
+[PlyCount "96"]
+[EventDate "1907.03.30"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 g6 5. e4 Bg7 6. Be3 O-O 7. h3 c5 8. d5
+Ne8 9. Qd2 Nb6 10. g4 f5 11. gxf5 gxf5 12. Rg1 fxe4 13. Ng5 Bf5 14. Ngxe4 Nd7
+15. O-O-O Ne5 16. Rg3 a6 17. Bh6 Nf7 18. Bxg7 Nxg7 19. Be2 b5 20. Rdg1 Bg6 21.
+cxb5 axb5 22. Bxb5 Nf5 23. Ng5 Nxg3 24. Ne6 Qa5 25. Nxf8 Ne4 26. Nxe4 Kxf8 27.
+Nc3 Rb8 28. a4 Rxb5 29. Nxb5 Qxa4 30. Na3 Ne5 31. Rg3 c4 32. Qd4 Kg8 33. Kd2
+Qa5+ 34. Ke3 c3 35. Qxc3 Qxd5 36. f4 Qe4+ 37. Kf2 Qxf4+ 38. Kg1 d5 39. Nb5 Kf7
+40. Nd4 Be4 41. b3 Ng6 42. Nc6 e5 43. Nd8+ Ke7 44. Nb7 d4 45. Qb4+ Kf6 46. Qd6+
+Kg7 47. Rxg6+ hxg6 48. Qe7+ Kh6 {Source: The Field, 20 Apr 1907} 0-1
+
+[Event "Ostende Amateur"]
+[Site "Ostende"]
+[Date "1907.04.10"]
+[Round "16"]
+[White "Loman, Rudolf Johannes"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C84"]
+[PlyCount "78"]
+[EventDate "1907.03.30"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Nd5 8.
+Nxd4 Nxd4 9. Qxd4 Nb6 10. Bb3 O-O 11. Bf4 Kh8 12. Nc3 f6 13. Ne4 fxe5 14. Bxe5
+Bf6 15. Bxf6 gxf6 16. Rad1 d6 17. Rfe1 Bf5 18. Ng5 c5 19. Qxd6 fxg5 20. Qxc5
+Nd7 21. Qd5 Qb6 22. Re7 Bxc2 23. Qd4+ Qxd4 24. Rxd4 Bxb3 25. Rdxd7 Bg8 26. Rxb7
+Rab8 27. a3 Rfd8 28. h3 Rxb7 29. Rxb7 Rd1+ 30. Kh2 Rd3 31. f3 Rb3 32. Rxb3 Bxb3
+33. g3 Kg7 34. Kg2 Kf6 35. Kf2 a5 36. Ke3 a4 37. Kd2 Bc4 38. h4 gxh4 39. gxh4
+Kf5 {Sources: The Field, 20 Apr 1907; Illustrated London News, 3 Aug 1907} 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.16"]
+[Round "1"]
+[White "Shoosmith, Hector William"]
+[Black "Nimzowitsch, Aaron"]
+[Result "0-1"]
+[ECO "A55"]
+[PlyCount "58"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. e4 Be7 6. Bd3 O-O 7. O-O exd4 8.
+Nxd4 Re8 9. b3 Ne5 10. Bc2 a6 11. Bb2 Bd7 12. h3 Bf8 13. f4 Ng6 14. Qf3 c6 15.
+Rae1 b5 16. Qd3 Qc7 17. Kh1 Rad8 18. Bb1 b4 19. Nd1 Bc8 20. Qf3 Nd7 21. Nf5 Nc5
+22. g4 Ne6 23. Qg3 Bb7 24. h4 d5 25. e5 c5 26. cxd5 Rxd5 27. Kg1 Rd2 28. Nfe3
+Qc6 29. Rf3 Qxf3 {Source: BCM 1907, p336} 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.17"]
+[Round "2"]
+[White "Schories, Georg"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C68"]
+[PlyCount "109"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bd6 6. d4 f6 7. dxe5 Bxe5 8.
+Qxd8+ Kxd8 9. Nxe5 fxe5 10. f4 Ne7 11. fxe5 Ng6 12. O-O Be6 13. b3 Kc8 14. Ne2
+c5 15. Ng3 b6 16. Nf5 Rg8 17. h4 Kb7 18. Bb2 Rae8 19. Rae1 Nf8 20. Ne3 h5 21.
+Nd5 Ng6 22. g3 Nf8 23. Rf2 c6 24. Ne3 g6 25. Kh2 Nd7 26. Ref1 Re7 27. Rd2 Kc7
+28. Rd6 Rge8 29. c4 Bf7 30. Rfd1 Be6 31. R1d2 Nf8 32. Ng2 Bf7 33. Nf4 Ne6 34.
+Kg2 Rg8 35. Rf2 Nd8 36. Nh3 Be6 37. Ng5 Bd7 38. Rff6 Be8 39. Kf3 a5 40. Kf4 Nb7
+41. Rd3 Rd7 42. Ne6+ Kc8 43. Rxd7 Kxd7 44. Kg5 Nd8 45. Nxd8 Kxd8 46. e6 Ke7 47.
+Be5 b5 48. Bc7 a4 49. Bb6 Kd6 50. Kf4 bxc4 51. bxc4 Ke7 52. Ke5 g5 53. Bxc5+
+Kd8 54. Kd6 gxh4 55. Rf8 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.18"]
+[Round "3"]
+[White "Shoosmith, Hector William"]
+[Black "Znosko Borovsky, Eugene"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[PlyCount "124"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. Bf4 Nf6 7. e3 Be6 8. Be2
+Be7 9. dxc5 O-O 10. O-O Bxc5 11. Rc1 Be7 12. Nd4 Rc8 13. Bf3 Nxd4 14. exd4 Qb6
+15. Qd2 Bb4 16. Be5 Nd7 17. Bg3 Rc4 18. Rfd1 Rfc8 19. Be2 R4c6 20. f3 Qa5 21.
+Be1 Nb6 22. Qe3 Na4 23. Nxa4 Qxa4 24. Rxc6 bxc6 25. Bxb4 Qxb4 26. Qc3 Qxc3 27.
+bxc3 Bf5 28. Bd3 Bxd3 29. Rxd3 Rb8 30. Rd2 Kf8 31. Kf2 Ke7 32. Ke3 Kd6 33. Kd3
+a5 34. c4 dxc4+ 35. Kxc4 Rb4+ 36. Kd3 Kd5 37. Ke3 Ra4 38. h4 f6 39. g4 Rc4 40.
+g5 Rc3+ 41. Kf4 f5 42. Kxf5 Rxf3+ 43. Kg4 Re3 44. h5 g6 45. h6 Re4+ 46. Kf3
+Rxd4 47. Re2 Kd6 48. Re8 Rd5 49. Kg4 Re5 50. Rh8 Re7 51. Ra8 c5 52. Rxa5 c4 53.
+Ra3 Kd5 54. Kf3 Kd4 55. Ra8 Kd3 56. Rd8+ Kc2 57. Rg8 c3 58. Rg7 Re8 59. Rxh7
+Rc8 60. Rb7 Kd2 61. Rd7+ Ke1 62. Re7+ Kd1 1/2-1/2
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.20"]
+[Round "4"]
+[White "Jacob, Franz"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C87"]
+[PlyCount "149"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. d4 Nd7 8. c3
+O-O 9. Nbd2 Bf6 10. Nf1 Ne7 11. Ng3 Nb6 12. Bb3 Bd7 13. Nh5 Ng6 14. Nxf6+ gxf6
+15. Bh6 Re8 16. h3 Qe7 17. a4 Rad8 18. a5 Nc8 19. Nh2 Kh8 20. Nf1 Rg8 21. Ng3
+Be6 22. Bc2 d5 23. Nf5 Qd7 24. Qh5 Nd6 25. dxe5 Nxe5 26. Nxd6 Qxd6 27. f4 Ng6
+28. f5 Qg3 29. Re3 Qh4 30. Qxh4 Nxh4 31. fxe6 Rxg2+ 32. Kf1 fxe6 33. Re2 Rg3
+34. Be3 Rdg8 35. exd5 Rxh3 36. Be4 e5 37. Bf2 f5 38. Bxh4 Rxh4 39. Bg2 e4 40.
+Ra4 Rd8 41. Rd4 Kg7 42. Rf2 Kg6 43. Ke2 Kg5 44. Rb4 Rxd5 45. Rxb7 Rxa5 46. Rxc7
+Re5 47. Ke3 Rd5 48. Bf1 a5 49. Rg2+ Kf6 50. Bc4 Rh3+ 51. Ke2 Rd6 52. Rf7+ Ke5
+53. Rf2 Rd2+ 54. Kxd2 e3+ 55. Ke2 exf2 56. Ra7 Rh2 57. Rxa5+ Kf4 58. Rb5 h5 59.
+Be6 Kg3 60. Rb8 Kf4 61. c4 Ke5 62. Bd5 f4 63. b4 Kd4 64. Rf8 f1=Q+ 65. Kxf1 Ke3
+66. b5 Rf2+ 67. Kg1 Rb2 68. Re8+ Kd3 69. Rh8 Ke3 70. Rxh5 Kd4 71. Rf5 Kc5 72.
+Rxf4 Kb6 73. Rf6+ Kc7 74. b6+ Kc8 75. Rf8+ 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.21"]
+[Round "5"]
+[White "Shoosmith, Hector William"]
+[Black "Suechting, Hugo"]
+[Result "1-0"]
+[ECO "D52"]
+[PlyCount "47"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Nd2 Bb4 8. Qc2
+dxc4 9. Bxf6 gxf6 10. Nxc4 Qc7 11. Be2 f5 12. O-O b6 13. a3 Be7 14. f4 Bb7 15.
+Rad1 Rc8 16. e4 fxe4 17. f5 e5 18. Nxe4 b5 19. Nxe5 Nxe5 20. dxe5 Qxe5 21. f6
+Bf8 22. Rf5 Qc7 23. Qd2 Rd8 24. Re5+ {Source: London Daily News, 30 May 1907}
+1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.23"]
+[Round "6"]
+[White "Metger, Johannes"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C44"]
+[PlyCount "49"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d3 5. Bxd3 d6 6. Be3 Nf6 7. Nbd2 g6 8. Nd4
+Ne5 9. Be2 Bg7 10. h3 O-O 11. O-O Re8 12. f4 Ned7 13. Bf3 Qe7 14. Bf2 Bh6 15.
+Bg3 Nc5 16. e5 dxe5 17. fxe5 Bxd2 18. exf6 Be3+ 19. Kh2 Qd7 20. Nb3 Nxb3 21.
+Qxb3 c6 22. Rae1 Bh6 23. Rd1 Qe6 24. Rfe1 Be3 25. Qxe6 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.24"]
+[Round "7"]
+[White "Shoosmith, Hector William"]
+[Black "John, Walter"]
+[Result "0-1"]
+[ECO "A84"]
+[PlyCount "68"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Bf4 c6 5. e3 Nf6 6. Nf3 Be7 7. Be2 O-O 8. h3 Ne4
+9. O-O Nd7 10. Qc2 Kh8 11. Rad1 Bf6 12. Ne1 Qe7 13. Bh2 g6 14. Nf3 Qg7 15. Qb3
+Rg8 16. Nxe4 dxe4 17. Ne1 c5 18. Nc2 e5 19. d5 g5 20. f3 exf3 21. gxf3 Qh6 22.
+Kg2 f4 23. Rh1 Nf8 24. Bg1 Ng6 25. e4 b6 26. Bf2 Nh4+ 27. Kf1 Bd7 28. Rh2 Nxf3
+29. Bxf3 g4 30. Ke2 gxf3+ 31. Qxf3 Be8 32. Kd3 Bh5 33. Qh1 Bxd1 34. Qxd1 Bh4
+0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.25"]
+[Round "8"]
+[White "Swiderski, Rudolf"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "52"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. c4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Ne4 7. Bxe7 Qxe7 8.
+cxd5 Nxc3 9. bxc3 exd5 10. Qb3 Rd8 11. c4 Be6 12. Qxb7 dxc4 13. Be2 Bd5 14. Qb5
+c6 15. Qa5 Nd7 16. O-O Nb6 17. Rfc1 Rd6 18. Ne5 Rh6 19. Bf1 Qh4 20. h3 f6 21.
+Ng4 Rg6 22. Rab1 h5 23. g3 Rxg4 24. e4 Bxe4 25. Kh2 Qg5 26. Qxg5 Rxg5 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.27"]
+[Round "9"]
+[White "Shoosmith, Hector William"]
+[Black "Lee, Francis Joseph"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[PlyCount "82"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. Bd3
+Bxd3 9. Qxd3 Ngf6 10. Bd2 e6 11. O-O-O Qc7 12. Rhe1 O-O-O 13. Qb3 Bd6 14. Ne2
+Ng4 15. Rf1 Qb6 16. Qa4 Qb5 17. Qxb5 cxb5 18. Nc3 a6 19. Ne4 Bc7 20. Kb1 Ngf6
+21. Rfe1 Nxe4 22. Rxe4 Nf6 23. Re2 Nd5 24. g3 Kb8 25. c3 Rc8 26. Ne1 Bd6 27.
+Nd3 Rc7 28. Rde1 Rhc8 29. Ne5 Bxe5 30. Rxe5 Ka7 31. a3 Nb6 32. Bf4 Rc6 33. Ka2
+Nd5 34. Bd2 Nb6 35. g4 Nc4 36. R5e2 Rd8 37. Bc1 Rd5 38. h5 a5 39. f4 Nb6 40.
+Kb3 Nd7 41. g5 Kb6 {.../76/} 1/2-1/2
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.28"]
+[Round "10"]
+[White "Shoosmith, Hector William"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "61"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Bd3 b6 7. Nf3 Bb7 8. cxd5
+exd5 9. O-O Nbd7 10. Qe2 Ne4 11. Bf4 a6 12. Rad1 Re8 13. Kh1 Nf8 14. Ne5 Ng6
+15. Nxg6 hxg6 16. f3 Nxc3 17. bxc3 c5 18. Bg3 Bf6 19. f4 cxd4 20. cxd4 Qe7 21.
+Rde1 b5 22. f5 gxf5 23. Rxf5 g6 24. Rf3 Rac8 25. Ref1 Rc6 26. Qf2 Bg7 27. Rxf7
+Qxe3 28. Rxg7+ Kxg7 29. Qf7+ Kh8 30. Bxg6 Rxg6 31. Qxg6 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.30"]
+[Round "11"]
+[White "Van Vliet, Louis"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C50"]
+[PlyCount "114"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. Be3 Bb6 7. Qd2 Be6 8. Bb5
+Ba5 9. a3 O-O 10. b4 Bb6 11. d4 exd4 12. Nxd4 Nxd4 13. Bxd4 d5 14. Bxb6 axb6
+15. exd5 Nxd5 16. O-O c6 17. Bd3 Nxc3 18. Qxc3 b5 19. Rfe1 Qb6 20. Qe5 Rfd8 21.
+Qh5 g6 22. Qh6 Qd4 23. Rad1 Qf6 24. Re4 Rxa3 25. Rh4 Qg7 26. Qg5 Rd7 27. Qf4
+Ra8 28. Qg3 Rd4 29. Re4 Rxe4 30. Bxe4 Qd4 31. Qd3 Qxb4 32. h3 Kg7 33. Qf3 Qb2
+34. Kh2 Qe5+ 35. g3 f5 36. Bd3 Bd5 37. Qe2 Qxe2 38. Bxe2 Rd8 39. c4 bxc4 40.
+Bxc4 Kf6 41. Kg1 Rd7 42. Be2 Ke5 43. f4+ Kd6 44. Kf2 b5 45. Rb1 Kc5 46. Rd1 Re7
+47. Bd3 b4 48. g4 b3 49. gxf5 gxf5 50. Bxf5 Rf7 51. Bg4 Rxf4+ 52. Ke3 Re4+ 53.
+Kd3 Rd4+ 54. Kc3 Rc4+ 55. Kxb3 Rxg4+ 56. Rxd5+ Kxd5 57. hxg4 Ke4 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.05.31"]
+[Round "12"]
+[White "Shoosmith, Hector William"]
+[Black "Perlis, Julius"]
+[Result "0-1"]
+[ECO "C49"]
+[PlyCount "118"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Qe7 9. Re1 Nd8 10. d4 Ne6 11. Bc1 c6 12. Bf1 Rd8 13. Rb1 Nf8 14. h3 Qc7
+15. c4 c5 16. d5 h6 17. Rb3 N6h7 18. Nh2 Ng6 19. Rg3 Qe7 20. Bd3 Qh4 21. Nf3
+Qf6 22. Nh2 Nf4 23. Bf1 Kh8 24. Rb3 g5 25. g3 Ng6 26. Kh1 Qg7 27. Rf3 Rf8 28.
+Qd3 Ne7 29. g4 Ng6 30. Rg3 Qf6 31. Rf3 Qe7 32. Qb3 Kg7 33. Be2 Rh8 34. Rg3 f6
+35. Reg1 Nhf8 36. Bd1 Nf4 37. Nf1 N8g6 38. Ne3 Kf7 39. Nf5 Qc7 40. Re1 b6 41.
+Kh2 Bd7 42. Rh1 h5 43. Kg1 Rh7 44. Kf1 Rah8 45. Rhg1 hxg4 46. Bxg4 Nh4 47. Nxh4
+Rxh4 48. Bxf4 exf4 49. R3g2 Rxh3 50. Bxh3 Bxh3 51. Ke1 Bxg2 52. Rxg2 Qe7 53. f3
+Qe5 54. c3 Kg6 55. Qc2 f5 56. Re2 Kf6 57. Kf1 Rh3 58. exf5 Rxf3+ 59. Kg2 Rxc3
+0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.01"]
+[Round "13"]
+[White "Billecard, Moritz"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C87"]
+[PlyCount "109"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 Bd7 7. Re1 Be7 8. c3
+O-O 9. h3 Re8 10. Nbd2 Bf8 11. Bc2 g6 12. Nf1 h6 13. Ng3 Bg7 14. Be3 Qe7 15.
+Qd2 Qf8 16. Nh2 exd4 17. cxd4 d5 18. e5 Nh7 19. a3 f5 20. f4 Ne7 21. Ne2 Qf7
+22. Rac1 Nf8 23. Bb3 Ne6 24. Nc3 c6 25. Rf1 Rab8 26. g4 Kh7 27. Kh1 Rg8 28. Ne2
+Bf8 29. Ng3 Ng7 30. Bc2 Be6 31. Rg1 Rd8 32. Bd3 Kh8 33. Rg2 Nc8 34. Rcg1 c5 35.
+gxf5 gxf5 36. Qd1 Na7 37. Be2 Qd7 38. Nh5 Nxh5 39. Rxg8+ Bxg8 40. Bxh5 c4 41.
+Bg6 Nc6 42. Bf2 Ne7 43. Bh4 Nxg6 44. Rxg6 Kh7 45. Rg3 Rc8 46. Bf6 Bf7 47. Qg1
+Be6 48. Nf3 Qf7 49. Kh2 c3 50. bxc3 Rc7 51. Qg2 Qe8 52. Nh4 b5 53. Kh1 Rb7 54.
+Nxf5 Bxf5 55. Rg8 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.03"]
+[Round "14"]
+[White "Shoosmith, Hector William"]
+[Black "Salwe, Georg"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[PlyCount "96"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8.
+Bxf6 gxf6 9. Nh4 c6 10. Bc4 f5 11. f4 d5 12. Bb3 exf4 13. exd5 Bxc3 14. bxc3
+Nxd5 15. Bxd5 Qxh4 16. Bb3 Re8 17. Qd2 Re3 18. Rf2 Bd7 19. Raf1 Rae8 20. Rxf4
+Qf6 21. Re4 R3xe4 22. dxe4 Bc8 23. exf5 b6 24. Bc4 Re5 25. Bd3 c5 26. Re1 Rxe1+
+27. Qxe1 Kf8 28. c4 Bxf5 29. Qe3 Bg6 30. Qh6+ Kg8 31. Qe3 Kg7 32. h3 Qd6 33.
+Kf2 Qf6+ 34. Ke2 h6 35. Qf3 Qe5+ 36. Kf2 h5 37. g3 Qd4+ 38. Ke2 Qd7 39. h4 Qd4
+40. Qe3 Qg4+ 41. Kd2 Qe6 42. Qf4 Qe7 43. a3 Qe6 44. Qg5 Qd6 45. Ke2 Qf6 46. Qd5
+Qe6+ 47. Kd2 Qf6 48. Ke2 Qe6+ 1/2-1/2
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.04"]
+[Round "15"]
+[White "Teichmann, Richard"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D30"]
+[PlyCount "61"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bf4 Bd6 5. Bg3 O-O 6. Nc3 c6 7. e3 Qe7 8. Bd3
+Nbd7 9. cxd5 exd5 10. Qc2 Re8 11. Bh4 Nf8 12. O-O-O b5 13. e4 Bf4+ 14. Kb1 b4
+15. e5 bxc3 16. exf6 gxf6 17. Rhe1 Be6 18. Qxc3 Rec8 19. Re2 Rab8 20. g4 Rb6
+21. g5 fxg5 22. Bxg5 Bxg5 23. Rg1 f6 24. h4 h6 25. hxg5 fxg5 26. Ne5 Qf6 27.
+Rg3 Rc7 28. Rf3 Qg7 29. Qc5 Nh7 30. Ka1 Bc8 31. Ng4 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.06"]
+[Round "16"]
+[White "Shoosmith, Hector William"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "0-1"]
+[ECO "C49"]
+[PlyCount "106"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Ne7 9. Bxf6 gxf6 10. Nh4 f5 11. f4 Ng6 12. Nxf5 Bxf5 13. exf5 Nxf4 14. g3
+Qg5 15. Qf3 c6 16. Bc4 d5 17. Bb3 Kh8 18. Rae1 f6 19. Kh1 Nh3 20. c4 d4 21. Qg2
+Qh5 22. Re4 Rg8 23. c5 Rg7 24. Qd2 Ng5 25. Rh4 Qe8 26. c3 dxc3 27. Qxc3 Rd8 28.
+Ra4 Rgd7 29. Bc2 a6 30. Rb4 Qf7 31. Bb3 Qe7 32. Bc2 Rd4 33. h4 Nf7 34. Rfb1
+R8d7 35. Rxd4 exd4 36. Qe1 Ne5 37. Qe4 Qxc5 38. Bb3 Rg7 39. Kg2 Qc3 40. Re1 h6
+41. Qf4 Kh7 42. Rxe5 fxe5 43. Qxe5 Qd2+ 44. Kh3 Qe3 45. Qf4 Qxf4 46. gxf4 Rg1
+47. f6 Kg6 48. f7 Kg7 49. h5 b5 50. f5 a5 51. Be6 c5 52. a4 bxa4 53. Bc4 a3 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.07"]
+[Round "17"]
+[White "Cohn, Erich"]
+[Black "Shoosmith, Hector William"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[PlyCount "84"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 Bd7 7. Re1 Be7 8. c3
+O-O 9. h3 h6 10. Nbd2 Re8 11. Nf1 Bf8 12. Bc2 g6 13. Ng3 Bg7 14. Be3 Kh7 15.
+Nh2 g5 16. Nh5 Nxh5 17. Qxh5 Qe7 18. Bb3 Rf8 19. h4 f6 20. hxg5 fxg5 21. Nf3
+Bf6 22. Rad1 Rad8 23. Nh2 Qg7 24. Ng4 Bxg4 25. Qxg4 exd4 26. cxd4 Nxd4 27. e5
+dxe5 28. Bxd4 exd4 29. Qe4+ Kh8 30. Qxb7 d3 31. Qxa6 Rd6 32. Qb5 Bd4 33. Re8
+Bxf2+ 34. Kh1 Rd4 35. Rxd3 Rh4+ 36. Rh3 Rxh3+ 37. gxh3 Bc5 38. Qe2 Qf6 39. Bd5
+Qf5 40. Rxf8+ Bxf8 41. Be6 Qf4 42. Bg4 Bd6 1/2-1/2
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.08"]
+[Round "18"]
+[White "Shoosmith, Hector William"]
+[Black "Cohn, Wilhelm"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[PlyCount "99"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 b6 5. Bg5 Be7 6. e3 O-O 7. cxd5 Nxd5 8.
+Bxe7 Qxe7 9. Bd3 Nxc3 10. bxc3 Bb7 11. O-O Nd7 12. e4 e5 13. d5 Nc5 14. Bc2
+Rad8 15. c4 Rd6 16. Qe1 Rh6 17. Qc3 Re8 18. Rfe1 Bc8 19. Re3 f6 20. Nd2 Rd8 21.
+Rae1 g5 22. Nf1 Kh8 23. Ng3 Rg8 24. Nf1 Rh4 25. Rg3 Rg6 26. Rge3 Qg7 27. g3 Rh3
+28. f3 Rgh6 29. g4 R6h4 30. Bd1 h5 31. gxh5 Rxh5 32. R1e2 R5h4 33. Rg2 Qh6 34.
+Qd2 Qf8 35. Rg3 Qd6 36. Re2 Nd7 37. Reg2 Qe7 38. Ne3 Nf8 39. d6 cxd6 40. Nd5
+Qf7 41. Qb4 Qe6 42. Ne3 Rxg3 43. hxg3 Rh7 44. Nf5 Qf7 45. Nxd6 Qe7 46. c5 bxc5
+47. Qxc5 Be6 48. Bb3 Qc7 49. Rc2 Qxc5+ 50. Rxc5 {.../60/} 1/2-1/2
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.10"]
+[Round "19"]
+[White "Blackburne, Joseph Henry"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+{Shoosmith defaulted through illness (The Field, 15 June 1907)}  1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.12"]
+[Round "20"]
+[White "Shoosmith, Hector William"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "66"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Nf6 4. Nbd2 c5 5. Be2 Nc6 6. O-O Qb6 7. c3 Be7 8. Bd3
+O-O 9. Qe2 Bd7 10. Ne5 Rad8 11. f4 Ne8 12. Rf3 f5 13. Rh3 Nf6 14. Ndf3 Ne4 15.
+Rb1 Be8 16. Bd2 Nxe5 17. Nxe5 Bf6 18. Be1 Bxe5 19. fxe5 Ng5 20. Rg3 Ne4 21. Rh3
+Rc8 22. Qf1 Rc7 23. Rf3 Bh5 24. Bxe4 dxe4 25. Rf2 g5 26. g3 cxd4 27. cxd4 Bf3
+28. Rd2 f4 29. Qf2 Qa6 30. a3 Qa4 31. h3 Qb3 32. exf4 gxf4 33. g4 Qd5 {This
+game was due to be played on 11 June but Shoosmith was given an extra day to
+recover from his illness and it was played on 12 June instead. (Info: The
+Field, 15 June 1907)} 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.13"]
+[Round "21"]
+[White "Duras, Oldrich"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C50"]
+[PlyCount "68"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+{"Shoosmith played a very fine game against Duras, winning the exchange and
+obtaining an overwhelming final attack" (The Field, 15 June 1907)} 1. e4 e5 2.
+Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. Be3 Bb6 6. Nc3 Nf6 7. h3 Be6 8. O-O h6 9. Bb5
+O-O 10. Bxc6 bxc6 11. d4 exd4 12. Nxd4 c5 13. Nde2 c6 14. f4 Bc4 15. Re1 d5 16.
+e5 Nd7 17. b3 Ba6 18. Bf2 $2 (18. Na4 $11) 18... Ba5 $1 19. Kh1 Bxe2 20. Nxe2
+Bxe1 21. Bxe1 Qe8 22. b4 f6 23. b5 fxe5 24. bxc6 Nb6 25. Ba5 Qxc6 26. fxe5 Nc4
+27. Bd2 Rf2 28. Bc1 Raf8 29. Ng1 d4 30. Qg4 h5 31. Qg3 h4 32. Qh2 Rxc2 33. e6
+Rff2 34. e7 Nd6 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.14"]
+[Round "22"]
+[White "Shoosmith, Hector William"]
+[Black "Von Scheve, Theodor"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "105"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. Nc3 Nf6 6. h3 Be6 7. Bb5 O-O 8. Bxc6
+bxc6 9. O-O Qd7 10. Be3 Bxe3 11. fxe3 Rab8 12. b3 h6 13. d4 exd4 14. exd4 Nh7
+15. d5 cxd5 16. exd5 Bf5 17. Nd4 Bg6 18. Nc6 Rbe8 19. Qd2 a6 20. Rf4 Nf6 21.
+Raf1 Kh7 22. Kh2 Ne4 23. Nxe4 Rxe4 24. Rxe4 Bxe4 25. c4 f5 26. Re1 Rf6 27. Re2
+Qe8 28. a4 Qg6 29. Qe3 Rf8 30. a5 Re8 31. Qg3 Qf6 32. Qe1 h5 33. Nb4 Qe5+ 34.
+Kg1 Qd4+ 35. Kh2 g5 36. Nxa6 g4 37. Nxc7 Rg8 38. Ne6 Qe5+ 39. Qg3 Qf6 40. h4
+Kh8 41. a6 Qa1 42. a7 Qxa7 43. Qc3+ Kh7 44. Ng5+ Kg6 45. Nxe4 fxe4 46. Rxe4 Qf2
+47. Re6+ Kf7 48. Qg3 Qf1 49. Rxd6 Ra8 50. Re6 Ra7 51. Qe5 g3+ 52. Qxg3 Qf5 53.
+Re3 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.15"]
+[Round "23"]
+[White "Mieses, Jacques"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "B14"]
+[Annotator "Saunders, John"]
+[PlyCount "82"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+{[%mdl 32768]} 1. e4 e5 2. d4 {Mieses remained faithful to the romantic
+openings of the 19th century, although ironically he outlived most of his
+hypermodern rivals. His handling of the opening in this game does not impress.}
+exd4 3. c3 d5 4. exd5 c6 5. cxd4 (5. Nf3 {may be better. After the text the
+symmetrical position doesn't seem to offer White much of an opening edge.})
+5... cxd5 6. Nc3 Nc6 7. Nf3 Nf6 8. Bd3 Be7 9. Ne5 O-O 10. O-O Ne8 {This, and
+Black's subsequent handling of the kingside defence, looks a bit odd.} 11. Be3
+g6 12. f4 Nxe5 13. fxe5 Be6 14. Ne2 ({Losing time. A more direct approach such
+as} 14. Bh6 Ng7 15. Qd2 Qb6 16. Qf2 f6 17. Qe3 Rf7 {leads to an edge for White,
+though perhaps Black can survive.}) 14... Ng7 15. Bh6 Bg5 16. Bxg5 Qxg5 17. Nf4
+Rac8 18. Rf2 $6 (18. Qf3 {, attacking the d-pawn and restraining the f6 push,
+looks better.}) 18... f6 $1 19. Qb3 $6 ({The computer indicates something like
+} 19. Qe2 {or 19.Qe1 to shore up the e5-pawn but White wants to mix things up
+a bit against one of the tournament back-markers.}) 19... fxe5 20. Nxe6 Nxe6
+21. Rxf8+ ({The immediate} 21. Qxd5 $5 {looks risky but may work out better
+after} Rc1+ 22. Rxc1 Qxc1+ 23. Rf1 Qe3+ 24. Kh1 Rxf1+ 25. Bxf1 exd4 26. g3 {
+, when White should regain his sacrificed and get good value from his bishop
+on the light squares.}) 21... Kxf8 22. Rf1+ Kg7 23. Qxb7+ Rc7 {[diag]} 24. Qxd5
+$2 ({A serious miscalculation. Instead} 24. Qa6 Qe3+ 25. Kh1 exd4 {leaves
+White worse but not yet lost.}) 24... Qe3+ 25. Kh1 Qxd3 26. Qxe5+ Kh6 27. Re1 {
+White must have relied on this move to save himself (or even to win) but there
+is a fatal flaw.} Rf7 $1 ({The back rank mate threat enables Black to retain
+his extra piece. Not} 27... Qc4 $2 28. b3 $1 {and White will be able to play
+Qxe6 to draw the game.} (28. Qxe6 $4 Qxe6 29. Rxe6 Rc1+ {mates})) 28. h4 Rf1+
+29. Rxf1 Qxf1+ 30. Kh2 Qf4+ 31. Qxf4+ Nxf4 32. b4 Kg7 33. b5 Ne2 34. a4 Nxd4
+35. g4 h6 36. Kg2 Kf6 37. Kf2 Ke5 38. Ke3 h5 39. g5 Kd5 40. Kd3 Kc5 41. Ke3
+Nf5+ {Source: Mega/Big Database; annotations by JS, CHESS, Aug 2017, p36} 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.17"]
+[Round "24"]
+[White "Shoosmith, Hector William"]
+[Black "Bernstein, Ossip"]
+[Result "0-1"]
+[ECO "B38"]
+[PlyCount "156"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 d6 7. Nc3 Nf6 8. Be2
+O-O 9. O-O Bd7 10. f3 Ne8 11. Qd2 Nc7 12. Rad1 Ne6 13. Nb3 Qb8 14. Nd5 Rd8 15.
+g4 Nc7 16. f4 Ne8 17. f5 e6 18. fxg6 hxg6 19. Nc3 Ne5 20. Nd4 Qc8 21. b3 Bc6
+22. Bg5 f6 23. Be3 g5 24. h4 gxh4 25. g5 Qd7 26. Bh5 Qe7 27. Rf2 fxg5 28. Bxg5
+Nf6 29. Bxh4 Rf8 30. Qe2 Be8 31. Bxe8 Qxe8 32. Bxf6 Qg6+ 33. Rg2 Qxf6 34. Rf1
+Qh6 35. Rxf8+ Rxf8 36. Nd1 Rf4 37. Nf2 Kf7 38. Qe3 a6 39. Kf1 Ng6 $2 40. Nxe6
+$1 Kxe6 41. Rxg6+ Qxg6 42. Qxf4 Ke7 43. Ng4 Qh5 44. Kg2 Be5 45. Qf5 Qh8 46. c5
+Bb2 47. cxd6+ Kxd6 48. Qd5+ Kc7 49. e5 Kb8 50. Kg3 Ba3 51. Qf7 Qc8 52. e6 Qc5
+53. Qf4+ Ka8 54. Qc4 Qf8 55. Qe4 Bd6+ 56. Kg2 Qg7 57. Kf3 Qa1 58. Ne3 Qxa2 59.
+Qd3 Qh2 60. Nf5 Qf4+ 61. Ke2 Qe5+ 62. Kd1 Bc5 63. Qd8+ Ka7 64. e7 Qa1+ 65. Kc2
+Qa2+ 66. Kc3 Qa1+ 67. Kc4 Qc1+ 68. Kd5 Bxe7 69. Qxe7 Qd1+ 70. Nd4 Qh1+ 71. Kc4
+Qc1+ 72. Kb4 Qd2+ 73. Kc4 Qc1+ 74. Kd5 Qh1+ 75. Kd6 Qh6+ 76. Kd7 Qh3+ 77. Kd8
+$4 (77. Qe6 $16) 77... Qh8+ 78. Kc7 Qxd4 {... etc} 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.18"]
+[Round "25"]
+[White "Marco, Georg"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C87"]
+[PlyCount "113"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 Bd7 7. c3 Be7 8. Re1
+O-O 9. Nbd2 Re8 10. Nf1 h6 11. h3 Bf8 12. Bc2 g6 13. d5 Ne7 14. c4 b6 15. Be3
+a5 16. b3 Bg7 17. a3 Rf8 18. b4 Ne8 19. c5 f5 20. c6 Bc8 21. bxa5 Rxa5 22. Bd2
+Ra8 23. N3h2 Kh7 24. f3 fxe4 25. fxe4 Nf6 26. Ng3 g5 27. a4 Ng6 28. Ra3 Qe8 29.
+Nh5 Nxh5 30. Qxh5 Nh4 31. Qxe8 Rxe8 32. a5 bxa5 33. Rxa5 Rxa5 34. Bxa5 Re7 35.
+Bd3 h5 36. Rb1 g4 37. Rb8 Bf5 38. hxg4 hxg4 39. Rb7 Bc8 40. Rxc7 Rxc7 41. Bxc7
+Bf8 42. Be2 g3 43. Nf1 Ng6 44. Nxg3 Nf4 45. Bb5 Kg6 46. Nf5 Nxd5 47. Bxd6 Bxd6
+48. Nxd6 Nc7 49. Nxc8 Nxb5 50. Kf2 Kf7 51. Nb6 Ke8 52. Nd5 Nd4 53. c7 Kd7 54.
+Kg3 Kc8 55. Kg4 Kd7 56. Kg5 Nc6 57. Kf6 1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.21"]
+[Round "27"]
+[White "Spielmann, Rudolf"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C53"]
+[PlyCount "83"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d4 Bb6 6. O-O d6 7. a4 a5 8. Be3
+Ba7 9. Na3 Nf6 10. Nb5 Bb8 11. dxe5 dxe5 12. b4 axb4 13. cxb4 Nxb4 14. Rc1 b6
+$2 15. Nd6+ $1 Qxd6 16. Qxd6 cxd6 17. Bd5 Nbxd5 18. Rxc8+ Ke7 19. Rxh8 Nxe4 20.
+Rc1 Nc5 21. a5 Nb3 22. Rb1 Nxa5 23. Bxb6 Nxb6 24. Rxb6 Bc7 25. Rxa8 Bxb6 26.
+Rb8 Bc7 27. Rg8 Kf6 28. g4 Bb6 29. h4 h6 30. g5+ hxg5 31. Nxg5 Kg6 32. Rb8 Bc7
+$2 (32... Nc4) 33. Rc8 Bb6 34. Rb8 Bc7 35. Rf8 f6 36. Ne6 Bb6 37. Rg8 Kf7 38.
+Rxg7+ Kxe6 39. h5 d5 $2 (39... e4 $1 40. h6 e3 41. Kf1 exf2 $1 42. Rb7 (42. h7
+Nc4 43. h8=Q Nd2+ 44. Ke2 f1=Q+ 45. Kxd2 $11) 42... Bd4 43. Rb4 Bc3 44. h7 f5
+$11) 40. h6 d4 41. h7 d3 42. h8=Q {Source: Belfast Newsletter, 25 July 1907}
+1-0
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.22"]
+[Round "28"]
+[White "Shoosmith, Hector William"]
+[Black "Forgacs, Leo"]
+[Result "0-1"]
+[ECO "C49"]
+[PlyCount "76"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6 8.
+Bg5 Qe7 9. Re1 Nd8 10. d4 Ne6 11. Bc1 c6 12. Bf1 Qc7 13. Rb1 Re8 14. Bd3 Nf8
+15. h3 Ng6 16. c4 h6 17. c3 a6 18. a4 d5 19. Qc2 dxe4 20. Bxe4 Nxe4 21. Qxe4 f5
+22. Qc2 e4 23. c5 Be6 24. Nh2 Bc4 25. Rb4 Qf7 26. Qb2 Re7 27. f3 a5 28. Rb6
+Rae8 29. f4 e3 30. g3 Bd5 31. Qe2 Nxf4 32. gxf4 Qg6+ 33. Ng4 fxg4 34. Qxg4 Qe4
+35. Kh2 h5 36. Qg3 Qc2+ 37. Kg1 h4 38. Qh2 Qf2+ 0-1
+
+[Event "Ostende B"]
+[Site "Ostende"]
+[Date "1907.06.24"]
+[Round "29"]
+[White "Tartakower, Saviely"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C24"]
+[PlyCount "75"]
+[EventDate "1907.05.16"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "BEL"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3 O-O 8.
+O-O-O d6 9. Rhe1 Nc6 10. Qh4 Bf5 11. Rxe7 Nxe7 12. Bxf6 gxf6 13. Re1 Ng6 14.
+Qh6 c6 15. g4 Bxg4 16. Rg1 d5 17. Bd3 Bxf3 18. Bxg6 fxg6 19. Rxg6+ Kf7 20. Rg7+
+Ke6 21. Qe3+ Be4 22. Nxe4 dxe4 23. Qxe4+ Kd6 24. c4 f5 25. Qd4+ Ke6 26. Qe3+
+Kf6 27. Qc3+ Ke6 28. Qe3+ Kf6 29. Qc3+ Ke6 30. f4 Qf6 31. Qe3+ Kd6 32. c5+ Kd5
+33. Rd7+ Kc4 34. Qb3+ Kxc5 35. Qa3+ Kb6 36. Qb4+ Ka6 37. Qxb7+ Ka5 38. Rd3 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.12"]
+[Round "1"]
+[White "Shoosmith, Hector William"]
+[Black "Michell, Reginald Pryce"]
+[Result "1/2-1/2"]
+[PlyCount "1"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 {... etc. "Michell and Shoosmith were both pressed for time, and were
+guilty of omissions in consequence. In the end Shoosmith drew by perpetual
+check, Michell having Q and B against Q." (The Field, 17 Aug 1907)} 1/2-1/2
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.13"]
+[Round "2"]
+[White "Shoosmith, Hector William"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "C49"]
+[PlyCount "73"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 h6 9. Bh4 Qe7 10. h3 Nd8 11. Re1 c6 12. Bc4 Be6 13. Bb3 Bxb3 14. cxb3 Ne6
+15. d4 g5 16. Bg3 Nf4 17. Bxf4 gxf4 18. Nh4 Nxe4 19. Rxe4 Qxh4 20. dxe5 d5 21.
+Rb4 Rfe8 22. Qf3 Rxe5 23. Rxb7 h5 24. Rb4 Rf5 25. Ra4 Qf6 26. Rd1 a5 27. Rdd4
+Ra7 28. Rxf4 Rxf4 29. Rxf4 Qg6 30. Rf6 Qb1+ 31. Kh2 Qxa2 32. Qxh5 Qxb3 33. Qg5+
+Kf8 34. Rxc6 Qb8+ 35. g3 a4 36. Rh6 f6 37. Qxf6+ {"and wins". Source: Burnley
+Gazette, 7 Sept 1907} 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.14"]
+[Round "3"]
+[White "Kelly, Thomas J"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[PlyCount "4"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... etc. Won in 24 moves. "Some excitement... was caused by
+Kelly beating Shoosmith before the midday adjournment. The latter, having been
+short of time, lost in a complicated skirmish the exchange, and remained with
+an otherwise disorganised position." (The Field, 17 Aug 1907)} 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.15"]
+[Round "4"]
+[White "Shoosmith, Hector William"]
+[Black "Ward, William"]
+[Result "1-0"]
+[PlyCount "1"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 {... etc. "Shoosmith was two pawns ahead, and won a third, but queen and
+two rooks each being on the board it required some time to make the advantage
+available. He won, however, ultimately." (The Field, 17 Aug 1907)} 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.16"]
+[Round "5"]
+[White "Blake, Joseph Henry"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C27"]
+[PlyCount "91"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 d6 5. f4 Nc6 6. f5 Na5 7. Qf3 c6 8. Bg5 b5
+9. Bb3 Nxb3 10. axb3 Bb7 11. Nge2 Qe7 12. Ng3 O-O-O 13. Nh5 h6 14. Bh4 Rdg8 15.
+Ne2 d5 16. Neg3 Bb6 17. Nxf6 gxf6 18. Nh5 Rg5 19. Bxg5 hxg5 20. O-O-O Kb8 21.
+h4 Rg8 22. Ng3 g4 23. Qe2 Qf8 24. Qd2 Qc5 25. Nh5 Qe7 26. Qh6 Bd8 27. Kb1 d4
+28. Qd2 a5 29. Ng3 c5 30. h5 a4 31. bxa4 bxa4 32. h6 Qe8 33. Ka2 Qb5 34. h7 Rh8
+35. Qh6 c4 36. Qg7 Qe8 37. Nh5 cxd3 38. cxd3 a3 39. Nxf6 Bxf6 40. Qxf6 axb2 41.
+Qd6+ Ka8 42. Qb4 f6 43. Kxb2 Qd7 44. Ra1+ Kb8 45. Qb6 g3 46. Rhc1 {Source: BCM,
+Oct 1907, p474} 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.17"]
+[Round "6"]
+[White "Shoosmith, Hector William"]
+[Black "Palmer, Wilfred Charles"]
+[Result "1-0"]
+[PlyCount "1"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 {... etc. "Palmer was lured into a pawn capture, which got his queen in
+difficulties. Shoosmith won the exchange and the rest was plain sailing." (The
+Field, 24 1907)} 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.19"]
+[Round "7"]
+[White "Holmes, Harry"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D32"]
+[PlyCount "43"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 d4 6. Qa4+ Nc6 7. Nb5 Bxc5 8.
+Bf4 Bb4+ 9. Kd1 Ba5 10. Nf3 Bb6 11. g3 f6 12. h4 Kf8 13. Bg2 Nge7 14. Nd2 Be6
+15. Rc1 h6 $2 (15... Bd5) 16. Nd6 Qd7 17. N2c4 Bd8 18. Qb5 Rb8 19. Ne4 Bxc4 20.
+Qxc4 b5 21. Nc5 Qc8 22. Qe6 {Sources: London Daily News, 23 August 1907; The
+Field, 24 Aug 1907; Illustrated London News, 26 Oct 1907; Yearbook of Chess
+1908} 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.20"]
+[Round "8"]
+[White "Shoosmith, Hector William"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[PlyCount "4"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... etc. "Shoosmith won the exchange and had a great attack
+with queen and rook behind his opponent's pawns. By an oversight, however, he
+allowed Sergeant to score a winning position." (The Field, 24 Aug 1907)} 0-1
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.21"]
+[Round "9"]
+[White "Wainwright snr, George Edward"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[PlyCount "1"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 {... etc. "Wainwright, continuing to show indifferent form, lost pawns
+on the queen's side, and endeavoured to work up an attack on the other side.
+This was easily countered, and Wainwright, losing a piece, resigned." (The
+Field, 24 Aug 1907)} 0-1
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.22"]
+[Round "10"]
+[White "Shoosmith, Hector William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[ECO "A85"]
+[Annotator "Saunders, John"]
+[PlyCount "47"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+{[%mdl 32768]} 1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 Bd6 $6 {The Manchester
+Guardian (23 Aug 1907) referred to "out of the way" defence in this game and
+they were perhaps referring to this dubious move.} 5. Bd3 O-O 6. f4 b6 7. Nf3
+Bb7 8. Bd2 h6 9. Qe2 Ne4 10. O-O-O {[diag] Shoosmith's published reputation as
+a player was for being an attacking player, and there is some evidence of it
+here. His plan is direct: to castle queenside and then conduct an offensive
+against Black's king.} a5 $6 ({Having already lost time with 4...Bd6, he
+cannot really afford this. Perhaps} 10... Nxd2 11. Qxd2 Bb4 12. Rhg1 d6 {
+is some sort of a defensive set-up.}) 11. Rhg1 Bb4 12. g4 {Black's position is
+already critical, arguably beyond the point of no return since he has no
+viable counterplay.} Qe7 13. Bxe4 fxe4 14. Ne5 Qe8 15. g5 d6 {[diag]} 16. gxh6
+$1 {Not a particularly difficult sacrifice to calculate but as the culmination
+of some brisk play by White, deserves an exclamation mark.} dxe5 17. Rxg7+ Kh8
+18. Qg4 Qf7 ({One wonders why Blackburne prolongs his suffering. Perhaps he
+didn't want to see headlines announcing how he had "lost in fewer than 20
+moves".} 18... Rg8 19. Rg1 Nd7 20. h7 {was crushing.}) 19. Rxf7 Rxf7 20. Qg6
+Re7 21. Qf6+ Kh7 22. Rg1 Nd7 23. Rg7+ Kh8 24. Qg6 {Sources: Yorkshire Post and
+Leeds Intelligencer, 23 Aug 1907; Sheffield Daily Telegraph, 23 Aug 1907 
+(mistitled as Shoosmith-Mackenzie); Birmingham Daily Post, 23 Aug 1907;
+Belfast Newsletter, 23 Aug 1907; London Daily News, 29 Aug 1907; annotations
+by JS, CHESS, Aug 2017, p36} 1-0
+
+[Event "GBR-ch 4th"]
+[Site "Crystal Palace"]
+[Date "1907.08.23"]
+[Round "11"]
+[White "Atkins, Henry Ernest"]
+[Black "Shoosmith, Hector William"]
+[Result "1/2-1/2"]
+[PlyCount "5"]
+[EventDate "1907.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... etc. "Atkins and Shoosmith played through the
+opening, and drew on the 22nd move in an equal position, with very little
+remaining." (The Field, 31 Aug 1907)} 1/2-1/2
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.10"]
+[Round "1"]
+[White "Shoosmith, Hector William"]
+[Black "Blake, Joseph Henry"]
+[Result "1-0"]
+[ECO "A46"]
+[PlyCount "93"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. c4 Nf6 5. Nc3 Nc6 6. a3 a6 7. Bd3 dxc4 8. Bxc4
+b5 9. Bd3 Bb7 10. dxc5 Bxc5 11. O-O O-O 12. b4 Bd6 13. Bb2 Qe7 14. Qe2 Rad8 15.
+Rac1 Bb8 16. Ne4 Nxe4 17. Bxe4 Na5 18. Bxb7 Nxb7 19. Nd4 Rd5 20. g3 e5 21. Nf5
+Qg5 22. g4 h5 23. h4 Qf6 24. Rc6 Qd8 25. Qf3 Kh7 26. gxh5 g6 27. hxg6+ fxg6 28.
+Qg2 Rg8 29. Ne7 Qxe7 30. Qxd5 Qxh4 31. Qg2 e4 32. Rd1 Nd8 33. Rd7+ Kh6 34. Bf6
+Qh2+ 35. Qxh2+ Bxh2+ 36. Kxh2 Nxc6 37. Rb7 Nb8 38. Kg3 g5 39. Bd4 Kg6 40. Kg4
+Rd8 41. Rb6+ Kf7 42. Kxg5 Re8 43. Kf5 Kg8 44. Rh6 Kf8 45. Rh8+ Ke7 46. Rxe8+
+Kxe8 47. Kxe4 {Source: BCM 1908, p380} 1-0
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.11"]
+[Round "2"]
+[White "Palmer, Wilfred Charles"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D61"]
+[PlyCount "53"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 Re8 8. Rd1
+c6 9. Bd3 Nf8 10. O-O Nh5 11. Bxe7 Qxe7 12. Rfe1 b6 13. e4 dxc4 14. Bxc4 Bb7
+15. e5 Nf4 16. Qd2 N4g6 17. Qe3 Red8 18. Ne4 Rd7 19. Nd6 Rad8 20. Ng5 Nh8 21.
+f4 Ba8 22. f5 h6 23. Nge4 exf5 24. Nxf5 Qb4 25. Qxh6 Ne6 26. Nxg7 Qxc4 27. Nf6+
+{Source: BCM 1908, p384} (27. Nf6+ {Chess Amateur, Sept 1908 gives the
+additional moves} Kf8 28. Qxh8+) 1-0
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.12"]
+[Round "3"]
+[White "Shoosmith, Hector William"]
+[Black "Gunsberg, Isidor"]
+[Result "0-1"]
+[ECO "A85"]
+[PlyCount "68"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. e3 b6 5. Bd3 Bb7 6. f3 g6 7. Nge2 Bg7 8. O-O
+O-O 9. e4 Nh5 10. Be3 f4 11. Bf2 Nc6 12. Rc1 e5 13. d5 Ne7 14. c5 g5 15. d6
+cxd6 16. cxb6 axb6 17. Qb3+ Kh8 18. Bxb6 Qb8 19. Bf2 Nf6 20. Nb5 Ba6 21. a4 g4
+22. Qa3 gxf3 23. gxf3 Rg8 24. Nxd6 Bf8+ 25. Kh1 Ng6 26. Bc5 Bxd3 27. Qxd3 Qxb2
+28. Rb1 Qa2 29. Nc3 Qe6 30. Rb6 Qh3 31. Rg1 Bxd6 32. Rxd6 Nh4 33. Qe2 Rxg1+ 34.
+Bxg1 Nh5 {"and wins" Source: BCM 1908, p391; Shipley Times and Express, 16
+October 1908} 0-1
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.13"]
+[Round "4"]
+[White "Atkins, Henry Ernest"]
+[Black "Shoosmith, Hector William"]
+[Result "1/2-1/2"]
+[ECO "C46"]
+[PlyCount "96"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. Bb5 Nge7 5. O-O O-O 6. d4 exd4 7. Nxd4 d6 8.
+Bg5 Nxd4 9. Qxd4 Bc5 10. Qd2 c6 11. Bd3 f6 12. Bh4 Be6 13. Na4 Bb6 14. Nxb6
+Qxb6 15. b3 Rad8 16. Kh1 Ng6 17. Bg3 d5 18. exd5 Bxd5 19. Qc3 f5 20. f3 Kh8 21.
+Bf2 Qc7 22. Rad1 b6 23. Qb2 c5 24. c4 Bc6 25. Qc2 Qf4 26. Be2 Qg5 27. Rxd8 Rxd8
+28. Rd1 Re8 29. Qd2 Qf6 30. Kg1 h6 31. Kf1 Kh7 32. Bd3 Ne5 33. Be2 f4 34. Rc1
+Kg8 35. Be1 Kf7 36. Qc2 Qg5 37. Bc3 Re6 38. Bd1 Rd6 39. Qe2 Nd7 40. Bc2 Re6 41.
+Qf2 Qe7 42. Re1 Rxe1+ 43. Qxe1 Qxe1+ 44. Bxe1 Ne5 45. Bc3 Ke6 46. Kg1 h5 47. h3
+g5 48. Kf1 h4 {Source: BCM 1908, p393} 1/2-1/2
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.14"]
+[Round "5"]
+[White "Shoosmith, Hector William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[Annotator "Saunders, John"]
+[PlyCount "106"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 c5 2. e3 e6 3. Nf3 Nf6 4. Bd3 b6 5. O-O Bb7 6. Nbd2 Nc6 7. b3 Rc8 8. a3
+cxd4 9. exd4 Be7 10. Bb2 O-O 11. Re1 Nd5 12. c4 Nf4 13. Bf1 d5 14. Rc1 Bf6 15.
+c5 bxc5 16. Rxc5 Be7 17. Rc2 Qb6 18. g3 Ng6 19. b4 Nb8 20. Nb3 Bc6 21. Qc1 Bd7
+22. Nc5 Bc6 23. Qd2 Bb5 24. Bxb5 Qxb5 25. a4 Qb6 26. Rec1 Rfd8 27. Ba3 Nc6 28.
+b5 Na5 29. Bb4 Nc4 30. Qe1 Qb8 31. Nd2 Nxd2 32. Bxd2 Bxc5 33. Rxc5 Rxc5 34.
+Rxc5 e5 35. Ba5 Re8 36. Bc7 exd4 37. Qd1 Qc8 38. Qxd4 Qh3 39. Rc1 $2 ({Having
+thoroughly outplayed his illustrious opponent to here, Shoosmith starts to
+waver:} 39. Ba5 $1 {defends against the mate in one and also gets ready to
+threaten a mate of his own with Bc3, plus occupying the seventh rank with Rc7.
+Black has no good reply.}) 39... Qe6 $2 ({Blackburne misses a cheapo chance.
+Instead,} 39... Qd7 $1 {, hoping for} 40. Qxa7 $2 Nf4 $1 {when White has
+nothing better than to allow the perpetual check after} 41. gxf4 Qg4+ {, etc.})
+40. Kg2 $2 ({After Black's poor last move, there seems to be no good reason
+why White shouldn't now play} 40. Qxa7 {. Putting his king on g2 makes little
+sense - JS}) 40... h5 41. h4 Qf5 42. Rc5 Re2 43. Rxd5 $2 ({Black has a
+comfortable draw after this. At first sight the plan of} 43. Bb8 Ne7 44. Bxa7 {
+seems good but in fact} Re1 $1 {, followed by Qb1, should be enough to draw
+for Black.}) ({However, White could instead play} 43. Bd6 {, keeping up the
+pressure.}) 43... Rxf2+ 44. Qxf2 Qxd5+ 45. Kh2 Qc4 46. Qxa7 Qe2+ 47. Kg1 Qe1+
+48. Kg2 Qe4+ 49. Kf1 Qd3+ 50. Ke1 Qc3+ 51. Ke2 Qc2+ 52. Ke3 Qc3+ 53. Ke2 Qc2+ {
+Source: BCM 1908, p446} 1/2-1/2
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.15"]
+[Round "6"]
+[White "Mackenzie, Arthur John"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "71"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 c5 2. e3 d5 3. dxc5 e6 4. c4 Bxc5 5. Nf3 Nf6 6. Nc3 O-O 7. Be2 Nc6 8. O-O
+a6 9. a3 Bd6 10. b4 dxc4 11. Bxc4 b5 12. Ba2 Bb7 13. Bb2 Qe7 14. Qe2 Rac8 15.
+Rac1 Bb8 16. Rfd1 Ng4 17. Nb1 Nh6 18. Nbd2 Nf5 19. Bb1 Nd6 20. Nb3 Nc4 21. Nc5
+N6e5 22. Nxe5 Rxc5 23. bxc5 Nxb2 24. Qxb2 Bxg2 25. f4 Ba8 26. c6 Ba7 27. Qe2
+Qxa3 28. Kf2 Qe7 29. Qg4 Qa3 30. Qg3 Qb2+ 31. Rc2 Qb3 32. Rcd2 Bb6 33. Nd7 Ba5
+34. Bxh7+ Kxh7 35. Qh3+ Kg8 36. Nf6+ {Source: BCM 1908, p452} 1-0
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.17"]
+[Round "7"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C90"]
+[PlyCount "52"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+b4 9. a5 O-O 10. d4 Nxd4 11. Nxd4 exd4 12. Qxd4 c5 13. Qd3 Bb7 14. Bd5 Nxd5 15.
+exd5 Bf6 16. Nd2 Re8 17. Rxe8+ Qxe8 18. Nc4 Bxd5 19. Ne3 Bc6 20. Bd2 Bxb2 21.
+Re1 Qd7 22. Nc4 Bd4 23. Qg3 Re8 24. Nxd6 Rxe1+ 25. Bxe1 Qe6 26. Ne4 Qxe4 {
+Sources: The Scotsman, 18 Aug 1908; BCM 1908, p455} 0-1
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.18"]
+[Round "8"]
+[White "Shoosmith, Hector William"]
+[Black "Lean, Richard Edward"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "89"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Bg4 4. Be2 e6 5. O-O Nf6 6. Nbd2 cxd4 7. exd4 Bd6 8.
+c3 Nc6 9. Re1 Rc8 10. Nf1 Ne4 11. N3d2 Bxe2 12. Qxe2 Nf6 13. Nf3 O-O 14. Bg5
+Qc7 15. Ng3 Bxg3 16. hxg3 Ne4 17. Bf4 Qe7 18. Nh2 Nd8 19. f3 Nf6 20. g4 Nd7 21.
+Qf2 f6 22. Re2 Re8 23. Rae1 Nf8 24. Nf1 Rc6 25. Bh2 Nf7 26. Ne3 Qd7 27. f4 e5
+28. dxe5 fxe5 29. fxe5 Nxe5 30. Nf5 Nxg4 31. Qf4 Rxe2 32. Rxe2 Rf6 33. Qxg4
+Rxf5 34. Qd4 Qf7 35. Re1 b6 36. Qe3 Ne6 37. Bd6 Rf6 38. Qe5 Nc5 39. Bxc5 bxc5
+40. Qb8+ Qf8 41. Re8 Rf1+ 42. Kh2 d4 43. cxd4 cxd4 44. Rxf8+ Rxf8 45. Qd6 {
+Source: BCM 1908, p501} 1-0
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.19"]
+[Round "9"]
+[White "Michell, Reginald Pryce"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "D37"]
+[PlyCount "45"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Bf4 Nf6 4. e3 Nbd7 5. Nc3 e6 6. Nf3 Be7 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. Ne5 a6 12. Qf3 Qb6 13. Qh3 Rad8 14. Bg5 g6 15.
+Qh4 Nxe5 16. dxe5 Nd5 17. Bxe7 Nxe7 18. Ne4 h5 19. Qxe7 Rxd3 20. Nf6+ Kg7 21.
+Nd7 Rxd7 22. Qxd7 Rd8 23. Qe7 {"and wins" Source: BCM 1908, p501} 1-0
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.20"]
+[Round "10"]
+[White "Shoosmith, Hector William"]
+[Black "Ward, William"]
+[Result "1-0"]
+[ECO "D61"]
+[PlyCount "63"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c6 8. Rd1
+h6 9. Bh4 dxc4 10. Bxc4 Nd5 11. Bg3 N7b6 12. Be2 Bd6 13. Ne5 Nxc3 14. bxc3 Qe7
+15. O-O Nd7 16. f4 Rd8 17. Bh5 Bxe5 18. fxe5 Rf8 19. Rf2 Qg5 20. Qe2 g6 21. Bf3
+Kg7 22. Rdf1 Nb6 23. c4 Bd7 24. Be4 Qe7 25. Rf6 Qa3 26. Qf3 Be8 27. c5 Nd7 28.
+Bf4 Rh8 29. Bg5 $1 Nxf6 30. Qxf6+ Kh7 31. Bxg6+ fxg6 32. Qe7+ {Sources: The
+Scotsman, 21 Aug 1908; Belfast Newsletter, 21 Aug 1908; Morning Post, 24 Aug
+1908; BCM 1908, p545; Times Literary Supplement, 12 Nov 1908} 1-0
+
+[Event "GBR-ch 5th"]
+[Site "Tunbridge Wells"]
+[Date "1908.08.21"]
+[Round "11"]
+[White "Lee, Francis Joseph"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "A43"]
+[PlyCount "167"]
+[EventDate "1908.08.10"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 c5 2. d5 g6 3. e4 d6 4. Bd3 Bg7 5. c3 Nf6 6. f3 e6 7. c4 Na6 8. Nc3 Nh5
+9. Be3 f5 10. Nge2 e5 11. a3 Nc7 12. Qc2 f4 13. Bf2 g5 14. g4 Nf6 15. h4 h6 16.
+hxg5 hxg5 17. Kd2 Kf7 18. Rag1 Bd7 19. Qd1 Qe7 20. Rxh8 Rxh8 21. Rh1 Qe8 22.
+Qg1 Rg8 23. Qd1 a6 24. Ng1 Rh8 25. Nh3 Kg6 26. Rh2 Rh7 27. Qh1 Qh8 28. Be2 Nce8
+29. Bg1 Nc7 30. Nf2 Rxh2 31. Qxh2 Qxh2 32. Bxh2 Kf7 33. Nh3 Bh6 34. Bg1 Ke7 35.
+b4 b6 36. Bd1 Kd8 37. Kc2 Kc8 38. Kb3 Kb7 39. Nf2 Bf8 40. Nd3 Be8 41. a4 a5 42.
+bxc5 bxc5 43. Nb5 Na6 44. Bf2 Bg6 45. Be1 Kb6 46. Ka3 Ne8 47. Bc3 Nb4 48. Nc1
+Nf6 49. Kb3 Nxe4 50. fxe4 Bxe4 51. Be1 Nxd5 52. cxd5 Bxd5+ 53. Kc3 Bc6 54. Na3
+d5 55. Kb2 c4 56. Bc3 Bd6 57. Ne2 Bd7 58. Ng1 Bxa3+ 59. Kxa3 d4 60. Be1 e4 61.
+Nh3 e3 62. Nxg5 d3 63. Ne4 Bc6 64. Nc3 f3 65. Bxf3 Bxf3 66. g5 d2 67. Bxd2 exd2
+68. g6 Kc5 69. g7 Bd5 70. Kb2 Bf7 71. Kc2 Kb4 72. Kxd2 Kb3 73. Ne4 Bg8 74. Nc5+
+Kb4 75. Ne4 Kb3 76. Nc5+ Kb2 77. Ne4 Bh7 78. Nc3 Kb3 79. Nd5 Kxa4 $4 (79... Kb2
+$11) 80. Nf6 Kb3 81. Nxh7 Kb2 82. g8=Q c3+ 83. Kd3 c2 84. Qg2 {Source: BCM
+1908, p549} 1-0
+
+[Event "GBR-ch 6th First Class C"]
+[Site "Scarborough"]
+[Date "1909.08.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Heastie, Basil"]
+[Result "1-0"]
+[ECO "D53"]
+[PlyCount "57"]
+[EventDate "1909.08.09"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Nbd7 5. e3 Be7 6. Nc3 a6 7. Rc1 b6 8. Bd3
+Bb7 9. O-O Rc8 10. Qe2 dxc4 11. Bxc4 b5 12. Bb3 O-O 13. Rfd1 Ne4 14. Nxe4 Bxe4
+15. Bf4 Bd6 16. Ne5 Bxe5 17. dxe5 Qe7 18. Rd4 Bg6 19. Qd2 Nb8 20. Bd1 Rfd8 21.
+Bf3 Rxd4 22. exd4 c6 23. h4 h6 24. h5 Bh7 25. Rc3 Qd7 26. Be2 Rd8 27. Bxh6 gxh6
+28. Qxh6 Kh8 29. Rg3 {Source: BCM 1910, p170} 1-0
+
+[Event "GBR-ch 6th First Class C"]
+[Site "Scarborough"]
+[Date "1909.08.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Price, Hubert Ernest"]
+[Result "1-0"]
+[ECO "D05"]
+[PlyCount "57"]
+[EventDate "1909.08.09"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. b3 cxd4 6. exd4 Nc6 7. O-O Bd7 8. c4
+Bd6 9. a3 Rc8 10. c5 Bb8 11. b4 a6 12. Re1 O-O 13. Bb2 Nh5 14. Ne5 Nxe5 15.
+Bxh7+ Kxh7 16. Qxh5+ Kg8 17. dxe5 Be8 18. Qg4 b6 19. cxb6 Qxb6 20. Bd4 Qb7 21.
+Nd2 Ba4 22. Bc5 Rfe8 23. Rac1 Ba7 24. Nf3 Bxc5 25. bxc5 Bb5 26. Rc3 Qd7 27. Ng5
+d4 28. Rg3 d3 29. Nh7 {Source: BCM 1909 p511} 1-0
+
+[Event "GBR-ch 6th First Class C"]
+[Site "Scarborough"]
+[Date "1909.08.??"]
+[Round "?"]
+[White "Shoosmith, Hector William"]
+[Black "Regan, William Henry"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "81"]
+[EventDate "1909.08.09"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2017.07.08"]
+[SourceVersion "1"]
+[SourceVersionDate "2017.07.08"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 a6 4. Bd3 Nf6 5. O-O c5 6. b3 Nc6 7. Bb2 cxd4 8. exd4
+Bd6 9. Nbd2 Nb4 10. Be2 b5 11. a3 Nc6 12. Bd3 Bb7 13. Re1 Ne7 14. b4 Qc7 15.
+Nb3 Ng6 16. Nc5 Nf4 17. Bf1 Ng4 18. g3 h5 19. Nxb7 Qxb7 20. gxf4 Bxf4 21. h3
+Qe7 22. Bg2 Nf6 23. Bc1 Bd6 24. Ne5 Qc7 25. Bd2 Rc8 26. c3 Nd7 27. Nxd7 Kxd7
+28. a4 Qc6 29. Qf3 f6 30. axb5 axb5 31. Qe2 Bc7 32. c4 bxc4 33. b5 Qd6 34. Bf4
+e5 35. Ra6 Qb4 36. Bxd5 g5 37. Bc1 Ba5 38. Bc6+ Ke7 39. Rd1 Rcd8 40. Ra7+ Kf8
+41. Qf3 {Source: BCM 1909 p510} 1-0
+

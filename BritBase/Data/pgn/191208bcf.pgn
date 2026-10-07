@@ -1,0 +1,2829 @@
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "Crakanthorp, Spencer"]
+[Black "Billings, Samuel Walter"]
+[Result "1-0"]
+[ECO "C90"]
+[PlyCount "117"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. Be3 O-O 12. Nbd2 Bg4 13. Rc1 Rad8 14. Nb1 d5 15.
+h3 Bxf3 16. Qxf3 dxe4 17. Qg3 Nh5 18. Qxe5 Qxe5 19. dxe5 Nc4 20. Bd1 Nxe3 21.
+fxe3 g6 22. Bxh5 gxh5 23. Red1 h4 24. Kf2 Rd3 25. Rxd3 exd3 26. c4 Rd8 27. Ke1
+Kg7 28. Kd2 Kg6 29. Rc3 b4 30. Rxd3 Kf5 31. Rxd8 Bxd8 32. Ke2 Kxe5 33. Kf3 f5
+34. Nd2 h5 35. Nb3 Bb6 36. Nc1 a5 37. Nd3+ Kf6 38. Nf4 Kg5 39. Nd5 Ba7 40. e4
+Bb8 41. Ne7 f4 42. Nc6 Bc7 43. b3 Kf6 44. e5+ Kf5 45. e6 Kxe6 46. Ke4 Kd7 47.
+Ne5+ Ke6 48. Ng6 Kf6 49. Nxf4 Bxf4 50. Kxf4 Kg6 51. Ke5 Kg5 52. Ke4 Kf6 {
+Source: Cheltenham Examiner, 22 August 1912 ("and a few moves later Black
+resigned")} 53. Kd5 Kf5 54. Kxc5 Kf4 55. Kb5 Kg3 56. c5 Kxg2 57. c6 Kxh3 58. c7
+Kg2 59. c8=Q {'... and wins.' Source: Sydney Mail, 2 Oct 1912} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "Griffith, Richard Clewin"]
+[Black "Gibson, William"]
+[Result "1-0"]
+[ECO "A40"]
+[PlyCount "81"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. e3 c5 3. Nf3 e6 4. Bd3 Nf6 5. O-O Nc6 6. b3 cxd4 7. exd4 Bd6 8. Bb2
+O-O 9. Ne5 Nb4 10. Be2 Qc7 11. c4 Rd8 12. Nd2 Ne4 13. Nef3 f5 14. c5 Bf4 15. g3
+Bh6 16. a3 Nc6 17. b4 Ne7 18. Nxe4 dxe4 19. Ne5 Nd5 20. Bc4 Bd7 21. Qb3 Be8 22.
+Rfe1 Qe7 23. f3 exf3 24. Qxf3 Qf6 25. Re2 Qg5 26. Bc1 Qh5 27. Bxh6 Qxh6 28. Qf2
+Bh5 29. Nf3 Rf8 30. Rae1 Rae8 31. Rxe6 Rxe6 32. Bxd5 Bf7 33. Bxe6 Bxe6 34. Qe3
+Qxe3+ 35. Rxe3 Bd5 36. Nd2 f4 37. Re5 Bc6 38. d5 Bb5 39. Re7 fxg3 40. hxg3 Re8
+41. Rxe8+ {"And wins." Source: Alderley and Wilmslow Advertiser, 23 August
+1912. Contributed by Brian Denman, 6 April 2021.} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "Jacobs, Herbert Levi"]
+[Black "Yates, Fred Dewhirst"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. f4 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "Michell, Reginald Pryce"]
+[Black "Cole, Harold Godfrey"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[PlyCount "8"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "Uber, Henry Bernard"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+[PlyCount "97"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nb8 14. Nf1 Nbd7 15. g4
+Nb6 16. Ng3 Rd8 17. Kh1 Nbd7 18. Rg1 Nf8 19. Be3 g6 20. Qd2 Ne8 21. Rg2 Bf6 22.
+Rag1 Bg7 23. Bh6 Bxh6 24. Qxh6 f6 25. Nh4 g5 26. Nhf5 Ng6 27. h4 gxh4 28. Nh5
+Qf7 29. f3 Qf8 30. Qe3 Ra7 31. g5 Bxf5 32. exf5 Nf4 33. Nxf4 exf4 34. Qxf4 Rg7
+35. Qxh4 fxg5 36. Rxg5 Rdd7 37. Qh6 Qf6 38. Qh5 Kf8 39. f4 Rde7 40. Rxg7 Rxg7
+41. Rg5 b4 42. Ba4 Nc7 43. Bc6 bxc3 44. Rxg7 Kxg7 45. bxc3 Qxc3 46. Qg5+ Kf7
+47. Qh5+ Kg7 48. Qg5+ Kf7 49. Qh5+ {Source: The Chess Amateur, Oct 1912, p9}
+1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "West, Arthur George"]
+[Black "Hamond, Francis Edward"]
+[Result "0-1"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Billings, Samuel Walter"]
+[Black "Uber, Henry Bernard"]
+[Result "0-1"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Cole, Harold Godfrey"]
+[Black "Crakanthorp, Spencer"]
+[Result "1-0"]
+[ECO "C00"]
+[PlyCount "2"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e6 {...etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Gibson, William"]
+[Black "Yates, Fred Dewhirst"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "62"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Bd3 b6 8. cxd5
+exd5 9. Rc1 Bb7 10. O-O c5 11. Qe2 Ne4 12. Bf4 Nxc3 13. Rxc3 c4 14. Bb1 Re8 15.
+Ne5 Nxe5 16. Bxe5 Bd6 17. Bg3 b5 18. e4 dxe4 19. Rd1 f5 20. Qh5 Bxg3 21. Rxg3
+Qf6 22. Rg5 Rf8 23. Rd2 Rad8 24. g4 fxg4 25. Qxg4 Rd5 26. h4 e3 27. Re2 exf2+
+28. Kf1 Bc8 29. Qg3 Rxg5 30. hxg5 Qxg5 31. Re3 Qh5 {Sources: The Times, 14 Aug
+1912; The Scotsman, 15 August 1912; Liverpool Daily Post, 15 August 1912;
+Westminster Gazette, 17 August 1912; Falkirk Herald, 21 August 1912;
+Cheltenham Examiner, 22 August 1912; Belfast News-Letter, 22 August 1912; The
+Chess Amateur, October 1912, p7; Year-Book of Chess (Ed. EA Michell) 1913, p151
+} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Griffith, Richard Clewin"]
+[Black "Michell, Reginald Pryce"]
+[Result "1/2-1/2"]
+[ECO "C27"]
+[PlyCount "64"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 d6 5. Na4 Nc6 6. Nxc5 dxc5 7. c3 Qe7 8.
+Be3 O-O 9. Ne2 Na5 10. Ng3 Nxc4 11. dxc4 Be6 12. Qe2 Rfd8 13. O-O Rd7 14. Rad1
+Rad8 15. Rxd7 Rxd7 16. Bg5 h6 17. Bxf6 Qxf6 18. Re1 Qd8 19. Nf1 c6 20. b3 Qa5
+21. Qc2 b5 22. cxb5 cxb5 23. Ne3 c4 24. Rd1 Rxd1+ 25. Nxd1 cxb3 26. axb3 Qa1
+27. b4 f5 28. exf5 Bxf5 29. Qd2 Qb1 30. Kf1 Bc2 31. Ke2 Bxd1+ {'and is drawn'
+Source: Falkirk Herald, 21 August 1912} 32. Qxd1 Qe4+ {Sources: The Scotsman,
+15 August 1912; Falkirk Herald, 21 August 1912} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Hamond, Francis Edward"]
+[Black "Jacobs, Herbert Levi"]
+[Result "0-1"]
+[ECO "B01"]
+[PlyCount "54"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 g6 5. Nf3 Bg7 6. Bg5 c6 7. Qd2 Be6 8.
+Be2 Nd7 9. O-O h6 10. Bf4 Ngf6 11. Rad1 Nb6 12. Rfe1 Nbd5 13. Be5 O-O 14. Bxf6
+exf6 15. Nxd5 cxd5 16. b3 Rc8 17. Rc1 g5 18. Qb4 g4 19. Nd2 f5 20. g3 h5 21.
+Bd3 a5 22. Qxb7 Bxd4 23. Re2 Qd6 24. Rce1 Rb8 25. Qa6 Bb6 26. a4 Bc8 27. Qb5
+Bd7 {Sources: The Times, 15 August 1912; Yorkshire Post, 15 August 1912;
+Liverpool Daily Post, 16 August 1912; The Chess Amateur, November 1912, p41;
+Year-Book of Chess (Ed. EA Michell) 1913} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Wahltuch, Victor Leonard"]
+[Black "West, Arthur George"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Crakanthorp, Spencer"]
+[Black "Griffith, Richard Clewin"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "4"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 {... etc. "There were some vicissitudes in the game
+between Crakanthorp and Griffith. The latter quite early won a piece by a
+clever manoeuvre at a cost of the exchange, and should have easily scored.
+Later on, however, he lost a piece by a sheer oversight. Fortunately for him,
+he had a majority of pawns, and at the adjournment he was endeavouring to win
+a difficult endgame, in which he had rook and four pawns against rook and
+three... evening session... Griffith tried hard to win his rook and pawn
+ending with Crakanthorp, and the game should have been drawn, but Crakanthorp
+missed his way, and Griffith gained an important point." (Sheffield Daily
+Telegraph, 15 August 1912)} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Gibson, William"]
+[Black "Michell, Reginald Pryce"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "115"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. e3 Nf6 5. Nc3 Nc6 6. a3 Bd6 7. dxc5 Bxc5 8. b4
+Bd6 9. Bb2 O-O 10. Rc1 a6 11. Be2 dxc4 12. Bxc4 b5 13. Be2 Bb7 14. O-O Qe7 15.
+Qb3 Rac8 16. Rfd1 Ne5 17. Nxe5 Bxe5 18. Rd2 Bb8 19. Qd1 Qc7 20. g3 Qe7 21. Bf3
+Be5 22. Bxb7 Qxb7 23. Rd3 h6 24. Rc2 Rc4 25. Rcd2 Qc6 26. Ne2 Bxb2 27. Rxb2 Qc7
+28. Rd4 Nd5 29. Rbd2 Rc8 30. Rxc4 Qxc4 31. Kg2 g6 32. Nd4 Nc3 33. Qg4 e5 34.
+Nf5 Kh7 35. Qxc4 Rxc4 36. Nd6 Rc7 37. Rc2 Kg8 38. Ne4 Nd5 39. Nf6+ Kh8 40. Rxc7
+Nxc7 41. Nd7 Kg7 42. Nxe5 Nd5 43. Nc6 Nc3 44. Nd4 Nb1 45. Nc2 Nd2 46. f3 Kf6
+47. Kf2 Ke5 48. Ke2 Nc4 49. Kd3 f5 50. Kc3 Nb6 51. Nd4 Nc4 52. a4 Nxe3 53. axb5
+axb5 54. Nxb5 Kd5 55. Kd3 Nd1 56. Nc3+ Nxc3 57. Kxc3 g5 58. Kd3 {Source: Times,
+20 Aug 1912} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Jacobs, Herbert Levi"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "0-1"]
+[ECO "A02"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. f4 {... etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Uber, Henry Bernard"]
+[Black "Cole, Harold Godfrey"]
+[Result "1-0"]
+[ECO "D61"]
+[PlyCount "87"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c5 8. Rd1
+b6 9. Bd3 Bb7 10. cxd5 exd5 11. Ne5 h6 12. Bh4 Nxe5 13. dxe5 Ng4 14. Bg3 Bh4
+15. Be4 Bxg3 16. hxg3 Qe7 17. Bxd5 Nxe5 18. O-O Rad8 19. Qf5 Bc8 20. Qf4 Ba6
+21. Rfe1 Nd3 22. Qa4 Nxe1 23. Qxa6 Nc2 24. a3 Nxe3 25. fxe3 Qxe3+ 26. Kh2 Qe7
+27. Qc4 Rd6 28. Ne4 Rg6 29. Rf1 h5 30. Rf4 Rh6 31. Kg1 Rg6 32. Qe2 Qd7 33. Qxh5
+Rh6 34. Qe5 Kh8 35. Rh4 Rxh4 36. gxh4 Qg4 37. Ng5 f6 38. Nf7+ Kh7 39. Qe6 Qd4+
+40. Kf1 Qf4+ 41. Ke2 Qxh4 42. Qf5+ g6 43. Qd7 Qd4 44. Qh3+ {Source: The Chess
+Amateur, Oct 1912, p10} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "West, Arthur George"]
+[Black "Billings, Samuel Walter"]
+[Result "1-0"]
+[ECO "D60"]
+[PlyCount "73"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Bd3 O-O 7. Nf3 a6 8. c5
+c6 9. O-O Ne8 10. Bf4 f5 11. Ne5 Nef6 12. Rc1 Qe8 13. Na4 Bd8 14. Qc2 Nxe5 15.
+Bxe5 Ng4 16. Bd6 Be7 17. h3 Nf6 18. Nb6 Bxd6 19. Nxa8 Bb8 20. Nb6 e5 21. Nxc8
+Qxc8 22. dxe5 Bxe5 23. Bxf5 Qe8 24. Bd3 g5 25. f4 gxf4 26. exf4 Bd4+ 27. Kh1
+Qe7 28. Qe2 Qg7 29. Qf3 h5 30. Rce1 h4 31. Re6 Rf7 32. Rfe1 Qf8 33. b4 Rg7 34.
+Qd1 Kh8 35. Bf5 Bc3 36. R1e3 Bd4 37. Qxd4 {Sources: Times, 16 August 1912;
+Evening Mail, 16 August 1912} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Yates, Fred Dewhirst"]
+[Black "Hamond, Francis Edward"]
+[Result "0-1"]
+[ECO "B15"]
+[PlyCount "76"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 (5. Nxf6+ {Yates-Hamond,
+British Championship 1913}) 5... h5 6. h4 Bg4 7. Be2 Nbd7 8. Nf3 e6 9. Be3 Bd6
+10. Nf1 Nd5 11. Bd2 b5 12. Ng5 N7f6 13. Ne3 Qb6 14. Bxg4 hxg4 15. Nxg4 Qxd4 16.
+Nxf6+ gxf6 17. Bc3 Qc4 18. Bxf6 Bb4+ 19. c3 Nxf6 20. cxb4 Rd8 21. Qf3 Qxb4+ 22.
+Kf1 Ke7 23. Re1 Rd5 24. g3 Qxb2 25. Re2 Qb4 26. Kg2 Rhd8 27. Rhe1 Qd6 28. Kh2
+c5 29. Re3 c4 30. Qg2 Ng4+ 31. Kh3 Nxe3 32. Rxe3 Rxg5 33. hxg5 Qd5 34. Qxd5
+Rxd5 35. f4 b4 36. Re4 ({The Australian source gives} 36. Re1) 36... Rc5 37.
+Re2 a5 38. g4 c3 {Sources: Times, 20 Aug 1912; Evening News (Sydney), 23 Nov
+1912 via The Glasgow Weekly Herald; Yorkshire Post, 15 Aug 1912} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Billings, Samuel Walter"]
+[Black "Jacobs, Herbert Levi"]
+[Result "0-1"]
+[ECO "D40"]
+[PlyCount "104"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nc6 5. Nf3 Nf6 6. Bd3 Nb4 7. O-O Be7 8. b3 b6
+9. Bb2 cxd4 10. exd4 Bb7 11. Rc1 Nxd3 12. Qxd3 O-O 13. Rfe1 dxc4 14. bxc4 Bxf3
+15. gxf3 Bd6 16. Ne4 Bf4 17. Rcd1 Nxe4 18. fxe4 Qh4 19. Kg2 Qxh2+ 20. Kf3 Bh6
+21. Rh1 Qf4+ 22. Kg2 f5 23. f3 fxe4 24. Qxe4 Qxe4 25. fxe4 Rac8 26. Bc1 Bxc1
+27. Rxc1 Rf4 28. Rhe1 Rcf8 29. Rc2 Rg4+ 30. Kh3 Rff4 31. Rce2 h5 32. Re3 Kf8
+33. c5 Rh4+ 34. Kg2 bxc5 35. dxc5 Rfg4+ 36. Rg3 Rxe4 37. Rf1+ Rhf4 38. Rb1 Rb4
+39. Re1 Rbc4 40. Re5 Rg4 41. Rxe6 Rc2+ 42. Kh3 Rxg3+ 43. Kxg3 Rxa2 44. c6 Rc2
+45. Kh4 Rc5 46. Rd6 a5 47. Rd8+ Kf7 48. Rd7+ Kg6 49. c7 Rc4+ 50. Kh3 a4 51.
+Rd6+ Kh7 52. Rd4 Rxc7 {"and wins" (The Times, 17 Aug 1912). Also source: The
+Scotsman 17 Aug 1912, p10} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Cole, Harold Godfrey"]
+[Black "West, Arthur George"]
+[Result "1-0"]
+[ECO "C80"]
+[PlyCount "59"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Ne7 9. Re1 Be6 10. c3 Ng6 11. Nbd2 Nxd2 12. Bxd2 Be7 13. Nd4 Qd7 14. h3 c5 15.
+Nxe6 Qxe6 16. Qh5 Nf8 17. Rad1 Rd8 18. Bf4 h6 19. Bg3 g6 20. Qf3 c4 21. Bc2 Nh7
+22. Qe3 O-O 23. Kh2 Kg7 24. f4 Rh8 25. Re2 Qc6 26. Qf3 Rd7 27. f5 Ng5 28. Qg4
+gxf5 29. Bxf5 h5 30. Bxd7 {4.56/0 Source: Starbase} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Griffith, Richard Clewin"]
+[Black "Uber, Henry Bernard"]
+[Result "1/2-1/2"]
+[ECO "C27"]
+[PlyCount "86"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 d6 5. f4 c6 6. fxe5 dxe5 7. Nf3 Qd6 8. Qe2
+b5 9. Bb3 a5 10. a4 b4 11. Nd1 Be6 12. Bxe6 Qxe6 13. Be3 Bxe3 14. Nxe3 O-O 15.
+Ng5 Qc8 16. Nf5 Ra7 17. Qf2 c5 18. Qg3 Nh5 19. Qh4 f6 20. Nxh7 Kxh7 21. Qxh5+
+Kg8 22. O-O Qe8 23. Qg4 Nc6 24. Rf3 Nd4 25. Rh3 Nxf5 26. exf5 Rff7 27. Qh4 Kf8
+28. Qc4 Qc6 29. Re1 Qd6 30. c3 Kg8 31. Re4 bxc3 32. Reh4 Kf8 33. Qb5 Rfd7 34.
+bxc3 Kf7 35. Qc4+ Qd5 36. Qg4 Rab7 37. Qg6+ Ke7 38. Qxg7+ Kd8 39. Qxf6+ Kc7 40.
+Re4 (40. Rf3 $1) 40... Rb1+ 41. Kf2 Rb2+ 42. Ke1 Rb1+ 43. Kf2 Rb2+ {Source:
+The Times, 17 Aug 1912} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Hamond, Francis Edward"]
+[Black "Gibson, William"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[PlyCount "82"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Qc2 O-O 7. Nf3 c5 8. Rd1
+cxd4 9. Nxd4 h6 10. Bh4 a6 11. f3 dxc4 12. Bxc4 Qa5 13. O-O Nb6 14. Bb3 Qc5 15.
+Bg3 Bd7 16. Nde2 Rac8 17. Nf4 Qg5 18. Qf2 Qa5 19. Kh1 Rfd8 20. Nd3 Nc4 21. Bxc4
+Rxc4 22. Ne5 Rcc8 23. Nxd7 Rxd7 24. Rxd7 Nxd7 25. Rd1 Nf6 26. Qe2 Bb4 27. Be1
+Bxc3 28. bxc3 Qe5 29. e4 g5 30. Qe3 Nd5 31. Qc1 Nf4 32. Qc2 Qb5 33. Bg3 Ne2 34.
+Be1 Nf4 35. Bg3 Qc4 36. Bxf4 gxf4 37. Rc1 b5 38. a3 Rd8 39. h3 Qc5 40. a4 bxa4
+41. Qxa4 Qe3 {Source: The Globe 21 September 1912 p. 8 (via Chessgames.com).
+Added 30 April 2022} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Michell, Reginald Pryce"]
+[Black "Crakanthorp, Spencer"]
+[Result "1-0"]
+[ECO "C84"]
+[PlyCount "81"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... etc} a6 4. Ba4 Nf6 5. O-O Be7 6. d4 b5 7. Bb3
+d6 8. c3 Bg4 9. Be3 O-O 10. Nbd2 Na5 11. Bc2 c5 12. h3 Bxf3 13. Nxf3 Qc7 14.
+Qe2 Nc4 15. Bc1 Rfd8 16. d5 h6 17. Nh2 g5 18. b3 Nb6 19. h4 Kh7 20. hxg5 hxg5
+21. Bxg5 Rg8 22. f4 Rg6 23. Bxf6 Bxf6 24. Ng4 Nd7 25. fxe5 dxe5 26. Rf5 Rag8
+27. Raf1 Qd6 28. Bd1 R8g7 29. Ne3 Kg8 30. Qf2 Qe7 31. Bh5 Rg3 32. Rf3 Bh4 33.
+Rxg3 Bxg3 34. Qf5 Qh4 35. Bxf7+ Kf8 36. Be6+ Ke7 37. Qh3 Qxh3 38. Bxh3 Kd8 39.
+Nf5 Rg5 40. Nxg3 Rxg3 41. Rf7 {Sources: Westminster Gazette, 19 August 1912;
+New Zealand Herald, 15 Feb 1913} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Wahltuch, Victor Leonard"]
+[Black "Yates, Fred Dewhirst"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "113"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Be7 5. Nc3 Nbd7 6. e3 O-O 7. Bd3 b6 8. cxd5
+exd5 9. O-O Bb7 10. Qe2 c5 11. Rfd1 Ne4 12. Bxe7 Qxe7 13. Rac1 Nxc3 14. Rxc3 c4
+15. Bb1 b5 16. Bf5 Nf6 17. Ne5 g6 18. Bb1 Ne4 19. Bxe4 dxe4 20. h3 f6 21. Ng4
+Bd5 22. f4 h5 23. Nh2 f5 24. g4 hxg4 25. hxg4 Qh4 26. Qf2 Qxf2+ 27. Kxf2 b4 28.
+Rcc1 Kf7 29. Rg1 Rh8 30. Rg2 Rh3 31. Nf1 Rc8 32. gxf5 Rf3+ 33. Ke2 gxf5 34. Rg5
+c3 35. Rxf5+ Ke6 36. Re5+ Kd6 37. Nd2 Rh3 38. bxc3 Rh2+ 39. Ke1 bxc3 40. Nf1
+Rxa2 41. Ng3 Rh8 42. Rh5 Rg8 43. Rg5 Rh8 44. Rh5 Rxh5 45. Nxh5 Rh2 46. Ng3 c2
+47. Ne2 Bb3 48. Nc3 a5 49. Nxe4+ Kd5 50. Nd2 Rh1+ 51. Nf1 Ke4 52. Kd2 Kf3 53.
+Kc3 a4 54. Nd2+ Kg2 55. Rxh1 Kxh1 56. Nxb3 axb3 57. Kd2 {Sources: Yorkshire
+Post, 17 Aug 1912; The Chess Amateur, Oct 1912, p8} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "Crakanthorp, Spencer"]
+[Black "Gibson, William"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "Hamond, Francis Edward"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "89"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O Re8 11. Rae1 Ne4 12. Bxe7 Qxe7 13. Nd2 Ndf6 14. f3 Nxc3
+15. bxc3 c5 16. dxc5 bxc5 17. c4 h6 18. e4 dxc4 19. Nxc4 Red8 20. e5 Ne8 21. e6
+fxe6 22. Bh7+ Kh8 23. Ne5 Qf6 24. f4 Nd6 25. g4 g5 26. fxg5 Qxg5 27. Rf7 Qxe5
+28. Rxe5 Nxf7 29. Rxc5 Bd5 30. Bg6 Rd7 31. Qc3+ Kg8 32. Rc8+ Nd8 33. Rc7 Rxc7
+34. Qxc7 Bb7 35. Qh7+ Kf8 36. Qxh6+ Ke7 37. g5 Rc8 38. Qg7+ Kd6 39. Qd4+ Bd5
+40. Qf4+ Kd7 41. Bd3 Nc6 42. a4 Ne7 43. h4 Rc5 44. h5 Bc6 45. h6 {Sources:
+Yorkshire Post, 17 August 1912 (but illegible in the online edition); Times,
+19 August 1912; Evening Mail, 19 August 1912; The Scotsman, 20 August 1912;
+Liverpool Daily Post, 20 August 1912; Staffordshire Sentinel, 28 August 1912,
+gives two more half-moves: 45... Bxa4 46.Qxa4+ 1-0; The Chess Amateur, Oct
+1912, p9f; Year-Book of Chess (Ed. EA Michell) 1913} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "Jacobs, Herbert Levi"]
+[Black "Cole, Harold Godfrey"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. f4 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "Uber, Henry Bernard"]
+[Black "Michell, Reginald Pryce"]
+[Result "0-1"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "West, Arthur George"]
+[Black "Griffith, Richard Clewin"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "68"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Bd3 b6 7. Bxf6 Bxf6 8.
+cxd5 Bb7 9. Nf3 exd5 10. h4 g6 11. g4 c5 12. g5 cxd4 13. exd4 Re8+ 14. Kd2 Bg7
+15. h5 Nc6 16. hxg6 hxg6 17. Qg1 Nxd4 18. Nxd4 Bxd4 19. Qg4 Bg7 20. Rh2 Qd6 21.
+Rah1 Rac8 22. Rh7 d4 23. Ne4 Qb4+ 24. Kd1 Bxe4 25. Bxe4 Qxb2 26. Qf4 Qa1+ 27.
+Ke2 Qxa2+ 28. Kf1 Qc4+ 29. Kg2 Qe6 30. f3 Qe5 31. Qh4 Rc5 32. Kf2 d3 33. f4
+Qd4+ 34. Kg3 Rxe4 {Sources: The Scotsman, 19 August 1912; Cheltenham Examiner,
+26 September 1912; Times Literary Supplement, 28 Nov 1912; Year-Book of Chess
+1913, p152} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "Yates, Fred Dewhirst"]
+[Black "Billings, Samuel Walter"]
+[Result "1-0"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "6"]
+[White "Billings, Samuel Walter"]
+[Black "Hamond, Francis Edward"]
+[Result "0-1"]
+[ECO "A40"]
+[PlyCount "138"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 c5 2. d5 g6 3. e4 Bg7 4. Nf3 d6 5. Bd3 a6 6. c4 Bg4 7. O-O Nd7 8. Nbd2
+Ne5 9. Qe2 Nf6 10. h3 Nh5 11. Qe3 Bd7 12. Nxe5 Bxe5 13. Nf3 Bf4 14. Qe1 e5 15.
+dxe6 fxe6 16. e5 Bc6 17. exd6 Qxd6 18. Bxf4 Nxf4 19. Be4 O-O-O 20. Bxc6 Qxc6
+21. Qe3 Rhf8 22. Rad1 Rd4 23. Rfe1 Rxd1 24. Rxd1 Nxh3+ 25. Kh2 Nf4 26. Qe5 Nxg2
+27. Ng5 Nf4 28. Ne4 Qc7 29. Qxc7+ Kxc7 30. Nxc5 Rf7 31. Kg3 e5 32. Rd2 h6 33.
+f3 Nh5+ 34. Kg2 Ng7 35. Re2 Kd6 36. b4 Nf5 37. Ne4+ Kc7 38. Nd2 Rd7 39. Nb3 Re7
+40. Nc5 g5 41. a4 Rf7 42. Rxe5 Nh4+ 43. Kg3 Nxf3 44. Rd5 Nh4 45. Ne6+ Kb8 46.
+a5 Nf5+ 47. Kh2 Ka7 48. Nd8 Rf6 49. Rd7 Rd6 50. Rxd6 Nxd6 51. c5 Ne4 52. c6
+bxc6 53. Nxc6+ Kb7 54. Nd4 Nc3 55. Kg3 h5 56. Ne6 h4+ 57. Kh3 Ne4 58. Nd4 Nf2+
+59. Kg2 Ne4 60. b5 axb5 61. Nxb5 Ka6 62. Nd4 g4 63. Nf5 h3+ 64. Kh2 Nd2 65. Ne3
+Nf3+ 66. Kg3 h2 67. Kg2 g3 68. Nf1 Nh4+ 69. Kh1 g2+ {Source: Cheltenham
+Examiner, 5 September 1912, p.6. Contributed by Gerard Killoran (15 May 2018)}
+0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "6"]
+[White "Cole, Harold Godfrey"]
+[Black "Yates, Fred Dewhirst"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {...etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "6"]
+[White "Crakanthorp, Spencer"]
+[Black "Uber, Henry Bernard"]
+[Result "1-0"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {...etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "6"]
+[White "Gibson, William"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "95"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O Re8 11. Rad1 Ne4 12. Bxe7 Qxe7 13. Ne2 c5 14. Ng3 c4
+15. Be2 Nxg3 16. hxg3 b5 17. Qf5 Qe6 18. Qf4 h6 19. g4 Rac8 20. g5 Rc6 21. gxh6
+Qxh6 22. Qf5 Nf6 23. Ne5 Bc8 24. Qc2 Ne4 25. Nxc6 Bf5 26. Qc1 Qxc6 27. Bd3 Qh6
+28. Bxe4 Rxe4 29. f4 g5 30. Qd2 g4 31. Qf2 Re6 32. Qg3 Qh7 33. Rc1 Kf8 34. b3
+Be4 35. bxc4 bxc4 36. Kf2 f5 37. Rh1 Rh6 38. Rxh6 Qxh6 39. Kg1 Qd6 40. Qe1 Qa3
+41. Qd2 g3 42. Kf1 a5 43. Kg1 Ke7 44. Rc3 Qb4 45. a3 Qb6 46. Qe1 Qb2 47. Qxg3
+Qxc3 48. Qg7+ {Source: The Chess Amateur, Oct 1912, p9} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "6"]
+[White "Griffith, Richard Clewin"]
+[Black "Jacobs, Herbert Levi"]
+[Result "1-0"]
+[ECO "D05"]
+[PlyCount "123"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. e3 e6 3. Nf3 c5 4. Be2 Nf6 5. O-O Nc6 6. b3 Be7 7. Bb2 O-O 8. Nbd2
+b6 9. Ne5 Nxe5 10. dxe5 Nd7 11. f4 f6 12. Bg4 f5 13. Be2 Bb7 14. c4 Rf7 15. Qc2
+Nf8 16. Bf3 Qc7 17. Rf2 Rd8 18. Rd1 g5 19. g3 Rg7 20. cxd5 Bxd5 21. Bxd5 Rxd5
+22. e4 fxe4 23. Nxe4 Rxd1+ 24. Qxd1 gxf4 25. Rxf4 Ng6 26. Nf6+ Kh8 27. Ne8 Qd8
+28. Qxd8 Bxd8 29. Rf2 Rd7 30. h4 Kg8 31. h5 Nf8 32. Kg2 Bg5 33. Nd6 h6 34. Rf1
+Be7 35. Bc1 Bxd6 36. exd6 Rxd6 37. Bxh6 Nh7 38. g4 Rd7 39. Re1 Re7 40. Kg3 Nf8
+41. Bxf8 Kxf8 42. g5 Kg7 43. Kf4 Rf7+ 44. Kg4 Re7 45. Re5 Kf7 46. a4 Rd7 47. h6
+Rd1 48. Re3 Rg1+ 49. Kf4 Rf1+ 50. Ke4 Kg6 51. Rh3 Rf8 52. h7 Rh8 53. Ke5 a6 54.
+Kxe6 b5 55. Kd5 c4 56. bxc4 bxa4 57. c5 Kg7 58. Kc4 a3 59. Rxa3 Ra8 60. Rh3 Kh8
+61. g6 a5 62. g7+ {Sources: The Scotsman, 22 August 1912; Times Literary
+Supplement, 3 October 1912; Year-Book of Chess 1913, p154f} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "6"]
+[White "Michell, Reginald Pryce"]
+[Black "West, Arthur George"]
+[Result "1-0"]
+[ECO "D32"]
+[PlyCount "81"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. Bf4 Nf6 7. e3 c4 8. Be2
+Bf5 9. O-O Bd6 10. Bg5 Be7 11. Bxf6 Bxf6 12. Nd2 O-O 13. g4 Bg6 14. f4 h6 15.
+f5 Bh7 16. Bf3 Ne7 17. Qe2 a6 18. Qg2 Qb6 19. Nxd5 Nxd5 20. Bxd5 Qxb2 21. Nxc4
+Qxg2+ 22. Bxg2 Rac8 23. Nb6 Rcd8 24. Rad1 Rd6 25. Rb1 Rb8 26. Nd5 Bd8 27. e4 b5
+28. Rbd1 Rc6 29. e5 Rc2 30. Nb4 Rb2 31. Nc6 Rc8 32. Nxd8 Rxd8 33. Rf2 Rb4 34.
+e6 Kf8 35. d5 Rxg4 36. d6 Ke8 37. e7 Rb8 38. d7+ Kxe7 39. Re2+ Kd8 40. Re8+ Kc7
+41. Rxb8 {Source: The Scotsman, 20 August 1912, p8} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "Gibson, William"]
+[Black "Uber, Henry Bernard"]
+[Result "1-0"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "Hamond, Francis Edward"]
+[Black "Cole, Harold Godfrey"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "Jacobs, Herbert Levi"]
+[Black "Michell, Reginald Pryce"]
+[Result "1-0"]
+[ECO "A03"]
+[PlyCount "79"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e3 d5 2. f4 Nf6 3. b3 e6 4. Bb2 Be7 5. Nf3 O-O 6. Nc3 c5 7. Ne2 Nc6 8. Ng3
+a6 9. Be2 Nd7 10. O-O Bf6 11. c3 e5 12. d4 cxd4 13. fxe5 Ndxe5 14. exd4 Ng6 15.
+Qd2 Bg4 16. Bd3 Qd6 17. Nf5 Qd7 18. Ng5 Bxf5 19. Bxf5 Qd6 20. Rf3 Bxg5 21. Qxg5
+Rfe8 22. Bd3 Re7 23. Raf1 Rae8 24. Rf5 Rd7 25. h4 h6 26. Qg4 Re3 27. R5f3 Rxf3
+28. Rxf3 Nd8 29. h5 Nf8 30. Rg3 Nfe6 31. Bc1 Ng5 32. Bxg5 hxg5 33. Qxg5 f6 34.
+Qg4 Re7 35. h6 g5 36. Rf3 Re1+ 37. Kf2 Ra1 38. Qf5 Rxa2+ 39. Be2 Qe6 40. h7+ {
+'and wins'. Source: Times, 21 Aug 1912.} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "Wahltuch, Victor Leonard"]
+[Black "Billings, Samuel Walter"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "West, Arthur George"]
+[Black "Crakanthorp, Spencer"]
+[Result "1-0"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "Yates, Fred Dewhirst"]
+[Black "Griffith, Richard Clewin"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[PlyCount "133"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be2 O-O
+8. O-O Re8 9. b3 Nd7 10. Bb2 Nf8 11. Re1 Qc7 12. h3 Bd7 13. Nd2 Ng6 14. Nf1 Nf4
+15. Bf3 Bxh3 16. gxh3 Nxh3+ 17. Kg2 Nf4+ 18. Kh1 Rxe1 19. Qxe1 Qd7 20. Ng3 Qh3+
+21. Kg1 h5 22. Bc1 h4 23. Bxf4 Bxf4 24. Qf1 Qd7 25. Ne2 Bc7 26. Qg2 Re8 27. Kf1
+Qf5 28. Qg4 Qxg4 29. Bxg4 g6 30. Rd1 f5 31. Bh3 f4 32. d5 Rd8 33. c4 f5 34. Nd4
+Be5 35. Ne6 Rd6 36. Re1 Bc3 37. Rc1 Be5 38. Rd1 Kf7 39. Nc5 b6 40. Nd3 Kf6 41.
+dxc6 Rxc6 42. Nb4 Rc8 43. Nd5+ Ke6 44. Re1 Kd6 45. Ke2 b5 46. Rd1 Ke6 47. cxb5
+Rc2+ 48. Kf1 g5 49. Nb4 Rc3 50. Bg2 f3 51. Bh1 g4 52. Nc6 Bc7 53. Ke1 Bb6 54.
+Kd2 Rc5 55. Nd4+ Kf6 56. b4 Rd5 57. Kc3 f4 58. a4 h3 59. a5 Bxd4+ 60. Rxd4 Rxd4
+61. Kxd4 g3 62. b6 axb6 63. axb6 g2 64. b7 g1=Q 65. b8=Q Qxf2+ 66. Kd5 Qd2+ 67.
+Kc6 {After the game it was thought that 67...Pf2 would have won for Black. But
+then comes 68. Qh8+ Kg5; 69. Bf3! and perpetual check can't be avoided.
+Year-Book of Chess 1913, p149f} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Billings, Samuel Walter"]
+[Black "Gibson, William"]
+[Result "0-1"]
+[ECO "D40"]
+[PlyCount "46"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 c5 5. Nf3 Nc6 6. Bd3 a6 7. O-O dxc4 8. Bxc4
+b5 9. Be2 Bb7 10. b3 cxd4 11. exd4 Be7 12. Bb2 O-O 13. Rc1 Qb6 14. Bd3 Rfd8 15.
+Qe2 Nxd4 16. Nxd4 Qxd4 17. Rfd1 Qh4 18. g3 Qh3 19. Ne4 Rxd3 20. Bxf6 Rxd1+ 21.
+Qxd1 Bxe4 22. f3 Bxf6 23. Qd7 h6 {Sources: Yorkshire Post, 21 Aug 1912; The
+Chess Amateur, Oct 1912, p12} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Cole, Harold Godfrey"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[PlyCount "2"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 c6 {... etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Crakanthorp, Spencer"]
+[Black "Jacobs, Herbert Levi"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "2"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 d5 {... etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Griffith, Richard Clewin"]
+[Black "Hamond, Francis Edward"]
+[Result "1-0"]
+[ECO "B33"]
+[PlyCount "125"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 c5 2. e4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 a6 7. Nd6+ Bxd6 8.
+Qxd6 Qe7 9. Qxe7+ Nxe7 10. Bg5 h6 11. Bxf6 gxf6 12. g3 O-O 13. Rd1 Kg7 14. Bh3
+d6 15. Bxc8 Nxc8 16. Nd5 Ra7 17. Ne3 Rd8 18. Nf5+ Kh7 19. Rd3 b6 20. g4 Kg6 21.
+Ke2 Rc7 22. c3 Rc4 23. f3 b5 24. Rhd1 Rc6 25. b3 Rb6 26. f4 Rc6 27. Rh3 Rh8 28.
+Rdd3 exf4 29. Kf3 Rc7 30. Kxf4 Rd7 31. Rh5 Ne7 32. Nxe7+ Rxe7 33. Rxd6 Rhe8 34.
+e5 Re6 35. Rxe6 Rxe6 36. Rf5 fxe5+ 37. Rxe5 Rf6+ 38. Kg3 Rd6 39. Rc5 f6 40. h3
+Rd3+ 41. Kh4 Rd6 42. c4 bxc4 43. Rxc4 f5 44. Rf4 fxg4 45. hxg4 Rb6 46. Ra4 {
+"and White eventually won." Sources: The Scotsman, 22 August 1912, p7 & Times,
+22 August 1912} Rd6 47. a3 Kg7 48. Ra5 Kg6 49. b4 Kg7 50. Kh5 Re6 51. Kh4 Kf7
+52. Rc5 Rb6 53. Kh5 Kg7 54. Rc7+ Kg8 55. Ra7 Kh8 56. a4 Kg8 57. a5 Rxb4 58.
+Rxa6 Kf7 59. Ra8 Ke7 60. a6 Ra4 61. a7 Kf7 62. Rh8 Ra2 63. Kh4 {4.56/0 Source:
+StarBase} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Michell, Reginald Pryce"]
+[Black "Yates, Fred Dewhirst"]
+[Result "0-1"]
+[ECO "D61"]
+[PlyCount "80"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Qc2 a6 8. Rd1
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. O-O h6 12. Bh4 Rc8 13. Qe2 c5 14. Bb1 Qb6 15.
+Ne5 Rfd8 16. Nxd7 Rxd7 17. Bxf6 Bxf6 18. dxc5 Qd8 19. Rxd7 Qxd7 20. Rd1 Qc7 21.
+Qc2 b4 22. Na4 g6 23. f3 Qe5 24. Qe2 Bg5 25. Re1 Be7 26. Bd3 Bxc5 27. Nxc5 Rxc5
+28. Qd2 Rd5 29. Qc2 Rc5 30. Qb3 a5 31. e4 Qd4+ 32. Kf1 a4 33. Qd1 Bc6 34. b3
+axb3 35. axb3 Rc3 36. Bc4 Qe5 37. Qd8+ Kg7 38. Qb6 Be8 39. Qxb4 Rc2 40. Qc5 $4
+Qxc5 {Sources: The Times, 23 Aug 1912; Evening Mail, 23 August 1912} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Uber, Henry Bernard"]
+[Black "West, Arthur George"]
+[Result "1-0"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {...etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.21"]
+[Round "9"]
+[White "Billings, Samuel Walter"]
+[Black "Cole, Harold Godfrey"]
+[Result "0-1"]
+[ECO "C21"]
+[PlyCount "3"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. d4 {...etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.21"]
+[Round "9"]
+[White "Hamond, Francis Edward"]
+[Black "Michell, Reginald Pryce"]
+[Result "1-0"]
+[ECO "D00"]
+[PlyCount "97"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 c5 4. c3 e6 5. Nd2 Nc6 6. f4 Bd6 7. Qf3 Bd7 8. Nh3
+Qb6 9. Qg3 Rg8 10. Qf3 h6 11. Nf2 O-O-O 12. Bc2 Kb8 13. Nd3 Be8 14. a4 cxd4 15.
+exd4 Nd7 16. b4 Qc7 17. Ra2 f6 18. Nb3 Ne7 19. Ndc5 Bxc5 20. bxc5 e5 21. O-O e4
+22. Qe2 f5 23. Bd2 Nc6 24. Rb2 Ka8 25. Bb1 Nf6 26. Ba2 Bh5 27. Qe1 Rge8 28. c4
+e3 29. Ba5 b6 30. cxb6 axb6 31. cxd5 Nxd5 32. Qh4 e2 33. Re1 g6 34. Bd2 Ndb4
+35. Bb1 Qd6 36. Qf2 Re6 37. h3 Rde8 38. g4 fxg4 39. hxg4 Bxg4 40. Qg2 h5 41. a5
+bxa5 42. Kh2 Nd5 43. Nxa5 $1 Nxd4 44. Nc4 Qc5 45. Qxd5+ $3 Qxd5 46. Be4 Ka7 47.
+Bxd5 Nf3+ 48. Bxf3 Bxf3 49. Be3+ $1 {Sources: The Times, 23 Aug 1912; The
+Chess Amateur, Oct 1912, p7; Year-Book of Chess (Ed. EA Michell) 1913} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.21"]
+[Round "9"]
+[White "Jacobs, Herbert Levi"]
+[Black "Uber, Henry Bernard"]
+[Result "1-0"]
+[ECO "A01"]
+[PlyCount "77"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e3 e5 2. b3 Be7 3. Bb2 Bf6 4. d4 exd4 5. exd4 Ne7 6. Nd2 d5 7. Ngf3 Bg4 8.
+h3 Be6 9. Bd3 Ng6 10. O-O Qd6 11. c4 c6 12. Re1 Nd7 13. Nf1 O-O 14. Rc1 Rfe8
+15. Ng3 Nf4 16. Bf1 Nf8 17. Ne5 Bg5 18. c5 Qd8 19. Rc3 Bh6 20. Bc1 N8g6 21. Rf3
+Qh4 22. Nxg6 hxg6 23. Ne2 g5 24. Nxf4 gxf4 25. g3 fxg3 26. fxg3 Qh5 27. Re5 g5
+28. g4 Qg6 29. Bd3 Qg7 30. Bf5 Re7 31. Kf2 Rae8 32. Qe2 Kh8 33. h4 Kg8 34. hxg5
+Bxg5 35. Bxg5 Qxg5 36. Bh7+ Kxh7 37. Rxg5 Bxg4 38. Qxe7 Rxe7 39. Rxg4 {Sources:
+Times Literary Supplement, 19 September 1912; Yorkshire Post, 22 August 1912;
+The Chess Amateur, October 1912, p11} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.21"]
+[Round "9"]
+[White "Wahltuch, Victor Leonard"]
+[Black "Griffith, Richard Clewin"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[PlyCount "120"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. Bd3 Nc6 5. b3 Nf6 6. Bb2 cxd4 7. exd4 Bd6 8. Ne5
+O-O 9. O-O Nb4 10. f4 Nxd3 11. cxd3 Nd7 12. Rf3 f6 13. Ng4 Re8 14. Qe1 Qe7 15.
+Nc3 Qf7 16. Nb5 Bb8 17. Ba3 Nf8 18. Qg3 Kh8 19. Nd6 Bxd6 20. Bxd6 Bd7 21. Raf1
+Qg6 22. Qh4 h6 23. Rg3 Qf7 {"Griffith had a piece of good fortune in his game
+with Wahltuch. He got the worst of the opening and then was badly hemmed in in
+the middle game, while Wahltuch had an attack which seemed to require merely
+care and patience to push to a successful conclusion. Wahltuch, however,
+ventured on a sacrifice which, although quite powerful in appearance, was not
+quite sound, and Griffith was able to escape by giving up the queen for two
+more pieces." (Times, 22 Aug 1912)} 24. Ne5 $5 fxe5 25. Bxe5 Kh7 26. Rxg7+ Qxg7
+27. Bxg7 Kxg7 28. Rf3 Ng6 29. Rg3 Rf8 30. Qg4 Rf6 31. h4 Rg8 32. h5 Kh7 33.
+hxg6+ $2 Rfxg6 {"and Black has a winning advantage. At the evening sitting,
+however, the game had an extraordinary ending. Griffith should have won with
+ease, but being aware that no harm could come to him with ordinary care, he
+took matters rather leisurely and finally when he had Wahltuch's king in a
+mating net, he allowed his opponent to secure a draw by stalemate by a
+sacrifice of the queen." (The Times, ibid.)} 34. Qh4 Rxg3 35. f5 Rxg2+ 36. Kf1
+R2g5 37. fxe6 Bxe6 38. Ke1 Re8 39. Qf4 Bd7+ 40. Kd2 Rg2+ 41. Kc3 Rc8+ 42. Kb4
+Be6 43. a4 Rg6 44. Qe5 a6 45. Ka5 Rcg8 46. b4 R8g7 47. b5 axb5 48. axb5 Bg8 49.
+b6 Rd7 50. Kb4 Rdd6 51. Qe7+ Kh8 52. Qe5+ Rgf6 53. Ka4 Rxb6 54. Ka5 Rbe6 55.
+Qg3 Rc6 56. Kb4 Rc1 57. Kb3 Rb6+ 58. Ka2 Rc2+ 59. Ka1 Re2 $4 60. Qg7+ Kxg7 {
+Sources: (moves 1-34) The Scotsman, 23 August 1912, p7 & The Times, 23 August
+1912 & Liverpool Daily Post, 23 August 1912; Year-Book of Chess (Ed. EA
+Michell) 1913, p157 (but gives colours wrong in main title); (moves 22-32 but
+seemingly misnumbered) Evening Mail, 23 August 1912} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.21"]
+[Round "9"]
+[White "West, Arthur George"]
+[Black "Gibson, William"]
+[Result "0-1"]
+[ECO "E12"]
+[PlyCount "82"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Bd3 O-O 7. Nf3 dxc4 8.
+Bxc4 b6 9. Qe2 Bb7 10. O-O Nd5 11. Bxe7 Nxc3 12. bxc3 Qxe7 13. Rfe1 c5 14. Rad1
+Rfd8 15. e4 Nf6 16. Bd3 g6 17. Bb1 Rac8 18. h3 cxd4 19. cxd4 Rc3 20. Qd2 Rdc8
+21. Qh6 Qf8 22. Qh4 Qg7 23. e5 Nd5 24. Nd2 g5 25. Qe4 R8c7 26. Qe2 Nf4 27. Qb5
+Bc6 28. Qb4 Bxg2 29. Be4 g4 30. Re3 Rc1 31. Bxg2 Rxd1+ 32. Kh2 Nxg2 33. Rg3 Nf4
+34. Rxg4 Ng6 35. Ne4 Rc8 36. Nf6+ Kh8 37. Qd6 Rdc1 38. Rg5 Qh6 39. Rh5 Qf4+ 40.
+Kg2 Nh4+ 41. Rxh4 Qxh4 {Sources: Times, 22 August 1912; Westminster Gazette,
+22 August 1912} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.21"]
+[Round "9"]
+[White "Yates, Fred Dewhirst"]
+[Black "Crakanthorp, Spencer"]
+[Result "1-0"]
+[ECO "C00"]
+[PlyCount "2"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e6 {...etc} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.22"]
+[Round "10"]
+[White "Crakanthorp, Spencer"]
+[Black "Hamond, Francis Edward"]
+[Result "1-0"]
+[ECO "B13"]
+[PlyCount "40"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bd3 Nf6 6. h3 e6 7. c3 Bd6 8. O-O
+Qc7 9. Re1 Bd7 10. Be3 h6 11. Nbd2 g5 12. c4 g4 13. hxg4 Nb4 14. Qb3 Nxg4 15.
+cxd5 Nxd5 16. Rac1 Bc6 17. Bb5 Rg8 18. Nf1 Kd7 19. Rc2 Rg6 20. Rec1 Ne7 {
+'Here Black exceeded the time limit.' Source: Observer (Adelaide), 12 Oct 1912
+via The Field} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.22"]
+[Round "10"]
+[White "Gibson, William"]
+[Black "Cole, Harold Godfrey"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "48"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. b3 O-O 6. Bb2 b6 7. Nbd2 Bb7 8. O-O
+c5 9. Ne5 Nc6 10. f4 Nb4 11. Be2 cxd4 12. exd4 Ne4 13. a3 Nc6 14. Bd3 f6 15.
+Nxc6 Bxc6 16. f5 Qc7 17. g3 Bxg3 18. Nf3 Bd6 19. fxe6 Rae8 20. Qe1 Rxe6 21. Qh4
+f5 22. Ne5 Bxe5 23. dxe5 Rg6+ 24. Kh1 d4 {Source: The Scotsman, 24 Aug 1912}
+0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.22"]
+[Round "10"]
+[White "Griffith, Richard Clewin"]
+[Black "Billings, Samuel Walter"]
+[Result "1-0"]
+[ECO "C24"]
+[PlyCount "51"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d6 4. f4 exf4 5. Bxf4 Be7 6. Nf3 Nc6 7. c3 Be6 8. Bb5
+Bd7 9. Ba4 O-O 10. Nbd2 Nh5 11. Be3 f5 12. Bb3+ Kh8 13. O-O Nf6 14. Qe2 Ng4 15.
+exf5 Nxe3 16. Qxe3 Bxf5 17. Ne4 Qd7 18. Ng3 Bg4 19. Rae1 d5 20. Ne5 Nxe5 21.
+Qxe5 Rxf1+ 22. Nxf1 Re8 23. d4 c6 24. Ng3 Qd8 25. Bc2 Bd7 26. Qh5 {Griffith
+thus won the Championship with a round to spare. Sources: The Scotsman, 24 Aug
+1912; Falkirk Herald, 28 August 1912; Linlithgowshire Gazette, 30 August 1912;
+Observer (Adelaide), 5 Oct 1912 via The Daily Telegraph} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.22"]
+[Round "10"]
+[White "Michell, Reginald Pryce"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "1-0"]
+[ECO "D30"]
+[PlyCount "59"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 b6 8. cxd5
+exd5 9. Rd1 Bb7 10. Bd3 Re8 11. O-O Ne4 12. Bf4 Ndf6 13. Bxc7 Qd7 14. Bg3 Rec8
+15. Qb3 Nxg3 16. hxg3 Qg4 17. Ne5 Qh5 18. Be2 Qh6 19. Bf3 Rd8 20. e4 Bd6 21.
+Nxf7 Kxf7 22. e5 Ne8 23. Nxd5 Kf8 24. exd6 Qxd6 25. Nf4 Bxf3 26. gxf3 Nc7 27.
+d5 Re8 28. Rfe1 Rad8 29. Rxe8+ Rxe8 30. Qc2 {Source: Illustrated London News,
+16 Nov 1912. Contributor: Alan Smith, 28 Nov 2018.} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.22"]
+[Round "10"]
+[White "Uber, Henry Bernard"]
+[Black "Yates, Fred Dewhirst"]
+[Result "0-1"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.22"]
+[Round "10"]
+[White "West, Arthur George"]
+[Black "Jacobs, Herbert Levi"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {...etc} 1/2-1/2
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.23"]
+[Round "11"]
+[White "Billings, Samuel Walter"]
+[Black "Michell, Reginald Pryce"]
+[Result "0-1"]
+[ECO "C68"]
+[PlyCount "86"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Nf6
+8. O-O Bd7 9. Re1 Bc5 10. Nb3 Be7 11. Bg5 h6 12. Bh4 g5 13. Bg3 O-O-O 14. Nc3
+Nh5 15. Be5 Rhg8 16. Rad1 b6 17. Bd4 Rge8 18. a4 Bb4 19. Re2 Nf4 20. Ree1 c5
+21. Be3 Bxc3 22. bxc3 Bxa4 23. Ra1 Bb5 24. c4 Bxc4 25. Nd2 Bb5 26. c4 Bc6 27.
+Rxa6 Kb7 28. Ra3 Ne6 29. Rb1 Ra8 30. Rc3 Ra2 31. f3 Rd8 32. Nb3 Ba4 33. Kf1
+Bxb3 34. Rcxb3 Rc2 35. h4 Rxc4 36. hxg5 hxg5 37. R3b2 Rc3 38. Bf2 Kc6 39. Be1
+Rcd3 40. Kf2 Nf4 41. g3 Ne6 42. Ke2 Ra3 43. Kf2 Rdd3 {Source: Cheltenham
+Examiner 12 September 1912 p. 6 (via chessgames.com). Added 30 April 2022.} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.23"]
+[Round "11"]
+[White "Cole, Harold Godfrey"]
+[Black "Griffith, Richard Clewin"]
+[Result "1-0"]
+[ECO "B15"]
+[PlyCount "61"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Be7
+8. Nf3 O-O 9. O-O Bg4 10. Be3 Re8 11. Rad1 Bd6 12. d5 Qc7 13. h3 Bh5 14. Rfe1
+h6 15. Qd2 Bxf3 16. gxf3 b5 17. Be2 a6 18. dxc6 Bh2+ 19. Kg2 Nxc6 20. f4 Rad8
+21. Qc1 Rxd1 22. Rxd1 g5 23. Kxh2 Re4 24. Bf3 gxf4 25. Rg1+ Kh8 26. Bxe4 fxe3+
+27. Rg3 f5 28. Qxe3 f4 29. Qc3+ Qe5 30. Qxe5+ Nxe5 31. Ra3 {Sources: The
+Scotsman, 26 August 1912; Belfast News-Letter, 29 August 1912; Stratford
+Express, 31 August 1912 (but barely legible in the online archive)} 1-0
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.23"]
+[Round "11"]
+[White "Hamond, Francis Edward"]
+[Black "Uber, Henry Bernard"]
+[Result "0-1"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {...etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.23"]
+[Round "11"]
+[White "Jacobs, Herbert Levi"]
+[Black "Gibson, William"]
+[Result "0-1"]
+[ECO "A01"]
+[PlyCount "56"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e3 e5 2. b3 d5 3. Bb2 Bd6 4. c4 c6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 Nf6 8. Qg3
+Nbd7 9. d4 Qe7 10. dxe5 Nxe5 11. f4 Ng6 12. Be2 Bb4+ 13. Kf1 Ne4 14. Qh2 Qh4
+15. g3 Nxg3+ 16. Kg2 Nxe2 17. Na3 O-O-O 18. Nc2 Bd6 19. Rhe1 Nexf4+ 20. exf4
+Bxf4 21. Qg1 Qg3+ 22. Kf1 Qxh3+ 23. Qg2 Qxg2+ 24. Kxg2 dxc4 25. Re2 Rhe8 26.
+Rae1 Rxe2+ 27. Rxe2 cxb3 28. axb3 f6 {Source: Times Literary Supplement, 7 Nov
+1912, p500} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.23"]
+[Round "11"]
+[White "Wahltuch, Victor Leonard"]
+[Black "Crakanthorp, Spencer"]
+[Result "0-1"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 {... etc} 0-1
+
+[Event "BCF-ch 9th"]
+[Site "Richmond"]
+[Date "1912.08.23"]
+[Round "11"]
+[White "Yates, Fred Dewhirst"]
+[Black "West, Arthur George"]
+[Result "1-0"]
+[ECO "C96"]
+[PlyCount "39"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d3 Qc7 12. Nbd2 Nc6 13. Nf1 Ne8 14. Ne3 Be6 15. d4
+exd4 16. Nd5 Bxd5 17. exd5 Ne5 18. cxd4 Nxf3+ 19. Qxf3 c4 20. Qe4 {Source:
+Times Literary Supplement, 5 Sep 1912.} 1-0
+
+[Event "BCF-chW 9th"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "Campbell, D (Miss)"]
+[Black "Stirling, Florence Hutchison"]
+[Result "0-1"]
+[ECO "C77"]
+[PlyCount "58"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 d6 6. d3 Be7 7. Be3 O-O 8. Bb3
+Na5 9. h3 Nxb3 10. axb3 c5 11. Nd5 Nd7 12. g4 f6 13. Nh4 Nb6 14. Qd2 Nxd5 15.
+exd5 Qb6 16. Nf5 Re8 17. Ke2 Bf8 18. Rag1 g6 19. Nh4 Qb4 20. Qc1 e4 21. dxe4
+Qxe4 22. c4 b5 23. f3 Qe5 24. Kf2 bxc4 25. bxc4 Rb8 26. f4 Rxb2+ 27. Kf3 Qe4+
+28. Kg3 Qxe3+ 29. Nf3 Qf2# {Sources: Mid-Lothian Journal, 4 October 1912;
+Musselburgh News, 30 August 1912} 0-1
+
+[Event "BCF-chW 9th"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Price, Edith Charlotte"]
+[Black "Banting, Rosa Annie"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "81"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 d6 5. d3 h6 6. Bd2 c6 7. a3 Bc5 8. b4 Bd4
+9. Nxd4 exd4 10. Ne2 c5 11. c3 dxc3 12. Bxc3 cxb4 13. axb4 O-O 14. O-O Ng4 15.
+h3 Ne5 16. Ba2 Qe7 17. f4 Nec6 18. Rf3 Be6 19. Rg3 f6 20. Bxe6+ Qxe6 21. f5 Qf7
+22. Nf4 Kh8 23. Ng6+ Kg8 24. Nf4 Kh7 25. Nh5 Rg8 26. Qg4 Ne5 27. Bxe5 dxe5 28.
+Rc1 Na6 29. Rc4 Rad8 30. b5 Nb8 31. Ra4 a6 32. bxa6 Nxa6 33. Ra3 g6 34. fxg6+
+Rxg6 35. Qf5 Rdg8 36. Ra5 Kh8 37. Rxg6 Qxg6 38. Qxf6+ Qxf6 39. Nxf6 Rd8 40.
+Rxe5 Rxd3 41. Re7 {Sources: Times, 16 August 1912; Evening Mail, 16 August 1912
+} 1-0
+
+[Event "BCF-chW 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Stevenson, Agnes Bradley"]
+[Black "Price, Edith Charlotte"]
+[Result "0-1"]
+[ECO "C02"]
+[PlyCount "130"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. f4 Nc6 5. Nf3 Qb6 6. c3 Nge7 7. Na3 Bd7 8. Nb5
+Ng6 9. a4 a6 10. dxc5 Bxc5 11. Nbd4 Nge7 12. b4 Bxd4 13. Nxd4 Nxd4 14. a5 Qa7
+15. Qxd4 Qxd4 16. cxd4 Nf5 17. Bb2 Ne3 18. Rc1 Nxf1 19. Rxf1 Bb5 20. Rf2 O-O
+21. Rfc2 Bc4 22. Kd2 f6 23. Ke3 Kf7 24. g4 Kg6 25. h4 f5 26. Rg1 Kh6 27. Rh2 g6
+28. Rhg2 Rf7 29. Rh2 fxg4 30. Rxg4 Rf5 31. Bc3 Rc8 32. Be1 Bb5 33. Rg5 Rc1 34.
+Bd2 Rb1 35. Bc3 Rb3 36. Rc2 Rf8 37. Rc1 Rc8 38. Kd2 Rc4 39. Rg3 Kh5 40. Rg5+
+Kh6 41. Rg3 Rxd4+ 42. Bxd4 Rxg3 43. Be3 Bc4 44. f5+ Kg7 45. f6+ Kf7 46. Re1 Rh3
+47. Bg5 Rb3 48. Rh1 h5 49. Ra1 Rxb4 50. Kc3 Rb3+ 51. Kd4 Bb5 52. Rc1 Bc6 53.
+Ra1 Rb4+ 54. Kc5 Rc4+ 55. Kd6 d4 56. Rc1 Ra4 57. Bd2 d3 58. Rc3 Rd4+ 59. Kc7
+Rd5 60. Ra3 Rxe5 61. Bg5 Rd5 62. Ra2 e5 63. Kb6 e4 64. Rf2 Rxg5 65. hxg5 e3 {
+"and Black wins" Sources: The Times, 19 August 1912; Evening Mail, 19 August
+1912} 0-1
+
+[Event "BCF-chW 9th"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Stirling, Florence Hutchison"]
+[Black "Houlding, Mary Mills"]
+[Result "0-1"]
+[ECO "B00"]
+[PlyCount "66"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 b6 2. e4 Bb7 3. Nc3 e6 4. Bd3 Nf6 5. Bg5 c5 6. Nf3 Be7 7. dxc5 bxc5 8. e5
+Nd5 9. Bxe7 Qxe7 10. Nb5 O-O 11. Nd6 Ba6 12. O-O Bxd3 13. Qxd3 Nc6 14. Qd2 Nxe5
+15. Nxe5 Qxd6 16. Rfe1 Qc7 17. c4 Nf6 18. Rad1 Rad8 19. b3 d5 20. cxd5 exd5 21.
+Qc2 Rfe8 22. Nd3 Rxe1+ 23. Nxe1 d4 24. Nd3 Ne4 25. f3 Nc3 26. Re1 f6 27. a4 Qc6
+28. Nc1 Rd5 29. Na2 Nxa2 30. Qxa2 Re5 31. Rc1 Qe6 32. Rc2 d3 33. Rf2 Re2 {
+Source: Times, 15 Aug 1912} 0-1
+
+[Event "BCF-chW 9th"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Houlding, Mary Mills"]
+[Black "Roe, Annie Sophia"]
+[Result "1-0"]
+[ECO "C11"]
+[PlyCount "61"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 a6 7. Be2 cxd4 8. Nxd4
+Qh4+ 9. g3 Qd8 10. Be3 Bb4 11. O-O Nb6 12. Bd3 Bc5 13. Kh1 Qe7 14. Qe2 Bd7 15.
+a3 Nc6 16. Nf3 d4 17. b4 dxe3 18. bxc5 Qxc5 19. Ne4 Qe7 20. Nd6+ Kf8 21. Qxe3
+Nd5 22. Qf2 Nd8 23. c4 Nc7 24. Be4 Rb8 25. Qa7 Rc8 26. Nxc8 Bxc8 27. Qb8 f5 28.
+exf6 gxf6 29. Qxc8 f5 30. Rad1 Kg7 31. Rd7 {"...and wins." Source: Western
+Daily Mercury - Friday 18 October 1912 p.8. Contributed by Gerard Killoran, 21
+December 2022.} 1-0
+
+[Event "BCF-chW 9th"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "6"]
+[White "Houlding, Mary Mills"]
+[Black "Stevenson, Agnes Bradley"]
+[Result "0-1"]
+[ECO "C44"]
+[PlyCount "90"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. c3 dxc3 5. Bc4 Nf6 6. e5 d5 7. Bb3 c2 8. Bxc2
+Ng4 9. O-O Be7 10. Ba4 O-O 11. Bxc6 bxc6 12. h3 Nh6 13. Nd4 Bb7 14. Bxh6 gxh6
+15. Qg4+ Kh8 16. Nf5 Rg8 17. Nxh6 Rg7 18. Qh5 Qf8 19. Nf5 Rg6 20. Qf3 Bc8 21.
+Nd4 Bc5 22. Ne2 Ba6 23. Nf4 Bxf1 24. Nxg6+ fxg6 25. Kxf1 Qxf3 26. gxf3 Bd4 27.
+Nc3 Bxe5 28. Rc1 Rf8 29. Kg2 Kg7 30. b3 Rf6 31. Na4 Kf7 32. Nc5 Ke7 33. Re1 Kd6
+34. Nb7+ Ke6 35. Nd8+ Kd7 36. Nxc6 Kxc6 37. Rxe5 d4 38. Re2 Rd6 39. Rc2+ Kb6
+40. Kf1 c5 41. Rc4 a5 42. a4 Re6 43. Rc2 Kc6 44. Rc1 Kd5 45. Rc4 Rb6 {Sources:
+Musselburgh News, 30 August 1912; Times Literary Supplement, 14 Nov 1912} 0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "O'Hanlon, John James"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[ECO "D32"]
+[PlyCount "40"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. Nf3 Nc6 5. Bf4 dxc4 6. e3 cxd4 7. exd4 Bd6 8.
+Bxd6 Qxd6 9. Bxc4 Nf6 10. O-O O-O 11. Qd2 Rd8 12. Rad1 b6 13. d5 Qc5 14. Qe2
+exd5 15. Nxd5 Bg4 16. Nxf6+ gxf6 17. Rxd8+ Rxd8 18. Rc1 Nd4 19. Qe4 Bxf3 20.
+gxf3 Qg5+ {Sources: Times, 14 August 1912; The Scotsman, 14 August 1912} 0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.12"]
+[Round "1"]
+[White "Waterman, James Chrismas"]
+[Black "Schelfhout, Willem Andreas Theo"]
+[Result "1-0"]
+[ECO "C82"]
+[PlyCount "59"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. exf6 Nxf6 13. Ng5 Bg4 14. Ndf3 Ne5
+15. Bf4 Bd6 16. Bxe5 Bxe5 17. Qd3 Bxf3 18. gxf3 Qd6 19. Nxh7 Nxh7 20. Qxh7+ Kf7
+21. Rfe1 Rh8 22. Qf5+ Bf6 23. h3 Rh6 24. Re3 Rf8 25. Rae1 Kg8 26. Re8 Be7 27.
+R1xe7 Qxe7 28. Rxe7 Rxf5 29. Bxf5 Rf6 30. Bg4 {Sources: The Globe, 24 August
+1912; Dorking and Leatherhead Advertiser, 24 August 1912; Western Daily
+Mercury, 6 September 1912. Contributed by Brian Denman, 21 October 2020.} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.13"]
+[Round "2"]
+[White "Gunston, William Hewison"]
+[Black "Louis, Allan William E"]
+[Result "1-0"]
+[ECO "C48"]
+[PlyCount "57"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Nc3 Nd4 6. Nxd4 exd4 7. e5 dxc3 8.
+exf6 cxb2 9. Bxb2 Bxf6 10. Re1+ Kf8 11. Ba3+ Kg8 12. Re3 h6 13. Qe2 Kh7 14.
+Bd3+ g6 15. Re1 d5 16. Be7 Bxe7 17. Rxe7 Rf8 18. Qh5 Qd6 19. h4 Kg7 20. Qf3 h5
+21. R1e5 c6 22. Bxg6 Bg4 23. Qf4 Be6 24. Qg5 Rg8 25. R5xe6 Qxe6 26. Bxf7+ Kf8
+27. Qxg8+ Kxe7 28. Bxe6 Rxg8 29. Bxg8 {Source: BCM, June 1941, p165} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Brown, Frank"]
+[Black "Speijer, Abraham"]
+[Result "0-1"]
+[ECO "C60"]
+[PlyCount "56"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d3 Ng6 5. c3 d6 6. O-O Be7 7. h3 O-O 8. Be3
+f5 9. exf5 Bxf5 10. Ba4 Kh8 11. Bc2 d5 12. d4 e4 13. Nh2 Bd6 14. Qh5 Nf4 15.
+Bxf4 Bxf4 16. Qe2 Qg5 17. Kh1 Rae8 18. g3 Bxh3 19. Rg1 Bd6 20. Nd2 Re6 21. f4
+exf3 22. Ndxf3 Rxe2 23. Nxg5 Rff2 24. Nhf3 Rxc2 25. Rad1 {Gerard Killoran
+comments that 25. Rad1 makes little sense as Rae1 would threaten mate in one,
+thus provoking 25... g6, but BCM gives 25. QR-Qsq.} g6 26. Nxh3 Rxf3 27. Rdf1
+Bxg3 28. Rxf3 Rh2# {Source: BCM, Nov 1912 p479} 0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Mackenzie, Arthur John"]
+[Black "Maas, Arthur James"]
+[Result "1-0"]
+[ECO "C14"]
+[PlyCount "97"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nb5 Nb6 8.
+c3 a6 9. Na3 f6 10. Nf3 c5 11. Be2 Nc6 12. exf6 gxf6 13. Qd2 O-O 14. O-O-O c4
+15. g4 Bd7 16. h4 Kh8 17. Rdg1 Rg8 18. Nc2 Be8 19. g5 f5 20. h5 Kg7 21. Qf4 Nd7
+22. Ne3 Nf8 23. Nh4 Qd7 24. g6 Kh8 25. Rg2 Rc8 26. Rhg1 Rg7 27. h6 Rxg6 28.
+Nxg6+ Nxg6 29. Bh5 Bf7 30. Bxg6 hxg6 31. Ng4 Qc7 32. Qxc7 Rxc7 33. Nh2 Kh7 34.
+f4 Re7 35. Nf3 Be8 36. Nh4 Kxh6 37. Nxg6 Bxg6 38. Rxg6+ Kh7 39. R6g2 Kh8 40.
+Rg8+ Kh7 41. R8g2 Kh8 42. Kd2 b5 43. b3 b4 44. bxc4 dxc4 45. Rh2+ Rh7 46. Rxh7+
+Kxh7 47. Re1 b3 48. axb3 cxb3 49. Rxe6 {Source: Birmingham Daily Post -
+Tuesday 20 August 1912 p.10. Contributed by Gerard Killoran via the English
+Chess Forum, 21 February 2023.} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "O'Hanlon, John James"]
+[Black "Waterman, James Chrismas"]
+[Result "0-1"]
+[ECO "A48"]
+[PlyCount "54"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d6 3. Bf4 Nbd7 4. e3 g6 5. Bd3 Bg7 6. Nbd2 O-O 7. c3 Qe8 8.
+Qc2 e5 9. Bg3 Nh5 10. O-O-O c5 11. dxe5 Nxg3 12. hxg3 Nxe5 13. Nxe5 dxe5 14.
+Ne4 Qe7 15. f3 Be6 16. g4 c4 17. Bf1 b5 18. g3 Rfd8 19. Qh2 Rxd1+ 20. Kxd1 Rd8+
+21. Kc1 h6 22. Be2 a5 23. Bd1 b4 24. Bc2 b3 25. axb3 cxb3 26. Bb1 a4 27. Nf2 a3
+{Sources: BCM, Nov 1912; Hastings and St Leonards Observer, 23 Apr 1955} 0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.14"]
+[Round "3"]
+[White "Schories, Georg"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r2q3/4b3/2bp1k2/1p2pNn1/4p3/1BP2P2/1P2Q1K1/R6R w - - 0 33"]
+[PlyCount "11"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+33. Rh6+ Kxf5 34. fxe4+ Bxe4+ 35. Kg3 Bf3 36. Be6+ $2 Nxe6 37. Qxf3+ Nf4 38.
+Qg4+ {... no more than perpetual check is left. Actually Schories still played
+to win, and lost. Source: Birmingham Daily Post - Tuesday 20 August 1912 p.10.
+Contributed by Gerard Killoran via the English Chess Forum, 21 February 2023.}
+0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Gunston, William Hewison"]
+[Black "Brown, Frank"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "55"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 g6 5. Bc4 Bg7 6. Nf3 Nf6 7. Ne5 O-O 8.
+O-O c6 9. f4 Nd5 10. Ne4 Nb6 11. Bb3 N8d7 12. Ng5 Nxe5 13. fxe5 Nd5 14. c4 Nc7
+15. Bf4 Ne6 16. Nxe6 Bxe6 17. d5 cxd5 18. cxd5 Qb6+ 19. Kh1 Bd7 20. Qd2 Rad8
+21. Bg5 Rde8 22. d6 exd6 23. exd6 Re4 24. Be7 Rc8 25. Rxf7 Rec4 26. Rf4 Qb5 27.
+Rxc4 Rxc4 28. Qe2 {Source: BCM 1912 p.480} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Scott, Roland Henry Vaugha"]
+[Black "Schories, Georg"]
+[Result "1-0"]
+[ECO "C66"]
+[PlyCount "43"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Bxc6+ bxc6 6. d4 Nxe4 7. Qe2 f5 8.
+dxe5 d5 9. Nbd2 Bc5 10. Nxe4 fxe4 11. Ng5 Qe7 12. Qh5+ g6 13. Qh6 Qxe5 14. Nxh7
+Bf5 15. g4 O-O-O $1 16. gxf5 Qxf5 17. Be3 d4 18. Bf4 Qg4+ $4 ({Time trouble.} 
+18... Rd7 $19) 19. Bg3 Qf5 20. Qg7 Qd7 21. Qxd7+ Rxd7 22. Nf6 {"and Black
+resigned after a few more moves" Sources: Falkirk Herald, 2 October 1912;
+Linlithgowshire Gazette, 4 October 1912} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.15"]
+[Round "4"]
+[White "Speijer, Abraham"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "C49"]
+[PlyCount "43"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. Nd5 Bc5 6. d3 d6 7. Bg5 Bd7 8. Qd2
+Nb8 9. Bc4 c6 10. Nxf6+ gxf6 11. Bh4 d5 12. exd5 Bf5 13. O-O-O cxd5 14. Bb5+
+Bd7 15. Bxd7+ Nxd7 16. d4 Be7 17. dxe5 Nxe5 18. Rhe1 Qd6 19. Qxd5 Qxd5 20. Rxd5
+Nxf3 21. gxf3 Rd8 22. Rb5 {Source: The Big Database 2019. Contributed by Brian
+Denman, 21 October 2020.} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "Mackenzie, Arthur John"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "62"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 e6 4. Bd3 c5 5. b3 Nc6 6. O-O cxd4 7. exd4 Bd6 8. Bb2
+Ng4 9. Qe2 h5 10. h3 Bd7 11. Nc3 Kf8 12. Nb5 Bb8 13. Ba3+ Kg8 14. Bd6 a6 15.
+Bxb8 Qxb8 16. hxg4 hxg4 17. Ne5 axb5 18. Qe3 f5 19. f3 Nxe5 20. Qxe5 Qxe5 21.
+dxe5 g3 22. f4 Kf7 23. Rf3 Rh4 24. Rxg3 Rxf4 25. a3 Bc6 26. c3 Rh4 27. Kf2 Rhh8
+28. Rg5 g6 29. g4 Rh3 {The print in the British Newspaper Archive seems to
+leave it uncertain whether Black played Rh3 or Rh4.} 30. Be2 f4 31. Bf3 Kg7 {
+Source: The Scotsman, 19 August 1912. Contributed by Brian Denman, 21 October
+2020.} 0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "5"]
+[White "Schories, Georg"]
+[Black "Waterman, James Chrismas"]
+[Result "1-0"]
+[ECO "C66"]
+[PlyCount "73"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Bg5 exd4 8.
+Nxd4 O-O 9. Bxc6 bxc6 10. Qd3 Re8 11. Rae1 Ng4 12. Bxe7 Qxe7 13. f4 Rab8 14. b3
+Qf6 15. h3 Nh6 16. Qd2 c5 17. Nf3 Kh8 18. Nd5 Qd8 19. c4 Bc6 20. Re2 Qd7 21. g4
+Ng8 22. e5 Ne7 23. Rfe1 Bb7 24. f5 Kg8 25. Nf6+ gxf6 26. exf6 Nxf5 27. Qg5+ Kh8
+28. Qxf5 Qc6 29. Re7 Rxe7 30. fxe7 Kg8 31. Re3 Re8 32. Kf2 d5 33. Ne5 Qe6 34.
+Nd7 Qxf5+ 35. gxf5 Kg7 36. Rg3+ Kh6 37. Nf6 {Source: Times Literary Supplement,
+31 Oct 1912} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "Speijer, Abraham"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[ECO "D63"]
+[PlyCount "94"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Rc1 O-O 7. Nf3 b6 8. cxd5
+exd5 9. Bb5 Bb7 10. O-O a6 11. Bd3 c5 12. Ne5 Nxe5 13. dxe5 Ne4 14. Bxe4 dxe4
+15. Qxd8 Bxd8 16. Bf4 Rc8 17. Rfd1 Re8 18. Rd7 Bc6 19. Ra7 a5 20. a4 Re7 21.
+Rxe7 Bxe7 22. Rd1 Rd8 23. Rxd8+ Bxd8 24. Kf1 g5 25. Bg3 h5 26. e6 fxe6 27. Be5
+Kf7 28. Ke1 Kg6 29. Kd2 Kf5 30. Bb8 Kg6 31. Bd6 Kf7 32. Be5 Ke8 33. Nb5 Kd7 34.
+h3 Bxb5 35. axb5 Bc7 36. Bf6 g4 37. hxg4 hxg4 38. Kc3 Ke8 39. g3 Kf7 40. Bh8
+Bd8 41. Kc2 Bf6 42. Bxf6 Kxf6 43. Kc3 Ke5 44. Kc4 Kd6 45. Kb3 Kd5 46. Ka4 Kc4
+47. f4 exf3 {Abram Speijer played under the pseudonym "A Green" during this
+tournament. Source: Times Literary Supplement, 22 Aug 1912} 0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Gunston, William Hewison"]
+[Black "Schelfhout, Willem Andreas Theo"]
+[Result "0-1"]
+[ECO "C43"]
+[PlyCount "72"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O Qh4 7. Nc3 Nxc3 8.
+bxc3 O-O 9. f4 f6 10. Nf3 Qh5 11. Qe1 Bg4 12. h3 Bxf3 13. Rxf3 Nc6 14. g4 Rae8
+15. Qf2 Qf7 16. Bd2 Re7 17. Rf1 Rfe8 18. Qh4 g6 19. Kg2 Na5 20. g5 f5 21. Qf2
+Nc4 22. Bc1 b6 23. h4 c5 24. Rh1 cxd4 25. cxd4 Bb4 26. Rfh3 Re1 27. h5 Rxh1 28.
+hxg6 hxg6 29. Rxh1 Bc3 30. Bxc4 dxc4 31. Rd1 Qd5+ 32. Qf3 Re2+ 33. Kg3 Be1+ 34.
+Rxe1 Qxf3+ 35. Kxf3 Rxe1 36. Bd2 Ra1 {Source: Yorkshire Post and Leeds
+Intelligencer, 21 Aug 1912} 0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "O'Hanlon, John James"]
+[Black "Brown, Frank"]
+[Result "1-0"]
+[ECO "D60"]
+[PlyCount "69"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 c6 7. Bd3 dxc4 8.
+Bxc4 Nd5 9. Bxe7 Qxe7 10. O-O Nxc3 11. bxc3 e5 12. e4 O-O 13. Re1 exd4 14. cxd4
+Nb6 15. Bb3 Bg4 16. h3 Bh5 17. Qd3 Rad8 18. Rad1 Qc7 19. Qc3 Qf4 20. Rd3 Qf6
+21. g4 Bg6 22. Ne5 Qd6 23. f4 h6 24. h4 Nd7 25. f5 Bh7 26. Nxf7 Rxf7 27. e5 Qc7
+28. e6 Nf6 29. exf7+ Kf8 30. Rde3 Qd6 31. Re6 Qa3 32. Re8+ Nxe8 33. Rxe8+ Rxe8
+34. fxe8=Q+ Kxe8 35. Bf7+ {Source: Northern Whig, 27 March 1913 (with notes by
+O'Hanlon). Times given as White: 1 hour 26 minutes; Black: 1 hour 55 minutes. 
+(Thanks to David McAlister for the info)} 1-0
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.20"]
+[Round "8"]
+[White "Scott, Roland Henry Vaugha"]
+[Black "Speijer, Abraham"]
+[Result "0-1"]
+[ECO "C66"]
+[PlyCount "72"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Nc3 Nf6 6. d4 Be7 7. Re1 exd4 8.
+Nxd4 O-O 9. Bxc6 Bxc6 10. Nxc6 bxc6 11. Bg5 Nd7 12. Bxe7 Qxe7 13. Re3 Qe5 14.
+Rb1 Rab8 15. b3 Rb4 16. Qf1 Qa5 17. Rd1 Ne5 18. Qe2 Ng6 19. Rg3 Re8 20. Qg4 Re6
+21. a3 Rb8 22. Rf1 Qc5 23. Kh1 h5 24. Qf5 Re5 25. Qd7 h4 26. Rh3 Rbe8 27. f4
+R5e6 28. Na4 Qxc2 29. Rc3 Qe2 30. Kg1 Rxe4 31. Rcf3 Qd2 32. Nc3 Re1 33. Qxc6 h3
+34. gxh3 Nh4 35. R3f2 Rxf1+ 36. Rxf1 Re1 {Source: The Scotsman, 23 Aug 1912 p7}
+0-1
+
+[Event "BCF-ch 9th Major Open"]
+[Site "Richmond"]
+[Date "1912.08.22"]
+[Round "10"]
+[White "Waterman, James Chrismas"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[ECO "C84"]
+[PlyCount "96"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. Nc3 O-O 8. Ne2
+Nh5 9. Bxc6 bxc6 10. d4 f5 11. dxe5 fxe4 12. Nfd4 Qe8 13. exd6 Bxd6 14. Ng3 Nf4
+15. Nde2 Bg4 16. Qe1 Nxe2+ 17. Nxe2 Bxh2+ 18. Kxh2 Qh5+ 19. Kg3 Bxe2 20. Rh1
+Qg4+ 21. Kh2 Rf5 22. Kg1 Raf8 23. Be3 R8f6 24. Rh3 Rh5 25. Rg3 Qh4 26. Rh3 Qxh3
+27. gxh3 Rxh3 28. Kg2 Rh4 29. Kg3 Rg4+ 30. Kh3 Bf3 31. Qb4 h5 32. Qe7 Kh7 33.
+Qe5 Rfg6 34. Qe7 Rf6 35. Qe8 Rfg6 36. Qd8 Rf6 37. Qe7 Bg2+ 38. Kh2 Rf3 39.
+Qxe4+ Rxe4 40. Kxg2 Rf5 41. Rh1 Kg6 42. Rh3 Rg4+ 43. Kf1 h4 44. c3 Rg3 45.
+Rxg3+ hxg3 46. f4 Kh5 47. Kg2 Kg4 48. b4 Rxf4 {Sources: Essex Times, 2 Nov
+1912; The Field, 9 Nov 1912; Chess Amateur, Feb 1913. Also published in the
+West Sussex County Times and Standard, 19 Oct 1912, where White's 32nd move is
+given as 'Q-R7' and the game ends at Black's 40th move.} 0-1
+
+[Event "BCF-ch 9th Championship v Major Open m"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "1.1"]
+[White "Speijer, Abraham"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "1-0"]
+[ECO "A10"]
+[PlyCount "69"]
+[EventDate "1912.08.19"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+[WhiteTeam "Major Open"]
+[BlackTeam "Championship"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "GBR"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Nf3 Nf6 6. Bg5 Be7 7. e3 Nbd7 8.
+Rc1 c6 9. Bd3 Nd5 10. Bxe7 Qxe7 11. Nxd5 exd5 12. Qc2 Nf6 13. O-O O-O 14. Ne5
+Re8 15. Kh1 h6 16. f3 Qd6 17. Qf2 Be6 18. Qg3 Rad8 19. Rf2 Kf8 20. f4 Ne4 21.
+Bxe4 dxe4 22. b3 Bf5 23. Qh4 Qf6 24. Qh5 Rd5 25. g4 Bg6 26. Qh3 Kg8 27. Rcf1
+Bh7 28. f5 Qg5 29. f6 g6 30. Qg3 h5 31. h4 Qh6 32. Nxf7 Qf8 33. Ng5 Kh8 34. Qc7
+Rxg5 35. hxg5 {Abram Speijer played under the pseudonym "A Green" during this
+congress. Sources: Evening News (London), 20 August 1912; Times Literary
+Supplement, 26 September 1912} 1-0
+
+[Event "BCF-ch 9th Championship v Major Open m"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "1.2"]
+[White "Yates, Fred Dewhirst"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[ECO "C90"]
+[PlyCount "83"]
+[EventDate "1912.08.19"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+[WhiteTeam "Championship"]
+[BlackTeam "Major Open"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d3 O-O 11. Nbd2 Nc6 12. Nf1 Be6 13. Ng3 Qc7 14. Bg5 Rfd8 15.
+d4 cxd4 16. cxd4 exd4 17. Rc1 Qb6 18. Ne2 d5 19. Bxf6 Bxf6 20. e5 Nxe5 21.
+Nfxd4 Rac8 22. Nxe6 fxe6 23. Nf4 g6 24. h4 Bxh4 25. Nh3 Bf6 26. Kh1 Rc4 27. f4
+Nf7 28. b3 Rc6 29. Bb1 Rxc1 30. Qxc1 Kg7 31. Qc2 e5 32. fxe5 Nxe5 33. Nf4 Kf7
+34. Qd2 d4 35. Be4 Bg5 36. Bd5+ Rxd5 37. Nxd5 Bxd2 38. Rf1+ Ke6 39. Nxb6 d3 40.
+Na8 Ba5 41. b4 Bd8 42. Kg1 {adjudicated a win for Black. Source: Times
+Literary Supplement, 26 Sep 1912} 0-1
+
+[Event "BCF-ch 9th Championship v Major Open m"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "1.3"]
+[White "Schories, Georg"]
+[Black "Michell, Reginald Pryce"]
+[Result "0-1"]
+[ECO "C78"]
+[PlyCount "78"]
+[EventDate "1912.08.19"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+[WhiteTeam "Major Open"]
+[BlackTeam "Championship"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Nxe5 Nxe5 7. d4 Nxe4 8.
+Re1 Be7 9. Rxe4 Ng6 10. Nc3 O-O 11. Nd5 c6 12. Nxe7+ Nxe7 13. Bg5 f6 14. Bb3+
+d5 15. Bd2 Bf5 16. Re2 Re8 17. f3 Qd7 18. Qf1 Ng6 19. Rae1 Nf8 20. Bb4 Ne6 21.
+a4 a5 22. Ba3 b6 23. Qf2 Nf4 24. Re7 Rxe7 25. Rxe7 Qd8 26. c4 Rc8 27. Qe3 Ng6
+28. Rb7 h5 29. g3 Kh7 30. Kg2 dxc4 31. Bxc4 b5 32. axb5 cxb5 33. Rxb5 Ne5 34.
+Be2 Rc2 35. dxe5 Bd3 36. Kh3 Rxe2 37. Qc5 Qd7+ 38. g4 hxg4+ 39. fxg4 Qxb5 {
+Source: Starbase 4.56. Match between the 12 players in the British
+Championship and the 12 in the Major Open was won 6½-5½ by the Major Open.
+Source: The Times, 20 Aug 1912} 0-1
+
+[Event "BCF-ch 9th Championship v Major Open m"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "1.8"]
+[White "Uber, Henry Bernard"]
+[Black "Wardhaugh, Carrick"]
+[Result "0-1"]
+[ECO "D08"]
+[PlyCount "52"]
+[EventDate "1912.08.19"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+[WhiteTeam "Championship"]
+[BlackTeam "Major Open"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "GBR"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. e4 Bg4 6. Bf4 Bb4+ 7. Nbd2 Qe7 8. a3
+Bxd2+ 9. Qxd2 Bxf3 10. gxf3 Nxe5 11. Bg2 O-O-O 12. Rc1 Nf6 13. h3 Rhe8 14. O-O
+Qe6 15. b4 h6 16. Rfd1 g5 17. Bh2 Nh5 18. Qb2 Nf4 19. Bxf4 gxf4 20. Kh2 d3 21.
+c5 Rg8 22. Bh1 Rg5 23. Qd2 Rh5 24. Bg2 Nxf3+ 25. Bxf3 Qxh3+ 26. Kg1 Rg8+ {
+Source: Westminster Gazette, 20 August 1912} 0-1
+
+[Event "BCF-ch 9th Championship v Major Open m"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "1.9"]
+[White "Schelfhout, Willem Andreas Theo"]
+[Black "Gibson, William"]
+[Result "1-0"]
+[ECO "C46"]
+[PlyCount "67"]
+[EventDate "1912.08.19"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+[WhiteTeam "Major Open"]
+[BlackTeam "Championship"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. Nd5 Bc5 5. Bb5 Nge7 6. O-O O-O 7. c3 a6 8.
+Ba4 d6 9. d4 Ba7 10. Bg5 f6 11. Bb3 Kh8 12. Be3 Bg4 13. Qd3 Ng6 14. dxe5 Bxf3
+15. Bxa7 Bxg2 16. exf6 Rxa7 17. fxg7+ Kxg7 18. Kxg2 Nce5 19. Qe3 Ra8 20. f4 Nc6
+21. f5 Nge5 22. f6+ Kh8 23. Kh1 Qd7 24. Rg1 Rg8 25. Qf4 Nd3 26. Qh4 Qe6 27. Rg7
+Qxe4+ 28. Qxe4 Nf2+ 29. Kg2 Nxe4 30. Nxc7 Rac8 31. Rxg8+ Rxg8+ 32. Bxg8 Kxg8
+33. Nd5 Kf7 34. Re1 {... x moves. Source: chessgames.com} 1-0
+
+[Event "BCF-ch 9th Championship v Major Open m"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "1.11"]
+[White "O'Hanlon, John James"]
+[Black "Crakanthorp, Spencer"]
+[Result "0-1"]
+[ECO "D31"]
+[PlyCount "46"]
+[EventDate "1912.08.19"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+[WhiteTeam "Major Open"]
+[BlackTeam "Championship"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4 7. Ne5 Bb7 8. Qf3
+Qc7 9. Be2 Nf6 10. Qg3 O-O 11. O-O Bxc3 12. bxc3 Ne4 13. Qh3 Nxc3 14. Bf3 Nd7
+15. Nxd7 Qxd7 16. Ba3 Rfd8 17. axb5 cxb5 18. Rfc1 Na4 19. Rab1 Bxf3 20. Qxf3 a5
+21. Qh5 b4 22. Bb2 Nxb2 {(Source: Times, 21 August 1912)} 23. Rxb2 c3 {"Black
+won" Source: Belfast News-Letter, 29 August 1912} 0-1
+
+[Event "BCF-ch 9th First Class A"]
+[Site "Richmond"]
+[Date "1912.08.??"]
+[Round "?"]
+[White "Ellis, Arthur Compton"]
+[Black "Palmer, Edward Davidson"]
+[Result "1-0"]
+[ECO "C33"]
+[PlyCount "107"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Bxg8 Rxg8 5. e5 Qh4+ 6. Kf1 b6 7. d4 Ba6+ 8.
+Ne2 g5 9. Kg1 f3 10. gxf3 g4 11. f4 g3 12. h3 Bb7 13. d5 Bc5+ 14. Kg2 Nc6 15.
+Nbc3 Ne7 16. Ng1 Bxg1 17. Rxg1 c6 18. Qd4 Rc8 19. Bd2 c5 20. Qc4 b5 21. Qxb5
+Rc7 22. Qc4 Rg6 23. b3 Rb6 24. a3 Ba6 25. Qa4 c4 26. b4 Bb7 27. Qa5 Nc6 28.
+dxc6 Rcxc6 29. Nd5 Rc5 30. bxc5 Bxd5+ 31. Kf1 Qxh3+ 32. Ke1 Qh2 33. Be3 Rb7 34.
+Qc3 Rb2 35. Rc1 h5 36. Qd4 Bc6 37. Qxc4 Bb5 38. Qg8+ Ke7 39. Qg7+ Kd8 40. Qf8+
+Kc7 41. Qd6+ Kc8 42. Qd2 Bc6 43. Qe2 h4 44. Kd2 g2 45. Qa6+ Bb7 46. Qd6 Qg3 47.
+e6 dxe6 48. Qxe6+ Kc7 49. Qe5+ Kc8 50. Qxb2 h3 51. Rb1 Qf3 52. Qh8+ Kc7 53.
+Qh7+ Kb8 54. Qd7 {Source: Birmingham Daily Post - Tuesday 24 September 1912 p.
+10. Contributed by Gerard Killoran via the English Chess Forum, 21 February
+2023.} 1-0
+
+[Event "BCF-ch 9th First Class A"]
+[Site "Richmond"]
+[Date "1912.08.??"]
+[Round "?"]
+[White "Letchworth, Thomas Wilfrid"]
+[Black "Berryman, William John"]
+[Result "0-1"]
+[ECO "C44"]
+[PlyCount "38"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 d3 6. b4 Bb6 7. Qb3 Qf6 8. Bg5
+Qg6 9. O-O Nf6 10. Bxd3 O-O 11. a4 a5 12. Qc2 Ne5 13. Nxe5 Qxg5 14. bxa5 Bc5
+15. Nf3 Qh5 16. Nbd2 d6 17. Nb3 Bg4 18. e5 Bxf3 19. exf6 Qg4 {Sources: Falkirk
+Herald, 2 October 1912; Linlithgowshire Gazette, 4 October 1912} 0-1
+
+[Event "BCF-ch 9th First Class B"]
+[Site "Richmond"]
+[Date "1912.08.19"]
+[Round "7"]
+[White "Ford, Harry"]
+[Black "Kirk, Wilfred Hugh Miller"]
+[Result "1-0"]
+[ECO "C12"]
+[PlyCount "53"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Nfd7 7. Bd3 a6 8. Qg4
+Bf8 9. Nce2 c5 10. c3 Nc6 11. Nf3 Qe7 12. O-O g5 13. Qh5 Bg7 14. Ne1 Kd8 15. f4
+f6 16. Nf3 cxd4 17. cxd4 gxf4 18. Rac1 fxe5 19. Rxc6 e4 20. Bxe4 dxe4 21. Nxf4
+bxc6 22. Ba5+ Nb6 23. Bxb6+ Kd7 24. Ng6 exf3 25. Nxe7 Kxe7 26. Bc5+ Kd8 27. Qf7
+{Source: The Globe, 5 Oct 1912. Contributed by Brian Denman, 31 Oct 2020.} 1-0
+
+[Event "BCF-ch 9th Second Class B"]
+[Site "Richmond"]
+[Date "1912.08.??"]
+[Round "?"]
+[White "Forrest, Frederick William"]
+[Black "Daniel, Arthur William"]
+[Result "1-0"]
+[ECO "D32"]
+[PlyCount "67"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. Bg5 Qa5 7. e3 c4 8. a3
+Be6 9. Be2 Be7 10. O-O Nf6 11. Bf4 a6 12. Ne5 Nxe5 13. Bxe5 O-O 14. f3 Nd7 15.
+Bg3 f5 16. e4 fxe4 17. fxe4 dxe4 18. Nxe4 Rxf1+ 19. Kxf1 Qf5+ 20. Bf3 Nb6 21.
+Kg1 Rd8 22. Qd2 Nd7 23. Re1 Nf6 24. Ng5 Rxd4 25. Qxd4 Bc5 26. Nxe6 Bxd4+ 27.
+Nxd4 Qc5 28. Bf2 b5 29. Ne6 Qd6 30. Bc5 Qd2 31. Rd1 Qxb2 32. Ng5 Qe5 33. Rd8+
+Ne8 34. Bd5+ {Source: Birmingham Daily Post - Tuesday 10 December 1912 p.11.
+Contributed by Gerard Killoran via the English Chess Forum, 21 February 2023.}
+1-0
+
+[Event "BCF-ch 9th Third Class A"]
+[Site "Richmond"]
+[Date "1912.08.??"]
+[Round "?"]
+[White "Mansfield, Herbert John"]
+[Black "Knight, Charles Frederick"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "76"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 e6 4. Bd3 Bd6 5. Bg3 Bxg3 6. hxg3 Bd7 7. Nf3 f6 8.
+Rxh7 Rxh7 9. Bxh7 Nge7 10. Bd3 Na5 11. Ke2 Bc6 12. Qh1 Kd7 13. Na3 a6 14. b4
+Nc4 15. Nxc4 dxc4 16. Bxc4 b5 17. Bd3 Qg8 18. c4 g6 19. cxb5 axb5 20. Bc2 Qg7
+21. Bb3 Rh8 22. Qd1 g5 23. g4 Qf8 24. a4 Nd5 25. Bxd5 Bxd5 26. Rb1 Qa8 27. a5
+Rh3 28. e4 Bc4+ 29. Ke3 Rh7 30. Nd2 f5 31. gxf5 exf5 32. f3 f4+ 33. Kf2 Bg8 34.
+d5 Qa7+ 35. Ke1 Qe3+ 36. Qe2 Rh1+ 37. Nf1 Qc3+ 38. Qd2 Rxf1+ {Sources:
+Mid-Lothian Journal, 30 August 1912; Musselburgh News, 30 August 1912.
+Contributed by Gerard Killoran via the English Chess Forum, 21 February 2023.}
+0-1
+
+[Event "BCF-ch 9th Third Class B"]
+[Site "Richmond "]
+[Date "1912.08.??"]
+[Round "?"]
+[White "Ough, James"]
+[Black "Henderson, A."]
+[Result "0-1"]
+[ECO "B20"]
+[PlyCount "94"]
+[EventDate "1912.08.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bc4 a6 5. a4 g6 6. O-O Bg7 7. Ne2 Nf6 8. d3
+O-O 9. Ba2 Qc7 10. Nh4 Nh5 11. f4 Qd8 12. Nf3 d6 13. c3 Qe8 14. d4 cxd4 15.
+cxd4 Ne7 16. e5 dxe5 17. dxe5 Bh8 18. b3 Bd7 19. h3 Qd8 20. Nh2 Ng7 21. Ng3
+Ngf5 22. Ne4 Nd5 23. Qe1 Rc8 24. Ba3 Re8 25. Bc5 Rc6 26. b4 b6 27. Bf2 Qc7 28.
+g3 Nfe7 29. Bb3 Rc8 30. b5 axb5 31. axb5 Rc5 32. Bxc5 bxc5 33. Nd6 Rb8 34. Bc4
+Nc8 35. Nxc8 Qxc8 36. Qe2 Nc3 37. Qb2 Nxb5 38. Rfb1 Rb7 39. Ra5 Bg7 40. Qf2 Bf8
+41. Bxb5 Qb8 42. Qf1 Bc6 43. Bd3 Rxb1 44. Bxb1 c4 45. Qxc4 Qxb1+ 46. Nf1 Qb6+
+47. Kh2 Qf2# {Source: Western Daily Mercury - Friday 30 August 1912 p.8.
+Contributed by Gerard Killoran, 21 December 2022.} 0-1
+
+[Event "BCF-ch 9th Lightning"]
+[Site "Richmond"]
+[Date "1912.08.17"]
+[Round "?"]
+[White "Gibson, William"]
+[Black "Marshall, Frank James"]
+[Result "1-0"]
+[ECO "C29"]
+[PlyCount "75"]
+[EventDate "1912.08.17"]
+[EventType "k.o. (blitz)"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Bb4 6. Be2 O-O 7. O-O Nc6 8.
+Qe1 Ba5 9. d3 Nxc3 10. bxc3 d4 11. Bd2 Bb6 12. Kh1 Bg4 13. cxd4 Bxf3 14. Bxf3
+Nxd4 15. Qg3 Nxf3 16. Rxf3 Re8 17. c3 Re6 18. Qf4 Qe7 19. d4 c5 20. Raf1 Rf8
+21. Bc1 cxd4 22. cxd4 Qd7 23. Ba3 Qxd4 24. Bxf8 Qxf4 25. Rxf4 Kxf8 26. Rxf7+
+Ke8 27. Rxg7 Rxe5 28. Rxh7 Re2 29. Rxb7 Rxa2 30. h4 Ra4 31. g3 Bd4 32. Rf4 Rc4
+33. Kg2 a5 34. Kh3 a4 35. h5 a3 36. Ra7 Bxa7 37. Rxc4 Be3 38. Re4+ {Source:
+Falkirk Herald, 4 September 1912. Played in a 10-seconds-a-move lightning
+tournament during the BCF Congress.} 1-0
+
+[Event "BCF-ch 9th Simul x 48"]
+[Site "Richmond"]
+[Date "1912.08.16"]
+[Round "?"]
+[White "Marshall, Frank James"]
+[Black "Bogdanor, Harry"]
+[Result "0-1"]
+[ECO "C56"]
+[PlyCount "100"]
+[EventDate "1912.08.16"]
+[EventType "simul"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John saunders"]
+[SourceDate "2023.02.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Bc4 d6 5. Nxd4 Nf6 6. O-O Ne5 7. Bb3 c5 8.
+Ba4+ Bd7 9. Bxd7+ Nfxd7 10. Nf5 Nf6 11. Nc3 g6 12. Ng3 a6 13. h3 Be7 14. Bh6
+Bf8 15. Bg5 Be7 16. f4 Nc6 17. Nd5 h6 18. Bxf6 Bxf6 19. e5 dxe5 20. Nxf6+ Qxf6
+21. Ne4 Qe7 22. Nd6+ Kf8 23. fxe5 Nxe5 24. Qd5 Rd8 25. Rad1 Rd7 26. Nxf7 Rxd5
+27. Nxe5+ Kg7 28. Rxd5 Rd8 29. Rfd1 Rxd5 30. Rxd5 Qg5 31. Rd7+ Kf6 32. Ng4+ Ke6
+33. Rxb7 h5 34. Rb6+ Kd5 35. Nf6+ Ke5 36. Nd7+ Kf4 37. Rb3 Qe7 38. Rf3+ Kg5 39.
+Nf6 Qe1+ 40. Rf1 Qe3+ 41. Kh1 Qe2 42. Nh7+ Kh6 43. Rf7 Qxc2 44. h4 Qc4 45. Ng5
+Qxh4+ 46. Nh3 Qc4 47. Rf6 Qc1+ 48. Kh2 Qxb2 49. Rxa6 Qe5+ 50. g3 Qe2+ {Source:
+Essex Times, Saturday, September 14, 1912 p.7. Contributed by Gerard Killoran,
+24 June 2021. US champion Frank Marshall arrived in Richmond and wanted to
+play in the Major Open but did not enter in time. He played a simul on Friday
+16 August: 48 games, scoring +18, =2, -2, with the rest unfinished, mostly in
+his favour (Falkirk Herald, 21 August 1912)} 0-1
+

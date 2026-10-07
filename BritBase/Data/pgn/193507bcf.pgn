@@ -1,0 +1,2087 @@
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Abrahams, Gerald"]
+[Black "Cole, Henry Holwell"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/r7/4PKR1/8/8/8/8/8 b - - 0 69"]
+[PlyCount "4"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+{Opening: Queen's Pawn.} 69... Rf7+ {(not sure where this rook came from -
+guessing a7)} 70. Ke5 Rf1 $2 71. Rf6+ {Source: BCM, Aug 1935, p346} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Cross, Rupert"]
+[Black "Spencer, Edmund"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+{Opening: QGD}  1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Michell, Reginald Pryce"]
+[Black "Davey, Stanley Clifford"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+{Opening: Sicilian, 19 moves}  1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Saunders, Harold"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[PlyCount "94"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 g6 7. d4 Bg7 8. Bg5 f6
+9. Be3 Nh6 10. h3 Nf7 11. Bb3 Qe7 12. Nbd2 O-O 13. dxe5 Ncxe5 14. Nxe5 fxe5 15.
+Nf3 Kh8 16. c4 b6 17. Qd2 Bc6 18. Bc2 Nd8 19. Ng5 h6 20. Nf3 Kh7 21. Kh2 Ne6
+22. Ng1 Rf7 23. Rae1 Raf8 24. b4 Bb7 25. f3 Rd8 26. Bb3 Rff8 27. Ne2 c5 28. Nc3
+cxb4 29. Nd5 Bxd5 30. cxd5 Nc5 31. Qxb4 Nd3 32. Qxb6 Nxe1 33. Rxe1 Ra8 34. Rc1
+Rf7 35. Ba4 Bf6 36. Bc6 Raf8 37. Qxa6 Bg5 38. Qe2 Bxe3 39. Qxe3 Qa7 40. Qxa7
+Rxa7 41. a4 Kg7 42. Rb1 Kf6 43. Rb6 Ke7 44. Bb5 Rc8 45. Kg3 Rf8 46. Kg4 Rf4+
+47. Kg3 Rf8 {Source: BCM, Sep 1935, p410} 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Tylor, Theodore Henry"]
+[Black "Lenton, Alfred"]
+[Result "0-1"]
+[ECO "B15"]
+[PlyCount "72"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bf5 7. Bf4 Nd7
+8. Bb3 Nb6 9. Ne2 Bd6 10. O-O O-O 11. c4 Bxf4 12. Nxf4 Re8 13. c5 Nd7 14. Re1
+Qa5 15. Re2 Qc7 16. Qd2 Rxe2 17. Nxe2 Nf8 18. Ng3 Bg6 19. f4 f5 20. h4 h6 21.
+h5 Bh7 22. Re1 Qd7 23. Re5 Ne6 24. Ne2 Kf8 25. Qe3 Nc7 26. Nc3 f6 27. Be6 Qe7
+28. Bxf5 fxe5 29. Bxh7 exd4 30. Qxd4 Ne6 31. Qe4 Qxc5+ 32. Kh2 Qxh5+ 33. Kg3
+Qf7 34. Qb4+ Qe7 35. Qc4 g5 36. f5 Qc7+ {Source: Glasgow Herald, 13 Jul 1935}
+0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Winter, William"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "D73"]
+[PlyCount "73"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 c6 5. Nf3 Bg7 6. Nc3 O-O 7. Ne5 dxc4 8. Nxc4
+Nd5 9. O-O Be6 10. Ne3 Nxc3 11. bxc3 Na6 12. f4 Qd7 13. Qd3 Nc7 14. Nc4 Rad8
+15. e4 Nb5 16. Be3 Nd6 17. Nxd6 Qxd6 18. f5 gxf5 19. exf5 Bd5 20. f6 Bxf6 21.
+Rf5 Bg7 22. Bxd5 cxd5 23. Raf1 Qe6 24. Rh5 Qg6 25. Qe2 Rc8 26. Bd2 Rc6 27. Rxd5
+Re6 28. Qg2 Qd3 29. Rd7 Re2 30. Rf2 Qb1+ 31. Qf1 Qxf1+ 32. Kxf1 Re6 33. Rxb7
+Ra6 34. Be1 e5 35. d5 f6 36. Rc7 Rb8 37. c4 {Source: Glasgow Herald, 13 Jul
+1935} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Cole, Henry Holwell"]
+[Black "Tylor, Theodore Henry"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Davey, Stanley Clifford"]
+[Black "Spencer, Edmund"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Golombek, Harry"]
+[Black "Cross, Rupert"]
+[Result "1-0"]
+[ECO "A34"]
+[PlyCount "61"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 c5 5. g3 g6 6. Bg2 Nxc3 7. bxc3 Bg7 8.
+O-O O-O 9. Qb3 Nc6 10. Ba3 Qa5 11. Bb2 Rb8 12. c4 Qb4 13. Bxg7 Qxb3 14. axb3
+Kxg7 15. d3 a6 16. Rfb1 Bg4 17. Rb2 Rfd8 18. Ne1 Rd6 19. h3 Bd7 20. Nc2 a5 21.
+Bxc6 Rxc6 22. Rxa5 Bxh3 23. b4 Re6 24. Ne3 cxb4 25. Kh2 Bf5 26. g4 Bxg4 27.
+Nxg4 f5 28. Ne3 f4 29. Nd5 Re5 30. Rb5 g5 31. R5xb4 {Source: The Times, 10 Jul
+1935.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Lenton, Alfred"]
+[Black "Saunders, Harold"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+{Opening: Dutch Defence}  1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Michell, Reginald Pryce"]
+[Black "Abrahams, Gerald"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Thomas, George Alan"]
+[Black "Winter, William"]
+[Result "1-0"]
+[ECO "D69"]
+[PlyCount "81"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+{Opening: QGD} 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7.
+Rc1 c6 8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. dxe5
+Nxe5 14. Nxe5 Qxe5 15. f4 Qe4 16. Bb3 Bf5 17. Bc2 Qe6 18. Bxf5 Qxf5 19. Qb3
+Rab8 20. Rd1 Rfd8 21. Rcd3 Rxd3 22. Qxd3 Qa5 23. Qd7 g6 24. a3 Qb6 25. Qd4 Re8
+(25... Qxd4 26. Rxd4 Re8 27. Rd7 Rxe3 28. Rxb7 {Thomas}) 26. Qxb6 axb6 27. Kf2
+Re7 28. Rd4 b5 29. e4 f6 30. Ke3 Kf7 31. g4 Ke6 32. h4 h6 33. Rd8 Rh7 34. f5+
+gxf5 35. gxf5+ Ke7 36. Rb8 Kd6 37. Re8 Kd7 38. Re6 Rf7 39. h5 Rf8 40. Kf4 Rf7
+41. e5 {Source: BCM, Sep 1935, p412 & The Times, 11 Jul 1935.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Cross, Rupert"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Davey, Stanley Clifford"]
+[Black "Abrahams, Gerald"]
+[Result "0-1"]
+[ECO "A84"]
+[PlyCount "116"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nd7 5. Nf3 f5 6. Bd3 Bd6 7. Bd2 a6 8. cxd5
+cxd5 9. Rc1 Nh6 10. Qc2 O-O 11. h3 Nf6 12. a3 Ne4 13. Ne2 Bd7 14. Bxe4 fxe4 15.
+Ne5 Bxe5 16. dxe5 Bb5 17. Bb4 Rf5 18. Qc7 Qh4 19. g3 Qh5 20. g4 Nxg4 21. Ng3
+Rxf2 22. hxg4 Re2+ 23. Nxe2 Qxh1+ 24. Kd2 Qg2 25. Re1 d4 26. exd4 Qf3 27. Qc3
+Bd3 28. d5 exd5 29. Qd4 Bc4 30. Qe3 $2 (30. e6) 30... Qg2 31. Rg1 Qh2 32. Rf1
+Bxe2 33. Qxe2 Qxe5 34. Kc1 a5 35. Bd2 Rc8+ {(Here BCM, Aug 1935, p347 reported
+that "by some oddness Davey completely ignored the check and moved Bd2-f4,
+attacking the queen. As a penalty he had to move Bd2-c3 and the bishop was
+lost after ...d5-d4.")} 36. Bc3 d4 37. Qf2 Qc5 38. Qf7+ Kh8 39. Rf5 Qd6 40.
+Qxb7 Rb8 41. Rc5 Qf8 42. Rf5 Qg8 43. Qd5 dxc3 44. Qxg8+ Kxg8 45. bxc3 Rb3 46.
+Rxa5 Rxc3+ 47. Kb2 Rg3 48. g5 e3 49. Re5 e2 50. a4 Kf7 51. Rxe2 Rxg5 52. Kb3
+Ra5 53. Kb4 Ra8 54. a5 g5 55. Kb5 h5 56. a6 g4 57. Ra2 g3 58. Kc4 h4 {Source:
+BCM, Sep 1935, p413.} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Saunders, Harold"]
+[Black "Cole, Henry Holwell"]
+[Result "0-1"]
+[ECO "C11"]
+[PlyCount "64"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5 7. Qg4 O-O 8. Nf3
+f5 9. Qh3 Be7 10. Be3 a6 11. g4 fxg4 12. Qxg4 Rf7 13. Qxe6 Bh4+ 14. Ke2 d4 15.
+Bxd4 Nxe5 16. Qd5 Nxf3 17. Qxd8+ Bxd8 18. Kxf3 b5 19. Rg1 Nc6 20. Be3 Bh4 21.
+Bg2 Be6 22. Rad1 Ne5+ 23. Ke4 Nc4 24. b3 Nxe3 25. Kxe3 Rc8 26. Ne2 Re7 27. Kf3
+h5 28. h3 Rxc2 29. Ng3 Rc3+ 30. Kf2 Bxg3+ 31. Kf1 Rc2 32. Rd8+ Kf7 {Source:
+Glasgow Herald, 27 Jul 1935} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Spencer, Edmund"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Tylor, Theodore Henry"]
+[Black "Michell, Reginald Pryce"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "76"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Britbase"]
+[SourceDate "2018.04.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.04.26"]
+[SourceQuality "2"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 e6 6. Bf4 Nc6 7. e3 Bd6 8. Bg3
+Qe7 9. Ne5 Bxe5 10. dxe5 Nd7 11. f4 O-O 12. Bd3 f5 13. exf6 Nxf6 14. O-O Bd7
+15. Kh1 Nb4 16. Bb1 Rac8 17. a3 Na6 18. Bh4 Bc6 19. b4 Nc7 20. Qd3 Qd7 21. a4
+b5 22. Rf3 g6 23. Qd4 Ne4 24. Nxe4 dxe4 25. Qxd7 Bxd7 26. Bxe4 bxa4 27. Be7 Rf7
+28. Bc5 Nd5 29. Bxd5 exd5 30. Bxa7 Bg4 31. Rg3 Rxa7 32. Rxg4 Rc4 33. Rg5 Rxb4
+34. Rxd5 a3 35. Rdd1 a2 36. Kg1 Rb2 37. Rf1 Rab7 38. e4 Re2 {Source:
+Manchester Guardian, 12 Jul 1935, p5. Contributed by Eduardo Bauza, 26 April
+2018.} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Winter, William"]
+[Black "Lenton, Alfred"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Abrahams, Gerald"]
+[Black "Tylor, Theodore Henry"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Cole, Henry Holwell"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Golombek, Harry"]
+[Black "Davey, Stanley Clifford"]
+[Result "1-0"]
+[ECO "A27"]
+[PlyCount "65"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Nxc6 bxc6 7. g3 Ne7 8.
+Bg2 O-O 9. O-O h6 10. Be3 Kh7 11. Bd4 f6 12. e4 d6 13. Qd2 Be6 14. b3 c5 15.
+Be3 Rb8 16. Rad1 Qc8 17. Rfe1 Re8 18. f3 a6 19. Re2 Bd7 20. Bxc5 Bc6 21. Bd4 g5
+22. Nd5 Nxd5 23. exd5 Bd7 24. Rde1 Qd8 25. Qd3+ Kg8 26. Rxe8+ Bxe8 27. Bh3 Bd7
+28. Be6+ Kf8 29. Qf5 Be8 30. Qh7 Bf7 31. Bxf7 Kxf7 32. Re6 Qh8 33. Rxf6+ {
+Source: The Times, 13 Jul 1935.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Lenton, Alfred"]
+[Black "Cross, Rupert"]
+[Result "1-0"]
+[ECO "A30"]
+[PlyCount "91"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O g6 6. Nc3 Bg7 7. d4 cxd4 8. Nb5
+O-O 9. Nbxd4 Qc8 10. b3 d5 11. Ba3 dxc4 12. Bxe7 Re8 13. Bxf6 Bxf6 14. Rc1 c3
+15. Nb5 Rd8 16. Qc2 Na6 17. a3 Qd7 18. Nxc3 Rac8 19. Ne4 Bg7 20. Qb1 Qe7 21.
+Rxc8 Rxc8 22. Nfd2 Rd8 23. Qc2 b5 24. b4 f5 25. Nc3 Bxg2 26. Kxg2 Qc7 27. Qb3+
+Kh8 28. Ndb1 Nb8 29. Kg1 Qc4 30. Qxc4 bxc4 31. Rd1 Rxd1+ 32. Nxd1 Nd7 33. Ndc3
+Nf6 34. Kf1 Kg8 35. Ke1 Kf7 36. h3 Ke6 37. Kd2 Nd5 38. Nxd5 Kxd5 39. Nc3+ Kc6
+40. e3 Kb6 41. Ne2 Kb5 42. Nd4+ Ka4 43. Kc3 Kxa3 44. Kxc4 Ka4 45. Nc6 a6 46. f3
+1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Michell, Reginald Pryce"]
+[Black "Saunders, Harold"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Thomas, George Alan"]
+[Black "Spencer, Edmund"]
+[Result "1-0"]
+[ECO "C67"]
+[PlyCount "73"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Qe2 Nf6 6. Bxc6 dxc6 7. Qxe5+ Be6
+8. Ng5 Bd6 9. Nxe6 Bxe5 10. Nxd8 Kxd8 11. d4 Bd6 12. Bg5 Kd7 13. Bxf6 gxf6 14.
+Nd2 Rae8 15. Rfe1 Re6 16. Kf1 Rhe8 17. Rad1 b6 18. Nf3 Kc8 19. Nh4 c5 20. d5
+Rxe1+ 21. Rxe1 Rxe1+ 22. Kxe1 Be5 23. c3 c6 24. dxc6 Kc7 25. Nf5 Kxc6 26. g3
+Kd7 27. f4 Bc7 28. Ke2 b5 29. Kf3 a5 30. Ke4 a4 31. Kd5 b4 32. c4 Bb6 33. b3
+axb3 34. axb3 Ba7 35. Nd6 h5 36. Ne4 h4 37. gxh4 {Source: BCM, Sep 1935, p420}
+1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Cross, Rupert"]
+[Black "Cole, Henry Holwell"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Golombek, Harry"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[ECO "E06"]
+[PlyCount "115"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 c5 5. cxd5 Nxd5 6. O-O Be7 7. d4 O-O 8. e4
+Nf6 9. Nc3 cxd4 10. Nxd4 Bc5 11. Be3 Qe7 12. Qe2 Bxd4 13. Bxd4 Nc6 14. Be3 Rd8
+15. Rfd1 Bd7 16. f4 Ne8 17. e5 b6 18. Rd2 Rac8 19. Rad1 Na5 20. Bf2 Bc6 21. Ne4
+Rxd2 22. Qxd2 Bd5 23. f5 Nb7 24. f6 Qf8 25. Qg5 g6 26. Qd2 Nc7 27. Rc1 Na6 28.
+Nd6 Rxc1+ 29. Qxc1 Bxg2 30. Kxg2 Nbc5 31. Qc4 Qa8+ 32. Kg1 Qd5 33. Qb5 Nc7 34.
+Qe2 Nd7 35. Nc8 Qxe5 36. Qxe5 Nxe5 37. Nxa7 Nd7 38. a4 Nd5 39. Nc8 Kf8 40. Kf1
+N7xf6 41. Nxb6 Nxb6 42. Bxb6 Nd5 43. Bc5+ Ke8 44. Ke2 Kd7 45. Kd3 Kc6 46. b4 f5
+47. Kd4 g5 48. b5+ Kd7 49. a5 f4 50. gxf4 gxf4 51. a6 Nc7 52. Kc4 Kc8 53. a7
+Kb7 54. b6 Nd5 55. Bf2 f3 56. Kd3 Nf6 57. h3 e5 58. Ke3 {Source: The Field, 24
+Aug 1935, p453.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Saunders, Harold"]
+[Black "Abrahams, Gerald"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Spencer, Edmund"]
+[Black "Lenton, Alfred"]
+[Result "0-1"]
+[ECO "B13"]
+[PlyCount "52"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Nf3 e6 8.
+Nbd2 Bd6 9. Bg3 O-O 10. O-O Rc8 11. Re1 Qc7 12. Rc1 Rfd8 13. Qe2 Na5 14. Be5
+Qe7 15. Qe3 Nc4 16. Nxc4 dxc4 17. Bc2 Nd5 18. Qg5 Qxg5 19. Nxg5 h6 20. Nf3 Bxf3
+21. gxf3 Bxe5 22. Rxe5 Rd6 23. Be4 Nf4 24. Rc2 f5 25. Bxb7 Rc7 26. Rb5 a6 {
+Sources: Manchester Guardian, 15 July 1935; Otago Daily Times, 9 November 1935.
+Contributed by Alan Smith, 17 April 2018.} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Tylor, Theodore Henry"]
+[Black "Davey, Stanley Clifford"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Winter, William"]
+[Black "Michell, Reginald Pryce"]
+[Result "1-0"]
+[ECO "E37"]
+[PlyCount "73"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 O-O 8.
+e3 f5 9. Ne2 Nd7 10. Nf4 Ndf6 11. f3 Nd6 12. b3 c6 13. Bd3 Bd7 14. Bb2 Qe7 15.
+O-O Rad8 16. Rae1 Bc8 17. Kh1 Rf7 18. c5 Nde8 19. g4 g6 20. g5 Nd7 21. h4 Ng7
+22. Qh2 e5 23. dxe5 Nxe5 24. Bb1 Re8 25. h5 Nxh5 26. Nxh5 gxh5 27. Qxh5 Qe6 28.
+f4 Ng4 29. Rg1 Ref8 30. Rxg4 fxg4 31. g6 Rg7 32. Bxg7 Kxg7 33. Qxh7+ Kf6 34. f5
+Qd7 35. Qh4+ Kg7 36. Qh7+ Kf6 37. Qh4+ {Source: The Times, 13 Jul 1935 (BCM,
+Sept 1935, p415, gives the game as ending after 35.Qh4+)} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Abrahams, Gerald"]
+[Black "Winter, William"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Cole, Henry Holwell"]
+[Black "Spencer, Edmund"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Davey, Stanley Clifford"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "D53"]
+[PlyCount "72"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. e3 Be7 6. Nf3 Ne4 7. Nxe4 dxe4 8.
+Bxe7 Qxe7 9. Nd2 f5 10. c5 O-O 11. Qb3 Nd7 12. Nc4 Kh8 13. Be2 e5 14. Qc3 exd4
+15. exd4 Nf6 16. Ne5 Nd5 17. Qh3 Qg5 18. Bc4 Be6 19. Qg3 Qe7 20. Bxd5 Bxd5 21.
+h4 Qe6 22. Qf4 b6 23. b4 bxc5 24. bxc5 Rfb8 25. O-O Rb7 26. Rab1 Re7 27. Rb2
+Rg8 28. h5 g5 29. hxg6 hxg6 30. Qh6+ Rh7 31. Qe3 g5 32. Rfb1 f4 33. Qc3 Qh6 34.
+Kf1 Qh1+ 35. Ke2 Qxg2 36. Qe1 e3 {Source: The Times, 15 Jul 1935} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Lenton, Alfred"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Michell, Reginald Pryce"]
+[Black "Cross, Alfred Rupert Neale"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "59"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.11.27"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 Ne4 8. Bxe7
+Qxe7 9. Qc2 Nxc3 10. Qxc3 c6 11. Bd3 Nd7 12. O-O dxc4 13. Bxc4 b6 14. Rfe1 c5
+15. e4 cxd4 16. Nxd4 Bb7 17. Qg3 Nf6 18. e5 Ne4 19. Qe3 Rac8 20. b3 a6 21. a4
+Rfd8 22. Rad1 Rc7 23. h3 Nc5 24. Rd2 Nd7 25. Red1 Qc5 26. Nc2 Qe7 27. Qe2 Rcc8
+28. Kh1 Nc5 29. Nd4 Rc7 30. Nf5 {Source: Liverpool Daily Post - Wednesday 17
+July 1935 p.13. Contributed by Gerard Killoran, via the English Chess Forum,
+26 November 2022.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Tylor, Theodore Henry"]
+[Black "Saunders, Harold"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "95"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bd3 Nc6 6. Nce2 Nb4 7. Nf3 Nxd3+
+8. Qxd3 Be7 9. Ng3 O-O 10. O-O Ne8 11. Re1 Nd6 12. Bf4 Bf6 13. Re2 Bg4 14. h3
+Bxf3 15. Qxf3 Bxd4 16. c3 Bb6 17. Qxd5 Qf6 18. Bxd6 Qxd6 19. Qxb7 Qxg3 20. Qxb6
+Qxg2+ 21. Kxg2 axb6 22. Re7 c5 23. a3 g6 24. Rd1 Rfe8 25. Rxe8+ Rxe8 26. Rd6
+Rb8 27. Rc6 Kf8 28. Kf3 Ke7 29. Ke4 h5 30. Kd5 Rd8+ 31. Ke5 Rd2 32. Rxb6 f6+
+33. Ke4 Rxf2 34. a4 g5 35. a5 Rf1 36. a6 Ra1 37. Kf5 c4 38. Re6+ Kd7 39. Rxf6
+Ra5+ 40. Ke4 g4 41. hxg4 hxg4 42. Kf4 Kc7 43. Kxg4 Ra2 44. Rf7+ Kb8 45. Rb7+
+Ka8 46. Rb5 Ka7 47. Kf4 Rxa6 48. Ke5 {Source: BCM, Sep 1935, p410} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Cross, Rupert"]
+[Black "Abrahams, Gerald"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Davey, Stanley Clifford"]
+[Black "Saunders, Harold"]
+[Result "1-0"]
+[ECO "A84"]
+[PlyCount "19"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 O-O 7. Nc3 c5 8.
+Rd1 cxd4 9. Nxd4 a6 $4 10. Nxe6 {... etc... "Saunders hung on for 34 moves,
+But Davey won neatly". Source: BCM, Aug 1935.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Golombek, Harry"]
+[Black "Cole, Henry Holwell"]
+[Result "1-0"]
+[ECO "A28"]
+[PlyCount "81"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Be7 7. g3 O-O 8.
+Bg2 c6 9. O-O d6 10. Rd1 Qa5 11. b3 Bf5 12. Bb2 Qe5 13. Qd2 Qe6 14. e4 Bh3 15.
+Bh1 Rfe8 16. Re1 Ng4 17. Ne2 g5 18. Nd4 Qg6 19. Nf5 Bf8 20. Rad1 Re6 21. Qc3 f6
+22. Ba3 Rd8 23. f3 Ne5 24. Ne3 b6 25. Rd2 h5 26. Qc2 Rde8 27. Red1 c5 28. Nd5
+Rd8 29. f4 gxf4 30. Nxf4 Qg4 31. Nxe6 Qxe6 32. Rf2 Ng4 33. e5 Nxf2 34. Bd5 Nxd1
+35. Qg6+ Kh8 36. Bxe6 Bxe6 37. Qxf6+ Bg7 38. Qxd8+ Kh7 39. Qxd6 Bg4 40. Qd3+
+Kg8 41. h3 {Source: BCM, Sep 1935, p420} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Spencer, Edmund"]
+[Black "Michell, Reginald Pryce"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Thomas, George Alan"]
+[Black "Lenton, Alfred"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Winter, William"]
+[Black "Tylor, Theodore Henry"]
+[Result "1-0"]
+[ECO "D34"]
+[PlyCount "51"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. Nf3 c5 5. cxd5 exd5 6. g3 Nc6 7. Bg2 Be7 8. O-O
+O-O 9. dxc5 d4 10. Na4 Bf5 {(This position was reached via an unknown move
+order)} 11. b4 d3 12. e3 Nxb4 13. Nd4 Nc2 14. Nxf5 Nxa1 15. Nxe7+ Qxe7 16. Qxd3
+Qd7 17. Qxd7 Nxd7 18. Bxb7 Rab8 19. c6 Nc2 20. Bd2 Ne5 21. Rc1 Nf3+ 22. Kg2
+Nxd2 23. Rxc2 Nb1 24. c7 Rbc8 25. Bxc8 Rxc8 26. Rb2 {Source: BCM, Aug 1935.}
+1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Abrahams, Gerald"]
+[Black "Spencer, Edmund"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Cole, Henry Holwell"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "B23"]
+[PlyCount "64"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. f4 d6 5. Nf3 Bg7 6. O-O e6 7. d3 Nge7 8. a3
+O-O 9. Ne2 b6 10. c3 d5 11. Ba2 dxe4 12. dxe4 Ba6 13. Qxd8 Rfxd8 14. Kf2 Na5
+15. Rb1 Bd3 16. Ra1 Bxe4 17. b4 Nb7 18. Ne5 Nc6 19. Nxc6 Bxc6 20. Be3 Nd6 21.
+Rac1 Nf5 22. g4 Nxe3 23. Kxe3 cxb4 24. axb4 a5 25. bxa5 Rxa5 26. Bb3 Ra3 27.
+Bc4 b5 28. Bd3 b4 29. Ra1 Rxa1 30. Rxa1 bxc3 31. Ra3 e5 32. fxe5 Bh6+ {Source:
+Cole scoresheet (photocopy in possession of Brian Denman)} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Lenton, Alfred"]
+[Black "Davey, Stanley Clifford"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Michell, Reginald Pryce"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "72"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Britbase"]
+[SourceDate "2018.04.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.04.26"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. h3 Nbd7 7. Nf3 dxc4 8. Bxc4
+Nb6 9. Bb3 Nbd5 10. Bh2 Qa5 11. Rc1 Nxc3 12. bxc3 O-O 13. O-O Nd7 14. Qc2 c5
+15. Qe4 Qd8 16. Rfd1 Nf6 17. Qd3 Bf5 18. Qb5 cxd4 19. cxd4 Be4 20. Bc7 Qe8 21.
+Qxe8 Rfxe8 22. d5 Bf5 23. Nd4 Bd7 24. f3 Rec8 25. Be5 Ne8 26. Bxg7 Kxg7 27. Kf2
+Nd6 28. e4 Rxc1 29. Rxc1 Rc8 30. Rxc8 Nxc8 31. Ke3 Nb6 32. Nc2 Bb5 33. Kd4 Kf8
+34. Ne3 Ke8 35. f4 f6 36. g3 Kd7 {Source: Manchester Guardian, 18 Jul 1935, p3.
+Contributed by Eduardo Bauza, 26 April 2018.} 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Saunders, Harold"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[PlyCount "73"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Bg5 Ne4 7. Nxe4 dxe4 8.
+Qd2 Bg7 9. Rd1 Nc6 10. Ne2 Bg4 11. Be3 e5 12. d5 Nd4 13. h3 Bxe2 14. Bxe2 f5
+15. O-O O-O 16. f4 Nxe2+ 17. Qxe2 exf4 18. Bxf4 Rc8 19. Be3 Be5 20. Bxa7 Qa5
+21. Bd4 Bxd4+ 22. Rxd4 Qxa2 23. Rc1 Qa7 24. Rcd1 f4 25. Kf1 f3 26. Qxe4 Rce8
+27. Qg4 f2 28. Re4 Rxe4 29. Qxe4 Qa4 30. Qd3 Qb4 31. d6 Qxb2 32. Qd5+ Kg7 33.
+d7 Rd8 34. c5 Qb5+ 35. Kxf2 Qc6 36. Ke3 Qxd5 37. Rxd5 {Source: BCM, Sep 1935,
+p420} 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Tylor, Theodore Henry"]
+[Black "Cross, Rupert"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.17"]
+[Round "9"]
+[White "Cross, Rupert"]
+[Black "Saunders, Harold"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.17"]
+[Round "9"]
+[White "Golombek, Harry"]
+[Black "Abrahams, Gerald"]
+[Result "1-0"]
+[ECO "A34"]
+[PlyCount "53"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. c4 c5 2. Nc3 b6 3. Nf3 Bb7 4. e4 g6 5. d4 Bg7 6. d5 d6 7. Bd3 Nd7 8. O-O
+Ngf6 9. h3 h6 10. Qe2 g5 11. e5 dxe5 12. Nxe5 Nxe5 13. Qxe5 O-O 14. Qe2 e6 15.
+dxe6 Re8 16. exf7+ Kxf7 17. Qc2 Kg8 18. Be3 g4 19. Rad1 Qc7 20. Bf5 gxh3 21.
+Bxh3 Ne4 22. Rd7 Qb8 23. Nxe4 Bxe4 24. Qd2 Bc6 25. Bf4 Re2 26. Rxg7+ Kxg7 27.
+Qc3+ {Sources: The Scotsman, 19 July 1935; BCM, Aug 1935, p350.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.17"]
+[Round "9"]
+[White "Lenton, Alfred"]
+[Black "Cole, Henry Holwell"]
+[Result "1-0"]
+[ECO "A13"]
+[PlyCount "39"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. Nf3 e6 2. c4 d5 3. g3 d4 4. e3 c5 5. a3 Nc6 6. exd4 Nxd4 7. Nxd4 cxd4 8. Bg2
+Qc7 9. d3 Bd7 10. O-O Bc6 11. Nd2 Bxg2 12. Kxg2 h5 13. Nf3 Qd7 14. Ne5 Qc7 15.
+Qa4+ Ke7 16. Bf4 Qd8 17. Bg5+ Nf6 18. Qb4+ Ke8 19. Qb5+ Ke7 20. Qxb7+ {Source:
+Glasgow Herald, 19 Jul 1935} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.17"]
+[Round "9"]
+[White "Spencer, Edmund"]
+[Black "Tylor, Theodore Henry"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.17"]
+[Round "9"]
+[White "Thomas, George Alan"]
+[Black "Michell, Reginald Pryce"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[PlyCount "88"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Qe2 d6 8. c3
+O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c5 12. b3 Nb7 13. h3 Bd7 14. Kh2 Ne8 15. Nbd2
+Qc8 16. c4 Nc7 17. Ne1 Nd8 18. Bb2 Bg5 19. Rd1 Rb8 20. Bc3 b4 21. Bb2 f6 22.
+Ndf3 Bf4+ 23. g3 Bh6 24. Ng1 f5 25. exf5 Bxf5 26. Ng2 Bxc2 27. Qxc2 Ne8 28. Bc1
+Bxc1 29. Qxc1 Nf6 30. f4 exf4 31. Nxf4 Re8 32. Nf3 Rb7 33. Ng5 Nf7 34. Nge6 Ne5
+35. Qc2 a5 36. Nd3 Nxd3 37. Rxd3 Ree7 38. Rdf3 Qe8 39. Qf5 Rf7 40. R1f2 g6 41.
+Qf4 Rbe7 42. Qh6 $2 (42. Qxf6 $1) (42. Qxd6 $1) 42... Nd7 43. Kg2 Rxf3 44. Rxf3
+Rf7 {Source: BCM, Sep 1935, p419} 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.17"]
+[Round "9"]
+[White "Winter, William"]
+[Black "Davey, Stanley Clifford"]
+[Result "1-0"]
+[ECO "A91"]
+[PlyCount "59"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nh3 Be7 5. O-O O-O 6. c4 Qe8 7. Nc3 Bd8 8. Qb3
+Nc6 9. d5 Ne5 10. dxe6 dxe6 11. Be3 a6 12. Rad1 Nc6 13. Nf4 Kh8 14. Bc5 Rg8 15.
+e3 Rb8 16. Qc2 b6 17. Ba3 Bb7 18. Rd2 Ne5 19. b3 Bxg2 20. Kxg2 g5 21. Nd3 Qc6+
+22. e4 Neg4 23. Bb2 Nxe4 24. Nb4 Qb7 25. Nxe4+ Bf6 26. h3 Ne5 27. Nd5 Bg7 28.
+Nxg5 exd5 29. Qxf5 dxc4+ 30. f3 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.18"]
+[Round "10"]
+[White "Abrahams, Gerald"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "D61"]
+[PlyCount "70"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 Nbd7 6. e3 Be7 7. Qc2 O-O 8. Rd1
+Re8 9. Bd3 dxc4 10. Bxc4 Nd5 11. h4 f6 12. Bf4 Nxf4 13. exf4 Bd6 14. g3 Nb6 15.
+Bd3 f5 16. Kf1 Nd5 17. Qe2 Bd7 18. Ng5 Re7 19. Nxd5 cxd5 20. Qh5 g6 21. Qe2 h6
+22. h5 hxg5 23. hxg6 g4 24. f3 Be8 25. Rh6 Kg7 26. Qh2 Bxg6 27. fxg4 Re8 28.
+gxf5 exf5 29. g4 Rh8 30. g5 Qf8 31. Re1 Re8 32. Be2 Qe7 33. Qg2 Rxh6 34. gxh6+
+Kh7 35. Qxd5 Bb4 {Source: BCM, Sep 1935, p421} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.18"]
+[Round "10"]
+[White "Davey, Stanley Clifford"]
+[Black "Cole, Henry Holwell"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.18"]
+[Round "10"]
+[White "Michell, Reginald Pryce"]
+[Black "Lenton, Alfred"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.18"]
+[Round "10"]
+[White "Saunders, Harold"]
+[Black "Spencer, Edmund"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.18"]
+[Round "10"]
+[White "Tylor, Theodore Henry"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "B13"]
+[PlyCount "51"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3 Na5 8.
+Qc2 Qb6 9. Nd2 Rc8 10. Ngf3 e6 11. O-O Be7 12. Rfe1 Bh5 13. Ne5 O-O 14. Bg5 Qd8
+15. f4 Bg6 16. f5 exf5 17. Bxf5 Rc7 18. Rf1 b5 19. Bxg6 hxg6 20. Rf3 Nc4 21.
+Ndxc4 bxc4 22. Raf1 Qe8 23. Qc1 Rb7 24. Qe1 Rxb2 25. Qh4 Rb7 26. g4 {Source:
+BCM, Aug 1935, p351.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.18"]
+[Round "10"]
+[White "Winter, William"]
+[Black "Cross, Rupert"]
+[Result "1-0"]
+[ECO "D68"]
+[PlyCount "95"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. Qc2 e4 14. Nd2 Nf6
+15. a3 Bf5 16. f4 Rad8 17. b4 Rfe8 18. Re1 Qd7 19. Nb3 Qe7 20. Nc5 Bc8 21. Rb1
+Nd7 22. Nxd7 Bxd7 23. Bb3 Qd6 24. Rc5 Be6 25. Bxe6 Rxe6 26. Re5 Rxe5 27. fxe5
+Qg6 28. Rf1 f5 29. Qc5 Qg5 30. Rf4 a6 31. Qa7 g6 32. Qb6 Qe7 33. Qc5 Qxc5 34.
+bxc5 Kf7 35. g4 Ke6 36. gxf5+ gxf5 37. Rh4 Rg8+ 38. Kf2 Rg7 39. Rh6+ Ke7 40.
+Rf6 Rg5 41. Rh6 Rg7 42. h4 Rf7 43. Kg3 a5 44. a4 Kf8 45. Kf4 Ke7 46. h5 Rf8 47.
+Rxh7+ Ke6 48. Rh6+ {Source: BCM, Sep 1935, p421} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.19"]
+[Round "11"]
+[White "Cole, Henry Holwell"]
+[Black "Michell, Reginald Pryce"]
+[Result "1-0"]
+[ECO "B02"]
+[PlyCount "27"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Qf3 c6 6. Qxd5 cxd5 7. d4 Nc6
+8. Be3 Bf5 9. Bb5 Bxc2 10. Rc1 Bf5 11. Rxc6 Bd7 12. Rc5 e5 13. Bxd7+ Kxd7 14.
+Rxd5+ {Source: BCM, Aug 1935, p352.} 1-0
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.19"]
+[Round "11"]
+[White "Cross, Rupert"]
+[Black "Davey, Stanley Clifford"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.19"]
+[Round "11"]
+[White "Golombek, Harry"]
+[Black "Saunders, Harold"]
+[Result "0-1"]
+[ECO "E67"]
+[PlyCount "56"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. d4 h6 8. e4
+Kh7 9. h3 Ng8 10. Be3 e5 11. Qd2 Qe7 12. Rad1 exd4 13. Bxd4 f6 14. Nd5 Qd8 15.
+b3 Ne5 16. Ne1 Nc6 17. Bc3 Be6 18. f4 f5 19. Bxg7 Kxg7 20. Qc3+ Kh7 {
+"Forgetting that the rooks were disconnected, [Golombek] went} 21. e5 dxe5 22.
+Nb6 $4 {"and resigned on the 29th move." (BCM, Aug 1935, p352)} Qxd1 23. Nxa8
+Nd4 24. Kh1 Rxa8 25. fxe5 Rd8 26. Nd3 Ne2 27. Rxd1 Nxc3 28. Rd2 Ne4 {Source:
+The Times, 20 Jul 1935. Golombek in 'Chess Treasury of the Air' (1966) by
+Terence Tiller: "In the penultimate* round I met Harold Saunders, a player
+whom I had beaten resoundingly on the three occasions when we had met. Now I
+chose to make a nice combination against him involving a piece sacrifice and
+overlooking that I had a pawn on d5 that blocked the long diagonal of my g2
+bishop. That cost me the title*." (* incorrect on two counts - the game
+occurred in the last round and had Golombek won, he would still have been half
+a point behind Winter)} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.19"]
+[Round "11"]
+[White "Lenton, Alfred"]
+[Black "Abrahams, Gerald"]
+[Result "0-1"]
+[ECO "A04"]
+[PlyCount "76"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. Nf3 b5 2. g3 Bb7 3. Bg2 e6 4. O-O c5 5. d3 d5 6. c4 Nf6 7. cxb5 Bd6 8. d4
+Nbd7 9. Nc3 h5 10. Bg5 Qc7 11. dxc5 Nxc5 12. Rc1 Qb8 13. Nd4 h4 14. Bxh4 Rxh4
+15. gxh4 Bxh2+ 16. Kh1 Ng4 17. Nxd5 Qd8 18. Rxc5 Qxh4 19. Nf3 Qh6 20. Qc2 Ne5
+21. Rd1 Nxf3 22. exf3 exd5 23. f4 Bxf4+ 24. Kg1 Kf8 25. Rd3 Re8 26. Kf1 Qe6 27.
+Qd1 Qb6 28. Rcxd5 Bxd5 29. Rxd5 Qa5 30. a3 g5 31. Bh3 Qb6 32. a4 Qh6 33. Bg2
+Qf6 34. b3 Rc8 35. Qd3 Qa1+ 36. Ke2 Qb2+ 37. Kf3 Rc3 38. Bh3 Qxb3 {Source: BCM,
+Sept 1935, p421} 0-1
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.19"]
+[Round "11"]
+[White "Spencer, Edmund"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+ 1/2-1/2
+
+[Event "BCF-ch 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.19"]
+[Round "11"]
+[White "Thomas, George Alan"]
+[Black "Tylor, Theodore Henry"]
+[Result "0-1"]
+[ECO "D63"]
+[PlyCount "68"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6 8. a3
+Ne4 9. Bxe7 Qxe7 10. Qc2 f5 11. Bd3 Rf6 12. Ne5 Nxe5 13. dxe5 Rh6 14. Ne2 Bd7
+15. f4 g5 16. cxd5 exd5 17. Bxe4 fxe4 18. g3 gxf4 19. gxf4 Kf7 20. Qb3 Rg8 21.
+Kd2 Rg2 22. Rcg1 Rgxh2 23. Rxh2 Rxh2 24. Qxb7 Rxe2+ 25. Kd1 Rxe3 26. f5 Rd3+
+27. Ke2 Kf8 28. Qb8+ Be8 29. b4 Rxa3 30. f6 Ra2+ 31. Ke1 Qe6 32. Qc7 Qd7 33.
+Rg7 Ra1+ 34. Kf2 Qf5+ {Source: Glasgow Herald, 3 Aug 1935} 0-1
+
+[Event "BCF-chW 28th"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Michell, Edith Mary Ann"]
+[Black "Reid, Elsie Margaret"]
+[Result "1-0"]
+[ECO "D05"]
+[PlyCount "47"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Nf6 4. Bd3 Nbd7 5. Nbd2 c5 6. c3 Bd6 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Nf6 11. Bc2 cxd4 12. Qxd4 Be7 13. Qh4 h6 14. Bxh6 g6
+15. Bxf8 Qxf8 16. Qd4 b6 17. Ne5 Bb7 18. Nd7 Nxd7 19. Qxd7 Ba6 20. Rfe1 Bf6 21.
+Rad1 Qe8 22. Qxe8+ Rxe8 23. Rd7 Re7 24. Red1 {Source: Staffordshire Advertiser,
+17 Aug 1935. Miss Reid came from Leicester. Contributed by Brian Denman, March
+2019.} 1-0
+
+[Event "BCF-ch 28th First Class A"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Heneage, Hugh Windsor Fiesch"]
+[Black "Butcher, Cecil George"]
+[Result "0-1"]
+[ECO "B20"]
+[PlyCount "14"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. Bb5+ Nc6 5. exd5 Qxd5 6. c4 Qe5+ 7. Ne2 Qxa1 {
+Source: Borough of West Ham, East Ham and Stratford Express, 3 Aug 1935,
+updated 13 Oct 2015, contributed by Brian Denman. The columnist, F W Markwick,
+wrote; 'Much too skittly for a first-class tournament game!'} 0-1
+
+[Event "BCF-ch 28th First Class A"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Heneage, Hugh Windsor Fiesch"]
+[Black "Henderson, William"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "53"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Nf6 6. O-O O-O 7. Re1 Bg4 8.
+Be3 c6 9. c4 Nbd7 10. Nbd2 Re8 11. c5 Bc7 12. b4 Ne4 13. Qc2 Ndf6 14. Ng5 Nxg5
+15. Bxg5 h6 16. Rxe8+ Qxe8 17. Bxf6 gxf6 18. Nf1 Bh5 19. Ne3 Bg6 20. Nf5 Kh7
+21. Qd2 Qf8 22. Re1 Bd8 23. Re8 Bxf5 24. Rxf8 Bxd3 25. Qxd3+ Kg7 26. Re8 f5 27.
+Qg3+ {Source: Sussex Daily News, 15 Aug 1935. Britbase update 13 Oct 2015,
+contributed by Brian Denman.} 1-0
+
+[Event "BCF-ch 28th First Class A"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Heneage, Hugh Windsor Fiesch"]
+[Black "Keeble, John"]
+[Result "0-1"]
+[ECO "C30"]
+[PlyCount "38"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nc6 5. c3 Nf6 6. d3 O-O 7. Qe2 exf4 8. d4
+Bb6 9. O-O Re8 10. Bxf4 d5 11. Bb3 Rxe4 12. Be3 Ng4 13. Bg5 Rxe2 14. Bxd8 Nxd8
+15. Nbd2 c6 16. Rae1 Rxe1 17. Rxe1 Ne6 18. Bc2 Bd7 19. Bf5 Nxd4 {Source:
+Falkirk Herald, 24 Jul 1935, p10. Contributed by Eduardo Bauza, 26 April 2018.}
+0-1
+
+[Event "BCF-ch 28th First Class B"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Lacy-Hulbert, Arthur Percival"]
+[Black "Randall, Ernest J"]
+[Result "1-0"]
+[ECO "D63"]
+[PlyCount "55"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Be7 5. e3 O-O 6. Nc3 Nbd7 7. Rc1 c6 8. a3
+Re8 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. O-O N7f6 13. Bd3 Nxc3 14. Rxc3
+Nd5 15. Rc4 f5 16. Bb1 Rb8 17. Re1 Qf6 18. Ne5 Nb6 19. Rc3 g6 20. e4 Bd7 21.
+Rf3 Re7 22. Qc1 Rf8 23. Qc5 Be8 24. Ng4 Qg7 25. exf5 Nd7 26. Qd6 gxf5 27. Nh6+
+Kh8 28. Nxf5 {Source: Staffordshire Advertiser, 10 Aug 1935. Contributed by
+Brian Denman, March 2019.} 1-0
+
+[Event "BCF-ch 28th First Class B"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Lacy-Hulbert, Arthur Percival"]
+[Black "James, Howard Cecil (Rev)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2nk1/pp2rp2/2p4R/4p1P1/1q1P4/3BPN2/PP2KQ2/7R w - - 0 21"]
+[PlyCount "14"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+21. Rh8+ ({"Here White had the game in his hands by playing} 21. Qh4 {at once;
+but he thought he saw a mate in 6 or 7 moves (barring 2 checks from Black) by
+the sacrifice of both of his rooks! So the game continued...}) 21... Kg7 22.
+R1h7+ Nxh7 23. Rxh7+ Kg8 24. Rh8+ Kg7 ({Now if} 24... Kxh8 25. Qh4+ Kg7 26.
+Qh7+ Kf8 27. Qh8# {. However, Black played 24...Kg7 and there followed...}) 25.
+Qh4 {Threatening mate on the move!} Qxb2+ 26. Nd2 $4 (26. Ke1 $18) 26... Bg4+
+$3 {White must now take the bishop...} 27. Qxg4 {...whereupon Black played}
+Rxh8 {and was left practically with a won game. On your secretary [Lacy
+Hulbert] telling him so however, he very chivalrously insisted on resigning,
+saying that he had touched a piece on his second move and not moved it! He had
+intended resigning all along, but had only waited to see if he could win! Mr
+Hulbert appealed to the controller to annul the resignation, but he was
+powerless! Source: Kington Times, 20 July 1935.} 1-0
+
+[Event "BCF-ch 28th First Class B"]
+[Site "Great Yarmouth"]
+[Date "1935.07.16"]
+[Round "8"]
+[White "Osborn, John Alan Milton"]
+[Black "Sullivan, Patrick Humphrey"]
+[Result "1-0"]
+[ECO "C79"]
+[PlyCount "61"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 b5 7. Bb3 Nxd4 8. Nxd4
+exd4 9. c3 dxc3 10. Nxc3 Be7 11. Qf3 Be6 12. Bc2 O-O 13. b3 c5 14. Bb2 d5 15.
+exd5 Bxd5 16. Nxd5 Qxd5 17. Qh3 Qh5 18. Qg3 Rad8 19. Rad1 Qg4 20. Qe5 Qe6 21.
+Qg5 Qe2 22. Qc1 Rxd1 23. Rxd1 Ne4 24. Bxe4 Qxe4 25. Re1 Qb7 26. Qe3 Bd6 27.
+Bxg7 Bxh2+ 28. Kxh2 Kxg7 29. Qg5+ Kh8 30. Qf6+ Kg8 31. Re3 {Source: Falkirk
+Herald, 31 Jul 1935, p9. Contributed by Eduardo Bauza, 26 April 2018.} 1-0
+
+[Event "BCF-ch 28th First Class B"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Lacy-Hulbert, Arthur Percival"]
+[Black "Puckridge, Edward Buddel"]
+[Result "1-0"]
+[ECO "D21"]
+[PlyCount "39"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. a4 Nf6 5. e3 Bg4 6. Bxc4 e6 7. Nbd2 c5 8. Qb3
+Qc7 9. e4 Nc6 10. d5 Na5 11. Qd3 Nxc4 12. Nxc4 Bxf3 13. Qxf3 e5 14. Bd2 Nd7 15.
+O-O g6 16. Rfc1 Bg7 17. Ba5 b6 18. Nxb6 Nxb6 19. b4 Bf8 20. Qf6 {and wins.
+Source: Kington Times, 20 July 1935} 1-0
+
+[Event "BCF-ch 28th First Class B"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Sullivan, Patrick Humphrey"]
+[Black "Lacy-Hulbert, Arthur Percival"]
+[Result "0-1"]
+[ECO "E51"]
+[PlyCount "40"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 Nbd7 5. Nc3 Bb4 6. Bd2 O-O 7. Bd3 dxc4 8.
+Bxc4 c5 9. a3 Bxc3 10. Bxc3 Ne4 11. Qc2 Nxc3 12. Qxc3 Qf6 13. Bd3 cxd4 14. Qxd4
+e5 15. Qe4 g6 16. Qb4 b6 17. Be4 Nc5 18. O-O a5 19. Qc4 Ba6 20. Qd5 Bxf1 {
+, etc... x moves. Source: Kington Times, 20 July 1935} 0-1
+
+[Event "BCF-ch 28th First Class B"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Lacy-Hulbert, Arthur Percival"]
+[Black "Fletcher, G."]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "43"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 Nf6 6. Qc2 c6 7. e3 Nbd7 8.
+Bd3 Qc7 9. Qc3 O-O 10. O-O Re8 11. Ne5 Nxe5 12. dxe5 Nd7 13. f4 f6 14. Nf3 fxe5
+15. fxe5 dxc4 16. Qxc4 Nxe5 17. Bxh7+ Kh8 18. Qh4 Nxf3+ 19. Rxf3 g5 20. Qh5 Qg7
+21. Qxe8+ Kxh7 22. Rh3+ {Source: Kington Times - Saturday 10 August 1935 p.6.
+Contributed by Gerard Killoran, 24 April 2022} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Butcher, Alfred Joseph"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "0-1"]
+[ECO "D45"]
+[PlyCount "66"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. e3 Nbd7 6. Qc2 a6 7. a3 Be7 8. Bd2
+O-O 9. Bd3 dxc4 10. Bxc4 b5 11. Ba2 c5 12. O-O Bb7 13. Rac1 Rc8 14. Qd1 Qb6 15.
+dxc5 Nxc5 16. Qe2 Rfd8 17. Nd4 e5 18. Nf5 Bf8 19. Bb1 g6 20. Ng3 Nb3 21. Rcd1
+Bxa3 22. Bc1 Bb4 23. Ba2 Rxd1 24. Rxd1 Nxc1 25. Rxc1 Ba5 26. Qd1 Bxc3 27. Rxc3
+Rxc3 28. bxc3 Qc6 29. f3 Qxc3 {(game as originally posted on BritBase, no
+source credited, ended here)} 30. Qd8+ Kg7 31. Nf1 Qa3 32. Qc7 Qxa2 33. Qxb7
+Qe6 {Source: Liverpool Daily Post - Thursday 11 July 1935 p.10. Contributed by
+Gerard Killoran, via the English Chess Forum, 26 November 2022.} 0-1
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.08"]
+[Round "1"]
+[White "Graf, Sonja"]
+[Black "Garcia Conde, Adrian"]
+[Result "0-1"]
+[ECO "D48"]
+[PlyCount "66"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. O-O c5 10. Qe2 Bb7 11. Rd1 Qb6 12. b3 Be7 13. Bb2 O-O 14. Rac1 Rfd8 15.
+Nb1 Rac8 16. Nbd2 cxd4 17. exd4 Nd5 18. Bb1 N7f6 19. Ne4 Nxe4 20. Qxe4 Nf6 21.
+Qe3 Qd6 22. Ne5 Qd5 23. f3 Bb4 24. Qd3 g6 25. g4 Ba5 26. h4 Bb6 27. Rxc8 Rxc8
+28. g5 Qxe5 29. gxf6 Qg3+ 30. Kf1 Bxf3 31. Rd2 Qh3+ 32. Kf2 Qg2+ 33. Ke3 Qg3 {
+The Glasgow Herald - Jul 13, 1935} 0-1
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Fajarowicz, Sammi"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "0-1"]
+[ECO "C85"]
+[PlyCount "82"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Nd7 8.
+d4 exd4 9. Nxd4 O-O 10. Nf5 Bf6 11. Nc3 Nc5 12. Bf4 Bxf5 13. exf5 Re8 14. Qd1
+Bxc3 15. Qxd8 Raxd8 16. bxc3 Ne4 17. Rfe1 Nxc3 18. Bxc7 Rc8 19. Be5 Nd5 20. c4
+Nb4 21. Bc3 Rxe1+ 22. Rxe1 Nxa2 23. Ba5 c5 24. Bb6 Nc3 25. Re7 Na4 26. Rxb7
+Nxb6 27. Rxb6 Ra8 28. Kf1 a5 29. Ke2 a4 30. Kd3 Kf8 31. Kc2 a3 32. Rb1 Ke7 33.
+g4 Kf6 34. f4 a2 35. Ra1 h5 36. h3 Ra3 37. Kb2 Rxh3 38. Kxa2 hxg4 39. Rd1 g3
+40. Rg1 Kxf5 41. Kb3 g2+ 0-1
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.09"]
+[Round "2"]
+[White "Menchik, Vera"]
+[Black "Graf, Sonja"]
+[Result "1-0"]
+[ECO "A09"]
+[PlyCount "73"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. Bb2 Nc6 5. b5 Nb8 6. e3 g6 7. exd4 Bg7 8. d3
+cxd4 9. Nbd2 Nh6 10. g3 O-O 11. Bg2 e5 12. O-O Bg4 13. h3 Be6 14. Re1 Nd7 15.
+Ba3 Re8 16. Ne4 Qa5 17. Qb3 Bf8 18. Bxf8 Rxf8 19. a4 f6 20. Qa3 Nf5 21. Nfd2
+Rac8 22. Nb3 Qc7 23. Rac1 b6 24. c5 bxc5 25. Nbxc5 Nxc5 26. Rxc5 Qe7 27. Rec1
+Ng7 28. R1c2 f5 29. Nd2 Bf7 30. Qc1 Rxc5 31. Rxc5 f4 32. Ne4 fxg3 33. fxg3 Nf5
+34. Rc7 Qb4 35. Rxa7 Ne3 36. Kh2 Nxg2 37. Qh6 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Fajarowicz, Sammi"]
+[Black "Klein, Ernst Ludwig"]
+[Result "1-0"]
+[ECO "B12"]
+[PlyCount "51"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Nc3 a6 6. Be2 c5 7. Be3 Nd7 8. O-O h6
+9. dxc5 Bxc5 10. Bxc5 Nxc5 11. Nd4 Ne7 12. Nxf5 Nxf5 13. Bg4 Ne7 14. Qd2 Qb6
+15. Rab1 Nc6 16. b4 Nd7 17. Nxd5 exd5 18. Bxd7+ Kxd7 19. Qxd5+ Ke8 20. e6 Ne7
+21. exf7+ Kf8 22. Qb3 Rd8 23. Rbe1 g6 24. Re6 Rd6 25. Re3 Rh7 26. Rxe7 {
+Source: The Scotsman, 12 July 1935. Added to BritBase, 26 April 2018.} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Prins, Lodewijk"]
+[Black "Menchik, Vera"]
+[Result "1-0"]
+[ECO "D31"]
+[PlyCount "51"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. e4 e6 2. c4 c6 3. Nc3 d5 4. d4 dxe4 5. Nxe4 Nd7 6. Nf3 Ngf6 7. Nc3 Qc7 8.
+Bg5 Be7 9. Qd2 O-O 10. Bf4 Qa5 11. Bd3 Re8 12. O-O Qd8 13. Rad1 Nf8 14. Bb1 Ng6
+15. Bg3 b6 16. Qc2 Bb7 17. Ne5 Qc8 18. f4 c5 19. d5 exd5 20. cxd5 Rd8 21. f5
+Nxe5 22. Bxe5 Bd6 23. Bxf6 gxf6 24. Qc1 Be5 25. Qh6 Bxc3 26. Rf4 {Source:
+CHESS, 14 Sept 1935} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.10"]
+[Round "3"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Seitz, Jakob Adolf"]
+[Result "1-0"]
+[ECO "A44"]
+[PlyCount "77"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Bd3 g6 5. c4 Bg7 6. Ne2 Ne7 7. O-O O-O 8. Nbc3 f5
+9. f4 Nd7 10. exf5 gxf5 11. fxe5 Nxe5 12. Bg5 h6 13. Bh4 N5g6 14. Bg3 a6 15.
+Qc2 Qc7 16. Rae1 Bd7 17. h3 b5 18. b3 b4 19. Nd1 Rf7 20. Bh2 Kh8 21. Ng3 Rg8
+22. Kh1 Rgf8 23. Ne3 Nh4 24. Nh5 Bc3 25. Re2 Nhg6 26. Qb1 a5 27. Bc2 Be5 28. g4
+Bxh2 29. Rxh2 Ne5 30. Nxf5 Bxf5 31. gxf5 Ng8 32. Qc1 Qd8 33. f6 Nd7 34. Bg6
+Ndxf6 35. Bxf7 Rxf7 36. Qb2 Qe7 37. Re2 {(sealed)} Qxe2 38. Qxe2 Nxh5 39. Rg1 {
+Source: The Scotsman, 13 July 1935} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Menchik, Vera"]
+[Black "Butcher, Alfred Joseph"]
+[Result "1-0"]
+[ECO "E67"]
+[PlyCount "95"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8. h3
+h6 9. e4 Re8 10. d5 a5 11. Be3 b6 12. Ne1 Nh5 13. Nd3 Nc5 14. Kh2 Nxd3 15. Qxd3
+f5 16. Bd2 f4 17. b3 Rf8 18. Ne2 g5 19. g4 Nf6 20. f3 h5 21. a3 Kf7 22. Kg1 Rh8
+23. b4 hxg4 24. hxg4 Rh4 25. bxa5 bxa5 26. Nc3 Qh8 27. Rfb1 Bxg4 28. fxg4 Nxg4
+29. Qe2 Qh5 30. Be1 Rh2 31. Nd1 Rh8 32. Qf3 Bf6 33. Bf2 Bd8 34. Ra2 Rg8 35. Bg3
+Rh3 36. Bxh3 Qxh3 37. Rb3 Nf6 38. Nf2 Qh7 39. Ng4 fxg3 40. Nxf6 Bxf6 41. Rb7
+Rc8 42. Rg2 Qg6 43. Rxg3 Kg7 44. Qg4 Qe8 45. Rh3 Rb8 46. Rxb8 Qxb8 47. Qd7+ Kf8
+48. Rf3 {Source: Glasgow Herald, 15 July 1935} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.11"]
+[Round "4"]
+[White "Wood, Baruch Harold"]
+[Black "Prins, Lodewijk"]
+[Result "1-0"]
+[ECO "A40"]
+[PlyCount "67"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 b5 2. e4 Bb7 3. f3 b4 4. Bd3 e5 5. dxe5 Bc5 6. f4 f6 7. Qe2 Nc6 8. Nf3
+Qe7 9. c3 fxe5 10. Nxe5 Nxe5 11. fxe5 Qxe5 12. Rf1 Nf6 13. Bf4 Qe6 14. Nd2 O-O
+15. O-O-O bxc3 16. bxc3 Ba3+ 17. Kb1 Rab8 18. Ka1 Qc6 19. Be5 d6 20. Bd4 Bc8
+21. Rb1 Bg4 22. Bc4+ Kh8 23. Qd3 Bc5 24. Rxf6 Rxb1+ 25. Qxb1 gxf6 26. Bxf6+
+Rxf6 27. Qb8+ Kg7 28. Qg8+ Kh6 29. Qxg4 Qe8 30. Nf3 Qh5 31. Qd7 Ba3 32. g4 Qa5
+33. g5+ Kg6 34. Qe8+ {Source: Falkirk Herald, 7 August 1935. Added to BritBase,
+26 April 2018.} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Menchik, Vera"]
+[Result "0-1"]
+[ECO "D51"]
+[PlyCount "70"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 Bb4 7. Bd3 c5 8.
+Nge2 c4 9. Bc2 h6 10. Bh4 Be7 11. O-O b5 12. Nxb5 Qb6 13. Nbc3 O-O 14. b3 Ba6
+15. Rb1 Qa5 16. bxc4 Bxc4 17. Bd3 Rac8 18. Bxc4 Rxc4 19. Rb5 Qa6 20. Qb3 Rfc8
+21. Bxf6 Nxf6 22. Rb8 Bd6 23. Rxc8+ Qxc8 24. Nb5 Bf8 25. Nbc3 Bd6 26. a4 Qe6
+27. h3 Rc6 28. Qb1 Rb6 29. Qa2 Qd7 30. Rb1 Rxb1+ 31. Nxb1 Qb7 32. Nbc3 g6 33.
+Qc2 Kg7 34. Qa2 Be7 35. Kf1 Bd6 {time ("Reshevsky lost on time limit when he
+was a pawn ahead in the ending." BCM, Aug 1935, p356) Game Source: StarBase 4.
+56.} 0-1
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Klein, Ernst Ludwig"]
+[Black "Prins, Lodewijk"]
+[Result "1-0"]
+[ECO "D50"]
+[PlyCount "91"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. e3 Qa5 6. Bxf6 gxf6 7. cxd5 Bb4 8.
+Nge2 cxd5 9. a3 Bd6 10. Ng3 Nc6 11. Bd3 f5 12. O-O Bxg3 13. hxg3 h5 14. Qf3 Qd8
+15. Rfd1 Ne7 16. Kf1 h4 17. gxh4 Rxh4 18. g3 Rh8 19. Ke2 Qb6 20. b4 Bd7 21. Rh1
+O-O-O 22. Rxh8 Rxh8 23. Rh1 Rd8 24. Rc1 Kb8 25. g4 fxg4 26. Qxf7 Qd6 27. Qf6
+Nc6 28. Rg1 Bc8 29. Rxg4 Rf8 30. Qh6 a6 31. Nxd5 Qd8 32. Nb6 e5 33. Nxc8 Qxc8
+34. Qd6+ Ka8 35. Rg7 exd4 36. e4 Re8 37. Qc7 Qxc7 38. Rxc7 Kb8 39. Rf7 Rh8 40.
+Rf5 Kc7 41. e5 Kd7 42. Kf3 Ke6 43. Ke4 Rh4+ 44. f4 Rh3 45. Bc4+ Kd7 46. Rf7+
+1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Menchik, Vera"]
+[Black "Seitz, Jakob Adolf"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/8/8/4p1P1/1P6/P1R1pk2/r7/3K4 w - - 0 45"]
+[PlyCount "20"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+{Opening: QP...} 45. g6 Kf2 46. Rc2+ e2+ 47. Rxe2+ Rxe2 48. g7 {(Score says
+'P-N5' but the text may be more likely and fits better with what follows)} Re1+
+49. Kc2 Rg1 50. a4 Rxg7 51. a5 {(Score again says 'P-N5' but again the text
+fits better)} Rg4 52. Kb3 e4 53. a6 e3 54. a7 Rg8 {Source: Kington Times, 20
+July 1935} 0-1
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.13"]
+[Round "6"]
+[White "Wood, Baruch Harold"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "0-1"]
+[ECO "E68"]
+[PlyCount "56"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. g3 d6 6. Bg2 Nbd7 7. e4 e5 8. O-O
+exd4 9. Nxd4 Re8 10. Re1 Ne5 11. b3 Bg4 12. Qc2 c5 13. Nde2 Nf3+ 14. Bxf3 Bxf3
+15. Bg5 Re5 16. Bxf6 Qxf6 17. Nf4 g5 18. Nfd5 Qh6 19. Re3 g4 20. Nf4 Ree8 21.
+Rae1 Bd4 22. Ncd5 Bxe3 23. Rxe3 Qg7 24. Kf1 Re5 25. Qd2 Rxe4 26. Rxe4 Bxe4 27.
+Nh5 Qa1+ 28. Ke2 Bxd5 {Source: Liverpool Daily Post - Wednesday 17 July 1935 p.
+13. Contributed by Gerard Killoran, via the English Chess Forum, 26 November
+2022.} 0-1
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Prins, Lodewijk"]
+[Black "Ivanoff, Victor"]
+[Result "1-0"]
+[ECO "D31"]
+[PlyCount "23"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 e6 2. c4 c6 3. Nc3 d5 4. d4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Na6 9. Bd6 Ne7 10. Nf3 f6 11. O-O Kf7 12. Bd3 {Source: Yorkshire Post
+and Leeds Intelligencer, 17 July 1935; BCM, Aug 1935, p357} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.15"]
+[Round "7"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Kitto, Francis Ernest A"]
+[Result "1-0"]
+[ECO "A91"]
+[PlyCount "45"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nh3 O-O 6. O-O d6 7. b3 Na6 8. Bb2
+Rb8 9. Nc3 c5 10. e3 Bd7 11. Qe2 Qa5 12. a4 Nc7 13. Nb5 Nxb5 14. axb5 Qb6 15.
+Bc3 d5 16. dxc5 Bxc5 17. Rfd1 Ne4 18. Ba5 Qd6 19. cxd5 exd5 20. Nf4 Be6 21. Bc7
+Qxc7 22. Nxe6 Nc3 23. Qe1 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.17"]
+[Round "9"]
+[White "Menchik, Vera"]
+[Black "Wood, Baruch Harold"]
+[Result "1-0"]
+[ECO "E85"]
+[PlyCount "51"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 Nc6 8. d5
+Ne7 9. Qd2 Nd7 10. g4 f5 11. gxf5 gxf5 12. O-O-O f4 13. Bf2 Ng6 14. h4 h5 15.
+Kb1 Bf6 16. Qe1 Nc5 17. Nc1 b6 18. Be2 Kf7 19. Nd3 a5 20. Rh2 Ba6 21. Nc1 a4
+22. Qh1 Qd7 23. Rg1 Ne7 24. Bf1 Rg8 25. Bh3 Qd8 26. Bxc5 {Source: Newcastle
+Evening Chronicle, 13 August 1935 p.12. Contributed by Gerard Killoran, 21
+December 2022.} 1-0
+
+[Event "BCF-ch 28th Major Open"]
+[Site "Great Yarmouth"]
+[Date "1935.07.19"]
+[Round "11"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Prins, Lodewijk"]
+[Result "1-0"]
+[ECO "D80"]
+[PlyCount "67"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 Nc6 7. e3 h6 8. Bh4
+g5 9. Bg3 e5 10. O-O-O Bg7 11. d5 Ne7 12. f3 Bf5 13. fxe4 Bxe4 14. Bd3 Bxd3 15.
+Qxd3 f5 16. e4 Qd7 17. Ne2 c5 18. exf5 Nxf5 19. Rhf1 Rf8 20. Nc3 O-O-O 21. Rde1
+Rde8 22. Nb5 Nxg3 23. Qxg3 Rxf1 24. Rxf1 a6 25. Rf7 Re7 26. Rxe7 Qxe7 27. Qg4+
+Kd8 28. Nc3 Qf6 29. Kc2 Qf2+ 30. Kb3 h5 31. Qxg5+ Bf6 32. Qg8+ Kc7 33. d6+ Kb6
+34. d7 1-0
+
+[Event "BCF-ch 28th Major Reserves"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Croker, Douglas Ian"]
+[Black "Damant, Charles Ambrose S"]
+[Result "1-0"]
+[ECO "C02"]
+[PlyCount "49"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Nc6 5. Nf3 Nxd4 6. Nxd4 cxd4 7. Bd3 Qc7 8.
+Bf4 Ne7 9. c3 Nc6 10. O-O Bd7 11. cxd4 Nxd4 12. Nc3 a6 13. Rfe1 Qc8 14. Rac1
+Nc6 15. Na4 Qd8 16. Nc5 Qc7 17. b4 g6 18. h4 Qb6 19. a3 a5 20. Be3 Nxe5 21.
+Nxd7 Kxd7 22. Qg3 Qd6 23. Bc5 Nxd3 24. Bxd6 Nxc1 25. Bb8 {Sources: Glasgow
+Herald, 25 Jul 1935;   BCM, Aug 1925, p358} 1-0
+
+[Event "BCF-ch 28th Major Reserves"]
+[Site "Great Yarmouth"]
+[Date "1935.07.12"]
+[Round "5"]
+[White "Damant, Charles Ambrose S"]
+[Black "Watson, Arthur T"]
+[Result "1-0"]
+[ECO "D06"]
+[PlyCount "117"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceDate "1999.06.06"]
+
+1. Nf3 Nf6 2. c4 d5 3. cxd5 Qxd5 4. Nc3 Qa5 5. d4 Ne4 6. Bd2 Nxd2 7. Qxd2 e6 8.
+e4 Bb4 9. Be2 c6 10. O-O Nd7 11. a3 Bxc3 12. bxc3 Nf6 13. Qc2 Bd7 14. c4 O-O
+15. e5 Ne8 16. Ng5 g6 17. f4 f5 18. exf6 Nxf6 19. Bd3 Kg7 20. Rae1 Rae8 21. Re5
+Qxa3 22. Nxh7 Nxh7 23. Bxg6 Nf6 24. Rg5 Qe3+ 25. Kh1 Re7 26. Bd3+ Kh8 27. Rf3
+Qe1+ 28. Bf1 Rh7 29. Re5 Qh4 30. g3 Qh6 31. Bd3 Ng4 32. Re2 Rhf7 33. Qb2 Qf6
+34. h3 Nh6 35. Re5 Bc8 36. g4 Qh4 37. Rh5 Qe1+ 38. Kg2 Rf6 39. d5 Kg8 40. dxe6
+Rxe6 41. f5 Rd6 42. c5 Rxd3 43. Rxd3 Qe4+ 44. Rf3 Nf7 45. Kg3 Rd8 46. Qc3 Rd4
+47. Qe3 Qxe3 48. Rxe3 Bd7 49. f6 a5 50. g5 Rd5 51. Kh4 Rd4+ 52. Kg3 Rd5 53. Kh4
+Rd4+ 54. Kg3 Rd5 55. Re7 Rd3+ 56. Kf4 Rxh3 57. Rxh3 Bxh3 58. g6 Nh6 59. Re8# {
+Source: Sussex Daily News of 22.8.1935. Updated 13 Oct 2015, contributed by
+Brian Denman.} 1-0
+
+[Event "BCF-ch 28th Major Reserves"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Mallison, Harold Vincent"]
+[Black "Ellinger, Maurice"]
+[Result "1-0"]
+[ECO "B13"]
+[PlyCount "65"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 e6 7. Nd2 Be7 8.
+Ngf3 Bd7 9. O-O Nh5 10. Bg3 f5 11. Ne5 Nf6 12. Qe2 O-O 13. Rfe1 Ne4 14. f4 Nxe5
+15. fxe5 Bh4 16. Bxh4 Qxh4 17. Rf1 Rf7 18. Bxe4 dxe4 19. Qe3 g5 20. g3 Qh5 21.
+c4 Bc6 22. Rf2 Kh8 23. d5 exd5 24. e6 Rg7 25. Rxf5 dxc4 26. Raf1 h6 27. Nxe4
+Bxe4 28. Qxe4 Qg6 29. e7 Qb6+ 30. R1f2 Rgg8 31. Qe5+ Kh7 32. Rf7+ Kg6 33. R7f6+
+{Source: Western Morning News, 31 July 1935. Added to BritBase, 26 April 2018.}
+1-0
+
+[Event "BCF-ch 28th Second Class"]
+[Site "Great Yarmouth"]
+[Date "1935.07.??"]
+[Round "?"]
+[White "Kolisch, F M (Dr)"]
+[Black "Tidball, Herbert William"]
+[Result "1-0"]
+[ECO "B54"]
+[PlyCount "55"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 e6 7. e4 d6 8.
+Be2 Be7 9. O-O O-O 10. Qd1 Bd7 11. Be3 Bc6 12. Bd3 e5 13. Qe2 b6 14. Rad1 Rc8
+15. Bb1 Bd7 16. h3 Be6 17. f4 Qc7 18. f5 Bd7 19. Nd5 Nxd5 20. exd5 f6 21. Qg4
+Rf7 22. Bd3 Kh8 23. Be2 Rg8 24. Qh4 Be8 25. Bh5 Rff8 26. Bg6 Bxg6 27. fxg6 h6
+28. Bxh6 {Source: Wiener Schachzeitung, 13-14/1935, p197. Contributed by
+Eduardo Bauza, 26 April 2018.} 1-0
+
+[Event "BCF-ch 28th Third Class Amateurs"]
+[Site "Great Yarmouth"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Veglio, Gene"]
+[Black "Thomson, Alexander Aird"]
+[Result "0-1"]
+[ECO "D02"]
+[PlyCount "72"]
+[EventDate "1935.07.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 Bf5 4. e3 e6 5. Bd3 Ne4 6. Nbd2 Bd6 7. Bxe4 dxe4 8.
+Bxd6 exf3 9. Qxf3 Qxd6 10. Qxb7 Qc6 11. Qc8+ Ke7 12. Qxh8 Qxg2 13. Ke2 Nd7 14.
+Rhg1 Qxg1 15. Rxg1 Rxh8 16. e4 Bg6 17. Rg5 Rb8 18. b3 a6 19. Ra5 Rb6 20. c4 Nb8
+21. d5 f5 22. f3 Nd7 23. c5 Rb5 24. Rxa6 Nxc5 25. Ra7 fxe4 26. Rxc7+ Kf6 27. d6
+exf3+ 28. Kxf3 Na6 29. d7 Rd5 30. Ra7 Rxd2 31. Rxa6 Rxd7 32. b4 Bd3 33. Rb6 Ra7
+34. Ke3 Bc4 35. Kd4 Bxa2 36. b5 Bd5 {The Glasgow Herald - Jul 20, 1935} 0-1
+

@@ -1,0 +1,2829 @@
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Alexander, C Hugh O'D"]
+[Black "Mallison, Harold Vincent"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "77"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O Bg4 8. c4
+O-O 9. cxd5 f5 10. h3 Bh5 11. Nc3 Nd7 12. Nxe4 fxe4 13. Bxe4 Nf6 14. Bf5 Kh8
+15. g4 Nxd5 16. Be6 Bf7 17. Ng5 Bxe6 18. Nxe6 Qh4 19. Qb3 Nf4 20. Bxf4 Bxf4 21.
+Nxf8 Rxf8 {(Source to here: BCM, Sept 1938, p409)} 22. Kg2 Bd6 23. Qe6 Qg5 24.
+f4 Bxf4 25. Rae1 Qa5 26. Qe5 Qxe5 27. Rxe5 Kg8 28. Re7 g5 29. h4 gxh4 30. Kh3
+h6 31. Rd7 b5 32. d5 a5 33. Re7 a4 34. a3 Bd6 35. Rxf8+ Kxf8 36. Re6 Kg7 37.
+Kxh4 Bf4 38. Kh5 Bc1 39. Re2 {(sealed move - Black resigned without resuming)}
+1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "91"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Be7 5. Nc3 O-O 6. e3 Ne4 7. Bxe7 Qxe7 8.
+Rc1 c6 9. Bd3 f5 10. O-O Nd7 11. Ne5 Nxe5 12. dxe5 Rd8 13. cxd5 exd5 14. f4 Kh8
+15. Ne2 c5 16. Qc2 b6 17. Rfd1 Bb7 18. Bxe4 fxe4 19. Nc3 g5 20. Nb5 gxf4 21.
+exf4 Rg8 22. Nd6 Raf8 23. b4 Rxf4 24. bxc5 Ba6 25. Qc3 Qg7 26. Rc2 Rf3 (26...
+Bd3 $19) (26... Rgf8 $19) 27. Qb2 bxc5 (27... Rgf8 $19) 28. e6 Qxb2 29. Rxb2
+Rd3 $4 (29... Rf6 $19) 30. Rxd3 exd3 31. e7 c4 32. Rf2 Kg7 33. Rf7+ Kh6 34. Rf8
+d2 35. Nf5+ Kg5 36. Rxg8+ Kxf5 37. Rf8+ Kg4 38. h3+ Kh4 39. e8=Q d1=Q+ 40. Kh2
+Qd3 41. Rf4+ Kg5 42. Qe5+ Kh6 43. Rh4+ Kg6 44. Rg4+ Kf7 45. Rg7+ Kf8 46. Qe7# {
+Sources: The Times, 10 Aug 1938; Manchester Guardian, 11 Aug 1938; Yorkshire
+Post, 11 Aug 1938; Glasgow Herald, 11 Aug & 2 Sept 1938; The Scotsman, 12 Aug
+1938; The Observer, 14 Aug 1938; BCM, Oct 1938, p471} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Lenton, Alfred"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "A04"]
+[PlyCount "1"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. Nf3 {... 34 moves} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Reynolds, Arthur"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[PlyCount "2"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 Nf6 {... 51 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Menchik, Vera"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[PlyCount "6"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 {... 24 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Tylor, Theodore Henry"]
+[Black "Parr, Frank"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[PlyCount "2"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 {... Dragon Sicilian, 41 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Aitken, James Macrae"]
+[Black "Tylor, Theodore Henry"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "91"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 O-O 12. Nbd2 cxd4 13. cxd4 Nc6 14. d5 Nd8 15.
+Nf1 Ne8 16. g4 g6 17. Ng3 Ng7 18. Bh6 f6 19. Rc1 Bd7 20. b4 Nf7 21. Be3 Qb7 22.
+Nd2 a5 23. bxa5 Rxa5 24. Bb1 Rc8 25. Qb3 Rxc1 26. Rxc1 Ne8 27. Nc4 Ra6 28. Nb2
+Nd8 29. Bd3 Ra8 30. a4 (30. Rc6 $1 {Aitken}) 30... bxa4 31. Qxb7 Nxb7 32. Nc4
+Bd8 33. Bb6 Nc5 34. Bxc5 dxc5 35. Na3 Ba5 36. Nc4 Bc7 37. Na3 Rb8 38. Bc4 Kf8
+39. Rc2 Nd6 40. Ba2 Nb5 41. Nxb5 Rxb5 42. Nf1 Ke7 43. Ne3 Bd6 44. Kf1 Rb4 45.
+Nc4 Bb5 46. Ke1 {Source: Glasgow Herald, 2 September 1938} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Mallison, Harold Vincent"]
+[Black "Lenton, Alfred"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[PlyCount "62"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Nf3 e6 8. Qb3
+Qc8 9. Nbd2 Be7 10. O-O O-O 11. h3 Bh5 12. Rae1 a6 13. Ne5 b5 14. g4 Bg6 15.
+Nxg6 hxg6 16. Nf3 Nd7 17. Kg2 Nb6 18. h4 Qd8 19. Rh1 Bd6 20. Be5 Bxe5 21. Nxe5
+Nxe5 22. Rxe5 Nc4 23. Bxc4 bxc4 24. Qc2 Qb6 25. f4 Rab8 26. Re2 Qd6 27. Rf2 f5
+28. g5 Kf7 29. Kg3 Rh8 30. Rfh2 Rh5 31. Qa4 Rb5 {Source: Leicester Evening
+Mail, 10 August 1938 p13. Contributed by Gerard Killoran, 30 November 2020.}
+1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Menchik, Vera"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[PlyCount "1"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. Nf3 {... 38 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "1-0"]
+[ECO "C27"]
+[PlyCount "67"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bb4 4. f4 d6 5. Nf3 Nc6 6. O-O Bg4 7. d3 Qe7 8. Ne2
+Bc5+ 9. Kh1 O-O-O 10. fxe5 dxe5 11. Qe1 Nd4 12. Nexd4 exd4 13. Qg3 Be6 14.
+Bxe6+ fxe6 15. e5 Nh5 16. Qg4 Qf7 17. Bd2 Rhf8 18. Kg1 Rde8 19. Nh4 Nf6 {
+... 1-0 after another 15 moves. Source: BCM, Sept 1938, p410.} 20. exf6 gxf6
+21. Nf3 Rg8 22. Qh3 f5 23. Rae1 Bd6 24. Ng5 Qf6 25. Ne4 Qg6 26. Nxd6+ cxd6 27.
+Rf3 Qf6 28. Rg3 Rxg3 29. Qxg3 e5 30. Qh3 Re7 31. Qh6 Qxh6 32. Bxh6 e4 33. Kf2
+Re6 34. Bg7 {Source: Northern Whig, 16 Sept 1938} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Reynolds, Arthur"]
+[Black "Parr, Frank"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... 33 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Thomas, George Alan"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[PlyCount "6"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 {... 72 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.10"]
+[Round "3"]
+[White "Alexander, C Hugh O'D"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1-0"]
+[ECO "A13"]
+[PlyCount "79"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 d4 5. d3 Bb4+ 6. Nbd2 O-O 7. a3 Be7 8. b4
+a5 9. Bb2 axb4 10. axb4 Rxa1 11. Qxa1 Bxb4 12. Bxd4 Nc6 13. Bc3 e5 14. Bxb4
+Nxb4 15. Qc3 Qd6 16. c5 Nbd5 17. cxd6 Nxc3 18. dxc7 Nfd5 19. Nxe5 Re8 20. Bxd5
+Nxd5 21. Nec4 Bh3 22. Nb3 Nxc7 23. Kd2 Be6 24. Rc1 Ra8 25. Nb6 Ra2+ 26. Ke3 Na8
+27. Nxa8 Rxa8 28. Nc5 Rc8 29. d4 b6 30. Nd3 Rxc1 31. Nxc1 Kf8 32. Nd3 Ke7 33.
+Nb4 Bc4 34. Kd2 Kd6 35. e4 Bf1 36. Ke3 b5 37. f4 Bg2 38. d5 f5 39. e5+ Kc5 40.
+d6 {Sources: Washington Evening Star, 9 October 1938 (contributed by Alan
+Smith, 14 September 2020); (37w-end) BCM, Sept 1938, p411} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.10"]
+[Round "3"]
+[White "Golombek, Harry"]
+[Black "Mallison, Harold Vincent"]
+[Result "1-0"]
+[ECO "D37"]
+[PlyCount "61"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 c6 6. e3 Nbd7 7. Bd3 O-O 8. O-O
+Re8 9. Qe2 Nh5 10. Be5 g6 11. Rad1 b6 12. h3 Bb7 13. g4 Ng7 14. e4 Bb4 15. Bg3
+Qe7 16. e5 Bxc3 17. bxc3 c5 18. Bh4 Qf8 19. Nd2 f5 20. exf6 Nxf6 21. Qe5 Ne4
+22. Nxe4 dxe4 23. Bxe4 Bxe4 24. Qxe4 e5 25. dxe5 Qf7 26. f4 h6 27. Rd6 Ne6 28.
+Bf6 Rac8 29. Kh2 g5 30. fxg5 hxg5 31. Qf5 {BCM, Sept 1938, p410} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.10"]
+[Round "3"]
+[White "Lenton, Alfred"]
+[Black "Menchik, Vera"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[PlyCount "1"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. Nf3 {... 29 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.10"]
+[Round "3"]
+[White "Parr, Frank"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "A51"]
+[PlyCount "81"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 O-O 7. O-O Ngxe5 8.
+Nbd2 d6 9. Nxe5 dxe5 10. Ne4 Qxd1 11. Rxd1 Be7 12. Nc3 Be6 13. Nd5 Rad8 14. b3
+Bxd5 15. cxd5 Nb4 16. Bb2 e4 17. Bc4 Nc2 18. Rac1 Na3 19. Be2 Rd7 20. Rd4 a6
+21. d6 Bxd6 22. Rxd6 cxd6 23. Bxa3 g6 24. Bc4 Re8 25. Bd5 Kg7 26. Bb2+ Kh6 27.
+Bf6 b5 28. b4 g5 29. Bd4 Ree7 30. Bb6 Re5 31. Bc6 Rde7 32. Bd4 Rf5 33. g4 Rf3
+34. Bd5 f5 35. gxf5 Rxf5 36. Bb3 Kh5 37. Rc6 Re8 38. Bd1+ Kh4 39. Rxd6 h5 40.
+Rh6 g4 41. Bf6+ {Source: Aitken scorebook 5} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.10"]
+[Round "3"]
+[White "Reynolds, Arthur"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[ECO "D66"]
+[PlyCount "68"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+h6 9. Bh4 dxc4 10. Bxc4 b5 11. Bd3 a6 12. O-O c5 13. Ne4 cxd4 14. Nxd4 Bb7 15.
+Nxf6+ Nxf6 16. Nc6 Bxc6 17. Rxc6 Qd5 18. Rc7 Rfd8 19. Rxe7 Qxd3 20. Qf3 Qe4 21.
+Qxe4 Nxe4 22. f3 Nd2 23. Rc1 Rac8 24. Rec7 Rxc7 25. Rxc7 g5 26. Bg3 Nc4 27. e4
+Rd1+ 28. Kf2 Rd2+ 29. Ke1 Rxb2 30. a4 Rxg2 31. axb5 axb5 32. Rc5 Nd2 33. Rc3 {
+From ere to the end, BCM, Sept 1938, p411} b4 34. Rd3 b3 {Source: The Times,
+11 Aug 1938} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.10"]
+[Round "3"]
+[White "Tylor, Theodore Henry"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[ECO "C49"]
+[PlyCount "69"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Ne2 a6 8. Bxc6
+bxc6 9. Ng3 Ne8 10. d4 Bg4 11. c3 Ba5 12. dxe5 Bxf3 13. gxf3 dxe5 14. Qa4 Bb6
+15. Qxc6 Nd6 16. Be3 Rb8 17. b3 Qf6 18. Rad1 h5 19. Bxb6 Rxb6 20. Qxc7 Nb5 21.
+Qd7 h4 22. Nf5 Nxc3 23. Rd3 Nxa2 24. Ne7+ Kh8 25. Nd5 Qg5+ 26. Kh1 Rg6 27. Qh3
+Rb8 28. Rdd1 Qh5 29. Rg1 Rxb3 30. Rxg6 fxg6 {(Final part of game given in BCM,
+Sept 1938, p410)} 31. Nf6 gxf6 32. Rd8+ Kg7 33. Qd7+ Kh6 34. Rh8+ Kg5 35. Qd2+
+{Sources: The Times, 11 Aug 1938; Manchester Guardian, 12 Aug 1938; Glasgow
+Herald, 12 Aug 1938; The Scotsman, 13 Aug 1938} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Aitken, James Macrae"]
+[Black "Reynolds, Arthur"]
+[Result "1-0"]
+[ECO "B02"]
+[PlyCount "93"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Nd7 7. c4 N5b6 8. exd6
+cxd6 9. b3 Be7 10. Bf4 Nf6 11. Nc3 O-O 12. Nd2 Bxe2 13. Qxe2 Nbd7 14. Rad1 a6
+15. Rfe1 Re8 16. Qf3 Qa5 17. Nf1 b5 18. g4 bxc4 19. bxc4 Rac8 20. g5 Nh5 21.
+Bd2 g6 22. Nd5 Qd8 23. Nxe7+ Qxe7 24. Ne3 f5 25. h4 Qf7 26. Bb4 Qf8 27. a3 h6
+28. gxh6 f4 29. Ng4 Rxc4 30. Qd3 Qf5 31. Qxf5 gxf5 32. Nh2 Kh7 33. Bxd6 Kxh6
+34. Nf3 Kg6 35. Re2 Rc6 36. Bb4 Nhf6 37. Bd2 Nd5 38. Rde1 Kf6 39. Ng5 Nf8 40.
+Re5 Re7 41. Ba5 Rd7 42. Kh2 Nc7 43. Rc5 Rxc5 44. dxc5 e5 45. c6 Rg7 46. Rd1 Nb5
+47. a4 {Source: Glasgow Herald, 9 September 1938} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Mallison, Harold Vincent"]
+[Black "Tylor, Theodore Henry"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[Annotator "Mallison, HV"]
+[PlyCount "62"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. c3 {Inferior to 5.d4, but then
+Black gets a well-known variation of the Steinitz Defence.} Bd7 6. Re1 Be7 7.
+d4 O-O 8. Nbd2 {Again, not good in this position. 8.h3 could be played to keep
+the centre, or} (8. d5 Nb8 9. Bd3 {followed by c4 and Nc3}) 8... Nxd4 9. cxd4 {
+The only move to save a pawn.} ({If} 9. Bxd7 Nxf3+) ({Or if} 9. Nxd4 exd4 10.
+Bxd7 dxc3) 9... Bxb5 10. dxe5 dxe5 11. Qb3 ({If} 11. Nxe5 Qd4 12. Nef3 Qd3 13.
+Qb3 ({or} 13. Ne5 {offering a draw.}) 13... Rad8 {gives Black the initiative.})
+11... Ba6 12. Nxe5 Nd7 ({If} 12... Bc5 13. Ndf3 {and White completes his
+development.}) 13. Nxd7 Qxd7 14. Nf3 Qb5 15. Qxb5 Bxb5 16. Bf4 c5 {Black has 3
+v 2 pawns on the queenside as well as the bishop pair.} 17. Rac1 Rac8 18. Ne5
+f6 ({If} 18... Bd6 19. Nd3) ({Or if} 18... Bf6 19. b3) ({If} 18... c4 19. Bd2 {
+followed by Bc3.}) 19. Nc4 {Although this exchanges a bishop, it allows
+Black's pawns to advance. Nf3 threatening e5 or Bd2, or Bd2 followed by Bc3
+was rather better.} Bxc4 20. Rxc4 b5 21. Rc2 c4 22. Rd1 Rfd8 23. Rxd8+ Rxd8 24.
+Kf1 Bb4 ({If} 24... Rd1+ 25. Ke2 Rg1 26. Kf3) 25. Ke2 Kf7 26. a3 Ba5 27. Bd2
+Bb6 (27... Bxd2 {would give an ending in White's favour, as his King is nearer
+Black's advanced pawns, but he had to play a6 first or else if 26.Bd2 a5.}) 28.
+Bc3 Rd3 ({White expected the better move} 28... Ke6 {first, for if then} 29.
+Rd2 ({Black did not want} 29. f4 Rd3 30. e5 Re3+ 31. Kf1 {but it does not seem
+good enough for White.}) 29... Rxd2+ 30. Bxd2 ({not} 30. Kxd2 Bxf2) 30... Ke5
+31. f3 Bd4 32. Bc3 a5 {with advantage.}) 29. Rd2 Rxd2+ 30. Bxd2 Bd4 31. Bc3 Be5
+$2 {Sources: The Scotsman, 15 Aug 1938; Mallison's notebook. Contributor: Andy
+Ansel.} (31... Bc5 {should be played giving a draw. N.B. This is the move
+given in the printed sources - Manchester Guardian, 13 Aug 1938; Yorkshire
+Post, 13 Aug 1938; Glasgow Herald, 16 Aug 1938}) (31... Be5 {White here too
+hastily offered a draw, which was accepted, but then saw there was a win by}
+32. Bxe5 fxe5 33. Kd2 Ke6 34. Kc3 (34. a4 b4) 34... Kd6 35. Kb4 Kc6 36. a4 a6 (
+36... bxa4 37. h4) 37. axb5+ axb5 38. h4 $1 g6 39. g3 h6 40. f4 exf4 41. gxf4
+Kb6 42. e5 {and wins.}) 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Menchik, Vera"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[ECO "E20"]
+[PlyCount "6"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 {... 62 moves} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Lenton, Alfred"]
+[Result "1-0"]
+[ECO "B12"]
+[PlyCount "5"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. f3 {... Milner-Barry gambit... 50 moves. Lenton declined
+it with ...e5.} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... 36 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Thomas, George Alan"]
+[Black "Parr, Frank"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... 66 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Aitken, James Macrae"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "B20"]
+[PlyCount "102"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Be2 Be7 8.
+O-O O-O 9. Qd2 a6 10. Be3 Bd7 11. Nb3 b5 12. a3 Ne5 13. Bd4 Nc4 14. Qc1 Rc8 15.
+Bxc4 Rxc4 16. f3 Qc7 17. Qe3 Rb8 18. Qf2 Bc8 19. Kh1 Nd7 20. Rfd1 Bf6 21. Bxf6
+Nxf6 22. Qg3 e5 23. Rd3 Be6 24. Rad1 Rc6 25. R3d2 a5 26. Qf2 b4 27. Nd5 Bxd5
+28. exd5 Rc4 29. a4 Rc8 30. h3 h6 31. Kh2 Rxc2 32. Rxc2 Qxc2 33. Qxc2 Rxc2 34.
+Nxa5 Rxb2 35. Nc4 Ra2 36. Nxd6 Rxa4 37. Nf5 b3 38. Ne7+ Kh7 39. Nc6 Nd7 40. Rb1
+Ra3 41. g4 f6 42. Ne7 Nc5 43. Kg3 Ra2 44. Nf5 Kg6 45. Rc1 b2 46. Rb1 Nd3 47.
+Ne3 Ra1 48. d6 Rxb1 49. d7 Rg1+ 50. Ng2 b1=Q 51. d8=Q Qe1+ {Source: Aitken
+scorebook 5} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Alexander, C Hugh O'D"]
+[Black "Reynolds, Arthur"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[PlyCount "106"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O c6 7. c4 Nc7 8. Nc3
+dxe5 9. Nxe5 Bxe2 10. Qxe2 Be7 11. Be3 O-O 12. f4 Nd7 13. Rad1 f6 14. Nd3 Qe8
+15. Bc1 Qf7 16. b3 Rac8 17. Rfe1 Rfe8 18. Qf3 Bf8 19. Bb2 b5 20. c5 Nb8 21. b4
+Rcd8 22. Ne4 Nd5 23. g4 Na6 24. a3 Nac7 25. Bc1 Rd7 26. Kh1 Ra8 27. Bd2 Rad8
+28. Rg1 Qe8 29. Qh3 g6 30. g5 f5 31. Nf6+ Nxf6 32. gxf6 Rf7 33. Be1 Rxd4 34.
+Bc3 Qd8 35. Bxd4 Qxd4 36. Ne5 Qe4+ 37. Qg2 Qxg2+ 38. Rxg2 Nd5 39. Rf2 Rc7 40.
+f7+ Kg7 41. h4 Be7 42. h5 Bf6 43. hxg6 hxg6 44. Nxg6 Kxf7 45. Ne5+ Ke8 46. Nd3
+Rg7 47. Re1 Kd7 48. Rfe2 Rg3 49. Ne5+ Kc7 50. Rf1 Rh3+ 51. Kg1 Rh4 52. Nxc6 {
+End of game according to the Times} Rg4+ 53. Kh1 Rh4+ {Sources: The Times, 15
+Aug 1938; BCM, Oct 1938, p473} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Golombek, Harry"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1-0"]
+[ECO "D41"]
+[PlyCount "61"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. cxd5 cxd4 6. Qa4+ Bd7 7. Qxd4 exd5 8.
+Nxd5 Qa5+ 9. Nc3 Nc6 10. Qd1 Ne4 11. Bd2 Nxd2 12. Qxd2 O-O-O 13. Nd5 Qxd5 14.
+Qxd5 Bb4+ 15. Nd2 Be6 16. Qxd8+ Rxd8 17. O-O-O Bxa2 18. Nf3 Re8 19. Nd4 Na5 20.
+g3 Re5 21. Bh3+ Kc7 22. Kc2 Rc5+ 23. Kd3 Bc4+ 24. Ke3 Re5+ 25. Kf3 Bd5+ 26. Kf4
+Re4+ 27. Kf5 Re8 28. Nb5+ Kc6 29. Rxd5 g6+ 30. Kf4 Rxe2 31. Nd4+ {Sources: The
+Times, 13 Aug 1938; Manchester Guardian, 15 Aug 1938; Yorkshire Post, 15 Aug
+1938; The Scotsman, 15 Aug 1938; Glasgow Herald, 16 Aug 1938; BCM, Sept 1938,
+p412} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Lenton, Alfred"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[ECO "A13"]
+[PlyCount "64"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 c5 5. b3 Nc6 6. Bb2 d4 7. e3 Nb4 8. O-O
+dxe3 9. fxe3 Nd3 10. Ba3 Be7 11. Ne1 O-O 12. Nc3 Rb8 13. Qe2 Nb4 14. Bb2 Bd7
+15. a3 Nc6 16. Ne4 Nxe4 17. Bxe4 f5 18. Bg2 Bf6 19. Bxf6 Qxf6 20. Nd3 b6 21. b4
+cxb4 22. axb4 a5 23. Bxc6 Bxc6 24. bxa5 bxa5 25. Rxa5 Ra8 26. Rc5 Be4 27. Ne5
+Ra2 {(Moves hereafter given in BCM, Sept 1938, p412)} 28. Nd7 Qd8 29. Ne5 Rxd2
+30. Qh5 Rg2+ 31. Kh1 Rxg3+ 32. Nf3 Bxf3+ {Sources: The Times, 13 Aug 1938;
+Glasgow Herald, 19 Aug 1938} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Parr, Frank"]
+[Black "Mallison, Harold Vincent"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... 36 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Tylor, Theodore Henry"]
+[Black "Menchik, Vera"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[PlyCount "2"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e6 {... 24 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Alexander, C Hugh O'D"]
+[Black "Lenton, Alfred"]
+[Result "1-0"]
+[ECO "C83"]
+[PlyCount "71"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Qe2 O-O 11. Nbd2 Nc5 12. Nd4 Nxb3 13. N2xb3 Qd7 14. Nxc6 Qxc6
+15. Be3 Rfe8 16. f4 Bf5 17. Qf2 Rad8 18. Bd4 Qg6 19. Rfe1 Qh5 20. Qe2 Bg4 21.
+Qd2 Bh4 22. Bf2 Re6 23. Bxh4 Qxh4 24. Qf2 Qh5 25. Re3 Rh6 26. h3 Bf5 27. Rae1
+Qg6 28. Rg3 Qc6 29. Nd4 Qd7 30. Rg5 Be4 31. f5 c5 32. e6 Qd6 33. exf7+ Kxf7 34.
+Ne6 Rg8 35. Nxc5 Qe5 36. Ne6 {Sources: Glasgow Herald, 19 Aug 1938; BCM, Sept
+1938, p427} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Mallison, Harold Vincent"]
+[Black "Aitken, James Macrae"]
+[Result "0-1"]
+[ECO "C60"]
+[PlyCount "68"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bd7 7. Re1 Be7 8. d4
+O-O 9. d5 Nb8 10. Bc2 c6 11. c4 Qc8 12. Nc3 cxd5 13. cxd5 Bg4 14. Be3 b5 15. a3
+Qb7 16. h3 Bd7 17. Ne2 a5 18. Ng3 g6 19. Bh6 Rc8 20. Nh4 Ne8 21. Nhf5 gxf5 22.
+exf5 Nf6 23. Nh5 Rxc2 24. Nxf6+ Bxf6 25. Qxc2 Na6 26. Qe4 Kh8 27. Rad1 Nc5 28.
+Qg4 Rg8 29. Qh5 Bc8 30. f4 e4 31. b4 axb4 32. axb4 Nd3 33. Rxe4 Qa7+ 34. Kh2
+Nf2 {Source: Glasgow Herald, 16 September 1938} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Menchik, Vera"]
+[Black "Parr, Frank"]
+[Result "1-0"]
+[ECO "D31"]
+[PlyCount "79"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nd7 5. e4 dxe4 6. Nxe4 Ngf6 7. Nc3 Qc7 8.
+Bd3 Be7 9. O-O O-O 10. Qe2 Re8 11. Ne5 c5 12. Nb5 Qd8 13. Bf4 Nxe5 14. Bxe5 Rf8
+15. dxc5 Bd7 16. Rfd1 Qc8 17. b4 Bxb5 18. cxb5 Rd8 19. Qb2 a5 20. bxa6 bxa6 21.
+Rac1 Qc6 22. Qc2 Ra7 23. Bxf6 Bxf6 24. Bxh7+ Kf8 25. Rxd8+ Bxd8 26. Be4 Qb5 27.
+Rb1 Rd7 28. a4 Qb8 29. Bf3 Rd4 30. b5 Qf4 31. bxa6 Rxa4 32. Bb7 Ra5 33. Rd1 Qc7
+34. c6 Be7 35. Qh7 Bd6 36. g3 g6 37. Qh8+ Ke7 38. Qd4 Rd5 {(From here on, BCM,
+Sept 1938, p413)} 39. Qxd5 exd5 40. a7 {Sources: The Times, 15 Aug 1938;
+Manchester Guardian, 16 Aug 1938; The Scotsman, 16 Aug 1938; Glasgow Herald,
+17 Aug 1938} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Tylor, Theodore Henry"]
+[Result "1-0"]
+[ECO "C25"]
+[PlyCount "3"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 {... 34 moves} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Reynolds, Arthur"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... 42 moves} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[PlyCount "2"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 {... 89 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Aitken, James Macrae"]
+[Black "Menchik, Vera"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "125"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Bd3 Be7 8.
+Qc2 O-O 9. Nf3 Re8 10. h4 Nf8 11. O-O-O N6d7 12. Bf4 Qa5 13. Kb1 b5 14. e4 b4
+15. Ne2 dxe4 16. Bxe4 Nf6 17. Bd3 Be6 18. Nc1 Nd5 19. Bd2 Qb6 20. Ng5 h6 21.
+Bh7+ Kh8 22. Rde1 Bxg5 23. hxg5 Nxh7 24. g6 fxg6 25. Qxg6 Qxd4 26. Bxh6 gxh6
+27. Rxe6 Rxe6 28. Qxe6 Qf6 29. Rxh6 Qxe6 30. Rxe6 Rc8 31. Nb3 Rc7 32. Nd4 Ne7
+33. Rd6 Ng5 34. Rd8+ Kh7 {(adjourned)} 35. f4 Nf7 36. Rb8 c5 37. Ne6 Rc6 38.
+Nxc5 Rxc5 39. Rb7 Nc6 40. Rxf7+ Kg6 41. Rb7 Kf5 42. g3 Ke4 43. a3 a5 44. Ka2
+Kd3 45. Kb3 Nd4+ 46. Ka4 b3 47. g4 Kc2 48. g5 Kxb2 49. g6 Rc4+ 50. Kxa5 Nf5 51.
+Rf7 Kxa3 52. Rxf5 Ra4+ 53. Kb6 Rb4+ ({"Mrs Stevenson [Menchik] claimed that} 
+53... b2 {led to a win after} 54. Rb5 Rxf4 {, and this appears to be correct."
+(Aitken)}) 54. Ka7 {(second sealed move)} Ra4+ 55. Kb8 b2 56. Rb5 Rxf4 57. g7
+Rg4 58. Ra5+ Kb3 59. Rb5+ Kc3 60. Rc5+ Kd3 61. Rb5 Rg2 62. Kc8 Kc3 63. Rc5+ {
+Source: Glasgow Herald, 23 September 1938} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Golombek, Harry"]
+[Black "Alexander, C Hugh O'D"]
+[Result "0-1"]
+[ECO "D38"]
+[PlyCount "69"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Bb4+ 5. Nc3 c5 6. cxd5 Qxd5 7. Bxf6 gxf6 8.
+a3 Bxc3+ 9. bxc3 Nc6 10. e3 cxd4 11. cxd4 Rg8 12. Rg1 b6 13. Qc2 f5 14. Nd2 Bb7
+15. Bc4 Qd6 16. g3 Ke7 17. Qd3 Na5 18. Ba6 Bxa6 19. Qxa6 Rgc8 20. Qd3 Rc7 21.
+g4 Rac8 22. Rg3 Rc3 23. Qb5 a6 24. Qxa6 fxg4 25. Qb5 f5 26. Ke2 Rc2 27. Rd1 Nc4
+28. a4 Rb2 29. Qa6 Rc7 30. e4 Qb4 31. exf5 Nxd2 32. Qa8 Ne4+ 33. Kf1 Nxg3+ 34.
+hxg3 Qc4+ 35. Kg1 {Sources: The Times, 16 Aug 1938; Glasgow Herald, 26 Aug
+1938 (omits the final half-move); BCM, Sept 1938, p428} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Parr, Frank"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "0-1"]
+[ECO "D11"]
+[PlyCount "84"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. g3 d5 3. c4 c6 4. Bg2 Bf5 5. Nc3 e6 6. Nf3 Nbd7 7. O-O Bd6 8. Nh4
+Bg6 9. f4 Be4 10. Bxe4 Nxe4 11. Nxe4 dxe4 12. Qc2 f5 13. c5 Be7 14. Ng2 Nf6 15.
+e3 Nd5 16. Bd2 Qd7 17. Rfc1 g5 18. b4 Kf7 19. Rf1 g4 20. Rfc1 h5 21. Kf2 h4 22.
+Rab1 a6 23. a4 Qe8 24. Qc4 hxg3+ 25. hxg3 Rh2 26. Rh1 Qh8 27. Qf1 Rh3 28. Qe1
+Qh6 29. Ke2 Rh2 30. Qg1 Rh3 31. Qe1 Rh8 32. Rg1 Ra8 33. Qf2 Rh2 34. Be1 Qh3 35.
+Qf1 {From here on, BCM, Sept 1938, p413/4} Bh4 36. Qf2 Bxg3 37. Qxg3 Nc3+ 38.
+Kd2 Nxb1+ 39. Kc2 Rh8 40. Qf2 Qf3 41. Kxb1 Rh1 42. Kc1 g3 {Source: The Times,
+17 Aug 1938} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Reynolds, Arthur"]
+[Black "Lenton, Alfred"]
+[Result "0-1"]
+[ECO "B10"]
+[PlyCount "64"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. c4 e6 3. Nc3 d5 4. exd5 exd5 5. cxd5 cxd5 6. Bb5+ Nc6 7. Nge2 Nge7
+8. d4 a6 9. Ba4 Ng6 10. O-O Be7 11. Kh1 O-O 12. f4 Bf6 13. f5 Nge7 14. g4 h6
+15. Be3 b5 16. Bc2 Re8 17. Qd2 Na5 18. b3 Nec6 19. Rf3 Bb7 20. Raf1 Rc8 21. h4
+Bxh4 22. f6 Bxf6 23. Qd3 Re4 24. Nxe4 dxe4 25. Qxe4 Nxd4 26. Qh7+ Kf8 27. Nxd4
+Bxd4 28. Kg1 Bxf3 29. Rxf3 Qd7 30. Qh8+ Ke7 31. Bf5 Rxh8 32. Bxd7 Bxe3+ {
+Sources: The Times, 16 Aug 1938; The Scotsman, 17 Aug 1938; Glasgow Herald, 18
+Aug 1938} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Thomas, George Alan"]
+[Black "Mallison, Harold Vincent"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "6"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 {... 39 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Tylor, Theodore Henry"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... (transposed to Catalan) ... 48 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Alexander, C Hugh O'D"]
+[Black "Tylor, Theodore Henry"]
+[Result "0-1"]
+[ECO "C14"]
+[PlyCount "66"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 {"Meanwhile Alexander
+suffered his first defeat, at the hands of T. H. Tylor. He played the Chatard
+attack 6. P—KR4 against Tylor’s French Defence. This is supposed to have
+been refuted by the Russian analysts: but the Russian analysts are quite
+mistaken, as Alexander immediately demonstrated. He castled on the queen’s
+side and obtained a positional advantage which should have been decisive; but
+in a very complicated position he lost his way, allowing a bishop to be
+trapped and losing two pieces for a rook. He could still have made a fight,
+but finished him­self off by making a blunder and losing yet another piece.
+Alexander is, unfortunately, suffering from a heavy cold." (The Times, 17 Aug
+1938)} f6 7. Qh5+ Kf8 8. exf6 Nxf6 9. Qf3 c5 10. dxc5 Nbd7 11. O-O-O Nxc5 12.
+Nh3 Bd7 13. Qe3 Rc8 14. Nf4 Qe8 15. Bd3 Qf7 16. Rhe1 Bd6 17. Bb5 Ng4 18. Qg3
+Ne5 19. Kb1 h6 20. Bxd7 Ncxd7 21. Nb5 Bc5 22. Qh3 Rc6 23. Nc7 hxg5 24. Nfxe6+
+Kg8 25. Nd8 Qe7 26. Nxc6 bxc6 27. Ne6 g4 28. Qc3 Qxe6 29. b4 Bxf2 30. Re2 g3
+31. Qb3 Rxh4 32. b5 c5 33. a3 c4 {Source: The Observer, 21 Aug 1938} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Lenton, Alfred"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[PlyCount "1"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. Nf3 {or possibly 1.g3 g6... 36 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Mallison, Harold Vincent"]
+[Black "Reynolds, Arthur"]
+[Result "0-1"]
+[ECO "B29"]
+[PlyCount "72"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Bc4 Nc6 7. Qe4 f5 8. Qe2
+Nc7 9. Nc3 a6 10. a4 Na5 11. Ba2 b5 12. O-O b4 13. Nd1 Bb7 14. Ne3 Be7 15. Rd1
+O-O 16. Nd4 b3 17. cxb3 Nc6 18. Nxc6 Bxc6 19. Nc4 Nd5 20. Bd2 a5 21. Na3 Qe8
+22. Nb5 Qg6 23. f3 Bc5+ 24. Kh1 Qh5 25. Nc3 Nb4 26. Bb1 g5 27. Bd3 Nxd3 28.
+Qxd3 Rf7 29. Ne2 g4 30. fxg4 fxg4 31. Bf4 Qh3 32. Qg3 Raf8 33. Rf1 h5 34. Ng1
+Qxg3 35. hxg3 h4 36. Rfc1 hxg3 {Sources: The Times, 18 Aug 1938; (final moves)
+BCM, Sept 1938, p414/5. Note: Arthur Reynolds (1910-29.11.1943), see obit in
+BCM, March 1980, p150-2} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Menchik, Vera"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1r1qrnk1/p1b2npp/bpp1pp2/3pP2P/1P1P4/3N1NPB/PBP2P2/1R1QR1K1 b - - 0 18"]
+[PlyCount "6"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+{Reti opening...} 18... Rb7 19. a4 Bb8 20. b5 cxb5 21. Nb4 {and the bishop is
+lost. However, White played the succeeding moves in poor style and allowed
+Black to draw. 81 moves... source: BCM, Sept 1938, p414} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Aitken, James Macrae"]
+[Result "0-1"]
+[ECO "C27"]
+[PlyCount "54"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. d3 g6 7. Qh3 Nd4 8. f4
+Bg7 9. fxe5 N6f5 10. Nf3 Nxb3 11. axb3 d5 12. g4 Ne7 13. Qg3 Be6 14. Be3 h5 15.
+Ng5 d4 16. Nce4 dxe3 17. O-O Qd4 18. Nf3 Qb6 19. h3 hxg4 20. hxg4 O-O-O 21. d4
+Bd5 22. Qf4 Qc6 23. Nc5 e2 24. Rf2 Bh6 25. Qf6 Qxf6 26. exf6 Nc6 27. g5 Bxg5 {
+Sources: Manchester Guardian, 18 Aug 1938; The Scotsman, 19 Aug 1938; Glasgow
+Herald, 19 Aug 1938} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Parr, Frank"]
+[Result "1-0"]
+[ECO "B73"]
+[PlyCount "65"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 Nc6 9. Qd2 Ng4 10. Nxc6 bxc6 11. Bxg4 Bxg4 12. Bh6 Bxh6 13. Qxh6 Rb8 14. b3
+Qa5 15. Qe3 Rfd8 16. h3 Bc8 17. Rfe1 Qb6 18. Rad1 Qxe3 19. Rxe3 Ba6 20. e5 d5
+21. Na4 Bc8 22. Rc3 Bd7 23. Nc5 Be8 24. Rd4 Rdc8 25. Ra4 Ra8 26. b4 Rcb8 27.
+Rca3 f6 28. e6 a5 29. Rxa5 Rxa5 30. bxa5 g5 31. a6 Bg6 32. a7 Ra8 33. Nd7 {
+Source: The Times, 18 Aug 1938} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Aitken, James Macrae"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[ECO "B40"]
+[PlyCount "136"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Nxc6 bxc6 7. Bd3 d5 8.
+O-O Be7 9. exd5 exd5 10. Bf4 O-O 11. Qf3 Bg4 12. Qg3 Qd7 13. Be5 Nh5 14. Qe3
+Rfe8 15. f3 Bf5 16. Qf2 Bxd3 17. cxd3 Qf5 18. Rfe1 Qxd3 19. g4 f6 20. Bc7 Rac8
+21. Bg3 Nxg3 22. hxg3 Bb4 23. Red1 Qc4 24. Qf1 Bc5+ 25. Kg2 Qxf1+ 26. Rxf1 Bd4
+27. Rac1 Rb8 28. b3 Re3 29. Nd1 Re2+ 30. Kh3 c5 31. Nc3 Rd2 32. Rfe1 Kf7 33.
+Nxd5 Re8 34. a4 Rxe1 35. Rxe1 Bf2 36. Re7+ Kf8 37. Rd7 Bg1 38. g5 f5 39. g4 f4
+40. Rd8+ Kf7 41. g6+ hxg6 42. Kh4 Be3 43. a5 Bd4 44. g5 Be3 45. a6 Rh2+ 46. Kg4
+Rg2+ 47. Kh4 Bf2+ 48. Kh3 Rg3+ 49. Kh2 Rxg5 50. Nb6 {! Aitken} Bg1+ 51. Kh1 c4
+52. Nxc4 Ke7 53. Rd3 Bc5 54. Na5 Ke6 55. Nc6 Rg1+ 56. Kh2 Ra1 57. Nd8+ Kf6 58.
+Rd7 Rxa6 59. Rf7+ Kg5 60. Rxg7 Ra2+ 61. Kh1 Bb6 62. Nc6 Ra3 63. b4 Kf6 64. Rg8
+Ra2 65. Rf8+ Kg5 66. Ne5 Kh4 {!! Aitken} 67. Rg8 Kh3 68. Rh8+ Kg3 {Source:
+Aitken scorebook 5} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Golombek, Harry"]
+[Black "Reynolds, Arthur"]
+[Result "1-0"]
+[ECO "E16"]
+[PlyCount "53"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Qc8 6. O-O c5 7. dxc5 Bxc5 8. b3
+Nc6 9. Bb2 Qc7 10. Nc3 O-O-O 11. e4 d6 12. a3 a5 13. Qe2 Qe7 14. Rad1 h5 15.
+Nb5 e5 16. Bc3 Kb8 17. Rb1 Nxe4 18. Qxe4 Nd4 19. Qd3 e4 20. Rfe1 exd3 21. Rxe7
+Nxf3+ 22. Bxf3 Bxf3 23. b4 h4 24. bxc5 hxg3 25. fxg3 dxc5 26. Be5+ Ka8 27. Ra7#
+{Sources: Manchester Guardian, 19 Aug 1938; The Scotsman, 19 Aug 1938; Glasgow
+Herald, 20 Aug 1938; Falkirk Herald, 31 Aug 1938; BCM, Sept 1938, p415} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Mallison, Harold Vincent"]
+[Black "Menchik, Vera"]
+[Result "0-1"]
+[ECO "C14"]
+[Annotator "Mallison, HV"]
+[PlyCount "80"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 O-O 8.
+f4 c5 9. Nf3 Nc6 10. g3 Nb6 ({A new move, first played by Black in 1937
+against T. Tylor. It seems better than the usual} 10... a6) 11. O-O-O {Based
+on the idea that if Black continues with 11...c4, then 12.Bg2 threatening g4
+and f5 and Black will have to move the knight from b6 in order to start a pawn
+attack with b7-b5.} cxd4 ({If} 11... Nc4 {at once,} 12. Bxc4 dxc4 13. d5 {
+with the better position.}) 12. Nb5 ({If} 12. Nxd4 {at once,} Bd7 {. If then}
+13. Ncb5 Nxd4 14. Qxd4 Bxb5 15. Bxb5 Rfc8 {threatening Nc4.}) 12... Bd7 13. Bd3
+{This seems to lose time.} ({If} 13. Nd6 f6 14. Nxd4 fxe5 15. Nxc6 bxc6 ({if} 
+15... Qxd6 16. Nxe5) 16. fxe5 {and Black has the open b- and f-files.}) (13. h4
+{could have been played first, to which Black could reply} Qc5) (13. Kb1 {
+could also be played.}) 13... Nc4 (13... Qc5 14. Nfxd4 Nxd4 15. Nxd4 Qxd4 {
+loses to} 16. Bxh7+) ({if} 13... Nb4 14. Nd6 {, for if} Nxa2+ 15. Kb1 {wins
+the knight.}) 14. Bxc4 dxc4 15. Nfxd4 ({This is now necessary to stop c4-c3,
+although White might perhaps have risked} 15. Nd6 {, threatening Nxc4, since
+after the text move, Black gets a free game and an attack.}) 15... Nxd4 16.
+Nxd4 Rfd8 {Preventing 17.Nf5.} 17. Qc3 {This invites a pawn attack. 17.Qa5 or
+17.Qe3 was better.} Rac8 (17... Rdc8 {threatening a5, seems strong. If then}
+18. Qa5 Rc5) 18. a3 Qc5 19. Qb4 (19. Rhe1 {at once was better, to threaten g4
+and f5.}) 19... Qc7 20. Rhe1 a5 21. Qc3 b5 22. b4 Ra8 ({If} 22... axb4 23. Qxb4
+) ({or} 22... cxb3 23. Qxc7 Rxc7 24. Nxb3) 23. Kb2 Rdb8 ({Overlooking White's
+reply.} 23... Ra7 {defending the queen and freeing 24...Ra8, or 23...Qb7, was
+better.}) 24. Nb3 axb4 25. axb4 Bc6 26. Nc5 Bd5 27. Ra1 ({If} 27. f5 Qxc5 28.
+bxc5 b4 29. Qe3 c3+ 30. Kb1 Ra2 31. Rxd5 Rb2+ {wins.}) 27... Qc6 28. Rxa8 Rxa8
+29. Ra1 Rxa1 30. Kxa1 Qa8+ 31. Kb2 Kf8 32. Qe3 ({To keep queen and knight
+which, according to Dr. Lasker, is better than queen and bishop. White first
+intended} 32. Qa3 Qxa3+ ({if} 32... c3+ 33. Qxc3 Qa2+ 34. Kc1) 33. Kxa3 f6 ({if
+} 33... c3 34. Nd3 {intending Nc1-e2 or a2}) 34. exf6 {with a probable draw.})
+32... Ke8 33. f5 ({A miscalculation, losing.} 33. g4 {should draw easily.})
+33... exf5 34. e6 fxe6 35. Qe2 {The sealed move.} ({White had overlooked that
+if} 35. Nxe6 c3+ 36. Kxc3 Qa3+ {forces the exchange of queens.}) 35... Kf7 36.
+Qe5 Qd8 37. c3 Qc8 38. Qd6 (38. h4 {would make it more difficult for Black to
+win.}) 38... Qc6 39. Qd8 Bh1 40. Nd7 (40. Qb8 {was better.}) 40... Qd6 {
+Black wins the queen's side pawns. Notes by Mallison in his archives. Sources:
+Tony Gillam, Bob Jones and H V Mallison archives.} (40... Qd6 {If} 41. Kc1 Bf3)
+0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Parr, Frank"]
+[Black "Alexander, C Hugh O'D"]
+[Result "0-1"]
+[ECO "A04"]
+[PlyCount "1"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. Nf3 {... 60 moves} 0-1
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Thomas, George Alan"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[PlyCount "1"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+{Opening: Nimzowitsch System. "i.e. he fianchettoed his Queen's Bishop and
+concentrated his pieces on e5" (BCM)... 46 moves} 1. b3 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Tylor, Theodore Henry"]
+[Black "Lenton, Alfred"]
+[Result "1-0"]
+[ECO "A43"]
+[PlyCount "17"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. Nc3 b6 $2 5. e4 exd5 $2 6. e5 $18 Ng8 7. Qxd5
+Nc6 8. Bc4 Qe7 9. O-O $2 {etc... 51 moves. Source: BCM, Sept 1938, p415} (9.
+Nb5 $1 {wins}) 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Alexander, C Hugh O'D"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "C74"]
+[PlyCount "53"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8. Ng5
+d5 9. f3 h6 {? Aitken} 10. fxe4 hxg5 11. exf5 Qd6 12. Bxg5 Be7 13. Qg4 b5 14.
+Bf4 Qf6 15. Bc2 Rh4 16. Qg3 O-O-O 17. Nd2 b4 18. O-O Nh6 19. Rae1 Ng4 {(No
+note from Aitken after this move though it is a blunder forcing Black to shed
+a piece. Alexander has a chance to take on c7 a few times but shuns it by
+playing other good moves keeping the threat on the board - GC)} 20. Nf3 Nxh2
+21. Nxh2 Nxd4 22. cxd4 Qxd4+ 23. Qe3 Bc5 24. Qxd4 Bxd4+ 25. Be3 Bxb2 26. Bg5
+Bd4+ 27. Kh1 {Sources: Aitken scorebook 5; (CHESS, Sept 1938, p21 has some
+commentary on Black's 19th and White's 20th moves)} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Golombek, Harry"]
+[Black "Tylor, Theodore Henry"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[PlyCount "6"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 {... 54 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Lenton, Alfred"]
+[Black "Parr, Frank"]
+[Result "1-0"]
+[ECO "B50"]
+[PlyCount "25"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. b4 cxb4 4. a3 Nf6 5. axb4 g6 6. Bb2 Bg7 7. Bc4 O-O 8. d3
+Qb6 9. Bd4 Qxb4+ 10. c3 Qb2 11. Ra2 Qxa2 12. Bxa2 e5 13. Be3 {Sources: Falkirk
+Herald, 31 Aug 1938; BCM, Sept 1938, p416} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Mallison, Harold Vincent"]
+[Result "1-0"]
+[ECO "C28"]
+[PlyCount "43"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. f4 Nxe4 5. Nf3 Nd6 6. Bb3 e4 7. Qe2 Be7 8.
+Nxe4 Nxe4 9. Qxe4 O-O 10. O-O Bf6 11. d4 Re8 12. Bxf7+ Kxf7 13. Qd5+ Kf8 14.
+Ng5 Re6 15. f5 Ne7 16. Nxh7+ Kg8 17. Nxf6+ gxf6 18. Qf3 Nxf5 19. Qxf5 Qf8 20.
+Rf3 Re7 21. Rg3+ Rg7 22. Bh6 {Sources: The Times, 19 Aug 1938; The Scotsman,
+22 Aug 1938; BCM, Oct 1938, p477; Glasgow Herald, 7 October 1938} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Reynolds, Arthur"]
+[Black "Menchik, Vera"]
+[Result "1-0"]
+[ECO "D73"]
+[PlyCount "59"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nc3 c6 6. Qb3 dxc4 7. Qxc4 O-O 8. Nf3
+Qa5 9. b4 Qh5 10. h3 Qf5 11. Ng5 Qd7 12. O-O Ne8 13. Rd1 Nd6 14. Qb3 h6 15. Nf3
+Qe6 16. d5 cxd5 17. Nd4 Qd7 18. Nxd5 Nc6 19. Bb2 Rb8 20. Rac1 Nxd4 21. Bxd4
+Bxd4 22. Rxd4 Qe6 23. Rd3 Qxe2 24. Re3 Qh5 25. Rxe7 Be6 26. Nf6+ Kh8 27. Qxe6
+Qg5 28. Rc5 Qxc5 29. bxc5 fxe6 30. Rh7# {Sources: The Times, 19 Aug 1938;
+Glasgow Herald, 26 Aug 1938; BCM, Oct 1938, p475} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "3"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 {... 60 moves} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Aitken, James Macrae"]
+[Black "Lenton, Alfred"]
+[Result "1-0"]
+[ECO "B13"]
+[PlyCount "47"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3 Na5 8.
+Qc2 e6 9. Nd2 Bd6 10. Bxd6 Qxd6 11. Ngf3 Nc6 12. O-O O-O 13. Rae1 Rac8 14. Qb1
+a6 15. Ne5 Bh5 16. f4 Bg6 17. Bxg6 hxg6 18. Re3 Na5 19. Qe1 {(From here on
+also in BCM, Sept 1938, p417)} Qd8 20. Rh3 Re8 21. Rh8+ Kxh8 22. Nxf7+ Kg8 23.
+Nxd8 Rcxd8 24. Qg3 {Sources: The Times, 22 Aug 1938; Glasgow Herald, 16 Sept
+1938} 1-0
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Mallison, Harold Vincent"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[PlyCount "2"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 {... 45 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Menchik, Vera"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[PlyCount "1"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. Nf3 {... 60 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Parr, Frank"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 {... 67 moves} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Thomas, George Alan"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[PlyCount "68"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bg5 Ne4 4. Bh4 Nd7 5. e3 g6 6. Bd3 Bg7 7. c4 c6 8. O-O
+O-O 9. cxd5 cxd5 10. Qb3 Ndf6 11. Nc3 Nxc3 12. bxc3 b6 13. a4 Be6 14. Qa3 Qd6
+15. Qxd6 exd6 16. Ng5 Bd7 17. c4 dxc4 18. Bxc4 h6 19. Nf3 g5 20. Bg3 Ne4 21.
+Rfc1 Nxg3 22. hxg3 Rfc8 23. Nd2 Bf6 24. Kf1 Kf8 25. Ke2 Rc7 26. Bb5 Rxc1 27.
+Rxc1 Rc8 28. Rxc8+ Bxc8 29. Ne4 Be7 30. Nc3 Bb7 31. e4 d5 32. exd5 Bb4 33. Na2
+Ba5 34. Bc6 Ba6+ {Source: Leicester Evening Mail, 24 August 1938 p13.
+Contributed by Gerard Killoran, 30 November 2020.} 1/2-1/2
+
+[Event "GBR-ch 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Tylor, Theodore Henry"]
+[Black "Reynolds, Arthur"]
+[Result "0-1"]
+[ECO "B29"]
+[PlyCount "100"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Bc4 e6 7. O-O Nb6 8.
+Bb5 a6 9. Bxc6+ bxc6 10. dxc5 Qxd1 11. Rxd1 Bxc5 12. Ne5 Bb7 13. Ne4 Be7 14.
+Be3 Nd5 15. Bc5 f6 16. Nc4 Bxc5 17. Nxc5 Bc8 18. Na5 Ra7 19. c4 Ne7 20. Rd6 Kf7
+21. Rad1 Rc7 22. b4 h5 23. Rd8 Rxd8 24. Rxd8 Nf5 25. Ne4 Ke7 26. Rd3 e5 27. Nc5
+Nd4 28. Rd2 g5 29. Kf1 h4 30. Nab3 Ne6 31. g3 hxg3 32. hxg3 f5 33. Ke2 g4 34.
+Ke3 Ng5 35. Rd1 Nh3 36. Nc1 f4+ 37. Ke2 Be6 38. Nxe6 Kxe6 39. Nd3 Kf5 40. Nc5
+Rh7 41. Rf1 Ng5 42. a4 Ne4 43. Nxa6 Rh2 44. Ke1 f3 45. Nc5 Nxc5 46. bxc5 Ke4
+47. a5 Kd3 48. Kd1 e4 49. Kc1 Rxf2 50. Rxf2 e3 {Source: The Times, 22 Aug 1938,
+p13} 0-1
+
+[Event "GBR-chW 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Dew, Rowena Mary"]
+[Black "Thomson, Florence Frankland"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "Q1q5/K2k4/8/8/8/8/8/8 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+{"To Mrs Thomson who came second there occurred perhaps the most irritating
+incident possible in chess. The following was the position at adjournment of
+her game against Miss Dew, the former holder of the championship. Mrs Thomson
+sealed the correct move:} 1... Qc5+ {. But a number of spectators manifested
+displeasure at Mrs Thomson continuing what seemed to them an obviously drawn
+game, and in deference to these 'authorities' Mrs Thomson agreed to a draw.
+However, there is a win for Black in this position, e.g.} 2. Ka6 Qa3+ 3. Kb7
+Qb4+ 4. Ka6 Qa4+ 5. Kb7 Qb5+ 6. Ka7 Kc7 {and White will soon be mated." 
+(Source: BCM, Sept 1938, p417-418)} 1/2-1/2
+
+[Event "GBR-chW 31st"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.10"]
+[Round "3"]
+[White "Thomson, Florence Frankland"]
+[Black "Crum, Agnes Margaret"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "65"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 d6 4. d3 g6 5. f4 Bg7 6. Nf3 Nf6 7. O-O O-O 8. Qe1
+a6 9. a3 b5 10. Bb3 Bd7 11. Ne2 Qc7 12. Ng3 e6 13. c3 d5 14. e5 Ne8 15. Be3 Na5
+16. Bc2 Nb7 17. d4 c4 18. h4 h5 19. Qe2 Bh6 20. Ng5 Ng7 21. Rf3 Nf5 22. Nxf5
+exf5 23. Rg3 Bc8 24. Re1 Qe7 25. Qf3 Be6 26. Nxe6 Qxe6 27. Qxh5 Bg7 28. Qf3 Kh7
+29. h5 Bh6 30. Kf2 Rg8 31. Rh1 Rad8 32. Rgh3 g5 33. fxg5 {Source: Glasgow
+Herald, 30 Sept 1938} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Klein, Ernst Ludwig"]
+[Black "Cole, Henry Holwell"]
+[Result "1-0"]
+[ECO "D46"]
+[PlyCount "51"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Bd3 Nbd7 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 Nf6 10. Bc2 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 h6 13. O-O O-O 14. Rad1
+Qc7 15. Rfe1 Bd7 16. Ne5 Rad8 17. Qd3 Rfe8 18. Re3 c5 19. Rg3 Bc6 {From here
+on, BCM, Oct 1938, p463} 20. Rxg7+ Kxg7 21. Qg3+ Ng4 22. Qxg4+ Kf8 23. Qf4 Rc8
+24. Qf6 Red8 25. d5 exd5 26. Ng6+ {Sources: The Scotsman, 11 Aug 1938 p16;
+Glasgow Herald, 19 Aug 1938} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Storr-Best, John"]
+[Black "Wood, Baruch Harold"]
+[Result "0-1"]
+[ECO "B50"]
+[PlyCount "52"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. d3 g6 5. Be2 Bg7 6. Be3 Nc6 7. h3 O-O 8. Nbd2
+e5 9. Nf1 Qe7 10. c4 Nh5 11. Qc1 Nd4 12. Nxd4 exd4 13. Bg5 f6 14. Bd2 f5 15.
+Bxh5 fxe4 16. Bg5 Qe5 17. dxe4 Qxe4+ 18. Be2 d3 19. Be3 dxe2 20. Kxe2 Qxg2 21.
+Nd2 Bf5 22. Qf1 Qc6 23. Qc1 Rae8 24. a4 Rf7 25. a5 Rfe7 26. Ra3 Bxb2 {Source:
+Kensington News and West London Times - Friday 16 September 1938 p.2.
+Contributed by Gerard Killoran via the EC Forum, 16 April 2022} 0-1
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Thomson, Alexander Aird"]
+[Black "Solomon, John David"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "51"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bg5 Be7 6. Bf3 Nbd7 7. Ne2 h6 8.
+Be3 O-O 9. O-O e5 10. Nbc3 exd4 11. Nxd4 Ne5 12. Re1 c6 13. Qe2 Nxf3+ 14. Nxf3
+Re8 15. Rad1 Qc7 16. Qd2 Bg4 17. Bf4 Qb6 18. h3 Bxf3 19. gxf3 Rad8 20. Qc1 Bb4
+21. Be5 Qa5 22. Bxf6 Rxd1 23. Rxd1 {('KtxQ' seems to have been printed)} gxf6 {
+('QRxKt' for this one)} 24. Qxh6 Bxc3 25. bxc3 Qxc3 26. Kh2 {Source: Glasgow
+Herald, 16 September 1939} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Wood, Baruch Harold"]
+[Black "Klein, Ernst Ludwig"]
+[Result "0-1"]
+[ECO "D27"]
+[PlyCount "108"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+Be7 9. Rd1 O-O 10. Nc3 Qc7 11. h3 Rd8 12. d5 Na5 13. dxe6 Bxe6 14. Bxe6 fxe6
+15. Rxd8+ Rxd8 16. Bd2 Qb6 17. Be1 Qb3 18. Ra3 Qb6 19. Ra1 c4 20. Rd1 Bb4 21.
+Ne5 Rxd1 22. Qxd1 Qd6 23. Qxd6 Bxd6 24. Nf3 Kf7 25. Kf1 Ke8 26. Ke2 Kd7 27. Ne4
+Nxe4 28. Bxa5 Kc6 29. Nd2 Kd5 30. Nxe4 Kxe4 31. f3+ Kd5 32. Bc3 g6 33. e4+ Kc5
+34. Ke3 e5 35. Kd2 b5 36. axb5 axb5 37. Kc2 {From here on, also BCM, Oct 1938,
+p463} b4 38. Be1 b3+ 39. Kd1 Be7 40. Bc3 Kd6 41. g3 Ke6 42. Bd2 Bc5 43. Bh6 Bf2
+44. Kd2 Kd6 45. g4 Bd4 46. Kc1 c3 47. bxc3 Bxc3 48. Bg7 Kc5 49. f4 b2+ 50. Kc2
+exf4 51. Bxc3 f3 52. Be1 Kd4 53. Kxb2 Kxe4 54. Kc2 Ke3 {Source: CHESS, Oct
+1938, p72} 0-1
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Mieses, Jacques"]
+[Black "Solomon, John David"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1k1/2p1rpp1/1p1q4/p5P1/3PpR1P/2P1P3/PP2Q1R1/1K6 w - - 0 34"]
+[PlyCount "25"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+34. Rf6 Re6 35. Rxe6 Rxe6 36. h5 Kf8 37. c4 Qb4 38. a3 Qb3 39. d5 Re5 40. Qc2
+Qxe3 41. g6 f5 42. Qa4 Re7 43. Qc6 Qc5 44. h6 gxh6 45. g7+ Rxg7 46. Qf6+ {
+Source: BCM, Oct 1938, p464} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Klein, Ernst Ludwig"]
+[Black "Stuart, E Leslie"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/6k1/5p2/1pK2R1P/6P1/5P2/1r6 w - - 0 41"]
+[PlyCount "9"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+{[#]} 41. Kc5 Rb2 42. Kb5 Rb3 43. Ka5 Rb2 44. Ka4 b3 45. Ka3 {Source: Deutsche
+Schachzeitung 9/1938, 269+285. Contributed by Ulrich Tamm, 20 April 2022.} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "Storr-Best, John"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "B45"]
+[PlyCount "63"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. Ndb5 Nf6 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O Ne5 12. Bg5 Be6 13. Re1 Ng6 14. Bxg6
+hxg6 15. Qd4 b6 16. Nd1 Qc7 17. Bxf6 gxf6 18. Qxf6 Qxc2 19. Ne3 Qc7 20. Rac1
+Qd7 21. h4 Kh7 22. Rcd1 Rac8 23. h5 Rg8 24. Nxd5 Bxd5 25. Re5 Qg4 26. Rexd5
+gxh5 27. Qxf7+ Kh6 28. Rd6+ Rg6 29. Rxg6+ Qxg6 30. Qf4+ Kh7 31. Rd6 Rc1+ 32.
+Kh2 {Source: BCM, Oct 1938, p464} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Inglott, Erin Serracino"]
+[Black "Solomon, John David"]
+[Result "0-1"]
+[ECO "D04"]
+[PlyCount "34"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bf5 4. Nbd2 e6 5. c4 Nbd7 6. Qb3 Rb8 7. cxd5 exd5 8.
+Nh4 Bg6 9. Nxg6 hxg6 10. Nf3 Bd6 11. Bd2 Qe7 12. Be2 c6 13. Rc1 Ne4 14. h3 g5
+15. O-O g4 16. hxg4 Nxd2 17. Nxd2 Rh1+ {Source: BCM, Oct 1938, p464} 0-1
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Mieses, Jacques"]
+[Black "Klein, Ernst Ludwig"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "61"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 d6 4. d3 g6 5. Be3 Bg7 6. g3 b5 7. Qd2 b4 8. Nd1
+Ne5 9. Bg2 Bg4 10. f4 Nf3+ 11. Bxf3 Bxf3 12. O-O Bg4 13. e5 Bh3 14. Re1 Qc8 15.
+Nf2 dxe5 16. Nxh3 Qxh3 17. Bxc5 a5 18. fxe5 Bxe5 19. d4 Bc7 20. d5 Qd7 21. c4
+Nf6 22. Nd4 Bd6 23. Bxd6 Qxd6 24. Nc6 Qc5+ 25. Qe3 Qxe3+ 26. Rxe3 e6 27. dxe6
+Ra6 28. Rf1 Rxc6 29. Rxf6 Rxe6 30. Rexe6+ fxe6 31. Rxe6+ {... 58 moves. Source:
+BCM, Oct 1938, p463} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Cole, Henry Holwell"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "48"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4 4. Be2 Nc6 5. Nc3 Qd7 6. h3 Bf5 7. d4 e6 8.
+Bb5 f6 9. Nh4 Nge7 10. O-O O-O-O 11. Be3 g5 12. Nxf5 Nxf5 13. d5 exd5 14. Bxa7
+Qd6 15. Qg4 Nxa7 16. Qxf5+ Kb8 17. Rad1 Nxb5 18. Rxd5 Qe7 19. Rxb5 c6 20. Rb3
+h5 21. Ne4 Bg7 22. c4 g4 23. Nc5 b5 24. cxb5 Qe5 {Source: Sydenham, Forest
+Hill & Penge Gazette - Friday 19 August 1938 p.8. Contributed by Gerard
+Killoran via the English Chess Forum, 20 April 2022.} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Klein, Ernst Ludwig"]
+[Black "O'Donovan, John Francis"]
+[Result "1-0"]
+[ECO "E43"]
+[PlyCount "37"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 b6 6. Bd3 Bb7 7. f3 d6 8. Ne2
+Nbd7 9. e4 e5 10. Ng3 O-O 11. O-O Re8 12. Qd2 Nf8 13. Nf5 Ng6 14. g3 Qd7 15. d5
+a5 16. h4 Ne7 17. Nxg7 Kxg7 18. Qh6+ Kg8 19. Qxf6 {Source: Falkirk Herald, 24
+Aug 1938} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "List, Paul M"]
+[Black "Thomson, Alexander Aird"]
+[Result "1-0"]
+[ECO "D37"]
+[PlyCount "61"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 dxc4 6. e3 Nd5 7. Bxc4 Nxf4 8.
+exf4 O-O 9. O-O c6 10. Qe2 Nd7 11. Rfe1 Nb6 12. Bb3 Bd6 13. g3 Nd5 14. Rad1 Bb4
+15. Qd3 Qf6 16. Ne4 Qg6 17. Ne5 Qf5 18. Rf1 h5 19. a3 Be7 20. Bc2 f6 21. Nf3
+Qg4 22. h3 Qxh3 23. Neg5 Qf5 24. Qd2 Qg4 25. Nh2 Qxd1 26. Qxd1 fxg5 27. Qxh5
+Nf6 28. Qxg5 Nd5 29. Qg6 Rf6 30. Qh7+ Kf8 31. Ng4 {Source: Narodni Listy, 6.11.
+1938. Contributed by Ulrich Tamm, 20 April 2022.} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Mieses, Jacques"]
+[Black "Wood, Baruch Harold"]
+[Result "1-0"]
+[ECO "B26"]
+[PlyCount "55"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 e6 6. d3 Nge7 7. Bf4 e5 8. Be3
+d6 9. Qd2 Be6 10. Nd5 Nd4 11. c3 Nxe2 12. Qxe2 Qd7 13. Bh6 O-O 14. Bxg7 Kxg7
+15. Ne3 Rab8 16. g4 b5 17. h4 h6 18. Rf1 b4 19. f4 f6 20. f5 gxf5 21. exf5 Bg8
+22. g5 fxg5 23. hxg5 Nxf5 24. Qh5 Bh7 25. Nxf5+ Rxf5 26. Qxh6+ Kh8 27. Rxf5
+Qxf5 28. Be4 {Source: BCM, Oct 1938, p464} 1-0
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Inglott, Erin Serracino"]
+[Black "Wood, Baruch Harold"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6r1/2pb3k/1p1n2rp/p1pPp2q/2P1Pp2/1P1N1P2/P4QBP/2R3RK b - - 0 29"]
+[PlyCount "5"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+29... Rg3 30. Rce1 R8g5 31. Re2 Qxh2+ {Source: BCM, Oct 1938, p463} 0-1
+
+[Event "GBR-ch 31st Major A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Cole, Henry Holwell"]
+[Black "Storr-Best, John"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "45"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 c5 5. Nc3 b6 6. cxd5 exd5 7. Ne5 c4 8. Qf3
+Bd6 9. Nxc4 Bg4 10. Nxd6+ Qxd6 11. Qg3 Qxg3 12. hxg3 O-O 13. Rh4 Bf5 14. Be2
+Nc6 15. Bd2 Nb4 16. Rc1 Rac8 17. f3 Rc7 18. g4 g5 19. Rh6 Kg7 20. Rxf6 Kxf6 21.
+gxf5 Rfc8 22. a3 Nc6 23. Nxd5+ {Sources: H H Cole and Borough of West Ham,
+East Ham and Stratford Express, 26 Aug 1938. The London newspaper makes an
+error in saying that this game was played in a Hastings tournament.
+Contributed by Brian Denman.} 1-0
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Kitto, Francis Ernest A"]
+[Black "Koenig, Imre"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "61"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 (2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Nc6 {was the move order
+according to StarBase 4.56}) 2... Nc6 3. f4 Bc5 4. Nf3 d6 5. Bc4 Nf6 6. d3 a6
+7. fxe5 dxe5 8. Bg5 h6 9. Bxf6 Qxf6 10. Rf1 O-O 11. Nd5 Qd6 12. Nh4 Na5 13. Qh5
+Nxc4 14. dxc4 c6 15. Nf6+ Kh8 16. Rd1 Qe6 17. Ng6+ fxg6 18. Qxg6 gxf6 19. Qxh6+
+Kg8 20. Qg6+ Kh8 21. Rf5 Qxf5 22. exf5 e4 23. g4 b6 24. Rd8 Rxd8 25. Qxf6+ Kh7
+26. Qxd8 e3 27. Qc7+ Kg8 28. f6 Bf8 29. Qxc6 Rb8 30. Qd5+ Kh7 (30... Kh8 31.
+Qf7 {StarBase 4.56}) 31. Qf7+ {Sources: The Times, 12 Aug 1938; BCM, Oct 1939,
+p465; CHESS, Oct 1938 p73} 1-0
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "1"]
+[White "Peters, Arthur John"]
+[Black "Seitz, Jakob Adolf"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[PlyCount "98"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 c5 2. e3 d5 3. Nf3 Nf6 4. c3 e6 5. Bd3 Nbd7 6. Nbd2 b6 7. Qe2 Bb7 8. e4
+dxe4 9. Nxe4 Be7 10. O-O Nxe4 11. Bxe4 Bxe4 12. Qxe4 O-O 13. Ne5 Nxe5 14. dxe5
+Qd5 15. Qe2 Rad8 16. Bf4 Qd3 17. Qxd3 Rxd3 18. Rfd1 Rfd8 19. Rxd3 Rxd3 20. Kf1
+g5 21. Be3 Rd5 22. f4 Kg7 23. c4 Rd8 24. fxg5 Kg6 25. h4 Kf5 26. Re1 Rd7 27.
+Kf2 Kg4 28. g3 Bd8 29. b3 Bc7 30. Bf4 Rd4 31. Re2 Rd3 32. Kg2 a5 33. Rc2 Bd8
+34. Kf2 Kf5 35. Rd2 Rxd2+ 36. Bxd2 Ke4 37. Bf4 Be7 38. Ke2 Bd8 39. Kd2 Kd4 40.
+Kc2 a4 41. Kd2 axb3 42. axb3 Bc7 43. Be3+ Ke4 44. Bf4 Bd8 45. Kc2 Be7 46. Kd2
+Kd4 47. Kc2 Bf8 48. Kd2 Bg7 49. Be3+ Ke4 {Source: Augsburger Schachblatt, 19.9.
+1938. Contributed by Ulrich Tamm, 20 April 2022.} 1/2-1/2
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.09"]
+[Round "2"]
+[White "Schaechter, Leiser"]
+[Black "Koenig, Imre"]
+[Result "0-1"]
+[ECO "A47"]
+[PlyCount "64"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c3 b6 5. Bd3 Bb7 6. Nbd2 Nc6 7. O-O Be7 8. e4
+cxd4 9. cxd4 Nb4 10. Bb1 Ba6 11. Re1 Nd3 12. Bxd3 Bxd3 13. Ne5 Ba6 14. Ndf3 Bb7
+15. Ng5 O-O 16. f3 d5 17. Qd3 h6 18. Nh3 dxe4 19. fxe4 Nd7 20. Ng4 Kh8 21. Nf4
+Bg5 22. Qh3 Kg8 23. e5 b5 24. Nh5 Rc8 25. Kh1 Rc2 26. Bxg5 Qxg5 27. Ne3 Rxb2
+28. Ng3 Nb6 29. Re2 Rxe2 30. Nxe2 Rc8 31. Rc1 Rxc1+ 32. Nxc1 a5 {Source:
+scoresheet of Imre Koenig. Contributed by Andy Ansel, 25 March 2016.} 0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "4"]
+[White "Seitz, Jakob Adolf"]
+[Black "Koenig, Imre"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[PlyCount "56"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. c3 d5 5. Bg2 Bd6 6. Bf4 Nc6 7. Nbd2 cxd4 8.
+cxd4 Bxf4 9. gxf4 Qb6 10. Nb3 a5 11. O-O Ne4 12. Nfd2 a4 13. Nxe4 axb3 14. Nd6+
+Ke7 15. Nxc8+ Rhxc8 16. axb3 Rxa1 17. Qxa1 Nxd4 18. e3 Nxb3 19. Qa3+ Kf6 20. f5
+g6 21. fxe6 fxe6 22. Qa4 Rc4 23. Qe8 Qc7 24. Qh8+ Qg7 25. Qd8+ Qe7 26. Qh8+ Qg7
+27. Qd8+ Qe7 28. Qh8+ Qg7 {Source: Augsburger Schachblatt, 3.10.1938.
+Contributed by Ulrich Tamm, 20 April 2022.} 1/2-1/2
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.12"]
+[Round "5"]
+[White "O'Hanlon, John James"]
+[Black "Seitz, Jakob Adolf"]
+[Result "0-1"]
+[ECO "B29"]
+[PlyCount "126"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 Nxd4 9. Qxd4 Qxd4 10. Bxd4 Bd7 11. O-O-O Bc6 12. Bc4 Rg8 13. f3 g6 14.
+Rhe1 Bh6+ 15. Kb1 Bg7 16. Bc5 Bf8 17. Re2 e6 18. Bd4 Bg7 19. Bc5 Bf8 20. Be3
+Be7 21. Red2 Kf8 22. Bh6+ Ke8 23. Be3 Kf8 24. Bh6+ Ke8 25. Be3 g5 26. Bd3 f5
+27. Re2 Rg6 28. Bg1 Kf7 29. Rde1 Bd7 30. Bc4 b5 31. Bb3 a5 32. a3 a4 33. Ba2
+Ra6 34. Re5 Ke8 35. Bd5 f4 36. Bb7 Rd6 37. R5e2 Bc6 38. Bxc6+ Rxc6 39. Re5 b4
+40. axb4 Bxb4 41. R1e4 Rd6 42. Bd4 Ra6 43. Bf2 Be7 44. Bc5 Bd8 45. Ba3 h6 46.
+Rb5 Rg7 47. Rb8 Rd7 48. Kc1 Kf7 49. Rbb4 Rad6 50. Re1 Ba5 51. Rbe4 Bd2+ 52. Kb1
+Bxe1 53. Bxd6 Rxd6 54. Rxe1 Rd2 55. Re4 Rxg2 56. Rxa4 e5 57. Re4 Ke6 58. Kc1 g4
+59. Re1 gxf3 60. Rf1 e4 61. c4 e3 62. Rxf3 Rg1+ 63. Kc2 e2 {Source: Augsburger
+Schachblatt, 26.9.1938. Contributed by Ulrich Tamm, 20 April 2022.} 0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Perlmutter, Jacob Baruch"]
+[Black "Koenig, Imre"]
+[Result "0-1"]
+[ECO "A46"]
+[PlyCount "20"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. e3 e6 3. Bd3 c5 4. Nf3 Nc6 5. O-O b6 6. c3 Bb7 7. Qe2 Be7 8. dxc5
+bxc5 9. e4 d5 10. exd5 exd5 {... Source: J. Donaldson, Imre Koenig.
+Contributed by Ulrich Tamm, 20 April 2022.} 0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.13"]
+[Round "6"]
+[White "Schaechter, Leiser"]
+[Black "Seitz, Jakob Adolf"]
+[Result "0-1"]
+[ECO "A56"]
+[PlyCount "66"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 c5 2. d5 e5 3. c4 d6 4. Nc3 Nf6 5. e4 Be7 6. Nf3 O-O 7. Be2 Nbd7 8. O-O
+Re8 9. Ne1 Nf8 10. f4 exf4 11. Bxf4 Ng6 12. Bg3 Bf8 13. Bf3 Nd7 14. Nd3 Nde5
+15. Nxe5 Nxe5 16. Bxe5 Rxe5 17. Bg4 Be7 18. Bxc8 Rxc8 19. Qf3 Bf6 20. Kh1 Re8
+21. Ne2 Rc7 22. Rab1 Be5 23. Qg4 Qd7 24. Qxd7 Rxd7 25. b3 Bf6 26. Ng3 Bh4 27.
+Rbe1 Re5 28. Rf5 Rde7 29. Rxe5 Rxe5 30. Re3 Bxg3 31. hxg3 f5 32. Kg1 fxe4 33.
+Kf2 Kf7 {... 37 moves (problems with notation: 34. Ke3 Kf6, 35.Rf1+ Rf5, 36.
+Rf4 Rxf4, 37.Kxf4 is not possible - perhaps, one move is missing). Source:
+Augsburger Schachblatt, 3.10.1938. Contributed by Ulrich Tamm, 20 April 2022.}
+0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.15"]
+[Round "7"]
+[White "Koenig, Imre"]
+[Black "Hammond, Cecil Perfect"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r2/p5kp/1p2R3/3p2p1/4n3/4P1p1/PP3P1P/3R2K1 b - - 0 42"]
+[PlyCount "6"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+42... gxh2+ $2 (42... gxf2+ $1 43. Kf1 g4 44. Rxd5 g3 $19) 43. Kxh2 Rxf2+ 44.
+Kg1 Rf7 45. Rxd5 {Source: BCM, Oct 1938, p466} 1-0
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Blow, Ronald"]
+[Black "Schaechter, Leiser"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r1rk1/2qnbpp1/p6p/1pnRP1N1/2p5/4B3/PPB1QPPP/3R2K1 w - - 0 21"]
+[PlyCount "13"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+{"The Birmingham player, R[onald] Blow, obtained fourth prize, but was
+disappointingly erratic for a player of his known capabilities. In the
+following position from the eighth round he made a very fine combination
+indeed against Sch�chter only to put his queen en prise at the culminating
+moment:"} 21. Nh7 Nb6 22. Nf6+ Kh8 23. Qh5 Nxd5 24. Bxh6 Nxf6 25. Bxg7+ Kxg7
+26. exf6+ Kxf6 27. Qg5+ $4 {Source: BCM, Oct 1938, p466} (27. Qh6+ Ke5 28. f4#)
+0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "8"]
+[White "Butcher, Alfred Joseph"]
+[Black "Kitto, Francis Ernest A"]
+[Result "0-1"]
+[ECO "C77"]
+[PlyCount "38"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 a6 5. Ba4 b5 6. Bb3 Bc5 7. c3 O-O 8. O-O
+d5 9. exd5 e4 10. dxc6 exf3 11. Qxf3 Bg4 12. Qf4 Be2 13. Re1 Bd3 14. h3 Re8 15.
+Re5 Qd6 16. Bc2 Rxe5 17. Kh2 Re1 18. Qg3 Bxc2 19. Na3 Nh5 {Source: Falkirk
+Herald, 24 Aug 1938} 0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Kitto, Francis Ernest A"]
+[Black "Peters, Arthur John"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1r1k1/3nb2p/pqb3p1/1p1p2P1/3Pp1Q1/1NNBP3/PP3P2/1K1R3R w - - 0 23"]
+[PlyCount "7"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+23. Qe6+ Kg7 24. Rxh7+ Kxh7 25. Qf7+ Kh8 26. Rh1# {Source: BCM, Oct 1938, p466}
+1-0
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Koenig, Imre"]
+[Black "Butcher, Alfred Joseph"]
+[Result "1-0"]
+[ECO "D44"]
+[PlyCount "37"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.03.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 dxc4 6. a4 Bb4 7. e4 Bxc3+ 8.
+bxc3 Qa5 9. e5 Nd5 10. Bd2 Nb6 11. Ng5 h6 12. Ne4 N8d7 13. Qg4 Qd5 14. a5 Nxe5
+15. dxe5 Qxe5 16. axb6 O-O 17. Bxh6 a5 18. Bxg7 Qxg7 19. Nf6+ {Source: BCM,
+Oct 1938, p466} 1-0
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Seitz, Jakob Adolf"]
+[Black "Hammond, Cecil Perfect"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "101"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. Nf3 Nc6 2. d4 d5 3. Bf4 e6 4. e3 Bd6 5. c3 Nf6 6. Bd3 h6 7. Nbd2 Qe7 8. Ne5
+Nxe5 9. Bxe5 Bxe5 10. dxe5 Nd7 11. f4 Nc5 12. Bc2 Bd7 13. b4 Na6 14. Qe2 c5 15.
+b5 Nc7 16. a4 b6 17. c4 a6 18. O-O axb5 19. axb5 O-O 20. Qd3 g6 21. Bb3 Rfd8
+22. Qe2 Be8 23. Rfd1 Qf8 24. h4 Qg7 25. Nf3 Kh8 26. Qb2 Kh7 27. Rxa8 Nxa8 28.
+Ra1 dxc4 29. Bxc4 Nc7 30. Ra7 Nd5 31. Qd2 Rd7 32. Rxd7 Bxd7 33. e4 Nxf4 34.
+Qxf4 Qg8 35. Qd2 Qe8 36. Qd3 Kg7 37. Kh2 Kg8 38. Kg3 Kg7 39. Nh2 g5 40. Ng4 Bc8
+41. hxg5 hxg5 42. Qd2 Kg6 43. Qf2 Qh8 44. Qf6+ Qxf6 45. Nxf6 Bb7 46. Bd3 Ba8
+47. Nd7 Bb7 48. Nxb6 f6 49. exf6 Kxf6 50. Nd7+ Ke7 51. Nxc5 {Source:
+Augsburger Schachblatt, 26.6.1939. Contributed by Ulrich Tamm, 20 April 2022.}
+1-0
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.17"]
+[Round "9"]
+[White "Spitz, R."]
+[Black "Schaechter, Leiser"]
+[Result "1-0"]
+[ECO "C10"]
+[PlyCount "49"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 c5
+8. Be3 cxd4 9. Bxd4 Qa5+ 10. c3 Be7 11. Qf3 h5 12. Bd3 Qc7 13. Bb5+ Kf8 14. O-O
+Bd6 15. Rfe1 Kg8 16. Rad1 Ng4 17. Qe4 Nxe5 18. Bxe5 Bxe5 19. Qxe5 Qe7 20. Qd6
+Qxd6 21. Rxd6 b6 22. Bc6 Rb8 23. Red1 Ba6 24. Rd7 Rc8 25. Bf3 {Source:
+Sydenham, Forest Hill & Penge Gazette - Friday 26 August 1938 p.14.
+Contributed by Gerard Killoran via the English Chess Forum, 20 April 2022.} 1-0
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Blaine, Martin"]
+[Black "Seitz, Jakob Adolf"]
+[Result "0-1"]
+[ECO "A89"]
+[PlyCount "88"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O Nc6 7. d4 d6 8. b3
+Ne4 9. Bb2 Nxc3 10. Bxc3 Kh8 11. Qc2 e5 12. dxe5 dxe5 13. Rad1 Qe7 14. Qb2 e4
+15. Bxg7+ Qxg7 16. Qxg7+ Kxg7 17. Nd4 Nxd4 18. Rxd4 Be6 19. Rfd1 Rae8 20. e3
+Kf6 21. Kf1 g5 22. h3 h5 23. f3 exf3 24. Bxf3 Bc8 25. Bxh5 Rxe3 26. Kf2 Rc3 27.
+Be2 Rc2 28. R4d2 Rxd2 29. Rxd2 Rh8 30. Bf1 Be6 31. Bg2 b6 32. Ke3 Ke5 33. Kf2
+Rh7 34. Re2+ Kf6 35. Rd2 f4 36. gxf4 gxf4 37. Kf3 Kg5 38. Rd8 Bxh3 39. Rg8+ Kf5
+40. Rf8+ Ke5 41. Re8+ Kd4 42. Bxh3 Rxh3+ 43. Kxf4 Rh2 44. Re7 Rf2+ {Source:
+Augsburger Schachblatt, 17.10.1938. Contributed by Ulrich Tamm, 20 April 2022.
+N.b. Martin Blaine's birth name was Marton Blum (b Hungary, c1916, d 1995),
+known as Martin Blum when he came to the UK and he changed it to Martin Blaine
+in 1946. To avoid confusion BritBase only uses his later name to record his
+games.} 0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.18"]
+[Round "10"]
+[White "Butcher, Alfred Joseph"]
+[Black "O'Hanlon, John James"]
+[Result "0-1"]
+[ECO "C64"]
+[PlyCount "48"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. Re1 O-O 7. d4 exd4 8.
+cxd4 d5 9. exd5 Nxd5 10. Nc3 Bg4 11. Be2 Re8 12. h3 Bxf3 13. Bxf3 Rxe1+ 14.
+Qxe1 Ndb4 15. d5 Nd4 16. Qd1 Qf6 17. a3 Nbc2 18. Rb1 Re8 19. Ne4 Nxf3+ 20. gxf3
+Rxe4 21. fxe4 Qxf2+ 22. Kh1 Ne1 23. Qg4 Qf1+ 24. Kh2 Bg1+ {Source: Belfast
+News-Letter, 8 September 1938 p. 12 (giving White as "S. J. Butcher"), with
+notes by O'Hanlon. Contributed by Sean Coffey, 13 November 2020.} 0-1
+
+[Event "GBR-ch 31st Major B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Seitz, Jakob Adolf"]
+[Black "Butcher, Alfred Joseph"]
+[Result "1-0"]
+[ECO "A47"]
+[PlyCount "59"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. Nf3 Nf6 2. d4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O c5 6. c3 Be7 7. Bf4 Nh5 8. Be3
+Qc7 9. Na3 a6 10. Qd3 f5 11. Ne1 d5 12. c4 cxd4 13. Bxd4 Bxa3 14. bxa3 dxc4 15.
+Qe3 Bxg2 16. Qxe6+ Qe7 17. Qc8+ Qd8 18. Qxd8+ Kxd8 19. Bxb6+ Kd7 20. Nxg2 Nc6
+21. Ne3 Rhe8 22. Rfd1+ Kc8 23. Nxc4 Rxe2 24. Nd6+ Kd7 25. Rac1 Ne5 26. Nxf5+
+Ke8 27. Nd4 Re4 28. Re1 Nf6 29. Rxe4 Nxe4 30. Re1 {Source: Augsburger
+Schachblatt, 19.9.1938. Contributed by Ulrich Tamm, 20 April 2022.} 1-0
+
+[Event "GBR-ch 31st First Class A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "Davidson, WA."]
+[Black "Keeble, John"]
+[Result "0-1"]
+[ECO "A29"]
+[PlyCount "68"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. Nf3 Nc6 2. c4 e5 3. Nc3 Nf6 4. d3 Be7 5. g3 d6 6. Bg2 O-O 7. O-O Bd7 8. e3
+Qc8 9. d4 Bg4 10. d5 Nd8 11. Qd3 Bh3 12. e4 Bxg2 13. Kxg2 Nd7 14. b4 a5 15. b5
+Nc5 16. Qe2 f5 17. Bg5 Bxg5 18. Nxg5 f4 19. f3 fxg3 20. hxg3 h6 21. Nh3 Nf7 22.
+Rh1 Qd8 23. f4 exf4 24. Nxf4 Ne5 25. Raf1 Qg5 26. Rh5 Qg4 27. Qxg4 Nxg4 28. Re1
+Rae8 29. Ng6 Rf2+ 30. Kh3 Nf6 31. Rh4 Rf3 32. Nb1 Ncxe4 33. Kg2 Rxg3+ 34. Kh2
+Rxg6 {Source: Kensington News and West London Times - Friday 18 November 1938.
+Contributed by Gerard Killoran via the English Chess Forum, 18 April 2022} 0-1
+
+[Event "GBR-ch 31st First Class B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.11"]
+[Round "?"]
+[White "Kirk, Wilfred Hugh Miller"]
+[Black "Knight, Anthony H"]
+[Result "1-0"]
+[ECO "C67"]
+[PlyCount "27"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nc5 6. d4 Na6 7. d5 Ne7 8.
+Nxe5 c6 9. Bxa6 bxa6 10. Qf3 Qa5 11. Qxf7+ Kd8 12. Bd2 Qc5 13. d6 Qxd6 14. Ba5+
+{Source: Sussex Daily News, 12 Aug 1938. Knight came from Ashford. Contributed
+by Brian Denman.} 1-0
+
+[Event "GBR-ch 31st First Class B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "Mitchell, Ward Mayhew Parker"]
+[Black "Feldman, S."]
+[Result "1-0"]
+[ECO "B57"]
+[PlyCount "17"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 g6 7. Nxc6 bxc6 8.
+e5 dxe5 9. Bxf7+ {Source: CHESS, Sept 1938, p19} 1-0
+
+[Event "GBR-ch 31st First Class C"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.19"]
+[Round "11"]
+[White "Lacy-Hulbert, Arthur Percival"]
+[Black "Birch, Leonard Charles"]
+[Result "1-0"]
+[ECO "A81"]
+[PlyCount "47"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nh3 Be7 5. O-O O-O 6. c4 Qe8 7. Nc3 d6 8. Qb3
+Nc6 9. Nb5 Bd8 10. d5 Ne5 11. Nd4 Ne4 12. f3 Nc5 13. Qc2 Bd7 14. b4 Na4 15. f4
+Ng4 16. dxe6 Bf6 17. e3 Bxe6 18. Nxe6 Bxa1 19. Bd5 Kh8 20. Nxf8 Nxe3 21. Bxe3
+Qxe3+ 22. Kg2 c6 23. Qxf5 g6 24. Qf7 {Source: Kington Times - Saturday 03
+September 1938 p.6. Contributed by Gerard Killoran, 24 April 2022} 1-0
+
+[Event "GBR-ch 31st First Class C"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "Randall, Ernest J"]
+[Black "Watson, Arthur T"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "47"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Bg4 5. dxe5 Bxf3 6. Qxf3 dxe5 7. Bd2 Bc5 8.
+O-O-O Qe7 9. Bg5 Nbd7 10. Nd5 Qd8 11. Bc4 c6 12. Nxf6+ gxf6 13. Rd3 Qe7 14.
+Rhd1 O-O-O 15. Bh4 Rhg8 16. Qf5 Rg6 17. f4 Bb6 18. fxe5 Qxe5 19. Rxd7 Qxf5 20.
+Rxd8+ Bxd8 21. exf5 Rxg2 22. Bxf7 Rxh2 23. Be6+ Kc7 24. Bg3+ {Source: Borough
+of West Ham, East Ham and Stratford Express, 26 Aug 1938. The chess columnist,
+F W Markwick, states that the game was played in a First Class tournament at
+Hastings, but this appears to be wrong. In the same article he mentions that a
+game between H H Cole and J Storr-Best (c.f. elsewhere in the database) was
+also played at Hastings, though it is known that the game took place at the
+BCF Congress at Brighton. Both E J Randall and A T Watson were in the 1st
+Class 'C' event in the congress at Brighton. (Contributed by Brian Denman, who
+also wrote the above note.)} 1-0
+
+[Event "GBR-ch 31st First Class C"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.08"]
+[Round "?"]
+[White "Sullivan, Patrick Humphrey"]
+[Black "Watson, Arthur T"]
+[Result "1-0"]
+[ECO "C10"]
+[PlyCount "41"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 b6 7. Be2 Bb7 8.
+O-O Bd6 9. c3 h6 10. Qc2 O-O 11. Nd2 c5 12. Bf3 Bxf3 13. Nxf3 cxd4 14. Nxd4 Rc8
+15. Qe2 Ne5 16. Nb5 Qe7 17. Bf4 Nc4 18. Nxd6 Nxd6 19. Rad1 Rfd8 20. Bxd6 Rxd6
+21. Nf5 {Source: Sussex Daily News, 11 Aug 1938. Sullivan came from Dartford.
+Contributed by Brian Denman.} 1-0
+
+[Event "GBR-ch 31st First Class C"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "Turriff, Henfrey Austin"]
+[Black "Randall, Ernest J"]
+[Result "0-1"]
+[ECO "D60"]
+[PlyCount "100"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3 dxc4 8.
+Bxc4 Nd5 9. Bxe7 Nxe7 10. O-O Nf6 11. Qc2 c6 12. Ne5 Ned5 13. a3 Nxc3 14. Qxc3
+Ne4 15. Qc2 f5 16. Rad1 Qc7 17. f3 Nd6 18. Ba2 Nf7 19. Nd3 Qd6 20. Rc1 Bd7 21.
+Nc5 Nd8 22. Rfd1 b6 23. Nd3 Rc8 24. b4 Nf7 25. Qb3 g6 26. Qb2 Rfd8 27. Nf2 Qe7
+28. Nd3 Qf6 29. Rd2 Kf8 30. Rcd1 Be8 31. Nf4 Bd7 32. Qb3 Re8 33. Nd3 Rc7 34.
+Nf2 Bc8 35. e4 Qe7 36. Qe3 Qg5 37. f4 Qe7 38. e5 Rd8 39. Qh3 Kg7 40. Qg3 {
+The score just gives 40 'Q - Kt3'.} c5 41. bxc5 bxc5 42. dxc5 Rxd2 43. Rxd2
+Qxc5 44. Qd3 Qc1+ 45. Rd1 Qxf4 46. Re1 Qg5 47. Nh3 Qe7 48. Nf4 Rc6 49. h3 Qc5+
+50. Kh1 Qf2 {Source: Borough of West Ham, East Ham and Stratford Express, 19
+Aug 1938. Contributed by Brian Denman.} 0-1
+
+[Event "GBR-ch 31st First Class C"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.16"]
+[Round "?"]
+[White "Watson, Arthur T"]
+[Black "Ward, H."]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "33"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. Nf3 Bf5 3. Bf4 Nc6 4. e3 Nf6 5. c4 e6 6. c5 b6 7. Bb5 Nd7 8. Bxc6
+Rb8 9. Ne5 bxc5 10. Bxd7+ Ke7 11. Nc6+ Kxd7 12. Nxd8 Kxd8 13. O-O Rxb2 14. Nc3
+c4 15. Qa4 Rb7 16. Qc6 Bb4 17. Qxb7 {Source: Sussex Daily News, 17 Aug 1938.
+Contributed by Brian Denman.} 1-0
+
+[Event "GBR-ch 31st First Class C"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "Gordon, AL."]
+[Black "Randall, Ernest J"]
+[Result "1-0"]
+[ECO "D67"]
+[PlyCount "89"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Rc1 c6 7. Nf3 Nbd7 8. Bd3
+a6 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. Qc2 exd4 14. exd4
+Nf6 15. Re1 Be6 16. Bc4 Qd7 17. Bxe6 fxe6 18. Ng5 Rae8 19. Rce3 Re7 20. Nxe6
+Rfe8 21. Nc5 Rxe3 22. Rxe3 Qxd4 23. Rxe8+ Nxe8 24. Nxb7 Qb4 25. Qb3+ Qxb3 26.
+axb3 Nc7 27. f4 Ne6 28. g3 Kf7 29. Kf2 Kf6 30. Ke3 h5 31. b4 g5 32. Nc5 gxf4+
+33. gxf4 Nc7 34. Ke4 Ke7 35. Ke5 Kf7 36. Kd6 Nd5 37. Nd3 Ne7 38. Ne5+ Kf6 39.
+Nd7+ Kf7 40. Ne5+ Kf6 41. Nxc6 Ng6 42. Nb8 Nxf4 43. Nxa6 Nd3 44. b3 Nc1 45. Nc5
+{Source: Sydenham, Forest Hill & Penge Gazette - Friday 30 September 1938 p.9.
+Contributed by Gerard Killoran via the English Chess Forum, 20 April 2022.} 1-0
+
+[Event "GBR-ch 31st Second Class A"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "NN"]
+[Black "Dixson, Owen"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/2P2n2/6k1/3Rn3/8/8/7K b - - 0 25"]
+[PlyCount "17"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+25... Ng3+ 26. Kg2 Nf5 27. Rd8 Ne7 28. c7 Kf5 29. Kf3 Ke6 30. c8=Q+ Nxc8 31.
+Rxc8 Kd7 32. Rc1 Ke6 33. Rc6+ Ke5 {Source: Sydenham, Forest Hill & Penge
+Gazette - Friday 26 August 1938 p.14. Contributed by Gerard Killoran via the
+English Chess Forum, 20 April 2022.} 1/2-1/2
+
+[Event "GBR-ch 31st Second Class B"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "Goble, James Blackley"]
+[Black "Aston, WA."]
+[Result "1-0"]
+[ECO "D06"]
+[PlyCount "69"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 d5 3. cxd5 Qxd5 4. Nc3 Qd8 5. e4 e6 6. Bg5 Be7 7. Nf3 c6 8. Bd3
+Nbd7 9. Qc2 h6 10. Bh4 O-O 11. O-O Re8 12. a3 Nf8 13. Rac1 N6h7 14. Bxe7 Qxe7
+15. e5 f6 16. Ne4 f5 17. Nd6 Rd8 18. Qb3 Kh8 19. Bxf5 Rxd6 20. exd6 Qxd6 21.
+Ne5 Qe7 22. Bxh7 Kxh7 23. Qd3+ Kg8 24. f4 Bd7 25. Rf3 Be8 26. Rg3 Qf6 27. Ng4
+Qxf4 28. Rf1 Qd6 29. Nxh6+ Kh8 30. Nf7+ Bxf7 31. Rxf7 g6 32. Qe3 Kg8 33. Rff3
+c5 34. dxc5 Qd1+ 35. Rf1 {Source: Sydenham, Forest Hill & Penge Gazette -
+Friday 12 August 1938 p.7. Contributed by Gerard Killoran, 24 April 2022} 1-0
+
+[Event "GBR-ch 31st Third Class Div 2"]
+[Site "Brighton, Royal Pavilion"]
+[Date "1938.08.??"]
+[Round "?"]
+[White "Brooks, HN."]
+[Black "Coleman, John E"]
+[Result "1-0"]
+[ECO "D04"]
+[PlyCount "63"]
+[EventDate "1938.08.08"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceQuality "2"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bf5 4. Bd3 Bxd3 5. cxd3 e6 6. Qe2 Bd6 7. O-O Nbd7 8.
+Nbd2 c6 9. e4 e5 10. dxe5 Nxe5 11. exd5 Qe7 12. dxc6 Nxf3+ 13. Qxf3 O-O 14.
+cxb7 Rab8 15. Ne4 Nxe4 16. Qxe4 Qc7 17. g3 Rfe8 18. Qg4 Re6 19. Qc4 Qxb7 20.
+Be3 Rc8 21. Qb3 Qd7 22. d4 h5 23. Rac1 Rg6 24. Rxc8+ Qxc8 25. Rc1 Qd7 26. Qd5
+h4 27. Qa8+ Bf8 28. Rc8 Qe7 29. Re8 Qb4 30. Bd2 Qd6 31. Bf4 Qb4 32. a3 {
+Source: Sussex Daily News, 8 Sept 1938. Contributed by Brian Denman.} 1-0
+

@@ -1,0 +1,670 @@
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.28"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Kirk, Wilfred Hugh Miller"]
+[Result "1-0"]
+[ECO "A23"]
+[PlyCount "71"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. Bg2 Na6 5. d3 d5 6. cxd5 Nxd5 7. Nf3 Bd6 8. O-O
+Nxc3 9. bxc3 O-O 10. Nd2 Qe7 11. Nc4 Rd8 12. a4 Bc5 13. Qc2 Bf5 14. Kh1 Qe6 15.
+e4 Bg6 16. f4 exf4 17. gxf4 f5 18. Bh3 Bd6 19. Ne3 Qf7 20. Bxf5 Bxf5 21. Nxf5
+Bf8 22. Rg1 Kh8 23. Bb2 Nc7 24. Rg3 Rd7 25. c4 Ne8 26. Rag1 Rad8 27. Be5 c5 28.
+Qe2 Qe6 29. h4 Nf6 30. h5 h6 31. Nh4 Kh7 32. Ng6 Qf7 33. f5 Re8 34. Ba1 Rdd8
+35. Nxf8+ Qxf8 36. Rxg7+ {Sources: The Times, 30 December 1939; Borough of
+West Ham, East Ham and Stratford Express, 5 January 1940; BCM, February 1940}
+1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.28"]
+[Round "1"]
+[White "Morry, William Ritson"]
+[Black "Parr, Frank"]
+[Result "0-1"]
+[PlyCount "66"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Nc6 5. Nf3 O-O 6. a3 Bxc3+ 7. Qxc3 Ne4 8.
+Qc2 f5 9. b4 b6 10. g3 Ne7 11. Bg2 Bb7 12. O-O Nf6 13. Bb2 Qe8 14. Ne1 Be4 15.
+Qd2 Ng6 16. f3 Bb7 17. Nd3 d6 18. Rae1 e5 19. e4 fxe4 20. dxe5 Nd7 21. exd6
+cxd6 22. fxe4 Rxf1+ 23. Rxf1 Rc8 24. Qc3 Nde5 25. c5 bxc5 26. bxc5 Ba6 27. Nxe5
+Nxe5 28. Rc1 Rxc5 29. Qb3+ Bc4 30. Qb7 Rb5 31. Qa6 Rxb2 32. Rxc4 Rb1+ 33. Bf1
+Rxf1+ {Source: Staffordshire Advertiser, 20 January 1940, p. 3. Contributed by
+'Tabanus' (Chessgames.com), 8 March 2022} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.28"]
+[Round "1"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Schenk, Hans Georg"]
+[Result "1/2-1/2"]
+[PlyCount "2"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 e6 {... x moves, adjourned, rook and pawns} 1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.28"]
+[Round "1"]
+[White "Winser, W Arthur"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+ 1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.29"]
+[Round "2"]
+[White "Kirk, Wilfred Hugh Miller"]
+[Black "Winser, W Arthur"]
+[Result "0-1"]
+[PlyCount "2"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 c5 {... reached an endgame, x moves} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.29"]
+[Round "2"]
+[White "Morry, William Ritson"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "53"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bf4 Bb4 8. Qc2
+c5 9. a3 Bxc3+ 10. bxc3 cxd4 11. exd4 dxc4 12. Bxc4 Nbd7 13. O-O Nb6 14. Ba2
+Nbd5 15. Bd2 b5 16. Rae1 Nb6 17. Ne5 Bb7 18. Re3 Re8 19. Rg3 Ne4 20. Bxh6 g6
+21. Rg4 Rc8 22. Rxe4 Bxe4 23. Qxe4 Nd5 24. Ng4 Rxc3 25. Bxd5 exd5 26. Qxe8+
+Qxe8 27. Nf6+ {Sources: The Times, 30 December 1939; BCM, February 1940, p47}
+1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.29"]
+[Round "2"]
+[White "Parr, Frank"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "D71"]
+[PlyCount "65"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 g6 3. g3 d5 4. cxd5 Qxd5 5. Nf3 Bg7 6. Nc3 Qd8 7. Bg2 c6 8. O-O
+O-O 9. h3 Nbd7 10. e4 Nb6 11. Qe2 Be6 12. b3 h6 13. Kh2 a5 14. Qc2 Ne8 15. Be3
+f5 16. Ne5 Kh7 17. f4 Nd6 18. Rad1 fxe4 19. Nxe4 Bf5 20. g4 Bxe4 21. Bxe4 Nxe4
+22. Qxe4 Qd6 23. f5 gxf5 24. gxf5 Kg8 25. Rg1 Nd5 26. Rg6 Rf6 27. Rdg1 Rxg6 28.
+Rxg6 Nxe3 29. Qxe3 Qd8 30. Qxh6 Qf8 31. Rg4 Qf6 32. Rg6 Qf8 33. Nf3 {Source:
+BCM, February 1940, p46} 1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.29"]
+[Round "2"]
+[White "Schenk, Hans Georg"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/5Q2/4P1pk/8/p7/q6p/3K4/8 b - - 0 63"]
+[PlyCount "13"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceQuality "2"]
+
+{Opening was a Colle in which Golombek developed both his bishops on the wings.
+..} 63... Qd6+ 64. Ke2 h2 65. e7 h1=Q 66. e8=Q Qdd1+ 67. Ke3 Qhe1+ 68. Kf4 g5+
+69. Kf5 Qf3# {Source: BCM, February 1940, p48} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.30"]
+[Round "3"]
+[White "Golombek, Harry"]
+[Black "Morry, William Ritson"]
+[Result "0-1"]
+[ECO "A12"]
+[PlyCount "54"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. c4 Nf6 2. Nf3 c6 3. b3 d5 4. Bb2 Bf5 5. g3 e6 6. Bg2 Nbd7 7. O-O Bd6 8. d4
+Qc7 9. Nbd2 O-O 10. Rc1 Rae8 11. Nh4 Qb8 12. Nxf5 exf5 13. e3 Ne4 14. cxd5 cxd5
+15. Nf3 Re6 16. Qd3 a6 17. Rc2 g5 18. Ne1 Rh6 19. f3 Bxg3 20. hxg3 Nxg3 21.
+Rff2 (21. f4 {was suggested by Sir George Thomas}) 21... Nf6 22. f4 Nfe4 23.
+Bxe4 fxe4 24. Qd1 gxf4 25. Rxf4 Kh8 26. Rh2 Rxh2 27. Kxh2 Nf1+ {Sources: The
+Times, 1 January 1940; BCM, February 1940, p47} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.30"]
+[Round "3"]
+[White "Mackenzie, Arthur John"]
+[Black "Kirk, Wilfred Hugh Miller"]
+[Result "1/2-1/2"]
+[PlyCount "2"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 c5 {... Sicilian, x moves} 1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.30"]
+[Round "3"]
+[White "Parr, Frank"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1q2bk1/5r1p/b2p1p2/ppnPnNpN/2p1P1P1/2P1B2P/PPQ1BK2/R6R w - - 0 22"]
+[PlyCount "29"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+{Queen's Pawn opening...} 22. Kg2 Ned3 23. Bxc5 Nxc5 24. Raf1 Qe8 25. Nhg3 Bc8
+26. Nd4 a4 27. a3 Raa7 28. Rf3 Bg7 29. Rhf1 Rab7 30. Kf2 h5 31. Nxh5 Qxe4 32.
+Qxe4 Nxe4+ 33. Ke1 Rf8 34. Re3 Re8 $1 35. Bf3 f5 36. Nxg7 $2 {... (60 moves) 
+(Source: BCM, Feb 1940, p46)} (36. gxf5 $1) 1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1939.12.30"]
+[Round "3"]
+[White "Winser, W Arthur"]
+[Black "Schenk, Hans Georg"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r1k/1b1n2bp/p1pq1rp1/Pp1p4/1P1P1P2/1QN2NP1/4B2P/2RR2K1 b - - 0 25"]
+[PlyCount "53"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceQuality "2"]
+
+25... g5 26. Nxg5 Bh6 27. Rf1 Qe7 28. Nf3 Rg8 29. Kh1 Re6 30. Ne5 Nxe5 31. dxe5
+d4 32. Na2 c5+ 33. Bf3 c4 34. Qd1 d3 35. Rb1 Qd7 36. Qd2 Bxf3+ 37. Rxf3 Qd5 38.
+Rbf1 Qxe5 39. Qxd3 Qh5 40. Qd2 Rge8 41. R1f2 Re1+ $2 (41... Qh3 $1 $19) 42. Kg2
+Qf5 43. Nc3 Qe6 44. Rf1 $2 Rxf1 45. Kxf1 Bg7 46. Nd1 Qe4 47. Qe3 $2 (47. Re3 $1
+$11 {Stockfish 14} Qh1+ 48. Ke2 Qxh2+ 49. Nf2) 47... Qc6 48. Qf2 c3 49. Ne3 Bd4
+50. Qg2 c2 51. Nxc2 Qc4+ {Source: BCM, February 1940, p49; The Times, 1
+January 1940, records the result with Schenk winning with White in a King's
+Indian but probably just a mistake.} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.01"]
+[Round "4"]
+[White "Kirk, Wilfred Hugh Miller"]
+[Black "Parr, Frank"]
+[Result "1/2-1/2"]
+[ECO "B73"]
+[PlyCount "54"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8.
+O-O Nc6 9. Nxc6 bxc6 10. Qc1 Qc7 11. Bh6 Rb8 12. Bxg7 Kxg7 13. Bf3 Rd8 14. Rd1
+e5 15. b3 Be6 16. Qe3 d5 17. Qe1 d4 18. Ne2 c5 19. Ng3 Bd7 20. Be2 Rf8 21. f3
+Ne8 22. Bd3 Nd6 23. Qd2 c4 24. bxc4 Nxc4 25. Bxc4 Qxc4 26. Nh5+ Kh8 27. Qh6
+gxh5 {Sources: The Times, 2 Jan 1940 (found 2012); The Belfast News-Letter, 18
+January 1940 (which adds the move 28 Qf6+) "Kirk played passively against Parr,
+who soon took control of the game, with the usual break-through on the
+queen’s side. In a won position Parr, much to his chagrin, was 'swindled' by
+a simple sacrifice which forced perpetual check." (The Times)} 1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.01"]
+[Round "4"]
+[White "Morry, William Ritson"]
+[Black "Winser, W Arthur"]
+[Result "1-0"]
+[ECO "E24"]
+[PlyCount "89"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6 6. Qc2 e5 7. e4 Qe7 8. f3
+c5 9. d5 O-O 10. Bd3 Ne8 11. Ne2 g6 12. Ng3 Qh4 13. Be3 f5 14. exf5 Bxf5 15.
+O-O Bxd3 16. Qxd3 Nf6 17. Bf2 Qf4 18. Rae1 Nbd7 19. Be3 Qh4 20. Bf2 Qh6 21. Qb1
+Nb6 22. Qb3 Rf7 23. a4 Raf8 24. Ne4 Nxe4 25. Rxe4 Qg5 26. Be3 Qf5 27. Re1 Nd7
+28. Bh6 Rb8 29. Rg4 Nf6 30. Rg5 Qd3 31. Rd1 Qe2 32. Qb1 e4 33. Re1 Qxc4 34.
+fxe4 Nd7 35. Qc2 Re8 36. h4 Rfe7 37. h5 Rxe4 38. Rxe4 Rxe4 39. Qf2 Rg4 $4 (
+39... Qxc3 40. hxg6 Qe1+ $19) 40. Qe3 $2 (40. Qf5 $1 $18) 40... Re4 $4 (40...
+Rf4 $1 $11) 41. Qg3 Ne5 42. hxg6 Rg4 43. Rxe5 $1 hxg6 44. Re8+ Kh7 45. Qe3 {
+Source: The Times, 3 Jan 1940 (found 2012)} 1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.01"]
+[Round "4"]
+[White "Schenk, Hans Georg"]
+[Black "Mackenzie, Arthur John"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+{Colle Opening}  1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.01"]
+[Round "4"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[PlyCount "70"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 Nc6 9. Nb3 a5 10. a4 Be6 11. Nd4 Nxd4 12. Bxd4 Rc8 13. Bb5 Bc4 14. Re1 e5
+15. Be3 d5 16. exd5 Nxd5 17. Nxd5 Bxd5 18. Qd2 Be6 19. Rad1 Qc7 20. c4 Rfd8 21.
+Qe2 Rxd1 22. Rxd1 f5 23. b3 Kf7 24. f4 Rd8 25. Rxd8 Qxd8 26. Qd2 Qc7 27. h3 e4
+28. Kh2 g5 29. Kh1 gxf4 30. Bxf4 Be5 31. Bxe5 Qxe5 32. Qd8 Qf6 33. Be8+ Kg7 34.
+Qc7+ Kf8 35. Bh5 Qh6 1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.02"]
+[Round "5"]
+[White "Golombek, Harry"]
+[Black "Parr, Frank"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r1q3k1/pbp2nbp/1p2n1p1/4Np2/2P2P2/1PN3P1/P1Q2BBP/4R1K1 w - - 0 26"]
+[PlyCount "2"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceQuality "2"]
+
+{Queen's Gambit...} 26. Nd5 (26. Nxg6 $1) 26... Kf8 {"and a drawn game was
+soon reached". Source: BCM, February 1940, p48} 1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.02"]
+[Round "5"]
+[White "Kirk, Wilfred Hugh Miller"]
+[Black "Schenk, Hans Georg"]
+[Result "1-0"]
+[PlyCount "2"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 e6 {... x moves} 1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.02"]
+[Round "5"]
+[White "Mackenzie, Arthur John"]
+[Black "Morry, William Ritson"]
+[Result "0-1"]
+[ECO "D58"]
+[PlyCount "88"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Nbd7 8. Bd3
+b6 9. cxd5 exd5 10. O-O Bb7 11. Qe2 a6 12. Rac1 c5 13. Rfd1 c4 14. Bb1 Ne4 15.
+Bg3 f5 16. Nxe4 fxe4 17. Nd2 Qe8 18. Rf1 Bg5 19. h4 Be7 20. f3 Qh5 21. Rf2 exf3
+22. Nxf3 Qg4 23. Qc2 Nf6 24. Ne5 Qxg3 25. Rf3 Qxh4 26. Rxf6 Qe4 27. Qxe4 $2 (
+27. Qe2 $1 Qh4 28. Rxb6 Rfb8 29. Qc2 Qe4 30. Qf2 $18) 27... dxe4 28. Rxb6 Bg5
+29. Re1 Bd5 30. Rd6 Rfd8 31. Rxd8+ Rxd8 32. Re2 Kf8 33. Kf2 Ke7 34. Rc2 Rb8 35.
+Ke2 Ke6 36. a3 Rb3 37. Nxc4 Bxc4+ 38. Rxc4 Rxe3+ 39. Kf2 Kf5 40. Rc5+ Kf4 41.
+g3+ Rxg3 42. Bxe4 Bf6 43. Rc4 Bh4 44. Rb4 Re3+ {Sources: The Times, 4 January
+1940; Hastings and St Leonards Observer , 13 January 1940; Borough of West Ham,
+East Ham and Stratford Express, 16 February 1940} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.02"]
+[Round "5"]
+[White "Winser, W Arthur"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "0-1"]
+[PlyCount "6"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 {Queen's Indian... x moves} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.03"]
+[Round "6"]
+[White "Golombek, Harry"]
+[Black "Winser, W Arthur"]
+[Result "1-0"]
+[PlyCount "1"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. c4 {... English opening, 74 moves} 1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.03"]
+[Round "6"]
+[White "Morry, William Ritson"]
+[Black "Kirk, Wilfred Hugh Miller"]
+[Result "1/2-1/2"]
+[PlyCount "6"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 {... Nimzo-Indian, x moves, went to an endgame}
+1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.03"]
+[Round "6"]
+[White "Parr, Frank"]
+[Black "Schenk, Hans Georg"]
+[Result "1-0"]
+[ECO "D15"]
+[PlyCount "61"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Nb1 Nbd7 8. Bxc4
+e6 9. b3 Bb7 10. O-O Be7 11. Qe2 c5 12. Rd1 Qc7 13. Bb2 O-O 14. Nbd2 cxd4 15.
+Nxd4 Ne5 16. Rac1 Nxc4 17. Nxc4 Rac8 18. Nb5 Qc6 19. f3 Qa6 20. e4 Bc5+ 21. Bd4
+Bxd4+ 22. Rxd4 Bc6 23. Nbd6 Rc7 24. Kh1 Ba8 25. Qe1 e5 26. Rd2 Rd8 27. Rcd1
+Rcd7 28. Qg3 Rxd6 29. Rxd6 Rxd6 30. Rxd6 Qc8 31. Rxf6 {Source: BCM, February
+1940, p47} 1-0
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.03"]
+[Round "6"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Mackenzie, Arthur John"]
+[Result "1/2-1/2"]
+[PlyCount "2"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 c5 {... Sicilian, x moves} 1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.04"]
+[Round "7"]
+[White "Kirk, Wilfred Hugh Miller"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1/2-1/2"]
+[PlyCount "2"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. e4 c5 {... Sicilian, x moves} 1/2-1/2
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.03"]
+[Round "7"]
+[White "Mackenzie, Arthur John"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[PlyCount "6"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 {... Nimzo-Indian. Game played in advance of the
+scheduled last round, which would have been 4 January} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.04"]
+[Round "7"]
+[White "Schenk, Hans Georg"]
+[Black "Morry, William Ritson"]
+[Result "0-1"]
+[PlyCount "1"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 {... QP, 70 moves} 0-1
+
+[Event "Hastings Premier 1939/40 20th"]
+[Site "Hastings, White Rock Pavilion"]
+[Date "1940.01.03"]
+[Round "7"]
+[White "Winser, W Arthur"]
+[Black "Parr, Frank"]
+[Result "0-1"]
+[PlyCount "5"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceDate "1999.06.06"]
+[SourceVersion "1"]
+[SourceVersionDate "1999.06.06"]
+[SourceQuality "2"]
+
+1. d4 d5 2. c4 e6 3. g3 {Catalan... Game played in advance of the scheduled
+last round, which would have been 4 January} 0-1
+
+[Event "Hastings Premier Reserves 1939/40"]
+[Site "Hastings"]
+[Date "1940.01.01"]
+[Round "4"]
+[White "Hammond, Cecil Perfect"]
+[Black "Coman, Richard"]
+[Result "1-0"]
+[ECO "C13"]
+[PlyCount "39"]
+[EventDate "1939.12.28"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceQuality "2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Kf8 8. Nf3
+c5 9. O-O-O Nc6 10. Be3 h6 11. Rh3 cxd4 12. Bxd4 b5 13. Rg3 g6 14. Bd3 Nxd4 15.
+Qxd4 Nc5 16. Ne2 Nxd3+ 17. Qxd3 Bb7 18. Nf4 g5 19. Nxe6+ fxe6 20. Nd4 {Sources:
+Borough of West Ham, East Ham and Stratford Express of 12.1.1940, Hastings and
+St Leonards Observer of 20.1.1940, Falkirk Herald of 14.2.1940 and 30.4.1941,
+and Linlithgowshire Gazette of 16.2.1940 and 2.5.1941. Contributed by Brian
+Denman.} 1-0
+
+
+

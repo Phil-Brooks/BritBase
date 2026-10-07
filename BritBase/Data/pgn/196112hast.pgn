@@ -1,0 +1,2231 @@
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.27"]
+[Round "1"]
+[White "Aaron, Manuel"]
+[Black "Flohr, Salo"]
+[Result "0-1"]
+[ECO "D22"]
+[PlyCount "80"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. Nc3 Nf6 7. Qb3 Bxf3 8.
+gxf3 b5 9. Be2 c5 10. dxc5 Bxc5 11. a4 b4 12. Ne4 Nxe4 13. fxe4 Qh4 14. O-O
+Qxe4 15. f4 Nd7 16. Bf3 Qg6+ 17. Kh1 Rd8 18. Qc4 e5 19. b3 O-O 20. Ra2 Qb6 21.
+a5 Qa7 22. e4 Be3 23. f5 Bxc1 24. Rxc1 Qe3 25. Rf1 Nc5 26. Qxb4 Qxb3 27. Qxb3
+Nxb3 28. Be2 Rd6 29. Rb1 Nc5 30. Rb6 Rxb6 31. axb6 Rb8 32. Bxa6 Rxb6 33. Bc4
+Kf8 34. Bd5 g6 35. Ra7 Rf6 36. Ra8+ Kg7 37. Re8 Nd3 38. Bc4 Nf2+ 39. Kg2 Nxe4
+40. Rxe5 Nd6 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.27"]
+[Round "1"]
+[White "Barden, Leonard William"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[PlyCount "52"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. O-O
+Re8 9. Ne5 Bb7 10. f4 c5 11. Bd2 Nbd7 12. a3 Bxc3 13. Bxc3 c4 14. Bf5 Nf8 15.
+a4 a6 16. Qe1 b5 17. Ba5 Qb8 18. axb5 axb5 19. Ra3 Bc8 20. Bc2 Ra6 21. Qb4 Qb7
+22. b3 Be6 23. Rb1 cxb3 24. Bd3 Rb8 25. Rbxb3 Qc8 26. Rc3 Qe8 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.27"]
+[Round "1"]
+[White "Botvinnik, Mikhail"]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "C60"]
+[PlyCount "77"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Nd7 7. Nbd2 f6 8.
+O-O Bc5 9. c3 Nf8 10. d4 exd4 11. Nb3 Bb6 12. Nfxd4 (12. Nbxd4 {given
+previously but the score as shown in CHESS is 12 N(B3)xP.}) 12... Ng6 13. Be3
+O-O 14. Qc2 Qe7 15. Nf5 Bxf5 16. exf5 Ne5 17. Bxb6 cxb6 18. Nd4 Qf7 19. Ne6
+Rfc8 20. Rfe1 b5 21. Re3 Kh8 22. Rae1 Rg8 23. f4 Ng4 24. Rh3 Rae8 25. Qe2 Nh6
+26. g4 Qd7 27. Rd3 Qc8 28. Kf1 c5 29. h3 g6 30. fxg6 hxg6 31. Re3 Qc6 32. Qg2
+Qd7 33. Nxc5 Qf7 34. Rxe8 Rxe8 35. Rxe8+ Qxe8 36. Qe4 Qd8 37. Qd4 Qe7 38. Ne4
+Ng8 39. g5 {Source: CHESS/27/401-2, January 1962, p126} 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.27"]
+[Round "1"]
+[White "Littlewood, John Eric"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[ECO "C55"]
+[Annotator "Brown, Keith"]
+[PlyCount "95"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. d4 Bd7 7. O-O Be7 8. Re1
+O-O 9. Nbd2 Re8 10. Bb3 ({Another plan is} 10. a3 Bf8 11. b4 {with the
+possible sequel} d5 12. Bb3 Bg4 13. exd5 Nxd5 14. Bb2 Qd7 15. Bxd5 Qxd5 16. c4
+Bxf3 17. cxd5 Bxd1 18. dxc6 Ba4 19. cxb7 Rab8 20. dxe5 {and White has won a
+pawn.}) 10... h6 11. Nf1 Bf8 12. Ng3 Bg4 $146 13. h3 Bxf3 14. Qxf3 {Pawns
+don't matter to Littlewood!} exd4 15. Nf5 $17 (15. Nh5 $5 {looks like a viable
+alternative} dxc3 16. bxc3 $15) 15... d5 (15... dxc3 16. Qg3 {is strong for
+White.}) 16. Bxh6 {He's not petty with his pieces either!} Nxe4 {Gligoric
+takes no chances and by declining White's sacrifice secures rather the better
+ending. 16...gxh6 is not clear but White certainly has good attacking
+prospects.} 17. Bf4 Ne5 $11 (17... dxc3 $5 {has some apparent merit} 18. bxc3
+Bc5 $17 (18... Bc5 19. Ne3 Ne5 20. Bxe5 $15)) (17... g5 18. h4 (18. Bh2 dxc3
+$15)) 18. Bxe5 Rxe5 19. Rad1 $11 (19. Qf4 Re8 20. Qg4 c6 $14 (20... dxc3 $2 {
+doesn't work because of} 21. Nh6+ Kh7 22. Nxf7 $18)) 19... Qd7 20. Nxd4 Rae8 (
+20... c5 21. Qf4 $11 (21. Nc2 Rae8 22. Qf4 Qd8 $11)) 21. Qg4 $17 ({Probably
+the last move White wanted to make. Black had threatened to win at once with
+21...Nd2.} 21. Qd3 $142 $5 {must definitely be considered} Nc5 22. Qd2 Nxb3 23.
+Nxb3 Rxe1+ 24. Rxe1 Rxe1+ 25. Qxe1 $15) (21. Qf4 Bd6 22. Nf3 R5e7 23. Qh4 $15)
+(21. Qe3 Bc5 22. a4 $11) 21... Qxg4 $15 (21... Nf6 22. Rxe5 Nxg4 23. Rxd5 $17)
+22. hxg4 c6 23. f3 Nc5 24. Rxe5 Rxe5 25. Bc2 g6 26. Kf2 Bg7 27. a4 Re7 28. a5
+Be5 29. b4 Nd7 (29... Bxd4+ 30. cxd4 $14 (30. Rxd4 Nd7 31. Rd1 Kh7 $14)) 30.
+Bb3 Nf8 31. Rd3 Kg7 32. Ne2 Ne6 33. c4 (33. Rd1 Kf6 $11) 33... dxc4 34. Bxc4
+Nc7 $2 {Short of time, Gligoric doesn't realise that his bishop is in danger.}
+35. f4 Bb2 $11 ({If} 35... Bf6 36. g5) 36. Rb3 Re4 $2 $16 ({Losing quickly.} 
+36... Ba1 {was correct} 37. Rb1 Re4 38. Bd3 Bd4+ 39. Kf1 Re3 {etc.}) 37. Bd3 $1
+{retaining the advantage} ({Instead of} 37. Rxb2 Rxc4 38. g5 Nd5 $15) 37...
+Bd4+ 38. Kf1 ({Less advisable is} 38. Nxd4 Rxd4 39. Ke3 Rxb4 40. Rxb4 Nd5+ 41.
+Ke4 Nxb4 $15) (38. Kf3 $4 Re3+ 39. Kf2 Rxd3+) 38... Re3 $2 (38... Rxe2 $142 39.
+Bxe2 Nd5 $18) 39. Nxd4 Nd5 40. Kf2 Re7 {With characteristic calmness,
+Littlewood, though he had plenty of time, carried on playing at full speed. No
+scurrying for the adjournment.} 41. g3 Rd7 42. Nc2 Nf6 43. Kf3 Rd5 44. g5 Ne8
+45. Ne3 Rd4 46. f5 Nd6 47. Bc2 Ne8 48. f6+ {Source: John Littlewood collection
+(Keith Brown)} 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.27"]
+[Round "1"]
+[White "Penrose, Jonathan"]
+[Black "Robatsch, Karl"]
+[Result "1-0"]
+[ECO "B09"]
+[PlyCount "75"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Bg4 7. h3 Bxf3 8. Qxf3
+Nc6 9. Qf2 Nd7 10. Be3 Nb4 11. Bc4 Nb6 12. Bb3 Nc6 13. O-O Na5 14. Rad1 Nbc4
+15. Bc1 c6 16. f5 Qc7 17. Rd3 b5 18. Rf3 b4 19. Ne2 c5 20. Bxc4 Nxc4 21. c3
+bxc3 22. bxc3 cxd4 23. cxd4 Qb7 24. Nc3 Rac8 25. Nd5 gxf5 26. Rxf5 f6 27. Qh4
+Nb6 28. Ne3 Na4 29. Nd5 Nc3 30. Be3 Nxd5 31. exd5 Rc3 32. Qe4 Rf7 33. R1f3 Bf8
+34. Rg3+ Kh8 35. Rh5 Qc8 36. Qg6 Bh6 37. Qxf7 Rxe3 38. Rxh6 {time} 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.28"]
+[Round "2"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[PlyCount "90"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11. Qd2 h6 12. Rad1 e5 13. Be3 Bb4 14. Nb5 axb5 15.
+Qxb4 O-O 16. Rxd6 Rxa2 17. Rd2 Bd7 18. Rfd1 Rfa8 19. f3 Ra1 20. c3 Qc4 21. Qxc4
+bxc4 22. Bc5 Rxd1+ 23. Rxd1 Be6 24. Ba3 g5 25. Kf2 Rc8 26. Ke3 Kg7 27. Rd6 Nd7
+28. Bf1 Rc6 29. Rd2 Nf8 30. Rd8 Ng6 31. Be2 Kf6 32. Bd1 Rc8 33. Rd2 h5 34. Ba4
+h4 35. Kf2 hxg3+ 36. hxg3 Rh8 37. Kg2 Ra8 38. Bd1 Rc8 39. Be2 Kg7 40. Rd6 Rc6
+41. Rd8 f6 42. Kf2 Kf7 43. Ke3 Rc7 44. Bd6 Rc6 45. Bb4 Rc7 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.28"]
+[Round "2"]
+[White "Flohr, Salo"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "E94"]
+[PlyCount "80"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. d5 Nbd7 8. O-O
+Nc5 9. Nd2 a5 10. Qc2 Bh6 11. Nb3 Bxc1 12. Raxc1 Nxb3 13. axb3 b6 14. Ra1 Rb8
+15. Na2 Ne8 16. b4 f5 17. bxa5 bxa5 18. exf5 gxf5 19. f4 exf4 20. Nc1 Qf6 21.
+Nd3 Qd4+ 22. Kh1 Nf6 23. Rxf4 Ne4 24. Rxa5 Bd7 25. Ra1 Ra8 26. Raf1 Ra4 27. Nf2
+Nxf2+ 28. R1xf2 Qe5 29. b3 Ra1+ 30. Rf1 Rfa8 31. Rxa1 Rxa1+ 32. Rf1 Kg7 33. Bd1
+f4 34. Qd2 Bg4 35. h3 Bxd1 36. Rxd1 Rxd1+ 37. Qxd1 Kf6 38. Qf3 h5 39. g3 Qe1+
+40. Kg2 Qd2+ 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.28"]
+[Round "2"]
+[White "Gligoric, Svetozar"]
+[Black "Robatsch, Karl"]
+[Result "1-0"]
+[ECO "B08"]
+[PlyCount "81"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nbd7 7. e5 Ne8 8. Bf4
+c6 9. Re1 dxe5 10. dxe5 Nc7 11. Qc1 Ne6 12. Bh6 a5 13. Bxg7 Kxg7 14. Bc4 Ndc5
+15. Qe3 b5 16. Bxe6 Nxe6 17. Ne4 Qc7 18. Nc5 Qa7 19. Nxe6+ Bxe6 20. Nd4 Bd5 21.
+h4 Rfd8 22. c3 Qb7 23. Qg5 Kh8 24. Re3 c5 25. Ne2 Qd7 26. e6 Bxe6 27. Nf4 Ra6
+28. Rae1 Qc7 29. h5 gxh5 30. Nxe6 Rxe6 31. Rxe6 fxe6 32. Qxh5 Qd6 33. g3 Rg8
+34. Qe5+ Rg7 35. Re3 Kg8 36. Qxe6+ Qxe6 37. Rxe6 Rg4 38. Rxe7 Ra4 39. a3 b4 40.
+cxb4 axb4 (40... cxb4 {previously given here but CHESS gives 40...RPxP.}) 41.
+Re4 {Source: CHESS/27/401-2, January 1962, p131} 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.28"]
+[Round "2"]
+[White "Littlewood, John Eric"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "B75"]
+[Annotator "Botvinnik"]
+[PlyCount "56"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 {All this is well-known
+under the name ''The Dragon Variation''. It has been normal in this variation
+for Black's QN to be developed early at c6. Of recent years, however, a
+different plan has been gaining favour: following Reshevsky's pattern, Black
+defers committing himself for the time being on the positioning of this knight.
+} 6. Be3 Bg7 7. f3 {The suystem named after the soviet master Rowzer,
+introduced a quarter of a century ago and generally regarded ever since as the
+best.} a6 8. Bc4 b5 {Still following Reshevsky's recipe: it is to the
+development of his QB to which Black gives priority.} 9. Bb3 Bb7 10. Qd2 Nbd7
+11. O-O-O Nc5 {White's KB is sufficiently active to justify the time spent on
+removing it in exchange for the knight.} 12. Kb1 {White intends to exchange
+off the black square bishops. He clears the king from c1 to clear that square
+if necessary for a rook, to operate along the c-file.} Nxb3 13. cxb3 $1 O-O 14.
+Bh6 Bxh6 15. Qxh6 b4 $1 ({The only move. Anything else allows effective
+counter­play, e.g.} 15... e5 16. Nc2 $1 {followed by Ne3 and White dominates
+d5.}) 16. e5 ({Littlewood embarks on an impetuous and deeply calculated attack
+- deeply but not precisely calculated. A quieter continuation such as} 16. Nce2
+e5 17. Nc2 a5 {might have caused Black more trouble}) ({On the other hand} 16.
+Nd5 Bxd5 ({This is an improvement on the continuation considered in
+light-hearted analysis among the other players,} 16... Nxd5 17. exd5 Bxd5 18.
+Nf5 gxf5 19. Rxd5 e6 20. Rxd6 Qxd6 21. Qg5+ {, White getting perpetual check 
+(BH Wood)}) 17. exd5 Qd7 {followed by ...e5 would have been in Black's favour.
+(This is an improvement considered in light-hearted analysis among the other
+players,}) 16... Nd7 ({Of course not} 16... bxc3 17. exf6 exf6 18. bxc3 {
+with a clear positional advantage to White.}) 17. h4 ({Although I had foreseen
+this move, when it was actually made I realised that with such a dangerous
+opponent I must of course probe thoroughly into all the attacking
+possibilities of the situation before making another move. So I devoted some
+time on this position and satisfied myself that Littlewood had, unfortunately
+for himself, over-looked one little refinement The continuation} 17. exd6 {
+would be inadequate because of} e5 $1 (17... bxc3 {is also playable:} 18. Nf5
+c2+ 19. Kxc2 gxf5 20. Qg5+ Kh8 21. dxe7 Qc7+ $1 22. Kb1 Rg8) 18. Nf5) 17...
+bxc3 18. h5 dxe5 $1 ({The plausible alternative defence} 18... c2+ 19. Nxc2 g5
+{would be quite incorrect:} 20. Qxg5+ Kh8 21. exd6 {secures White plentiful
+compensation in pawns for the bishop he has given up.}) 19. hxg6 ({After} 19.
+bxc3 exd4 20. Rxd4 Qa5 {Black's advantage would be obvious.}) 19... Nf6 20.
+bxc3 ({Now everything is clear, as} 20. Nf5 {(or 20 Ne6) would fail against}
+c2+ {(White had overlooked this crafty check when he played 15 e5.)} 21. Kxc2
+Qc8+ {; White's knight goes next move, all the mating threats disappear and
+the game is over.}) (20. gxh7+ Kh8 21. Ne2 c2+ 22. Kxc2 Qc8+ 23. Nc3 Qf5+ 24.
+Kc1 Rfd8 $19) 20... exd4 21. gxh7+ (21. Rxd4 Qa5 22. gxh7+ Kh8 23. Kb2 Rfc8 $17
+) 21... Kh8 22. Rxd4 Qa5 23. Qe3 Nd5 24. Qd2 Nxc3+ 25. Ka1 Rad8 26. Rc1 Qxa2+ {
+To be two pieces up offer a generous variety of winning methods!} 27. Qxa2 Nxa2
+28. Rxd8 Rxd8 {Source: CHESS, Vol.27, no.401-2, p129 with original annotations
+by Botvinnik} 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.28"]
+[Round "2"]
+[White "Wade, Robert Graham"]
+[Black "Aaron, Manuel"]
+[Result "1-0"]
+[ECO "A24"]
+[PlyCount "145"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 e5 5. Nh3 d6 6. O-O O-O 7. f4 Nc6 8. d3
+Nh5 9. e3 f5 10. Ng5 Kh8 11. Bd2 h6 12. Nf3 Be6 13. Rb1 Ne7 14. Nh4 c6 15.
+Nxg6+ Nxg6 16. Qxh5 Qf6 17. Nd1 exf4 18. gxf4 Kh7 19. Bc3 Qf7 20. Bxg7 Qxg7 21.
+Kh1 Qf6 22. Nc3 Nh4 23. Rg1 Rg8 24. Bh3 Bf7 25. Qe2 Rxg1+ 26. Rxg1 Rg8 27. Rxg8
+Kxg8 28. Bg2 Bg6 29. Qf2 Kf7 30. Bf3 a6 31. Bd1 Ke7 32. Kg1 Kd7 33. Kf1 Kc7 34.
+Ke1 Bf7 35. Kd2 Ng6 36. Bh5 Ne7 37. Bf3 b6 38. Kc2 Ng6 39. Ne2 Ne7 40. Qg2 b5
+41. cxb5 axb5 42. Nd4 Be8 43. Qd2 d5 44. a4 bxa4 45. Qa5+ Kd7 46. Qxa4 Qd6 47.
+Qa7+ Qc7 48. Qxc7+ Kxc7 49. b4 Kd6 50. Nb3 Bg6 51. Kc3 Nc8 52. Bd1 Na7 53. Nd4
+Nc8 54. Ba4 Ne7 55. Nf3 Bh5 56. Ne5 Be8 57. Kd4 Bh5 58. Kc3 Be8 59. d4 Ng8 60.
+Bc2 Ne7 61. Bd3 Kc7 62. Bf1 Bh5 63. b5 cxb5 64. Bxb5 Kd6 65. Bd7 Bf7 66. Kb4
+Be6 67. Bxe6 Kxe6 68. Kc5 Ng8 69. Nd3 Nf6 70. h3 Ne4+ 71. Kc6 Nc3 72. Nb4 h5
+73. h4 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.29"]
+[Round "3"]
+[White "Aaron, Manuel"]
+[Black "Littlewood, John Eric"]
+[Result "1-0"]
+[ECO "D50"]
+[PlyCount "83"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c5 5. e3 cxd4 6. exd4 dxc4 7. Bxc4 Be7 8.
+Nf3 O-O 9. Qe2 a6 10. O-O Nbd7 11. Rad1 Nb6 12. Bd3 Nbd5 13. Bb1 Bd7 14. Ne5
+Rc8 15. Rd3 g6 16. Rg3 Re8 17. Nxd5 Nxd5 18. Qf3 f5 19. Bxe7 Rxe7 20. h4 Rg7
+21. h5 Bb5 22. Rd1 g5 23. h6 Rg6 24. Bxf5 exf5 25. Qxf5 Rcc6 26. Qf7+ Kh8 27.
+Qxg6 hxg6 28. Nf7+ Kh7 29. Nxd8 Rc2 30. Rxg5 Bc6 31. Nxc6 bxc6 32. Rb1 Kxh6 33.
+Rg3 Nf4 34. Ra3 Ne2+ 35. Kf1 Nxd4 36. Rxa6 Nb5 37. a4 Nd6 38. b4 Ne4 39. Kg1
+Nxf2 40. b5 cxb5 41. axb5 Ng4 42. b6 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.29"]
+[Round "3"]
+[White "Barden, Leonard William"]
+[Black "Wade, Robert Graham"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[PlyCount "79"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nh6 5. Bb5 Bd7 6. O-O Be7 7. Re1 a6 8.
+Bxc6 Bxc6 9. Ne5 dxe4 10. Nxc6 bxc6 11. Nxe4 Nf5 12. c3 O-O 13. Bf4 Bd6 14. Bg5
+f6 15. Bd2 e5 16. Qb3+ Kh8 17. Qe6 Nh4 18. dxe5 Bxe5 19. Rad1 Qd5 20. Qh3 Ng6
+21. b3 Rad8 22. Qh5 Rfe8 23. c4 Qf7 24. Ba5 Qe7 25. Rxd8 Rxd8 26. Rd1 Re8 27.
+Qf5 Qa3 28. Qd7 Rg8 29. Bxc7 Qxa2 30. Nc5 Bxc7 31. Qxc7 Ne5 32. h3 h6 33. Rd8
+Rxd8 34. Qxd8+ Kh7 35. Qc7 Qb1+ 36. Kh2 Qf5 37. Kg1 Nf3+ 38. gxf3 Qxc5 39. Qb7
+a5 40. Kg2 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.29"]
+[Round "3"]
+[White "Botvinnik, Mikhail"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[PlyCount "208"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 c5 4. Bg2 Nc6 5. e3 e6 6. Nge2 Nge7 7. d4 cxd4 8.
+exd4 d5 9. cxd5 Nxd5 10. Nxd5 exd5 11. O-O O-O 12. Be3 Bg4 13. Re1 Qb6 14. Bxd5
+Rad8 15. Qb3 Qxb3 16. Bxb3 Bxe2 17. Rxe2 Nxd4 18. Bxd4 Bxd4 19. Re7 Bxb2 20.
+Rae1 Rb8 21. Rd7 a5 22. Ree7 Ba3 23. Rxf7 Rxf7 24. Bxf7+ Kh8 25. h4 a4 26. h5
+gxh5 27. Bxh5 Bb2 28. Be2 a3 29. Bb5 h6 30. Kg2 b6 31. f4 Rc8 32. Kh3 Rc5 33.
+Bd3 Kg8 34. Rd6 Rc3 35. Kg4 Kg7 36. Rg6+ Kf8 37. Bf5 b5 38. Rb6 Rc5 39. Bd3 h5+
+40. Kh3 Kg7 41. Bxb5 Bd4 42. Rd6 Bf2 43. Bd3 Rc3 44. Kg2 Bc5 45. Rd5 Be7 46.
+Kf3 Kf6 47. Ke2 Rc5 48. Rd7 Rc1 49. Ra7 Ra1 50. Ra6+ Kg7 51. Bc4 Rc1 52. Bd5
+Rc3 53. Ra7 Kf6 54. Ra6+ Kg7 55. Kf2 h4 56. gxh4 Bxh4+ 57. Ke2 Be7 58. Be4 Rh3
+59. Bd5 Rc3 60. Bb3 Rh3 61. Be6 Rg3 62. Bc4 Rh3 63. Bb3 Rc3 64. f5 Rg3 65. Kf2
+Rg5 66. Bc2 Rg4 67. Kf3 Rg1 68. Bd3 Rc1 69. Ke4 Kf7 70. Ke5 Re1+ 71. Kf4 Rc1
+72. Be4 Rc5 73. Bf3 Rb5 74. Be2 Rc5 75. Bh5+ Kg7 76. Bd1 Rb5 77. Bc2 Rb2 78.
+Bb3 Rf2+ 79. Ke4 Rg2 80. Kf3 Rg1 81. Bc4 Bh4 82. Bd5 Be7 83. Bb3 Rf1+ 84. Ke4
+Re1+ 85. Kd3 Rg1 86. Ke3 Rg4 87. Kf3 Rg1 88. Bc4 Bh4 89. Ke4 Be7 90. Kd5 Re1
+91. Rg6+ Kh7 92. Bb3 Re2 93. Kd4 Rf2 94. Ke5 Re2+ 95. Kd5 Bb4 96. Kd4 Rd2+ 97.
+Ke5 Bc3+ 98. Ke6 Rh2 99. Ke7 Bg7 100. Kf7 Bh6 101. Ra6 Rf2 102. Be6 Bc1 103. f6
+Bg5 104. Bb3 Kh6 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.29"]
+[Round "3"]
+[White "Penrose, Jonathan"]
+[Black "Flohr, Salo"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[PlyCount "33"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Be7 8.
+O-O O-O 9. c4 c5 10. Bc2 b6 11. dxc5 bxc5 12. Re1 Bb7 13. b3 Re8 14. Bb2 Nf8
+15. Ne5 Ng6 16. Nxg6 hxg6 17. Bc3 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.29"]
+[Round "3"]
+[White "Robatsch, Karl"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "0-1"]
+[ECO "C99"]
+[PlyCount "76"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Be7 8. h3
+Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 O-O 12. Re1 Bd7 13. Nf1 cxd4 14. cxd4 Rac8
+15. Ne3 Rfe8 16. d5 g6 17. b3 Nb7 18. b4 Nh5 19. Bd2 f6 20. Rc1 Nd8 21. Bd3 Qb7
+22. Rxc8 Qxc8 23. Nc2 Nf7 24. Nh2 Ng7 25. Na1 f5 26. f3 Bh4 27. Rf1 Nh5 28. Qb1
+Qd8 29. Qc1 Ng3 30. Rd1 f4 31. Nf1 Qb6+ 32. Kh2 Qf2 33. Nxg3 Bxh3 34. Bf1 Bxg3+
+35. Kh1 Ng5 36. Qa3 Bd7 37. Qd3 Nh3 38. Be2 Qg1+ 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.30"]
+[Round "4"]
+[White "Botvinnik, Mikhail"]
+[Black "Aaron, Manuel"]
+[Result "1-0"]
+[ECO "A04"]
+[PlyCount "81"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 e5 4. O-O Ne7 5. c4 O-O 6. d4 exd4 7. Nxd4 d5 8.
+cxd5 Nxd5 9. Na3 c6 10. Nac2 Nd7 11. e4 N5f6 12. f4 Re8 13. Re1 Nc5 14. e5 Bg4
+15. Qd2 Nd5 16. h3 Bd7 17. b3 f6 18. Ba3 Qb6 19. exf6 Nxf6 20. Bxc5 Qxc5 21. b4
+Qf8 22. Rad1 Rxe1+ 23. Rxe1 Re8 24. a3 Nd5 25. Nb3 Rxe1+ 26. Nxe1 Nf6 27. Nc5
+Bc8 28. Nf3 Nh5 29. Kh2 Qe7 30. Ng5 h6 31. Nge4 Bf8 32. Qd4 Ng7 33. Nd3 Nf5 34.
+Qxa7 Be6 35. Ndc5 Ne3 36. Qxb7 Qxb7 37. Nxb7 Nxg2 38. Kxg2 Bd5 39. Kf3 Kf7 40.
+Ke3 Ke6 41. Nbc5+ 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.30"]
+[Round "4"]
+[White "Flohr, Salo"]
+[Black "Robatsch, Karl"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[PlyCount "100"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 e5 4. d4 exd4 5. Nxd4 Nc6 6. Nc2 Nge7 7. e3 O-O 8.
+Be2 d6 9. O-O Be6 10. Nd5 a6 11. Rb1 b5 12. b3 Ne5 13. f4 Nd7 14. Bf3 Bxd5 15.
+cxd5 Nc5 16. Nd4 Re8 17. Bb2 Kh8 18. e4 Qb8 19. b4 Na4 20. Ba1 Nb6 21. Qd3 Nc4
+22. a4 Qb6 23. Kh1 Rad8 24. axb5 axb5 25. Nxb5 Qxb5 26. Bxg7+ Kxg7 27. Rfc1 c6
+28. Qxc4 Qxc4 29. Rxc4 cxd5 30. exd5 Rb8 31. Kg1 Nf5 32. b5 Rb6 33. Rc6 Reb8
+34. Rxb6 Rxb6 35. Kf2 Kf6 36. Rb4 Ke7 37. Be4 Ng7 38. Ke3 Ne8 39. Kd4 Nf6 40.
+Bd3 Nd7 41. g4 h6 42. Ra4 Nc5 43. Ra7+ Kf6 44. Bc4 g5 45. fxg5+ hxg5 46. Kc3
+Rb8 47. Kb4 Rh8 48. Ra2 Ke5 49. Rf2 Kd4 50. Rd2+ Ke3 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.30"]
+[Round "4"]
+[White "Gligoric, Svetozar"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "0-1"]
+[ECO "D65"]
+[PlyCount "70"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 a6 8. cxd5
+exd5 9. Bd3 c6 10. Qc2 Re8 11. O-O Nf8 12. Na4 Ng6 13. Nd2 Bd6 14. g3 Bh3 15.
+Rfe1 h6 16. Bxh6 Ne4 17. Bf4 Nxf4 18. exf4 Bxf4 19. gxf4 Qh4 20. Nf1 Qxf4 21.
+Re3 Ng5 22. Qe2 Rxe3 23. fxe3 Qf6 24. Nd2 Re8 25. Nc3 Qh6 26. Kh1 c5 27. Nxd5
+cxd4 28. e4 f5 29. Rg1 fxe4 30. Bxe4 Bf5 31. Qc4 Nxe4 32. Nf6+ Kh8 33. Ndxe4
+gxf6 34. Nd6 Qh5 35. Qxd4 Qf3+ 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.30"]
+[Round "4"]
+[White "Littlewood, John Eric"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "B68"]
+[PlyCount "77"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+{This was certainly the most exciting game of the event. White's 12th move is
+a dubious sacrifice and Barden knew the refutation to past the twentieth move
+but Littlewood made things very difficult for him and finally Barden's
+habitual time-trouble proved the decisive factor.} 1. e4 c5 2. Nf3 Nc6 3. d4
+cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8. O-O-O Bd7 9. f4 Be7 10. Nf3 (
+10. Qe1 {is an alternative way to threaten 11 e5.}) 10... b5 11. e5 {This
+tempting advance is not quite good enough. Sounder is 11 Bd3.} b4 12. exd6 ({
+The obvious} 12. exf6 {is favourable to Black after} bxc3 13. Qxc3 gxf6) 12...
+bxc3 13. Qxc3 Bf8 14. f5 Qa5 15. fxe6 fxe6 16. Bxf6 gxf6 17. Qxf6 {All post
+mortems showed Black as standing better here. (CHESS)} Rg8 18. Bc4 Bg7 19. Qh4
+{This keeps the black knight defending e7.} Rb8 20. Bb3 Rxb3 ({Stockfish 15:} 
+20... Qf5 $17) 21. axb3 Qa1+ 22. Kd2 Qxb2 23. Qxh7 Rf8 (23... Bc3+ 24. Ke3 Rxg2
+$11) 24. Rhe1 (24. Qh5+ Kd8 25. Qh4+ Ke8 26. Qh5+ Rf7 27. Qc5 Rf5 28. Qc4 Ne5
+29. Nxe5 Bh6+ {0-1, Larsen-Panno, Mar del Plata 1958.}) (24. Ke2 Ne5 25. Nd4
+Bb5+ 26. Nxb5 axb5 27. Rhf1 {Holaszek,H-Minaya Molano,J World Junior
+Championship 1961 (played four months previous to the current game; ½-½, 39
+moves)}) 24... Bc3+ 25. Kd3 ({Littlewood had originally intended} 25. Ke2 {
+; it is better but} Bxe1 26. Rxe1 Kd8 {still favours Black. "Barden had
+already become horribly short of time—3 minutes for 16 moves. Littlewood had
+over half an hour yet played his remaining moves as quickly as Barden." (CHESS)
+}) 25... Nb4+ 26. Kc4 Bg7 ({Stockfish 15:} 26... Nc6 $1 $17) 27. Nd4 $5 (27.
+Qh5+ Kd8 (27... Rf7 28. Ne5 Bxe5 29. Qxe5 $18) 28. Qa5+ Ke8 $11) 27... Nd5 (
+27... Nxc2 28. Qg6+ Rf7 29. Rxe6+ $1 Kf8 30. Re7 $18) ({Stockfish 15:} 27...
+Na2 $1 $19) 28. Rxe6+ $2 ({After the game Littlewood suggested} 28. Qg6+ Kd8
+29. Nxe6+ {when White seems to stand better.}) 28... Bxe6 29. Nxe6 Ne3+ ({
+"Cafferty suggested} 29... Nb6+ {but 30 Kd3 saves White." (CHESS) However,
+engines support Cafferty's argument:} 30. Kd3 Qc3+ 31. Ke2 Qe5+ 32. Kd3 Qxd6+
+33. Ke3 Qxe6+ 34. Qe4 Be5 $19) 30. Kc5 Qc3+ $2 ({With less than a minute on
+his clock to reach the 40th move Barden makes the decisive mistake. Black
+could have won easily with} 30... Qe5+ 31. Kb6 Qxe6 32. Qxg7 Nxd1 $19) 31. Kb6
+Nxd1 (31... Qb4+ 32. Ka7 Nxd1 33. Nxg7+ Kd7 34. Ne8+ Ke6 35. Qe7+ Kd5 36. Qxf8
+Qc5+ 37. Kxa6 Qc8+ 38. Ka7 Qxc2 39. Qf3+ Kc5 $18) 32. Nxg7+ $1 Kd7 33. Ne8+ $1
+Ke6 (33... Kd8 34. Qe7+ Kc8 35. d7+ {wins}) 34. Qe7+ Kd5 35. Nc7+ (35. d7 {
+also wins.}) 35... Kd4 36. Qg7+ Ke4 37. Qxf8 Qb4+ 38. Ka7 Qc5+ 39. Kb7 {
+Alexander wrote of this game ''A bad game but much more amusing than most good
+ones.'' Botvinnik remarked: ''A real English-style game.'' L. Lindheimer's
+observation is also worth quoting: ''Littlewood plays the best bad games I
+have ever seen.'' Sources: Sunday Times Magazine, 7 January 1962, p38; CHESS,
+Vol.27, no.401-2, January 1962, p134; John Littlewood collection (Keith Brown)}
+(39. Kb8 {is the final move given previously. Corrected 22.01.2023.}) ({For if
+} 39. Kb7 Qb4+ 40. Kc8 {and the d-pawn is decisive.}) 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.30"]
+[Round "4"]
+[White "Wade, Robert Graham"]
+[Black "Penrose, Jonathan"]
+[Result "0-1"]
+[ECO "E98"]
+[PlyCount "48"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 d6 4. e4 Nf6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. f4 exf4 12. Bxf4 Bxc3 13. bxc3 fxe4 14. Nb4 Nf5
+15. g4 Nh4 16. Qd2 Qe8 17. Rae1 Ne5 18. Bxe5 Rxf1+ 19. Rxf1 Qxe5 20. Qh6 Nf3+
+21. Bxf3 exf3 22. Rxf3 Bxg4 23. Re3 Qf6 24. Re1 Rf8 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.30"]
+[Round "5"]
+[White "Aaron, Manuel"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[ECO "A53"]
+[PlyCount "82"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. d5 Nc5 6. f3 a5 7. Be3 Be7 8. Nge2 (
+{Move order} 8. Qd2 O-O 9. Nge2 Ne8 10. g4 {previously given here but the text
+is given in CHESS}) 8... O-O 9. g4 Ne8 10. Qd2 g6 11. Ng3 Ng7 12. Bh6 Bh4 13.
+O-O-O f6 14. Be3 Bg5 15. h4 Bxe3 16. Qxe3 f5 17. gxf5 gxf5 18. exf5 Nxf5 19.
+Nxf5 Bxf5 20. Ne4 Bxe4 21. fxe4 Rf4 22. Bd3 Qf6 23. Bc2 Kh8 24. h5 Rg8 25. Rdg1
+Rxg1+ 26. Rxg1 Qh6 27. Qd2 Qxh5 28. Qg2 Qf7 29. Kb1 Qg6 30. Qh1 Rg4 31. Re1 Kg7
+32. b3 Qg5 33. Qh3 h5 34. Bd1 Qd2 35. Qe3 Qxe3 36. Rxe3 Rg1 37. Kc1 h4 38. Kd2
+h3 39. Rxh3 Nxe4+ 40. Ke2 Rxd1 41. Re3 Rd4 {Source: CHESS/27/401-2, January
+1962, p137} 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.31"]
+[Round "5"]
+[White "Barden, Leonard William"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "C02"]
+[Annotator "Barden, Leonard"]
+[PlyCount "81"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Ne7 ({I was expecting the normal} 4... Nc6 5.
+Nf3 Qb6 {, after which I wanted to play Milner-Barry's gambit idea of} 6. Bd3
+cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 {, offering both centre
+pawns for a powerful attack. I believe that this sacrifice is sound, and at
+least it offers White excellent prospects in practical play. It is interesting
+to know that both Botvinnik and Gligoric (against whom I reached the same
+opening at Hastings, 1957-58, by transposition from the Sicilian with 2 c3 e6)
+believe that Black's traditional development of the queen at b6 in the Advance
+Variation of the French is incorrect.}) 5. Nf3 Nf5 ({If} 5... Nbc6 6. Na3 cxd4
+7. cxd4 Nf5 8. Nc2 Qb6 9. Bd3 {and White consolidates his pawn centre.}) 6.
+dxc5 ({Now} 6. Na3 {is not good, because of} cxd4 {and 7...Bxa3, breaking up
+White's pawn front}) ({while if} 6. Bd3 cxd4 7. Bxf5 exf5 8. cxd4 Nc6 9. Nc3
+Be6 {(Barden-Gligoric, Hastings 1957/58) Black has a solid position with two
+bishops.}) 6... Bxc5 7. Bd3 Nc6 ({Afterwards I learnt that the World Champion 
+(who was tired from his marathon with Gligoric) had seriously considered an
+immediate 7...Nh4 for some while, turning it down for the positional reason
+that he ought to develop further before moving a piece twice in the opening.
+It was only after making his actual move that Botvinnik realised that} 7... Nh4
+{loses a piece to} 8. Qa4+) 8. O-O Nh4 ({An interesting idea, threatening both
+to win the e-pawn directly by ...Nxg3+ and to build up the pressure by ...Ng6
+and ...f6.} 8... O-O {is also quite playable.}) 9. Re1 $2 ({A mistake which
+indicates that White remembers too well the Nimzowitsch dictum that the
+outpost square at e5 should be overprotected and underestimates the weakness
+of his own f2.} 9. Bf4 {is also inferior after} Ng6 10. Bg3 f6 11. Bxg6+ hxg6
+12. Qd3 Kf7 {, when Black can eventually force the exchange of the e5-pawn by .
+..Bb6-c7 and ...Rh5 and then utilise his own central pawn mass.}) ({Correct is
+} 9. Nbd2 {, so that if} O-O ({while if} 9... Ng6 10. Nb3 Bb6 11. Re1 {(now
+there is no longer any danger to f2), after which the natural} Bc7 {fails to} (
+{while if} 11... Bd7 12. Nbd4 Bc7 13. Nb5 Ncxe5 14. Nxc7+ Qxc7 15. Nxe5 Nxe5
+16. Bf4 f6 17. Bxe5 fxe5 18. Qh5+ {, regaining the pawn with advantage.}) 12.
+Bg5 Qd7 13. Nc5) 10. Nxh4 Qxh4 11. Nf3) {Black can, of course, treat the
+position more quietly, but then White can maintain the e-pawn with reasonable
+prospects of play on the black squares.} 9... Bd7 10. b4 ({This and the next
+move form an over-impatient idea. White could still try} 10. Nbd2) 10... Bb6
+11. b5 Nxf3+ 12. Qxf3 Ne7 ({Better than} 12... Na5 {, when} 13. Qg3 {is hard
+to meet.}) 13. Ba3 $2 ({If} 13. Bg5 {, simply} O-O {, for} 14. Qh3 h6 15. Bxh6
+gxh6 16. Qxh6 Nf5 17. Bxf5 {gives White insufficient attacking chances.}) ({
+However, White could still maintain a fair game, despite the ragged queen's
+wing pawns, by} 13. Nd2 {and if} Rc8 14. c4 Bd4 $2 15. Rb1) 13... Rc8 14. Qg3
+Ng6 15. Nd2 ({White now sees that the previously planned} 15. c4 {fails to} Bd4
+(15... dxc4 $2 16. Be4 {or even 16 Nd2!?, with a strong attack}) {, when White
+has nothing for the exchange after} 16. Nd2 Bxa1 17. Rxa1 Qa5) ({The pawn
+sacrifice is the only practical chance if White is to avoid a miserable move
+like} 15. Bf1) 15... Rxc3 16. Bb4 Rc8 ({Post-mortem analysis established that
+a still stronger idea is} 16... Rxd3 $1 17. Qxd3 Qh4 $1 (17... Bxf2+ {and 18...
+Qh4+ is unclear}) 18. Ne4 {(the only chance: otherwise Black wins by ...Qxb4
+or ...Bxf2+)} dxe4 19. Rxe4 Qxf2+ 20. Kh1 Nf4 21. Rxf4 Qxf4 22. Rd1 Qd4 $1 {
+when White has to exchange off into a bishops of opposite colour ending a pawn
+down, which should be won for Black. The World Champion saw most of this
+variation (I have to admit that I did not consider it all during the game),
+but rejected it on the safety-first ground that there is danger of
+miscalculation in such sharp tactical lines. By safe play Black has the
+advantage in any case, and "I prefer to avoid complications unless I am forced
+into them," remarked Botvinnik.}) 17. Nf3 {Necessary to prevent the
+simplifying ...Qh4.} Bc5 18. Bd2 O-O 19. Bg5 (19. h4 {was suggested as a
+better attacking chance, but then Black continues} f6 $1 20. Bxg6 hxg6 21. Qxg6
+Qe8 $1 {and White's attack is over.}) 19... f6 $1 ({A fine conception of a
+sort often seen in Botvinnik's games with the French. In return for the
+exchange, he obtains a concentration of centre pawns and active pieces which
+makes White’s job of finding a constructive plan very difficult.
+Positionally, the exchange sacrifice is even forced, for after} 19... Be7 20.
+h4 $1 {White would have real attacking chances.}) 20. exf6 gxf6 21. Bh6 Kf7 $1
+22. Bxf8 Qxf8 23. Rac1 $2 ({Here and at the next move, White loses time and
+retains the wrong minor piece. Black’s Knight must be prevented from
+occupying f4, but the best chance of doing so while restraining Black’s
+central advance is} 23. Bxg6+ hxg6 24. Qg4 {As played, White’s bishop
+becomes virtually useless.}) 23... e5 24. Nh4 Qh6 25. Nxg6 hxg6 26. Rc2 {
+Black threatened ...Bxf2+.} b6 27. a4 e4 28. Bf1 f5 {The World Champion excels
+in the art of utilising a central pawn phalanx, and hence­forward White is
+steadily driven back and deprived of useful squares.} 29. Rec1 f4 30. Qb3 Be6
+31. Rxc5 ({The return of the exchange is White's only chance to avoid being
+gradually crushed; it is slightly better to preface it with} 31. a5) 31... bxc5
+32. b6 c4 $2 ({In his eagerness to blot out the bishop completely, Black
+advances too hastily.} 32... axb6 33. Qxb6 Qf8 {should win.}) 33. Qb4 $2 ({
+Here I reached out my hand to grasp my b-pawn, intending to play} 33. b7 {
+, noticing just as I did so that Black then wins immediately by} Rh8 $1 {
+Mr Rhoden, the tournament controller, confirmed that I had not touched the
+b-pawn, whereupon I hurriedly moved the queen, thus missing the chance of 33
+bxa7!}) (33. bxa7 $1 {In view of the threat of 34 Qb7+ and queening, there are
+only two plausible defences for Black.} cxb3 (33... Qf8 34. Qb7+ Kf6 35. Bxc4
+$1 dxc4 36. Qxe4 {when White has two pawns for the piece and the black king is
+dangerously exposed}) 34. Rxc8 Bxc8 35. a8=Q Be6 36. Qb7+ Kf6 37. Qxb3 {
+, after which Black has to struggle for a draw. "If you go through my games at
+the Hastings tournament of 1962 you may well expect my greatest error to have
+occurred there. I missed a clear winning chance against the world champion,
+Botvinnik..." (Barden, p239, "Chess Treasury of the Air," 1966).}) {Brief
+tactical lapses like this and similar instances in the games with Robatsch and
+Bisguier were the only blemishes in Botvinnik’s performance at Hastings.}
+33... axb6 34. Qxb6 Qf8 {Now Black decisively regains his grip the position.}
+35. Rb1 Qc5 36. Qb7+ Rc7 37. Qb8 Kg7 38. Rb6 Bf7 39. a5 c3 40. Qd8 Qe7 41. Qxe7
+{(sealed) (Source: BCM, March 1962, p85)} ({White sealed the move} 41. Qxe7 {
+, but resigned during the adjournment, as the ending is hopeless, e.g.} Rxe7
+42. a6 Ra7 43. Rb7 c2) 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.31"]
+[Round "5"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Flohr, Salo"]
+[Result "1/2-1/2"]
+[ECO "D95"]
+[PlyCount "22"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 g6 5. Nc3 Bg7 6. Qb3 O-O 7. Bd2 Qb6 8. Qxb6
+axb6 9. cxd5 Nxd5 10. Nxd5 cxd5 11. Bd3 Nc6 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.31"]
+[Round "5"]
+[White "Penrose, Jonathan"]
+[Black "Littlewood, John Eric"]
+[Result "1/2-1/2"]
+[ECO "B73"]
+[PlyCount "91"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 Nc6 9. Qd2 Bd7 10. f4 Nxd4 11. Bxd4 b5 $16 (11... Qa5 $142 $5 {might be a
+viable alternative:} 12. Rad1 Rfc8 $14) 12. e5 dxe5 13. fxe5 Ng4 14. Bf3 $14 b4
+$16 ({In an uninspiring situation, Littlewood in typical fashion sacrifices
+the exchange.} 14... Rc8 15. Rad1 b4 16. Ne4 Bxe5 17. h3 $15) 15. Bxa8 Qxa8 ({
+If} 15... bxc3 $2 {then} 16. Bxc3 Qxa8 17. Qxd7) 16. Ne2 Bc6 (16... Qb8 17. h3
+$1 {leaving no more doubts} Nxe5 18. Bc5 $18) 17. Qg5 h5 18. e6 $16 (18. Nf4
+Bb5 19. Qxe7 Bxf1 20. Rxf1 $16) 18... Bxd4+ $2 $18 19. Nxd4 {With the decisive
+threat exf7} Bxg2 20. Rxf7 $16 (20. exf7+ Rxf7 21. Qxg6+ Rg7 22. Qe6+ Kh8 $19)
+20... Rxf7 21. exf7+ Kxf7 22. Qd2 $14 Qd5 23. Re1 $4 $19 {With this move White
+loses his initiative.} Qd6 $1 {Doomsday. The mate threat is Qxh2.} 24. Qxg2
+Qxd4+ 25. Kf1 e5 $4 $11 ({Allows the opponent back into the game.} 25... Ne3+
+$142 {Black has the better game} 26. Rxe3 Qxe3 27. Qd5+ Kf6 28. Qc6+ Qe6 29.
+Qf3+ (29. Qc7 Qf5+ 30. Kg2 Qg5+ 31. Kf3 Qd5+ 32. Ke2 Qe5+ 33. Qxe5+ Kxe5) 29...
+Qf5 30. Kg2 Qxf3+ 31. Kxf3 Ke5) 26. Qe2 e4 $14 (26... Kf6 27. a3 Qd5 28. Kg1
+Qc5+ 29. Kg2 bxa3 30. bxa3 $16) 27. h3 Nf6 28. b3 Qd6 29. Kg2 g5 $14 (29... Kg7
+30. Qf2 Qd7 31. Rf1 $16) 30. Qe3 Kg6 31. Qxa7 g4 32. Qf2 Qd5 33. Qe3 gxh3+ 34.
+Kxh3 Ng4 $2 $18 (34... Qc6 $142 $16) 35. Rg1 $4 $14 ({White loses the upper
+hand.} 35. Qb6+ Kg5 36. Rg1 $14) 35... Qf5 $18 (35... Qe5 $5 {is worth looking
+at} 36. Rg2 Kf5 $16) 36. Qb6+ Kh7 $2 $18 37. Qc7+ $16 (37. Qb7+ Kh6 38. Qa6+
+Nf6+ 39. Kh2 $14) 37... Kh6 38. Qg3 $14 (38. Qd6+ $5 Nf6+ 39. Kh2 Qf2+ 40. Kh1
+Qh4+ 41. Qh2 Qxh2+ 42. Kxh2 Ng4+ 43. Kh3 $16) 38... e3 39. Kg2 $15 (39. Rg2 $5
+{is interesting} Qf6 40. Rg1 $11) 39... Qxc2+ 40. Kh1 $17 (40. Kh3 $5 {is
+worthy of consideration} Nf2+ 41. Kh2 Ne4+ 42. Rg2 Nxg3 43. Rxc2 $11) 40...
+Qe4+ 41. Rg2 Qb1+ $11 42. Rg1 Qf5 $11 43. Qd6+ Kg5 44. Qe7+ Kh6 45. Qd6+ Kg7
+46. Qe7+ {Source: John Littlewood collection (Keith Brown)} 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1961.12.31"]
+[Round "5"]
+[White "Robatsch, Karl"]
+[Black "Wade, Robert Graham"]
+[Result "1/2-1/2"]
+[ECO "B34"]
+[PlyCount "82"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Bc4 Bg7 6. Ne2 Nf6 7. Nbc3 O-O 8.
+O-O d6 9. f3 Na5 10. Bb3 b5 11. Be3 a6 12. Qd2 Qc7 13. Bh6 Bb7 14. Bxg7 Kxg7
+15. Nf4 Rac8 16. Rf2 Nc4 17. Bxc4 Qxc4 18. Nd1 Bxe4 19. Ne3 Qc5 20. fxe4 Nxe4
+21. Qe2 Nxf2 22. Qxf2 e6 23. Rf1 Kg8 24. c3 d5 25. Nd3 Qe7 26. Ng4 f6 27. Qh4
+Kg7 28. Qh6+ Kg8 29. Qh4 Kg7 30. Nf4 h5 31. Ne3 Rh8 32. Qg3 Qf7 33. Nd3 Rhd8
+34. Nc2 e5 35. Kh1 Qe6 36. Qf2 Qe7 37. h3 Rc7 38. Re1 Qd6 39. Qd2 a5 40. a3 Qb6
+41. b4 axb4 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.02"]
+[Round "6"]
+[White "Aaron, Manuel"]
+[Black "Barden, Leonard William"]
+[Result "0-1"]
+[ECO "E80"]
+[PlyCount "86"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Qd2 e5 8. Rd1 exd4
+9. Qxd4 O-O 10. Qxd6 Nbd7 11. Nge2 Re8 12. Ng3 Qa5 13. Qd2 b5 14. b3 Ng4 15.
+Nb1 Qxd2+ 16. Bxd2 Nge5 17. Ba5 bxc4 18. Bxc4 Nxc4 19. bxc4 Ne5 20. c5 Be6 21.
+a3 Bb3 22. O-O Nc4 23. Bc7 Bxd1 24. Rxd1 Bf8 25. Rc1 Bxc5+ 26. Kf1 Bd6 27. Bxd6
+Nxd6 28. Rxc6 Nb5 29. Ne2 Rec8 30. Rb6 Rab8 31. Rxb8 Rxb8 32. Nf4 Nd4 33. Nc3
+Rb3 34. Nfd5 Nb5 35. Nxb5 axb5 36. Nc7 Rb2 37. h4 Kf8 38. Ke1 Ke7 39. Kd1 Kd7
+40. Kc1 Rb3 41. Kc2 Rxa3 42. Nxb5 Ra2+ 43. Kd3 Rxg2 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.02"]
+[Round "6"]
+[White "Botvinnik, Mikhail"]
+[Black "Penrose, Jonathan"]
+[Result "1-0"]
+[ECO "E89"]
+[PlyCount "113"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Nge2
+cxd5 9. cxd5 a6 10. g4 h5 11. h3 b5 12. Bg2 Nbd7 13. Bg5 Qa5 14. Qd2 b4 15. Nd1
+Nc5 16. O-O Qb6 17. Nf2 hxg4 18. hxg4 a5 19. Ng3 Ba6 20. Rfc1 Rac8 21. Be3 Nfd7
+22. Bf1 Bxf1 23. Kxf1 f6 24. Kg2 Qb5 25. b3 Kf7 26. Rab1 Rh8 27. Rh1 Rxh1 28.
+Kxh1 Ra8 29. Kg2 a4 30. Ne2 axb3 31. axb3 Ra1 32. Rxa1 Nxb3 33. Qa2 Nxa1 34.
+Nc1 b3 35. Qxa1 b2 36. Qb1 bxc1=Q 37. Qxb5 Qxe3 38. Qxd7+ Kg8 39. Qxd6 Bf8 40.
+Qxf6 Bc5 41. Qxg6+ Kf8 42. Qf6+ Kg8 43. Qe6+ Kf8 44. Qc8+ Kg7 45. Qb7+ Kf6 46.
+Qb2 Kg6 47. Qc2 Kg5 48. Nh3+ Kg6 49. Qf2 Qc3 50. Qe2 Be3 51. Qa6+ Kg7 52. Qb7+
+Kf8 53. g5 Bxg5 54. Nxg5 Qd2+ 55. Kh3 Qxg5 56. Qc8+ Ke7 57. Qg4 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.02"]
+[Round "6"]
+[White "Gligoric, Svetozar"]
+[Black "Flohr, Salo"]
+[Result "1-0"]
+[ECO "D22"]
+[PlyCount "70"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. Qb3 Bxf3 7. gxf3 Ra7 8.
+Be2 Nf6 9. Nd2 c5 10. dxc5 Bxc5 11. Qc2 Nbd7 12. Nb3 Bb4+ 13. Kf1 O-O 14. a3
+Bd6 15. Bd2 Ra8 16. Rd1 Rc8 17. Qb1 Qe7 18. Na5 Ne5 19. f4 Nc6 20. Nxc6 Rxc6
+21. Bf3 Rb6 22. Qc2 e5 23. Rg1 e4 24. Be2 Qe6 25. Bc3 Be7 26. Rg5 Ne8 27. Rg3
+Nf6 28. Kg2 Rc8 29. Rg5 Qb3 30. Qd2 h6 31. Ra5 Rd6 32. Qe1 Nd5 33. Be5 Rdd8 34.
+Rc1 Nf6 35. Bd4 Qe6 {time} 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.02"]
+[Round "6"]
+[White "Littlewood, John Eric"]
+[Black "Robatsch, Karl"]
+[Result "0-1"]
+[ECO "B08"]
+[PlyCount "64"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nbd7 7. e5 ({Some
+sources for this game have} 7. Re1 c5 8. e5 Ne8 {here, but the text move order
+is given in CHESS.}) 7... Ne8 8. Re1 c5 9. e6 $15 ({This turns out badly for
+White.} 9. Bf4 $142 $16) 9... fxe6 {Robatsch's central pawn mass now turns out
+to be too powerful.} 10. Ng5 $17 (10. Be3 $5 $15) 10... Nc7 $15 (10... Bxd4 11.
+Nxe6 Bxf2+ 12. Kh1 $16) 11. Be3 cxd4 12. Bxd4 e5 $14 (12... Nf6 $142 $5 $15 {
+would keep Black alive}) 13. Be3 $15 (13. Bc4+ $142 $5 {is noteworthy} Kh8 14.
+Be3 $14) 13... Nf6 14. Bc4+ $17 (14. f4 $5 exf4 15. Bxf4 $15) 14... d5 15. Bb3
+Qd6 16. Qd2 Kh8 $15 (16... e6 $5 $17) 17. f4 (17. Rad1 Bf5 $15) 17... Ng4 $11 (
+17... e4 $5 {must be considered} 18. Bd4 h6 $17) 18. Nxd5 Nxe3 19. Rxe3 $4 $19
+{there were better ways to keep up the pressure} (19. Ne4 Qd8 20. Nxc7 Qxc7 21.
+Qxe3 exf4 22. Qc1 $19) 19... exf4 20. Rxe7 {Black gets strong play along the
+open e-file} Nxd5 $1 {surprise!} 21. Rxg7 (21. Nf7+ Rxf7 22. Rxf7 Bxb2 $19)
+21... Kxg7 22. Bxd5 (22. Qxd5 Qxd5 23. Bxd5 Rf5 24. Ne6+ Bxe6 25. Bxe6 Re5 $19)
+22... Qc5+ (22... Qb6+ $142 {might be the shorter path} 23. Kh1 Qxb2 $19) 23.
+Kh1 Rf5 (23... Bg4 24. Ne4 Qc7 25. Qb4 $19) 24. Ne6+ (24. Bxb7 Rb8 25. Ne4 Qa5
+26. Bxc8 Qxd2 27. Nxd2 Rd5 $19) 24... Bxe6 25. Bxe6 Re5 26. Bg4 (26. Qd7+ Kh6
+27. Rf1 Rf8 $19) 26... Rae8 27. h3 (27. Rf1 g5 $19) 27... Qe3 28. Rd1 Qg3 29.
+Qc3 (29. Qd4 {otherwise it's curtains at once} Kh6 30. Rg1 $19) 29... Qxc3 30.
+bxc3 Re1+ $1 {a check from hell} 31. Kh2 Rxd1 32. Bxd1 Re3 {Sources: CHESS/27/
+401-2, January 1962, p39; John Littlewood collection (Keith Brown)} (32... Re3
+33. c4 Rc3 $19) 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.02"]
+[Round "6"]
+[White "Wade, Robert Graham"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[PlyCount "151"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Bd6 7. Ng3 c5 8. dxc5
+Bxc5 9. b4 Bd6 10. Bb2 Nc6 11. Be2 a5 12. bxa5 Nxa5 13. Nb5 Be7 14. cxd5 Nxd5
+15. O-O Bd7 16. Nh5 f6 17. Bd3 Rf7 18. Nd4 Nc6 19. Qb1 f5 20. e4 Nf6 21. Nxf6+
+Bxf6 22. Nf3 Bxb2 23. Qxb2 fxe4 24. Bxe4 Be8 25. Qc2 h6 26. Qc4 Qf6 27. Bc2 Ra5
+28. Rfe1 Ne5 29. Rxe5 Rxe5 30. Nxe5 Qxe5 31. Rd1 Rd7 32. Rxd7 Bxd7 33. h3 Bc6
+34. f3 Qe3+ 35. Kh2 Kf7 36. Be4 Bxe4 37. Qc7+ Kg6 38. fxe4 Qxe4 39. a4 e5 40.
+a5 Qd5 41. Qb6+ Kh7 42. a6 bxa6 43. Qxa6 e4 44. Kg3 Qg5+ 45. Kf2 Qf5+ 46. Kg3
+Qe5+ 47. Kf2 Qd4+ 48. Kg3 Qc3+ 49. Kf2 Qd2+ 50. Kg3 e3 51. Qe6 Qf2+ 52. Kh2
+Qf4+ 53. Kh1 h5 54. Qe8 g6 55. Qe7+ Kh6 56. h4 e2 57. Qxe2 Qxh4+ 58. Kg1 Qd4+
+59. Kh1 h4 60. Qe7 Qf4 61. Qa3 Kh5 62. Qc5+ g5 63. Qf2 Qc4 64. Qa7 Qf1+ 65. Kh2
+Qf4+ 66. Kh1 Qf5 67. Qa8 Qe5 68. Qf3+ g4 69. Qf7+ Kg5 70. Qg8+ Kf4 71. Qf7+ Ke3
+72. Qb3+ Kf2 73. Qc2+ Kf1 74. Qc4+ Qe2 75. Qf4+ Ke1 76. Qb4+ 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.03"]
+[Round "7"]
+[White "Barden, Leonard William"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[ECO "B92"]
+[Annotator "Barden, Leonard"]
+[PlyCount "69"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 ({One important aspect of White’s strategy in this variation is
+that the f-pawn should only be advanced once Black has developed his queen’s
+bishop. If Black plays ...Be6, then White wants to advance f4-f5 and thus gain
+a useful tempo for a possible king’s-side attack and for the , struggle for
+central squares. If Black places his bishop at b7, then White should safeguard
+his e-pawn from attack by f3. This simple point is frequently disregarded even
+in tournament practice. It seems particularly inferior for White to advance f4
+when Black still has the chance to reply ...Bb7, e.g.} 9. f4 b5 10. a3 Bb7 11.
+Bf3 Nbd7 12. g3 Rc8 13. Qe1 Nb6 14. Kh1 Nc4 15. Nd2 Qd7 {, with clear
+advantage to Black (Yanofsky-Bolbochan, Stockholm 1962).}) 9... Qc7 10. a4 ({
+A good alternative is the developing} 10. Qd2 {. White then has nothing to
+fear from the advance of the b-pawn, e.g.} b5 ({If} 10... Be6 11. f4 exf4 12.
+Rxf4 $1 Nbd7 13. Nd4 Ne5 14. Nf5 {(Geller- Polugaevsky, Moscow, 1961) gives
+White a promising attack.}) 11. Nd5 Nxd5 12. exd5 Nd7 13. Rac1 Nb6 14. c4 Nxc4
+15. Bxc4 bxc4 16. Na5 {, and White infiltrates on the white squares 
+(Geller-Rothstein, Kiev 1959).}) 10... b6 ({He should not allow his queen’s
+wing pawns to become fixed by a5, e.g.} 10... Nbd7 11. a5 $1 b5 12. axb6 Nxb6
+13. Na5 Be6 14. Qd2 Rfd8 15. Bxb6 Qxb6 16. Nd5 Nxd5 17. exd5 {, with
+considerable pressure for White due to the weakness of Black’s a6-pawn and
+white squares.}) 11. Qd2 Be6 12. f4 ({More logical than the passive} 12. Rfd1
+Rc8 13. Qe1 Qb7 14. Rd2 Nbd7 15. f3 {(see note to move 9 for the disadvantages
+of this formation),} d5 $1 16. exd5 Nxd5 17. Nxd5 Bxd5 {, with advantage to
+Black (Unzicker- Bronstein, Gothenburg, 1955).}) ({However, a still better
+plan may be} 12. Nd5 Bxd5 13. exd5 {, followed even­tually by Bd3, f4, and
+the utilisa­tion of the bishops for a king’s-side attack.}) 12... Rc8 {
+Gligoric’s plan is the same as in Unzicker-Bronstein: the preparation of an
+early ...d5.} 13. f5 Bc4 14. g4 Qb7 15. Bf3 ({This appeared a very promising
+sacrifice at the time, since if Black accepts it directly he is driven into a
+hopelessly passive situa­tion after 15 ...Bxf1 16 Rxf1, followed by Nd5, f6,
+and most likely a winning king’s-side attack for White. However, the
+Yugoslav grandmaster works out a method of taking the exchange while
+maintaining active play for the black pieces. A direct} 15. g5 {fails against}
+Nxe4 16. Nxe4 Bxe2 $1 17. Qxe2 Qxe4) 15... d5 $1 16. exd5 Bxf1 17. Rxf1 e4 $1 {
+This second pawn sacrifice is the key to Black’s defence, and a move I had
+under­estimated. Any quieter continuation per­mits White to advance g5 and
+then sink his knight on e4: while as the game goes, White’s more dangerous
+knight is exchanged off and Black has e5 available as a jumping-off square. In
+such situations where the struggle for the initiative is acute, square control
+and the activity of the pieces outweigh the formal value of pawns.} 18. Nxe4 ({
+Unfortunately for White, the more natural} 18. Be2 {(to preserve an extra pair
+of minor pieces) is unsatisfactory because of} Bb4 $1 {, when there is no good
+defence for the d-pawn.}) 18... Nxe4 19. Bxe4 Nd7 20. Bf4 {Clearly, White must
+contest the important central black squares.} Bc5+ 21. Kh1 $2 ({Now Black is
+able to regroup his pieces and take control of the important centre files.
+Better is} 21. Nxc5 Rxc5 22. Bf3 {, when White’s position is more solid in
+the game and should be tenable.}) 21... Re8 22. Bf3 Rad8 23. d6 Qc8 24. Nxc5 $2
+({Now this is a mistake, after which Black’s pieces burst into activity.
+White may still be able to hold on with Gligoric’s suggestion of} 24. Re1 {
+, since in the next few moves the combined influence of the black rooks helps
+to give him the upper hand.}) 24... Qxc5 25. b4 {Overlooking the reply, but
+otherwise Black cannot be prevented from playing ...Ne5 or ...Nf6-e4, with
+great effect.} Qc4 26. Rb1 Nf6 27. b5 axb5 28. axb5 Ne4 29. Qb4 ({White has to
+lose the d-pawn or the b-pawn, since both} 29. Qd3 {and 29 Qd1 permit a knight
+fork.}) 29... Qxc2 30. Qb3 Qxb3 $2 ({This rather hasty exchange would have
+made Black’s win difficult were it not that White had become very short of
+time. After the better} 30... Qf2 {White would remain with a weak king’s
+position as well as a material deficit.}) 31. Rxb3 Nxd6 32. Bc6 Re1+ 33. Kg2
+Ne4 34. Bc7 Rd2+ 35. Kf3 $4 {Source: BCM, March 1962, p87} ({A move of a kind
+which prompted grandmaster Bisguier to observe, very sensibly, that if one
+does this sort of thing in time trouble one’s first consideration in a game
+should be to keep on reasonable terms with the clock. After} 35. Kh3 {there is
+no clear win for Black. White resigned without waiting for 35 Rf2 mate—a
+decision prompted more by shock than any meanness towards the spectators.}) 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.03"]
+[Round "7"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Littlewood, John Eric"]
+[Result "0-1"]
+[ECO "D07"]
+[Annotator "Littlewood, John"]
+[PlyCount "46"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nc6 {Amusingly enough, Bisguier had played his 2nd move to
+prevent the Albin Counter Gambit, and he grinned when he thought I was still
+intent upon this design. However, on the spur of the moment I decided to pay a
+tribute to the two Russians in the tournament by adopting the unusual
+Tchigorin Defence.} 3. c4 Bg4 4. cxd5 ({A surprise for me. I had expected} 4.
+Qa4 {, the move Alekhine had played in two games against Colle, and I was
+planning to try out Bronstein’s idea of (after} Bxf3 5. exf3 e6 6. Nc3 {)}
+Nge7 $1 {and 7...g6!}) 4... Bxf3 5. gxf3 ({If} 5. dxc6 Bxc6 6. Nc3 e6 7. e4 Bb4
+8. f3 f5 $5 {, as played by Tchigorin against Pillsbury (St. Petersburg. 1895),
+then} 9. Bc4 $1 fxe4 10. O-O $1 {(Karelov-Aronson, Leningrad, 1958) seems a
+strong continuation for White, pointed out to me recently by the young
+Sheffield player J. E. Scholes.}) 5... Qxd5 6. e3 e5 ({I am now committed to
+giving up my other bishop for a knight, but this sets the stage for an
+interesting struggle.} 6... e6 {, on the other hand, would be safer and would
+probably lose.}) 7. Nc3 Bb4 8. Bd2 Bxc3 9. bxc3 exd4 10. cxd4 Nf6 ({A
+fascinating position. White’s two bishops and three half-open files seem at
+first sight to give him an overwhelming advantage, but matters are not so
+simple. Black controls the centre and means to increase this control in the
+next few moves, thereby restraining White’s weakened “huddle” of pawns.
+The bishops need room; it is Black’s job to see that they don’t get it. In
+my opinion, chances are even. Theory, however, gives White the preference,
+although in the only games I have seen quoted supporting this view, Black 
+(Fichtl and Dückstein) played the artificial} 10... Nge7 {, a move based on
+fear.}) 11. Rb1 ({This move is indicative of White’s overconfidence in his
+position. He would be better advised to see to the centre by} 11. Be2 O-O 12.
+O-O Rad8 13. Bc3 {, threatening 14 e4. Even then, however, Black can maintain
+the pressure by} Qe6 $1 {as} 14. e4 Nxd4 15. Bxd4 c5 {would be obviously bad
+for White.}) 11... O-O 12. Be2 Rfe8 ({Strangely enough, as I discovered later,
+this same position had occurred in a game Tarrasch-Schiffers (Nuremberg, 1896),
+where Black here played} 12... Qxa2 {and the game continued} 13. Rxb7 Rab8 14.
+Rb5 Rxb5 15. Bxb5 Rb8 $1 16. Bd3 $1 Rb2 17. Qc1 $1 g6 18. Bc4 {, with better
+endgame prospects for White. It seems more logical to com­plete development
+before “mixing it” in this way.}) 13. O-O ({If now} 13. Rxb7 {then} Nxd4 {
+is good for Black.}) 13... Rad8 {Black has now completed his development and
+is ready to gobble up White’s a-pawn, when 15 Rxb7 would lose to 13...Nxd4
+16 exd4 Rxd4, etc.} 14. a4 Rd6 15. e4 $5 {Bisguier now realises that he is
+drifting into a lost position, so he courageously takes the bull by the horns.
+At the cost of a pawn, he hopes to exploit the endgame advantage of the two
+bishops.} Qh5 $1 ({After} 15... Qxd4 16. Bf4 $1 Qxd1 17. Bxd1 Rd7 18. Rxb7 {
+I prefer White’s game. Fortunately I have better.}) 16. d5 ({After the game,
+Bisguier queried this move and suggested the line} 16. Be3 Nxd4 17. Bxd4 c5 18.
+Rxb7 cxd4 19. Bc4 {, but after} Nd7 $1 20. Qb3 Ne5 {Black stands far better,
+with mate in the offing (e.g.} 21. Rb8 $2 Nxf3+ 22. Qxf3 Rg6+ $1 {)}) 16... Nd4
+17. Rxb7 {What else? White is lost now, whatever he plays, so he sets a little
+trap.} Nxe4 $1 (17... Nxd5 $2 18. exd5 $1 Nxe2+ 19. Qxe2 Rxe2 20. Rb8+ {mates.}
+) {White could now resign, but he sportingly decides to give the spectators
+their money’s worth.} 18. Bf4 (18. fxe4 Nxe2+ 19. Kg2 Qg4+ {and mate next
+move}) (18. Rb4 Rg6+ 19. Kh1 Qh3 20. Rg1 Nxf2#) 18... Rg6+ 19. Bg3 (19. Kh1 Qh3
+20. Bg3 Rxg3 21. fxg3 Nxg3+ 22. Kg1 Ndxe2+ 23. Kf2 Qxh2+ 24. Ke1 Nc3+ {
+followed by mate.}) 19... Nc3 20. Qd3 Ncxe2+ 21. Kh1 Qh3 22. Rfb1 Rxg3 23. fxg3
+Nxg3+ {Undoubtedly this was my best game at Hastings. Source: BCM, February
+1962, p59} 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.03"]
+[Round "7"]
+[White "Flohr, Salo"]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "A48"]
+[PlyCount "116"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. d4 Nf6 3. Bg5 b6 4. c4 Bb7 5. Nc3 Bg7 6. g3 Ne4 7. Nxe4 Bxe4 8.
+Bg2 h6 9. Be3 O-O 10. Qd2 Nc6 11. Bxh6 Bxh6 12. Qxh6 Bxf3 13. Bxf3 Nxd4 14. Be4
+e5 15. e3 Nf5 16. Bxf5 gxf5 17. g4 f4 18. exf4 exf4 19. O-O-O Qe7 20. Rd5 f6
+21. Qg6+ Qg7 22. Qxg7+ Kxg7 23. Rxd7+ Rf7 24. Rd4 Re7 25. Rxf4 Re2 26. Rd1 Rh8
+27. Rd2 Re1+ 28. Kc2 Rxh2 29. c5 Kg6 30. cxb6 axb6 31. a4 Re5 32. b4 Rh1 33.
+Kb3 Rb1+ 34. Rb2 Rd1 35. Rc4 Rd3+ 36. Ka2 c5 37. bxc5 bxc5 38. Rbc2 Rd4 39.
+Rxd4 cxd4 40. Rd2 Rd5 41. Kb3 Kg5 42. Kc4 Ra5 43. Kb4 Rd5 44. Rd3 Kxg4 45. Kc4
+Ra5 46. Rxd4+ Kf3 47. Kb4 Ra8 48. Rd2 f5 49. a5 f4 50. Ra2 Kg2 51. a6 f3 52.
+Kc5 Rc8+ 53. Kb6 Rb8+ 54. Kc6 Rf8 55. a7 Rh8 56. Kb6 Rf8 57. Rc2 Rh8 58. Kb7
+Rf8 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.03"]
+[Round "7"]
+[White "Penrose, Jonathan"]
+[Black "Aaron, Manuel"]
+[Result "1-0"]
+[ECO "B83"]
+[PlyCount "73"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O a6 8. f4
+Nbd7 9. Be3 Qc7 10. g4 O-O 11. g5 Ne8 12. f5 Ne5 13. Qe1 b5 14. a3 Kh8 15. Qh4
+Qd8 16. Rad1 Nc7 17. f6 gxf6 18. gxf6 Rg8+ 19. Kh1 Bf8 20. Nf3 Nxf3 21. Bxf3 e5
+22. Bh5 Qe8 23. Rg1 Rg6 24. Rg3 Be6 25. Rdg1 Kg8 26. Bxg6 fxg6 27. Bh6 Rd8 28.
+Bxf8 Qxf8 29. Rxg6+ hxg6 30. Rxg6+ Kf7 31. Qh7+ Ke8 32. Qxc7 Bd7 33. Nd5 Rc8
+34. Qb7 Rxc2 35. Rg7 Bh3 36. Re7+ Kd8 37. Qb8+ 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.03"]
+[Round "7"]
+[White "Robatsch, Karl"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "C18"]
+[PlyCount "90"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Bd7 8. a4
+Nc6 9. Ba3 b6 10. Qd2 Nge7 11. Bd3 h6 12. O-O Na5 13. Qf4 f5 14. Qh4 Kf7 15. g4
+Nc4 16. Bc1 Rag8 17. Re1 g5 18. Qh3 f4 19. Qg2 Na5 20. h4 c4 21. Be2 Qd8 22. h5
+Qe8 23. Kh1 Bxa4 24. Bd1 Qd7 25. Ng1 Ke8 26. Nh3 Rf8 27. Qh2 Ng8 28. Bxf4 gxf4
+29. Nxf4 Ne7 30. Nxe6 Qxe6 31. Rxa4 Qf7 32. f3 Qf4 33. Qxf4 Rxf4 34. Kg2 Rhf8
+35. Kg3 Nec6 36. Be2 Nb7 37. Rb1 Nba5 38. Rb5 Ne7 39. Raxa5 bxa5 40. Rb8+ Kd7
+41. Rb7+ Kd8 42. Rxa7 Nc6 43. Rb7 a4 44. Rb1 Kc7 45. Ra1 Na7 0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Aaron, Manuel"]
+[Black "Robatsch, Karl"]
+[Result "0-1"]
+[ECO "E90"]
+[PlyCount "116"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 c5 5. d5 Nf6 6. Bd3 O-O 7. Nf3 Bg4 8. h3
+Bxf3 9. Qxf3 Nbd7 10. O-O e6 11. Bg5 Qb6 12. Rab1 exd5 13. Nxd5 Nxd5 14. exd5
+Ne5 15. Qd1 Nxd3 16. Qxd3 Rfe8 17. b3 Qa5 18. a4 Qc3 19. Rbd1 Qxd3 20. Rxd3 Bd4
+21. Be3 Bxe3 22. Rxe3 Rxe3 23. fxe3 Kg7 24. Kf2 f5 25. Kf3 Re8 26. g3 Kf6 27.
+h4 h6 28. Rh1 Ke5 29. Rh2 b6 30. Rg2 Rf8 31. Rh2 a6 32. Ra2 Rb8 33. Ra1 Re8 34.
+Rh1 Kf6 35. Ra1 Re4 36. Ra2 b5 37. axb5 axb5 38. Rc2 Ke5 39. Rc1 g5 40. hxg5
+hxg5 41. Kf2 bxc4 42. bxc4 f4 43. exf4+ gxf4 44. gxf4+ Rxf4+ 45. Kg3 Rd4 46.
+Kf3 Rd3+ 47. Kg4 Re3 48. Rc2 Re1 49. Kf3 Kd4 50. Kf2 Kd3 51. Ra2 Re8 52. Ra6
+Rf8+ 53. Kg3 Rd8 54. Ra4 Kc3 55. Kf4 Kb3 56. Ra1 Kxc4 57. Rd1 Rf8+ 58. Kg5 Re8
+0-1
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Barden, Leonard William"]
+[Black "Penrose, Jonathan"]
+[Result "1-0"]
+[ECO "B48"]
+[PlyCount "103"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. a3 Nf6 8. f4
+d6 9. Bd3 Be7 10. O-O O-O 11. Qf3 Nxd4 12. Bxd4 e5 13. Be3 exf4 14. Bxf4 Be6
+15. Rae1 Rfe8 16. e5 dxe5 17. Bxe5 Qc5+ 18. Kh1 Ng4 19. Bg3 Nf6 20. Qxb7 Nd5
+21. Ne4 Qd4 22. Bf2 Qa4 23. Ba7 Rac8 24. Qxa6 Qxa6 25. Bxa6 Rxc2 26. Bd4 Rd8
+27. Rf2 Rxf2 28. Bxf2 Nf4 29. Bc5 Bxc5 30. Nxc5 Rd2 31. Nxe6 Nxe6 32. Rb1 Kf8
+33. a4 Nc5 34. Bb5 Nb3 35. Kg1 h5 36. Re1 g6 37. Re8+ Kg7 38. Rb8 h4 39. Bc4
+Nc5 40. a5 Ne4 41. Kf1 Rd1+ 42. Ke2 Ra1 43. b4 Nd6 44. Kd3 h3 45. gxh3 Ra3+ 46.
+Kd4 f5 47. Rd8 Ne4 48. Rd7+ Kf6 49. h4 g5 50. h5 g4 51. h6 Rh3 52. a6 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Botvinnik, Mikhail"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1-0"]
+[ECO "A14"]
+[PlyCount "87"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. g3 d5 2. Nf3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 c6 7. Bb2 b5 8. d3
+Nbd7 9. Nbd2 Bb7 10. Qc2 Rc8 11. e4 Qb6 12. e5 Ne8 13. d4 c5 14. b4 cxb4 15. c5
+Qc7 16. Qd3 Bc6 17. Rfe1 g6 18. a3 bxa3 19. Qxa3 Ra8 20. Bc3 Bd8 21. Nb3 Ng7
+22. Ba5 Qb7 23. Bxd8 Rfxd8 24. Na5 Qc7 25. Re2 a6 26. Ne1 Nf5 27. Qc3 b4 28.
+Qxb4 Rdb8 29. Qc3 Rb5 30. Rea2 f6 31. Nxc6 Qxc6 32. Bf1 fxe5 33. Bxb5 Qxb5 34.
+dxe5 d4 35. Qd3 Qxc5 36. Rxa6 Rxa6 37. Qxa6 Qxe5 38. Nd3 Qf6 39. Qc8+ Nf8 40.
+Ra8 Nd6 41. Qd8 Qxd8 42. Rxd8 Nb5 43. Ne5 Kg7 44. Nc6 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Gligoric, Svetozar"]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "E54"]
+[PlyCount "83"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Bd7 9. Qe2 Bc6 10. Rd1 Qe7 11. Bd3 Rd8 12. Ne5 Bxc3 13. bxc3 Be4 14. Ba3 Bxd3
+15. Nxd3 Qc7 16. Nxc5 b6 17. Nb3 Nbd7 18. c4 Qc6 19. Rac1 Rac8 20. f3 Nf8 21.
+d5 Qa4 22. Bxf8 Kxf8 23. e4 exd5 24. cxd5 Nd7 25. Qb2 Nc5 26. Qd4 Qa3 27. Nxc5
+bxc5 28. Qc4 Rd6 29. Re1 Rb6 30. e5 Rb4 31. Qc2 g6 32. e6 fxe6 33. dxe6 Rb2 34.
+Qe4 Qxa2 35. e7+ Ke8 36. Qg4 Rc7 37. Rcd1 Re2 38. Rd8+ Kxe7 39. Qg5+ Kf7 40.
+Qf4+ Ke6 41. Rxe2+ Qxe2 42. Rd6+ 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Littlewood, John Eric"]
+[Black "Flohr, Salo"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Annotator "Flohr, Salo"]
+[PlyCount "113"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+{In the penultimate round I faced Littlewood who plays a sharp, uncompromising
+game. He always goes out for a win. I myself needed to win to catch up with
+Gligoric. Against Littlewood it is easier to win or lose than to draw. I won
+two pawns, and yet managed to draw a game characteristic of my uncertain form
+these days. I must either play more chess or give up the game altogether!} 1.
+e4 c6 2. Nf3 d5 3. Nc3 dxe4 (3... d4 4. Ne2 c5 5. Ng3 Nc6 6. Bc4 e5 7. d3 h6 $5
+{/\ g6, Bg7}) 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 (6. Bc4 {is more precise, so as
+to answer} Bd6 {with} 7. Qe2+) 6... Bd6 $14 (6... Bg4 7. Be2 $11) 7. g3 $15 {
+There is not much for White in this positional treatment of this opening. Only
+7 Bc4 or 7 Bd3 can trouble Black.} (7. Bd3 $142 $5 $14 {should be investigated
+more closely}) (7. Be3 O-O 8. Bd3 Bg4 9. h3 Bh5 10. g4 Bg6 11. Nh4 Re8 12. Nxg6
+hxg6 13. Qf3 Qa5+ 14. Kf1 Na6 15. c3 Nc7 16. h4 Qd5 17. Qxd5 Nxd5 18. Re1 Re7
+19. Bd2 Rae8 20. Rxe7 Rxe7 21. c4 Nf4 22. Bxf4 Bxf4 23. h5 Rd7 24. hxg6 Rxd4
+25. gxf7+ Kxf7 26. Ke2 Bh6 27. f3 Ke6 28. Rh5 Rd8 29. b3 Bg5 30. Rh1 Ke5 31. b4
+Kd4 32. Rd1 Kc3 33. b5 Rh8 34. Be4 Rh2+ 35. Kf1 Rxa2 36. bxc6 bxc6 37. Bxc6 Be3
+38. Rd7 a5 39. Rxg7 a4 40. Bd5 Bc5 41. Rc7 Kd4 42. Rc8 a3 43. f4 Rb2 {0-1
+Muehlberg-Kholmov,R/Dresden 1956/EXT 99 (43)}) (7. Bd3 Bg4 (7... O-O 8. O-O Bg4
+9. h3 Bh5 10. c3 Nd7 11. Re1 Re8 12. Rxe8+ Qxe8 13. Be3 Qe6 14. Qc2 Nf8 15. Nh4
+Re8 16. Nf5 Bb8 17. Bd2 Qd7 18. Re1 Rxe1+ 19. Bxe1 Qe6 20. Qb1 Be2 21. Bc2 g6
+22. Ng3 Bxg3 23. fxg3 f5 24. Bf2 Nd7 25. Qc1 Qxa2 {1-0 Chistiakov,A-Goldberg,G/
+Sochi 1952/EXT 99 (25)}) 8. c3 O-O 9. Be3 Qa5 10. Qc2 Qh5 11. O-O-O Nd7 12. h3
+Bxf3 13. gxf3 Nb6 14. c4 c5 15. d5 Nd7 16. f4 b5 17. cxb5 c4 18. Be2 Qh6 19.
+Qf5 Nb6 20. Rhg1 Rac8 21. Rg4 c3 22. Bd4 Na4 23. b4 Kh8 24. Kc2 Rce8 25. Bd3
+Rg8 26. Rdg1 Nb6 27. Kb3 Nc8 28. Qxh7+ Qxh7 29. Bxh7 {1-0 Bivshev,V-Goldenov,B/
+Moscow 1952/URS-ch (29)}) (7. Be2 O-O 8. O-O Re8 9. Be3 Bg4 10. Re1 Nd7 11. Qd3
+Qc7 12. g3 Nf8 13. Nd2 Qd7 14. d5 Bxe2 15. Rxe2 Ng6 16. dxc6 Qxc6 17. Qc4 Qd7
+18. Nf3 Qf5 19. Nd4 Qh5 20. Qd3 Ne5 21. Qf5 Qxf5 22. Nxf5 Bf8 23. b3 Rad8 24.
+Kg2 g6 25. Nh4 Ng4 26. Nf3 Bc5 27. Rae1 Nxe3+ 28. fxe3 f5 29. Kf2 Bb4 30. Rb1 {
+1/2-1/2 Keres,P-Flohr,S/AVRO 1938}) 7... O-O 8. Bg2 Re8+ 9. Be3 Qb6 10. Qc1 {
+Littlewood is no hoarder of pawns. That he thinks fit to protect the b-pawn is
+proof enough that Black could gobble it up with profit after 10 0-0.} Qa6 {
+Black inhibits 0-0} 11. c4 Bb4+ 12. Nd2 {White prepares the advance d5} Bxd2+
+$11 {I never light-heartedly part with one of my two bishops; but in doing so
+here I make a nuisance of myself. White cannot castle and on d2 his king is
+awkwardly placed, as soon becomes evident. 13 Qxd2? Qxc4 is clearly bad for
+him.} 13. Kxd2 Be6 14. Bf1 (14. b3 {looks more natural} b5 {would not be too
+troublesome in reply.}) 14... Nd7 15. Qc3 b5 16. d5 {A double-edged move which
+allows Black free use of the e5-square and an open d-file. 16 c5 instead would
+weaken White's d5-square. But there seems little wrong with 16 b3. Perhaps
+Littlewood did not like the possibility} (16. b3 bxc4 17. bxc4 Nb6) 16... Bf5 (
+16... cxd5 17. cxb5 Qb7 18. Qd4 {was not so clear.}) 17. Be2 Ne5 18. Rhc1 Rad8
+{Naturally better than winning a pawn by 18...Nxc4+ but at the cost of
+allowing the drawish bishops-on-opposite-coloured-squares.} 19. cxb5 $19 (19.
+Bc5 $5 bxc4 20. d6 $19) 19... cxb5 $17 ({The d-pawn can't run away. But I
+could have quietly taken it at once with 19...Rxd5+.} 19... Rxd5+ $5 20. Ke1
+cxb5 21. a4 $19) 20. Ke1 $19 (20. Qd4 Bd3 $17) 20... Qb7 $17 (20... Rxd5 $5 21.
+a4 Bd3 22. axb5 Qxb5 23. Bd1 $19) 21. Qb3 $19 (21. Rd1 Rxd5 22. b4 Rdd8 23.
+Rxd8 Qh1+ 24. Bf1 Rxd8 $19) 21... Rxd5 {At first sight it seems incredible
+that the game should still last any length of time from here and that White
+should survive. Such a position should be won in ten or fifteen moves.} 22. Rc7
+$1 {Littlewood's cool yet spirited play demonstrates clearly that this young
+Englishman can defend as well as attack.} Qxc7 23. Qxd5 a6 24. Rc1 $4 {
+shortens the misery for White} (24. Qb3 $142 $19) 24... Qe7 (24... Nd3+ $142 $1
+{makes sure everything is clear} 25. Qxd3 Qxc1+ 26. Bxc1 Bxd3 $19) 25. Rd1 Be6
+$2 ({My old weakness reasserts itself; my appetite for pawns. Pawns are not
+everything in chess! Already a pawn up, I should have simply concentrated on
+attacking the white king. After} 25... Bg4 $1 {it would soon have been all up
+for White. Apart from anything else, this move sets a neat trap; if White
+replies} 26. Bc5 {Black can reply with} Qxc5 $1 27. Qb3 Nf3+ 28. Kf1 Bh3# {
+That's how you ought to play chess, probing, probing all the time.}) 26. Qe4 ({
+White's queen must not concede the long white-squared diagonal to Black.} 26.
+Qd6 $5 Qb7 27. b3 Nf3+ 28. Bxf3 Qxf3 $19) 26... Bxa2 27. f4 Ng6 28. Qxe7 {
+Threatening mate: Qxe8} Nxe7 29. Kf2 Nd5 {[#] Making every allowance for
+White's two bishops you must concede that he is quite lost. The Flohr of 1935
+would never have drawn this game. But it is 1962; at 53 I get tired during the
+fifth hour of play, and things happen that I can hardly believe myself after
+the game.} 30. Ra1 $19 (30. Bd4 h6 $19) 30... Bc4 $17 (30... Rxe3 31. Rxa2 Nb4
+32. Kxe3 Nxa2 33. Bd3 $19) 31. Bxc4 bxc4 $1 {keeping the advantage} (31... Nxe3
+{looks better here - Wood}) 32. Bd4 Re6 33. f5 Rc6 34. Ra5 Nc7 ({Better the
+obvious} 34... Nb4) 35. Rc5 $19 {The only move otherwise comes 35...Nb5,
+consolidating Black's position completely.} Rxc5 36. Bxc5 Nd5 {These moves up
+to the 40th were made in time trouble and I certainly don't guarantee their
+accuracy.} 37. Kf3 c3 38. b3 c2 39. Ba3 Nc3 40. Ke3 Na2 $17 ({The last move
+before the time control: how often has it lost the game! I head for a pawn
+endgame thinking it easily won. By} 40... Nb5 {followed by ...Kf8-e8-d7 I
+could still win without undue trouble.}) 41. Kd2 c1=Q+ 42. Bxc1 Nxc1 43. Kxc1
+Kf8 {Two hours study of the position during the adjournment had convinced me
+that it could no longer be won with best play. My only hope was that
+Littlewood might be too young to play like a Lasker...! Some have dubbed him
+Littletal, on account of his style. Now he becomes Littlelasker! (We consider
+Little Wood quite suitable - editor, Baruch H Wood)} 44. Kb2 (44. Kc2 g6 45.
+Kc3 gxf5 $17) 44... Ke7 45. Ka3 Kd6 46. Kb4 g6 $1 ({This move took my opponent
+by surprise. He went to sleep on the position for half an hour and... found
+the one road to the draw. Clearly passive play such as} 46... Kc6 47. Ka5 Kb7
+48. b4 {followed by b5 would lead to a totally drawn position in which Black's
+king cannot make any headway.}) 47. Ka5 $1 (47. g4 $2 {for then Black would
+win with} gxf5) 47... Kc5 48. Kxa6 $1 ({Again the only move. Against} 48. g4 {
+Black would win by} gxf5 49. gxf5 Kd4 $1) 48... Kb4 49. Kb6 Kxb3 50. Kc5 Kc3
+51. Kd6 Kd4 52. Ke7 $1 {White still seems to be in trouble but...} Ke5 53. Kxf7
+Kxf5 54. Kg7 h5 $11 (54... g5 55. Kxh7 Kg4 56. Kg6 $11) 55. Kh6 {I had arrived
+at this position with Botvinnik in our hotel room. My opponent found it over
+the board. Bravo, Littlewood! Black is move-bound.} h4 (55... Kg4 56. Kxg6 f5
+57. h4 {is a draw just the same.}) 56. gxh4 Kg4 57. Kxg6 {Source: CHESS, Vol.
+27, no.401-2, 19 January 1962, p142} 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Aaron, Manuel"]
+[Result "1-0"]
+[ECO "E70"]
+[PlyCount "59"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Bd3 c5 7. d5 h6 8. Bf4 e5
+9. dxe6 fxe6 10. Qd2 Kh7 11. e5 Nh5 12. Nge2 dxe5 13. Be3 Nd7 14. O-O-O a6 15.
+h4 Qf6 16. Ne4 Qe7 17. g4 Nf4 18. h5 Kg8 19. hxg6 b5 20. Nxf4 exf4 21. Bxf4 Ne5
+22. Bxh6 bxc4 23. Bc2 Nxg4 24. Bxg7 Qxg7 25. Rh7 Qxg6 26. Rdh1 Ne5 27. Rh8+ Kg7
+28. Rxf8 Kxf8 29. Qd8+ Kg7 30. Qh8+ 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Flohr, Salo"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[PlyCount "24"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Ne4 8.
+Qc2 Nxd2 9. Qxd2 cxd4 10. cxd4 Nc6 11. e3 b6 12. Be2 Bb7 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Penrose, Jonathan"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[PlyCount "62"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Bd3 e6 8. Nge2
+exd5 9. exd5 Bg4 10. O-O Re8 11. Qc2 Bxe2 12. Bxe2 Nbd7 13. Bd2 a6 14. Rae1 h6
+15. a4 Nf8 16. h3 Rc8 17. Bf3 Rc7 18. Qc1 Rce7 19. Rxe7 Rxe7 20. Re1 N8d7 21.
+Rxe7 Qxe7 22. Qe1 Qxe1+ 23. Bxe1 Ne8 24. b3 Kf8 25. Bd2 Bd4+ 26. Kf1 Ng7 27. g4
+f5 28. Ne2 Bb2 29. Ng3 Nf6 30. gxf5 Nxf5 31. Nxf5 gxf5 1/2-1/2
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Robatsch, Karl"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "E86"]
+[PlyCount "83"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. d5
+cxd5 9. Nxd5 Nxd5 10. Qxd5 Nc6 11. Qd2 f5 12. Nc3 Nd4 13. Bd3 Be6 14. O-O Rc8
+15. Nd5 f4 16. Bf2 g5 17. Qb4 Rf7 18. Rac1 Bf8 19. Qc3 b6 20. Bxd4 exd4 21.
+Qxd4 Bg7 22. Qf2 Be5 23. g3 Bh3 24. Rfe1 g4 25. gxf4 Bxf4 26. Nxf4 Rxf4 27. Be2
+Qf6 28. Rc3 Rc5 29. Bf1 Rh5 30. Bxh3 Rxh3 31. Qg2 Qh4 32. Re2 g3 33. hxg3 Rxg3
+34. Qxg3+ Qxg3+ 35. Rg2 Qg6 36. Rxg6+ hxg6 37. Kf2 g5 38. Ke3 Kg7 39. Rd3 Rf6
+40. Rd5 Kg6 41. a4 Kh5 42. a5 1-0
+
+[Event "Hastings Premier 1961/62 37th"]
+[Site "Hastings, Sun Lounge"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Wade, Robert Graham"]
+[Black "Littlewood, John Eric"]
+[Result "1-0"]
+[ECO "D30"]
+[PlyCount "77"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 Nbd7 6. Nbd2 c5 7. O-O Be7 8. b3
+O-O 9. Qe2 b6 10. Bb2 Ba6 11. e4 cxd4 12. Nxd4 dxc4 13. Bxc4 Bb7 14. Ba6 Bxa6
+15. Qxa6 Qc7 16. Qe2 Bb4 17. N4f3 Qc2 18. Bxf6 Nxf6 19. Rfc1 Qb2 20. Rab1 Qa3
+21. Nc4 Qa6 22. e5 Nd5 23. Ng5 h6 24. Ne4 f5 25. exf6 Nxf6 26. a3 Be7 27. Ned6
+Bxd6 28. Qxe6+ Kh8 29. Nxd6 Qd3 30. Rd1 Qg6 31. Rbc1 Qh5 32. h3 Rad8 33. Rd4
+Rd7 34. Rcd1 Kh7 35. b4 Kh8 36. Qc4 Re7 37. Qd3 Re5 38. g4 Rg5 39. Rf4 {time}
+1-0
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.27"]
+[Round "1"]
+[White "Ek, Hans"]
+[Black "Cafferty, Bernard"]
+[Result "1/2-1/2"]
+[ECO "B77"]
+[PlyCount "62"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Nxd4 10. Bxd4 Be6 11. Qd2 Qa5 12. O-O-O Bxb3 13. cxb3 Rfc8 14. Kb1
+Rc6 15. h4 h5 16. Bxf6 Bxf6 17. Nd5 Qxd2 18. Nxf6+ exf6 19. Rxd2 Kf8 20. Rc1
+Ke7 21. Rxc6 bxc6 22. Kc2 Kd7 23. Kc3 Kc7 24. b4 Re8 25. Kd4 Rb8 26. a3 a6 27.
+Ke3 Re8 28. Kf4 Re5 29. g4 Kd7 30. Rh2 Ke6 31. Rc2 Kd7 {Source: BC scoresheet}
+1/2-1/2
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.28"]
+[Round "2"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Cafferty, Bernard"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[PlyCount "37"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Bb5+ Nbd7 6. Nc3 a6 7. Qa4 g6 8.
+Bxd7+ Qxd7 9. Qxd7+ Bxd7 10. Nf3 Bb5 11. Ne5 Rd8 12. a4 Bd7 13. d6 exd6 14.
+Nxd7 Kxd7 15. O-O Bg7 16. d3 Ng4 17. Bg5 Rc8 18. Rfe1 f6 19. Bf4 {Source: BC
+scoresheet} 1/2-1/2
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.29"]
+[Round "3"]
+[White "Cafferty, Bernard"]
+[Black "Alles, C (Dr)"]
+[Result "1-0"]
+[ECO "A38"]
+[PlyCount "89"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. Nc3 Nf6 6. O-O O-O 7. d3 d6 8. Bd2
+Bg4 9. h3 Bd7 10. Qc1 Qc8 11. Kh2 Rb8 12. Bh6 a6 13. Bxg7 Kxg7 14. Nd5 Nxd5 15.
+cxd5 Nd8 16. b4 b6 17. bxc5 bxc5 18. Rb1 f6 19. Nd2 Nf7 20. Qc3 Qc7 21. Nb3 Qa7
+22. Na5 Rfc8 23. Qc4 Rb5 24. Nc6 Bxc6 25. dxc6 Ne5 26. Qe6 Rxc6 27. Bd5 Qb8 28.
+Rxb5 axb5 29. Qxe7+ Kh6 30. f4 Rc7 31. Qxf6 Nd7 32. Qg5+ Kg7 33. f5 Nf6 34.
+fxg6 Nxd5 35. gxh7+ Kxh7 36. Qxd5 Qe8 37. e4 {("Hypermodernism - the point is
+to play not 1 e4, but do it later - Tartakower?" - Bernard Cafferty)} Qe5 38.
+Qxe5 dxe5 39. Kg2 Ra7 40. Rc1 Rxa2+ 41. Kf3 Ra3 42. Rxc5 Rxd3+ 43. Kg4 b4 44.
+Rxe5 b3 45. Rb5 {"I had a lot of draws, some short, at [this] event, inc.
+against ARB Thomas, Marovic, Peter Gibbs, so the only other games of note were
+[these three]." Source: Bernard Cafferty} 1-0
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.30"]
+[Round "4"]
+[White "Gibbs, Peter Campbell"]
+[Black "Cafferty, Bernard"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[PlyCount "21"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 b6 3. Bg5 Bb7 4. Nbd2 e6 5. e3 Be7 6. Bd3 c5 7. O-O Nc6 8. c3
+d6 9. e4 O-O 10. a3 h6 11. Bh4 {Source: BC scoresheet} 1/2-1/2
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.31"]
+[Round "5"]
+[White "Cafferty, Bernard"]
+[Black "Marovic, Drazen"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[PlyCount "61"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. g3 f5 11. Ng5 Nf6 12. Bf3 fxe4 13. Ncxe4 Nf5 14. Ne6 Bxe6 15.
+dxe6 Nd4 16. Be3 Nxf3+ 17. Qxf3 c6 18. Rfd1 Nxe4 19. Qxe4 Qe7 20. b5 Rfc8 21.
+Rab1 Bf8 22. bxc6 bxc6 23. c5 Qxe6 24. cxd6 Bxd6 25. Rb7 a5 26. Qd3 Rd8 27. Qe4
+Bf8 28. Rc1 Qd5 29. Qh4 Rd7 30. Rxd7 Qxd7 31. Qf6 {Source: BC scoresheet}
+1/2-1/2
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.02"]
+[Round "6"]
+[White "Mannke, Manfred Sr"]
+[Black "Cafferty, Bernard"]
+[Result "1-0"]
+[ECO "B02"]
+[PlyCount "81"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 Nxc3 7. dxc3 Nc6 8.
+Bf4 Bxc5 9. Qg4 g5 10. Qxg5 Qxg5 11. Bxg5 Nxe5 12. Bf6 Bxf2+ 13. Ke2 Nxc4 14.
+Bxh8 Bxg1 $6 15. Rhxg1 Nxb2 16. g4 b6 17. Rg3 Ke7 18. c4 Nxc4 19. Rh3 Ba6 $2
+20. Rxh7 Rg8 21. Kf3 Bb7+ 22. Kf4 e5+ 23. Kg3 Be4 24. Rh6 f5 25. Bf6+ Kf7 26.
+g5 f4+ 27. Kf2 Bd3 28. h4 e4 29. Bc3 Ne3 30. Rg1 Nd5 31. Bb2 c5 $2 32. h5 c4
+33. Bd4 c3 34. Rd6 Bc4 35. h6 c2 36. h7 Rxg5 37. h8=Q Rxg1 38. Rxd7+ Ke6 39.
+Qe8+ Kf5 40. Qf8+ Ke6 41. Qf7# {"Last few moves unclear due to squiggles on
+score sheet in Zeitnot. Game ended by 41 Qf7# with Wh R on [e8]? Bl K on e6. I
+have never been able to reconstruct satisfactorily. Maybe I recorded 38 Qh7+
+when 38 Rxd7+ was actually played? I should have at least drawn earlier. It
+still rankles decades later! The Pole Mannke was soon to die in a car accident
+back home and could not take up his Premier place." " (Source: Bernard
+Cafferty)} 1-0
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.02"]
+[Round "6"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Gibbs, Peter Campbell"]
+[Result "1-0"]
+[ECO "E75"]
+[Annotator "Thomas, Andrew R B"]
+[PlyCount "63"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Nf6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 e6 8. Nf3
+exd5 9. Nxd5 {Capturing with the piece gives advantages to both White and
+Black.} Re8 ({Now} 9... Qa5+ {would be answered by} 10. b4 {when the black
+queen would have to retreat again.}) 10. Nd2 Nc6 11. O-O h6 12. Nxf6+ Bxf6 13.
+Bxh6 Bxb2 14. Rb1 Bf6 15. f4 Nd4 16. Bg4 b6 17. Bxc8 Rxc8 18. Qg4 Bg7 19. Bxg7
+Kxg7 20. f5 Qf6 21. Nf3 Rc7 22. Rbd1 Rce7 23. Ng5 Rh8 {Black is running short
+of moves. He must maintain a rook on the second rank against White's fxg6.} 24.
+h4 {Now the threat is 25 e5 and if 25...dxe5 26 Ne4, or if 25...Rxe5 26 fxg6.}
+Kf8 25. fxg6 Qxg6 26. Rxd4 cxd4 27. Rxf7+ Rxf7 28. Ne6+ Qxe6 29. Qxe6 Rxh4 30.
+Qxd6+ Kg7 ({A mistake in time trouble. Probably he didn't like the look of} 
+30... Ke8 {[the text gives the mistake K-Q1]} 31. e5 {but} Rhf4 {would
+threaten an immediate draw, so against 30...Ke8 [the illegal K-Q1 is again
+given] White would eat up Black's remaining pawns beginning 31 Qb8+ Ke7 32
+Qxa7+, etc.}) 31. Qg3+ Kf6 32. Qxh4+ {"and Black resigned three moves later
+when the time control had been reached." Source: "Chess for the Love of It" by
+A. R. B. Thomas (Routledge & Kegan Paul, 1973), p54} 1-0
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.03"]
+[Round "7"]
+[White "Cafferty, Bernard"]
+[Black "Velimirovic, Dragoljub"]
+[Result "1-0"]
+[ECO "B47"]
+[PlyCount "57"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Kh1 b5 10. e5 $1 Ng8 11. Nxc6 dxc6 12. a4 Bb7 13. axb5 axb5 14. Nxb5
+Qxe5 15. Rxa8+ Bxa8 16. Nd4 Qd6 17. c3 Nf6 18. Qa4 O-O 19. Nxc6 Nd5 {(19
+minutes taken to 44)} 20. Nxe7+ Qxe7 21. c4 Nb6 22. Qb5 Qc7 23. b3 f6 24. Bf4
+Bxg2+ 25. Kxg2 Qd8 26. Qc6 Rf7 27. Ra1 h5 28. Be3 h4 29. Bxb6 {"rather feeble
+by Black. I drew with Marovic in the same event" (Source: Bernard Cafferty;
+Birmingham Daily Post - Tuesday 23 January 1962)} 1-0
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Schmidt, W (FRG)"]
+[Black "Cafferty, Bernard"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[PlyCount "81"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. h3 e5 8. d3
+Nh5 9. Rb1 f5 10. Qc2 f4 11. g4 Nf6 12. b4 h5 13. g5 Nh7 14. Ne4 h4 15. e3 Bf5
+16. b5 Ne7 17. exf4 exf4 18. Bb2 Bxb2 19. Qxb2 Bxe4 20. dxe4 Nc8 21. Qd4 Nxg5
+22. Qd5+ Nf7 23. Rfd1 Nb6 24. Qe6 Kg7 25. c5 Qc8 26. Qe7 Qd7 27. Qxh4 Nc4 28.
+cxd6 cxd6 29. Rd5 Rae8 30. Qxf4 Nfe5 31. Nxe5 Rxe5 32. Qg3 Rxd5 33. exd5 Ne5
+34. Be4 Qf7 35. Rc1 Qf4 36. Rc7+ Kh6 37. Qxf4+ Rxf4 38. f3 Nxf3+ 39. Bxf3 Rxf3
+40. Rxb7 Ra3 41. b6 {(sealed) Source: BC scoresheet} 1/2-1/2
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Marovic, Drazen"]
+[Result "0-1"]
+[ECO "E94"]
+[PlyCount "50"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Nf3 e5 7. dxe5 dxe5 8. Bg5
+Nbd7 9. Qd2 c6 10. O-O Re8 11. Rfd1 Qe7 12. Rab1 a5 13. Qc2 Nc5 14. Be3 Ng4 15.
+Bg5 f6 16. Bd2 f5 17. Bg5 Qf8 18. h3 Nxf2 19. Kxf2 fxe4 20. Nxe4 Nxe4+ 21. Qxe4
+Bf5 22. Qe3 Bxb1 23. Rxb1 e4 24. Kg1 exf3 25. Qxf3 Qc5+ {Source: Jug Sach.
+Contributed by Ulrich Tamm, 22 January 2023.} 0-1
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Cafferty, Bernard"]
+[Black "Hollis, Adrian S"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[PlyCount "62"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 g6 7. f3 Bg7 8. Bc4
+O-O 9. Qd2 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Kb1 a6 14. Bh6 b5 15.
+Nd5 Nxd5 16. exd5 a5 17. a3 a4 18. Ba2 Qb6 19. c3 Qc5 20. Rhe1 Rfe8 21. Bxg7
+Kxg7 22. Re2 Rc7 23. Rde1 Bc8 24. Ka1 Nc4 25. Bxc4 Qxc4 26. Nc2 Qxh4 27. g4 Rc5
+28. Nb4 Rc4 29. Rh2 Qg3 30. gxh5 Bf5 31. hxg6 Bxg6 {Source: BC scoresheet}
+1/2-1/2
+
+[Event "Hastings Challengers 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Gibbs, Peter Campbell"]
+[Black "Velimirovic, Dragoljub"]
+[Result "1-0"]
+[ECO "E71"]
+[PlyCount "92"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. h3 O-O 7. Bg5 e5 8. Qd2 Qa5
+9. Bd3 a6 10. Nge2 Nbd7 11. g4 Rb8 12. a4 b5 13. cxb5 Qb4 14. b3 Qxb3 15. O-O
+Qb4 16. a5 c4 17. Rfb1 Qc5 18. Be3 Qc7 19. b6 Qd8 20. Bxc4 Nc5 21. f3 Ne8 22.
+Kg2 f5 23. Bxc5 dxc5 24. d6+ Kh8 25. Rd1 fxg4 26. hxg4 Qf6 27. Ng1 Bxg4 28.
+fxg4 Nxd6 29. Bd5 Qh4 30. Qe1 Qxg4+ 31. Qg3 Qh5 32. Nf3 Rf4 33. Rh1 Rxf3 34.
+Qxf3 Qg5+ 35. Qg3 Qd2+ 36. Kh3 Qh6+ 37. Kg2 Qd2+ 38. Kh3 Qh6+ 39. Kg4 Qd2 40.
+Rad1 Qb2 41. Rb1 Qa3 42. Ra1 Qb4 43. Rhb1 Qd4 44. Rd1 Qb4 45. Ra4 Qb2 46. Ra2
+Qb4 {Source: Birmingham Daily Post - Tuesday 30 January 1962} 1-0
+
+[Event "Hastings Premier Reserves A 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.05"]
+[Round "9"]
+[White "Baretic, Dragoljub"]
+[Black "Walsh, James Joseph"]
+[Result "1/2-1/2"]
+[ECO "C29"]
+[PlyCount "30"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 Nf6 8.
+O-O Bd6 9. Nc3 Qh5 10. h3 O-O-O 11. Qa4 Bxh3 12. gxh3 Qxh3 13. d5 Nb4 14. Qxa7
+Qg4+ 15. Kh1 Qh3+ {Source: J. Walsh, From My Games, 15. Contributed by Ulrich
+Tamm, 22 January 2023.} 1/2-1/2
+
+[Event "Hastings Premier Reserves A 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.??"]
+[Round "?"]
+[White "Baretic, Dragoljub"]
+[Black "Nicolai, Werner"]
+[Result "1-0"]
+[ECO "B32"]
+[PlyCount "40"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5 8.
+Nxd5 Nxh1 9. Nxc7+ Kd8 10. Nxa8 Be7 11. Bg2 Bh4+ 12. Kf1 Bg4 13. d4 Nc6 14. Be3
+Kd7 15. d5 Ne7 16. e6+ Kc8 17. Bxa7 Rd8 18. d6 b6 19. Nxh4 Qb5+ 20. Qd3 Qxd3+ {
+Source: Jug. Sach. 1962, 50. Contributed by Ulrich Tamm, 22 January 2023.} 1-0
+
+[Event "Hastings Premier Reserves A 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.??"]
+[Round "?"]
+[White "Walsh, James Joseph"]
+[Black "Van Donk, Henk J"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[PlyCount "78"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Nf3 O-O 6. O-O Nxe4 7. Nxe4 d5 8.
+Bd3 dxe4 9. Bxe4 Nd7 10. c3 c6 11. Bf4 Nf6 12. Bc2 Qb6 13. Bb3 Bf5 14. Re1 Nd5
+15. Bg3 Bf6 16. Qd2 a5 17. Be5 Kg7 18. h3 Rad8 19. Bh2 c5 20. dxc5 Qxc5 21. g4
+Nxc3 22. Qe3 Qxe3 23. Rxe3 Nd5 24. Bxd5 Bxb2 25. Be5+ Bxe5 26. Rxe5 Rxd5 27.
+gxf5 Rxe5 28. Nxe5 gxf5 29. Rb1 Rc8 30. Rb5 b6 31. Nd7 Rc2 32. a4 f4 33. Kg2 f6
+34. Nxb6 e5 35. Rxa5 e4 36. Nd5 e3 37. Ra7+ Kf8 38. Ra8+ Kf7 39. Ra7+ Kf8 {
+Source: Irish Times, 25 January 1962, Contributed by Ulrich Tamm, 22 January
+2023.} 1/2-1/2
+
+[Event "Hastings Premier Reserves D 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.??"]
+[Round "?"]
+[White "Bedenbender, Rudolf"]
+[Black "Bielby, Paul R"]
+[Result "1-0"]
+[ECO "C02"]
+[PlyCount "65"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. dxc5 Bxc5 5. c3 Qb6 6. Qc2 Bd7 7. Bf4 Bb5 8.
+Bxb5+ Qxb5 9. Ne2 Ne7 10. Nd2 Ng6 11. Bg3 a5 12. Nf3 Nc6 13. O-O Rc8 14. Qd2
+Ba7 15. Rfe1 a4 16. h4 Qc5 17. Qg5 b5 18. Ned4 Nxd4 19. Nxd4 h6 20. Qg4 h5 21.
+Qg5 Ne7 22. a3 g6 23. Qf6 Rg8 24. Bf4 Rc7 25. Bg5 Rd7 26. Qf4 Nc6 27. b3 Rb7
+28. bxa4 bxa4 29. Rab1 Qxc3 30. Nxc6 Qxc6 31. Qf6 Bb6 32. Rec1 Qd7 33. Rxb6 {
+Source: Deutsche Schachzeitung 1962, 72. Contributed by Ulrich Tamm, 22
+January 2023.} 1-0
+
+[Event "Hastings Premier Reserves D 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.??"]
+[Round "?"]
+[White "Pervan, Tomislav"]
+[Black "Bedenbender, Rudolf"]
+[Result "0-1"]
+[ECO "C02"]
+[PlyCount "48"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd1 Qg6 9. Nc3 Nge7 10. Be3 d5 11. Nxd5 Nxd5 12. exd5 Nb4 13. Rc1 Bf5 14. Qd2
+Nxc2+ 15. Kd1 Rc8 16. f4 exf4 17. Bxf4 O-O 18. Rg1 Qb6 19. Rh1 Rfe8 20. Be2 Re4
+21. Bd3 Bg4+ 22. Be2 Rxe2 23. Rxc2 Rxd2+ 24. Kxd2 Qf2+ {Source: Schach Echo
+1962, 70. Contributed by Ulrich Tamm, 22 January 2023.} 0-1
+
+[Event "Hastings Premier Reserves D 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.??"]
+[Round "?"]
+[White "Richardson, Keith Bevan"]
+[Black "Whyte, Alfred Dempster"]
+[Result "1-0"]
+[ECO "B09"]
+[PlyCount "47"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 Bg4 6. Be3 O-O 7. h3 Bxf3 8. Qxf3
+c6 9. Bd3 Nbd7 10. e5 Ne8 11. O-O-O e6 12. h4 f5 13. h5 d5 14. g4 Nc7 15. hxg6
+hxg6 16. Rdg1 Rf7 17. gxf5 gxf5 18. Qh5 Kf8 19. Bf2 Ne8 20. Bh4 Qb6 21. Bg5
+Qxd4 22. Qh8+ Bxh8 23. Rxh8+ Kg7 24. Bf6# {Source: Hastings and St Leonards
+Observer, 13 January 1962. Contributed by Brian Denman, 22 January 2023.} 1-0
+
+[Event "Hastings Premier Reserves G 1961/62"]
+[Site "Hastings"]
+[Date "1962.01.04"]
+[Round "8"]
+[White "Freeman, Michael Joseph"]
+[Black "Paige, Roger Leslie"]
+[Result "0-1"]
+[ECO "A42"]
+[PlyCount "40"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nc3 Nc6 5. Be3 e5 6. d5 Nce7 7. Bd3 f5 8. exf5
+Nxf5 9. Bxf5 Bxf5 10. Nf3 Nf6 11. O-O O-O 12. Qc1 Ng4 13. Bg5 Qd7 14. Nd2 Bd3
+15. Re1 Nxf2 16. Nf3 e4 17. Kxf2 exf3 18. gxf3 Qh3 19. Bf4 Bd4+ 20. Be3 Qxh2# {
+Source: StarBase 4.56} 0-1
+
+[Event "Hastings Premier Reserves PM A 1961/62"]
+[Site "Hastings"]
+[Date "1961.12.??"]
+[Round "?"]
+[White "Winter, Richard Charles"]
+[Black "Susterhenn, A"]
+[Result "1-0"]
+[ECO "E00"]
+[PlyCount "27"]
+[EventDate "1961.12.27"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. a3 Be7 4. Nc3 d5 5. Bg5 Nbd7 6. e3 b6 7. Nf3 O-O 8. Qc2
+Bb7 9. Rc1 Rc8 10. Be2 dxc4 11. Bxc4 c5 12. dxc5 Nxc5 13. Rd1 Qc7 14. Bf4 {
+Source: Hastings and St Leonards Observer, 20 January 1962. Contributed by
+Brian Denman, 22 January 2023.} 1-0
+

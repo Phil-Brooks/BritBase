@@ -1,0 +1,139 @@
+﻿[Event "Simul"]
+[Site "Gerrards Cross"]
+[Date "1955.01.21"]
+[Round "?"]
+[White "Golombek, Harry"]
+[Black "Sandercock, E Barry"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[PlyCount "52"]
+[EventDate "1955.01.21"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Bg5 O-O 6. Qd2 c6 7. Nf3 Nxe4 8.
+Bxf7+ Rxf7 9. Nxe4 Bf5 10. Ng3 Qd7 11. O-O-O Qe6 12. Kb1 Qc4 13. Nxf5 Rxf5 14.
+Bxe7 Na6 15. b3 Qe6 16. Rhe1 Qd7 17. Bg5 Rf7 18. Re2 Re8 19. Rde1 Rxe2 20. Qxe2
+Nc7 21. Qe4 Nd5 22. Qe8+ Qxe8 23. Rxe8+ Rf8 24. Rxf8+ Kxf8 25. Bd2 Ke7 26. c4
+Nf6 {Source: E Barry Sandercock (Golombek scored +15, =2, -1 - BCM, March 1955,
+p97)} 1/2-1/2
+
+[Event "Simul"]
+[Site "?"]
+[Date "1963.01.12"]
+[Round "?"]
+[White "Penrose, Jonathan"]
+[Black "Sandercock, E Barry"]
+[Result "0-1"]
+[ECO "A18"]
+[PlyCount "60"]
+[EventDate "1963.01.12"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Nfd7 5. cxd5 Nxe5 6. d4 Ng6 7. dxe6 Bxe6 8.
+d5 Bf5 9. Nf3 Be7 10. Bc4 O-O 11. O-O Nd7 12. Nd4 Nb6 13. Bb3 Bd7 14. Be3 c6
+15. dxc6 bxc6 16. Qh5 c5 17. Nf5 Bxf5 18. Qxf5 Qc8 19. Qh5 Re8 20. Rad1 c4 21.
+Bc2 Bf6 22. Ne4 Be7 23. Bd4 Nd7 24. f4 Nf6 25. Nxf6+ Bxf6 26. Bxf6 gxf6 27. Rf3
+Re2 28. Bb1 Qb7 29. f5 Rxg2+ 30. Kh1 Rg5 {Source: E Barry Sandercock} 0-1
+
+[Event "Simul"]
+[Site "Gerrards Cross"]
+[Date "1965.01.16"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Sandercock, E Barry"]
+[Result "1-0"]
+[ECO "B09"]
+[PlyCount "65"]
+[EventDate "1965.01.16"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 Bg4 6. Be2 O-O 7. O-O c5 8. dxc5
+dxc5 9. Be3 Qa5 10. e5 Rd8 11. Qe1 Nd5 12. Nxd5 Qxe1 13. Nxe7+ Kh8 14. Rfxe1
+Rd7 15. Rad1 Rxe7 16. Rd8+ Bf8 17. Rxf8+ Kg7 18. Rd8 Rd7 19. Rd1 b6 20. h3 Rxd8
+21. Rxd8 Bd7 22. Ng5 Bc6 23. Bf3 Bxf3 24. Nxf3 f5 25. Ng5 h6 26. Ne6+ Kf7 27.
+Nc7 Ke7 28. Rh8 h5 29. Nxa8 Nc6 30. Nc7 Nb4 31. Rh7+ Kd8 32. e6 Nc6 33. Nd5 {
+Source: E Barry Sandercock} 1-0
+
+[Event "Simul"]
+[Site "Slough"]
+[Date "1966.02.26"]
+[Round "?"]
+[White "Milner-Barry, P Stuart"]
+[Black "Sandercock, E Barry"]
+[Result "0-1"]
+[ECO "B22"]
+[PlyCount "38"]
+[EventDate "1966.02.26"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 d5 7. cxd4 Nc6 8. Nf3
+Bg4 9. Be3 e6 10. Nc3 Be7 11. O-O Rc8 12. Rc1 O-O 13. Bc2 Nc4 14. Bb1 f5 15. b3
+Nxe3 16. fxe3 Ba3 17. Rc2 Nb4 18. Nb5 Nxc2 19. Bxc2 Be7 {Source: E Barry
+Sandercock} 0-1
+
+[Event "Simul"]
+[Site "London, Gt Eastern Hotel"]
+[Date "1986.09.26"]
+[Round "?"]
+[White "Sandercock, E Barry"]
+[Black "Davies, Nigel R"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[PlyCount "75"]
+[EventDate "1986.09.26"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. e3 g6 3. Bd3 Bg7 4. Nd2 O-O 5. f4 c5 6. c3 b6 7. Qe2 d6 8. Qf3 d5
+9. e4 cxd4 10. cxd4 Nc6 11. e5 Ne4 12. Ne2 Nb4 13. a3 Nxd3+ 14. Qxd3 a5 15.
+Nxe4 Ba6 16. Qc2 dxe4 17. Qxe4 Qd7 18. Nc3 Bb7 19. Qe2 Qxd4 20. Be3 Qd7 21. Rd1
+Qe6 22. Rd4 Rfd8 23. Rxd8+ Rxd8 24. O-O g5 25. f5 Qxe5 26. Bxb6 Qxe2 27. Nxe2
+Rd2 28. Rf2 a4 29. Nc3 Rxf2 30. Kxf2 Bc6 31. g4 Kf8 32. Ke3 Ke8 33. Bd4 Bf8 34.
+Be5 e6 35. fxe6 fxe6 36. Kd4 Kd7 37. Bf6 h6 38. Ke5 {Source: E Barry Sandercock
+} 1/2-1/2
+
+[Event "Simul"]
+[Site "Scarborough"]
+[Date "2004.08.01"]
+[Round "?"]
+[White "Sandercock, E Barry"]
+[Black "Howell, David"]
+[Result "1/2-1/2"]
+[ECO "D04"]
+[PlyCount "71"]
+[EventDate "2004.08.01"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. Be2 Nbd7 5. h3 Bxf3 6. Bxf3 e6 7. O-O Bd6 8.
+c3 O-O 9. Qe2 c5 10. dxc5 Nxc5 11. Rd1 Qc7 12. Na3 a6 13. Nc2 Rac8 14. Nd4 b5
+15. Bd2 Nce4 16. Be1 Rfd8 17. a4 bxa4 18. Rxa4 a5 19. Rda1 Ra8 20. Nb5 Qb6 21.
+c4 dxc4 22. Bxe4 Nxe4 23. Qxc4 Rdc8 24. Qe2 Rab8 25. Rxa5 Be7 26. f3 Nc5 27.
+Ra7 Bf6 28. Nd4 Bxd4 29. exd4 Nb3 30. R1a4 Nxd4 31. Qf2 Nc6 32. Qxb6 Rxb6 33.
+Ra8 Rbb8 34. Rxb8 Rxb8 35. Bc3 Kf8 36. Kf2 {Source: E Barry Sandercock} 1/2-1/2
+
+[Event "GBR-ch Weekday AM"]
+[Site "Swansea"]
+[Date "2006.08.08"]
+[Round "2"]
+[White "Littlewood, John E"]
+[Black "Sandercock, E Barry"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "189"]
+[BlackElo "131"]
+[PlyCount "60"]
+[EventDate "2006.08.07"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GBR"]
+
+1. e4 a6 2. f4 b5 3. Nf3 Bb7 4. d3 e6 5. g3 Bc5 6. Bg2 Nf6 7. Qe2 Nc6 8. Nc3
+Nd4 9. Nxd4 Bxd4 10. a4 b4 11. Nd1 c6 12. c3 bxc3 13. bxc3 Qa5 14. Bd2 Ba7 15.
+Rb1 Rb8 16. e5 Ng8 17. Nb2 Qb6 18. a5 Qb3 19. Qd1 Qxd1+ 20. Kxd1 c5 21. Kc2
+Bxg2 22. Rhg1 Bd5 23. Na4 Bb3+ 24. Rxb3 Rxb3 25. Nb6 Bxb6 26. c4 Bxa5 27. Bxa5
+Rb7 28. Bd2 Ne7 29. Be3 Rc7 30. Ra1 Nf5 {Source: E Barry Sandercock} 0-1
+
