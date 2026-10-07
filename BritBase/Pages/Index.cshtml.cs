@@ -44,4 +44,21 @@ public class IndexModel : PageModel
 
         return Partial("_GameReplayerPartial", game);
     }
+    // Filter by tournament / fixture (Hastings, Varsity, etc.)
+    public IActionResult OnGetFilterCategory(string category)
+    {
+        var filtered = _pgnService.Search(category, null, limit: 150).ToList();
+        return Partial("_GameListPartial", filtered);
+    }
+
+    // Filter by decade prefix (e.g. "193" matches all 1930s games, "192" matches 1920s)
+    public IActionResult OnGetFilterDecade(string decade)
+    {
+        var filtered = _pgnService.GetAllGames()
+            .Where(g => g.Date.StartsWith(decade, StringComparison.OrdinalIgnoreCase))
+            .Take(150)
+            .ToList();
+
+        return Partial("_GameListPartial", filtered);
+    }
 }

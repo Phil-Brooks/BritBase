@@ -1,0 +1,105 @@
+﻿@page
+@model BritBase.Pages.Decade1980Model
+@{
+    ViewData["Title"] = "Tournaments between 1980 and 1989";
+    var years = Model.Tournaments.Select(t => t.Year).Distinct().OrderBy(y => y).ToList();
+}
+
+<div class="container-fluid py-2">
+    <!-- Header banner replicating the original BritBase text -->
+    <div class="d-flex justify-content-between align-items-center border-bottom pb-2 mb-3">
+        <div>
+            <h2 class="h4 fw-bold mb-1">Tournaments between 1980 and 1989</h2>
+            <p class="text-muted small mb-0">
+                Click here to select the relevant year:
+                @foreach (var yr in years)
+                {
+                    <a href="#year-@yr" class="badge bg-light text-primary border text-decoration-none me-1">@yr</a>
+                }
+            </p>
+        </div>
+        <a href="/" class="btn btn-outline-secondary btn-sm"><i class="bi bi-arrow-left"></i> Back to Archive</a>
+    </div>
+
+    <div class="alert alert-info py-2 small mb-3">
+        <i class="bi bi-info-circle me-1"></i>
+        <strong>Note:</strong> Click on the <strong>tournament name</strong> to view and replay games, or on the <strong>number of games</strong> for a direct PGN download.
+    </div>
+
+    <!-- Active Game Replayer Panel (HTMX target) -->
+    <div id="game-viewer-panel" class="mb-4"></div>
+
+    <!-- Active Tournament Games List (HTMX target) -->
+    <div id="tournament-games-container" class="mb-4"></div>
+
+    <!-- The 1980s Tournament Tables grouped by Year -->
+    @foreach (var yr in years)
+    {
+        var yearTourneys = Model.Tournaments.Where(t => t.Year == yr).ToList();
+
+        <div class="card shadow-sm mb-4" id="year-@yr">
+            <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center py-2">
+                <h5 class="mb-0 fw-bold"><i class="bi bi-calendar3 me-2"></i>@yr</h5>
+                <span class="badge bg-secondary">@yearTourneys.Count tournaments</span>
+            </div>
+            <div class="card-body p-0 table-responsive">
+                <table class="table table-hover table-striped mb-0 align-middle">
+                    <thead class="table-light">
+                        <tr class="small text-uppercase text-secondary">
+                            <th style="width: 25%;">@yr</th>
+                            <th style="width: 25%;">Winner</th>
+                            <th style="width: 12%;">Start Date</th>
+                            <th style="width: 12%;">End Date</th>
+                            <th style="width: 13%;" class="text-center">PGN Download</th>
+                            <th style="width: 13%;">Date Posted/Updated</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var t in yearTourneys)
+                        {
+                            <tr>
+                                <!-- Tournament Name: triggers game viewer via HTMX -->
+                                <td>
+                                    <button class="btn btn-link p-0 text-start fw-semibold text-decoration-none"
+                                            hx-get="/Decade1980?handler=TournamentGames&tournamentName=@Uri.EscapeDataString(t.Name)&year=@t.Year"
+                                            hx-target="#tournament-games-container"
+                                            hx-swap="innerHTML"
+                                            title="View games for @t.Name">
+                                        @t.Name
+                                    </button>
+                                </td>
+                                <td><small class="fw-medium">@t.Winner</small></td>
+                                <td><small class="text-muted">@t.StartDate</small></td>
+                                <td><small class="text-muted">@t.EndDate</small></td>
+                                <!-- PGN Games Count & Download link -->
+                                <td class="text-center">
+                                    @if (!string.IsNullOrEmpty(t.PgnFileName))
+                                    {
+                                        <a href="/Decade1980?handler=DownloadPgn&file=@t.PgnFileName"
+                                           class="badge bg-primary text-decoration-none"
+                                           title="Download @t.PgnFileName">
+                                            @t.GamesCount <i class="bi bi-download ms-1"></i>
+                                        </a>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-secondary">@t.GamesCount</span>
+                                    }
+                                </td>
+                                <td><small class="text-muted">@t.DateUpdated</small></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+
+    <!-- Key footer replicating the original -->
+    <div class="card bg-light border-0 p-3 mt-4">
+        <small class="text-muted">
+            <strong>Key:</strong> <code>^</code> = games included with those in above file, <code>+</code> = blank/stub games included.
+            <span class="float-end"><a href="/" class="text-muted">Back to BritBase</a></span>
+        </small>
+    </div>
+</div>
