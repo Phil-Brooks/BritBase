@@ -59,8 +59,8 @@ def main():
             if len(cols) < 5:
                 continue
 
-            col_texts = [c.get_text(strip=True) for c in cols]
-            c0 = col_texts[0]
+            col_texts = [c.get_text(" ", strip=True).strip() for c in cols]
+            c0 = col_texts[0] if col_texts else ""
 
             # Check if this row is a year header (e.g. 1980, 1981, 1982...)
             year_match = re.match(r"^(198\d)", c0)

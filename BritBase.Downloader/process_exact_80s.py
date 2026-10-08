@@ -399,11 +399,16 @@ def main():
             current_year = int(line)
             continue
 
-        parts = [p.strip() for p in line.split("\t") if p.strip()]
-        if len(parts) < 3:
-            continue
+        parts = [p.strip() for p in line.split("\t")]
+        if len(parts) < 6:
+            # Some rows have blank cells that collapse to fewer fragments when a column is empty.
+            # Re-split on tab boundaries and pad the columns so the metadata stays aligned.
+            padded = re.split(r"\t+", line.strip())
+            if len(padded) < 6:
+                continue
+            parts = [p.strip() for p in padded]
 
-        name = parts[0]
+        name = parts[0] if len(parts) > 0 else ""
         winner = parts[1] if len(parts) > 1 else ""
         start_date = parts[2] if len(parts) > 2 else ""
         end_date = parts[3] if len(parts) > 3 else ""

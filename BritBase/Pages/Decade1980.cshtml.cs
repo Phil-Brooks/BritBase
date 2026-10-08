@@ -21,15 +21,50 @@ public class Decade1980Model : PageModel
 
     public void OnGet()
     {
-        var jsonPath = Path.Combine(_env.ContentRootPath, "Data", "brit80.json");
-        if (System.IO.File.Exists(jsonPath))
+        Tournaments = LoadTournaments();
+    }
+
+    private List<TournamentEntry> LoadTournaments()
+    {
+        var candidatePaths = new[]
         {
-            var json = System.IO.File.ReadAllText(jsonPath);
-            Tournaments = JsonSerializer.Deserialize<List<TournamentEntry>>(json, new JsonSerializerOptions
+            Path.Combine(_env.ContentRootPath, "Data", "brit80.json"),
+            Path.Combine(AppContext.BaseDirectory, "Data", "brit80.json"),
+            Path.Combine(_env.WebRootPath ?? _env.ContentRootPath, "Data", "brit80.json")
+        };
+
+        foreach (var jsonPath in candidatePaths.Distinct(StringComparer.OrdinalIgnoreCase))
+        {
+            if (!System.IO.File.Exists(jsonPath))
             {
-                PropertyNameCaseInsensitive = true
-            }) ?? new List<TournamentEntry>();
+                continue;
+            }
+
+            try
+            {
+                var json = System.IO.File.ReadAllText(jsonPath);
+                if (string.IsNullOrWhiteSpace(json))
+                {
+                    continue;
+                }
+
+                var parsed = JsonSerializer.Deserialize<List<TournamentEntry>>(json, new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                });
+
+                if (parsed is { Count: > 0 })
+                {
+                    return parsed;
+                }
+            }
+            catch (JsonException)
+            {
+                // Ignore malformed tournament metadata and continue to the next candidate.
+            }
         }
+
+        return new List<TournamentEntry>();
     }
 
     // HTMX: Load games for a tournament by its exact PGN file or by tournament name

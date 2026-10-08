@@ -52,11 +52,11 @@
   {
     "Year": 1980,
     "Name": "Lloyds Bank Juniors",
-    "Winner": "1980.08.20",
-    "StartDate": "1980.08.28",
-    "EndDate": "3^",
-    "GamesCount": "2021.02.28",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1980.08.20",
+    "EndDate": "1980.08.28",
+    "GamesCount": "3^",
+    "DateUpdated": "2021.02.28",
     "PgnFileName": "198008lloyds.pgn"
   },
   {
@@ -72,11 +72,11 @@
   {
     "Year": 1980,
     "Name": "GBR-ch other",
-    "Winner": "1980.08.04",
-    "StartDate": "1980.08.15",
-    "EndDate": "15^",
-    "GamesCount": "2019.03.30",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1980.08.04",
+    "EndDate": "1980.08.15",
+    "GamesCount": "15^",
+    "DateUpdated": "2019.03.30",
     "PgnFileName": "198008bcf.pgn"
   },
   {
@@ -174,9 +174,9 @@
     "Name": "Botvinnik Simul",
     "Winner": "Botvinnik 4½-3½",
     "StartDate": "1981.04.08",
-    "EndDate": "4+1",
-    "GamesCount": "2024.06.24",
-    "DateUpdated": "",
+    "EndDate": "",
+    "GamesCount": "4+1",
+    "DateUpdated": "2024.06.24",
     "PgnFileName": "198104wecu.pgn"
   },
   {
@@ -192,11 +192,11 @@
   {
     "Year": 1981,
     "Name": "West of England other",
-    "Winner": "1981.04.16",
-    "StartDate": "1981.04.19",
-    "EndDate": "6^",
-    "GamesCount": "2024.07.19",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1981.04.16",
+    "EndDate": "1981.04.19",
+    "GamesCount": "6^",
+    "DateUpdated": "2024.07.19",
     "PgnFileName": "198104wecu.pgn"
   },
   {
@@ -242,11 +242,11 @@
   {
     "Year": 1981,
     "Name": "GBR-ch other",
-    "Winner": "1981.08.03",
-    "StartDate": "1981.08.14",
-    "EndDate": "4^",
-    "GamesCount": "2022.12.20",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1981.08.03",
+    "EndDate": "1981.08.14",
+    "GamesCount": "4^",
+    "DateUpdated": "2022.12.20",
     "PgnFileName": "198108bcf.pgn"
   },
   {
@@ -342,12 +342,12 @@
   {
     "Year": 1981,
     "Name": "Hastings other",
-    "Winner": "1981.12.28",
-    "StartDate": "1982.01.07",
-    "EndDate": "6^",
-    "GamesCount": "Hastings",
-    "DateUpdated": "",
-    "PgnFileName": "198201kingshead.pgn"
+    "Winner": "",
+    "StartDate": "1981.12.28",
+    "EndDate": "1982.01.07",
+    "GamesCount": "6^",
+    "DateUpdated": "Hastings",
+    "PgnFileName": "198112brighton.pgn"
   },
   {
     "Year": 1981,
@@ -397,7 +397,7 @@
     "EndDate": "bulletin",
     "GamesCount": "5",
     "DateUpdated": "2026.04.04",
-    "PgnFileName": ""
+    "PgnFileName": "198204glc.pgn"
   },
   {
     "Year": 1982,
@@ -442,11 +442,11 @@
   {
     "Year": 1982,
     "Name": "GBR-ch other",
-    "Winner": "1982.08.02",
-    "StartDate": "1982.08.13",
-    "EndDate": "2^",
-    "GamesCount": "2021.08.19",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1982.08.02",
+    "EndDate": "1982.08.13",
+    "GamesCount": "2^",
+    "DateUpdated": "2021.08.19",
     "PgnFileName": "198208bcf.pgn"
   },
   {
@@ -542,12 +542,12 @@
   {
     "Year": 1982,
     "Name": "Hastings other",
-    "Winner": "1982.12.28",
-    "StartDate": "1983.01.12",
-    "EndDate": "0",
-    "GamesCount": "See Hastings Page",
-    "DateUpdated": "",
-    "PgnFileName": ""
+    "Winner": "",
+    "StartDate": "1982.12.28",
+    "EndDate": "1983.01.12",
+    "GamesCount": "0",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": "198212brighton.pgn"
   },
   {
     "Year": 1983,
@@ -568,16 +568,6 @@
     "GamesCount": "30",
     "DateUpdated": "2023.07.08",
     "PgnFileName": "198303mccu.pgn"
-  },
-  {
-    "Year": 1983,
-    "Name": "BBC TV Master Game",
-    "Winner": "Tony Miles",
-    "StartDate": "1983.04",
-    "EndDate": "(25)",
-    "GamesCount": "",
-    "DateUpdated": "",
-    "PgnFileName": ""
   },
   {
     "Year": 1983,
@@ -612,11 +602,11 @@
   {
     "Year": 1983,
     "Name": "GBR-ch others",
-    "Winner": "1983.08.08",
-    "StartDate": "1983.08.19",
-    "EndDate": "35^",
-    "GamesCount": "2024.09.14",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1983.08.08",
+    "EndDate": "1983.08.19",
+    "GamesCount": "35^",
+    "DateUpdated": "2024.09.14",
     "PgnFileName": "198308bcf.pgn"
   },
   {
@@ -641,36 +631,6 @@
   },
   {
     "Year": 1983,
-    "Name": "BBC TV Master Game",
-    "Winner": "Anatoly Karpov",
-    "StartDate": "1983.11",
-    "EndDate": "0",
-    "GamesCount": "",
-    "DateUpdated": "",
-    "PgnFileName": "198311lewisham.pgn"
-  },
-  {
-    "Year": 1983,
-    "Name": "London Candidates",
-    "Winner": "Kasparov, Korchnoi",
-    "StartDate": "1983.11.21",
-    "EndDate": "1983.12.16",
-    "GamesCount": "(11)",
-    "DateUpdated": "",
-    "PgnFileName": "198311lewisham.pgn"
-  },
-  {
-    "Year": 1983,
-    "Name": "London Candidates",
-    "Winner": "Smyslov, Ribli",
-    "StartDate": "1983.11.21",
-    "EndDate": "1983.12.16",
-    "GamesCount": "(11)",
-    "DateUpdated": "",
-    "PgnFileName": "198311lewisham.pgn"
-  },
-  {
-    "Year": 1983,
     "Name": "Lewisham Int'l",
     "Winner": "Jim Plaskett",
     "StartDate": "1983.11.24",
@@ -682,12 +642,12 @@
   {
     "Year": 1983,
     "Name": "Lewisham others",
-    "Winner": "1983.11.24",
-    "StartDate": "1983.12.02",
-    "EndDate": "7^",
-    "GamesCount": "2021.08.11",
-    "DateUpdated": "",
-    "PgnFileName": "198312brighton.pgn"
+    "Winner": "",
+    "StartDate": "1983.11.24",
+    "EndDate": "1983.12.02",
+    "GamesCount": "7^",
+    "DateUpdated": "2021.08.11",
+    "PgnFileName": "198311lewisham.pgn"
   },
   {
     "Year": 1983,
@@ -742,12 +702,12 @@
   {
     "Year": 1983,
     "Name": "Hastings other",
-    "Winner": "1983.12.28",
-    "StartDate": "1984.01.08",
-    "EndDate": "7^",
-    "GamesCount": "See Hastings Page",
-    "DateUpdated": "",
-    "PgnFileName": ""
+    "Winner": "",
+    "StartDate": "1983.12.28",
+    "EndDate": "1984.01.08",
+    "GamesCount": "7^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": "198312brighton.pgn"
   },
   {
     "Year": 1984,
@@ -811,16 +771,6 @@
   },
   {
     "Year": 1984,
-    "Name": "USSR-World Match",
-    "Winner": "USSR",
-    "StartDate": "1984.06.24",
-    "EndDate": "1984.06.29",
-    "GamesCount": "(40)",
-    "DateUpdated": "",
-    "PgnFileName": "198406oxford.pgn"
-  },
-  {
-    "Year": 1984,
     "Name": "Oxford International",
     "Winner": "Gert Ligterink",
     "StartDate": "1984.06.25",
@@ -842,11 +792,11 @@
   {
     "Year": 1984,
     "Name": "SCO Open Ch'ship",
-    "Winner": "1984.07.14",
-    "StartDate": "1984.07.20",
-    "EndDate": "15^",
-    "GamesCount": "2024.02.18",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1984.07.14",
+    "EndDate": "1984.07.20",
+    "GamesCount": "15^",
+    "DateUpdated": "2024.02.18",
     "PgnFileName": "198407bcf.pgn"
   },
   {
@@ -871,16 +821,6 @@
   },
   {
     "Year": 1984,
-    "Name": "Glorney Cup ENG",
-    "Winner": "England",
-    "StartDate": "1984.07.15",
-    "EndDate": "1984.07.18",
-    "GamesCount": "0",
-    "DateUpdated": "",
-    "PgnFileName": "198407bcf.pgn"
-  },
-  {
-    "Year": 1984,
     "Name": "GBR-ch Brighton",
     "Winner": "Nigel Short",
     "StartDate": "1984.07.30",
@@ -892,22 +832,12 @@
   {
     "Year": 1984,
     "Name": "GBR-ch others",
-    "Winner": "1984.07.30",
-    "StartDate": "1984.08.10",
-    "EndDate": "33^",
-    "GamesCount": "2024.07.12",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1984.07.30",
+    "EndDate": "1984.08.10",
+    "GamesCount": "33^",
+    "DateUpdated": "2024.07.12",
     "PgnFileName": "198407bcf.pgn"
-  },
-  {
-    "Year": 1984,
-    "Name": "Lloyds Bank Under-21",
-    "Winner": "Viswanathan Anand",
-    "StartDate": "1984.08.20",
-    "EndDate": "1984.08.21",
-    "GamesCount": "0",
-    "DateUpdated": "",
-    "PgnFileName": "198408lloyds.pgn"
   },
   {
     "Year": 1984,
@@ -938,16 +868,6 @@
     "GamesCount": "45",
     "DateUpdated": "2024.02.19",
     "PgnFileName": "198409londonnwym.pgn"
-  },
-  {
-    "Year": 1984,
-    "Name": "Chequers Tournament",
-    "Winner": "Gavin Crawley",
-    "StartDate": "1984.10?",
-    "EndDate": "(45)",
-    "GamesCount": "",
-    "DateUpdated": "",
-    "PgnFileName": ""
   },
   {
     "Year": 1984,
@@ -1012,22 +932,12 @@
   {
     "Year": 1984,
     "Name": "Hastings other",
-    "Winner": "1984.12.29",
-    "StartDate": "1985.01.07",
-    "EndDate": "See Hastings Page",
+    "Winner": "",
+    "StartDate": "1984.12.29",
+    "EndDate": "1985.01.07",
     "GamesCount": "",
-    "DateUpdated": "",
-    "PgnFileName": ""
-  },
-  {
-    "Year": 1985,
-    "Name": "Plymouth Under-18",
-    "Winner": "Neil McDonald",
-    "StartDate": "1985.01.02",
-    "EndDate": "1985.01.06",
-    "GamesCount": "0",
-    "DateUpdated": "",
-    "PgnFileName": ""
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": "198412brightonzonal.pgn"
   },
   {
     "Year": 1985,
@@ -1072,11 +982,11 @@
   {
     "Year": 1985,
     "Name": "West of England other",
-    "Winner": "1985.04.04",
-    "StartDate": "1985.04.08",
-    "EndDate": "8^",
-    "GamesCount": "2024.07.20",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1985.04.04",
+    "EndDate": "1985.04.08",
+    "GamesCount": "8^",
+    "DateUpdated": "2024.07.20",
     "PgnFileName": "198504chequers.pgn"
   },
   {
@@ -1091,26 +1001,6 @@
   },
   {
     "Year": 1985,
-    "Name": "Jersey Open",
-    "Winner": "Erik O M C Teichmann",
-    "StartDate": "1985.05.04",
-    "EndDate": "1985.05.10",
-    "GamesCount": "0",
-    "DateUpdated": "",
-    "PgnFileName": ""
-  },
-  {
-    "Year": 1985,
-    "Name": "Glorney Cup, NED",
-    "Winner": "1985.07.15",
-    "StartDate": "1985.07.19",
-    "EndDate": "0",
-    "GamesCount": "",
-    "DateUpdated": "",
-    "PgnFileName": "198507bcf.pgn"
-  },
-  {
-    "Year": 1985,
     "Name": "GBR-ch Edinburgh",
     "Winner": "Jonathan Speelman",
     "StartDate": "1985.07.29",
@@ -1122,11 +1012,11 @@
   {
     "Year": 1985,
     "Name": "GBR-ch others",
-    "Winner": "1985.07.29",
-    "StartDate": "1985.08.09",
-    "EndDate": "19^",
-    "GamesCount": "2024.10.19",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1985.07.29",
+    "EndDate": "1985.08.09",
+    "GamesCount": "19^",
+    "DateUpdated": "2024.10.19",
     "PgnFileName": "198507bcf.pgn"
   },
   {
@@ -1167,16 +1057,6 @@
     "EndDate": "1985.09.15",
     "GamesCount": "45",
     "DateUpdated": "2022.07.12",
-    "PgnFileName": "198509londonnwym.pgn"
-  },
-  {
-    "Year": 1985,
-    "Name": "London Cand.Res.",
-    "Winner": "Speelman, Gavrikov, vd Wiel",
-    "StartDate": "1985.09.04",
-    "EndDate": "1985.09.17",
-    "GamesCount": "(12)",
-    "DateUpdated": "",
     "PgnFileName": "198509londonnwym.pgn"
   },
   {
@@ -1232,12 +1112,12 @@
   {
     "Year": 1985,
     "Name": "Hastings other",
-    "Winner": "1985.12.28",
-    "StartDate": "1986.01.06",
-    "EndDate": "0",
-    "GamesCount": "See Hastings Page",
-    "DateUpdated": "",
-    "PgnFileName": ""
+    "Winner": "",
+    "StartDate": "1985.12.28",
+    "EndDate": "1986.01.06",
+    "GamesCount": "0",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": "198512brighton.pgn"
   },
   {
     "Year": 1986,
@@ -1291,26 +1171,6 @@
   },
   {
     "Year": 1986,
-    "Name": "Chequers Invitation",
-    "Winner": "K Arkell, N McDonald",
-    "StartDate": "1986.05.19",
-    "EndDate": "1986.05.30",
-    "GamesCount": "(45)",
-    "DateUpdated": "",
-    "PgnFileName": ""
-  },
-  {
-    "Year": 1986,
-    "Name": "Speelman-Alburt m",
-    "Winner": "1986.05",
-    "StartDate": "(8)",
-    "EndDate": "",
-    "GamesCount": "",
-    "DateUpdated": "",
-    "PgnFileName": ""
-  },
-  {
-    "Year": 1986,
     "Name": "GBR-ch Southamp'n",
     "Winner": "Speelman, etc",
     "StartDate": "1986.07.28",
@@ -1322,11 +1182,11 @@
   {
     "Year": 1986,
     "Name": "GBR-ch other",
-    "Winner": "1986.07.28",
-    "StartDate": "1986.08.08",
-    "EndDate": "1^",
-    "GamesCount": "2023.06.26",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1986.07.28",
+    "EndDate": "1986.08.08",
+    "GamesCount": "1^",
+    "DateUpdated": "2023.06.26",
     "PgnFileName": "198607bcf.pgn"
   },
   {
@@ -1612,11 +1472,11 @@
   {
     "Year": 1988,
     "Name": "GBR-ch other",
-    "Winner": "1988.08.01",
-    "StartDate": "1988.08.12",
-    "EndDate": "1^",
-    "GamesCount": "2023.04.30",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1988.08.01",
+    "EndDate": "1988.08.12",
+    "GamesCount": "1^",
+    "DateUpdated": "2023.04.30",
     "PgnFileName": "198808bcf.pgn"
   },
   {
@@ -1682,12 +1542,12 @@
   {
     "Year": 1988,
     "Name": "Hastings other",
-    "Winner": "1988.12.28",
-    "StartDate": "1989.01.06",
-    "EndDate": "9^",
-    "GamesCount": "2025.10.12",
-    "DateUpdated": "",
-    "PgnFileName": ""
+    "Winner": "",
+    "StartDate": "1988.12.28",
+    "EndDate": "1989.01.06",
+    "GamesCount": "9^",
+    "DateUpdated": "2025.10.12",
+    "PgnFileName": "198812hast.pgn"
   },
   {
     "Year": 1989,
@@ -1792,11 +1652,11 @@
   {
     "Year": 1989,
     "Name": "GBR other",
-    "Winner": "1989.07.31",
-    "StartDate": "1989.08.11",
-    "EndDate": "2+1^",
-    "GamesCount": "2026.04.25",
-    "DateUpdated": "",
+    "Winner": "",
+    "StartDate": "1989.07.31",
+    "EndDate": "1989.08.11",
+    "GamesCount": "2+1^",
+    "DateUpdated": "2026.04.25",
     "PgnFileName": "198907bcf.pgn"
   },
   {
