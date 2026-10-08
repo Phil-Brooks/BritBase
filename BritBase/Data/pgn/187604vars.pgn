@@ -1,0 +1,246 @@
+﻿[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "1.1"]
+[White "Plunkett, Horace Curzon (Hon)"]
+[Black "Keynes, John Neville"]
+[Result "1-0"]
+[ECO "C25"]
+[PlyCount "67"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[SourceTitle "Field"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Nce7 7. Nf3 Bg4 8.
+Kd3 Qf6 9. Qe2 O-O-O 10. Qe5 Bxf3 11. gxf3 g5 12. h4 Bh6 13. Qxf6 Nxf6 14. hxg5
+Bxg5 15. Ne4 Nxe4 16. fxe4 h6 17. Bd2 Kb8 18. Bh3 Ng6 19. Raf1 Rhf8 20. Bf5 b6
+21. c3 Kb7 22. Rh2 c6 23. c4 Ne7 24. Bxf4 cxd5 25. exd5 Nxf5 26. Bxg5 hxg5 27.
+Rxf5 f6 28. Rh7+ Kb8 29. Re7 Rd6 30. Re6 Rxe6 31. dxe6 g4 32. Ke3 Kc7 33. Kf4
+Kd6 34. d5 {Source: The Field, 8 April 1876, p31} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "1.2"]
+[White "Keynes, John Neville"]
+[Black "Plunkett, Horace Curzon (Hon)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6r1/p1p3r1/2p4p/4pbk1/3b1N2/1P4PP/P1P2P1K/3RNR2 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[SourceTitle "Field"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Black to play - Steinitz adjudicated this a win for White}  1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "2.2"]
+[White "Grundy snr, William"]
+[Black "Ball, Walter W Rouse"]
+[Result "1-0"]
+[ECO "B46"]
+[Annotator "Zukertort, Johannes"]
+[PlyCount "63"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[SourceTitle "Westminster Papers"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 ({Whether the move the in the text is first
+played, or} 3... Nc6 {, is of no importance.}) 4. d4 cxd4 5. Nxd4 Nc6 6. a3 {
+A "provincial" move. White tries to prevent his opponent making a bad move,
+Bb4.} Nf6 7. Be3 Be7 (7... d5 {was preferable.}) 8. Nf3 O-O 9. Bd3 Qc7 10. Bg5
+{White's 10th move is weak, but Black's reply still more so.} Ng4 11. Bxe7 Nxe7
+12. h3 Nh6 13. O-O f5 14. Qe2 fxe4 ({Playing the opponent's game.} 14... Ng6 {
+was the right rejoinder.}) 15. Nxe4 Ng6 16. Rfe1 Nf4 17. Qd1 Nxd3 18. Qxd3 b5
+19. Neg5 g6 20. Re4 Nf5 21. Rg4 Bb7 22. Rd1 Bc6 23. Nd4 h5 24. Ngxe6 {A
+brilliant and sound coup: White must have a won game, after a series of [ex]
+changes, with the odds of the exchange and three pawns.} dxe6 25. Rxg6+ Kh8 26.
+Nxe6 Qf7 27. Nxf8 Rxf8 28. Rxc6 Nh4 29. Rh6+ Kg8 30. Qg3+ Qg7 31. Qxg7+ Kxg7
+32. Rxh5 {Source: Westminster Papers, 1 May 1876} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "3.2"]
+[White "May, Thomas Hughes D"]
+[Black "Meredith, Samuel Redhead"]
+[Result "0-1"]
+[ECO "C01"]
+[Annotator "Zukertort, Johannes"]
+[PlyCount "52"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[SourceTitle "Westminster Papers"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 e6 2. e4 Nc6 3. Nf3 d5 4. Bd3 dxe4 5. Bxe4 h6 6. O-O Nf6 7. Bd3 Bd6 8. a3
+b6 9. c4 Bb7 10. b4 O-O 11. Bb2 Ne7 {The opening moves on both sides show such
+deficiency in the way to conduct a close game that it would be useless to
+point out their especial weaknesses. On the whole, this is an illustration
+that half knowledge is worse than complete ignorance.} 12. c5 bxc5 13. bxc5 ({
+Ruinous:} 13. dxc5 {would provide White with a fine array of pawns on the
+queen's side, and a superior position of pieces.}) 13... Bf4 14. g3 {Just what
+Black wanted to obtain a powerful attack.} Qd5 15. Be2 Nh5 16. gxf4 (16. Nc3
+Qc6 17. d5 {would break the adverse attack.}) 16... Nxf4 17. Nbd2 Neg6 18. Kh1
+Nh4 19. Rg1 Nxe2 20. Qxe2 Nxf3 21. Nxf3 Qxf3+ 22. Qxf3 Bxf3+ 23. Rg2 Bxg2+ {
+Played in a spirited manner, but the concluding move is poor. Could the white
+rook escape?} 24. Kxg2 Rab8 25. Bc3 Rb3 26. Bb4 c6 {Source: Westminster Papers,
+1 May 1876} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "5.1"]
+[White "Brook, Charles Lewis"]
+[Black "Reade, Reginald Colebrooke"]
+[Result "1-0"]
+[ECO "C56"]
+[Annotator "Zukertort, Johannes"]
+[PlyCount "51"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[SourceTitle "Westminster Papers"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Bg5 {The usual continuations are
+5.e5, 5.Ng5 and 5.0-0. The move chosen by White is not good.} Bb4+ ({I prefer
+the simple rejoinder,} 5... h6) 6. c3 dxc3 7. bxc3 Bd6 {This move is better
+than it looks. The bishop prevents the advance of the e-pawn, and the
+temporary confinement of his companion in arms is not of vital importance.} 8.
+O-O Ne5 ({Suicidal:} 8... h6 {was the only available resource.}) 9. Nxe5 Bxe5
+10. f4 h6 11. Bh4 {Fine chess: this retreat is much better than the capture of
+the piece. White must now gain a piece, and a superiority in position.} Bxf4
+12. Rxf4 g5 13. Qd4 gxh4 14. Rxf6 Rh7 15. Nd2 d6 16. Raf1 d5 17. Qxd5 ({
+White played the middlegame in vigorous style, but he misses the opportunity
+to finish the game, by} 17. Rxf7) 17... Qxd5 18. Bxd5 Bd7 19. Bxf7+ Ke7 20. Bg6
+Rg7 21. Rf7+ Rxf7 22. Rxf7+ Ke6 23. Nb3 b6 24. Nd4+ Kd6 25. e5+ Kxe5 26. Rxd7 {
+"and wins" Source: Westminster Papers, 1 May 1876.} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "5.2"]
+[White "Reade, Reginald Colebrooke"]
+[Black "Brook, Charles Lewis"]
+[Result "0-1"]
+[ECO "C38"]
+[PlyCount "81"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. c3 Bg4 7. Nbd2 Nd7 8. h3
+Bh5 9. Qb3 Nb6 10. h4 g4 11. Ng1 Ne7 12. Ne2 Nxc4 13. Qxc4 d5 14. Qb3 f3 15.
+gxf3 gxf3 16. Nf4 Bg4 17. Rg1 h5 18. Nxd5 Nxd5 19. Qxd5 Qxh4+ 20. Kd1 f2+ 21.
+Rxg4 Qxg4+ 22. Kc2 c6 23. Qc4 Bh6 24. Qd3 O-O-O 25. Nf1 Bxc1 26. Rxc1 Rhe8 27.
+Nd2 h4 28. Rf1 f5 29. e5 Rxe5 30. Rxf2 Red5 31. Nc4 Qe4 32. Ne3 Qxd3+ 33. Kxd3
+Rf8 34. Nxd5 cxd5 35. Ke3 Kd7 36. Rh2 Rh8 37. Kf4 Ke6 38. Kg5 Rg8+ 39. Kxh4
+Rh8+ 40. Kg3 Rxh2 41. Kxh2 {"The game was somewhat loosely conducted for
+another score moves, and White ultimately resigned." Source: Huddersfield Coll.
+Mag., April 1876, p184} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "6.1"]
+[White "Oswald, John"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "C01"]
+[Annotator "Zukertort, Johannes"]
+[PlyCount "63"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. h3 h6 8. Be3
+({I prefer} 8. Nc3) 8... Ne4 {Premature. Black ought to develop his forces on
+the queen's flank before engaging in any attack.} 9. c3 Qf6 10. Bxe4 ({Against
+the principles of the game.} 10. Nbd2 {was the right rejoinder.}) 10... dxe4
+11. Nh2 Qg6 12. Kh1 f5 13. f4 Nd7 14. Nd2 Nf6 15. Nc4 Nd5 16. Qd2 Qg3 17. Rae1
+g5 18. Nxd6 cxd6 19. fxg5 Nxe3 20. Rxe3 Qxg5 21. Qf2 Kh7 22. Rg3 Qe7 23. Qf4 ({
+If} 23. Ng4 {, Black would reply with advantage} f4) 23... Rg8 ({Why not} 23...
+Bd7 {? The move in the text loses a valuable pawn.}) 24. Rxg8 Kxg8 25. Qxh6 Be6
+26. Qg6+ Kf8 27. Qh6+ Kg8 28. a3 ({Protecting a pawn, which could not be taken
+if White played} 28. Re1 {(} Bxa2 $2 29. Re3 {). This timidity might be
+explained by the desire to maintain the numerical superiority for the
+approaching decision by the umpire.}) 28... Re8 29. Re1 Qg7 30. Qf4 d5 31. Re3
+Kf7 32. Ng4 {adjudicated win for White (Source: Westminster Papers, 1 May 1876)
+} ({A strong coup, and preferable to} 32. Rg3 {, which would be met by} Qf6 {
+. The game was, at this stage, decided by the umpire in favour of White. White
+ought to win; his position is much superior, and the passed h-pawn should
+prove irresistible.}) (32. Ng4 Ke7 33. Qc7+ Kf8 34. Qd6+ Qe7 35. Qf4 {was some
+of the analysis given in The Field, 8 April 1876}) 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West End CC"]
+[Date "1876.04.05"]
+[Round "6.2"]
+[White "Gunston, William Hewison"]
+[Black "Oswald, John"]
+[Result "1-0"]
+[ECO "C84"]
+[Annotator "Zukertort, Johannes"]
+[PlyCount "117"]
+[EventDate "1876.04.05"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 (5... Nxe4 {is better, and
+leads, in a few moves, to an even game, whilst 5...Be7 leaves Black with a
+cramped position.}) 6. Nc3 {The best reply.} d6 7. d4 ({I prefer} 7. Bxc6+ bxc6
+8. h3 O-O 9. d3 {, which leads, by a transposition of moves, to Anderssen's
+favourite variation of the Ruy Lopez.}) 7... exd4 8. Nxd4 Bd7 9. Re1 O-O (9...
+Nxd4 {was preferable.}) 10. Nxc6 Bxc6 11. Bxc6 bxc6 12. Qf3 Nd7 13. Bf4 Rb8 14.
+Rad1 Bf6 ({Vainly trying to prevent the advance of the adverse e-pawn. Why not
+} 14... Rxb2 {?}) 15. e5 dxe5 16. Bg3 {This and the preceding moves were well
+calculated. Black's pawns must now fall.} Qe7 17. Qxc6 Nb6 18. f4 Rfe8 19. fxe5
+Bg5 20. a4 Na8 21. Nd5 Qf8 22. e6 fxe6 23. Rxe6 ({White could obtain a winning
+attack by} 23. Rf1 Bf6 24. Nxf6+ gxf6 25. Be5) 23... Rxe6 24. Qxe6+ Qf7 25.
+Qxa6 Qf8 26. Rd3 {To no purpose.} Rxb2 27. Qe6+ Kh8 28. Ne3 Rb1+ 29. Nd1 Rb8
+30. Qd5 h6 31. a5 Rd8 32. Qc4 Rc8 33. Rd7 Qe8 34. Qf7 Qxf7 35. Rxf7 Bd2 36. Be5
+Re8 {A good reply: the capture of the g-pawn would cost White a piece.} 37. Bc3
+Bxc3 38. Nxc3 Kg8 39. Rf1 Re5 40. Ra1 Kf8 41. a6 Re8 42. a7 Ke7 43. Rb1 Nb6 44.
+Re1+ Kd7 45. Rxe8 Kxe8 46. Kf2 Kd7 47. Kg3 Kc8 48. Kf4 (48. Nd5 {would have
+shortened the contest.}) 48... Kb7 49. Kf5 Kxa7 50. Kg6 Nc4 51. Nd1 Kb6 52.
+Kxg7 Kc6 53. Kxh6 Kd6 54. g4 Ke6 55. g5 Kf7 56. g6+ Kg8 57. Nf2 Nd6 58. Ng4
+Nf5+ 59. Kg5 {Source: Westminster Papers, 1 May 1876} 1-0
+

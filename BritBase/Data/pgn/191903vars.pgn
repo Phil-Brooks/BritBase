@@ -1,0 +1,39 @@
+﻿[Event "Varsity Oxford-Cambridge"]
+[Site "Oxford"]
+[Date "1919.03.14"]
+[Round "1.1"]
+[White "Winter, William"]
+[Black "Tylor, Theodore Henry"]
+[Result "1-0"]
+[ECO "D61"]
+[PlyCount "59"]
+[EventDate "1919.03.14"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c5 8. Rd1
+cxd4 9. Nxd4 a6 $2 ({Better} 9... dxc4 10. Bxc4 Qa5 {PW Sergeant-FD Yates,
+corr. 1909.}) 10. cxd5 Nxd5 11. Bxe7 Nxe7 12. Bd3 Ng6 (12... Nf6 {is better -
+BHW? - CHESS, Dec 1962, p62}) 13. h4 Re8 14. Bxg6 (14. h5 Ngf8 15. h6 g6 16.
+O-O $5 Qh4 17. Nf3 $1 Qxh6 18. Ne4 $44) 14... hxg6 15. h5 gxh5 16. Rxh5 g6 17.
+Rh3 Kg7 18. Ke2 Rh8 19. Rg3 Qe8 ({If} 19... Rh6 {White intended} 20. Rh1 $1 Qh8
+(20... Rxh1 21. Nxe6+ $1) (20... Nf6 $5 {Fritz6} 21. Rxh6 Kxh6 22. Nf3 $14) 21.
+Nxe6+ fxe6 22. Rxg6+ {etc.}) (19... Nf6 $5 {Rybka 4} 20. Nxe6+ Bxe6 21. Rxd8
+Raxd8 {/\ Rh1/Rh4}) 20. Ne4 Nf6 21. Qc3 $1 e5 (21... Nxe4 22. Nxe6+ Kg8 23.
+Qg7#) 22. Nd6 Qd7 (22... Qa4 {prolongs but does not save the game - BHW} 23.
+N4f5+ Bxf5 24. Nxf5+ Kg8 25. Qxe5 Qc4+ 26. Kf3 Rh5 27. Qxf6 Qc6+ 28. Qxc6 Rxf5+
+29. Ke2 bxc6 30. b3 $16 {Rybka 4}) 23. N4f5+ Kg8 24. Nxc8 Qb5+ 25. Qd3 Qxd3+
+26. Rxd3 Rxc8 27. Ne7+ Kg7 28. Nxc8 Rxc8 29. Rh3 Ne4 30. Rh4 {Sources:
+Cheltenham Chronicle, 26 April 1919; CHESS, 15 December 1962, p62; Cambridge
+Chess by RG Eales, p12} (30. Rh4 Rc2+ 31. Kd1 Rc4 32. Ke1 Nxf2 33. Rxc4 Nxd3+
+34. Ke2 b5 35. Rc6 $16) 1-0
+

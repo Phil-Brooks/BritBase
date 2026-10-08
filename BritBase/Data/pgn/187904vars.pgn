@@ -1,0 +1,106 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1879.04.03"]
+[Round "1.1"]
+[White "Gunston, William Hewison"]
+[Black "Gattie, Walter Montague"]
+[Result "1-0"]
+[ECO "C84"]
+[PlyCount "95"]
+[EventDate "1879.04.03"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1979-06"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 a6 5. Ba4 d6 6. O-O Be7 7. Re1 Bg4 8. Be3
+O-O 9. Nbd2 b5 10. Bb3 d5 11. c3 h6 12. exd5 Nxd5 13. h3 Bh5 14. Nf1 Kh8 15.
+Ng3 Bg6 16. d4 e4 17. Ne5 Nxe5 18. dxe5 Nxe3 19. Rxe3 Bc5 20. Re2 f5 21. Qe1
+Qe7 22. e6 Rad8 23. Rd1 Rxd1 24. Qxd1 Rd8 25. Rd2 Bxf2+ 26. Kxf2 e3+ 27. Kxe3
+Qg5+ 28. Ke2 Rxd2+ 29. Qxd2 Qxg3 30. Kf1 f4 31. e7 Be8 32. Qd8 Qg6 33. Bc2 Qxc2
+34. Qxe8+ Kh7 35. Qd7 Qc1+ 36. Ke2 Qe3+ 37. Kd1 Qg1+ 38. Kc2 Qxg2+ 39. Qd2 Qc6
+40. Qd8 Qg2+ 41. Kb3 Qxh3 42. e8=Q f3 43. Qg8+ Kg6 44. Qd3+ Kh5 45. Qf7+ Kh4
+46. Qe4+ Qg4 47. Qfxf3 Qxe4 48. Qxe4+ {Sources: The Field, 5 April 1879; BCM,
+June 1979, p245} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1879.04.03"]
+[Round "1.2"]
+[White "Gattie, Walter Montague"]
+[Black "Gunston, William Hewison"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2rqr1k1/pp3pp1/1np1bn1p/3pN3/1b1P1PPB/2NB3P/PPP5/2KRQ1R1 w - - 0 15"]
+[PlyCount "1"]
+[EventDate "1879.04.03"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{The position for adjudication, with White to play.} 15. Qe2 ({Steinitz suggested continuation was} 15. Qe2 Bxc3 16. bxc3 g5 17. fxg5 Ne4 18. Bxe4 dxe4 19. Qxe4 (19. Qe3 Nc4) 19... hxg5 20. Bg3 Nc4 {or 20...Qd5 with at least an even game - The Field, 5 April 1879}) 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1879.04.03"]
+[Round "2.1"]
+[White "Kinder, Edward Herring"]
+[Black "Blythe, William Henry"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "71"]
+[EventDate "1879.04.03"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Field"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. a3 c5 5. Nc3 Nc6 6. Nf3 Be7 7. dxc5 Bxc5 8. b4
+Bd6 9. c5 Bc7 10. Bb2 O-O 11. Bd3 Ne5 12. Nb5 Nxd3+ 13. Qxd3 Nd7 14. Nxc7 Qxc7
+15. Ng5 g6 16. Qd4 e5 17. Qxd5 h6 18. Nf3 Re8 19. O-O Nf6 20. Qd6 Qxd6 21. cxd6
+Nd7 22. Rfd1 f6 23. Rac1 Kf7 24. Nd2 Nb6 25. Nc4 Nxc4 26. Rxc4 Rd8 27. Rc7+ Ke6
+28. Re7+ Kf5 29. d7 g5 30. dxc8=Q+ Raxc8 31. Rxd8 Rxd8 32. g3 Rd2 33. Bxe5 fxe5
+34. Rxb7 Ke4 35. Rxa7 Kf3 36. Rf7+ {... "the game was spun out for a dozen
+more moves, which were devoid of further interest" Source: The Field, 5 April
+1879} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1879.04.03"]
+[Round "2.2"]
+[White "Blythe, William Henry"]
+[Black "Kinder, Edward Herring"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[PlyCount "60"]
+[EventDate "1879.04.03"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+
+1. f4 d5 2. Nf3 c5 3. e3 Nc6 4. b3 Nf6 5. Bd3 Nb4 6. Bb2 e6 7. a3 Nxd3+ 8. cxd3
+Be7 9. O-O Qc7 10. Nc3 a6 11. d4 Bd7 12. Ne2 Bb5 13. Rc1 b6 14. dxc5 bxc5 15.
+a4 Bd3 16. Rc3 c4 17. Ne5 Ne4 18. Rc1 Bxe2 19. Qxe2 f6 20. Qh5+ Kd8 21. Nf7+
+Kd7 22. Nxh8 Nxd2 23. Rfd1 Nxb3 24. Rc3 Rxh8 25. Qe2 Rc8 26. e4 Qb6+ 27. Kh1
+Nd4 28. Qf2 Bc5 29. exd5 exd5 30. Rg3 Nf5 {'And time being up, the game was
+referred to the umpire, and given as drawn.' Source: 'The Chess Player's
+Chronicle' of 1st May 1879. Played at the St George's CC, London.} (30... Nf5 {
+Steinitz's adjudication analysis:} 31. Rxd5+ Ke6 32. Qd2 Nxg3+ 33. hxg3 c3 {
+(otherwise White might gain a strong attack, either by f5+ or else by Rd7} ({
+Stockfish gives Black a +1.8 advantage after} 33... Qc6) 34. Bxc3 Qb1+ 35. Qd1
+Qxd1+ 36. Rxd1 Bf2 37. Be1 {even game}) 1/2-1/2
+

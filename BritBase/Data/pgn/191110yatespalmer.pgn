@@ -1,0 +1,72 @@
+[Event "Yates-Palmer match"]
+[Site "Bradford"]
+[Date "1911.10.02"]
+[Round "1"]
+[White "Palmer, Wilfred Charles"]
+[Black "Yates, Fred Dewhirst"]
+[Result "0-1"]
+[ECO "D60"]
+[PlyCount "74"]
+[EventDate "1911.10.02"]
+[EventType "match"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Bd3 O-O 7. Nf3 c5 8. O-O
+b6 9. cxd5 exd5 10. Bf5 Bb7 11. Qd3 Ne4 12. Bxe7 Qxe7 13. Bxd7 Qxd7 14. dxc5
+Nxc5 15. Qd4 Rfd8 16. Rad1 Qf5 17. Qe5 Qxe5 18. Nxe5 f6 19. Nd3 Nxd3 20. Rxd3
+Ba6 21. Rd4 Bxf1 22. Kxf1 Rac8 23. Nxd5 Kf7 24. Rd2 Rc5 25. e4 f5 26. f3 Rc4
+27. b3 Rc5 28. Ke2 fxe4 29. fxe4 Rdc8 30. Kd3 Ke6 31. Rf2 Rc1 32. Re2 Ke5 33.
+Ne3 b5 34. g3 R8c3+ 35. Kd2 g6 36. Ng4+ Kd4 37. Ne3 Rh1 {Source: Dewsbury
+Reporter, 7 Nov 1911, p11; Falkirk Herald - Wednesday 04 October 1911 (no
+games but it has the info that the match was due to start on Monday 2 Oct 1911
+and that the match was due to last five games. In the event only three were
+needed to establish a result. Venue: Bradford Chess Club, Central Cafe,
+Bradford); Falkirk Herald - Wednesday 11 Oct 1911 (detailed match report,
+quotations)} 0-1
+
+[Event "Yates-Palmer match"]
+[Site "Bradford"]
+[Date "1911.10.03"]
+[Round "2"]
+[White "Yates, Fred Dewhirst"]
+[Black "Palmer, Wilfred Charles"]
+[Result "1-0"]
+[ECO "B72"]
+[PlyCount "71"]
+[EventDate "1911.10.02"]
+[EventType "match"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8. h3
+O-O 9. Qd2 Bd7 10. g4 Nxd4 11. Bxd4 e5 12. Be3 Bc6 13. Bf3 Qa5 14. h4 Rfd8 15.
+O-O-O b5 16. Kb1 b4 17. Nd5 Nxd5 18. exd5 Ba4 19. Be4 Rac8 20. h5 Rc4 21. f3
+Rdc8 22. Rc1 Rc3 23. hxg6 fxg6 24. Bg5 Rb8 25. Qh2 h5 26. gxh5 Ra3 27. hxg6
+Rxa2 28. Qh7+ Kf8 29. Be7+ Kxe7 30. Qxg7+ Kd8 31. Rh8+ Be8 32. Rxe8+ Kxe8 33.
+Qg8+ Ke7 34. Qf7+ Kd8 35. Qf8+ Kd7 36. Bf5+ {Source: Dewsbury Reporter, 14 Oct
+1911, p12; Yorkshire Post and Leeds Intelligencer - Friday 6 Oct 1911;
+chessgames.com; Starbase 4.56} 1-0
+
+[Event "Yates-Palmer match"]
+[Site "Bradford"]
+[Date "1911.10.04"]
+[Round "3"]
+[White "Palmer, Wilfred Charles"]
+[Black "Yates, Fred Dewhirst"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "52"]
+[EventDate "1911.10.02"]
+[EventType "match"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Bd3 b6 7. Bxf6 Bxf6 8.
+cxd5 Bb7 9. Nf3 exd5 10. h4 g6 11. h5 c5 12. hxg6 hxg6 13. Qc2 Qe8 14. O-O-O c4
+15. Be2 b5 16. e4 dxe4 17. Ne5 a6 18. Nxe4 Bd5 19. f4 Nc6 20. Nd6 Qe6 21. Nxg6
+Qe3+ 22. Kb1 Nb4 23. Qf5 c3 24. Bd3 Bxa2+ 25. Ka1 cxb2+ 26. Kxb2 Qxd4+ {Source:
+Dewsbury Reporter, 14 Oct 1911, p12; Yorkshire Post and Leeds Intelligencer,
+Friday 6 October 1911; Falkirk Herald, 11 Oct 1911  (F.D.Yates beat Rev.W.C.
+Palmer +3,-0,=0)} 0-1
+

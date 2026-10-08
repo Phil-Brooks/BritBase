@@ -1,0 +1,3099 @@
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Tattersall, Creassey"]
+[Result "0-1"]
+[ECO "C01"]
+[PlyCount "146"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. Bg5 Bg4 8.
+Nbd2 Nbd7 9. c4 c6 10. Qc2 Qc7 11. Bf5 dxc4 12. h3 Bxf5 13. Qxf5 g6 14. Qc2 b5
+15. b3 cxb3 16. Nxb3 Nd5 17. Rac1 Nb4 18. Qd2 Nb6 19. Nc5 N4d5 20. Nd3 Nc4 21.
+Qd1 Rfe8 22. Nd2 f6 23. Bh6 Nxd2 24. Qxd2 Re6 25. Nc5 Re7 26. Qc2 a5 27. Nd3
+Rc8 28. Rfe1 Rxe1+ 29. Rxe1 Kf7 30. Bd2 a4 31. Nc5 Bxc5 32. Qxc5 Rd8 33. Rc1
+Ne7 34. Bb4 Rd5 35. Qc3 Qd7 36. Bc5 Nf5 37. Rd1 h5 38. a3 Nd6 39. Re1 Nf5 40.
+Re4 g5 41. Qf3 Kg6 42. Qc3 Nd6 43. Re2 f5 44. f3 Kf6 45. Qe1 f4 46. h4 g4 47.
+Re5 Nf5 48. Qe4 gxf3 49. Qxf4 Rxe5 50. Qxe5+ Kf7 51. Qh8 Kg6 52. Qe5 fxg2 53.
+Qf4 Qd8 54. Qe4 Qd7 55. Qf4 Qd8 56. Qe4 Qxh4 57. Qxc6+ Kg5 58. Qxg2+ Qg4 59.
+Qxg4+ hxg4 60. Kf2 Kf4 61. d5 Ke5 62. d6 Nxd6 63. Ke3 Nf5+ 64. Kd3 Kd5 65. Ba7
+g3 66. Ke2 Kc4 67. Kf3 Nd4+ 68. Kxg3 Nc2 69. Kf2 Nxa3 70. Ke2 Kc3 71. Kd1 b4
+72. Bf2 Nc2 73. Bc5 a3 {source: BCM, 9/1904, p. 349 (up to move 62; notes by
+Tattersall); American Chess Bulletin, 9/1904, p.80} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Brown, Frederick"]
+[Black "Loman, Rudolf Johannes"]
+[Result "0-1"]
+[ECO "C67"]
+[PlyCount "130"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 h6 10. Ne4 Be6 11. Bf4 Be7 12. Rad1+ Kc8 13. a3 b6 14. Nd4
+Nxd4 15. Rxd4 Kb7 16. Rfd1 c5 17. R4d2 Kc6 18. Kf1 Rhd8 19. f3 b5 20. Be3 Rxd2
+21. Rxd2 a5 22. f4 c4 23. Rf2 g6 24. Ng3 c3 25. bxc3 Bxa3 26. f5 Bc4+ 27. Ke1
+g5 28. Ne2 Bc5 29. Kd2 Kd5 30. Bxc5 Kxc5 31. Nd4 a4 32. Kc1 b4 33. Ne2 Rd8 34.
+e6 f6 35. cxb4+ Kxb4 36. c3+ Kc5 37. Nd4 a3 38. Rd2 a2 39. Nc2 Rb8 40. Rd1 Bb3
+41. e7 a1=Q+ 42. Nxa1 Bxd1 43. Kxd1 Kc4 44. Nc2 Re8 45. Ne3+ Kxc3 46. Nd5+ Kd4
+47. Nxf6 Rxe7 48. Ng8 Rh7 49. g4 Ke5 50. Kc2 Rh8 51. Ne7 Re8 52. Ng6+ Kf6 53.
+Kd3 Rg8 54. Kd4 Rxg6 55. fxg6 Kxg6 56. Ke5 h5 57. h3 h4 58. Ke6 c5 59. Ke5 c4
+60. Kd4 Kf6 61. Kxc4 Ke5 62. Kd3 Kf4 63. Kd4 Kg3 64. Ke4 Kxh3 65. Kf3 Kh2 {
+source: American Chess Bulletin, 8/1904, p. 63} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "1-0"]
+[ECO "C67"]
+[PlyCount "109"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 f5 7. dxe5 O-O 8.
+Nbd2 d5 9. exd6 Nxd6 10. Bxc6 bxc6 11. Ne5 Qe8 12. Qf3 Bb7 13. Re1 c5 14. Qc3
+Qb5 15. Qb3+ Kh8 16. c4 Qe8 17. Ndf3 Rb8 18. Qd1 Rd8 19. Qb3 Rb8 20. Qe3 Ne4
+21. Nd3 Bd6 22. b3 Rf6 23. Bb2 Re6 24. Nf4 Re7 25. Nh3 Qh5 26. Nf4 Qf7 27. Nd3
+Rbe8 28. h3 Nc3 $2 29. Nde5 Bxe5 30. Nxe5 Rxe5 31. Qxc3 Qg6 32. g3 Qc6 33. f3
+Rxe1+ 34. Rxe1 Rxe1+ 35. Qxe1 h6 36. Qe5 Qd7 37. Kf2 Qd2+ 38. Qe2 Qxe2+ 39.
+Kxe2 Kg8 40. Be5 c6 41. Bd6 Kf7 42. Bxc5 a6 43. f4 h5 44. Ke3 Ke6 45. Kd4 g6
+46. h4 Bc8 47. Bf8 Bd7 48. Kc5 Be8 49. Kb6 Kd7 50. Kxa6 Kc7 51. Bc5 Bd7 52. Bd4
+Kd6 53. Kb6 Bc8 54. Be5+ Kd7 55. a4 {source: London Evening Standard, 26 JUL
+1904, p. 6; American Chess Bulletin, 8/1904, p. 63} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Gunston, William Hewison"]
+[Black "Curnock, Arthur John"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[PlyCount "65"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8. Rd1
+Qc7 9. Bg5 a6 10. a4 exd4 11. Nxd4 Ne5 12. Bb3 c5 13. Bxf6 Bxf6 14. Nd5 Qd8 15.
+Nf5 Bxf5 16. exf5 Re8 17. c3 Rc8 18. Qh5 g6 19. Qh3 c4 20. Bc2 Rc5 21. f4 Nd3
+22. fxg6 hxg6 23. Bxd3 Rxd5 24. Bxc4 Qb6+ 25. Kh1 Rxd1+ 26. Rxd1 Qxb2 27. Qd3
+Kg7 28. h3 Qxc3 29. Qxc3 Bxc3 30. Rxd6 Re1+ 31. Kh2 Re4 32. Bd5 Rxa4 33. Bxb7 {
+source: American Chess Bulletin, 8/1904, p. 63} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Mason, James"]
+[Black "Napier, William Ewart"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "44"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Mason lost a deal of time in the opening, so that he had 18 moves to make in
+one minute. He naturally lost by exceeding the time limit.} 1. e4 e5 2. Nf3 Nf6
+3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. Re1 Bg4 9. c3 f5 10.
+Nbd2 O-O 11. Nf1 Bh4 12. g3 Be7 13. Ne3 Bh5 14. Ng2 Bd6 15. Bf4 g5 16. Bxd6
+Qxd6 17. Be2 f4 18. gxf4 gxf4 19. Nfh4 Bxe2 20. Qxe2 Kh8 21. f3 Ng5 22. Qc2 Qf6
+{0-1 time source: London Evening Standard, 26 JUL 1904, p. 6; American Chess
+Bulletin, 8/1904, p. 64} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Mortimer, James"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C53"]
+[PlyCount "92"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Qe7 6. d4 Bb6 7. a4 a6 8. a5 Ba7
+9. b4 Nf6 10. b5 axb5 11. Bxb5 O-O 12. Bxc6 bxc6 13. Bg5 h6 14. Bh4 g5 15. Nxg5
+hxg5 16. Bxg5 Qe6 17. Qf3 Nh7 18. Be3 Kh8 19. Nd2 Rg8 20. Kh1 Qg6 21. Rg1 Bg4
+22. Qg3 Qh5 23. f3 Be6 24. Qf2 f6 25. g4 Qf7 26. Qh4 Rab8 27. Rg3 Rb2 28. Rh3
+Qg6 29. a6 Rxd2 30. Bxd2 exd4 31. cxd4 Bxd4 32. Ra4 c5 33. a7 Ra8 34. Qe1 Qe8
+35. Ra5 Kg8 36. Qh4 Qg6 37. Rb5 Rxa7 38. Rb8+ Kg7 39. Re8 Ra1+ 40. Be1 Rxe1+
+41. Qxe1 Qxe8 42. Qa5 Qb8 43. Qe1 Qb2 44. Rg3 Bf2 45. Rg2 Bxe1 46. Rxb2 c4 {
+source: American Chess Bulletin, 8/1904, p. 63} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Mueller, Oscar Conrad"]
+[Black "Lee, Francis Joseph"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[PlyCount "75"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. cxd5 exd5 8.
+Nd2 Bb4 9. Qb3 O-O 10. a3 Bd6 11. Be2 Re8 12. O-O Qc7 13. h3 h6 14. Bxf6 Nxf6
+15. Rac1 Qe7 16. Bd3 Be6 17. Qd1 Qd7 18. Qf3 Bc7 19. Rfe1 Qd6 20. Nf1 Re7 21.
+Ng3 Rae8 22. Bf5 Qd7 23. Bxe6 fxe6 24. Nf1 Rf7 25. Qd1 Ref8 26. f4 Nh7 27. Na4
+Bd6 28. Nc5 Bxc5 29. Rxc5 Nf6 30. Nh2 Qe7 31. Nf3 Nd7 32. Rc2 Qd6 33. Rf1 b6
+34. b4 Rc8 35. Ne5 Nxe5 36. fxe5 Rxf1+ 37. Qxf1 Qe7 38. Qc1 {source: American
+Chess Bulletin, 8/1904, p. 63} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.25"]
+[Round "1"]
+[White "Teichmann, Richard"]
+[Black "Van Vliet, Louis"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[PlyCount "34"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 Bb4 8. Bxf6
+Nxf6 9. Qc1 Ne4 10. Ndxe4 dxe4 11. a3 Bxc3+ 12. Qxc3 Qxc3+ 13. bxc3 Ke7 14. g3
+f5 15. Bg2 b6 16. f3 exf3 17. Bxf3 Ba6 {source: Leeds Mercury, 30 JUL 1890, p.
+21; American Chess Bulletin, 8/1904, p. 64} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Curnock, Arthur John"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. Mortimer, playing a queen's opening against Curnock,
+sacrificed material, as usual, to break through. Afterwards he simplified
+matters by losing his queen, and resigned. London Daily News, 27 JUL 1904, p.
+11  Mortimer gave up a piece for three passed Pawns, and would have certainly
+won the game but for an oversight. London Evening Standard, 27 JUL 1904, p. 7 
+Mortimer declined the Queen's Gambit offered by Curnock, and after obtaining a
+good position lost to a miscaculation. London Morning Post, 27 JUL 1904, p. 6} 
+1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Lee, Francis Joseph"]
+[Black "Mason, James"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[PlyCount "84"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Be7 5. Nc3 c6 6. e3 Nbd7 7. Bd3 dxc4 8.
+Bxc4 Nd5 9. Bxe7 Qxe7 10. Bb3 Nxc3 11. bxc3 e5 12. O-O O-O 13. Re1 e4 14. Nd2
+Nf6 15. h3 Bf5 16. c4 Rfd8 17. c5 Be6 18. Rc1 Bd5 19. Bc4 Qd7 20. Qc2 Re8 21.
+Rb1 Rab8 22. Rb2 b5 23. Reb1 Ra8 24. Bxd5 Qxd5 25. Qc3 Qd8 26. Qc2 a6 27. a3
+Qe7 28. Nf1 Nd5 29. Ng3 g6 30. Ne2 f5 31. Nc3 Nxc3 32. Qxc3 Qe6 33. h4 Qd5 34.
+g3 a5 35. Qb3 Red8 36. Kf1 Kf7 37. Ke2 Qxb3 38. Rxb3 Ke6 39. Rg1 h5 40. f3 Kd5
+41. f4 Kc4 42. Rbb1 Kd5 {source: American Chess Bulletin, 8/1904, p. 64}
+1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Teichmann, Richard"]
+[Result "1-0"]
+[ECO "C56"]
+[PlyCount "55"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. Nc3 Nf6 8.
+O-O Bg4 9. Be3 O-O 10. Bb3 Re8 11. Qd3 Bh5 12. Rae1 h6 13. Nd2 Bg6 14. f4 d5
+15. f5 dxe4 16. Ndxe4 Bh7 17. Nxf6+ Qxf6 18. Nd5 Qd6 19. Nxb6 axb6 20. Qc4 Qd7
+21. d5 Ne5 22. Qc3 Bxf5 23. Bd4 f6 24. d6+ Be6 25. dxc7 Bxb3 26. Qxb3+ Qe6 27.
+Qxb6 Qd5 28. Rd1 {source: London Daily News, 27 JUL 1904, p. 11; London
+Evening Standard, 27 JUL 1904, p. 7; London Morning Post, 1 AUG 1904, p. 2;
+Illustrated London News, 13 AUG 1904, p. 236; American Chess Bulletin, 8/1904,
+p. 64} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Loman, Rudolf Johannes"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "1-0"]
+[ECO "C87"]
+[PlyCount "87"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. h3
+Nd7 9. d4 exd4 10. cxd4 b5 11. Bc2 Bf6 12. a4 Rb8 13. axb5 axb5 14. Nc3 Nb4 15.
+Bb1 Re8 16. Be3 c6 17. Ne2 d5 18. e5 Be7 19. Ng3 Nf8 20. Bd2 Qb6 21. Qb3 Na6
+22. Rc1 Bd7 23. Bf5 Rbc8 24. Ra5 Nc7 25. Rca1 Ra8 26. Bxd7 Nxd7 27. Nf5 Bf8 28.
+Nd6 Bxd6 29. exd6 Na6 30. Qd3 f6 31. Qa3 Ndb8 32. d7 Re4 33. Bf4 b4 34. Qd3
+Rxf4 35. Rxa6 Rxa6 36. Rxa6 Qc7 37. Ra8 Kf7 38. Qxh7 Nxd7 39. Rg8 Ke6 40. Rxg7
+Kd6 41. Nh4 c5 42. Nf5+ Kc6 43. Ne7+ Kd6 44. Nxd5 {source: London Evening
+Standard, 27 JUL 1904, p. 7; London Morning Post, 8 AUG 1904, p. 8; American
+Chess Bulletin, 8/1904, p. 65} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Mackenzie, Arthur John"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "D66"]
+[PlyCount "69"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 b5 10. Bb3 Qa5 11. Ne5 b4 12. Bxf6 bxc3 13. Bxe7 cxb2+ 14. Kf1
+bxc1=Q 15. Qxc1 Nxe5 16. dxe5 Ba6+ 17. Kg1 Rfe8 18. Bd6 c5 19. a3 Rac8 20. h4
+c4 21. Bc2 Red8 22. Rh3 f5 23. Rg3 Bb7 24. e4 g6 25. exf5 exf5 26. Bxf5 Rxd6
+27. Bxc8 Rb6 28. Bxb7 Rxb7 29. Qxc4+ Kg7 30. Qc3 Qd8 31. e6+ Kg8 32. Qc4 Re7
+33. Rd3 Qb6 34. Qc8+ Kg7 35. Rf3 {source: London Evening Standard, 28 JUL 1904,
+p. 6; American Chess Bulletin, 8/1904, p. 64} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Napier, William Ewart"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[PlyCount "90"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 a6 6. Nc3 c5 7. O-O Nc6 8. dxc5
+Qxd1 9. Rxd1 Bxc5 10. a3 b5 11. Bd3 Bb7 12. b4 Be7 13. Bb2 O-O 14. Rac1 Rfd8
+15. Bb1 Rxd1+ 16. Rxd1 Rd8 17. Rxd8+ Bxd8 18. Ne4 Nxe4 19. Bxe4 Na5 20. Bxb7
+Nxb7 21. Nd2 f6 22. Kf1 Kf7 23. Ke2 Ke7 24. Kd3 Kd6 25. e4 e5 26. f3 Bb6 27. g3
+g5 28. f4 g4 29. fxe5+ fxe5 30. Nf1 Ke6 31. Ne3 Bxe3 32. Kxe3 Nd6 33. Bc1 Kf6
+34. Kd3 Kg6 35. Bb2 Nc4 36. Bc1 Kf6 37. Ke2 Nd6 38. Kd3 Ne8 39. Bd2 Ng7 40. Bh6
+Ne6 41. Be3 h5 42. Ke2 Nd8 43. Kd3 Ne6 44. Kc3 Nd8 45. Kd3 Nf7 {source:
+American Chess Bulletin, 8/1904, p. 64} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Shoosmith, Hector William"]
+[Black "Mueller, Oscar Conrad"]
+[Result "1-0"]
+[ECO "D52"]
+[PlyCount "59"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Bxf6 Nxf6 8.
+Nd2 Bb4 9. Qc2 O-O 10. Be2 Ne4 11. Ndxe4 dxe4 12. O-O f5 13. f3 exf3 14. Rxf3
+Bd7 15. Rd1 Rae8 16. Kh1 Re7 17. e4 Bxc3 18. bxc3 c5 19. Rdf1 Rfe8 20. Bd3 g6
+21. h3 Ba4 22. Qf2 Qxc3 23. exf5 exf5 24. Bxf5 Qxd4 25. Qg3 Qe5 26. Qh4 gxf5
+27. Rxf5 Qc7 $4 (27... Qd6 $19) 28. Qh6 Rg7 29. Qe6+ Rf7 30. Rg5+ {source:
+Western Daily Press, 27 JUL 1904, p. 7; Leeds Mercury, 6 AUG 1904, p. 21;
+American Chess Bulletin, 8/1904, p. 64} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.26"]
+[Round "2"]
+[White "Tattersall, Creassey"]
+[Black "Brown, Frederick"]
+[Result "1-0"]
+[ECO "A03"]
+[PlyCount "113"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. f4 d5 2. e3 Nf6 3. b3 c5 4. Bb2 Nc6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 e6 8. Bb5
+Qb6 9. Bxc6+ Qxc6 10. d3 O-O-O 11. Nd2 Be7 12. a4 Rhg8 13. g4 Nd7 14. g5 Nf8
+15. h4 Rd7 16. Qg3 Bd8 17. Nf3 Re7 18. h5 Bc7 19. h6 d4 20. hxg7 Ng6 21. Rxh7
+dxe3 22. Ne5 Bxe5 23. fxe5 b6 24. Qxe3 Ree8 25. O-O-O Ne7 26. Rf1 Nf5 27. Qh3
+Qd7 28. Qf3 Kc7 29. Bc3 a5 30. Bd2 Rxg7 31. Rxg7 Nxg7 32. Qxf7 Nf5 33. Qxd7+
+Kxd7 34. Rh1 Re7 35. g6 Kc6 36. Rh7 Kd5 37. Bg5 Rg7 38. Rxg7 Nxg7 39. Bh6 Nf5
+40. Bf4 Kc6 41. Bg5 b5 42. axb5+ Kxb5 43. Kb2 a4 44. c4+ Ka5 45. Bd2+ Kb6 46.
+bxa4 Ka6 47. Bg5 Ka5 48. Ka3 Ka6 49. Bf6 Ka5 50. g7 Nh6 51. Be7 Kb6 52. a5+
+Kxa5 53. Bxc5 Ka6 54. Ka4 Ng8 55. Be3 Ne7 56. Bg5 Ng8 57. c5 {source: American
+Chess Bulletin, 8/1904, p. 65} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Blackburne, Joseph Henry"]
+[Black "Lee, Francis Joseph"]
+[Result "0-1"]
+[ECO "D12"]
+[PlyCount "78"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. a3 d5 2. Nf3 Nf6 3. d4 Bf5 4. e3 e6 5. c4 c6 6. Nc3 Bd6 7. Bd2 Nbd7 8. Be2
+Ne4 9. O-O O-O 10. h3 Bg6 11. Nh2 Ndf6 12. f4 Nxd2 13. Qxd2 Ne4 14. Nxe4 Bxe4
+15. c5 Bc7 16. Bf3 f5 17. Bxe4 dxe4 18. Qf2 Kh8 19. Kh1 g5 20. g3 Rg8 21. Rg1
+Qd5 22. Nf1 Rg7 23. Nd2 Rag8 24. Qe2 Qd8 25. Qf2 Rg6 26. Nc4 Qe8 27. Ne5 Rh6
+28. Kg2 Qh5 29. Rh1 gxf4 30. exf4 Bxe5 31. dxe5 Rhg6 32. Raf1 Qh4 33. Rh2 Rxg3+
+34. Kh1 Rf3 35. Qe2 Rxh3 36. Rff2 Rxh2+ 37. Rxh2 Qxf4 38. Qd1 e3 39. Qd3 Qf3+ {
+source: Yorkshire Post, 30 JUL 1904, p. 12; American Chess Bulletin, 8/1904, p.
+65} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Brown, Frederick"]
+[Black "Napier, William Ewart"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[PlyCount "132"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Bg5 c6 3. e3 Qb6 4. Qc1 Bf5 5. Nf3 h6 6. Bf4 e6 7. Nbd2 Nf6 8. c4
+c5 9. a3 a5 10. Qc3 Nbd7 11. Bd3 Bd6 12. O-O Bxf4 13. Bxf5 Bxh2+ 14. Nxh2 exf5
+15. dxc5 Qxc5 16. b4 Qc6 17. Rfc1 O-O 18. c5 axb4 19. axb4 Ne4 20. Nxe4 fxe4
+21. Rxa8 Rxa8 22. Qb2 Qb5 23. Nf1 Ra4 24. Rb1 Qd3 25. Ng3 g6 26. Ne2 Qc4 27.
+Nc3 Ra8 28. Rd1 Ne5 29. Nxd5 Nd3 30. Qd4 Qxd4 31. exd4 Rd8 32. Nf6+ Kg7 33.
+Nxe4 Rxd4 34. f3 Rd5 35. b5 Kf8 36. b6 Ke7 37. Nd6 Rxc5 38. Rxd3 Rc6 39. Nxb7
+Rxb6 40. Nc5 Rc6 41. Ne4 f5 42. Ng3 Kf6 43. Rd4 Kg5 44. Ra4 h5 45. Rb4 Rc2 46.
+Ra4 h4 47. Nf1 Kh5 48. Rf4 Rc5 49. Ne3 Rc3 50. Kf2 Kg5 51. Rc4 Ra3 52. Rc2 Ra8
+53. Rb2 Rh8 54. Rb1 Rh5 55. Nd5 Rh8 56. Ne3 Ra8 57. Rc1 Ra2+ 58. Rc2 Ra1 59.
+Nf1 Kh5 60. Nh2 g5 61. Rb2 Rh1 62. Nf1 g4 63. f4 g3+ 64. Nxg3+ hxg3+ 65. Kxg3
+Rd1 66. Rb3 Rd6 {source: American Chess Bulletin, 9/1904, p. 81} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Tattersall, Creassey"]
+[Result "1/2-1/2"]
+[ECO "C30"]
+[PlyCount "59"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 Nc6 4. fxe5 Nxe5 5. c3 d5 6. d4 Nxf3+ 7. Qxf3 dxe4 8.
+Qxe4+ Qe7 9. Qxe7+ Bxe7 10. Bf4 c6 11. Bc4 Nf6 12. O-O Nd5 13. Bxd5 cxd5 14.
+Nd2 Be6 15. Rfe1 Kd7 16. Nf3 f6 17. Nd2 Rac8 18. Nf1 h5 19. Rac1 g5 20. Bd2 Bd6
+21. Ne3 f5 22. c4 dxc4 23. d5 Bf7 24. Nxf5 Bxd5 25. Bxg5 Rhg8 26. h4 Bc5+ 27.
+Kh2 Rcf8 28. Re5 Bd6 29. Nxd6 Kxd6 30. Re2 {source: American Chess Bulletin, 8/
+1904, p. 66} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Mason, James"]
+[Black "Shoosmith, Hector William"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[PlyCount "111"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Be3 Bb6 7. Qd2 Be6 8. Bb5
+Ba5 9. h3 O-O 10. Bxc6 bxc6 11. O-O h6 12. Qe2 c5 13. Bd2 c6 14. Na4 Rb8 15. b3
+Bxd2 16. Nxd2 g5 17. Nb2 Kh7 18. Nbc4 Rg8 19. g4 h5 20. f3 Ne8 21. Rf2 f6 22.
+Ne3 h4 23. c4 Rg7 24. Nb1 Qa5 25. Qd2 Qa6 26. Nc3 Rxb3 27. Rc1 Rb8 28. Ned1
+Rgb7 29. Rc2 Nc7 30. Ne2 Rb1 31. Kg2 Bg8 32. Ndc3 R1b7 33. Rf1 Ne6 34. Nd1 Qa3
+35. Ne3 Nd4 36. Nxd4 cxd4 37. Nf5 Be6 38. Rfc1 Bxf5 39. gxf5 c5 40. Kf2 Rb2 41.
+Qe2 Qxa2 42. f4 Kh6 43. fxg5+ fxg5 44. Kg2 a5 45. Kf3 a4 46. Kg4 a3 47. Qd2 Rg8
+48. f6 Kh7 49. Kf5 Qb3 50. f7 Rf8 51. Qxg5 Rxf7+ 52. Ke6 Qb7 53. Qh5+ Kg8 54.
+Rg1+ Rg7 55. Qe8+ Kh7 56. Qh5+ {source: London Evening Standard, 28 JUL 1904,
+p. 6; American Chess Bulletin, 8/1904, p. 65} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Mortimer, James"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "83"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 c6 5. Nf3 Nf6 6. Bd3 Bg4 7. Be3 e6 8.
+Ne2 Bd6 9. c3 Bh5 10. Nf4 Bg6 11. Nxg6 hxg6 12. Qb3 Qc7 13. O-O-O b5 14. Rhe1
+O-O 15. Ng5 Re8 16. Bd2 Nd5 17. g3 Nd7 18. Re2 Nf8 19. Rde1 a5 20. h4 b4 21. c4
+a4 22. Qd1 Nc3 23. bxc3 b3 24. c5 a3 25. Bc4 bxa2 26. Bxa2 Be7 27. Bf4 Qa5 28.
+Qd3 Red8 29. Qf3 Qb5 30. Be5 Bf6 31. Bxf6 gxf6 32. Ne4 f5 33. Nd6 Qa6 34. g4
+Rab8 35. gxf5 exf5 36. Nxf5 Rb2 37. Ne7+ Kh8 38. Qf6+ Kh7 39. Qxf7+ Kh6 40.
+Ng8+ Kh5 41. Re5+ Kxh4 42. Qf4+ {source: American Chess Bulletin, 8/1904, p. 65
+} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Mueller, Oscar Conrad"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "C77"]
+[PlyCount "81"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. d3 Be7 7. Nbd2 b5 8. Bc2
+d5 9. Qe2 O-O 10. O-O d4 11. cxd4 Nxd4 12. Nxd4 Qxd4 13. Nf3 Qd6 14. d4 Bg4 15.
+dxe5 Bxf3 16. exd6 Bxe2 17. dxe7 Rfe8 18. Re1 Bg4 19. Bg5 h6 20. Bxf6 gxf6 21.
+e5 fxe5 22. Rxe5 Be6 23. f4 Kg7 24. Be4 Rac8 25. Bc6 Rxe7 26. f5 Kf6 27. Rae1
+Bd7 28. Rxe7 Bxc6 29. R7e5 Rd8 30. Rc5 Bd5 31. Rxc7 Kxf5 32. b3 Be6 33. Kf2 h5
+34. Rc5+ Kf6 35. Ke3 h4 36. Rf1+ Kg6 37. Rf2 Rd6 38. Rd2 Rb6 39. h3 a5 40. Rd4
+a4 41. Rb4 {source: American Chess Bulletin, 8/1904, p. 65} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Teichmann, Richard"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1-0"]
+[ECO "C29"]
+[PlyCount "39"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Bb4 6. Be2 Nc6 7. O-O Be6 8.
+Qe1 Qe7 9. Kh1 Bxc3 10. bxc3 h6 11. Rb1 Rb8 12. d3 Ng5 13. Qg3 Nxf3 14. Bxf3 g6
+15. c4 Qd7 16. cxd5 Bxd5 17. Bxd5 Qxd5 18. e6 Rh7 19. Ba3 Qe5 20. Qxg6 {
+source: London Daliy News, 28 JUL 1904, p. 11; Southend Standard, 4 AUG 1904,
+p. 2; Kent and Sussex Courier, 5 AUG 1904, p. 4; Leeds Mercury, 6 AUG 1904, p.
+21; BCM, 9/1904, p. 352 (up to move 19; notes by Hoffer); American Chess
+Bulletin, 8/1904, p. 66} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.27"]
+[Round "3"]
+[White "Van Vliet, Louis"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "121"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nd7 3. e3 e6 4. Bd3 Bd6 5. e4 dxe4 6. Bxe4 Ngf6 7. Bd3 b6 8.
+Qe2 c5 9. Nc3 Bb7 10. Ne4 Qc7 11. Nxd6+ Qxd6 12. dxc5 Nxc5 13. Bb5+ Ncd7 14.
+O-O O-O 15. Rd1 Qc7 16. Bg5 a6 17. Bd3 Qc6 18. Ne1 Rfe8 19. Rd2 b5 20. Rad1
+Rac8 21. Qe3 Nd5 22. Qh3 f5 23. Nf3 N7f6 24. Ne5 Qc7 25. Re2 Ne4 26. Bxe4 Qxe5
+27. Bd3 Qc7 28. Rde1 Qf7 29. Bd2 Nf6 30. f3 Bd5 31. b3 Qb7 32. Bf4 b4 33. Be5
+Qf7 34. Qh4 a5 35. Qd4 Qg6 36. Qf2 Nh5 37. Kh1 Red8 38. Rg1 Qg5 39. Rd1 Qh6 40.
+Red2 f4 41. Kg1 Qg5 42. Bb2 Nf6 43. Bc4 Rf8 44. Bxf6 Rxf6 45. Bxd5 exd5 46.
+Rxd5 Rf5 47. Qd2 Rcf8 48. Rxf5 Qxf5 49. Qd5+ Qxd5 50. Rxd5 Ra8 51. Rc5 h6 52.
+h4 Ra7 53. h5 Kh7 54. Kh2 g6 55. hxg6+ Kxg6 56. Kh3 h5 57. Kh4 a4 58. Rc4 axb3
+59. axb3 Rd7 60. Rxf4 Rd2 61. Rxb4 {source: American Chess Bulletin, 9/1904, p.
+80} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Curnock, Arthur John"]
+[Black "Mason, James"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[PlyCount "128"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 Be7 5. Nf3 O-O 6. b3 c6 7. Bd3 Nbd7 8. Bb2
+Re8 9. O-O Nf8 10. Ne5 N6d7 11. f4 f5 12. Rc1 Nf6 13. c5 Qc7 14. b4 Ne4 15.
+Bxe4 fxe4 16. a4 Bf6 17. Qb3 Bxe5 18. fxe5 Ng6 19. Rf2 Bd7 20. Rcf1 Ne7 21. Bc1
+Rf8 22. Bd2 Rxf2 23. Rxf2 Rf8 24. Rxf8+ Kxf8 25. b5 Qc8 26. Qb4 Qa8 27. Qa5 Kf7
+28. Na2 Ke8 29. Nb4 Qb8 30. Nc2 Kf7 31. Na3 h6 32. Bc1 Kg8 33. Qb4 Qc8 34. Qb2
+Kh7 35. Bd2 Kg8 36. Be1 Kh8 37. Bh4 Nf5 38. Bf2 Ne7 39. Kf1 Kg8 40. Ke2 Kf7 41.
+Kd1 Qa8 42. Bh4 Ng6 43. Qf2+ Kg8 44. g4 Qe8 45. b6 a6 46. Bg3 Qf7 47. Nc2 Bc8
+48. Qxf7+ Kxf7 49. h4 Nf8 50. h5 Ke8 51. Ke2 Nh7 52. Ne1 Kf7 53. Ng2 Ng5 54.
+Nh4 Bd7 55. Kf1 Bc8 56. Kg2 Bd7 57. Bf4 Bc8 58. Kg3 Nh7 59. Ng2 Bd7 60. Ne1 Bc8
+61. Nc2 g5 62. hxg6+ Kxg6 63. Nb4 Ng5 64. Bxg5 hxg5 {source: American Chess
+Bulletin, 9/1904, p. 81} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Gunston, William Hewison"]
+[Black "Mortimer, James"]
+[Result "0-1"]
+[ECO "C91"]
+[PlyCount "128"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Bd5 Qd7 11. dxe5 Bxf3 12. gxf3 Nxd5 13. exd5 Nxe5 14. f4 Ng6
+15. Be3 Qf5 16. Kh1 Rfe8 17. Rg1 Qe4+ 18. Rg2 Nh4 19. Qg1 Qxg2+ 20. Qxg2 Nxg2
+21. Kxg2 f5 22. Nd2 Bf6 23. Nf3 h6 24. Rd1 Re7 25. Bd4 Kf7 26. Rd2 g5 27. Bxf6
+Kxf6 28. fxg5+ hxg5 29. Nd4 Rae8 30. b3 Re5 31. c4 bxc4 32. bxc4 Re4 33. f3 Rh4
+34. a4 Re1 35. a5 Rc1 36. h3 Rxc4 37. Nc6 Rxc6 38. dxc6 Rc4 39. Kg3 Rxc6 40.
+Rd3 Rc4 41. Re3 d5 42. Rb3 Ke5 43. Re3+ Kf6 44. Re8 Rc6 45. Rf8+ Kg6 46. Rg8+
+Kh5 47. Rh8+ Rh6 48. Rc8 f4+ 49. Kf2 Rc6 50. Rh8+ Kg6 51. Rg8+ Kf5 52. Rf8+ Rf6
+53. Rc8 c6 54. Ra8 c5 55. Rd8 Ke5 56. Rg8 Kd4 57. Rxg5 c4 58. Ke2 c3 59. Kd1
+Kc4 60. h4 d4 61. h5 Kd3 62. Rg6 Rf5 63. Rg2 Rxh5 64. Rd2+ Kc4 {source:
+American Chess Bulletin, 8/1904, p. 66} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Lee, Francis Joseph"]
+[Black "Brown, Frederick"]
+[Result "0-1"]
+[ECO "E12"]
+[PlyCount "108"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Be7 5. Nc3 Nbd7 6. e3 O-O 7. Bd3 b6 8. O-O
+Bb7 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Nxd5 Bxd5 12. Qe2 Rac8 13. Ba6 Rcd8 14. a3
+c5 15. Rfd1 Ba8 16. Rac1 e5 17. Ne1 exd4 18. exd4 Qxe2 19. Bxe2 cxd4 20. Rxd4
+Nc5 21. Rcd1 Rxd4 22. Rxd4 Bc6 23. f3 Ne6 24. Rd6 Ba4 25. Bc4 Rd8 26. Rxd8+
+Nxd8 27. Kf2 Kf8 28. Ke3 Ke7 29. Nd3 Bd7 30. b4 Nc6 31. g4 g5 32. Bd5 f6 33.
+Bg8 h6 34. Bd5 Kd6 35. Bb3 Ne5 36. Nxe5 Kxe5 37. Bc4 f5 38. gxf5 Bxf5 39. a4 a5
+40. bxa5 bxa5 41. Bb5 h5 42. Be8 h4 43. Bc6 Kd6 44. Be8 Kc5 45. Bb5 Kb4 46. f4
+gxf4+ 47. Kxf4 Bc2 48. Bd7 Bxa4 49. Be6 Bb5 50. Kg4 a4 51. Ba2 Bc4 52. Bb1 Kb3
+53. Kxh4 Kb2 54. Kg5 Kxb1 {source: American Chess Bulletin, 8/1904, p. 66} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Loman, Rudolf Johannes"]
+[Black "Van Vliet, Louis"]
+[Result "0-1"]
+[ECO "C90"]
+[PlyCount "82"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+O-O 9. Nbd2 Nd7 10. Nf1 b5 11. Bb3 Na5 12. h3 Nxb3 13. axb3 Be6 14. d4 f6 15.
+Ng3 g6 16. d5 Bf7 17. Be3 Be8 18. Qd2 f5 19. Bh6 Rf7 20. exf5 gxf5 21. Bg5 f4
+22. Ne4 Rg7 23. h4 Bh5 24. Nh2 Nf6 25. f3 Nxe4 26. Rxe4 Bxg5 27. hxg5 Qxg5 28.
+c4 Be8 29. c5 Bd7 30. b4 Kh8 31. Re2 Rag8 32. cxd6 cxd6 33. Kh1 Rg6 34. g4 fxg3
+35. Qxg5 Rxg5 36. Ng4 Bxg4 37. fxg4 Rxg4 38. Rxa6 R8g6 39. Rc2 Kg7 40. Rcc6 g2+
+41. Kg1 Rh4 {source: American Chess Bulletin, 8/1904, p. 66} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Mackenzie, Arthur John"]
+[Black "Mueller, Oscar Conrad"]
+[Result "1-0"]
+[ECO "D52"]
+[PlyCount "45"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Qb3 Ne4 8. Bf4
+Bb4 9. Rc1 Ndf6 10. Ne5 O-O 11. Bd3 h6 12. f3 Nd6 13. c5 Nf5 14. g4 g5 15. gxf5
+gxf4 16. Rg1+ Kh8 17. Qc2 Qc7 18. Qf2 exf5 19. Qh4 Ng8 20. Rc2 Kh7 21. Qg4 f6
+22. Nd7 Qxd7 23. Bxf5+ {source: The Scotsman, 29 JUL 1904, p. 9; Southend
+Standard, 4 AUG 1904, p. 2; Illustrated London News, 13 AUG 1904, p. 236; BCM,
+9/1904, p. 353} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Napier, William Ewart"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[PlyCount "41"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 Nd6 8.
+dxe5 Nf5 9. Nc3 O-O 10. Nd5 d6 11. Nxe7+ Qxe7 12. Bg5 Qd7 13. exd6 b5 14. Bb3
+Nxd6 15. Bd5 Bb7 16. Qd2 Rae8 17. Rad1 Rxe1+ 18. Rxe1 Re8 19. Rxe8+ Nxe8 20.
+Ne5 Nxe5 21. Bxb7 {source: Yorkshire Post, 30 JUL 1904, p. 12; American Chess
+Bulletin, 8/1904, p.} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Shoosmith, Hector William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "98"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 c5 4. c3 Nc6 5. f4 Bg4 6. Nf3 e6 7. O-O Bd6 8. Qe1
+Bxf3 9. Rxf3 Ne4 10. Bxe4 dxe4 11. Rf1 f5 12. Nd2 O-O 13. Nc4 Rc8 14. Qe2 cxd4
+15. exd4 Ne7 16. Be3 Nd5 17. Ne5 a6 18. Bd2 Bxe5 19. fxe5 Qb6 20. Rab1 Qc6 21.
+Kh1 b5 22. Rbc1 Qc4 23. Qxc4 bxc4 24. Rfe1 Rb8 25. Rc2 Rfc8 26. Bc1 Rb7 27.
+Ree2 a5 28. Kg1 a4 29. a3 h6 30. Kf2 Rf8 31. Ke1 g5 32. Kd1 Kh7 33. Ke1 Rfb8
+34. Kf2 Kg6 35. Kg1 Ne7 36. Kf2 Nc6 37. Ke1 h5 38. Kd1 h4 39. Bd2 Rxb2 40. Bc1
+Rb1 41. Ke1 Ne7 42. Kf2 Nd5 43. h3 R8b3 44. Bb2 Nf4 45. Red2 Nd3+ 46. Ke3 R3xb2
+47. g4 Re1+ 48. Re2 Rxe2+ 49. Rxe2 f4+ {source: American Chess Bulletin, 8/
+1904, p. 66} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.28"]
+[Round "4"]
+[White "Tattersall, Creassey"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "C63"]
+[PlyCount "42"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d4 fxe4 5. Nxe5 Nxe5 6. dxe5 c6 7. Ba4 Qa5+ 8.
+Nc3 Qxe5 9. O-O Nf6 10. Be3 Bc5 11. Bxc5 Qxc5 12. Nxe4 Nxe4 13. Re1 Qxf2+ 14.
+Kh1 O-O 15. Rxe4 d5 16. Re7 Bf5 17. Rxb7 Be4 18. Qg1 Qh4 19. Bxc6 Rac8 20. Qxa7
+Rxc6 21. Rb3 Bxg2+ {source: Gillam, Chess Tournaments and Matches 1904, p. 76}
+0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Blackburne, Joseph Henry"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "85"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d4 Nd7 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Qh5 g6 8.
+Qxe5 Nf6 9. Bh6 Rg8 10. Bg5 Ng4 11. Qxe7+ Qxe7 12. Bxe7 Kxe7 13. Nc3 c6 14. O-O
+Bd7 15. Rad1 Rad8 16. Be2 Nf6 17. f4 Ne8 18. e5 Nc7 19. Bc4 Bf5 20. Bb3 Bg4 21.
+Rxd8 Rxd8 22. Ne4 Rd4 23. Nf6 Be2 24. Re1 Ba6 25. g3 h5 26. c3 Rd2 27. Rd1
+Rxd1+ 28. Bxd1 Bd3 29. Kf2 Bf5 30. Bb3 Na6 31. Ke3 Nc5 32. Bd1 Bb1 33. a3 Bf5
+34. b4 Ne6 35. Bb3 Nc7 36. a4 b6 37. Ne4 Bxe4 38. Kxe4 f5+ 39. Kf3 b5 40. Ke3
+Ne8 41. Kd4 Ng7 42. axb5 cxb5 43. h4 {source: American Chess Bulletin, 9/1904,
+p. 81} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Brown, Frederick"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C77"]
+[PlyCount "68"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. h3 Be7 7. c3 b5 8. Bc2 O-O
+9. O-O d5 10. Nbd2 Bb7 11. Qe2 h6 12. exd5 Nxd5 13. g3 Qd7 14. Kh2 Rae8 15. d4
+Bc8 16. dxe5 Qxh3+ 17. Kg1 g6 18. Qe4 Rd8 19. Nb3 Bf5 20. Qe2 Bg4 21. Be4 Nxe5
+22. Bd2 Nf6 23. Bb7 c6 24. Bxc6 Nxc6 25. Qe3 Rfe8 26. Nh2 Kg7 27. Nd4 Nxd4 28.
+cxd4 Bb4 29. Qxe8 Rxe8 30. Bxb4 Be2 31. Rfe1 Ng4 32. Nxg4 Bf3 33. Bf8+ Kh8 34.
+Bg7+ Kxg7 {source: American Chess Bulletin, 9/1904, p. 82} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Lee, Francis Joseph"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[PlyCount "100"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 c6 5. Bc4 Bf5 6. Nge2 e6 7. O-O Nf6 8.
+Ng3 Bg6 9. Nce2 Nbd7 10. f4 Bd6 11. f5 exf5 12. Nxf5 Bxf5 13. Rxf5 Qc7 14. Bf4
+Bxf4 15. Rxf4 Nb6 16. Bd3 Nbd5 17. Rf3 O-O-O 18. Qd2 Kb8 19. Raf1 c5 20. c3 c4
+21. Bc2 Rde8 22. h3 Re6 23. Ng3 h6 24. b3 Rhe8 25. bxc4 Ne3 26. Rc1 Nxc4 27.
+Qf2 Re3 28. Nf5 Re2 29. Qg3 Qxg3 30. Nxg3 Re1+ 31. Rxe1 Rxe1+ 32. Kf2 Rc1 33.
+Bb3 Nd2 34. Re3 Rxc3 35. Rxc3 Nde4+ 36. Kf3 Nxc3 37. Bxf7 g6 38. Kf4 Kc7 39.
+Bxg6 Nxa2 40. Nf5 Nc3 41. Nxh6 a5 42. Bf7 a4 43. Nf5 Nfd5+ 44. Kf3 b5 45. Ne3
+Kd6 46. Nxd5 Nxd5 47. Ke4 Nb4 48. h4 Ke7 49. Bg8 Kf8 50. Be6 Ke7 {source:
+source: American Chess Bulletin, 9/1904, p. 82} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1-0"]
+[ECO "C59"]
+[PlyCount "95"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. d4 Bd6 12. Bd2 O-O 13. O-O Nb7 14. f4 c5 15.
+c3 Rd8 16. Bc4 Rf8 17. Na3 a6 18. Qe2 Na5 19. b4 Nxc4 20. Naxc4 cxd4 21. cxd4
+Bb7 22. Rfc1 Qe7 23. a3 Rfd8 24. Na5 Rac8 25. Nxb7 Qxb7 26. Rxc8 Rxc8 27. Rc1
+Rxc1+ 28. Bxc1 Qc7 29. Bb2 Qa7 30. g3 Qc7 31. Qc4 e3 32. Qc6 Qxc6 33. Nxc6 Ne4
+34. Kf1 Nd2+ 35. Ke2 Nc4 36. Bc1 g5 37. Ne5 Nb6 38. Bxe3 f6 39. Nc6 Kf7 40. Kd3
+Ke6 41. Nd8+ Kd5 42. Nb7 Bc7 43. Nc5 Nc4 44. Nxa6 Bb6 45. Bc1 Nd6 46. Nc5 Nc4
+47. fxg5 fxg5 48. Be3 {source: American Chess Bulletin, 9/1904, p. 82} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Mason, James"]
+[Black "Mackenzie, Arthur John"]
+[Result "0-1"]
+[ECO "B01"]
+[PlyCount "122"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 c6 5. Nf3 Nf6 6. Bd3 Bg4 7. Be3 e6 8. a3
+Bd6 9. Qd2 Nbd7 10. h3 Bh5 11. Be2 Qe7 12. Bg5 h6 13. Bxf6 gxf6 14. g4 Bg6 15.
+Nh4 Bh7 16. Ng2 O-O-O 17. Ne3 Bf4 18. O-O-O b5 19. Na2 Kb7 20. Qc3 Be4 21. Rhg1
+Ra8 22. Qb4 Qd8 23. Nc3 a5 24. Qb3 Bh7 25. Bf3 Qb6 26. Qxb5 Qxb5 27. Nxb5 Kb6
+28. Nc3 a4 29. Ne2 Bg5 30. Kb1 Kc7 31. Nc3 Rhb8 32. Nc4 Nb6 33. Nxb6 Kxb6 34.
+Be2 f5 35. Rgf1 Bf6 36. Kc1 e5 37. d5 Bg5+ 38. Kb1 e4 39. dxc6 Kxc6 40. Nd5 Rb7
+41. f4 Bd8 42. Ne3 Bf6 43. Nc4 Bxb2 44. Ka2 Bc3 45. Rd6+ Kc7 46. Rfd1 Rab8 47.
+Rd7+ Kc6 48. R1d6+ Kc5 49. Rd5+ Kc6 50. R5d6+ $2 (50. R7d6+ Kc7 51. Rc5#) 50...
+Kc5 51. Rxb7 $4 (51. Rd5+ Kc6 52. R7d6+ Kc7 53. Rc5#) 51... Rxb7 52. Rxh6 $2 f6
+$19 53. Rh5 Bg8 54. Rxf5+ Kd4 55. h4 Rb2+ 56. Ka1 Rb5+ 57. Ka2 Bxc4+ 58. Bxc4
+Rxf5 59. gxf5 Kxc4 60. h5 e3 61. h6 e2 {source: American Chess Bulletin, 9/
+1904, p. 81} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Mueller, Oscar Conrad"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "E14"]
+[PlyCount "59"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. cxd5
+exd5 9. b3 Nbd7 10. Bb2 Ne4 11. Rc1 Rc8 12. Qe2 f5 13. Ba6 Bxa6 14. Qxa6 Nxc3
+15. Rxc3 c6 16. Qxa7 Ra8 17. Qb7 Rxa2 18. Rxc6 Nb8 19. Rc7 Bf6 20. Bc3 Re8 21.
+Bb4 Na6 22. Rd7 Qa8 23. Qxb6 Nxb4 24. Qxb4 Qc6 25. Qd6 Qc2 26. Qxd5+ Kh8 27.
+Ne5 h5 28. Qf7 Rea8 29. Qxh5+ Kg8 30. Ng6 {source: London Evening Standard, 30
+JUL 1904, p. 7; American Chess Bulletin, 9/1904, p. 81} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Teichmann, Richard"]
+[Black "Napier, William Ewart"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "44"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c3 f5 10. c4 Bh4 11. Be3 f4 12. Bxe4 dxe4 13. Bxf4 O-O 14. Rxe4 Bxf3
+15. gxf3 Bxf2+ 16. Kxf2 Qh4+ 17. Ke3 Rxf4 18. Rxf4 Qh6 19. Qd2 Rf8 20. Ke4 Qg6+
+21. Ke3 Qh6 22. Ke4 Qg6+ {source: London Daily News, 30 JUL 1904, p. 11;
+London Evening Standard, 30 JUL 1904, p. 7; American Chess Bulletin, 9/1904, p.
+82} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.29"]
+[Round "5"]
+[White "Van Vliet, Louis"]
+[Black "Tattersall, Creassey"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[PlyCount "52"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 Nc6 4. e3 e6 5. c4 Bxc5 6. a3 dxc4 7. Qxd8+ Kxd8 8.
+Bxc4 Nf6 9. Nc3 a6 10. b4 Ba7 11. Bb2 b5 12. Rd1+ Ke7 13. Be2 Bb7 14. O-O Rhd8
+15. Rc1 Rac8 16. Rc2 Bb8 17. Rfc1 g6 18. h3 h6 19. Nb1 Nd7 20. Nbd2 Nde5 21.
+Nxe5 Nxe5 22. Bd4 Nd7 23. Bf3 Rxc2 24. Rxc2 Bxf3 25. gxf3 e5 26. Bb2 Nb6 {
+source: American Chess Bulletin, 9/1904, p. 82} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Curnock, Arthur John"]
+[Black "Brown, Frederick"]
+[Result "1-0"]
+[ECO "B20"]
+[PlyCount "109"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. b4 cxb4 3. a3 e5 4. axb4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb4+ 8.
+Nd2 Nf6 9. Bd3 O-O 10. Ngf3 d5 11. e5 Ne4 12. O-O Nxd2 13. Nxd2 Bc3 14. Bxh7+
+Kxh7 15. Qc2+ g6 16. Qxc3 Kg7 17. Nf3 Nc6 18. Bg5 f6 19. Bxf6+ Rxf6 20. exf6+
+Qxf6 21. Rfe1 Bd7 22. Ne5 Nxe5 23. Rxe5 Bc6 24. Qe3 a5 25. Re7+ Kg8 26. Re1 Rf8
+27. Qe6+ Qxe6 28. R1xe6 a4 29. Rxg6+ Kh8 30. Rxc6 bxc6 31. Ra7 Rb8 32. f4 Rb4
+33. g3 Rxd4 34. f5 Rb4 35. h4 d4 36. f6 d3 37. Ra8+ Kh7 38. f7 d2 39. Rd8 d1=Q+
+40. Rxd1 Kg7 41. Rd7 a3 42. Ra7 Rb3 43. Kg2 Rb2+ 44. Kh3 a2 45. h5 Rf2 46. Kg4
+Rxf7 47. Rxa2 c5 48. Rc2 Rc7 49. Rc4 Kf6 50. Kf4 Ke6 51. g4 Rf7+ 52. Kg5 Rg7+
+53. Kh4 Rc7 54. h6 Kf6 55. g5+ {source: American Chess Bulletin, 9/1904, p. 83}
+1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Gunston, William Hewison"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "C67"]
+[PlyCount "51"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. d4 Nxe4 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nb7 9. Nc3 Nc5 10. Rd1 Ne6 11. Ne4 O-O 12. Nd4 Nxd4 13. Rxd4 c5 14. Rd1
+Bb7 15. Ng3 Re8 16. Nf5 d5 17. Qg4 g6 18. Nh6+ Kg7 19. e6 fxe6 20. Qxe6 Bf6 21.
+Qf7+ Kh8 22. Bf4 Bxb2 23. Rab1 d4 24. Rxb2 Bd5 25. Qxc7 Qf6 26. Ng4 {source:
+Northern Whig, 4 AUG 1904, p. 3; American Chess Bulletin, 9/1904, p. 83} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Lee, Francis Joseph"]
+[Black "Teichmann, Richard"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[PlyCount "63"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qb3 e6 7. Nbd2 Be7 8. Qxb6
+axb6 9. Bc7 Bd8 10. Bxd8 Kxd8 11. Bb5 Bd7 12. Bxc6 Bxc6 13. O-O Ke7 14. Ne5
+Rhc8 15. Rfe1 Kf8 16. f3 Be8 17. Kf2 Ng8 18. g4 f6 19. Nd3 Bg6 20. Nf4 Bf7 21.
+Nd3 Ne7 22. h4 Rc6 23. a3 Bg6 24. Nf4 e5 25. Nxg6+ Nxg6 26. h5 Nh8 27. Nb3 Nf7
+28. Rad1 Rd8 29. Rd2 Nd6 30. Red1 Nc4 31. Re2 Kf7 32. Nc1 {source: American
+Chess Bulletin, 9/1904, p. 82} 1/2-1/2
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Mackenzie, Arthur John"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "D26"]
+[PlyCount "150"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. dxc5 Qxd1+ 5. Kxd1 e6 6. e3 Bxc5 7. Bxc4 Nf6
+8. Nc3 a6 9. Ke2 b5 10. Bd3 Bb7 11. b3 Nbd7 12. Bb2 Rc8 13. Rac1 O-O 14. h3 Be7
+15. Bb1 b4 16. Na4 Bc6 17. g4 Nd5 18. g5 Bxa4 19. bxa4 N7b6 20. Bc2 Nc3+ 21.
+Bxc3 Rxc3 22. Bb3 Rfc8 23. Rcd1 R3c5 24. h4 Kf8 25. Nd4 Ke8 26. f4 Ra5 27. Rc1
+Bc5 28. Nf3 Nxa4 29. Rc2 Nc3+ 30. Kf2 Ne4+ 31. Kg2 Nc3 32. Re1 Bd6 33. Nd4 Rac5
+34. h5 Ne4 35. Rxc5 Nxc5 36. Bc4 g6 37. hxg6 hxg6 38. Rh1 Rc7 39. Rh8+ Bf8 40.
+Kf3 Ke7 41. Rh7 Kd6 42. e4 Rd7 43. f5 gxf5 44. exf5 exf5 45. Rxf7 Rxf7 46. Bxf7
+Ne4 47. Nxf5+ Ke5 48. Kg4 Nf2+ 49. Kf3 Nh3 50. Kg4 Nf2+ 51. Kf3 Ne4 52. Kg4 a5
+53. Ne3 a4 54. Nc4+ Kd4 55. Nb6 Nc5 56. Kf5 a3 57. Nc4 Ne4 58. Bg8 b3 59. Nxa3
+b2 60. Bb3 Bxa3 61. Bc2 Nc3 62. g6 Bf8 63. a3 Na4 64. Kf6 Kc3 65. Bb1 Kb3 66.
+g7 Bxg7+ 67. Kxg7 Kxa3 68. Kf6 Kb3 69. Ke5 Nc3 70. Bd3 Na2 71. Kd4 Nb4 72. Bb1
+Nc2+ 73. Kc5 Na3 74. Bd3 Nc2 75. Bc4+ Ka3 {Sources: City of London CC report
+1905 / Harding, p.426. Information supplied to JS by 'Tabanus', 18 April 2022}
+0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Mortimer, James"]
+[Black "Mueller, Oscar Conrad"]
+[Result "0-1"]
+[ECO "C44"]
+[PlyCount "108"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Nb8 6. Nxe5 Bc5 7. Nd3 Bb6 8.
+Qf3 O-O 9. Be2 f5 10. O-O d6 11. Na3 c6 12. dxc6 bxc6 13. Nc4 Bc7 14. Rd1 d5
+15. Na3 Qe7 16. Ne1 Nd7 17. Nd3 Ba6 18. Nc2 Rae8 19. Bf1 f4 20. Nd4 c5 21. Nc2
+Bb7 22. Re1 Qh4 23. Qh3 Qxh3 24. gxh3 c4 25. Ndb4 a5 26. f3 Ng5 27. Rxe8 Rxe8
+28. Kg2 axb4 29. cxb4 Ne6 30. Bd2 Be5 31. Rb1 Ra8 32. a3 Bc6 33. Bc3 Kf7 34.
+Rd1 Bxc3 35. bxc3 Ba4 36. Rxd5 Nf6 37. Rd2 Bb3 38. Nd4 Nd5 39. Nb5 Ne3+ 40. Kf2
+Rd8 41. Rxd8 Nxd8 42. Be2 Ke7 43. Nd4 Ba4 44. Ke1 Ne6 45. Kd2 Kd6 46. h4 Kd5
+47. Nxe6 Kxe6 48. Kc1 Kf5 49. Kd2 Ke5 50. Kc1 Kd5 51. Kd2 h5 52. Kc1 Nf5 53.
+Bd1 Bxd1 54. Kxd1 Nxh4 {source: American Chess Bulletin, 9/1904, p. 82} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Napier, William Ewart"]
+[Black "Van Vliet, Louis"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[PlyCount "80"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+O-O 9. Nbd2 b5 10. Bb3 Na5 11. Bc2 c5 12. Nf1 Nc6 13. Ne3 Qd7 14. h3 Be6 15. d4
+exd4 16. cxd4 d5 17. exd5 Nxd5 18. Nxd5 Bxd5 19. Ne5 Nxe5 20. Rxe5 Rad8 21. Qh5
+g6 22. Qh6 f5 23. dxc5 Rf7 24. Rxd5 Qxd5 25. Bb3 Qxc5 26. Be3 Qe5 27. Bxf7+
+Kxf7 28. Qxh7+ Qg7 29. Qxg7+ Kxg7 30. Rc1 Bd6 31. Kf1 Be5 32. b3 f4 33. Bc5 Rd2
+34. a4 Rb2 35. axb5 axb5 36. b4 Kf6 37. Re1 Kf5 38. f3 Rc2 39. Re2 Rc1+ 40. Kf2
+Rc4 {source: American Chess Bulletin, 9/1904, p. 83} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Shoosmith, Hector William"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "1-0"]
+[ECO "D46"]
+[PlyCount "49"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. e3 Nf6 5. Bd3 O-O 6. Nf3 Nbd7 7. O-O c6 8. Qe2
+Bd6 9. e4 dxc4 10. Bxc4 e5 11. a3 Qc7 12. h3 h6 13. dxe5 Nxe5 14. Nxe5 Bxe5 15.
+f4 Bxc3 16. bxc3 Re8 17. e5 Nd7 18. Rf3 Nf8 19. Be3 b6 20. Rg3 Be6 21. Bd3 Kh8
+22. f5 Qxe5 23. Qg4 Ng6 24. Bd4 Qd6 25. Qh5 {source: London Daily News, 1 AUG
+1904, p. 11; Leeds Mercury, 6 AUG 1904, p. 21; Illustrated London News, 20 AUG
+1904, p. 266; American Chess Bulletin, 9/1904, p. 83} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.07.30"]
+[Round "6"]
+[White "Tattersall, Creassey"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[PlyCount "122"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 d6 7. Be3 b5 8. Bb3
+Bg4 9. Nbd2 O-O 10. h3 Bxf3 11. Qxf3 Ne7 12. g4 Bxe3 13. fxe3 Nd7 14. h4 Nc5
+15. Bc2 Ne6 16. O-O-O c5 17. Nf1 b4 18. c4 Qd7 19. Ng3 a5 20. b3 a4 21. Nf5
+axb3 22. Bxb3 Nc6 23. Kd2 Na5 24. Bc2 g6 25. Nh6+ Kg7 26. g5 f6 27. Qg3 Nxc4+
+$1 28. dxc4 Rxa2 29. Kd3 Nf4+ $1 30. Kd2 (30. exf4 Ra3+ $19) 30... Rxc2+ $1 31.
+Ke1 (31. Kxc2 Qa4+ $19) 31... Ng2+ 32. Kf1 fxg5+ 33. Kg1 Kxh6 34. hxg5+ Kg7 35.
+Rh2 Rff2 (35... Nxe3 $1 36. Rxc2 (36. Qxe3 Qg4+ $19) 36... Nxc2 $19) 36. Qxe5+
+dxe5 37. Rxd7+ Kg8 (37... Rf7 $19) 38. Rdxh7 Rf8 (38... Rfd2 39. Rh8+ Kf7 40.
+R2h7+ Ke6 41. Re8+ Kd6 42. Rd8+ Kc6 43. Rc8+ $11) 39. Rh8+ Kf7 40. R8h7+ Ke8 $2
+(40... Ke6 $19) 41. Rxg2 Rxg2+ 42. Kxg2 Rf7 43. Rh8+ Rf8 44. Rh6 Kf7 45. Rh7+
+Kg8 46. Rb7 Rf7 47. Rb5 Kg7 48. Rxc5 Rb7 49. Rd5 b3 50. Rd1 b2 51. Rb1 Kf7 52.
+Kf2 Ke6 53. Ke2 Kd6 54. Kd2 Rb3 55. Kc2 Rxe3 56. Rxb2 Rxe4 57. Rb6+ Ke7 58.
+Rxg6 Rxc4+ 59. Kd3 Rg4 60. Ke3 Kf7 61. Rf6+ Ke7 {source: American Chess
+Bulletin, 9/1904, p. 83} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Blackburne, Joseph Henry"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "C45"]
+[PlyCount "87"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. Qe2 dxe4
+8. Bxe4 Nxe4 9. Qxe4+ Qe7 10. Qxe7+ Bxe7 11. Bf4 Bf5 12. Nd2 O-O-O 13. O-O-O
+Rd5 14. Nb3 Rhd8 15. Be3 a6 16. Rxd5 cxd5 17. Re1 Bf6 18. Bd4 Bxd4 19. Nxd4 Bd7
+20. Nb3 Re8 21. Rxe8+ Bxe8 22. Nc5 Bb5 23. Kd2 Bf1 24. g3 a5 25. Kc3 c6 26. Nb3
+a4 27. Nc5 Kc7 28. Nxa4 Kd6 29. Kd4 Bb5 30. Nc5 Be2 31. a4 Bg4 32. a5 Kc7 33.
+a6 Kb6 34. Ke5 Bc8 35. Kd6 f6 36. c3 Bg4 37. a7 Kxa7 38. Kxc6 Bf3 39. Kb5 Kb8
+40. Ne6 g5 41. Nf8 h6 42. Kc5 Kc7 43. Ne6+ Kd7 44. Nd4 {source: American Chess
+Bulletin, 10/1904, p. 98} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Brown, Frederick"]
+[Black "Mackenzie, Arthur John"]
+[Result "0-1"]
+[ECO "D23"]
+[PlyCount "80"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Qa4+ c6 5. Qxc4 Bf5 6. Nc3 e6 7. Bg5 Qb6 8.
+O-O-O Nbd7 9. Nd2 Be7 10. e4 Bg6 11. f3 Qa5 12. Bf4 O-O 13. Nb3 Qd8 14. Nc5 b5
+15. Qe2 a5 16. g4 Nb6 17. h4 h5 18. g5 Nfd7 19. Qh2 Qc8 20. Qf2 a4 21. Be3 b4
+22. Nb1 Nxc5 23. dxc5 Nd7 24. Nd2 a3 25. b3 Ne5 26. Nc4 Nxc4 27. Bxc4 Qc7 28.
+Qh2 e5 29. Rd3 Ra5 30. Rhd1 Bxc5 31. Bxc5 Rxc5 32. Qd2 Qb6 33. Rd7 Kh7 34. Kb1
+f5 35. gxf6 Rxf6 36. Qg2 Rxc4 37. bxc4 b3 38. Qe2 bxa2+ 39. Kxa2 Rxf3 40. R7d3
+Rf2 {source: American Chess Bulletin, 10/1904, p. 98} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "75"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nc6 5. b4 Bb6 6. b5 Nb8 7. Bc4 Nf6 8. d3 O-O
+9. fxe5 dxe5 10. Ba3 Re8 11. Ng5 Be6 12. Nxe6 fxe6 13. Qf3 Nbd7 14. Qh3 Nc5 15.
+Bxc5 Bxc5 16. Bxe6+ Kf8 17. Bc4 Qd7 18. Qxd7 Nxd7 19. Rf1+ Nf6 20. Rf5 Re7 21.
+Nd2 Ke8 22. Ke2 Kd7 23. h3 Rf8 24. Raf1 Ree8 25. g4 Kd6 26. Bb3 Kd7 27. Nc4 Bd6
+28. g5 Nh5 29. Nxd6 Ng3+ 30. Ke1 Rxf5 31. Nxf5 Nxf1 32. Kxf1 g6 33. Ne3 Kd6 34.
+Ke2 Kc5 35. Nd5 Kd6 36. Nf6 Rf8 37. Bg8 h6 38. gxh6 {source: American Chess
+Bulletin, 10/1904, p. 98} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Napier, William Ewart"]
+[Result "0-1"]
+[ECO "B25"]
+[PlyCount "66"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O d6 7. d3 Bd7 8. h3
+Qc8 9. Kh2 h5 10. Nd5 Ng8 11. c3 e6 12. Ne3 Qc7 13. f4 Nge7 14. Bd2 f5 15. Ng1
+h4 16. g4 e5 17. exf5 exf4 18. Nd5 Nxd5 19. Bxd5 Ne7 20. Qb3 O-O-O 21. Bxf4
+gxf5 22. Rae1 Ng6 23. Bg5 fxg4 24. Bxd8 g3+ 25. Kg2 Rxd8 26. Rf7 Bh6 27. Re4
+Ne5 28. Rf6 Bg5 29. Rxd6 Rf8 30. Qxb7+ (30. Nf3 Nxf3 31. Rxd7 Qxd7 $1 (31...
+Kxd7 32. Be6+ Kc6 33. Qd5+ Kb6 34. Qb3+ Kc6 $11) 32. Be6 Nd2 $19) 30... Qxb7
+31. Bxb7+ Kxb7 32. d4 Rf2+ 33. Kh1 Rh2# {source: London Evening Standard, 3
+AUG 1904, p. 8; American Chess Bulletin, 10/1904, p. 98} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Loman, Rudolf Johannes"]
+[Black "Tattersall, Creassey"]
+[Result "0-1"]
+[ECO "C30"]
+[PlyCount "108"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nc6 5. Nc3 a6 6. d3 b5 7. Bb3 Na5 8. Qe2
+Nxb3 9. axb3 Bg4 10. h3 Bxf3 11. Qxf3 Ne7 12. Ne2 O-O 13. Be3 Bxe3 14. Qxe3
+exf4 15. Nxf4 d5 16. O-O dxe4 17. Qxe4 Qd6 18. Rfe1 Rfe8 19. Qe5 Rad8 20. c4
+Kf8 21. Qxd6 Rxd6 22. c5 Rf6 23. g3 g5 24. Ng2 Rd8 25. Rad1 Rd5 26. d4 Nf5 27.
+Ne3 Rxd4 28. Nd5 Rc6 29. b4 Rxd1 30. Rxd1 Nxg3 31. Re1 Nf5 32. Re5 Nd4 33. Re7
+Ne6 34. Rd7 h6 35. Kf2 a5 36. bxa5 Rxc5 37. a6 Rc2+ 38. Ke3 Rxb2 39. Nxc7 Nxc7
+40. Rxc7 Ra2 41. a7 Kg7 42. Kd4 Kg6 43. Kc5 f5 44. Kxb5 Kh5 45. Kc4 f4 46. Kd4
+Kh4 47. Rh7 h5 48. Ke4 Ra3 49. Rd7 Ra4+ 50. Kf5 Ra5+ 51. Kg6 f3 52. Rf7 g4 53.
+Rh7 Ra6+ 54. Kf5 f2 {source: American Chess Bulletin, 10/1904, p. 99} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Mason, James"]
+[Black "Mortimer, James"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[PlyCount "120"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 d6 8. Be3
+Bxe3 9. fxe3 Na5 10. Qd2 Nxb3 11. axb3 Bb7 12. O-O O-O 13. Ne2 Nh5 14. g4 Nf6
+15. h3 Ne8 16. Ng3 g6 17. Kh2 Ng7 18. Rg1 Kh8 19. Raf1 Qe7 20. Qf2 Rad8 21. Nd2
+f6 22. c4 Bc8 23. d4 Qd7 24. Qg2 Ne6 25. d5 Ng5 26. Nf3 Qg7 27. Nxg5 fxg5 28.
+Ne2 Rxf1 29. Rxf1 Rf8 30. Rxf8+ Qxf8 31. Ng1 Bd7 32. Nf3 h6 33. Ne1 Kg7 34. Kg3
+Qg8 35. Qc2 h5 36. c5 hxg4 37. hxg4 Qf8 38. cxd6 Qxd6 39. Nf3 c6 40. Nxg5 cxd5
+41. Qh2 Be8 42. Qh7+ Kf6 43. Qh8+ Ke7 44. Qg7+ Kd8 45. Qa7 dxe4 46. Nxe4 Qe6
+47. Qa8+ Ke7 48. Qa7+ Bd7 49. Qc5+ Kd8 50. Qf8+ Kc7 51. Qc5+ Kb8 52. Nd6 Qxg4+
+53. Kf2 Qh4+ 54. Ke2 Qg4+ 55. Kd3 Qd1+ 56. Ke4 Qg4+ 57. Kxe5 Qh5+ 58. Kd4 Qd1+
+59. Ke5 Qh5+ 60. Kd4 Qd1+ {source: American Chess Bulletin, 10/1904, p. 98}
+1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Teichmann, Richard"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C47"]
+[PlyCount "74"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Be2 d6 5. d4 Be7 6. h3 h6 7. Be3 a6 8. a4 Nd7
+9. Nd5 exd4 10. Nxd4 Nf6 11. Nc3 Nxd4 12. Qxd4 O-O 13. O-O Ne8 14. Nd5 Be6 15.
+Nxe7+ Qxe7 16. Bd3 c5 17. Qc3 c4 18. Be2 d5 19. exd5 Bxd5 20. Rad1 Nf6 21. Rfe1
+Rfe8 22. Qa5 b5 23. axb5 Qb7 24. Bf1 axb5 25. Qc3 Re6 26. f3 Bc6 27. Bf2 Nd5
+28. Qd4 Rg6 29. Re5 Nb4 30. Qd2 Bxf3 31. Qxb4 Bxd1 32. Rxb5 Qc7 33. Rb7 Qe5 34.
+Bxc4 Rf6 35. Bd3 Bxc2 36. Bf1 Qf5 37. Qe1 Ra1 {source: London Daily News, 4
+AUG 1904, p. 11; Illustrated London News, 10 SEP 1904, p. 366; BCM, 9/1904, p.
+353; American Chess Bulletin, 10/1904, p. 98} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.02"]
+[Round "7"]
+[White "Van Vliet, Louis"]
+[Black "Lee, Francis Joseph"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. At one point the position was: White, Kf3, Ra4, Pa2;
+Black, Kf5, Rb2, Pe6, Pf7. Black has a won game, though it is not so easy to
+demonstrate as it looks. Van Vliet resigned on the 75th move. London Daily
+News, 3 AUG 1904, p. 11}  0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Curnock, Arthur John"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "D51"]
+[PlyCount "100"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e4 dxe4 6. Nxe4 Bb4+ 7. Nd2 c5 8.
+a3 Bxd2+ 9. Qxd2 Ne4 10. Bxd8 Nxd2 11. Kxd2 Kxd8 12. Nf3 Kc7 13. dxc5 Nxc5 14.
+Ke3 a5 15. Be2 a4 16. Rad1 f6 17. Nd4 Bd7 18. Rd2 Rhd8 19. Rhd1 Re8 20. Nc2 Re7
+21. Nb4 g5 22. Bd3 Bc6 23. g3 Nb3 24. Re2 Ra5 25. Nxc6 bxc6 26. Bc2 Nc5 27.
+Red2 Ra8 28. Kd4 Nd7 29. Kc3 Ne5 30. Rd6 g4 31. Be4 Rb8 32. Bc2 Rxb2 33. Rxc6+
+Kxc6 34. Bxa4+ Kc5 35. Kxb2 Nxc4+ 36. Kc3 Ra7 37. Bd7 Rxa3+ 38. Kc2 Ra2+ 39.
+Kc3 Ra3+ 40. Kc2 Ra6 41. Rf1 Ne5 42. Bc8 Rc6 43. Bb7 Rc7 44. Bg2 Kd4+ 45. Kb3
+Rc3+ 46. Kb2 Nc4+ 47. Ka2 Ra3+ 48. Kb1 Nd2+ 49. Kb2 Nxf1 50. Kxa3 Nxh2 {
+source: American Chess Bulletin, 10/1904, p. 99} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Gunston, William Hewison"]
+[Black "Brown, Frederick"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "86"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. d4 exd4 6. e5 Ne4 7. Nxd4 O-O 8.
+Re1 Nxd4 9. Qxd4 d5 10. exd6 Nxd6 11. Bd3 Bf6 12. Qf4 Re8 13. Rd1 Be5 14. Qf3
+Qh4 15. h3 h5 16. g3 Qxh3 17. Bf1 Qg4 18. Bg2 Qg6 19. Re1 Bd7 20. Nc3 Bg4 21.
+Qd5 Bxc3 22. Rxe8+ Rxe8 23. bxc3 Re1+ 24. Kh2 Qxc2 25. Bb2 Rxa1 26. Bxa1 Qb1
+27. Qg5 Qxa1 28. Qd8+ Kh7 29. Qxc7 Qd1 30. c4 Bf3 31. Bxf3 Qxf3 32. Qxd6 Qxf2+
+33. Kh3 Qf5+ 34. Kg2 Qc2+ 35. Kf3 Qxc4 36. Qd2 b5 37. Kg2 b4 38. Qf2 a6 39. Qb2
+a5 40. Kh3 a4 41. Qf2 b3 42. axb3 Qxb3 43. Qf5+ g6 {source: American Chess
+Bulletin, 10/1904, p. 100} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Lee, Francis Joseph"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "0-1"]
+[ECO "D02"]
+[PlyCount "72"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nd7 3. Bf4 e6 4. e3 Bd6 5. Bg3 Ngf6 6. Nbd2 Ne4 7. Nxe4 dxe4 8.
+Nd2 f5 9. Bc4 Nf6 10. Bb3 O-O 11. Nc4 Kh8 12. Ne5 Qe8 13. a3 a5 14. c4 a4 15.
+Ba2 b6 16. Rc1 Ra5 17. O-O Nh5 18. c5 Nxg3 19. cxd6 cxd6 20. Nc4 Nxf1 21. Nxd6
+Nxe3 22. fxe3 Qd7 23. Nc4 Ra6 24. Ne5 Qe8 25. Rc7 Ra8 26. Qe1 Qh5 27. d5 f4 28.
+exf4 Rxf4 29. Qc1 Rf8 30. Nf7+ Rxf7 31. Rxc8+ Rf8 32. Rxa8 Rxa8 33. dxe6 e3 34.
+h3 Qe5 35. Qe1 e2 36. Kh1 Rd8 {source: London Evening Standard, 4 AUG 1904, p.
+9; American Chess Bulletin, 10/1904, p. 99} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Mackenzie, Arthur John"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "0-1"]
+[ECO "D35"]
+[PlyCount "82"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 c6 5. cxd5 exd5 6. Bf4 Nf6 7. e3 Bf5 8. Bd3
+Bg6 9. O-O Nbd7 10. Qc2 Nh5 11. Bg3 O-O 12. Ne5 Bxd3 13. Qxd3 Nxg3 14. Nxd7
+Qxd7 15. hxg3 f5 16. Kh2 Bd6 17. Rh1 Rae8 18. Kg1 g6 19. Rh3 Kg7 20. Ne2 Rh8
+21. Kh2 h5 22. Rh1 h4 23. Kg1 hxg3 24. Nxg3 Bxg3 25. Rxg3 Rxh1+ 26. Kxh1 Rh8+
+27. Kg1 Kf6 28. f4 Qd6 29. Qc3 b6 30. Rg5 Kf7 31. a3 Rc8 32. g3 c5 33. Kg2 Qe6
+34. g4 Qe4+ 35. Kg3 Rh8 36. gxf5 Qh1 37. fxg6+ Ke7 38. dxc5 Qg1+ 39. Kf3 Rh3+
+40. Ke2 Rh2+ 41. Kf3 Rf2# {source: American Chess Bulletin, 10/1904, p. 99} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Mortimer, James"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[PlyCount "100"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Bd3 Bd6 5. Bg3 Nbd7 6. Nf3 Ne4 7. Bxe4 dxe4 8.
+Nfd2 f5 9. c4 Nf6 10. Nc3 O-O 11. Rc1 a6 12. c5 Be7 13. Nc4 Nd5 14. Be5 Bf6 15.
+O-O Bxe5 16. Nxe5 c6 17. Nxd5 exd5 18. g3 Qe8 19. Rc3 Rf6 20. f4 Rh6 21. Rf2
+Qh5 22. Qxh5 Rxh5 23. Rb3 Rh6 24. Rb6 Re6 25. Rc2 Re7 26. Rc3 Kf8 27. Rcb3 Ke8
+28. a4 Kd8 29. a5 Kc7 30. h3 g6 31. Kh2 Rg7 32. g4 Ra7 33. g5 Bd7 34. Rc3 Ra8
+35. Rc2 Rh8 36. Rg2 Be8 37. Rb3 Kc8 38. Rg3 Kd8 39. Ra3 Kc8 40. b4 Kc7 41. Ra2
+Kc8 42. Ra1 Kc7 43. Rag1 Kd8 44. h4 Ke7 45. Kg2 Ke6 46. Kf1 Ke7 47. Rh3 Ke6 48.
+Rgh1 Ke7 49. Kf2 Ke6 50. Kg3 Ke7 {source: American Chess Bulletin, 10/1904, p.
+99} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Mueller, Oscar Conrad"]
+[Black "Mason, James"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. Philidor Defence. Mason won a pawn, and brought it
+down to a Rook and Pawn ending, and won after a hard fight. Mueller had a
+slight advantage in the early part, and could have simply concenrated his
+forces on Black's weak Queen's Pawn, taking precautions that he should not
+advance it. London Evening Standard, 4 AUG 1904, p. 9}  0-1
+
+[Event "City of London (National)"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Napier, William Ewart"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "69"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "16"]
+[EventCountry "ENG"]
+[SourceVersion "1"]
+[SourceVersionDate "2025.06.05"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. exd4 Nc6 5. Nf3 Bg4 6. Be3 Nf6 7. Nc3 Be7 8. Be2 O-O 9. Ne5 Bxe2 10. Qxe2 Bb4 11. O-O Re8 12. f4 Bxc3 13. bxc3 dxc4 14. Qxc4 Qd5 15. Rab1 Qxc4 16. Nxc4 Nd5 17. Bd2 Nb6 18. Ne3 Na5 19. f5 Nac4 20. Nxc4 Nxc4 21. Bf4 b6 22. Kf2 Re4 23. Bxc7 Rc8 24. Rfe1 Nd2 25. Bg3 Rxc3 26. Rbc1 Rxc1 27. Rxc1 Re8 28. Rc7 Ne4+ 29. Kf3 Nxg3 30. hxg3 Ra8 31. Ke4 Kf8 32. d5 a5 33. d6 b5 34. Kd5 b4 35. d7 {Source: American Chess Bulletin, 10/1904, p100 (score amended 5 June 2025)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.03"]
+[Round "8"]
+[White "Shoosmith, Hector William"]
+[Black "Van Vliet, Louis"]
+[Result "0-1"]
+[ECO "D09"]
+[PlyCount "52"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Bb4 7. Qa4 Bxc4 8. a3
+Bxd2+ 9. Bxd2 Qd5 10. Qc2 d3 11. Qc3 dxe2 12. Bxe2 Bxe2 13. Kxe2 O-O-O 14. Rhc1
+f6 15. b4 fxe5 16. Be3 Nf6 17. a4 e4 18. Nd4 Qh5+ 19. Ke1 Nd5 20. Qc5 Ncxb4 21.
+Ra3 Nd3+ 22. Rxd3 exd3 23. Qa5 Qe5 24. Kd2 Rhe8 25. Rc5 Nxe3 26. Qxa7 Nf1+ {
+source: The Scotsman, 4 AUG 1904, p. 10; London Evening Standard, 5 AUG 1904,
+p. 9; Daily Telegraph and Courier, 6 AUG 1904, p. 6; American Chess Bulletin,
+10/1904, p. 99} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Blackburne, Joseph Henry"]
+[Black "Mueller, Oscar Conrad"]
+[Result "1-0"]
+[ECO "B73"]
+[PlyCount "97"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6 7. Be2 Nf6 8.
+O-O Bd7 9. Qd2 O-O 10. f3 Qa5 11. Rfd1 Rac8 12. Nxc6 bxc6 13. Nd5 Qd8 14. Nxf6+
+Bxf6 15. c3 Be6 16. f4 Qa5 17. g4 Rb8 18. Bd4 Bxd4+ 19. cxd4 Qxd2 20. Rxd2 f5
+21. d5 cxd5 22. gxf5 gxf5 23. exd5 Bd7 24. Rc1 Rfc8 25. Rdc2 Rxc2 26. Rxc2 Rc8
+27. Rxc8+ Bxc8 28. Kf2 Kf7 29. Ke3 e5 30. dxe6+ Kxe6 31. Kd4 Bb7 32. Bc4+ d5
+33. Bd3 Bc6 34. Kc5 Be8 35. Be2 Ba4 36. b3 Be8 37. Bf3 d4 38. Bd5+ Ke7 39. Bc4
+Bh5 40. Bd3 Bg4 41. b4 Ke6 42. a4 Bf3 43. Kxd4 Bd1 44. a5 Bf3 45. Kc5 Be4 46.
+Bxe4 fxe4 47. Kd4 Kf5 48. Ke3 a6 49. b5 {source: American Chess Bulletin, 10/
+1904, p. 100} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Brown, Frederick"]
+[Black "Mortimer, James"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. There was very level play in the Ruy Lopez
+contested between Brown and Mortimer. The game came down to an ending in which
+Brown had knight and five pawns against bishop and five pawns. A draw resulted
+in the 50th move. London daily News, 5 AUG 1904, p. 11}  1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "C29"]
+[PlyCount "53"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. Nf3 Bg4 5. Be2 exf4 6. e5 Ne4 7. O-O Nc6 8. d4
+g5 9. Re1 h5 10. Bb5 Nxc3 11. bxc3 a6 12. Bd3 Be7 13. Rb1 Na5 14. e6 fxe6 15.
+Bg6+ Kf8 16. h3 Bf5 17. Bxf5 exf5 18. Re6 Nc4 19. Qd3 Nd6 20. Ba3 Rh7 21. Bxd6
+Bxd6 22. Qxf5+ Rf7 23. Qg6 Qd7 24. Nxg5 Rg7 25. Qxh5 Be7 26. Qh8+ Rg8 27. Rf6+
+{source; London Daily News, 5 AUG 1904, p. 11; London Morning Post, 5 AUG 1904,
+p. 3; London Evening Standard, 5 AUG 1904, p. 9; Illustrated London News, 27
+AUG 1904, p. 304; American Chess Bulletin, 10/1904, p. 100} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Shoosmith, Hector William"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "45"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bd3 d5 8.
+Ne2 O-O 9. Ng3 h6 10. O-O c5 11. dxc5 Bxc5 12. Bf4 Qb6 13. Qd2 Re8 14. Rae1 Bf8
+15. c3 Be6 16. Bb1 Nbd7 17. Qc2 Rac8 18. Ne5 Bd6 19. Nxd7 Bxd7 20. Nh5 Ne4 21.
+Rd1 Be6 22. Bxd6 Qxd6 23. Qxe4 {and wins source: Sheffield Daily Telegraph, 6
+AUG 1904, p. 13; American Chess Bulletin, 10/1904, p. 100} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Loman, Rudolf Johannes"]
+[Black "Lee, Francis Joseph"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. Lee defended with the Caro-Kann against Loman, who
+obtained a good position, but lost a pawn by pressing too rapidly. Lee
+afterwards increased the advantage, and a long end game ensued, in which he
+had rook and four pawns to rook and three, Loman resigning on the 59th move.
+London Daily News, 5 AUG 1904, p. 11}  0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Tattersall, Creassey"]
+[Black "Napier, William Ewart"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "58"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 d5 6. Qe2 Be7 7. Nxe4 dxe4 8.
+Qxe4 O-O 9. d4 Re8 10. Ne5 Nc6 11. Be3 Bd6 12. O-O-O Be6 13. h4 f5 14. Qf3 Bxe5
+15. dxe5 Qe7 16. Qg3 Bxa2 17. Bg5 Qb4 18. Bf6 Qg4 19. Qa3 Qf4+ 20. Rd2 gxf6 21.
+Qxa2+ Kh8 22. g3 Qxe5 23. Bd3 Rad8 24. Qf7 Qd6 25. Rhd1 Qe7 26. Qh5 Ne5 27.
+Qxf5 Nxd3+ 28. Rxd3 Rxd3 29. Qxd3 a6 {source: American Chess Bulletin, 10/1904,
+p. 100} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Teichmann, Richard"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "51"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 c6 5. Nf3 Bg4 6. Be2 Nf6 7. O-O e6 8.
+Re1 Bd6 9. Ne5 Bxe5 10. dxe5 Qxd1 11. Bxd1 Bxd1 12. Rxd1 Nd5 13. Ne4 b6 14. c4
+Nc7 15. Bg5 O-O 16. Rd6 Ne8 17. Rd8 Nc7 18. Rad1 Nba6 19. R8d7 h6 20. Be7 Rfc8
+21. h4 Ne8 22. Nd6 Nxd6 23. exd6 Nc5 24. Rc7 Rxc7 25. dxc7 Nb7 26. Rd8+ {
+source: American Chess Bulletin, 10/1904, p. 100} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.04"]
+[Round "9"]
+[White "Van Vliet, Louis"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. Van Vliet played the King's Bishop Opening against
+Curnock, who got a bad position in the middle game. He attempted some
+counterattack, the chief result of which was to get a rook in an akward place,
+requiring loss of time to extricate it. Van Vliet won on the 44th move. London
+Daily News, 5 AUG 1904, p. 11}  1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Curnock, Arthur John"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "0-1"]
+[ECO "C45"]
+[PlyCount "94"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. e5 Ng4 8.
+O-O Bc5 9. Bf4 g5 10. Bg3 h5 11. h3 h4 12. Bh2 Nxh2 13. Kxh2 g4 14. hxg4 Qg5
+15. f4 Qxg4 16. Qxg4 Bxg4 17. Nd2 O-O-O 18. Nb3 Be3 19. Rae1 Bb6 20. Ba6+ Kd7
+21. a4 Bf5 22. a5 Bxc2 23. Na1 Bxa5 24. Nxc2 Bxe1 25. Rxe1 c5 26. Be2 Rb8 27.
+Bg4+ Kc6 28. f5 Rxb2 29. Re2 Rbb8 30. e6 fxe6 31. fxe6 d4 32. e7 Rbe8 33. Na3
+Rh7 34. Bf3+ Kd7 35. Bg4+ Kd6 36. Nc4+ Kc6 37. Ne5+ Kd5 38. Ng6 d3 39. Re5+ Kd4
+40. Bd7 Rexe7 41. Rxe7 Rxe7 42. Nxe7 c4 43. Nc6+ Ke3 44. Na5 c3 45. Ba4 c2 46.
+Bxc2 dxc2 47. Nb3 a5 {0-1 in 54 moves (?) source: London Morning Post, 15 AUG
+1904, p. 8; Gillam, Chess Tournaments and Matches 1904, p. 83} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Gunston, William Hewison"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "C84"]
+[PlyCount "86"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5 7. Bb3 d6 8. d3
+Na5 9. Ne2 O-O 10. Bd2 Nxb3 11. axb3 c5 12. Ng3 Qc7 13. Qe2 Re8 14. Ra5 Bf8 15.
+Rfa1 Bb7 16. Nh4 d5 17. Nhf5 h6 18. Qf3 Re6 19. c4 dxe4 20. dxe4 Rd8 21. Be3
+Nxe4 $1 22. Qe2 (22. Nxe4 $4 Bxe4 23. Qxe4 Qxa5 $19) 22... Nxg3 23. hxg3 Qc6
+24. f3 b4 25. Qf2 Rc8 26. Rd1 e4 27. f4 g6 28. Nh4 Rd6 29. Rxd6 Qxd6 30. Ra1
+Bg7 31. g4 Bd4 32. Rd1 Rd8 33. Kh2 Bc8 34. Qe2 Qe7 35. g3 Bxe3 36. Rxd8+ Qxd8
+37. Qxe3 Qd4 38. Qxd4 cxd4 39. f5 Kg7 40. Kg2 g5 41. Nf3 exf3+ 42. Kxf3 Bb7+
+43. Ke2 Be4 {source: American Chess Bulletin, 10/1904, p. 100} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Lee, Francis Joseph"]
+[Black "Tattersall, Creassey"]
+[Result "1-0"]
+[ECO "A83"]
+[PlyCount "99"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 c6 5. Bxf6 exf6 6. Nxe4 d5 7. Ng3 Qb6 8.
+Qe2+ Kd8 9. O-O-O a5 10. Nf3 Na6 11. c3 g6 12. Qc2 Bd6 13. Bd3 Be6 14. Rde1 Re8
+15. Re2 c5 16. Bxa6 Qxa6 17. Rhe1 Bf4+ 18. Kd1 c4 19. Nf1 Qc6 20. h3 Kd7 21. g4
+b5 22. Nh4 b4 23. Ng2 Bd6 24. f4 a4 25. f5 gxf5 26. gxf5 Bf7 27. Rxe8 Bxe8 28.
+cxb4 Bxb4 29. Re6 Qb5 30. Qe2 a3 31. b3 Kd8 32. bxc4 dxc4 33. Nge3 Bc3 34. Nd2
+Bxd2 35. Qxd2 Rb8 36. Ke1 Qb1+ 37. Qd1 Qxa2 38. Qf3 c3 39. Rxe8+ Kxe8 40. Qc6+
+Kf8 41. Qxf6+ Kg8 42. Qg5+ Kf7 43. Qh5+ Ke7 44. f6+ Kf8 45. Qc5+ Kf7 46. Qe7+
+Kg6 47. Qg7+ Kh5 48. Qxh7+ Kg5 49. Qf5+ Kh6 50. Ng4# {source: London Evening
+Standard, 6 AUG 1904, p. 3; American Chess Bulletin, 10/1904, p. 101} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Mackenzie, Arthur John"]
+[Black "Van Vliet, Louis"]
+[Result "1-0"]
+[ECO "A84"]
+[PlyCount "151"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 f5 5. Bf4 Nf6 6. e3 Nbd7 7. Rc1 Be7 8. c5
+Ne4 9. h4 b6 10. b4 bxc5 11. bxc5 Bf6 12. Nxe4 fxe4 13. Ng5 Bxg5 14. hxg5 Qa5+
+15. Qd2 Qxd2+ 16. Kxd2 O-O 17. Be2 e5 18. Bg3 exd4 19. exd4 Rf7 20. f4 Nf8 21.
+Ke3 Rb8 22. Rc2 Rb4 23. Be1 Rb1 24. Rf1 Ne6 25. g3 Nxg5 26. Bf2 Rxf1 27. Bxf1
+Nf3 28. Rb2 Nh2 29. Be2 Bb7 30. Bg1 Nf3 31. Bxf3 exf3 32. Kxf3 h5 33. Be3 Kh7
+34. Bd2 Bc8 35. Be3 Re7 36. Rb8 Bg4+ 37. Kf2 Kg6 38. a4 Kf5 39. a5 Ke4 40. a6
+Kd3 41. Rb3+ Kc4 42. Rb7 Rd7 43. Kg2 Kd3 44. Bf2 Ke4 45. Bg1 Be6 46. Bf2 Kf5
+47. Kf3 Kf6 48. Be1 Ke7 49. Ba5 Bg4+ 50. Kf2 Bf5 51. Ke3 Bh3 52. Bc7 Kf7 53.
+Rxa7 Bf1 54. f5 Bxa6 55. Rxa6 Rxc7 56. Kf4 Kf6 57. Ra8 Rf7 58. Re8 g5+ 59. fxg6
+Kxg6+ 60. Ke5 Rf5+ 61. Kd6 Kf7 62. Rc8 h4 63. gxh4 Rf4 64. Kxc6 Rxd4 65. Rd8
+Rxh4 66. Rxd5 Ke7 67. Kc7 Re4 68. c6 Re1 69. Rb5 Ke8 70. Kb8 Rc1 71. c7 Kd7 72.
+Rd5+ Ke6 73. Rd8 Rb1+ 74. Ka7 Ra1+ 75. Kb6 Rb1+ {source: American Chess
+Bulletin, 10/1904, p. 101} 76. Ka5 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Mason, James"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available Three Knights Game. Mason had a position which
+looked, and in fact was, utterly hopeless. He went on, however, nothing
+daunted, and Blackburne, playing timidly, let him off with a draw, by allowing
+him to exchange the attacking forces. London Evening Standard, 6 AUG 1904, p. 3
+}  1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Mortimer, James"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "0-1"]
+[ECO "C54"]
+[PlyCount "134"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bg5 Be7 7. Bb3 Ne8 8. Be3
+d6 9. h3 Kh8 10. g4 Be6 11. Nbd2 d5 12. Qe2 Qd6 13. Nf1 d4 14. Bd2 dxc3 15.
+bxc3 Bxb3 16. axb3 Rd8 17. d4 exd4 18. e5 Qe6 19. c4 f5 20. g5 d3 21. Qe3 Nb4
+22. Bxb4 Bxb4+ 23. N1d2 a6 24. O-O f4 25. Qe4 Qxh3 26. Rfd1 Rf5 27. Nf1 Be7 28.
+N1h2 Bxg5 29. Rxd3 Rxd3 30. Qxd3 Be7 31. Rd1 Rf8 32. Qd5 Qc8 33. Kh1 h6 34. Qe4
+c5 35. Qg6 Nc7 36. Rg1 Ne6 37. Ng4 Qc6 38. Kg2 Nd4 39. Qxc6 Nxc6 40. Rd1 Rd8
+41. Rxd8+ Nxd8 42. Nd2 h5 43. Nh2 Nc6 44. Kf3 Nxe5+ 45. Kxf4 Nd3+ 46. Ke3 Nb4
+47. Nhf3 g5 48. Ne4 g4 49. Ne5 Nc6 50. Nxc6 bxc6 51. Kf4 Kg7 52. Kf5 Kh6 53.
+Nd2 a5 54. Ne4 Bh4 55. Ng3 Bxg3 56. fxg3 h4 57. Kxg4 hxg3 58. Kxg3 Kg5 59. Kf3
+Kf5 60. Ke3 Ke5 61. Kd3 Kf4 62. Kd2 Ke4 63. Ke2 Kd4 64. Kd2 a4 65. bxa4 Kxc4
+66. a5 Kb5 67. Kc3 Kxa5 {source: American Chess Bulletin, 10/1904, p. 101} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Mueller, Oscar Conrad"]
+[Black "Brown, Frederick"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "105"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 d6 5. Nge2 Nf6 6. O-O Be7 7. d4 O-O 8. d5
+exd5 9. exd5 Ne5 10. f4 Ng6 11. h3 Re8 12. Qd3 a6 13. a4 Rb8 14. Bd2 Qc7 15. b3
+Bd8 16. Rfe1 Bd7 17. a5 Qc8 18. g4 Nh4 19. Bh1 h5 20. Qg3 hxg4 21. Qxh4 Ne4 22.
+Qh5 Nf6 23. Qh4 Ne4 24. Qh5 Nxd2 25. Ng3 Bf6 26. Nge4 Bd4+ 27. Kh2 Nxe4 28.
+Nxe4 Rxe4 29. Bxe4 f5 30. Bd3 Bxa1 31. Rxa1 Qe8 32. Qxe8+ Rxe8 33. hxg4 fxg4
+34. Kg2 Kf7 35. Kf2 Kf6 36. Rh1 Bf5 37. Rh5 Bxd3 38. cxd3 g3+ 39. Kf3 Re1 40.
+Rg5 Rb1 41. Rxg3 Rxb3 42. Kg4 Ra3 43. Re3 Rxa5 44. Re6+ Kf7 45. Rxd6 Ra3 46.
+Kf5 Rxd3 47. Rd7+ Kf8 48. Ke6 Re3+ 49. Kd6 b6 50. Rb7 Rh3 51. Rxb6 Rh6+ 52.
+Kxc5 Rxb6 53. Kxb6 {source: American Chess Bulletin, 10/1904, p. 101} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.05"]
+[Round "10"]
+[White "Shoosmith, Hector William"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[PlyCount "90"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. exd4 Nc6 5. Nf3 Bg4 6. Be3 Nf6 7. Be2 Be7 8.
+O-O O-O 9. Nc3 Re8 10. Rc1 Qd7 11. Ne5 Bxe2 12. Qxe2 Qe6 13. f4 Rad8 14. f5 Qc8
+15. cxd5 Nb4 16. Qf3 Nbxd5 17. Nxd5 Nxd5 18. Qh5 Nxe3 19. Qxf7+ Kh8 20. Rf3
+Nxf5 21. Qxf5 Qxf5 22. Rxf5 Rxd4 23. Rxc7 Kg8 24. Nf3 Rb4 25. b3 Bf6 26. Kf2
+Re7 27. Rxe7 Bxe7 28. Ke3 Rb6 29. Kd3 Bf6 30. Kc4 Re6 31. Rd5 Re2 32. Rd2 Rxd2
+33. Nxd2 Kf7 34. Kd5 Ke7 35. Nc4 Kd7 36. b4 Bc3 37. b5 Kc7 38. a4 Kd7 39. a5 a6
+40. b6 Ke7 41. h3 Kd7 42. g4 Ke7 43. h4 Kd7 44. h5 Ke7 45. g5 Kd7 {source:
+London Evening Standard, 8 AUG 1904, p. 8; American Chess Bulletin, 10/1904, p.
+101 (up to move 28)} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Brown, Frederick"]
+[Black "Mason, James"]
+[Result "1/2-1/2"]
+[ECO "A82"]
+[PlyCount "66"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 e6 6. Bd3 Be7 7. O-O d6 8.
+Qe2 Nc6 9. Bb5 O-O 10. Bxc6 bxc6 11. Ng5 h6 12. Nxe6 Bxe6 13. Qxe6+ Kh8 14. Bd2
+Nh7 15. Ne4 Bf6 16. c3 Qc8 17. Qxc8 Raxc8 18. Rae1 Rf7 19. g4 Rcf8 20. Nxf6
+Nxf6 21. g5 hxg5 22. Bxg5 Kg8 23. Bxf6 Rxf6 24. Rxf6 Rxf6 25. Re7 Rf7 26. Re8+
+Rf8 27. Rxf8+ Kxf8 28. Kf2 Ke7 29. Kf3 Ke6 30. Kf4 Kf6 31. b4 Kg6 32. Kg4 Kh6
+33. Kf5 Kh5 {source: American Chess Bulletin, 10/1904, p. 102} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Mueller, Oscar Conrad"]
+[Result "1-0"]
+[ECO "C28"]
+[PlyCount "67"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 Na5 6. Nge2 Nxc4 7. dxc4 h6 8.
+Bh4 g5 9. Bg3 d6 10. a3 Bxc3+ 11. Nxc3 Bg4 12. f3 Be6 13. c5 Nh5 14. cxd6 Qxd6
+15. Qxd6 cxd6 16. Bf2 Ke7 17. O-O-O a6 18. Rd2 Rac8 19. h4 Nf4 20. g3 Ng6 21.
+h5 Nf8 22. Rhd1 g4 23. f4 exf4 24. gxf4 Rg8 25. Bh4+ f6 26. f5 Bf7 27. Rxd6 Nh7
+28. e5 g3 29. Rd7+ Kf8 30. e6 Bxh5 31. Rxh7 Bxd1 32. Rf7+ Ke8 33. Ne4 Rxc2+ 34.
+Kxd1 {source: London Evening Standard, 8 AUG 1904, p. 8; American Chess
+Bulletin, 10/1904, p. 102} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Mackenzie, Arthur John"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[PlyCount "134"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 d6 4. d3 g6 5. Be3 Bg7 6. Qd2 a6 7. h3 Bd7 8. g3 b5
+9. Bg2 Qc8 10. f4 b4 11. Nd1 h5 12. e5 Rb8 13. exd6 exd6 14. d4 c4 15. Nf2 Nce7
+16. Ne4 Qc7 17. Ng5 Nh6 18. O-O Nhf5 19. Bf2 O-O 20. Rfe1 Bc6 21. d5 Ba8 22. c3
+a5 23. Rad1 Rb5 24. g4 hxg4 25. hxg4 Nh6 26. Bd4 Nxd5 27. Bxg7 Kxg7 28. Nd4 Qa7
+29. Qf2 Rc5 30. Nde6+ fxe6 31. Nxe6+ Kg8 32. Nxc5 Nxg4 33. Qd4 Nxf4 34. Qxc4+
+d5 35. Rxd5 Qf7 36. Red1 Nh3+ 37. Kh1 Nhf2+ 38. Kg1 Nxd1 39. Qxg4 Qf2+ 40. Kh1
+Qe1+ 41. Kh2 Rf6 42. Rxd1 Qe5+ 43. Qg3 Qh5+ 44. Bh3 Qxd1 45. Qb8+ Kg7 46. Ne6+
+Rxe6 47. Bxe6 Qh1+ 48. Kg3 Qg2+ 49. Kf4 Qf3+ 50. Ke5 Qe4+ 51. Kd6 Qc6+ 52. Ke7
+Qb7+ 53. Qxb7 Bxb7 54. cxb4 axb4 55. Kd6 Kf6 56. Bg4 Be4 57. Kc5 Bb1 58. Kxb4
+Bxa2 59. Kc5 Bb3 60. Kd4 Kg5 61. Bf3 Kf4 62. Bh1 g5 63. Kc3 Bd1 64. b4 Be2 65.
+Bc6 g4 66. b5 Bf3 67. Bxf3 gxf3 {source: American Chess Bulletin, 1/1905, p. 16
+} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Loman, Rudolf Johannes"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "85"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Nc6 6. d3 Bg4 7. h3 Bxf3 8. Qxf3
+Nd4 9. Qg3 Nxc2+ 10. Kd1 Nxa1 11. Qxg7 Kd7 12. fxe5 dxe5 13. Bg5 Be7 14. Rf1 c6
+15. Bxf6 Bxf6 16. Rxf6 Re8 17. Kc1 Re7 18. Kb1 b5 19. Bxf7 Kc7 20. Rf3 b4 21.
+Ne2 b3 22. Kxa1 bxa2 23. Qf6 Qd7 24. Bxa2 Rb8 25. d4 exd4 26. Qxd4 Qxd4 27.
+Nxd4 Rb4 28. Ne6+ Kd6 29. Rd3+ Ke5 30. Nc5 Rb5 31. Rc3 Kd4 32. Rc4+ Ke3 33.
+Rc3+ Kd4 34. Rc1 Ke3 35. Kb1 Re5 36. Na4 h5 37. Rxc6 Kf2 38. Nc3 Rbc5 39. Rxc5
+Rxc5 40. g4 h4 41. Bd5 Kg3 42. g5 Kxh3 43. g6 {source: American Chess Bulletin,
+11/1904, p. 127} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Napier, William Ewart"]
+[Black "Lee, Francis Joseph"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "95"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 g6 5. Bc4 Bg7 6. Be3 Nf6 7. Nf3 e6 8.
+Qd2 c6 9. Bh6 O-O 10. Bxg7 Kxg7 11. O-O Nbd7 12. Rfe1 Qa5 13. Ne5 Nb6 14. Rad1
+Bd7 15. Re3 Rad8 16. Rh3 Ng8 17. Bb3 Qb4 18. Qf4 Qe7 19. Ne4 Nd5 20. Qg3 h6 21.
+Nc5 Be8 22. Re1 b6 23. Nxg6 Qg5 24. Nxe6+ fxe6 25. Nxf8 Kxf8 26. Qxg5 hxg5 27.
+Rg3 Bf7 28. Rxg5 Nf4 29. c3 Nd3 30. Rb1 Nf6 31. Rg3 Nf4 32. Rf3 N4d5 33. c4 Ne4
+34. cxd5 Nd2 35. Rxf7+ Kxf7 36. dxe6+ Ke7 37. Re1 Rxd4 38. f3 a5 39. Kf2 a4 40.
+Bc2 Nc4 41. Bxa4 Nxb2 42. Bc2 c5 43. g3 c4 44. f4 b5 45. f5 Rd8 46. g4 Rh8 47.
+Kg3 c3 48. g5 {source: London Evening Standard, 8 AUG 1904, p. 8; American
+Chess Bulletin, 11/1904, p. 127} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Tattersall, Creassey"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "C77"]
+[PlyCount "134"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8. Nf1
+O-O 9. Ne3 b5 10. Bc2 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. Be3 Bf5 14. O-O Rad8
+15. Ne1 Rfe8 16. Qd2 e4 17. Bb3 Qd7 18. d4 Na5 19. Bg5 Nxb3 20. axb3 f6 21. Bf4
+g5 22. Be3 Qe6 23. b4 h6 24. Ra3 Bg6 25. g3 Bh5 26. Kh1 Qh3 27. Rg1 Rd6 28. Qc1
+Qe6 29. Qa1 Be2 30. Qa2 Bc4 31. b3 Bd5 32. Ng2 f5 33. Ra1 Ra8 34. Rb1 Rc6 35.
+Qd2 Bf6 36. Kg1 Be7 37. Kf1 a5 38. Rxa5 Rxa5 39. bxa5 Bxb3 40. d5 Bxd5 41. Ra1
+Bc4+ 42. Kg1 Ra6 43. h4 gxh4 44. gxh4 Rd6 45. Qc1 Qg6 46. Kh1 Be2 47. Qg1 Bf3
+48. Bf4 Ra6 49. Bxc7 Qg4 50. Kh2 Kh7 51. Bg3 Bxg2 52. Qxg2 Bxh4 53. Bc7 Qe2 54.
+Bb6 Bg5 55. Qg3 Qh5+ 56. Kg1 Bd8 57. Qb8 Bxb6 58. Qb7+ Kg8 59. Qc8+ Kg7 60.
+Qxa6 Qg4+ 61. Kf1 Qh3+ 62. Ke2 Qd3+ 63. Ke1 Qxc3+ 64. Kd1 Qxa1+ 65. Kc2 Qa4+
+66. Kb1 Qd1+ 67. Kb2 Bd4+ {source: American Chess Bulletin, 12/1904, p. 141 
+(notes by Howell)} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Teichmann, Richard"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[ECO "D46"]
+[PlyCount "63"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. c4 c6 5. Nc3 Bd6 6. Bd3 Nbd7 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 Nf6 10. Bc2 h6 11. h3 Bd7 12. Be3 a6 13. O-O Qe7 14. Re1 O-O-O 15.
+Qe2 Rde8 16. Ne5 g5 17. g3 Rhg8 18. a3 Rg7 19. b4 Reg8 20. b5 cxb5 21. Nxd7
+Qxd7 22. d5 exd5 23. Bd4 Ne4 24. Bxe4 dxe4 25. Bxg7 Rxg7 26. Qxe4 Qxh3 27. cxb5
+Bc5 28. Qe8+ Kc7 29. Qe5+ Kb6 30. Rac1 Bf8 31. Qc7+ Ka7 32. b6+ {source:
+London Evening Standard, 8 AUG 1904, p. 8; American Chess Bulletin, 10/1904, p.
+102} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.06"]
+[Round "11"]
+[White "Van Vliet, Louis"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "67"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Be3 Bb6 7. h3 Be6 8. Bb5
+O-O 9. Bg5 h6 10. Bxc6 bxc6 11. Bh4 Qd7 12. Bxf6 gxf6 13. Qd2 Kh7 14. g4 Rg8
+15. d4 exd4 16. Nxd4 d5 17. O-O-O Ba5 18. Nb3 Bb4 19. a3 Bxc3 20. Qxc3 Qe7 21.
+Qxc6 dxe4 22. Qxe4+ f5 23. Qe3 Qf6 24. Nd4 Rab8 25. gxf5 Bd5 26. Rhg1 Rxg1 27.
+Rxg1 c5 28. Qg3 Qh8 29. f6 Rg8 30. Qxg8+ Qxg8 31. Rxg8 Kxg8 32. Nf5 Kh7 33. Ng7
+Bg2 34. h4 {source: American Chess Bulletin, 10/1904, p. 102} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Blackburne, Joseph Henry"]
+[Black "Brown, Frederick"]
+[Result "1-0"]
+[ECO "C47"]
+[PlyCount "101"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Be2 Bc5 5. Nxe5 Nxe5 6. d4 Bb4 7. dxe5 Nxe4
+8. Qd4 Nxc3 9. bxc3 Be7 10. O-O O-O 11. Bf4 f6 12. Qc4+ Kh8 13. exf6 Bxf6 14.
+Bxc7 Qe7 15. Rad1 d5 16. Qb4 Re8 17. Bb5 Bd7 18. Bxd7 Qxd7 19. Bg3 Qc6 20. Rd3
+Rac8 21. Qb3 Bxc3 22. Rxd5 Bf6 23. Rd2 Bc3 24. Rd6 Qc4 25. Qxc4 Rxc4 26. Rd7
+Ra4 27. Rxb7 Rxa2 28. Rc7 Bf6 29. h3 h6 30. Bf4 a5 31. Rb1 a4 32. Ra7 Rc8 33.
+Rb4 Rcxc2 34. Rbxa4 Rab2 35. Bg3 Rb1+ 36. Kh2 Rcc1 37. Bf4 Rc8 38. Re4 Kh7 39.
+Be5 Rb6 40. Bxf6 Rxf6 41. Ree7 Rg6 42. g4 Rc5 43. f4 Rcc6 44. f5 Rg5 45. Re8
+Rc2+ 46. Kg3 Rc3+ 47. Kg2 Rc2+ 48. Kf1 Rc1+ 49. Ke2 Rc5 50. Rf8 h5 51. Raa8 {
+source: American Chess Bulletin, 1/1905, p. 16} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Curnock, Arthur John"]
+[Black "Tattersall, Creassey"]
+[Result "1-0"]
+[ECO "A42"]
+[PlyCount "77"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 d6 2. d4 g6 3. c4 Bg7 4. Nf3 c5 5. Be3 Bg4 6. Nc3 Na6 7. Be2 Qb6 8. O-O
+h5 9. h3 Bd7 10. Rb1 e6 11. a3 Ne7 12. b4 cxb4 13. axb4 Nxb4 14. Nb5 Na6 15. d5
+Nc5 16. dxe6 Bxb5 17. exf7+ Kxf7 18. Ng5+ Kg8 19. cxb5 Bf6 20. e5 Bxe5 21. Bc4+
+Kg7 22. Qf3 Nf5 23. Ne6+ Kh7 24. Bxc5 dxc5 25. g4 hxg4 26. hxg4 Nd6 27. Kg2 Kg8
+28. Rh1 Nxc4 29. Rxh8+ Kxh8 30. Rh1+ Kg8 31. Qd5 Ne3+ 32. fxe3 Qd6 33. Qxb7
+Qd2+ 34. Kf3 Rf8+ 35. Nxf8 Kxf8 36. Qc8+ Kf7 37. Rh7+ Kf6 38. Qf8+ Ke6 39. Qe7+
+{source:London Evening Standard, 9 AUG 1904, p. 9; American Chess Bulletin, 1/
+1905, p. 16} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Gunston, William Hewison"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "1-0"]
+[ECO "C43"]
+[PlyCount "107"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Bd7 8.
+Bd3 Nc6 9. Qf4 Qe7+ 10. Be3 O-O-O 11. O-O-O f6 12. Rhe1 Qf7 13. Kb1 Kb8 14. Qa4
+Nc8 15. Bc4 Qg6 16. Nh4 Qg4 17. Bb5 Qxa4 18. Nxa4 Bb4 19. c3 Bd6 20. Nc5 Bg4
+21. f3 Bh5 22. Ne6 Rd7 23. Bxc6 bxc6 24. g4 Bg6+ 25. Nxg6 hxg6 26. Nd4 Rxh2 27.
+Nxc6+ Kb7 28. Na5+ Ka6 29. Nc6 Kb7 30. Na5+ Ka6 31. Nc6 Rf7 32. Rd5 Rf8 33.
+Ra5+ Kb7 34. Nxa7 Nb6 35. Nb5 Rxb2+ 36. Kxb2 Nc4+ 37. Kc2 Nxa5 38. Nxd6+ cxd6
+39. Bf4 Kc6 40. Re7 g5 41. Be3 Nc4 42. Bd4 Rg8 43. Kd3 d5 44. Ke2 Kd6 45. Ra7
+Ke6 46. a4 g6 47. Ra6+ Nd6 48. Bc5 Rd8 49. Kd3 f5 50. Kd4 f4 51. a5 Re8 52.
+Rxd6+ Kf7 53. Kxd5 Re1 54. a6 {source:London Evening Standard, 9 AUG 1904, p.
+9 (up to move 51); American Chess Bulletin, 1/1905, p. 17} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Mackenzie, Arthur John"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "63"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. e3 Nc6 5. Nc3 Nf6 6. a3 a6 7. dxc5 Bxc5 8. b4
+Be7 9. c5 O-O 10. Be2 e5 11. Bb2 Be6 12. Na4 Nd7 13. Bc3 Bf6 14. Qd2 Qc7 15.
+O-O Rfd8 16. Qb2 Nf8 17. Nb6 Rab8 18. Rfd1 Ng6 19. a4 Nce7 20. Rac1 Nc8 21. a5
+Na7 22. b5 axb5 23. Bxb5 e4 24. Nd4 Ne5 25. Be2 Nac6 26. Nb5 Qe7 27. Nd6 Nf3+
+28. gxf3 Bxc3 29. Qxc3 Qg5+ 30. Kh1 exf3 31. Rg1 Qh5 32. Qxg7# {source:
+American Chess Bulletin, 1/1905, p. 16} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Mason, James"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[PlyCount "57"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 h6 6. O-O d6 7. Be3 Bb6 8. Ne2
+Nh5 9. Qd2 g5 10. Kh1 Qf6 11. Nfg1 Rg8 12. f3 Bd7 13. c3 Bxe3 14. Qxe3 Ne7 15.
+g4 Nf4 16. Ng3 h5 17. gxh5 Rh8 18. d4 Neg6 19. Rf2 Nxh5 20. Nxh5 Rxh5 21. Ne2
+Nf4 22. Nxf4 gxf4 23. Qd2 O-O-O 24. Rg1 Bh3 25. Bf1 Qh4 26. Bxh3+ Qxh3 27. Rgg2
+f5 28. exf5 Qxf5 29. Qc2 {source: London Morning Post, 9 AUG 1904, p. 4;
+American Chess Bulletin, 12/1904, p. 143} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Mortimer, James"]
+[Black "Van Vliet, Louis"]
+[Result "0-1"]
+[ECO "C07"]
+[PlyCount "68"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{The first game to be concluded was between Mortimer and Van Vliet. The latter
+player has had a good deal of luck in this tournament, and once more managed
+to win what shoud have been a lost game, owing to weak play at the decisive
+moment by Mortimer. source: Yorkshire Telegraph and Star, 9 AUG 1904, p. 4} 1.
+e4 c5 2. Nf3 e6 3. Nc3 d5 4. d4 cxd4 5. Nxd4 dxe4 6. Nxe4 Nc6 7. Nxc6 Qxd1+ 8.
+Kxd1 bxc6 9. Bd3 f5 10. Nc3 Bc5 11. Ke2 e5 12. Na4 Bd6 13. Be3 Nf6 14. Bc4 Nd5
+15. Rhd1 Be6 16. Bb3 Be7 17. Bc5 Bf6 18. Kf1 Kf7 19. Ba3 Rhd8 20. Nc5 Bc8 21.
+Ba4 Rb8 22. Bxc6 Nb4 23. Ba4 Rxd1+ 24. Rxd1 Be7 25. Bb3+ Ke8 26. Ne6 Bxe6 27.
+Bxe6 Nxc2 28. Bxe7 Kxe7 29. Bxf5 Nd4 30. Bxh7 Rxb2 31. Bg8 g5 32. h4 gxh4 33.
+f4 Nc2 34. Rd3 exf4 {and black won source:American Chess Bulletin, 1/1905, p.
+16} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Mueller, Oscar Conrad"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "68"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. b3 Nc6 6. Bb2 cxd4 7. exd4 Bd6 8. O-O
+O-O 9. Nbd2 Nb4 10. Be2 Ne4 11. c4 f5 12. Ba3 Nc6 13. b4 Ne7 14. Qb3 Qe8 15.
+Nxe4 dxe4 16. Ne5 f4 17. Rfe1 b6 18. Bd1 Bxe5 19. dxe5 f3 20. Rxe4 Bb7 21. Rg4
+fxg2 22. Be2 Rd8 23. Rd1 Qf7 24. f4 Nf5 25. Bc1 Nd4 26. Qe3 Nxe2+ 27. Qxe2
+Rxd1+ 28. Qxd1 Qc7 29. Qe2 Qd7 30. Be3 Rd8 31. Kf2 Qa4 32. Bd2 Qxa2 33. Rg3 Qa1
+34. Bc3 g1=Q+ {source: American Chess Bulletin, 1/1905, p. 17} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.08"]
+[Round "12"]
+[White "Shoosmith, Hector William"]
+[Black "Napier, William Ewart"]
+[Result "0-1"]
+[ECO "D32"]
+[PlyCount "68"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 d4 6. Na4 Nc6 7. e3 Bf5 8.
+exd4 Qxd4 9. Be3 Qxd1+ 10. Rxd1 Bc2 11. Rd2 Bxa4 12. b3 Bxb3 13. axb3 Nf6 14.
+Bb5 Ne4 15. Rc2 Be7 16. f3 Nf6 17. Ne2 Nd5 18. Bd2 Bf6 19. O-O O-O 20. Bxc6
+bxc6 21. Rc4 Rfb8 22. b4 Rb5 23. Nc1 Rab8 24. Nd3 Rd8 25. Nc1 Nc7 26. Bf4 Rd4
+27. Rxd4 Bxd4+ 28. Kh1 Nd5 29. Re1 h6 30. Bd2 Nxb4 31. Re8+ Kh7 32. Re7 Nd5 33.
+Rxa7 Rb1 34. Ra4 Bc3 {source: American Chess Bulletin, 1/1905, p. 16} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[ECO "C61"]
+[PlyCount "78"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O h5 6. c3 Bc5 7. b4 Bb6 8.
+Bb2 Qg5 9. Be2 Nf6 10. d3 d5 11. Nd2 dxe4 12. Nxe4 Nxe4 13. dxe4 dxc3 14. Bxc3
+Bh3 15. Bf3 c6 16. Qd6 Bg4 17. Qg3 O-O-O 18. Rad1 Bc7 19. e5 f5 20. Bxg4 hxg4
+21. f4 Bb6+ 22. Kh1 Qh6 23. Rxd8+ Bxd8 24. Be1 Bb6 25. Bf2 Bxf2 26. Rxf2 Rd8
+27. Rf1 Qe6 28. Qf2 Qc4 29. Kg1 Qd4 30. a3 Qxf2+ 31. Kxf2 Rd2+ 32. Kg3 Kd7 33.
+h3 gxh3 34. gxh3 Ke6 35. Rf3 g6 36. Kh4 Rd8 37. Kg5 Kf7 38. Kh4 Rd5 39. Kg5 Rd8
+{source: London Evening Standard, 10 AUG 1904, p. 9; American Chess Bulletin,
+12/1904, p. 141 (notes by Hoffer)} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Lee, Francis Joseph"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "A84"]
+[PlyCount "122"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Bd6 4. Bd3 f5 5. c4 c6 6. Nbd2 Qf6 7. Qc2 Nd7 8. b3
+Nh6 9. Bb2 Nf7 10. Ng1 Qg6 11. g3 Nf6 12. f4 Ne4 13. Ngf3 Qh6 14. Bxe4 fxe4 15.
+Ne5 Bxe5 16. dxe5 Qh3 17. Ba3 Bd7 18. cxd5 exd5 19. Qc5 Qe6 20. h3 b6 21. Qc2
+a5 22. Bb2 h5 23. Nb1 Nh6 24. Nc3 Nf5 25. Qf2 b5 26. Ne2 c5 27. Rc1 Rc8 28. Rg1
+Nh6 29. Rh1 Nf5 30. Rg1 Nh6 31. Rh1 Rf8 32. Rc2 g6 33. Kd2 b4 34. Kc1 a4 35.
+Kb1 Bb5 36. Nc1 Bd3 37. Nxd3 exd3 38. Rd2 c4 39. Bd4 Qa6 40. Qf1 Ra8 41. g4 Rf7
+42. gxh5 axb3 43. hxg6 bxa2+ 44. Ka1 Qxg6 45. Rg1 Qe6 46. Qg2 b3 47. Qg6 Qxg6
+48. Rxg6 Nf5 49. e6 Rf8 50. e7 Nxd4 51. exf8=Q+ Kxf8 52. exd4 c3 53. Rgg2 Re8
+54. Rd1 d2 55. Rgg1 Re2 56. h4 c2 57. Rc1 b2+ 58. Kxb2 d1=Q 59. Kc3 Qd2+ 60.
+Kb2 a1=Q+ 61. Kxa1 Qc3+ {source: London Daily News, 11 AUG 1904, p. 11;
+American Chess Bulletin, 1/1905, p. 18} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[ECO "C65"]
+[PlyCount "71"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe5 6. d4 Bb6 7. dxe5 Nxe4
+8. Qg4 Nxf2 9. Rxf2 Bxf2+ 10. Kxf2 Qe7 11. Qxg7 Qf8 12. Qxf8+ Rxf8 13. Nc3 f6
+14. Bf4 c6 15. Bh6 fxe5+ 16. Bxf8 Kxf8 17. Bd3 Kg7 18. Re1 d6 19. Re3 Be6 20.
+Rg3+ Kh8 21. Ne4 Rf8+ 22. Ke1 d5 23. Ng5 Bg8 24. Bxh7 Bxh7 25. Rh3 Rf5 26.
+Rxh7+ Kg8 27. Rh5 e4 28. Nxe4 Rf4 29. Nd6 b6 30. Rg5+ Kh7 31. g4 Kh6 32. h4 Rf6
+33. Nf5+ Kh7 34. h5 Rf7 35. Rg6 c5 36. Rd6 {source: American Chess Bulletin, 1/
+1905, p. 17} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Loman, Rudolf Johannes"]
+[Black "Gunston, William Hewison"]
+[Result "1/2-1/2"]
+[ECO "C79"]
+[PlyCount "100"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. d3 g6 7. Be3 Bg7 8. Nc3
+O-O 9. Qd2 Ng4 10. Bg5 f6 11. Bh4 Ne7 12. Bb3+ Kh8 13. h3 Nh6 14. g4 g5 15. Bg3
+Ng6 16. Nd5 Nf4 17. Bxf4 gxf4 18. Kh2 Nf7 19. Nh4 c6 20. Nc3 Qe8 21. f3 Bh6 22.
+Qf2 Ng5 23. Rad1 Bg7 24. Ne2 a5 25. a3 Be6 26. Bxe6 Nxe6 27. Nf5 Qb8 28. d4 Rd8
+29. Rd2 Bf8 30. Rfd1 d5 31. exd5 Rxd5 32. Nc3 Rd7 33. dxe5 Bc5 34. Qe2 Rxd2 35.
+Rxd2 Qxe5 36. Qxe5 fxe5 37. Rd7 Rd8 38. Rxd8+ Nxd8 39. Ne4 Bf8 40. Kg2 b5 41.
+Kf2 Ne6 42. Ke2 h6 43. h4 Kg8 44. Kd3 Kf7 45. c4 b4 46. axb4 axb4 47. Nfd6+ Ke7
+48. Nf5+ Kf7 49. Nfd6+ Ke7 50. Nf5+ Kf7 {source: American Chess Bulletin, 1/
+1905, p. 17} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Napier, William Ewart"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "103"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Be2 Be7 6. h3 c5 7. dxe5 dxe5 8.
+O-O O-O 9. Bg5 b6 10. Bb5 a6 11. Bxd7 Nxd7 12. Bxe7 Qxe7 13. Qd5 Rb8 14. Rfd1
+Re8 15. Qd6 Qxd6 16. Rxd6 Nf6 17. Rad1 b5 18. Rd8 Bb7 19. Rxb8 Rxb8 20. Nxe5 b4
+21. Na4 Bxe4 22. Nxc5 Bxc2 23. Rc1 b3 24. axb3 Bf5 25. Nc6 Re8 26. Nxa6 Kf8 27.
+Nd4 Bc8 28. Nb4 Bb7 29. Rc7 Re1+ 30. Kh2 Be4 31. Nbc6 Rd1 32. b4 Rd2 33. f3
+Bxc6 34. Nxc6 Rxb2 35. Rc8+ Ne8 36. Rb8 f6 37. b5 Kf7 38. Rb7+ Kg6 39. b6 Nd6
+40. Rd7 Rxb6 41. Rxd6 Rb7 42. g4 h6 43. Kg3 Rc7 44. h4 Kh7 45. h5 Rb7 46. Re6
+Rc7 47. Ne7 Rd7 48. Nf5 Rd8 49. Re7 Rg8 50. Kf4 Kh8 51. Nd6 Kh7 52. Re8 {
+source: American Chess Bulletin, 1/1905, p. 17} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Tattersall, Creassey"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "B73"]
+[PlyCount "59"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Bd7 8.
+O-O Nf6 9. h3 Nxd4 10. Bxd4 Bc6 11. Bf3 O-O 12. Qe2 Nd7 13. Bxg7 Kxg7 14. g3 f5
+15. exf5 Rxf5 16. Bg4 Re5 17. Qd2 h5 18. f4 Qb6+ 19. Kh2 hxg4 20. fxe5 Nxe5 21.
+Rae1 gxh3 22. Qg5 Qc7 23. Qf4 Bd5 24. Rxe5 dxe5 25. Nxd5 exf4 26. Nxc7 Rc8 27.
+Ne6+ Kf6 28. Nxf4 Rxc2+ 29. Kxh3 Rxb2 30. Nd3+ {source: London Evening
+Standard, 10 AUG 1904, p. 9; American Chess Bulletin, 12/1904, p. 142 (notes
+by Hoffer)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Teichmann, Richard"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "D53"]
+[PlyCount "83"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{A similar scientific game, or rather more so, Mason being Teichmann's oponent,
+wa played by the latter. He first, by gradual cautious advance of the Pawns,
+hemmed in his opponent's forces, guarding every exit, and then pressed forward
+with the infantry -the centre and right wing Pawns- supported by Queen, two
+Rooks, and Knight. He effected a breach at last. Mason's King became exposed
+and he gave in, the loss of Queen or mate being threatened. source: London
+Evening Standard, 10 AUG 1904, p. 9} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5.
+e3 dxc4 6. Bxc4 c6 7. Nf3 Nbd7 8. O-O Nd5 9. Bxe7 Qxe7 10. Re1 Nxc3 11. bxc3 e5
+12. e4 O-O 13. Qd2 h6 14. h3 exd4 15. cxd4 Rd8 16. Qb2 Nf6 17. Ne5 Be6 18. Bxe6
+fxe6 19. Rac1 Rab8 20. f3 Nd7 21. Nd3 Nf8 22. Red1 Nd7 23. Qb3 Kh7 24. Qc3 Nf6
+25. Nf4 Re8 26. Nd3 Qf7 27. Qe1 Qe7 28. Rc2 Nd7 29. f4 Nf6 30. g4 Nd7 31. Qg3
+Nf6 32. Ne5 Nd7 33. Nd3 Nf6 34. Qf3 g6 35. Rg2 Nd7 36. g5 h5 37. f5 exf5 38.
+exf5 Qe4 39. fxg6+ Qxg6 40. Nf4 Qf5 41. Qxh5+ Kg8 42. Ng6 {source: American
+Chess Bulletin, 12/1904, p. 141 (notes by Hodges)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.09"]
+[Round "13"]
+[White "Van Vliet, Louis"]
+[Black "Mueller, Oscar Conrad"]
+[Result "1-0"]
+[ECO "D52"]
+[PlyCount "103"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. Nf3 c6 6. e3 Qa5 7. Nd2 Bb4 8. Qc1
+dxc4 9. Bxf6 Nxf6 10. Nxc4 Qc7 11. a3 Be7 12. Bd3 O-O 13. O-O Bd7 14. b4 Rad8
+15. Ne5 Bd6 16. f4 Bc8 17. Qe1 Bxe5 18. fxe5 Ng4 19. Qh4 f5 20. exf6 Nxf6 21.
+Ne4 Nxe4 22. Qxe4 g6 23. Bc4 Qd6 24. Rf3 Rxf3 25. gxf3 Kg7 26. f4 Bd7 27. Rd1
+Bc8 28. Rd2 b6 29. h4 Bb7 30. h5 Rd7 31. hxg6 c5 32. Qxe6 Qxe6 33. Bxe6 Rd6 34.
+d5 cxb4 35. axb4 hxg6 36. e4 Rd8 37. Rc2 Rb8 38. Kf2 a5 39. bxa5 bxa5 40. Rb2
+a4 41. Ra2 Ra8 42. Ra3 Kf6 43. Bd7 Ke7 44. Bxa4 Kd6 45. Ke3 Kc5 46. Rc3+ Kd6
+47. Bc6 Rc8 48. e5+ Ke7 49. Kd4 Ba6 50. Ra3 Be2 51. Ra7+ Kf8 52. e6 {source:
+American Chess Bulletin, 1/1905, p. 17} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Blackburne, Joseph Henry"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "B34"]
+[PlyCount "98"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Bd3 Bg7 7. O-O Nf6 8.
+c3 O-O 9. Qe2 d5 10. Re1 Qc7 11. h3 e5 12. Na3 dxe4 13. Bxe4 Nxe4 14. Qxe4 Be6
+15. Nc4 Rfe8 16. Qe2 Rad8 17. Bg5 f6 18. Bh4 Rd7 19. Rad1 Red8 20. Rxd7 Qxd7
+21. Ne3 Qd2 22. Kf1 Qxe2+ 23. Kxe2 g5 24. Bg3 f5 25. Bh2 f4 26. Rd1 Rb8 27. Nf1
+Rxb2+ 28. Rd2 Rxa2 29. Rxa2 Bxa2 30. Nd2 h6 31. f3 Be6 32. Bg1 a6 33. Bb6 Kf7
+34. Kd3 Ke7 35. Kc2 Kd7 36. c4 Bf8 37. Kc3 Bf5 38. c5 Ke6 39. Kc4 Bc2 40. Kc3
+Bg6 41. Kc4 Be7 42. Nb3 e4 43. Nd4+ Kd7 44. fxe4 Bxe4 45. Nf3 Bf6 46. Ba5 Ke6
+47. Bd2 Bd5+ 48. Kd3 Bxf3 49. gxf3 Kd5 {and wins American Chess Bulletin, 12/
+1904, p. 143 (notes by Hodges)} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Brown, Frederick"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "74"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Be3 Bxe3 6. fxe3 Ne7 7. Nc3 c6 8.
+Ba4 d6 9. Qd2 O-O 10. O-O Ng6 11. Bb3 b5 12. Rae1 a5 13. a4 b4 14. Ne2 d5 15.
+exd5 cxd5 16. Ng3 Rb8 17. Rd1 Qd6 18. Kh1 Ng4 19. h3 e4 20. Nf5 Bxf5 21. dxe4
+Bxe4 22. hxg4 Ne7 23. Kg1 Rbd8 24. Qd4 Nc6 25. Qd2 Qg6 26. g5 Rfe8 27. Qf2 Ne5
+28. Qg3 Nxf3+ 29. gxf3 Bxc2 30. Bxc2 Qxc2 31. Qf2 Qxa4 32. Rd3 Rd6 33. Rfd1
+Red8 34. f4 h6 35. gxh6 Rxh6 36. Rxd5 Rxd5 37. Rxd5 Qa1+ {source: American
+Chess Bulletin, 12/1904, p. 142 (notes by Howell)} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Curnock, Arthur John"]
+[Black "Lee, Francis Joseph"]
+[Result "0-1"]
+[ECO "B01"]
+[PlyCount "94"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Nf3 Bg4 6. Be2 Bxf3 7. Bxf3 e6 8.
+O-O Nf6 9. Bg5 Be7 10. Qd2 Nbd7 11. Bf4 Nb6 12. Ne4 Nbd5 13. Be3 O-O 14. c4
+Nxe3 15. fxe3 Qd7 16. Rad1 Rad8 17. Qc2 Qc7 18. c5 Nd5 19. Rfe1 f5 20. Nc3 Bg5
+21. Bxd5 exd5 22. Re2 Rde8 23. Rde1 Re6 24. Nd1 Qe7 25. Qd3 g6 26. b4 Re8 27.
+Kf1 h5 28. a4 Re4 29. b5 h4 30. Kf2 Qc7 31. g3 Kg7 32. Rg1 Rg4 33. Kf3 Rge4 34.
+Kf2 Rh8 35. Kf3 Kf6 36. Reg2 h3 37. Re2 Rhe8 38. Rge1 f4 39. Nf2 fxe3 40. Nxh3
+Bh6 41. Ng1 Kg7 42. Kg2 Rf8 43. Nf3 Qf7 44. Rf1 Qe6 45. Ne5 Rxf1 46. Kxf1 Qf5+
+47. Ke1 Rxe5 {source: American Chess Bulletin, 1/1905, p. 18} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Gunston, William Hewison"]
+[Black "Tattersall, Creassey"]
+[Result "1-0"]
+[ECO "C87"]
+[PlyCount "63"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 d6 7. Bxc6+ bxc6 8.
+d4 exd4 9. Qxd4 O-O 10. Re1 Be6 11. b3 d5 12. e5 Nd7 13. Bb2 Bc5 14. Qa4 Nb8
+15. Rad1 a5 16. Ne4 Be7 17. Ng3 Ra6 18. Qf4 Nd7 19. Nf5 Bxf5 20. Qxf5 Nc5 21.
+Nd4 g6 22. Qh3 Qc8 23. Qh6 Ne4 24. e6 f6 25. Rd3 Re8 26. Rxe4 Bf8 27. Qh4 dxe4
+28. Qxf6 Bg7 29. Qf7+ Kh8 30. Nf5 Bxb2 31. Rh3 h5 32. Qxg6 {source: Leeds
+Mercury, 11 AUG 1904, p. 6; BCM, 9/1904, p. 351; Illustrated London News, 23
+SEP 1904, p. 334; American Chess Bulletin, 12/1904, p. 142 (notes by Hoffer)}
+1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Mackenzie, Arthur John"]
+[Black "Napier, William Ewart"]
+[Result "0-1"]
+[ECO "D52"]
+[PlyCount "88"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Qb3 Ne4 8. Bf4
+g5 9. Bg3 h5 10. h3 Be7 11. Rc1 Nxg3 12. fxg3 Bd6 13. Kf2 Qc7 14. cxd5 Bxg3+
+15. Ke2 cxd5 16. Nxg5 Nb6 17. Kd2 Qe7 18. Nf3 Bd7 19. Bd3 Rc8 20. Rhf1 Rg8 21.
+Ke2 Nc4 22. Qxb7 Rb8 23. Qxa7 Rxb2+ 24. Rc2 Bb8 25. Qa8 Rxg2+ 26. Rf2 Rxf2+ 27.
+Kxf2 Qd6 28. Rxb2 Nxb2 29. Bf1 f6 30. Qb7 Qg3+ 31. Ke2 Nc4 32. a4 Bd6 33. a5
+Qg6 34. e4 Qh6 35. Nd1 Qc1 36. a6 Qc2+ 37. Nd2 Qxd2+ 38. Kf3 Qf4+ 39. Ke2 Qxe4+
+40. Kf2 Qf4+ 41. Ke2 Qd2+ 42. Kf3 Qxd1+ 43. Kf2 Qxd4+ 44. Kf3 Qe3+ {source:
+BCM, 9/1904, p. 354 (up to move 38); American Chess Bulletin, 12/1904, p. 143 
+(notes by Hodges)} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Mason, James"]
+[Black "Van Vliet, Louis"]
+[Result "0-1"]
+[ECO "B24"]
+[PlyCount "64"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. d3 Nf6 5. Bg2 Nc6 6. Bd2 Be7 7. Nge2 d4 8. Nb1
+a6 9. Na3 e5 10. Nb1 Be6 11. O-O Qd7 12. f4 Bh3 13. fxe5 Bxg2 14. Kxg2 Nxe5 15.
+Bf4 Bd6 16. Nd2 b5 17. Bxe5 Bxe5 18. Nf3 Ng4 19. Nxe5 Ne3+ 20. Kh1 Qe6 21. Qd2
+Qxe5 22. Rf3 O-O 23. c3 f5 24. cxd4 cxd4 25. Nxd4 Qxd4 26. Rxe3 fxe4 27. Rxe4
+Qd5 28. b3 Rf3 29. Rd1 Raf8 30. Kg1 Qf5 31. Qe2 Rf2 32. Qg4 Rf1+ {source:
+American Chess Bulletin, 12/1904, p. 143 (notes by Hoffer)} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Mortimer, James"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[PlyCount "49"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qh5 9. Nxe4 Be6 10. Bg5 Bd6 11. Nxd6+ cxd6 12. Bf4 Qd5 13. Qd2 O-O 14. Ng5
+Rfe8 15. Ne4 Rad8 16. f3 f5 17. Nf2 Bf7 18. a3 h6 19. Nd3 Rxe1+ 20. Rxe1 Re8
+21. Rxe8+ Bxe8 22. Qe2 Ne5 23. Nxe5 dxe5 24. Qxe5 Qxe5 25. Bxe5 {source:
+American Chess Bulletin, 1/1905, p. 18} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.10"]
+[Round "14"]
+[White "Mueller, Oscar Conrad"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "115"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nd7 3. Bf4 e6 4. e3 Ne7 5. Bd3 Ng6 6. O-O Bd6 7. Bxd6 cxd6 8.
+Nc3 f5 9. b3 O-O 10. Be2 Nf6 11. a4 Ne4 12. Nxe4 fxe4 13. Nd2 Qg5 14. Kh1 e5
+15. Qe1 Rf6 16. c4 Nh4 17. Rg1 Rh6 18. f4 exf3 19. Nxf3 Nxf3 20. Bxf3 e4 21.
+Bd1 Be6 22. cxd5 Bxd5 23. Rf1 Rc8 24. Ra2 Rg6 25. Raf2 h5 26. Qd2 Be6 27. Bc2
+d5 28. Bd1 Kh7 29. b4 h4 30. Be2 a6 31. Bd1 Bd7 32. Bb3 h3 33. g3 Rgc6 34. Rf4
+Rc3 35. Bd1 Rc1 36. Qf2 Be6 37. Kg1 R1c3 38. b5 axb5 39. axb5 b6 40. Qd2 Rd3
+41. Qf2 Kg6 42. Be2 Rc2 43. Bh5+ Kxh5 44. Qxc2 Rxe3 45. Qf2 Rd3 46. Rc1 Bg4 47.
+Qc2 Be6 48. Qf2 Kg6 49. Qe1 Bg4 50. Qb4 Be6 51. Qe1 Bg4 52. Qb4 e3 53. Re1 Kh7
+54. Qd6 e2 55. Kf2 Rd1 56. Qxb6 Rxe1 57. Kxe1 Bh5 58. Qd6 {source: American
+Chess Bulletin, 1/1905, p. 18} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Lee, Francis Joseph"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "55"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 O-O 6. Nbd2 b6 7. Bd3 c5 8. c3
+Ba6 9. Qe2 Bxd3 10. Qxd3 Qe7 11. Ne5 Bxe5 12. Bxe5 Nbd7 13. Bxf6 gxf6 14. O-O
+f5 15. Rae1 Kh8 16. f3 Rg8 17. e4 Qg5 18. Re2 c4 19. Qe3 f4 20. Qf2 Rg6 21.
+Rfe1 Rag8 22. exd5 Qxd5 23. Qh4 Qf5 24. Nxc4 Rg5 25. Nd6 Qg6 26. Qxg5 Qxg5 27.
+Nxf7+ Kg7 28. Nxg5 {source: American Chess Bulletin, 1/1905, p. 19} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "C54"]
+[PlyCount "35"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nxe4 8.
+O-O Bxc3 9. bxc3 O-O 10. d5 Nb8 11. Re1 Nf6 12. d6 cxd6 13. Qxd6 b5 14. Bb3 Nc6
+15. Ba3 Re8 16. Rxe8+ Qxe8 17. Re1 Qd8 18. Ng5 {source: London Daily News, 12
+AUG 1904, p. 11; London Evening Standard, 12 AUG 1904, p. 9; Illustrated
+London News, 23 SEP 1904, p. 334; American Chess Bulletin, 12/1904, p.
+14American Chess Bulletin, 1/1905, p. 18} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Loman, Rudolf Johannes"]
+[Black "Mueller, Oscar Conrad"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[PlyCount "55"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Be7 4. d4 exd4 5. O-O Nf6 6. e5 Ne4 7. Nxd4 Nxd4 8.
+Qxd4 Nc5 9. Nc3 c6 10. Bc4 b5 11. Bb3 a5 12. a3 O-O 13. Ba2 d5 14. exd6 Qxd6
+15. Qxd6 Bxd6 16. Be3 Bf5 17. Rad1 Be7 18. Ne2 Rfd8 19. Nd4 Bd7 20. c3 Na4 21.
+Rd2 c5 22. Nf3 c4 23. Bb1 b4 24. Rfd1 Bb5 25. Rxd8+ Rxd8 26. Rxd8+ Bxd8 27.
+axb4 axb4 28. Nd4 {source: American Chess Bulletin, 1/1905, p. 19} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Napier, William Ewart"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "95"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Bd3 b6 8. cxd5
+exd5 9. Ne5 Bb7 10. f4 Ne4 11. Bxe7 Qxe7 12. Bxe4 dxe4 13. O-O Rad8 14. Qa4 a5
+15. Rad1 Nxe5 16. dxe5 f5 17. Rxd8 Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Kf8 20. Qd4 c5
+21. Qd1 Bc6 22. a4 Qd7 23. Qxd7 Bxd7 24. Kf2 Bc6 25. Ke1 Ke7 26. Kd2 Ke6 27.
+Kc2 Bb7 28. Nb1 Kd5 29. Kc3 Bc6 30. b3 Bd7 31. Na3 Kc6 32. Nc4 Be6 33. Nd6 Kd7
+34. Kc2 g6 35. Kc3 h6 36. Kc2 Ke7 37. Nc4 Bxc4 38. bxc4 Ke6 39. Kd2 Kd7 40. Ke2
+g5 41. Kf2 Ke6 42. h3 gxf4 43. exf4 h5 44. Ke3 h4 45. Kf2 Kf7 46. g3 b5 47.
+cxb5 c4 48. gxh4 {source: London Evening Standard, 12 AUG 1904, p. 9; American
+Chess Bulletin, 1/1905, p. 19 & 5/1905, p. 210 (notes by Howell)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Shoosmith, Hector William"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "E14"]
+[PlyCount "117"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 b6 5. Nf3 Bb7 6. cxd5 exd5 7. Bb5+ c6 8. Bd3
+Bd6 9. O-O O-O 10. Bd2 Nbd7 11. Rc1 Rc8 12. Qe2 Re8 13. Ba6 Bxa6 14. Qxa6 Rc7
+15. Rc2 Ne4 16. Rfc1 Re6 17. Be1 Rh6 18. g3 Nb8 19. Qf1 Qc8 20. Nxe4 dxe4 21.
+Nd2 Qe6 22. a3 Rd7 23. b4 Bf8 24. Nc4 f6 25. f3 exf3 26. Qxf3 Rd5 27. Rf2 c5
+28. dxc5 bxc5 29. b5 Nd7 30. Bc3 Rd3 31. Bb2 Nb6 32. Ne5 Rd5 33. Nc6 a6 34. e4
+Rd6 35. e5 Rd5 36. exf6 gxf6 37. Bxf6 axb5 38. Bg5 Rf5 39. Qxf5 Qxf5 40. Rxf5
+Rxc6 41. Rb1 b4 42. Rbf1 {[source has 42.R-Kt3]} Bg7 43. axb4 cxb4 44. Rb5 Bc3
+45. Kg2 Nc4 46. Kh3 Kg7 47. Kh4 Nd6 48. Rb8 Ne4 49. Bf4 Nc5 50. Be3 Ne4 51. g4
+Rc4 52. Rb7+ Kg6 53. Rb6+ Bf6+ 54. Bg5 Rc2 55. Rfxf6+ Nxf6 56. Bxf6 Rxh2+ 57.
+Kg3 Rh1 58. Bd4+ Kf7 59. Rxb4 {and white won source: American Chess Bulletin,
+1/1905, p. 19} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Tattersall, Creassey"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. The game between Tattersall and Mortimer resolved
+itself into an ending with knight and two pawns against bishop and three in
+favour of Tattersall. It was not easy to win, however, anf this game was also
+adjourned. London Daily News, 12 AUG 1904, p. 11}  1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Teichmann, Richard"]
+[Black "Brown, Frederick"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "143"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nd4 4. d3 g6 5. Be3 Bg7 6. Qd2 d6 7. h3 Bd7 8. Nd1
+Bc6 9. c3 Nb5 10. f3 e6 11. d4 b6 12. Nf2 Ne7 13. Bh6 O-O 14. Bxg7 Kxg7 15. h4
+Ng8 16. O-O-O Qe7 17. Ng3 cxd4 18. Bxb5 Bxb5 19. Qxd4+ e5 20. Qxd6 Rfd8 21.
+Qxe7 Nxe7 22. Ng4 f6 23. Ne3 h5 24. Rxd8 Rxd8 25. Rd1 Rxd1+ 26. Kxd1 Kf7 27.
+Kd2 Ke6 28. c4 Bd7 29. Nd5 Nc6 30. Kd3 Na5 31. Ne2 Bc8 32. Nec3 Bd7 33. Nc7+
+Kf7 34. N3b5 Nc6 35. a3 g5 36. g3 Bh3 37. Ke3 Bf1 38. b4 Kg6 39. c5 bxc5 40.
+bxc5 a5 41. Nd6 Bg2 42. Nf5 Bh3 43. Nd6 Bg2 44. Nd5 Bf1 45. f4 exf4+ 46. gxf4
+gxh4 47. Kf2 Bh3 48. f5+ Kg7 49. Ne8+ Kf7 50. Nexf6 Bg4 51. Nh7 Ne5 52. Ng5+
+Kf8 53. Kg2 Ke8 54. f6 Kf8 55. Nf4 Ke8 56. c6 h3+ 57. Kh1 Kd8 58. f7 Ke7 59.
+Nd5+ Kf8 60. Nf6 Nxf7 61. Nxg4 Nd6 62. e5 Nb5 63. Nf6 Nc7 64. Kh2 Kg7 65. Kxh3
+Kg6 66. Kh4 Kf5 67. Nd7 a4 68. Kxh5 Nd5 69. e6 Nf4+ 70. Kh6 Nd5 71. Nb6 Nc7 72.
+e7 {source: American Chess Bulletin, 1/1905, p. 18} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.11"]
+[Round "15"]
+[White "Van Vliet, Louis"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "D21"]
+[PlyCount "124"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 cxd4 5. Bxc4 Qa5+ 6. Bd2 Qb6 7. Nxd4 Nf6 8.
+Nc3 Bd7 9. Na4 Qc7 10. Rc1 Nc6 11. Nb5 Qb8 12. Nc5 e6 13. Nxd7 Nxd7 14. O-O a6
+15. Nd4 Nxd4 16. exd4 Nf6 17. Re1 Bd6 18. h3 O-O 19. Qf3 b5 20. Bb3 a5 21. Bg5
+Be7 22. Bf4 Bd6 23. Be5 Bxe5 24. dxe5 Nd7 25. Qe4 Rc8 26. Bc2 g6 27. Qe3 Ra7
+28. Bd3 Rac7 29. Rcd1 Nf8 30. f4 Rc5 31. Be4 Qc7 32. Qd2 b4 33. Bd3 Rd5 34. Qf2
+Qd7 35. Bc2 Rxd1 36. Rxd1 Qc6 37. Rd2 Nd7 38. Bb3 Qb5 39. Qa7 Nb6 40. Qe7 Qc5+
+41. Qxc5 Rxc5 42. Rd6 Rc1+ 43. Kh2 Nc8 44. Ra6 Rc5 45. Kg3 Ne7 46. Kf3 g5 47.
+g3 gxf4 48. gxf4 Kg7 49. Ke4 Nf5 50. Rb6 Kf8 51. Rb8+ Kg7 52. Rb6 h5 53. Rb7
+Kg6 54. Rb6 Kg7 55. Ra6 Kf8 56. Ra8+ Kg7 57. Ra7 Kg6 58. Ra6 Rc1 59. Bxe6 Re1+
+60. Kf3 Nd4+ 61. Kf2 Re2+ 62. Kf1 fxe6 {source: American Chess Bulletin, 1/
+1905, p. 19} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Blackburne, Joseph Henry"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "1-0"]
+[ECO "A13"]
+[PlyCount "91"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. c4 e6 2. g3 d5 3. cxd5 exd5 4. Bg2 Nf6 5. Nf3 Bd6 6. O-O O-O 7. d3 Re8 8.
+Nc3 Na6 9. Bg5 h6 10. Bd2 c6 11. Rc1 Bf5 12. Nh4 Bh7 13. a3 Qe7 14. Re1 Rad8
+15. b4 Nc7 16. Na4 Nb5 17. Ra1 Qf8 18. Ra2 g5 19. Nf3 Nh5 20. Nc3 a6 21. Qc1 f5
+22. h4 Nxc3 23. Bxc3 g4 24. Nh2 Re6 25. e4 dxe4 26. dxe4 Nxg3 27. e5 Bxe5 28.
+Rxe5 Red6 29. Re1 Qf7 30. Rd2 Nh5 31. Rxd6 Rxd6 32. Be5 Re6 33. Bf1 b5 34. Qd1
+Qe7 35. Bc3 Rxe1 36. Qxe1 Qxe1 37. Bxe1 Nf6 38. Bd2 h5 39. Bg2 Ne4 40. Bxe4
+fxe4 41. Nf1 Kf7 42. Ne3 Ke6 43. Bc3 Kd6 44. Bd4 a5 45. Bc5+ Kc7 46. bxa5 {
+source: American Chess Bulletin, 1/1905, p. 20 (notes by Hoffer)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Brown, Frederick"]
+[Black "Van Vliet, Louis"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "53"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. g4 d5 2. h3 e5 3. Bg2 c6 4. d3 Bd6 5. Nd2 Ne7 6. c4 Be6 7. Qc2 Nd7 8. Ngf3
+Ng6 9. Nb3 f6 10. Bd2 Qe7 11. Rd1 Bb4 12. e3 a5 13. a3 Bxd2+ 14. Rxd2 dxc4 15.
+dxc4 Qf7 (15... a4 $17) 16. Bf1 Nb6 (16... a4 $17) 17. Nc5 Qe7 18. Nxe6 Qxe6
+19. c5 Nd7 20. Bd3 Ne7 $4 21. Bc4 Nd5 22. e4 Nxc5 23. exd5 cxd5 24. Rxd5 Qc6
+25. Rxc5 Qxf3 26. Bd5 Qf4 27. Rc8+ {source: London Daily News, 13 AUG 1904, p.
+11; American Chess Bulletin, 1/1905, p. 20 (notes by Hoffer)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "Teichmann, Richard"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[PlyCount "41"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. e3 c5 3. dxc5 Nc6 4. c4 e6 5. a3 dxc4 6. Qxd8+ Nxd8 7. Bxc4 Bxc5 8.
+b4 Be7 9. Bb2 Nf6 10. Nc3 a6 11. Nge2 b5 12. Bd3 Bb7 13. O-O O-O 14. Ng3 Nc6
+15. Nce4 Rfd8 16. Rfd1 Nd7 17. Bc2 Nde5 18. Rxd8+ Rxd8 19. Bb3 Kf8 20. Bc3 h6
+21. Kf1 {source: American Chess Bulletin, 1/1905, p. 19} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Gunston, William Hewison"]
+[Black "Lee, Francis Joseph"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "61"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Nf3 Bg4 6. Be2 Bxf3 7. Bxf3 e6 8.
+O-O Nf6 9. Ne4 Nbd7 10. Re1 Be7 11. c3 Qc7 12. Qb3 h6 13. Ng3 g6 14. c4 Nb6 15.
+Bd2 a5 16. Rac1 a4 17. Qe3 Kf8 18. Ne4 Nxe4 19. Bxe4 Bf6 20. d5 Bxb2 21. Rc2
+Bg7 22. dxe6 f5 23. Bf3 Bf6 24. Bb4+ Kg7 25. Bc5 Nc8 26. Rd1 Re8 27. Rcd2 Ne7
+28. Rd7 Qc8 29. Bd4 g5 30. Bh5 f4 31. Qe4 {source: American Chess Bulletin, 5/
+1905, p. 210 (notes by Howell)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Mackenzie, Arthur John"]
+[Black "Shoosmith, Hector William"]
+[Result "0-1"]
+[ECO "D40"]
+[PlyCount "78"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. a3 a6 7. dxc5 Bxc5 8. b4
+Be7 9. c5 O-O 10. Bb2 b6 11. cxb6 Qxb6 12. Be2 Bd7 13. O-O Rfd8 14. Na4 Qb7 15.
+Nd4 a5 16. Nxc6 Bxc6 17. Nc5 Bxc5 18. Bxf6 gxf6 19. bxc5 d4 20. Bf3 dxe3 21.
+Bxc6 exf2+ 22. Kh1 Qxc6 23. Qg4+ Kf8 24. Rxf2 f5 25. Qh4 Qxc5 26. Qh6+ Ke8 27.
+Re2 Qc4 28. Ree1 Rac8 29. Qxh7 Qg4 30. h3 Qg5 31. Rab1 Kf8 32. Rb7 Qf6 33. Re3
+f4 34. Rf3 e5 35. Rfb3 Qg7 36. Qxg7+ Kxg7 37. R7b5 Rc1+ 38. Kh2 Rdd1 39. Rg3+
+Kh7 {source: American Chess Bulletin, 1/1905, p. 20} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Mason, James"]
+[Black "Loman, Rudolf Johannes"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[PlyCount "46"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nxe4 8.
+O-O Bxc3 9. bxc3 d5 10. Bd3 O-O 11. Bxe4 dxe4 12. Ng5 Qd5 13. f3 exf3 14. Nxf3
+Bg4 15. Qd3 Bxf3 16. Rxf3 Rfe8 17. Bf4 Re7 18. Rf2 Na5 19. Qg3 f6 20. Bxc7 Nc4
+21. Bf4 Rae8 22. Raf1 Kh8 23. h3 Re6 {source: American Chess Bulletin, 1/1905,
+p. 19} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Mortimer, James"]
+[Black "Napier, William Ewart"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Napier won his game against Mortimer in 53 moves. Mortimer, playing first
+move in a Sicilian, made a good fight up to a certain point. In the ending,
+however, Napier was two pawns ahead with an easy game. source: London Dayly
+News, 13 AUG 1904, p. 11}  0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.12"]
+[Round "16"]
+[White "Mueller, Oscar Conrad"]
+[Black "Tattersall, Creassey"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+{Game score not available. Tattersall lost to Mueller in a somewhat singular
+manner. An ending had been arrived at,i n which Tattersall had bishop and four
+pawns against knight and four. Intending to play his bishop, he touched one of
+his opponent's pawns by mistake. Unfortunately, this particular pawn could be
+taken, at the loss of the bishop, and Tattersall resigned shortly afterwards.
+London Daily News, 13 AUG 1904, p. 11}  1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Curnock, Arthur John"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "B20"]
+[PlyCount "71"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Bxa3 e6 5. Bxf8 Kxf8 6. d4 Qc7 7. Bd3 d6 8.
+f4 Bd7 9. Nf3 Ne7 10. O-O b5 11. Qd2 a5 12. Nc3 Qb7 13. Nxb5 Bxb5 14. Rfb1 Nbc6
+15. Rxb5 Qa7 16. c3 f6 17. Rab1 Nd8 18. e5 d5 19. exf6 gxf6 20. f5 exf5 21.
+Qh6+ Ke8 22. Qxf6 Rf8 23. Qe5 Ndc6 24. Qe2 Qd7 25. Rb7 Qd6 26. R1b6 Kd8 27. Ne5
+a4 28. Rxe7 Kxe7 29. Rxc6 Qd8 30. Qb2 Rf6 31. Qb7+ Ke8 32. Re6+ Kf8 33. Rxf6+
+Kg8 34. Bxf5 Qxf6 35. Qxh7+ Kf8 36. Nd7+ {source: London Evening Standard, 15
+AUG 1904, p. 7; American Chess Bulletin, 5/1905, p. 210 (notes by Howell)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Lee, Francis Joseph"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "111"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 c5 6. c3 c4 7. Nbd2 O-O 8. Ne5
+Nc6 9. f4 Ne7 10. Be2 Ne8 11. O-O f6 12. Nef3 Nf5 13. Bf2 Nh6 14. g3 Ng4 15. e4
+Nxf2 16. Rxf2 Bd7 17. e5 Be7 18. Nf1 f5 19. h4 g6 20. Rh2 Ng7 21. Ng5 h6 22.
+Nh3 Be8 23. Ne3 Rc8 24. Ng2 b5 25. a3 a5 26. Ne3 b4 27. axb4 axb4 28. Bf3 bxc3
+29. bxc3 Rb8 30. Qc1 Kh7 31. Rha2 Nh5 32. Bxh5 gxh5 33. Ra7 Rg8 34. Kh2 Rg7 35.
+Ng2 Bc6 36. Qd1 Qe8 37. R1a2 Qg6 38. Qf3 Rbg8 39. Ng1 Bf8 40. Ne3 Kh8 41. Ne2
+Rxa7 42. Rxa7 Rg7 43. Rxg7 Kxg7 44. Nxc4 Qe8 45. Ne3 Ba3 46. Nc2 Bb2 47. Nb4
+Bb5 48. Nd3 Ba3 49. Nc5 Kg6 50. Qe3 Qc6 51. Nc1 Bc4 52. N1b3 Qb6 53. Nd2 Bc1
+54. Nxc4 Qxc5 55. dxc5 Bxe3 56. Nxe3 {source: American Chess Bulletin, 5/1905,
+p. 211 (notes by Howell)} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Brown, Frederick"]
+[Result "0-1"]
+[ECO "B23"]
+[PlyCount "112"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nd4 4. Nxd4 cxd4 5. Ne2 Qb6 6. c3 dxc3 7. Nxc3 e6 8.
+d4 Bb4 9. Be3 d5 10. e5 Bd7 11. Qg4 g6 12. Be2 h5 13. Qh3 Ne7 14. g4 Bb5 15.
+Bd1 Kd7 16. gxh5 gxh5 17. Bc2 Rac8 18. Kd2 Rxc3 19. bxc3 Bxc3+ 20. Kxc3 Rc8+
+21. Kd2 Qa5+ 22. Kd1 Rxc2 23. Kxc2 Qa4+ 24. Kd2 Qb4+ 25. Kc2 Qc4+ 26. Kb2 Qb4+
+27. Kc2 Ba4+ 28. Kd3 Qb5+ 29. Kc3 Qa5+ 30. Kd3 Bb5+ 31. Kc2 Qa4+ 32. Kd2 Qb4+
+33. Kc2 Ba4+ 34. Kd3 Qb2 35. Bd2 Qc2+ 36. Ke2 Qe4+ 37. Qe3 Bb5+ 38. Kd1 Qxh1+
+39. Be1 Nf5 40. Qd2 Qe4 41. a4 Bc4 42. f3 Qxf3+ 43. Kc1 Qe4 44. Qb4 b6 45. Bc3
+Qh1+ 46. Kb2 Qxh2+ 47. Ka3 Qc2 48. a5 b5 49. a6 h4 50. Bb2 Qd3+ 51. Bc3 Qc2 52.
+Bb2 h3 53. Rc1 Qd3+ 54. Rc3 Qxd4 55. Rxh3 Qb6 56. Qf8 Qa5# {source: London
+Evening Standard, 15 AUG 1904, p. 7; American Chess Bulletin, 5/1905, p. 211}
+0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Loman, Rudolf Johannes"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "D26"]
+[PlyCount "72"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 cxd4 5. exd4 e6 6. Bxc4 Nf6 7. Nc3 a6 8.
+O-O b5 9. Bd3 Bb7 10. Be3 Nbd7 11. Rc1 Be7 12. Qe2 O-O 13. Rfd1 Nb6 14. Bg5 Rc8
+15. a3 h6 16. Bh4 Nbd5 17. Nxd5 Qxd5 18. Bb1 Rfd8 19. Qd3 g6 20. Rxc8 Rxc8 21.
+Ne1 Qh5 22. Bxf6 Bxf6 23. f3 Rd8 24. Qe3 Qh4 25. Nc2 e5 26. g3 Qh5 27. d5 Bxd5
+28. Ne1 Qh3 29. Ng2 Qe6 30. Be4 Bxe4 31. Rxd8+ Bxd8 32. Qxe4 Bb6+ 33. Kh1 Bd4
+34. b4 Qc4 35. Qe1 Qd3 36. f4 e4 {source: American Chess Bulletin, 5/1905, p.
+211 (notes by Howell)} 0-1
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Napier, William Ewart"]
+[Black "Mueller, Oscar Conrad"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "38"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. cxd5 exd5 8. Ne5
+Bb7 9. Bd3 Nbd7 10. f4 c5 11. O-O Ne4 12. Bxe7 Qxe7 13. Bxe4 dxe4 14. Nxd7 Qxd7
+15. dxc5 Qxd1 16. Rfxd1 bxc5 17. Rd7 Bc6 18. Rd6 Rfc8 19. Rad1 Kf8 {source:
+American Chess Bulletin, 1/1905, p. 20} 1/2-1/2
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Shoosmith, Hector William"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "A13"]
+[PlyCount "117"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. c4 e6 2. g3 d5 3. cxd5 exd5 4. Bg2 Nf6 5. Nf3 Nc6 6. d3 Bd6 7. O-O Ne7 8. e4
+dxe4 9. dxe4 Nd7 10. Nbd2 O-O 11. Nc4 Bc5 12. Be3 Bxe3 13. Nxe3 c6 14. Qc2 Nf6
+15. Rfd1 Qc7 16. e5 Ng4 17. Nc4 Bf5 18. Qe2 Be6 19. Nd4 Bxc4 20. Qxg4 Qxe5 21.
+Nxc6 Nxc6 22. Qxc4 Rac8 23. Rab1 Rfe8 24. Rd7 Qf5 25. Rbd1 Re1+ 26. Rxe1 Qxd7
+27. Bxc6 Rxc6 28. Qd4 Rd6 29. Qxa7 h5 30. Qb8+ Kh7 31. a3 h4 32. Qe8 hxg3 33.
+hxg3 Qxe8 34. Rxe8 Rd2 35. b4 Rd7 36. Kg2 Kg6 37. Kf3 Kf6 38. Ke3 g5 39. Re4 b5
+40. Rd4 Re7+ 41. Kd2 Ke5 42. Rd3 Ra7 43. f3 f5 44. Ke3 f4+ 45. gxf4+ gxf4+ 46.
+Kd2 Ra6 47. Kc2 Rh6 48. Kb3 Rh1 49. a4 Rb1+ 50. Ka2 Rxb4 51. a5 Rc4 52. a6 Rc7
+53. Ra3 Ra7 54. Kb3 Kd5 55. Kb4 Kc6 56. Ra5 Kb6 57. Rxb5+ Kxa6 58. Ra5+ Kb6 59.
+Rxa7 {source: London Evening Standard, 15 AUG 1904, p. 7; American Chess
+Bulletin, 5/1905, p. 212} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Tattersall, Creassey"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "B01"]
+[PlyCount "87"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd3 c6 6. Nge2 Bg4 7. Bf4 Nbd7 8.
+Qd2 e6 9. a3 Be7 10. O-O Bxe2 11. b4 Qd8 12. Nxe2 O-O 13. c3 Re8 14. Qc2 Nf8
+15. Ng3 Nd5 16. Bd2 Bd6 17. f4 f5 18. Rf3 Nf6 19. Nf1 Bc7 20. Ne3 g6 21. Nc4
+Qe7 22. Ne5 Bxe5 23. fxe5 Nh5 24. Raf1 Nd7 25. Qc1 Rf8 26. Bg5 Qe8 27. Rh3 Rf7
+28. Qe1 Nf8 29. Be2 Ng7 30. Rh6 Qd7 31. Rf4 Ne8 32. h4 Rg7 33. Qg3 Qf7 34. h5
+Rc8 35. Qh4 gxh5 36. Bxh5 Ng6 37. Qh2 Rc7 38. Rh4 Kf8 39. Bxg6 Rxg6 40. Rxh7
+Rxg5 41. Rxf7+ Rxf7 42. Rh8+ Ke7 43. Qh4 Rfg7 44. Rh5 {source: BCM, 9/1904, p.
+350 (notes by Tattersall); American Chess Bulletin, 5/1905, p. 211} 1-0
+
+[Event "City of London CC National Tournament"]
+[Site "London"]
+[Date "1904.08.13"]
+[Round "17"]
+[White "Van Vliet, Louis"]
+[Black "Gunsberg, Isidor Arthur"]
+[Result "0-1"]
+[ECO "A84"]
+[PlyCount "74"]
+[EventDate "1904.07.25"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Bd6 4. c4 c6 5. Nc3 f5 6. Ne5 Nf6 7. f4 b6 8. Bd3 g6
+9. Qf3 Bb7 10. Qh3 Rg8 11. Bd2 Qe7 12. Rc1 Nbd7 13. cxd5 exd5 14. O-O Rc8 15.
+Be1 Qg7 16. Bh4 Rf8 17. Bg5 Ng8 18. Rc2 Be7 19. Bxe7 Nxe7 20. g4 Rd8 21. Rg2
+fxg4 22. Qxg4 Nxe5 23. fxe5 Rxf1+ 24. Kxf1 Bc8 25. Qh4 Bf5 26. Bxf5 Nxf5 27.
+Qh3 Qh6 28. Qxh6 Nxh6 29. Ke2 Ke7 30. Rf2 Nf5 31. Kd3 Ke6 32. Ne2 g5 33. Ng3
+Rf8 34. e4 dxe4+ 35. Nxe4 h6 36. Nd6 c5 37. Ke4 Nxd6+ {source: American Chess
+Bulletin, 1/1905, p. 20} 0-1
+

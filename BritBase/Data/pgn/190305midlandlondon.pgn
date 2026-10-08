@@ -1,0 +1,314 @@
+﻿[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.1"]
+[White "Lawrence, Thomas Francis"]
+[Black "Atkins, Henry Ernest"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[PlyCount "94"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "City of London"]
+[BlackTeam "Midland Counties"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nf6 5. exf5 e4 6. Ng5 d5 7. d3 Bxf5 8.
+dxe4 dxe4 9. Qe2 Bb4 10. Bd2 Qe7 11. Qc4 Bd7 12. O-O-O O-O-O 13. Ngxe4 Be6 14.
+Qf1 Nxe4 15. Nxe4 Bd5 16. Nc3 Bxc3 17. Bxc3 Nb4 18. Bc4 Nxa2+ 19. Bxa2 Bxa2 20.
+Qb5 Be6 21. Qe5 Qf7 22. Rxd8+ Rxd8 23. Re1 Bd5 24. Qe3 Kb8 25. Qg5 Kc8 26. f4
+Bc6 27. b3 h6 28. Qg4+ Bd7 29. Qh4 Re8 30. Rxe8+ Bxe8 31. Qg4+ Bd7 32. Qxg7
+Qxf4+ 33. Bd2 Qf1+ 34. Kb2 Bc6 35. Qg4+ Kd8 36. Qg8+ Kd7 37. Qh7+ Kc8 38. Qxh6
+Qxg2 39. Qf8+ Kd7 40. Qf5+ Ke8 41. Qe6+ Kd8 42. Bc3 $18 Bd7 43. Bf6+ $2 ({
+"And here Mr Lawrence missed a very easy mate by} 43. Qf6+ Ke8 44. Bb4 $1 {
+It was a case of having several ways and choosing the one to which an
+overloaded defence existed" (A J Mackenzie, newpaper columnist)}) 43... Kc8 44.
+Qe7 Qg8 45. h4 Qe8 46. Qc5 b6 47. Qg5 Qe4 {Source: Birmingham Daily Post, 26
+May 1903. Contributed by Brian Denman, 21 April 2023.} 1/2-1/2
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.2"]
+[White "Bellingham, George Edward H"]
+[Black "Ward, William"]
+[Result "1-0"]
+[ECO "E12"]
+[PlyCount "55"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "Midland Counties"]
+[BlackTeam "City of London"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Bd3 b6 8. O-O
+Bb7 9. Qe2 Ne4 10. Bf4 c5 11. Rfd1 f5 12. Rac1 Qe8 13. Ne5 Nxe5 14. Bxe5 Qg6
+15. cxd5 exd5 16. f4 Nxc3 17. Rxc3 c4 18. Bb1 b5 19. Kh1 h5 20. Rf1 a5 21. e4
+Bf6 22. exf5 Qh6 23. Re3 h4 24. g4 Bxe5 25. fxe5 b4 26. g5 Qxg5 27. Rg1 Qh6 28.
+Qg4 {Source: Birmingham Daily Post - Tuesday 26 May 1903} 1-0
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.3"]
+[White "Girdlestone, Thomas Bolton"]
+[Black "Brown, Fred"]
+[Result "0-1"]
+[ECO "B01"]
+[PlyCount "40"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "City of London"]
+[BlackTeam "Midland Counties"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 d5 2. e5 d4 3. f4 Nc6 4. Nf3 Bf5 5. d3 e6 6. Be2 Bb4+ 7. Bd2 Nge7 8. O-O
+Bc5 9. a3 a5 10. h3 h6 11. Be1 Nd5 12. Qc1 Ne3 13. Rf2 g5 14. fxg5 hxg5 15.
+Nbd2 g4 16. hxg4 Nxg4 17. Rf1 Ne3 18. Rf2 Nxe5 19. Nb3 Qf6 20. Nxc5 Qh6 {
+Source: Birmingham Daily Post - Tuesday 26 May 1903} 0-1
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.4"]
+[White "Mackenzie, Arthur John"]
+[Black "Curnock, Arthur John"]
+[Result "1-0"]
+[ECO "D09"]
+[PlyCount "43"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "Midland Counties"]
+[BlackTeam "City of London"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Nbd2 f6 7. exf6 Nxf6 8.
+Bg2 Qd7 9. O-O Be7 10. a3 O-O 11. b4 a6 12. Bb2 b5 13. cxb5 axb5 14. Nb3 Bh3
+15. Nbxd4 Bxg2 16. Kxg2 Nxd4 17. Qxd4 Bd6 18. e4 Rae8 19. e5 Qc6 20. Rac1 Qb7
+21. exd6 {('P takes P' - Birmingham Post)} Re4 22. Rxc7 {Sources: Birmingham
+Daily Post - Tuesday 26 May 1903; Sunday Times, 7 June 1903.} 1-0
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.6"]
+[White "Wilmot, Bernard Dinwoody"]
+[Black "Woon, Charles Joseph"]
+[Result "1-0"]
+[ECO "C66"]
+[PlyCount "41"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "Midland Counties"]
+[BlackTeam "City of London"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Bxc6+ bxc6 6. d4 exd4 7. Qxd4 Be7
+8. Nc3 O-O 9. b3 Ne8 10. Bb2 Ba6 11. Rfe1 h6 12. Rad1 c5 13. Qe3 ({The
+newspaper clearly gives} 13. Qd2 {- "Q-Q2" - but had this been played then 14..
+.Qa5 would have been answered by 15 Qxa5. So 13 Qe3 is the only move which is
+consistent with what follows - JS}) 13... c6 14. Ne2 Qa5 15. Nf4 Qxa2 16. Qc3
+Bf6 17. e5 $18 dxe5 18. Nxe5 g5 19. Nh5 Bxe5 20. Rxe5 Nd6 21. Rxg5+ {Source:
+Birmingham Daily Post - Tuesday 26 May 1903} 1-0
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.9"]
+[White "Hamond, Francis Edward"]
+[Black "Smith, Frank Scuse"]
+[Result "1-0"]
+[ECO "D53"]
+[PlyCount "84"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "City of London"]
+[BlackTeam "Midland Counties"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 c5 7. Bd3 a6 8. b3
+cxd4 9. exd4 O-O 10. O-O h6 11. Bh4 Re8 12. Re1 Bb4 13. Rc1 Qa5 14. Qc2 dxc4
+15. bxc4 b5 16. Bxf6 Nxf6 17. Re3 bxc4 18. Bxc4 Bb7 19. Ne5 Rac8 20. Ne2 Bd2
+21. Rf1 Bxe3 22. fxe3 Bd5 23. Qd3 Bxc4 24. Nxc4 Qb5 25. Rc1 Rc7 26. Ne5 Qxd3
+27. Nxd3 Rxc1+ 28. Ndxc1 Rc8 29. Kf2 Rc2 30. Kf3 g5 31. e4 Kf8 32. Ke3 Rb2 33.
+h3 Nh5 34. g3 f5 35. exf5 exf5 36. a4 Nxg3 37. Nc3 Rh2 38. d5 Rxh3 39. Kd4 Ne4
+40. N1e2 Ke7 41. Ke5 Nd6 42. Na2 $2 Re3+ {('R-K7 ch') Source: Birmingham Daily
+Post - Tuesday 26 May 1903} 1-0
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.11"]
+[White "Hammond, Cecil Perfect"]
+[Black "Billington, Thomas Henry"]
+[Result "0-1"]
+[ECO "C45"]
+[PlyCount "86"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "City of London"]
+[BlackTeam "Midland Counties"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. Nxd4 Nxd4 6. Qxd4 Be6 7. Nc3 Nf6 8.
+O-O Be7 9. f4 Bxc4 10. Qxc4 O-O 11. e5 Nd7 12. Be3 dxe5 13. Rad1 Qc8 14. Qd5
+Bd6 15. fxe5 Nxe5 16. Ne4 Ng4 17. Nxd6 Nxe3 18. Qe4 cxd6 19. Qxe3 Qxc2 20. Qe7
+Qxb2 21. Rxd6 Rae8 22. Qg5 Qxa2 23. Rd7 h6 24. Qg3 Qb2 25. Qf3 Qb6+ 26. Kh1 Qc6
+27. Rxb7 Qxf3 28. gxf3 Ra8 29. Ra1 a5 30. Rb5 Rfc8 31. Kg2 a4 32. Kg3 Rc4 33.
+Rb7 a3 34. Ra2 f6 35. h4 Kh7 36. f4 Rc3+ 37. Kg4 Ra4 38. Rb1 Ra5 39. h5 f5+ 40.
+Kh4 Rf3 41. Rb4 Re3 42. Rg2 a2 43. Rb7 a1=Q {Source: Birmingham Daily Post -
+Tuesday 26 May 1903} 0-1
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.12"]
+[White "Morling, John William"]
+[Black "Dunstan, Robert (Dr)"]
+[Result "0-1"]
+[ECO "B30"]
+[PlyCount "56"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Midland Counties"]
+[BlackTeam "City of London"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 g6 4. O-O Bg7 5. a3 Nf6 6. d3 d6 7. c3 O-O 8. Be3
+Bd7 9. Re1 Bg4 10. h3 Bxf3 11. gxf3 Qd7 12. Kh2 Nh5 13. f4 Nd8 14. Qg4 e6 15.
+Nd2 Nf6 16. Qg2 d5 17. Bb3 d4 18. cxd4 cxd4 19. Nc4 dxe3 20. Rxe3 Nh5 21. Rf3
+Nc6 22. Ba4 Qc7 23. e5 Nd4 24. Re3 b5 25. Bxb5 Nxb5 26. Qg4 Nd4 27. Rc1 Rab8
+28. Ree1 Bh6 {Source: Western Morning News, 11 June 1903. Contributed by Brian
+Denman, 21 April 2023.} 0-1
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.18"]
+[White "Wright, John Robert"]
+[Black "Wood, S."]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "51"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "Midland Counties"]
+[BlackTeam "City of London"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Nc3 c6 6. Nf3 Bd6 7. Bg5 Bg4 8. h3
+Be6 9. Ne5 Nbd7 10. Qe2 O-O 11. O-O-O Qc7 12. Bxf6 Nxf6 13. f4 a5 14. g4 Bxe5
+15. dxe5 Ne8 16. f5 d4 17. fxe6 dxc3 18. exf7+ Kxf7 19. Qf2+ Kg8 20. Bc4+ Rf7
+21. Rhf1 cxb2+ 22. Kb1 Nf6 23. exf6 b5 24. Bxf7+ Qxf7 25. fxg7 Qxg7 26. Qf6 {
+Source: Birmingham Daily Post - Tuesday 26 May 1903} 1-0
+
+[Event "Midland Counties v City of London"]
+[Site "Rugby"]
+[Date "1903.05.23"]
+[Round "1.19"]
+[White "Scantlebury, Herbert George"]
+[Black "Price, Hubert Ernest"]
+[Result "0-1"]
+[ECO "D53"]
+[PlyCount "112"]
+[EventDate "1903.05.23"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.02.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.26"]
+[SourceQuality "1"]
+[WhiteTeam "City of London"]
+[BlackTeam "Midland Counties"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c6 7. Bd3 dxc4 8.
+Bxc4 b5 9. Bd3 a6 10. Rc1 Bb7 11. O-O c5 12. dxc5 Nxc5 13. Be2 Qb6 14. Nd4 O-O
+15. Bf3 Rfd8 16. Qe2 Rac8 17. Bxb7 Qxb7 18. Qf3 Qxf3 19. Nxf3 Nd3 20. Rb1 Rc5
+21. Ne4 Rc2 22. Bxf6 gxf6 23. Nd4 Rxb2 24. Rxb2 Nxb2 25. Nc6 Rd7 26. Nxe7+ Rxe7
+27. Nxf6+ Kg7 28. Ne4 Rc7 29. h3 Rc4 30. Rb1 Na4 31. Nd6 Rc2 32. a3 Rc3 33. Ra1
+Nc5 34. Ne8+ Kf8 35. Nc7 Ke7 36. Rb1 Kd7 37. Nxb5 axb5 38. Rxb5 Kc6 39. Rb8
+Rxa3 40. Rh8 Ra1+ 41. Kh2 Ra2 42. f3 f5 $6 (42... Nd3) 43. Rxh7 Re2 $2 44. h4
+Rxe3 45. h5 Rd3 46. h6 Rd8 47. g4 fxg4 48. fxg4 Ne4 49. Rg7 Rh8 50. Rg6 $2 (50.
+g5 $11) 50... Kd6 51. Kh3 Ke7 52. Kh4 Rh7 $1 $19 53. Kh5 Kf7 54. Rxe6 Kxe6 55.
+g5 Kf5 56. g6 Nf6+ {Source: Birmingham Daily Post - Tuesday 26 May 1903} 0-1
+

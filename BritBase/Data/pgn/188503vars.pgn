@@ -1,0 +1,399 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "1"]
+[White "Roberts, John Drew"]
+[Black "Locock, Charles Dealtry"]
+[Result "1-0"]
+[ECO "C72"]
+[PlyCount "95"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Be7 5. O-O d6 6. d3 f5 7. exf5 Bxf5 8. Nc3
+Nf6 9. Ne2 O-O 10. Bb3+ d5 11. d4 e4 12. Ne5 Na5 13. Ng3 Nxb3 14. axb3 Be6 15.
+f4 exf3 16. Rxf3 Nd7 17. Bf4 Bd6 18. Qd2 Nxe5 19. dxe5 Bc5+ 20. Kh1 Bg4 21.
+Rff1 c6 22. h3 Qh4 23. Kh2 h6 24. Be3 Bxe3 25. Qxe3 Be6 26. Ne2 Rae8 27. Nd4
+Qe4 28. Rxf8+ Kxf8 29. Rf1+ Kg8 30. Qf4 Qxf4+ 31. Rxf4 c5 32. Nf3 b5 33. b4
+cxb4 34. Rxb4 Rc8 35. Rf4 Rf8 36. Rxf8+ Kxf8 37. b4 Ke7 38. Kg3 g5 39. h4 Bf5
+40. Nd4 Bc8 41. c3 Kf7 42. h5 Ke7 43. Kf3 Kd8 44. g3 Ke7 45. g4 Kf8 46. Nf5
+Bxf5 47. gxf5 Kf7 48. Ke3 {Source: The Field, 4 Apr 1885. Played at the St
+George's CC, London. Also in BCM 1885, p204.} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "2.1"]
+[White "Wainwright snr, George Edward"]
+[Black "Gwinner, Herman George"]
+[Result "1-0"]
+[ECO "C29"]
+[PlyCount "57"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 {... Mr Gwinner prejudiced his future by} d6 {
+instead of ...d5. However, he was succeeding in improving his game, when he
+made an ill-judged capture on the 14th move, with the king's pawn instead of
+the queen; a miscalculation which led to an attack that resulted after
+exchanges in a simple endgame in which White was two pawns ahead. Black
+simplified matters by taking careful measures to ensure the pinning of his
+rooks, and resigned at the 29th move. (The Field)} 4. Nf3 Bg4 5. Bc4 c6 6. fxe5
+Bxf3 7. Qxf3 dxe5 8. d3 h6 9. Be3 b5 10. Bb3 Na6 11. O-O Bc5 12. Rad1 Bd4 13.
+Kh1 Nc5 14. Bxd4 exd4 15. e5 Nxb3 16. Qxc6+ Nd7 17. Nxb5 O-O 18. axb3 Nxe5 19.
+Qe4 Re8 20. Qxd4 a6 21. Qxd8 Rexd8 22. Na3 Nc6 23. Rf4 Rd6 24. Rdf1 Ra7 25. h3
+Rc7 26. Rc4 g5 27. Rf5 Rdd7 28. Rfc5 Rd6 29. d4 {Source: The Chess Monthly,
+Vol.6, April 1885, p249. Contributed by Gerard Killoran, 27 Feb 2019} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "2.2"]
+[White "Gwinner, Herman George"]
+[Black "Wainwright snr, George Edward"]
+[Result "0-1"]
+[ECO "D06"]
+[PlyCount "38"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{In the second game Mr. Gwinner played the Queen's Gambit. White was somewhat
+more tardy in development than Black and more hasty in attack; but he had a
+perfectly sound game when, on the 16th move, he was intimidated by a sound but
+really unproductive sacrifice on the part of his opponent, and permitted a
+position to ensue which in three more moves induced him to resign.} 1. Nf3 Nf6
+2. d4 d5 3. e3 e6 4. c4 b6 5. Nc3 Be7 6. Bd3 O-O 7. O-O Bb7 8. Ne5 c5 9. Ne2
+Nc6 10. f4 Rc8 11. b3 dxc4 12. Nxc6 Bxc6 13. bxc4 Ne4 14. f5 exf5 15. Rxf5 cxd4
+16. exd4 Nc3 17. Nxc3 Qxd4+ 18. Kh1 Qxc3 19. Bf4 Rcd8 {Sources: Morning Post,
+30 March 1885; The Chess Monthly 1884-1885 v6. Contributed by Gerard Killoran,
+27 Feb 2019} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "3.1"]
+[White "Sherrard, Hugh William"]
+[Black "Walker, James Manders"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[PlyCount "20"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{"Mr. Sherrard in his first game with Mr. Walker was met by the Philidor
+Counter Gambit. This defence, though sanctioned by Morphy, is yet demonstrably
+unsound. On the 7th move Mr. Sherrard, after sacrificing a knight, might have
+won a rook and the game; but for some occult reason, consented to draw by
+perpetual check at Q5, K6 and KB7." (Wainwright, BCM)} 1. e4 e5 2. Nf3 d6 3. d4
+f5 4. Bc4 Be7 5. dxe5 fxe4 6. Qd5 exf3 7. Qf7+ Kd7 8. Qe6+ ({Good enough to
+draw, but White could get a winning superiority with} 8. Qxg7 fxg2 9. Rg1 Nh6
+10. Bxh6 {, etc. (Source: The Chess-Monthly, Vol.6, April 1885, p244)}) 8...
+Kc6 9. Qd5+ Kd7 {and drawn by perpetual check. Source: The Field, 4 April 1885,
+p 40} 10. Qe6+ Kc6 {"Given up as a draw". Source: The Chess-Monthly, Vol.6,
+April 1885, p244} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "3.2"]
+[White "Walker, James Manders"]
+[Black "Sherrard, Hugh William"]
+[Result "0-1"]
+[ECO "C25"]
+[PlyCount "64"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. f4 exf4 ({Mr. Sherrard might have gained the
+superiority here by} 4... Bxg1 5. Rxg1 Qh4+ {but as he neglected the
+opportunity, he had the worse game after...}) 5. Nf3 d6 6. d4 Bb4 7. Bd2 ({
+At this very point, however, Mr. Walker left off his opponent by 7 Bd2 instead
+of} 7. Bxf4) 7... Bg4 8. a3 Bxc3 9. Bxc3 Qe7 10. O-O O-O-O 11. Qd3 Nf6 12. Ng5
+Rhf8 13. Rxf4 h6 14. Nh3 g5 15. Rff1 Nxe4 16. Rae1 d5 (16... d5 {Mr. Walker
+might have regained the pawn by} 17. Bxd5 Rxd5 18. Rxe4 {with a good game -
+GEW.}) 17. Bb5 Qd7 18. Bb4 Nd6 19. Rf6 Bxh3 20. Bxc6 Qxc6 21. Qxh3+ Qd7 22.
+Qxh6 Rh8 23. Qxg5 Ne4 24. Rxe4 dxe4 25. Qe3 Qxd4 26. Qxd4 Rxd4 27. Rxf7 e3 28.
+Kf1 Rxh2 29. Rf8+ Rd8 30. Rf3 Re8 31. Kg1 Rh5 32. Bc3 Rd5 {adjudicated win for
+Black. Source: The Chess-Monthly, Vol.6, April 1885, p245} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "4"]
+[White "Barnett, Richard Whieldon"]
+[Black "Young, Frederick Mortimer"]
+[Result "0-1"]
+[ECO "D07"]
+[PlyCount "90"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nc6 4. e3 Bb4+ 5. Nc3 Bxc3+ 6. bxc3 Nf6 7. Ba3 dxc4 8.
+Bxc4 Ne7 9. Qc2 a6 10. e4 Nd7 11. Ng5 h6 12. Nh3 b5 13. Bd3 Bb7 14. f4 c5 15.
+Rd1 cxd4 16. cxd4 Qa5+ 17. Rd2 Qxa3 18. O-O Rc8 19. Qd1 Nb6 20. Qe2 Na4 21. Rf3
+Qd6 22. Qe3 Qb6 23. Rg3 g6 24. f5 g5 25. fxe6 Qxe6 26. d5 Qb6 27. Qxb6 Nxb6 28.
+d6 Nc6 29. e5 Nxe5 30. Re3 Nbd7 31. Bf5 f6 32. Nf2 Kf8 33. Bxd7 Nxd7 34. Re7
+Re8 35. Rc2 Rxe7 36. dxe7+ Kxe7 37. Re2+ Kf7 38. Rd2 Ne5 39. Ng4 Nxg4 40. Rd7+
+Kg6 41. Rxb7 Rc8 42. g3 Rc1+ 43. Kg2 Rc2+ 44. Kf3 Ne5+ 45. Ke3 Rxa2 {Source:
+The Chess-Monthly, Vol.6, April 1885, p248} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "5.1"]
+[White "Gibson, James Thornton"]
+[Black "Newbolt, Francis George"]
+[Result "0-1"]
+[ECO "C44"]
+[PlyCount "11"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Ne7 6. Bd3 {... Mr. Gibson
+opened with the Scotch game, and at the 12th move fell into a trap by which he
+lost the Queen for two minor pieces. Nothing daunted he proceeded with the
+attack; but at the 28th move Mr. Newbolt sacrificed his Queen with profit to
+himself and ruin to White’s attack. After some desultory warfare for 15 more
+moves Mr. Gibson resigned.} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "5.2"]
+[White "Newbolt, Francis George"]
+[Black "Gibson, James Thornton"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "9"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Na5 5. Nxe5 {... The second game was an
+unorthodox Giuoco Piano, in which the second player-Mr. Gibson-soon abandoned
+his King’s Pawn. After Castling on the Queen’s side, and after his
+opponent had Castled on the King’s, he sacrificed a Bishop at Rook’s sixth,
+obtaining a mere apology for an attack; while Mr. Newbolt was laying
+everything waste on the Queen’s side. White effected a mate on the 25th move.
+} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "6.1"]
+[White "Crump, Henry Ashbrooke"]
+[Black "Allen, Raymund Cecil Edward"]
+[Result "0-1"]
+[ECO "D06"]
+[PlyCount "3"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 {... The first game between Messrs. Crump and Allen was a
+closely contested Queen’s Gambit, of a bookish nature, in which an identical
+position on both sides was reached at the 8th move. It would require very
+accurate analysis to pronounce on the merits of the position at the 23rd move,
+when Mr. Crump made an unfortunate slip and was mated off-hand.} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "6.2"]
+[White "Allen, Raymund Cecil Edward"]
+[Black "Crump, Henry Ashbrooke"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[PlyCount "45"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. dxc5 Bxc5 5. exd5 exd5 6. Nxd5 Qa5+ 7. c3 Be6 8.
+Bb5+ Nc6 9. b4 Qd8 10. Bxc6+ bxc6 11. Ne3 Bb6 12. Nf3 Nf6 13. O-O O-O 14. Qxd8
+Rfxd8 15. a4 a5 16. b5 cxb5 17. axb5 Rd3 18. Rd1 Rxc3 19. Bd2 Rb3 20. Rab1 a4
+21. Ng5 Bd7 22. Nc4 Nd5 23. Nd6 {adjudicated as a draw. Source: Chess-Monthly,
+Vol.6, April 1885, p246} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "7.1"]
+[White "Chepmell, Claude Herries"]
+[Black "Buchanan, Sidney James"]
+[Result "1/2-1/2"]
+[ECO "C14"]
+[PlyCount "76"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 c5 7. exd5 exd5 8.
+Bb5+ Nc6 9. O-O O-O 10. Bxc6 bxc6 11. dxc5 Bxc3 12. bxc3 Re8 13. Nd4 Bd7 14.
+Nb3 Qf6 15. c4 Be6 16. cxd5 Bxd5 17. Qg4 Qg6 18. Qxg6 fxg6 19. Rac1 Re4 20.
+Rfe1 Rae8 21. Rxe4 Rxe4 22. c4 Rxc4 23. Rxc4 Bxc4 24. Nd4 Bd5 25. f4 Kf7 26. a3
+Kf6 27. Kf2 g5 28. g3 gxf4 29. gxf4 g5 30. fxg5+ Kxg5 31. Kg3 a6 32. Ne2 Kf5
+33. h4 Ke5 34. Kg4 a5 35. Nf4 Be6+ 36. Nxe6 Kxe6 37. Kg5 Kf7 38. h5 Kg7 {
+Source: 'The Field' of 4.4.1885. Played at the St George's CC, London.} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1885.03.26"]
+[Round "7.2"]
+[White "Buchanan, Sidney James"]
+[Black "Chepmell, Claude Herries"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "85"]
+[EventDate "1885.03.26"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.27"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.27"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 Bd7 6. h3 Ne7 7. Bxd7+ Qxd7 8.
+Qb3 c6 9. O-O Ng6 10. Be3 Be7 11. c4 O-O 12. Nc3 Nh5 13. Ne2 f5 14. Ng3 fxe4
+15. dxe4 Rxf3 16. Nxh5 Raf8 17. Kh2 Rxh3+ 18. gxh3 Rf3 19. Ng3 Nf4 20. Nf5
+Rxh3+ 21. Kg1 Qe6 22. c5 d5 23. Ng3 Qg4 24. Bxf4 exf4 25. Kg2 f3+ 26. Qxf3 Rh2+
+27. Kxh2 Qxf3 28. exd5 Bxc5 29. dxc6 Bxf2 30. Ne4 Qxe4 31. Rxf2 Qxc6 32. Raf1
+Qd6+ 33. Kg1 h6 34. Rg2 Qd4+ 35. Kh1 Qd5 36. b3 g5 37. Kh2 Kg7 38. Rff2 Kg6 39.
+Rd2 Qe5+ 40. Kg1 h5 41. Rde2 Qd4+ 42. Rgf2 g4 43. Rd2 {adjudicated. Sources:
+BCM 1885, p205; The Chess-Monthly, Vol.6, April 1885, p247} 0-1
+

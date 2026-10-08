@@ -1,0 +1,130 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1891.03.19"]
+[Round "1.1"]
+[White "Ure, John Francis F"]
+[Black "Atkins, Henry Ernest"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[PlyCount "52"]
+[EventDate "1891.03.19"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "The Field"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Ne5 8.
+Bb3 d6 9. h3 Qg6 10. Rh2 Qxe4 11. Bc2 Qh4 12. g3 Qf6 13. Nd2 Nd5 14. Qe2 Nxe3
+15. Qxe3 Qe7 16. O-O-O Kd8 17. f4 Nc6 18. Nxc6+ bxc6 19. Qxe7+ Kxe7 20. Re1+
+Kd8 21. Nc4 Bb6 22. Ba4 Bd7 23. h4 Re8 24. Rhe2 Rxe2 25. Rxe2 c5 26. Bxd7 Kxd7
+{Source: The Field, 11 April 1891 - "we are indebted to Mr Ure for the
+following game, which was played on Board No. 1 in the Universities match" 
+(The Field, 28 March 1891: "Mr J F Ure (Oxford) opened with a Scotch Game
+which was tenaciously defended by Mr H E Atkins, the talented Cantab. It is to
+be regretted that the score of the game is so indifferently recorded that it
+is absolutely impossible to decipher it." (And yet someone seems to have
+managed it subsequently - JS)} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1891.03.19"]
+[Round "2.1"]
+[White "Lester, Hubert Bell"]
+[Black "Le Patourel, Wallace Mackenzie"]
+[Result "0-1"]
+[ECO "C51"]
+[PlyCount "52"]
+[EventDate "1891.03.19"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "The Field"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. Qb3 Nh6 7. d4 Na5 8. Qa4
+Nxc4 9. Qxc4 exd4 10. Bxh6 gxh6 11. cxd4 d6 12. O-O O-O 13. Nc3 c6 14. Nd2 Kh8
+15. f4 d5 16. exd5 cxd5 17. Qe2 Bf6 18. Nb3 a5 19. Rad1 Rg8 20. f5 Rg5 21. Qb5
+Bxf5 22. Qxb7 Bh3 23. Rd2 Qg8 24. Rff2 Re8 25. Ne2 Rxg2+ 26. Kh1 Rxf2 {Sources:
+The Field, 28 March 1891; Chess-Monthly 1891, p239} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1891.03.19"]
+[Round "4.2"]
+[White "Lynam, Robert Garner"]
+[Black "Young, Edward"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "46"]
+[EventDate "1891.03.19"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "The Field"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 exd4 7. e5 Nd5 8.
+Bxc6 dxc6 9. cxd4 Bb6 10. Qd3 f6 11. Nc3 fxe5 12. dxe5 Bg4 13. Ng5 Bf5 14. Qg3
+Nxc3 15. Qxc3 Qd3 16. Qe1 Bg4 17. e6 Be2 18. Nf7 Bxf1 19. e7 Bxf2+ 20. Qxf2
+Rxf7 21. Qe1 Re8 22. Bg5 h6 23. Qe6 hxg5 {Source: The Field, 28 March 1891} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1891.03.19"]
+[Round "5.2"]
+[White "James, Edward Bankes"]
+[Black "Hinds, Allen Banks"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[PlyCount "24"]
+[EventDate "1891.03.19"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "The Field"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 6. Bxf7+ Kf8 7. Ng5 Bxf2+
+8. Kxf2 Qf6+ 9. Qf3 cxb2 10. Qxf6 gxf6 11. Bxb2 fxg5 12. Bxh8 Kxf7 {"and after
+a dozen more moves, the game was adjudicated by Mr Hoffer as drawn" Source:
+The Field, 28 March 1891} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1891.03.19"]
+[Round "6.1"]
+[White "Dinnis, Francis Ramsay"]
+[Black "Burn, Richard"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[PlyCount "51"]
+[EventDate "1891.03.19"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Players Chronicle"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Bc5 4. d4 exd4 5. cxd4 Bb6 6. Bc4 Nh6 7. Bg5 Ne7 8.
+Bxh6 gxh6 9. Ne5 d5 10. Qh5 Be6 11. exd5 Nxd5 12. Nc3 Nf4 13. Qf3 Qxd4 14. Nd3
+Nxd3+ 15. Bxd3 O-O-O 16. Rd1 Bg4 17. Bf5+ Kb8 18. Bxg4 Rhe8+ 19. Kf1 Qc4+ 20.
+Kg1 Rxd1+ 21. Qxd1 Qxg4 22. h3 Qxd1+ 23. Nxd1 c6 24. g3 Re1+ 25. Kg2 Rxh1 26.
+Kxh1 {Sources: Chess-Monthly, 1891, p242; Chess Players' Chronicle, 21 March
+1891; London Daily News, 20 March 1891} 1/2-1/2
+

@@ -1,0 +1,1046 @@
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1900.12.31"]
+[Round "1"]
+[White "Bellingham, George Edward H"]
+[Black "Atkins, Henry Ernest"]
+[Result "0-1"]
+[ECO "C44"]
+[PlyCount "5"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 {... etc. Source: Birmingham Daily Post, 4 January
+1901} 0-1
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1900.12.31"]
+[Round "1"]
+[White "Gunston, William Hewison"]
+[Black "Burn, Amos"]
+[Result "1/2-1/2"]
+[ECO "B73"]
+[PlyCount "70"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 d6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. Qd2 Bd7 10. Rad1 a6 11. f4 Rc8 12. h3 Na5 13. e5 Ne8 14. Nf3 Nc4 15.
+Bxc4 Rxc4 16. Nd5 Rc6 17. Qf2 (17. Bb6 $1 $18 Rxb6 18. Qa5) 17... Be6 18. Nb4
+Rc4 19. c3 Qc8 20. Bd4 a5 21. Nd3 Rc6 22. b3 b5 23. Ng5 Bd5 24. Qh4 h6 25. Nf3
+Qd7 26. exd6 exd6 27. Bxg7 Kxg7 28. f5 Qa7+ 29. Qd4+ Qxd4+ 30. Nxd4 Rxc3 31.
+Nf4 Be4 32. fxg6 Nc7 33. gxf7 Rxf7 34. Nfe6+ Nxe6 35. Nxe6+ Kg8 {Source:
+Birmingham Daily Gazette, 2 January 1901} 1/2-1/2
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.01"]
+[Round "2"]
+[White "Burn, Amos"]
+[Black "Atkins, Henry Ernest"]
+[Result "1-0"]
+[ECO "C79"]
+[PlyCount "87"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Nd7 8.
+dxe5 dxe5 9. Nbd2 Bd6 10. Nc4 Qe7 11. Be3 O-O 12. Na5 Nb8 13. Qd3 f5 14. Rfd1
+fxe4 15. Qxe4 Bf5 16. Qa4 c5 17. Nd2 Nd7 18. Ne4 Nb6 19. Qb3+ Be6 20. Qd3 Bd5
+21. c4 Bxe4 22. Qxe4 Nd7 23. f3 Nf6 24. Qh4 h6 25. b4 Kh7 26. Qf2 e4 27. bxc5
+Bxh2+ 28. Kxh2 Ng4+ 29. fxg4 Rxf2 30. Bxf2 e3 31. Bg3 e2 32. Rd5 Qe4 33. Re5
+Qxg4 34. Re1 Rf8 35. R1xe2 Rf1 36. Nb3 a5 37. Nd2 Ra1 38. R2e4 Qg6 39. Nf3 Rxa2
+40. Nh4 Qf6 41. Rf5 Qd8 42. Rf7 Kg8 43. Ree7 Qd4 44. Nf5 {Sources: Birmingham
+Daily Gazette, 9 January 1901; Birmingham Weekly Mercury, 12 January 1901 
+(Tournaments of 1900 and 1901, Ed. Tony Gillam, 2012)} 1-0
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.01"]
+[Round "2"]
+[White "Gunston, William Hewison"]
+[Black "Bellingham, George Edward H"]
+[Result "1-0"]
+[ECO "C14"]
+[Annotator "Saunders, John"]
+[PlyCount "55"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nb5 Qd8 8.
+c3 a6 9. Na3 c5 10. Nf3 Nc6 11. Nc2 c4 12. g3 O-O 13. Bh3 Qe7 14. Nh4 $6 f6 15.
+f4 $2 fxe5 16. dxe5 Ndxe5 $5 ({This works out well and} 16... Rxf4 $1 {is also
+strong. White's play to here has been pretty terrible and continues to be so
+for a few more moves.}) 17. fxe5 Nxe5 18. Rf1 Nd3+ 19. Ke2 Bd7 (19... e5 $17)
+20. Qd2 e5 21. Bxd7 Qxd7 22. Ne3 Qh3 23. Nhf5 Rad8 24. Kd1 d4 {White is being
+smashed off the board and deservedly so. But he now gets lucky.} 25. Qg2 dxe3
+$4 {[#]} ({Black should simply settle for a mundane win after} 25... Qxg2 26.
+Nxg2 g6 $19 {Instead he goes after a flashy finish involving what he thinks is
+a temporary queen sacrifice, but it rebounds mightily...}) 26. Ne7+ $1 Kh8 27.
+Ng6+ $1 Kg8 28. Qd5+ $1 {White's triple whammy is very attractive but I feel
+we have to label it a cheapo because of the poor play that preceded it.
+Sources: Birmingham Daily Post, 3 January 1901; Pall Mall Gazette, 16 January
+1901; Dover Express - Friday 18 January 1901; (the finish) 'The Brilliant
+Touch' by Walter Korn (Pitman, 1950), p13} 1-0
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.02"]
+[Round "3"]
+[White "Atkins, Henry Ernest"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "C77"]
+[PlyCount "99"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Nc3 g6 7. Be3 Bg7 8. h3 b5
+9. Bb3 Be6 10. Qd2 Bxb3 11. axb3 Ne7 12. O-O c6 13. Bh6 O-O 14. Rae1 Nd7 15. d4
+Qc7 16. Nd1 Rad8 17. Kh1 f5 18. Bxg7 Kxg7 19. Ng5 Rf6 20. exf5 gxf5 21. c4 Kh8
+22. dxe5 Nxe5 23. f4 h6 24. fxe5 dxe5 25. Nf7+ Rxf7 26. Qxh6+ Kg8 27. Qe6 e4
+28. c5 Rd4 29. Ne3 Qd7 30. Qh6 Rd3 31. Rf4 Rh7 32. Qf6 Rf7 33. Ng4 Nd5 34. Qg6+
+Rg7 35. Qxf5 Qxf5 36. Rxf5 Rxb3 37. Rxe4 Rxb2 38. Re8+ Kh7 39. Rh5+ Kg6 40.
+Rh6+ Kf5 41. Rxc6 a5 42. Re5+ Kf4 43. Rxd5 a4 44. Rd4+ Kg3 45. Rd3+ Kf4 46.
+Rd4+ Kf5 47. Rf6+ Kg5 48. Rd5+ Kh4 49. Kh2 Rh7 50. Nf2 {Source: BCM, February
+1901, p65 (Tournaments of 1900 and 1901 (Ed. Tony Gillam, 2012)} 1-0
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.02"]
+[Round "3"]
+[White "Bellingham, George Edward H"]
+[Black "Burn, Amos"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[PlyCount "84"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. Nc3 h6 11. b3 Be6 12. Bb2 Bb4 13. Ne2 g5 14. Nfd4
+Nxd4 15. Nxd4 Bc5 16. Nxe6 fxe6 17. Bd4 Ba3 18. Rd3 c5 19. Bc3 Rd8 20. Rad1 Ke7
+21. f3 Rxd3 22. Rxd3 Ra8 23. Kf2 a5 24. Bd2 Bb2 25. f4 Rf8 26. Kg3 Rg8 27. Kf3
+b6 28. fxg5 hxg5 29. Ke4 g4 30. Bf4 a4 31. Rg3 Kf7 32. h3 axb3 33. axb3 gxh3
+34. Rxg8 Kxg8 35. gxh3 Kf7 36. Kf3 Bc3 37. Kg4 {(adjourned)} b5 38. h4 c6 39.
+h5 Ba5 40. Kg5 Bd8+ 41. Kh6 Bh4 42. Bg5 Bg3 {Source: Birmingham Daily Gazette,
+4 January 1901} 1/2-1/2
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.03"]
+[Round "4"]
+[White "Atkins, Henry Ernest"]
+[Black "Bellingham, George Edward H"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+ 1-0
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.03"]
+[Round "4"]
+[White "Burn, Amos"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "C43"]
+[PlyCount "77"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 d5 4. Nxe5 Nxe4 5. Bd3 Bd6 6. O-O O-O 7. c4 c6 8. Nc3
+Nxc3 9. bxc3 Bxe5 10. dxe5 dxc4 11. Bxc4 Qe7 12. Qd6 Re8 13. Qxe7 Rxe7 14. Rd1
+Nd7 15. f4 Re8 16. a4 Nb6 17. Bb3 Bg4 18. Rd6 Rad8 19. Ba3 Nc8 20. Rxd8 Rxd8
+21. a5 Be6 22. Bc2 Rd2 23. Be4 Bd5 24. Re1 Bxe4 25. Rxe4 Rd8 26. Rd4 Rxd4 27.
+cxd4 f6 28. e6 f5 29. g4 g6 30. g5 Kg7 31. Kf2 b6 32. a6 Kg8 33. Ke3 Kg7 34.
+Kd3 Kg8 35. Kc4 Kg7 36. d5 c5 37. Kb5 Kf8 38. Kc6 Ke7 39. Bb2 {Source:
+Birmingham Daily Gazette, 5 January 1901} 1-0
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.04"]
+[Round "5"]
+[White "Atkins, Henry Ernest"]
+[Black "Burn, Amos"]
+[Result "0-1"]
+[ECO "C43"]
+[PlyCount "5"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 {... score not available.} 0-1
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.04"]
+[Round "5"]
+[White "Bellingham, George Edward H"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[ECO "D00"]
+[PlyCount "76"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. e3 e6 3. Nd2 c5 4. c3 Nc6 5. f4 f5 6. Bd3 Nf6 7. Nh3 Be7 8. O-O Bd7
+9. Nf3 c4 10. Bc2 b5 11. Ne5 Nxe5 12. fxe5 Ne4 13. g4 O-O 14. gxf5 exf5 15. Nf4
+Bh4 16. Qe2 Qg5+ 17. Kh1 Qh6 18. Bxe4 fxe4 19. Bd2 Be8 20. Qg4 Kh8 21. Qe6 Rxf4
+22. Qxd5 Bc6 23. Qd6 Qxd6 24. exd6 Rxf1+ 25. Rxf1 Bf6 26. Be1 Rd8 27. Bg3 Bg5
+28. Re1 Rf8 29. Kg2 Kg8 30. d5 Bd7 31. h4 Bf6 32. Rf1 Bd8 33. Re1 Bg4 34. b3
+Rf5 35. bxc4 bxc4 36. Rb1 Bb6 37. Rb4 Rxd5 38. Rxc4 Rd2+ {"and Black won"
+Source: Birmingham Daily Gazette, 7 January 1901} 0-1
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.05"]
+[Round "6"]
+[White "Burn, Amos"]
+[Black "Bellingham, George Edward H"]
+[Result "1/2-1/2"]
+[ECO "C82"]
+[PlyCount "63"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "Eduardo Bauza Mercere"]
+[SourceDate "1999.11.01"]
+[SourceVersionDate "1999.11.01"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Bb6 13. a4 Rb8 14. axb5 axb5 15.
+Nfd4 Nxd4 16. cxd4 f4 17. f3 Ng3 18. hxg3 fxg3 19. Be3 Qh4 20. Re1 Qh2+ 21. Kf1
+Bh3 22. Qe2 Rxf3+ 23. Qxf3 Bxg2+ 24. Qxg2 Rf8+ 25. Ke2 Qxg2+ 26. Kd3 h5 27. Nd2
+Qh3 28. Bb3 c6 29. Ra6 b4 30. Rxb6 Qf5+ 31. Ke2 Qg4+ 32. Kd3 {Source: Today,
+17 January 1901} 1/2-1/2
+
+[Event "Craigside Cup Tourney"]
+[Site "Llandudno"]
+[Date "1901.01.05"]
+[Round "6"]
+[White "Gunston, William Hewison"]
+[Black "Atkins, Henry Ernest"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[PlyCount "52"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 d6 2. Nf3 Nd7 3. d4 g6 4. Nc3 Bg7 5. Bc4 Ngf6 6. e5 Nh5 7. Ng5 O-O 8. g4
+Nb6 9. Bxf7+ Rxf7 10. Nxf7 Kxf7 11. gxh5 dxe5 12. hxg6+ hxg6 13. Qf3+ Bf5 14.
+d5 Kg8 15. h4 e4 16. Nxe4 Qxd5 17. Ng5 Qxf3 18. Nxf3 Bxc2 19. O-O Rf8 20. Ng5
+Bf5 21. Re1 e6 22. a4 Nc4 23. Ra2 Bb1 24. Ra1 Bf5 25. Ra2 Bb1 26. Ra1 Bf5 {
+Source: Today, 17 January 1901; Sunday Times & Birmingham Daily Post 
+(Tournaments of 1900 and 1901 (Ed. Tony Gillam, 2012)} 1/2-1/2
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.03"]
+[Round "4"]
+[White "Clissold, Newman"]
+[Black "Wilmot, Bernard Dinwoody"]
+[Result "0-1"]
+[ECO "A10"]
+[PlyCount "68"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qd8 4. e3 e5 5. Nf3 Bd6 6. Bc4 Nf6 7. Qb3 O-O 8.
+Ng5 Qe7 9. Qc2 c6 10. Bd3 g6 11. h4 Nh5 12. Nce4 Bc7 13. b3 f6 14. Bc4+ Kg7 15.
+Nf3 Bf5 16. a4 Nd7 17. Ba3 c5 18. Bd3 b6 19. Rg1 Bg4 20. Nh2 f5 21. Ng5 h6 22.
+f3 hxg5 23. fxg4 Ng3 24. h5 e4 25. Bb2+ Be5 26. Bc4 Qf6 27. Bxe5 Nxe5 28. O-O-O
+Rad8 29. hxg6 Nd3+ 30. Kb1 Rh8 31. Nf1 Ne2 32. gxf5 Qxf5 33. Bf7 Qe5 34. g4
+Nxg1 {"and wins" Source: Birmingham Daily Post, 5 January 1901} 0-1
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Clissold, Newman"]
+[Black "Crane, Henry Vincent"]
+[Result "0-1"]
+[ECO "A17"]
+[PlyCount "78"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. c4 e6 2. Nc3 Nf6 3. g3 d5 4. cxd5 exd5 5. d4 Be6 6. Nf3 h6 7. Bg2 a6 8. O-O
+Bd6 9. Qb3 Nc6 10. e3 O-O 11. a3 Qd7 12. Nd2 Ne7 13. Qd1 c6 14. Na4 Qc7 15. b4
+Rae8 16. Nc5 Bc8 17. Bb2 Ng6 18. Nf3 Bg4 19. Qc2 Qc8 20. Kh1 h5 21. Ng1 h4 22.
+h3 Bf5 23. Qe2 hxg3 24. fxg3 Bxg3 25. Qf3 b6 26. Qxg3 bxc5 27. dxc5 Ne4 28.
+Bxe4 Bxe4+ 29. Kh2 Qd8 30. Rf4 Qe7 31. h4 f6 32. Rf2 Kf7 33. h5 Rh8 34. Nf3
+Rxh5+ 35. Kg1 Reh8 36. Nh2 Rh3 37. Qg4 Qc7 38. Qe2 Qg3+ 39. Kf1 Rxh2 {Source:
+Birmingham Daily Gazette, 4 January 1901} 0-1
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Clissold, Newman"]
+[Black "Dod, Anthony"]
+[Result "1-0"]
+[ECO "A17"]
+[PlyCount "83"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. c4 e6 2. Nc3 Nf6 3. g3 d5 4. e3 Nbd7 5. d4 Be7 6. c5 O-O 7. Bd3 e5 8. f3 Re8
+9. Nge2 c6 10. Qc2 Qc7 11. O-O Nf8 12. b4 Ng6 13. a4 Bh3 14. Re1 Rad8 15. b5
+Nh5 16. Bxg6 fxg6 17. Nd1 Bf6 18. g4 exd4 19. gxh5 d3 20. Qxd3 Bxa1 21. hxg6
+hxg6 22. Nf2 Bf5 23. Qa3 Bf6 24. Ng3 Bc8 25. Qb3 cxb5 26. Qxb5 Bd7 27. Qd3 Bf5
+28. Nxf5 gxf5 29. Qxf5 Re5 30. Qc2 Rg5+ 31. Ng4 b6 32. e4 Bd4+ 33. Kh1 Rh5 34.
+c6 Bc5 35. exd5 Qg3 36. Qe4 Bd6 37. Re2 Rf8 38. Rf2 Rh3 39. Qe6+ Kh8 40. f4 Rh6
+41. Qxh6+ gxh6 42. hxg3 {"and wins" Source: Birmingham Daily Post, 4 January
+1901} 1-0
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Crane, Henry Vincent"]
+[Black "Dod, Anthony"]
+[Result "0-1"]
+[ECO "C56"]
+[PlyCount "108"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. d4 exd4 5. O-O d6 6. Ng5 Ne5 7. Bb3 h6 8. f4
+hxg5 9. fxe5 dxe5 10. Bxg5 Be7 11. Qd3 Qd6 12. Na3 Bd7 13. Nc4 Qc5 14. Qg3 Ng4
+15. Bxe7 Qxe7 16. h3 b5 17. Nd6+ cxd6 18. Bxf7+ Kd8 19. hxg4 Rc8 20. Bb3 Qg5
+21. Rf7 a5 22. Raf1 a4 23. Rf8+ Rxf8 24. Rxf8+ Ke7 25. Rf7+ Ke8 26. Qf2 Qe3 27.
+Rf8+ Ke7 28. Qxe3 dxe3 29. Rxc8 Bxc8 30. Bd5 Bxg4 31. Bc6 Be2 32. g3 Kd8 33.
+Bd5 Kc7 34. c3 g5 35. b4 a3 36. Kg2 Kd7 37. Bf7 Ke7 38. Bd5 Kf6 39. Bb3 Kg6 40.
+Bd5 Kg7 41. Bb3 Kg6 42. Bd5 Bd3 43. Be6 Bc2 44. Bd5 Bd3 45. Kf3 e2 46. Kf2 Kh6
+47. Ke1 Kh5 48. Kf2 e1=Q+ 49. Kxe1 Kg4 50. Kf2 Kh3 51. Bc6 Bb1 52. Bxb5 Bxa2
+53. Bf1+ Kh2 54. b5 Bd5 {Source: Birmingham Daily Gazette, 5 January 1901} 0-1
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Crane, Henry Vincent"]
+[Black "Wilmot, Bernard Dinwoody"]
+[Result "1-0"]
+[ECO "B40"]
+[PlyCount "77"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 Bb4 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O Bxc3 9. bxc3 d5 10. e5 Nd7 11. Qg4 g6 12. f4 Qe7 13. a4 a5 14. Ba3 c5 15.
+c4 Ba6 16. cxd5 exd5 17. Rfe1 O-O 18. Rad1 Bxd3 19. Rxd3 Qe6 20. Qh4 Rfc8 21.
+Red1 Nb6 22. Rh3 h5 23. Bb2 Qf5 24. Qf2 Nxa4 25. Ba1 d4 26. Rg3 Kh7 27. Rg5 Qe4
+28. Re1 Qb7 29. f5 Ra6 30. Qh4 Rb6 31. f6 Rb1 32. Rxh5+ gxh5 33. Qxh5+ Kg8 34.
+Qg5+ Kf8 35. Qg7+ Ke8 36. Qg8+ Kd7 37. Qxf7+ Kc6 38. Qe6+ Kb5 39. Rxb1+ {
+Source: Pall Mall Gazette, 22 January 1901} 1-0
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Dod, Anthony"]
+[Black "Sherrard, Charles Hugh"]
+[Result "1-0"]
+[ECO "C49"]
+[PlyCount "45"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6 8.
+Bg5 Ne7 9. Nh4 Be6 10. f4 exf4 11. Rxf4 c6 12. Rxf6 gxf6 13. Bxf6 Qb6+ 14. d4
+Qxb5 15. Nf5 h6 16. Nxe7+ Kh7 17. a4 Qb2 18. d5 Bg4 19. Qxg4 Qxa1+ 20. Kf2 Rg8
+21. Qf5+ Rg6 22. Nxg6 Kg8 23. Qg4 {Source: Birmingham Daily Gazette, 5 January
+1901; BCM, February 1901, p64} 1-0
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Dod, Anthony"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "D53"]
+[PlyCount "57"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Bd3 Nbd7 7. Rc1 c6 8. Bb1
+dxc4 9. Qc2 g6 10. h4 Nd5 11. Bh6 Re8 12. h5 f5 13. Nf3 Bf6 14. Ne2 b5 15. e4
+Nb4 16. Qd2 a5 17. a3 Na6 18. e5 Bh8 19. Bg5 Qc7 20. hxg6 hxg6 21. Rh6 Bg7 22.
+Bf6 Nxf6 23. exf6 Bxf6 24. Rxg6+ Bg7 25. Ne5 Bb7 26. Rc3 Re7 27. Nf4 Kf8 28.
+Rxg7 Kxg7 29. Nh5+ {Source: Birmingham Daily Gazette, 2 January 1901} 1-0
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Mackenzie, Arthur John"]
+[Black "Wilmot, Bernard Dinwoody"]
+[Result "1-0"]
+[ECO "C79"]
+[PlyCount "117"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 b5 7. dxe5 dxe5 8.
+Qxd8+ Nxd8 9. Bb3 c5 10. c4 Nc6 11. cxb5 axb5 12. Nc3 Ba6 13. Nd5 Ra7 14. Nxf6+
+gxf6 15. a4 Bb7 16. Be3 Nd4 17. Bxd4 exd4 18. axb5 Rxa1 19. Rxa1 Bh6 20. Ra7
+Bxe4 21. Bxf7+ Kd8 22. Be6 Bf4 23. Rd7+ Ke8 24. Nh4 h5 25. g3 Bb8 26. Nf5 Bxf5
+27. Bxf5 h4 28. g4 Be5 29. h3 c4 30. Ra7 Rf8 31. Kf1 d3 32. Ra4 Ke7 33. Rxc4
+Rd8 34. Ke1 d2+ 35. Kd1 Bxb2 36. Rc2 Bc1 37. b6 Kd6 38. b7 Re8 39. Rxd2+ Bxd2
+40. Bc8 Kc7 41. Kxd2 Re4 42. Kd3 Rb4 43. f3 Kd6 44. Ke3 Kd5 45. Bf5 Kd6 46. Be4
+Ke5 47. f4+ Ke6 48. Kd3 Kd6 49. Kc3 Rb6 50. g5 f5 51. g6 Ke7 52. Bd5 Kf6 53.
+Kc4 Kxg6 54. Kc5 Rb1 55. Bc6 Rc1+ 56. Kb6 Rc3 57. b8=Q Rxh3 58. Qh8 Rb3+ 59.
+Ka5 {Source: Birmingham Daily Post, 5 February 1901} 1-0
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Mackenzie, Arthur John"]
+[Black "Crane, Henry Vincent"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r7/6R1/2p1k3/p2pp3/6P1/2P5/PP1K2P1/8 b - - 0 36"]
+[PlyCount "36"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+36... Kf6 37. Rc7 Ra6 38. g3 Rb6 39. b3 Kg5 40. Rg7+ Kf6 41. Rg8 Kf7 42. Ra8
+Rb5 43. Kd3 Kg6 44. Rg8+ Kf7 45. Rg5 Kf6 46. Rf5+ Ke6 47. Rf2 Rb7 48. g5 Rf7
+49. Rxf7 Kxf7 50. c4 Kg6 51. cxd5 cxd5 52. a3 Kxg5 53. b4 Kg4 54. Ke2 {"and
+wins" Source: Birmingham Daily Post, 8 January 1901} 1-0
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Sherrard, Charles Hugh"]
+[Black "Clissold, Newman"]
+[Result "1-0"]
+[ECO "B73"]
+[PlyCount "81"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nf6 8. h3
+a6 9. Qd2 O-O 10. O-O Qc7 11. Rad1 b5 12. Nxc6 Qxc6 13. Bf3 e5 14. Qxd6 Qxd6
+15. Rxd6 Be6 16. Rfd1 Rfc8 17. a3 Bf8 18. Rb6 Kg7 19. Rd2 Bxa3 20. Nd5 Bxb2 21.
+Re2 Rc4 22. Rxe6 Nxd5 23. Rd6 Nc3 24. Re1 Ba3 25. Rd7 b4 26. h4 Nb5 27. Bd1 Bb2
+28. f4 Re8 29. fxe5 Rxe5 30. Rf1 Re8 31. Rfxf7+ Kg8 32. Rxh7 Rcxe4 33. Bf3 Rxe3
+34. Bd5+ R8e6 35. Rhe7 Re1+ 36. Kh2 Be5+ 37. g3 Kf8 38. Rxe6 Nd4 39. Rf7+ Kxf7
+40. Rxe5+ Kg7 41. Rxe1 {Source: Birmingham Daily Gazette, 4 January 1901} 1-0
+
+[Event "Craigside First Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Wilmot, Bernard Dinwoody"]
+[Black "Dod, Anthony"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "72"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 b6 6. Bxf6 Bxf6 7. cxd5 exd5 8.
+Nf3 O-O 9. Bd3 Re8 10. O-O Bb7 11. Rc1 a6 12. Bb1 Nd7 13. Qc2 Nf8 14. Ne2 Rc8
+15. Nf4 g6 16. Nd3 Qd6 17. Nfe5 c5 18. dxc5 bxc5 19. Nf3 c4 20. Nde1 Qb6 21.
+Nd4 Bxd4 22. exd4 Qxd4 23. Nf3 Qg4 24. h3 Qf4 25. Rfd1 Ne6 26. Qc3 Ng5 27. Nxg5
+Qxg5 28. Rd4 Qe5 29. Rcd1 Re6 30. Qb4 Ba8 31. f4 Qe3+ 32. Kh2 h5 33. Qa4 h4 34.
+Qc2 Qg3+ 35. Kg1 Rce8 36. Rf1 Re2 {Source: Birmingham Daily Gazette, 2 January
+1901} 0-1
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.05"]
+[Round "9"]
+[White "Billington, Thomas Henry"]
+[Black "Crewdson, MD"]
+[Result "1-0"]
+[ECO "C78"]
+[PlyCount "21"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Ne7 $2 6. Nxe5 Nxe4 $2 7. Qf3
+Nd6 $2 8. Re1 f6 $2 9. Qh5+ g6 10. Nxg6 Nf7 11. Nxh8 {Source: Birmingham Daily
+Gazette, 7 January 1901} 1-0
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Billington, Thomas Henry"]
+[Black "Lewis, Charles Frederick"]
+[Result "1-0"]
+[ECO "B40"]
+[PlyCount "53"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. c3 Nf6 6. Bd3 Be7 7. f4 d6 8. O-O
+Bd7 9. Be3 O-O 10. Qf3 e5 11. Nxc6 Bxc6 12. Nd2 Qc7 13. Rfe1 a6 14. Nf1 Rae8
+15. Ng3 exf4 16. Qxf4 Bd8 17. Bd4 Re6 18. Nf5 Ne8 19. Re3 b5 20. Rh3 Bf6 21.
+Bxf6 Nxf6 22. e5 dxe5 23. Qg5 g6 24. Qh6 Nh5 25. Rxh5 f6 26. Rh3 gxf5 27. Rg3+
+{Source: Birmingham Daily Gazette, 3 January 1901} 1-0
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Billington, Thomas Henry"]
+[Black "Fagan, Louisa Matilda"]
+[Result "1-0"]
+[ECO "C61"]
+[PlyCount "86"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. c3 Bc5 6. d3 h5 7. Nd2 dxc3 8.
+bxc3 c6 9. Ba4 b5 10. Bc2 Ne7 11. Nb3 Bb6 12. h3 Ng6 13. d4 d6 14. Qe2 Qe7 15.
+Be3 Bb7 16. a4 a6 17. axb5 cxb5 18. d5 Bxe3 19. Qxe3 Ne5 20. Nd4 g6 21. O-O Nc4
+22. Qe1 Qh4 23. Qc1 Rc8 24. f4 Rg8 25. Rf2 Rc7 26. Qe1 Kd8 27. Bb3 Re8 28. Qb1
+Qe7 29. Re2 Qf6 30. Qf1 Nb6 31. Qf2 Nd7 32. Rc1 Nc5 33. Bc2 Rce7 34. Rce1 Qg7
+35. e5 dxe5 36. Nc6+ Bxc6 37. Qxc5 Bb7 38. d6 Rd7 39. fxe5 Qg8 40. Qa7 Re6 41.
+Bb3 g5 42. Bd5 Kc8 43. Bxb7+ Rxb7 {"White gives mate in 6." Source: Birmingham
+Daily Post, 5 January 1901} 1-0
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Fagan, Louisa Matilda"]
+[Black "Lewis, Charles Frederick"]
+[Result "1-0"]
+[ECO "A17"]
+[PlyCount "99"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. c4 e6 2. Nc3 Nf6 3. a3 d5 4. e3 b6 5. f3 Bb7 6. b3 Nbd7 7. Bb2 c5 8. d4 Be7
+9. Bd3 O-O 10. Qc2 Rc8 11. Nh3 h6 12. O-O-O dxc4 13. Bxc4 Nd5 14. Rd3 cxd4 15.
+exd4 N7f6 16. Kb1 a6 17. Qd2 Nxc3+ 18. Rxc3 b5 19. Bd3 Rxc3 20. Qxc3 Nd5 21.
+Qc1 Bd6 22. Qd2 Qh4 23. Bf1 Qe7 24. Ka2 Rc8 25. Bd3 Qd8 26. f4 f5 27. Re1 Kf7
+28. Qe2 Qd7 29. Qh5+ Kg8 30. g4 Rf8 31. gxf5 exf5 32. Qh4 Be7 33. Qg3 Bf6 34.
+Bb1 Rc8 35. Rg1 Ne7 36. Qe3 Rd8 37. Rd1 Bd5 38. Ng1 Nc6 39. Ne2 Bf7 40. Bc2 a5
+41. Qd3 g6 42. d5 Bxb2 43. dxc6 Qxd3 44. Rxd3 Bf6 45. Rxd8+ Bxd8 46. Bd3 b4 47.
+Nd4 Be8 48. Bc4+ Kf8 49. c7 Bxc7 50. Ne6+ {"and wins" Source: Birmingham Daily
+Gazette, 8 January 1901} 1-0
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Finn, Kate Belinda"]
+[Black "Lewis, Charles Frederick"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[PlyCount "122"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 b6 7. Bd3 Bb7 8. O-O
+O-O 9. Re1 c5 10. Rc1 Rc8 11. Ne5 Nxe5 12. dxe5 Ne4 13. Bxe7 Qxe7 14. Ne2 f5
+15. f4 Rf7 16. Bxe4 dxe4 17. Nc3 Rd8 18. Qe2 Bc6 19. Red1 Rff8 20. Rxd8 Rxd8
+21. Rd1 Rxd1+ 22. Qxd1 Qd7 23. Qxd7 Bxd7 24. Kf2 Kf7 25. Ke2 Ke7 26. Kd2 a6 27.
+Ne2 b5 28. cxb5 axb5 29. Kc3 Kd8 30. Ng3 g6 31. Nh1 Kc7 32. Nf2 Kd8 33. Nh3 h6
+34. Ng1 Kc7 35. Nh3 Be8 36. Nf2 Bd7 37. h4 Be8 38. g4 Bd7 39. gxf5 exf5 40. Nh1
+Kd8 41. a4 bxa4 42. Kc4 Ke7 43. Kxc5 Ke6 44. Kd4 Bc6 45. Nf2 Be8 46. Nd1 Bd7
+47. Nc3 Bc6 48. Na2 Bd5 49. Nb4 Bb7 50. Kc5 g5 51. hxg5 hxg5 52. fxg5 Kxe5 53.
+g6 Kf6 54. g7 Kxg7 55. Kb5 Kf6 56. Kxa4 Ke5 57. Kb3 f4 58. exf4+ Kxf4 59. Kc3
+Ke5 60. Nc2 Kd5 61. Ne3+ Kc5 {Source: County Express for Worcestershire and
+Staffordshire, 19 January 1901} 1/2-1/2
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Finn, Kate Belinda"]
+[Black "Quelch, RJ"]
+[Result "0-1"]
+[ECO "D55"]
+[PlyCount "72"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 b6 6. Nf3 Bb7 7. Bd3 O-O 8. Bxf6
+Bxf6 9. cxd5 exd5 10. Rc1 a6 11. Qc2 g6 12. Ne2 c6 13. O-O Nd7 14. Qd2 c5 15.
+Rfe1 Rc8 16. Ng3 Rc6 17. Qe2 b5 18. Bb1 Re8 19. Qd3 c4 20. Qc2 Rce6 21. Qd2 Nf8
+22. Re2 a5 23. Rce1 b4 24. e4 dxe4 25. Nxe4 Bxe4 26. Bxe4 Rd6 27. Rd1 Ne6 28.
+Bc2 Bxd4 29. Rxe6 fxe6 30. Nxd4 e5 31. Nc6 Rxd2 32. Nxd8 Rxd1+ 33. Bxd1 Rxd8
+34. Be2 Rc8 35. Kf1 c3 36. bxc3 bxc3 {Source: Birmingham Daily Gazette, 7
+January 1901} 0-1
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Finn, Kate Belinda"]
+[Black "Billington, Thomas Henry"]
+[Result "1-0"]
+[ECO "D53"]
+[PlyCount "81"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bf4 Bd6 7. Bg3 O-O 8. Nf3
+Bxg3 9. hxg3 Nc6 10. Ne5 dxc4 11. Nxc6 bxc6 12. Bxc4 Nd5 13. Ne4 Nb6 14. Bb3 e5
+15. Qh5 exd4 16. Qg6 Nd5 17. Qxc6 Be6 18. Rd1 Nb4 19. Qc5 Bxb3 20. axb3 Qd5 21.
+Qxd5 Nxd5 22. Rxd4 Rfd8 23. Ke2 Rab8 24. Rhd1 c6 25. R1d3 Re8 26. Nc5 Rb5 27.
+Na4 Reb8 28. e4 Re8 29. Kd2 Nf6 30. f3 Kh7 31. b4 a5 32. bxa5 Rxa5 33. Rc3 Rea8
+34. Nb6 R8a6 35. Nc4 Rb5 36. Kc2 Rb4 37. Ra3 c5 38. Rxa6 cxd4 39. b3 Nh5 40.
+Rb6 Rxb6 41. Nxb6 {"and wins" Source: Birmingham Daily Gazette, 7 January 1901}
+1-0
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Leech, W"]
+[Black "Billington, Thomas Henry"]
+[Result "0-1"]
+[ECO "D02"]
+[PlyCount "38"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 Nc6 3. e3 e6 4. a3 Nf6 5. Nbd2 Be7 6. c4 O-O 7. Bd3 h6 8. Qc2
+Re8 9. b4 dxc4 10. Bxc4 Bd6 11. Bb2 Qe7 12. O-O a6 13. Rfe1 e5 14. Bd3 e4 15.
+Ne5 exd3 16. Nxc6 dxc2 17. Nxe7+ Rxe7 18. e4 Bf4 19. e5 Bxd2 {"and wins"
+Source: Birmingham Daily Gazette, 2 January 1901} 0-1
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Lewis, Charles Frederick"]
+[Black "Crewdson, MD"]
+[Result "1-0"]
+[ECO "C56"]
+[PlyCount "37"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Bc5 4. d4 exd4 5. cxd4 Bb6 6. Nc3 d6 7. h3 h6 8. Bc4
+Nf6 9. O-O O-O 10. a3 Ne7 11. Be3 Ng6 12. Qc2 Kh8 13. Nh2 c5 14. dxc5 dxc5 15.
+Rad1 Qe7 16. f4 Nd7 17. e5 Bc7 18. Nd5 Qe8 19. Nxc7 {Source: Birmingham Daily
+Gazette, 5 January 1901} 1-0
+
+[Event "Craigside Second Class"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Peach, James Legard"]
+[Black "Lewis, Charles Frederick"]
+[Result "0-1"]
+[ECO "D35"]
+[PlyCount "50"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bd6 5. Bg3 a6 6. e3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. Nf3 Bxg3 10. hxg3 Nbd7 11. Qc2 h6 12. O-O-O Rc8 13. Kb1 Qe7 14. Qd2 c5
+15. dxc5 Nxc5 16. Be2 Nce4 17. Nxe4 Nxe4 18. Qe1 O-O 19. Ne5 Rfd8 20. f3 Rxd1+
+21. Bxd1 Qc5 22. Nd3 Qc4 23. fxe4 Qxd3+ 24. Bc2 Qxc2+ 25. Ka1 Bxe4 {"and wins".
+Source: Birmingham Daily Post, 4 January 1901} 0-1
+
+[Event "Craigside Handicap"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Billington, Thomas Henry"]
+[Black "Bellingham, George Edward H"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "53"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventCountry "WLS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Bd3 g6 6. Nf3 Qb6 7. O-O Bh6 8. b4 cxb4
+9. Be3 bxc3 10. Nxc3 Bxe3 11. fxe3 Nge7 12. Qe1 Nf5 13. Rb1 Qc7 14. Nb5 Qe7 15.
+Bxf5 gxf5 16. Nd6+ Kd8 17. Qg3 b6 18. Ng5 Rf8 19. Rfc1 Na5 20. Rb4 Ba6 21. Qh3
+Kd7 22. Qxh7 Nc4 23. Ra4 Rg8 24. h4 Rg7 25. Qh6 Na5 26. Nxe6 Qxe6 27. Qxg7+ {
+"and wins" Source: Birmingham Daily Gazette, 7 January 1901} 1-0
+
+[Event "Craigside Handicap"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Burn, Amos"]
+[Black "Jones, E"]
+[Result "1-0"]
+[ECO "C67"]
+[PlyCount "66"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventCountry "WLS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nb7 9. Nc3 O-O 10. Re1 Re8 11. Qc4 Nc5 12. Ng5 Bxg5 13. Bxg5 Qxg5 14. Qxc5
+Re6 15. Qd4 Bb7 16. f4 c5 17. Qf2 Qf5 18. Rad1 Rae8 19. Nd5 Bxd5 20. Rxd5 d6
+21. Red1 dxe5 22. fxe5 Qh5 23. Qf3 Qg5 24. Rxc5 Rxe5 25. Rf1 f6 26. Rxc7 Re1
+27. h3 h5 28. Rd7 Rxf1+ 29. Kxf1 Re5 30. Qb3+ Kh7 31. Rd1 Re3 32. Qd5 f5 33.
+Qd2 f4 {"Adjourned in this position and, because Burn won the competition,
+presumably won by him later." (Tony Gillam, Tournaments of 1900 and 1901, The
+Chess Player, 2012) Source: Birmingham Daily Gazette, 5 January 1901. (n.b. no
+indication of what the handicap consisted - JS)} 1-0
+
+[Event "Craigside Handicap"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Clissold, Newman"]
+[Black "Atkins, Henry Ernest"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "56"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+{Handicap: Black minus f7 pawn.} 1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5.
+Bg5 Be7 6. Bxf6 Bxf6 7. c3 O-O 8. Qc2 h6 9. Ne2 Nc6 10. Nd2 Ne7 11. Nf3 c6 12.
+O-O-O a5 13. Ng3 b5 14. b3 Nd5 15. Ne5 Bxe5 16. dxe5 Qg5+ 17. Kb2 Qxe5 18. Bxd5
+cxd5 19. Rhe1 Qf6 20. f3 b4 21. Rd3 Ba6 22. Rde3 bxc3+ 23. Kb1 d4 24. Rxe6 d3
+25. Qf2 c2+ 26. Kc1 Qa1+ 27. Kd2 c1=Q+ 28. Rxc1 Qb2+ {and wins. Source:
+Birmingham Daily Post, 5 January 1901 (Tournaments of 1900 and 1901, Ed. Tony
+Gillam, 2012)} 0-1
+
+[Event "Craigside Handicap"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Crane, Henry Vincent"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "44"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventCountry "WLS"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.05.21"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.05.21"]
+[SourceQuality "1"]
+
+{Handicap: Black minus f7 pawn.} 1. e4 d6 2. d4 Nc6 3. c3 e5 4. Bb5 Bd7 5. Nf3
+Nf6 6. Bg5 Be7 7. Nbd2 O-O 8. Qb3+ Kh8 9. Bxc6 Bxc6 10. d5 Be8 11. O-O Nxd5 12.
+Bxe7 Nxe7 13. Qxb7 Rb8 14. Qxa7 Rxb2 15. Qa3 Rb8 16. Rad1 Ng6 17. c4 Nf4 18. c5
+Bb5 19. Rfe1 Ra8 20. Qb4 Be2 21. cxd6 cxd6 22. Nc4 Bxf3 {Source: Birmingham
+Daily Gazette, 3 January 1901} 0-1
+
+[Event "Craigside Handicap"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Mackenzie, Arthur John"]
+[Black "Gunston, William Hewison"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "46"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventCountry "WLS"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Bg5 Qe7+ 6. Ne2 Nc6 7. O-O Bg4 8.
+f3 Bd7 9. c3 O-O-O 10. b4 h6 11. Bd2 g5 12. a4 g4 13. f4 Ne4 14. Ng3 Nxg3 15.
+hxg3 h5 16. f5 Bg7 17. Rf4 Rdf8 18. a5 Bh6 19. Rf1 Be3+ 20. Kh2 h4 21. Qxg4
+hxg3+ 22. Kxg3 Rfg8 23. Qxg8+ Rxg8+ {"and Black won" Source: Penny Illustrated
+Paper, 1901} 0-1
+
+[Event "Craigside Handicap"]
+[Site "Llandudno"]
+[Date "1901.01.??"]
+[Round "?"]
+[White "Sherrard, Charles Hugh"]
+[Black "Gunston, William Hewison"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "53"]
+[EventDate "1900.12.31"]
+[EventType "tourn"]
+[EventCountry "WLS"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nc6 5. Nf3 d6 6. O-O Be7 7. Qb3 c2 8.
+Bxf7+ Kf8 9. Bxg8 Rxg8 10. Qxc2 Bg4 11. Nc3 Bxf3 12. gxf3 Qd7 13. Bf4 g5 14.
+Be3 Ne5 15. Kg2 Qe6 16. Ne2 Qf7 17. Nd4 c5 18. Nf5 Qh5 19. Qd1 g4 20. Bh6+ Kf7
+21. Qd5+ Kf6 22. f4 Qh3+ 23. Kh1 Nf3 24. Bg5+ Nxg5 25. fxg5+ Kg6 26. Nxe7+ Kg7
+27. Qxd6 {Source: County Express for Worcestershire and Staffordshire, 12
+January 1901, p7} 1-0
+

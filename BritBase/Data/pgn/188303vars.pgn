@@ -1,0 +1,429 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "1.1"]
+[White "Morley, Frank"]
+[Black "Locock, Charles Dealtry"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[PlyCount "53"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bb5 d6 8.
+O-O O-O 9. Nxc6 bxc6 10. Bxc5 cxb5 11. Bd4 Qg6 12. Qf3 Bb7 13. Nd2 c5 14. Be3
+Nc6 15. Qg3 Rad8 16. f4 Qxg3 17. hxg3 f5 18. Rad1 fxe4 19. Nxe4 Rfe8 20. Nxd6
+Rxd6 21. Rxd6 Rxe3 22. Kf2 Re7 23. Rd5 Kf7 24. Rxc5 Rd7 25. Re1 Rd2+ 26. Re2
+Rxe2+ 27. Kxe2 {"Shortly afterwards, 4.52, a draw was proposed and accepted on
+Board 1, the game having advanced to a simple ending, in which White had a
+Rook and two extra Pawns - one on each wing - for two minor pieces" (also BCM,
+1883, p140) "... progressing with commendable caution till the 20th move, when
+Locock won, through a series of exchanges, two minor pieces for a rook; but
+Morley obtained two pawns, which equalised the game so far that both players
+agreed to give it up as drawn on the 27th move, after two hours and three
+quarters' play..." (The Field, 24 March 1883) Source: Glasgow Weekly Herald,
+31 March 1883. Contributed by Brian Denman, 22 May 2021} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "1.2"]
+[White "Locock, Charles Dealtry"]
+[Black "Morley, Frank"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Annotator "Chess-Monthly"]
+[PlyCount "38"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{"... Dr. Zukertort now adjudicated and though he preferred Black's position
+was unable to decide in his favour; and the game was drawn. Throughout both
+games the two players aimed at securing position rather than attack and being
+apparently well-matched their efforts nearly neutralised one another. Their
+first game, as was to be expected, was the steadiest and best game of the
+match." BCM, 1883, p140. "In the second game Morley adopted the French defence
+against Locock. Contrary to expectation, the game turned out a very
+interesting one, both combatants display a great deal of ingenuity, thus
+compensating to a great extent for the dulness [sic] of the first game. It is
+very much to be regretted that the progress of the contest had to be
+interrupted at 6.30pm when time was called, and the umpire had to give his
+decision on the following position, the verdict being - drawn game." (The
+Field, 24 March 1883)} 1. e4 e6 2. d4 d5 3. Nc3 Nc6 {(?)} 4. Nf3 {Black had
+prematurely blocked his c-pawn: White should, therefore, proceed with 4 e5,
+being now in the position to hold the centre. (there is a move number error in
+the text: "5 P to K5")} Bb4 5. exd5 exd5 6. Bd3 Nf6 7. O-O Bxc3 8. bxc3 O-O 9.
+Re1 (9. c4 {would be vastly preferable.}) 9... Bg4 10. Rb1 b6 11. Bb5 ({
+Weak again: White should continue with} 11. Ba3) 11... Qd6 12. Rb3 ({Instead
+of displacing the Rook, he should proceed with} 12. Qd3) 12... Rfe8 13. Rf1 a6
+14. Ba3 {(?)} Qe6 15. Bxc6 Qxc6 16. Qd3 Bxf3 17. Qxf3 Ne4 18. Qd3 a5 19. f3 {
+(?)} a4 {adjudicated a draw by Zukertort (n.b. engines give a win for Black
+but see the note after Black's move 25...Qh3 to see the specific rules
+governing adjudication in this match) Source: The Chess-Monthly, Vol.4, April
+1883, ppn 237-238.} (19... a4 {(comments unless otherwise indicated are from
+The Chess-Monthly, Vol.4, April 1883, p237) In adjudicating the position as
+drawn the umpire based his decision on the following line of play:} 20. Rb2 {
+Mr. Locock, when questioned by the umpire about his continuation, gave this
+move. It is the only reply which averts decisive loss.} Nxc3 21. Bb4 $1 Ne2+
+22. Kh1 Qh6 23. Bd2 {The only move.} Qh4 ({Black's best reply: after} 23...
+Ng3+ 24. Kg1 {, Black would be compelled to draw by perpetual check.}) ({If} 
+23... Qh5 $2 {White wins with} 24. Rf2 Ng3+ 25. Kg1 Nf5 26. g4) 24. f4 Re4 25.
+g3 Qh3 {According to the regulations of the match, the series of six moves
+would suffice to prove the correct­ness of the verdict, but it is easily
+demonstrated that Black cannot acquire a winning superiority for a much longer
+time.} 26. Rbb1 Nxd4 27. Rfe1 Rxe1+ ({If} 27... Rae8 {, White wins with} 28.
+Qxd4 Re2 ({Stockfish 16:} 28... Rxe1+ $1 29. Rxe1 Rxe1+ 30. Bxe1 Qf1+ 31. Qg1
+Qc4 $11) 29. Qf2 $1) 28. Rxe1 Nf5 29. Kg1 d4 30. Qa6 Rd8 31. Qxa4 Ne3 32. Qc6 {
+and although Black has the advantage, the position even now would not justify
+a judge to declare the game as won for Black. Source: The Chess-Monthly, April
+1883, ppn 238. Contributed by Brian Denman, 5 May 2021. Corrected to show that
+the moves after Black's 19th were analysis and not game moves, 4 September
+2023.}) 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "2.1"]
+[White "Wainwright snr, George Edward"]
+[Black "Raymond, Edward Lancelot"]
+[Result "1-0"]
+[ECO "C51"]
+[PlyCount "73"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4 a6 6. b5 axb5 7. Bxb5 Nd4 8. Bb2
+Nxb5 9. axb5 Rxa1 10. Bxa1 d6 11. d4 exd4 12. Nxd4 Ne7 13. O-O O-O 14. Qh5 f5
+15. Nd2 Qe8 16. Qg5 Qf7 17. Nxf5 Nxf5 18. exf5 Bxf5 19. c4 Be6 20. Kh1 Qd7 21.
+Re1 Rf7 22. Ne4 Kf8 23. Qh4 h6 24. f4 c6 25. Ng5 $4 ({"The sacrifice of the
+knight is unsound. This was demonstrated by Mr Zukertort, who watched play
+carefully, immediately after the conclusion of the game." (The Field) (n.b.
+Stockfish 10 (2019) finds the remarkable} 25. Nf6 $3 $18) 25... Bxc4 $4 ({
+"We are surprised that Mr Raymond should have been too timid to accept the
+proffered piece, and to have given up the exchange instead. The umpire pointed
+out the following continuation:} 25... hxg5 26. Qh8+ Ke7 27. f5 (27. Bxg7 Rxf4
+$19) ({If} 27. fxg5 {Black has a ready reply with} Qd8 28. Qh4 Kd7 29. Qe4 Bf5
+{, etc (The Field)}) 27... Rxf5 28. Qxg7+ Kd8 29. Bf6+ Kc7 {with a won game." 
+(The Field)}) 26. Nxf7 Bxf7 27. Qg3 Bh5 28. f5 Bd8 29. bxc6 bxc6 30. Re6 d5 31.
+Rd6 Qc7 32. Bxg7+ Ke8 33. Be5 Qf7 34. Rxc6 Qxf5 35. Qg8+ Qf8 36. Re6+ Be7 37.
+Rxe7+ {Source: The Field, 24 March 1883. "On Board 2 G.E. Wainwright 
+(University) offered an Evans' Gambit to E.L. Raymond (Christ's), which the
+latter prudently declined ... At 6.25 the President of the Dark Blues reaped
+the fruits of his boldness. The game proceeded steadily for some hours, and
+notwithstanding that the Cantab had to play all through a laborious defence,
+his prospects were the better ones on account of his two Bishops, which were
+bound to do good execution on the rather clear board, and the vastly superior
+position of his Pawns. Mr. Wainwright tried to force matters by offering the
+sacrifice of a Knight. The sacrifice was thoroughly unsound, for, after a
+series of innocuous checks, Black would bring his King into perfect safety,
+and come out with a piece for two worthless Pawns, and a fine attacking
+position. Mr. Raymond failed to perceive the shallowness of the hostile scheme,
+and, instead of capturing the piece, he sacrificed the exchange. The sequel
+was played by the Oxonian in very good style." (Source: Chess-Monthly, Vol.4,
+April 1883, p236)} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "3.1"]
+[White "Kuchler, George William"]
+[Black "Weall, Stanley"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "97"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{G.W. Küchler (Sidney) opened with 1 P to K4, which his opponent, S. Weall 
+(St. John's), met with the French Defence ... A third victory for Cambridge
+was scored by G.W. Küchler at 6 p.m. (and in BCM: "At Board No. 3 Mr. Kuchler
+(Cambridge) had one stubborn game with Mr. Weall who followed " Gallic
+strategy," i.e. played 1 ... P to K 3. The game proceeded in the old-fashioned
+way 2 P to Q 4, P to Q 4, 3 P takes P, P takes P, but Black soon had a cramped
+game owing to his Bishop occupying an assailable position at K 3. He won a
+Pawn ; but gave White the chance of carrying on a strong " sacrificial "
+attack on the K's side. Finally exchanges were made which left Black with a B
+to a R, and after that his position was hopeless." (Chess Monthly) "Weall 
+(Oxford) replied with the French defence, and made an indifferent move in
+answer to 7.Kt to Kt 5 with P to KR3 - 7...Castles or Kt to B3 was preferable.
+On the 11th move the Oxonian gained a pawn by a clever move, when the Cantab
+sacrificed a piece, which, though unsound, complicated the position greatly,
+and secured the game for Cambridge after 49 moves..." (The Field)} 1. e4 e6 2.
+d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O Be6 7. Ne5 h6 8. f4 O-O 9. f5
+Bd7 10. Nd2 Nc6 11. Ndf3 Nxd4 12. Nxd7 Nxf3+ 13. Qxf3 Qxd7 14. Qh3 Rfe8 15.
+Bxh6 gxh6 16. Qxh6 Be5 17. Rf3 Nh7 18. f6 Nxf6 19. Rxf6 Bd4+ 20. Kh1 Re4 21.
+Bxe4 dxe4 22. Rff1 Bxb2 23. Qg5+ Kf8 24. Rad1 Qe8 25. Rf4 e3 26. Qc5+ Kg8 27.
+Rg4+ Bg7 28. Qg5 Qf8 29. Qxe3 Re8 30. Qg3 c6 31. h3 f6 32. Rdd4 Re7 33. Qb3+
+Rf7 34. Rd7 Qe8 35. Qxf7+ Qxf7 36. Rxf7 Kxf7 37. Ra4 a6 38. Ra3 f5 39. Rb3 b5
+40. Ra3 b4 41. Rxa6 c5 42. Ra7+ Kg6 43. Kh2 Bd4 44. Kg3 c4 45. Ra4 Bc5 46. Ra6+
+Kh5 47. Rc6 Bd4 48. Rxc4 Bc3 49. Rxc3 {Source: Chess-Monthly, Vol.4, April
+1883, p247} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "4.1"]
+[White "Welsh, John Francis (Rev)"]
+[Black "Buncombe, William Pengelly"]
+[Result "0-1"]
+[ECO "C51"]
+[PlyCount "88"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. c3 Nf6 6. Qb3 O-O 7. Ng5 $2 Bxf2+
+8. Kxf2 ({The sacrifice of the bishop does not seem to be sound. White need
+not take the bishop; but may move} 8. Ke2 {, when Black would probably lose
+the exchange. Instead of the text move, a more defensive course would have
+been advisable." (The Field; n.b. Stockfish 10 thinks the B sacrifice is good,
+but that Ng4 would have been slightly better. Hoffer's subsequent notes to
+this game, suggesting improvements for White, make little or no sense since it
+is clear that Black is already overwhelmingly better and White has zero
+prospects of developing any counterplay.)}) 8... Ng4+ 9. Ke1 Qxg5 10. Rf1 Qg6
+11. d3 Nxh2 12. Rf5 d5 13. Rg5 dxc4 14. Rxg6 cxb3 15. Rg3 Bg4 16. axb3 f5 17.
+exf5 Rxf5 18. Nd2 Raf8 19. Ne4 Rf1+ 20. Kd2 R8f2+ 21. Nxf2 Rxf2+ 22. Ke1 Re2+
+23. Kd1 Rxg2+ 24. Rxg4 Nxg4 25. Ra4 ({"This is quite useless. The game might
+be abandoned at this stage; but if continued, why not} 25. b5 {at once?" (The
+Field)}) 25... Nf2+ 26. Ke2 h5 27. b5 Ne7 28. Kf1 Rh2 29. Bg5 Nd5 30. Rxa7 Nxd3
+31. Ra8+ Kh7 32. Rd8 c6 33. bxc6 bxc6 34. c4 N5b4 35. Rd7 h4 36. Be3 h3 37. Kg1
+Re2 38. Ba7 c5 39. Rf7 Rg2+ 40. Kf1 Rg3 41. Rf5 Kg6 42. Rf8 h2 43. Rh8 Rg1+ 44.
+Ke2 h1=Q {Source: The Field, 24 March 1883. "Opening proceedings on Board 4
+were a repetition of those on Board 2; Rev. J.F. Welsh, B.A. (Christ Church)
+invited an Evans', which was likewise declined by Rev. W.P. Buncombe, B.A. 
+(Non. Coll.). ... Cambridge scored the first victory, 4.20, when Rev. Welsh
+succumbed, after a hopelessly-prolonged resistance, to the vigorous onslaught
+of Rev. Buncombe, who early in the opening got the superiority by a bold but
+quite sound manoeuvre." (Chess Monthly - a much more succinct and accurate
+assessment than that of The Field)} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "4.2"]
+[White "Buncombe, William Pengelly"]
+[Black "Welsh, John Francis (Rev)"]
+[Result "1-0"]
+[ECO "C25"]
+[Annotator "Chess-Monthly"]
+[PlyCount "40"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{"In the second game Mr. Buncombe offered the Steinitz Gambit : it was at
+first refused; but afterwards Black took the K B P and allowed White to get a
+very strong position. At the 20th move Dr. Zukertort adjudicated in favour of
+White, a decision amply justified by the crushing advantages in position that
+White had secured. Mr. Buncombe's play during these games was a curious
+compound of prompt action in gaining advantages, and slowness in "settling"
+his weakened antagonist." BCM, 1883, p141 & The Field, 24 March 1883} 1. e4 e5
+2. Nc3 Nc6 3. f4 Bc5 4. Nf3 exf4 {Taking the Pawn on the third move
+constituted Black’s best defence: taking it now amounts to a serious loss of
+time and position.} 5. d4 Bb4 ({Stockfish 16:} 5... Nxd4 6. Nxd4 Qh4+ 7. Ke2 d5
+$11) 6. Bxf4 Qf6 {(?)} 7. Bg5 (7. Qd2 {would be preferable.}) 7... Qg6 8. e5
+Qe4+ 9. Be2 ({It would be much better to play} 9. Kf2 {. The recommended move
+would vastly increase White's superiority of position.}) 9... f6 10. exf6 gxf6
+{(?)} 11. Bd2 Bxc3 12. Bxc3 d5 13. Qd2 Bg4 14. O-O O-O-O 15. Rae1 Qe8 16. Bd3
+Nge7 17. b4 Rg8 ({Strictly defensive moves would be more to the purpose. Black
+should remove his Queen out of the dangerous file with} 17... Qd7) 18. b5 Nb8
+19. Bb4 Rd7 20. Qf4 Qf8 {Adjudicated win for White. Source: Chess-Monthly, Vol.
+4, April 1883, p238.} (20... Qf8 {White claimed the game, giving as his
+continuation} 21. Ne5 {[and] if, at last,} Ng6 {, White wins easily after} ({
+It is obvious that the capture of the Knight would lose at once; viz.:} 21...
+fxe5 22. Qxf8+ Rxf8 23. Rxf8+ Rd8 24. Bxe7) ({If, on the other hand,} 21... Bh3
+{, White will come out a Rook ahead after} 22. Nxd7 Rxg2+ 23. Kh1 {, without
+any damage in position.}) 22. Nxd7 Qxb4 23. Bxg6 Nxd7 24. Bxh7 {White scores,
+therefore, the game. (Chess-Monthly, Vol.4, April 1883, p238)}) 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "5.1"]
+[White "Sherrard, Hugh William"]
+[Black "Walker, James Manders"]
+[Result "0-1"]
+[ECO "B20"]
+[PlyCount "72"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{On Board 5 a Sicilian was played between H.W. Sherrard (Non. Coll.) and J.M.
+Walker (Wadham) ... J.M. Walker scored for Oxford at 4.45 (The Field)...} 1. e4
+c5 2. Bc4 e6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd1 Nf6 6. Nc3 Bb4 7. Nge2 Nxe4 8. O-O
+Nxc3 9. bxc3 Be7 10. Nd4 Qa5 11. Nxc6 bxc6 12. Qf3 d5 13. Bb3 c5 14. c4 Bf6 15.
+Rb1 Ba6 16. cxd5 c4 17. dxe6 O-O 18. exf7+ Kh8 19. Rd1 cxb3 20. Rxb3 Rfd8 21.
+Ba3 Bc4 22. Re3 Bxf7 23. Rde1 Bg6 24. c4 Re8 25. h3 Rad8 26. Rxe8+ Rxe8 27.
+Rxe8+ Bxe8 28. Qa8 Qe1+ 29. Kh2 Be5+ 30. g3 Qxf2+ 31. Kh1 Qe1+ 32. Kg2 Qxg3+
+33. Kf1 Qxh3+ 34. Ke1 Bg3+ 35. Kd2 Bf4+ 36. Kc2 Qh2+ {Source: Chess-Monthly,
+Vol.4, April 1883, p248} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "5.2"]
+[White "Walker, James Manders"]
+[Black "Sherrard, Hugh William"]
+[Result "1-0"]
+[ECO "C51"]
+[PlyCount "15"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{"In the second game... Walker played the Evans Gambit, which Sherrard
+defended regularly up to his 7th move, when instead of 7...P to Q3, he played
+P takes P. This naturally ought to give the first player an easy-won game with
+8. B takes P ch or Kt to Kt5, etc. White played 8. Q to Q5, giving his
+opponent ample time to develop his game; though it might have been advisable
+to bring out the knight to R3 prior to castling. White could not well exchange
+this knight as it would have exposed his king side to a severe attack. Things
+went on smoothly enough till the 18th move, when the Oxonian put his knight en
+prise, after which oversight he showed great ingenuity and tenacity in
+fighting an uphill battle, and his efforts were crowned with success. The
+Cantab had the opportunity twice to retreat Q to Q2 on the 24th and 25th move,
+followed by bringing his knight into play immediately with an easily won game;
+but he paid the penalty for trusting too much to his numerical superiority." 
+(The Field, 24 March 1883) - I'm wondering whether the opening might have
+proceeded thus...} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4
+exd4 7. O-O dxc3 8. Qd5 {... but cannot be sure I have the right moves - JS}
+1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "6.1"]
+[White "Nash, Spencer Hampden"]
+[Black "Gibson, James Thornton"]
+[Result "0-1"]
+[ECO "C00"]
+[PlyCount "2"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 {Board 6, S.H. Nash (Balliol) v. J.F. Gibson (Clare) presented the
+French Defence ... A few minutes afterwards Cambridge got a second victory on
+Board 6. The play in this game is called by a contemporary very erratic. It
+was certainly far below the standard exhibited on any other board. The two
+combatants could not engage in a second game in consequence of their first
+being terminated after 5.} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "7.1"]
+[White "Gwinner, Herman George"]
+[Black "Lynam, Charles Cotterill"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[PlyCount "2"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 d5 {on Board 7 the Oxonian, C.C. Lynam, B.A. (Hertford), replied 1...P
+to Q4 to his opponent's, H.G.H. Gwinner (Trinity), 1 P to K4 ... The game on
+Board 7 caused more interest as is usually devoted [does he mean 'than is
+usually devoted'? - Chris Ravilious] to the contests fought on the lower
+numbers. White had decidedly the best of it in the early part of the battle,
+but the Cantab compromised his advantage completely by a premature sacrifice,
+and when his opponent assented to a draw, at 5 p.m., with a piece to the good
+against two Pawns, White's prospects were certainly not very bright." (Chess
+Monthly) ... 40 moves} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1883.03.17"]
+[Round "7.2"]
+[White "Lynam, Charles Cotterill"]
+[Black "Gwinner, Herman George"]
+[Result "1-0"]
+[ECO "D25"]
+[Annotator "Chess-Monthly"]
+[PlyCount "53"]
+[EventDate "1883.03.17"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{"In the second game, Lynam offered the Queen's Gambit, which was accepted by
+Gwinner; but he judiciously refrained from defending the gambit pawn, and
+quietly developed his game. The middle part was marked by a certain lack of
+enterprise on the part of the Cantab, and an unnecessary eagerness to exchange
+bishops for knights. When time was called the Cantab found himself on the 27th
+move with a minus two knights against his adversaries two bishops and a
+paralysed position. The umpire gave the game in favour of Oxford." (The Field)
+} 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Nc3 e6 6. Bxc4 Bd6 7. h3 Bh5 8.
+Bd2 O-O 9. Rc1 c6 10. Be2 h6 11. Rc2 Nbd7 12. e4 Bxf3 13. Bxf3 e5 14. Be3 Bb4
+15. O-O Re8 16. Qd3 Qc7 17. Qc4 Bxc3 18. Rxc3 Nb6 19. Qd3 Rad8 20. Rd1 Nbd5 21.
+Rc4 Ne7 22. Qc3 Ng6 23. g3 Qc8 24. Kg2 Re6 25. d5 Red6 26. Bxa7 h5 27. Be3 {
+Adjudicated win for White. Source: Chess-Monthly, Vol.4, April 1883, p238.} 1-0
+

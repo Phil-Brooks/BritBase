@@ -1,0 +1,85 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1892.04.07"]
+[Round "1"]
+[White "Madgavkar, Govind Dinamath"]
+[Black "Atkins, Henry Ernest"]
+[Result "0-1"]
+[ECO "C62"]
+[PlyCount "80"]
+[EventDate "1892.04.07"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly 1892-05"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nf6 6. Bg5 Be7 7. Bxc6 Bxc6 8.
+d5 Bd7 9. Qd3 Nxd5 10. Nxd5 Bxg5 11. Nxg5 c6 12. Ne3 Qxg5 13. Qxd6 O-O-O 14.
+Qa3 Kb8 15. O-O-O Be6 16. f3 Bxa2 17. Rd2 Rxd2 18. Kxd2 Rd8+ 19. Ke2 Bc4+ 20.
+Ke1 Ba6 21. Qc3 Rd6 22. Kf2 g6 23. g3 h5 24. Ra1 h4 25. Ra5 hxg3+ 26. hxg3 Bb5
+27. Rxa7 Ba6 28. Rxa6 bxa6 29. Qb4+ Kc7 30. Nc4 Rd4 31. Qb6+ Kc8 32. Qxc6+ Kd8
+33. Qa8+ Ke7 34. Qxa6 Qc1 35. Qa3+ Kf6 36. Qc3 Kg7 37. f4 Rd1 38. Qxe5+ (38.
+Ke2 $1 $11) 38... Kh7 39. Ne3 Rd2+ 40. Kf3 Qh1+ {"Mr. Madgavkar resigned,
+though the reason of the resignation lies not on the surface, for no forced
+win for Black is obvious, and, as the resignation came just a few minutes
+before the call of time, the adjudicator would have had a difficult task to
+demonstrate a win." (BCM, May 1892, p196) Additional sources: The Field, 16 April
+1892; Chess Monthly, May 1892 and CN 3193} (40... Qh1+ 41. Kg4 {and analysis
+engines find} Rd6 $3 $19 ({The Field, 16 April 1892, gives} 41... f5+ {as the
+winning move, but doesn't consider} 42. Kg5 {after which there is no
+demonstrable win.})) 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1892.04.07"]
+[Round "2"]
+[White "Bullock, Herbert Somerset"]
+[Black "Lynam, Robert Garner"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r3k2r/pp3ppp/5nn1/3Ppb2/8/1NR1PN2/PP2BPPP/4K2R b Kkq - 0 16"]
+[PlyCount "9"]
+[EventDate "1892.04.07"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{"Board No.2.—H. S. Bullock (Cambridge) opened with 1.Nf3, R. G. Lynam 
+(Oxford) defending this irregular opening with commendable accuracy. Since
+both sides had to rely on their own resources after the few regular opening
+moves, they consumed an extraordinary amount of time, so that, but for the
+short spurt after an exchange of queens on Black's 15th move, the game would
+have dragged on its weary course till six o'clock, the appointed time to cease
+play. The following is the position to which we alluded:" [The Field does not
+say whether or not White/Black can still castle but it seems reasonable to
+assume it is still legal]} 16... Nxd5 17. Rc5 Be4 18. Nbd2 ({Stockfish 14:} 18.
+Ng5 $5 Bxg2 19. Rg1 b6 20. Rc1 h6 21. Nxf7 Kxf7 22. Rxg2 Nge7 23. Bc4 Kf6 24.
+Nd2 $16) 18... b6 19. Rc4 Bxf3 20. Bxf3 Nge7 {and a draw was agreed upon.
+Source: The Field, 16 April 1892, p572} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1892.04.07"]
+[Round "3"]
+[White "Jelly, Frank Edward"]
+[Black "Scovell, Frederick George"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[PlyCount "38"]
+[EventDate "1892.04.07"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. c3 Nf6 6. Qe2 b5 7. Bc2 d6 8. h3
+Bb7 9. d3 h6 10. Nbd2 Qe7 11. Nf1 Qe6 12. Ng3 Ne7 13. a4 Bc6 14. b4 Bb6 15. O-O
+O-O 16. d4 exd4 17. cxd4 d5 18. e5 Nh7 19. Rd1 f5 {Source: Morning Post, 8
+April 1892} 1/2-1/2
+

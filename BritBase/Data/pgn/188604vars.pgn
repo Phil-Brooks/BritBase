@@ -1,0 +1,227 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "1"]
+[White "Gwinner, Herman George"]
+[Black "Locock, Charles Dealtry"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "65"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "The Field"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. Be3 Bb6 6. c3 Nf6 7. h3 Be6 8. Bb3
+O-O 9. c4 Nd4 10. Bxd4 exd4 11. Nh2 Nd7 12. O-O Nc5 13. Nd2 Nxd3 14. Ndf3 Ne5
+15. Nxd4 Bxc4 16. Bxc4 Nxc4 17. Nf5 Ne5 18. Kh1 Kh8 19. f4 Ng6 20. Qg4 Rg8 21.
+Rad1 Qe8 22. Rfe1 Qa4 23. Nf3 f6 24. h4 Rae8 25. h5 Nf8 26. N3h4 Rxe4 27. g3
+Qc6 28. Kh2 Qc2+ 29. Kh3 Ne6 30. Rxe4 Qxe4 31. Ng6+ hxg6 32. hxg6 Nxf4+ 33.
+gxf4 {Sources: The Chess-Monthly, 1886, p235; The Field, 10 April 1886} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "2.1"]
+[White "Barnett, Richard Whieldon"]
+[Black "Young, Frederick Mortimer"]
+[Result "0-1"]
+[ECO "C29"]
+[PlyCount "64"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[SourceDate "2018.03.03"]
+[SourceVersionDate "2018.03.03"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. d3 Nc6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 Nd4 8. Qd1
+exf4 9. Bxf4 Bd6 10. Ne2 Bxf4 11. Nxd4 c5 12. Ne2 Bc7 13. exd5 Qxd5 14. Qd2 O-O
+15. c4 Qe6 16. O-O-O b5 17. Nf4 Qe5 18. g3 Rfd8 19. Bg2 Rab8 20. Rhe1 Qd4 21.
+Ne2 Qd6 22. Qc3 Qa6 23. Kb1 Rd6 24. Nf4 $2 Ba5 25. Qe5 Bxe1 26. Rxe1 bxc4 27.
+Nh5 Rdd8 28. Be4 cxd3 29. Rf1 d2 30. Nxf6+ gxf6 31. Bxh7+ Kxh7 32. Qh5+ Kg7 {
+Source: Chess-Monthly, 1886, p236} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "2.2"]
+[White "Young, Frederick Mortimer"]
+[Black "Barnett, Richard Whieldon"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "41"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. O-O Nf6 5. Nc3 d6 6. d4 O-O 7. d5 Nb8 8. Ne1
+a6 9. f4 b5 10. Be2 b4 11. Nb1 Nxe4 12. Bf3 Nf6 13. fxe5 Ne8 $2 (13... dxe5 14.
+d6 Bxd6 15. Bxa8 $2 Bc5+ {wins the queen}) 14. c4 c5 15. Nd3 Bb7 16. Bg4 dxe5
+17. Nxe5 Bf6 18. Qe2 Nd6 19. Nd2 Re8 20. Ndf3 Nd7 21. Bxd7 {"At this stage the
+game was adjudicated by Mr Bird in favour of White." Source: Chess-Monthly,
+1886, p238} (21. Bxd7 Qxd7 22. Nxd7 Rxe2 23. Nxf6+ gxf6 24. b3 {followed by
+Rf2, Bb2 and Kf1 is the winning line given in Chess-Monthly.}) 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "3"]
+[White "Topham, Richard Stoney"]
+[Black "Newbolt, Francis George"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[PlyCount "80"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d3 Be7 7. h3 O-O 8. Nc3
+b5 9. Bb3 Bb7 10. Be3 Na5 11. Qd2 Nxb3 12. axb3 Nd7 13. Nh2 f5 14. f4 fxe4 15.
+dxe4 exf4 16. Rxf4 Rxf4 17. Bxf4 Bf6 18. Ng4 Bxc3 19. Qxc3 Bxe4 20. Re1 Bf5 21.
+Qg3 Bxg4 22. Qxg4 Nf6 23. Qe6+ Kh8 24. Qf7 c6 25. Re7 Qf8 26. Bxd6 Qxf7 27.
+Rxf7 a5 28. Be5 Kg8 29. Rc7 Re8 30. Bxf6 gxf6 31. Rxc6 Re2 32. Kf1 Rd2 33. Rxf6
+Rxc2 34. Rf2 Rc5 35. g4 Rd5 36. Ke2 Rd4 37. Rf3 a4 38. bxa4 Rb4 39. axb5 Rxb2+
+40. Kf1 Rxb5 {"and, after seventeen more moves, Mr Bird adjudicated the game a
+draw." Source: Chess-Monthly, 1886, p239} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "4.2"]
+[White "Warburton, Cecil"]
+[Black "Grace, Charles Millar"]
+[Result "0-1"]
+[ECO "C54"]
+[PlyCount "44"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. h3 Ne7 7. Bg5 Ng6 8. Qe2
+O-O 9. Nbd2 h6 10. d4 exd4 11. cxd4 Bb6 12. Be3 Nxe4 13. Nxe4 d5 14. Bxd5 Qxd5
+15. Nf6+ gxf6 16. Bxh6 Bd7 17. O-O Rfe8 18. Qd2 Bxh3 19. Be3 Bxg2 20. Nh2 Bxf1
+21. Rxf1 Nh4 22. f3 Rxe3 {Source: Chess-Monthly, 1886, p240} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "5"]
+[White "Robinson, Henry Edwin"]
+[Black "Buchanan, Sidney James"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r1k1b1r/6p1/1pn1pp1p/1Q1pP3/3P4/1N1q4/3B1PPP/1R3RK1 b - - 0 26"]
+[PlyCount "10"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Opening: French with 3 e5.} 26... Nb4 27. Qxd3 Nxd3 28. Na5 Kd7 29. Rb3 Be7 30. Rxd3 bxa5 31. Bxa5 {... "[Black] gained a well-deserved victory on the 56th move" Source: The Field, 10 April 1886} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "6"]
+[White "Rutherford, Arthur"]
+[Black "Gibson, James Thornton"]
+[Result "1-0"]
+[ECO "C47"]
+[PlyCount "63"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Be7 5. Bc4 Nf6 6. Nc3 O-O 7. O-O Ne5 8.
+Bb3 Bb4 9. Bg5 Bxc3 10. bxc3 d6 11. f4 Neg4 12. f5 h6 13. Bxf6 Nxf6 14. Qf3 Re8
+15. Rae1 Qe7 16. Re2 Bd7 17. Rfe1 Nh7 18. Qg3 Qg5 19. Qh3 Qf6 20. Qh5 Re7 21.
+Re3 Rae8 22. Rg3 c5 23. Rg6 Qe5 24. Nf3 Qxc3 25. Bd5 Kh8 26. Rxd6 Ng5 27. Rf1
+Nxf3+ 28. Rxf3 Qa1+ 29. Rf1 Qe5 30. Rxh6+ gxh6 31. Qxh6+ Kg8 32. f6 {Sources:
+Chess-Monthly, 1886, p241; Liverpool Weekly Courier - Saturday 10 April 1886}
+1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "7.1"]
+[White "Duke, Edward Hungerford"]
+[Black "Jones, Charles Frederick"]
+[Result "0-1"]
+[ECO "C14"]
+[PlyCount "46"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1886"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nf3 O-O 8.
+Nb5 Qd8 9. Qd2 a6 10. Qa5 b6 11. Qa3 Bb7 12. Nc3 c5 13. O-O-O c4 14. b3 b5 15.
+h4 Nc6 16. Qb2 Qa5 17. bxc4 bxc4 18. Qxb7 Qxc3 19. Qxc6 Rab8 20. Qxd7 Rb2 21.
+Rd2 Rb1+ 22. Kxb1 Rb8+ 23. Kc1 Qa1# {Source: BCM, 1886, p237} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1886.04.01"]
+[Round "7.2"]
+[White "Jones, Charles Frederick"]
+[Black "Duke, Edward Hungerford"]
+[Result "1-0"]
+[ECO "C45"]
+[PlyCount "63"]
+[EventDate "1886.04.01"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1886"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Nxd4 8.
+cxd4 Bb4+ 9. Nc3 c5 10. e5 Qh4 11. Bb3 Qe4 12. O-O Bxc3 13. bxc3 Nf5 14. Bc2
+Nxe3 15. Bxe4 Nxd1 16. Raxd1 cxd4 17. cxd4 O-O 18. f4 f5 19. Bd5+ Kh8 20. Rc1
+d6 21. Rc7 Rb8 22. Rfc1 dxe5 23. dxe5 Rd8 24. Re7 h6 25. Bb3 Kh7 26. Rcc7 Kg6
+27. Rxg7+ Kh5 28. Rh7 (28. g3) 28... Kg4 29. g3 Kf3 30. Rxh6 Rd3 31. Rd6 Rxd6
+32. exd6 {Source: BCM, 1886, p237} 1-0
+

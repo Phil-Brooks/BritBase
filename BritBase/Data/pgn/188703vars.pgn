@@ -1,0 +1,212 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "1.1"]
+[White "Barnett, Richard Whieldon"]
+[Black "Gwinner, Herman George"]
+[Result "0-1"]
+[ECO "C57"]
+[PlyCount "58"]
+[EventDate "1887.03.24"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Ke6
+8. Nc3 Nce7 9. O-O c6 10. d4 Ng6 11. Re1 Be7 12. Qe4 Rf8 13. f4 b5 14. Bb3 a5
+15. a3 Bb7 16. g4 Kd6 17. dxe5+ Kc7 18. Bxd5 Bc5+ 19. Kf1 cxd5 20. Nxb5+ Kb6
+21. Qf3 d4 22. Qb3 Bd5 23. Qd3 Nxf4 24. Bxf4 Rxf4+ 25. Ke2 Qg5 26. c4 Be4 27.
+Qb3 d3+ 28. Kd2 Rf2+ 29. Kc3 Qd2# {Source: Chess Monthly, Vol. 8, p249} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "2.2"]
+[White "Topham, Richard Stoney"]
+[Black "Ross, Alexander George G"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[PlyCount "35"]
+[EventDate "1887.03.24"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. exd5 exd5 {... hereafter the game is a reconstruction...} 6. Nf3 Nc6 7. Bb5 a6 8. Bxc6+ bxc6 9. O-O O-O 10. Qd3 h6 11. Bf4 c5 12. Rfe1 Be6 13. Nd1 c4 14. Qe2 Ne4 15. c3 f5 16. Bd2 c5 17. Ne3 Qe8 18. Ne5 {Position after White's 18th, 2nd game between Topham and Ross... "as matter of course the game was declared drawn." Source: Chess Monthly, Vol.8, 1886-87, p252. N.B. Only the first five moves, plus 7...a6, 18 Ne5 and the final position known for certain - the rest is a reconstruction by Vlastimil Fiala, Varsity Chess Battles, Oxford vs Cambridge 1873-1914 (Moravian Chess, 2025), p289} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "3.1"]
+[White "Newbolt, Francis George"]
+[Black "Schott, George Adolphus"]
+[Result "0-1"]
+[ECO "C25"]
+[PlyCount "68"]
+[EventDate "1887.03.24"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 d6 4. Nf3 g6 5. Bc4 Be6 6. Bb5 Bg7 7. Bxc6+ bxc6 8.
+O-O exf4 9. d4 g5 10. d5 Bg4 11. dxc6 Ne7 12. Qd3 Ng6 13. h3 Bxf3 14. Qxf3 Ne5
+15. Qe2 O-O 16. Bd2 Nxc6 17. a3 Bd4+ 18. Kh1 Ne5 19. Na4 Qd7 20. Nc3 Rab8 21.
+Nd5 f5 22. c3 Bb6 23. exf5 Rxf5 24. Rad1 Rbf8 25. Nxb6 axb6 26. c4 f3 27. gxf3
+Rxf3 28. Rxf3 Rxf3 29. Qg2 Rxh3+ 30. Kg1 Nf3+ 31. Kf1 Qf5 32. Qf2 Qd3+ 33. Qe2
+Rh1+ 34. Kf2 Rh2+ {Source: Chess Monthly, Vol. 8, p250} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "3.2"]
+[White "Schott, George Adolphus"]
+[Black "Newbolt, Francis George"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[PlyCount "32"]
+[EventDate "1887.03.24"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{N.B. much of this game is a reconstruction by Vlastimil Fiala} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb6 8. O-O d6 9. Bb2 f6 10. Qc2 Bg4 11. Nbd2 Na5 12. Bb5+ Bd7 13. Bd3 Nh6 14. Nc4 Nc6 15. d5 Ne5 16. Bxe5 dxe5 {Position after Black's 16th move, 2nd game, GA Schott v FG Newbolt. Adjudicated by Zukertort. Source: The Chess Monthly, Vol.8, 1886-97, p252. Reconstruction by Vlastimil Fiala.} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "4"]
+[White "Warburton, Cecil"]
+[Black "Stoney, William"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "7k/r6p/2b2p2/4p3/1p1bP3/1Bp2P1P/2P3PK/R7 w - - 0 40"]
+[PlyCount "0"]
+[EventDate "1887.03.24"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Position after Black's 39th move, C Warburton v W Stoney. White had opened
+with a Ruy Lopez. Adjudicated win for Black by Zukertort}  0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "5"]
+[White "Grace, Charles Millar"]
+[Black "Robinson, Henry Edwin"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[PlyCount "46"]
+[EventDate "1887.03.24"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 e6 2. c4 c6 3. e4 h6 4. Nf3 d5 5. Bd3 dxe4 6. Bxe4 f5 7. Ne5 Bb4+ 8. Bd2 Bxd2+ 9. Nxd2 Nf6 10. Bf3 O-O 11. Nf1 Qc7 12. Qe2 Rd8 13. O-O-O Nbd7 14. Ng3 Nxe5 15. dxe5 Rxd1+ 16. Rxd1 Nd7 17. Rd6 Nf8 18. Nh5 Qa5 19. a3 Ng6 20. g4 Qxe5 21. Rd8+ Kf7 22. h3 Qc7 23. Qd2 f4 {Sources: The Field, 2 April 1887; The Chess Monthly, vol.8, 1886-87, p253. Position after Black's 23rd move, CM Grace v HS Robinson. The position proved the most difficult of all [for Zukertort to adjudicate]. Both players had conducted the game very slowly - four(!) hours for 23(!) moves.} (23... f4 {The most plausible continuation appeared to be} 24. Be4 Nf8 (24... e5 25. Bxg6+ Kxg6 26. Qd3+ Kf7 27. Rh8 {wins}) 25. Nxf4 (25. Qxf4+ Qxf4+ 26. Nxf4 Ke7) (25. Qd4 e5) 25... Ke7 $11) 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "6.1"]
+[White "Morgan-Brown, Hubert"]
+[Black "Buchanan, Sidney James"]
+[Result "0-1"]
+[ECO "C02"]
+[PlyCount "66"]
+[EventDate "1887.03.24"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Be2 Nge7 7. Na3 Ng6 8. Bb5
+Bd7 9. Bxc6 Bxc6 10. O-O cxd4 11. cxd4 Bxa3 12. bxa3 O-O 13. Qb3 Bb5 14. Re1
+Qa6 15. Rb1 Bc6 16. Bd2 Rab8 17. Rec1 Ba4 18. Qb4 b6 19. Rc7 Rfc8 20. Qd6 Rxc7
+21. Qxc7 Rc8 22. Qd6 Qd3 23. Qb4 Rc4 24. Qb2 Rc2 25. Qa1 Rxd2 26. Nxd2 Qxd2 27.
+Rb4 Qd1+ 28. Qxd1 Bxd1 29. g3 Ne7 30. Rb1 Be2 31. Rc1 Bc4 32. a4 Nc6 33. f4
+Nxd4 {"and wins" (Source: Chess Monthly, Vol. 8, p251)} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "6.2"]
+[White "Buchanan, Sidney James"]
+[Black "Morgan-Brown, Hubert"]
+[Result "0-1"]
+[ECO "C50"]
+[PlyCount "48"]
+[EventDate "1887.03.24"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qf6 5. O-O d6 6. h3 Qg6 7. d3 Bxh3 8.
+Bxf7+ Qxf7 9. Ng5 Qg6 10. Nxh3 Nf6 11. Ng5 h6 12. Ne6 Ng4 13. Nxc5 Qh5 14. Re1
+O-O 15. Qb3+ Kh7 16. f3 Qh2+ 17. Kf1 Rxf3+ 18. Ke2 Qxg2+ 19. Kd1 Nf2+ 20. Kc2
+Nxd3+ 21. Nd2 Nxe1+ 22. Kb1 Na5 23. Qd1 Rf2 24. Qxe1 dxc5 {adjudicated win for
+Black by Zukertort} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1887.03.24"]
+[Round "7.2"]
+[White "Duke, Edward Hungerford"]
+[Black "Gunnery, Frederick B"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2k2/1pp3pp/4p3/p2p4/2P5/1B3N2/P4PPP/3R2K1 b - - 0 21"]
+[PlyCount "0"]
+[EventDate "1887.03.24"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Position after White's 21st move, 2nd game, EH Duke v FBB Gunnery.
+Adjudicated win for White by Zukertort}  1-0
+

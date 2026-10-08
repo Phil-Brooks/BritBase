@@ -1,0 +1,414 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "1.1"]
+[White "De Soyres, John"]
+[Black "Parratt, Walter"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Annotator "Blackburne/Potter"]
+[PlyCount "57"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Bb4 7. Bd3 {(There
+is a division of opinion concerning this move. Some authorities prefer Be2)}
+Nge7 8. O-O Bxc3 9. bxc3 O-O 10. f4 f6 {(This move is of doubtful merit)} 11.
+Rf3 d5 12. Rg3 f5 13. e5 Qc7 14. Qh5 Rf7 15. Kh1 ({This appears to be loss of
+time.} 15. Nf3 {was the proper line of play and would have been very difficult
+to meet}) 15... Nxd4 16. cxd4 b5 17. Rg5 g6 18. g4 Rg7 19. Qh4 Bb7 20. Rg1 Rf8
+21. gxf5 Nxf5 22. Bxf5 Rxf5 {(Black here plays very judiciously and selects
+the right course to ensure a draw)} 23. Rxf5 gxf5 24. Qf6 Rxg1+ 25. Kxg1 Qg7+
+26. Qxg7+ Kxg7 {[Illustrated London News 11 April 1874 and Huddersfield Chess
+Magazine, May 1874, give the game as ending here]} 27. a3 Kg6 28. Kg2 Kh5 29.
+c3 {Played at City of London CC, City Restaurant, 34 Milk Street, Cheapside,
+London. Not less than 700 people watched the event! (including Staunton,
+Steinitz, Lowenthal, Horwitz, Zukertort, Bird, Blackburne, etc). 20 games were
+played altogether. These seven show just one from each board - source: City of
+London CC Magazine, 1874, page 71. Sources: Westminster Papers, 1 Apr 1874;
+Illustrated London News, 11 April 1874} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "1.2"]
+[White "Parratt, Walter"]
+[Black "De Soyres, John"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[PlyCount "52"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Huddersfield College"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 d5 4. Bf4 e6 5. Be5 c5 6. c3 Nc6 7. f4 b6 8. Nf3 Be7
+9. Nbd2 O-O 10. O-O Ng4 11. Re1 Ne3 12. Qc1 Ba6 13. Nf1 Nxg2 14. Kxg2 Rc8 15.
+Qe3 h6 16. h4 Qe8 17. a3 Qg6 18. N1d2 Rfd8 19. Rac1 Qe8 20. Kh2 Qf8 21. Rg1 h5
+22. Ng5 Bxg5 23. hxg5 Nxe5 24. Qxe5 Qd6 25. e3 Qxe5 26. dxe5 Be2 {Sources:
+Illustrated London News, 11 April 1874; Huddersfield College Magazine, May
+1874, p157} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "1.3"]
+[White "De Soyres, John"]
+[Black "Parratt, Walter"]
+[Result "1-0"]
+[ECO "C25"]
+[PlyCount "36"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Huddersfield College"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 Bb4 4. Nf3 d6 5. Bc4 Nf6 6. d3 h6 7. O-O Bc5+ 8. Kh1
+O-O 9. Na4 Bb6 10. Nxb6 axb6 11. fxe5 dxe5 12. Bd2 Bg4 13. Qe1 Nh7 14. Nh4 Bh5
+15. Nf5 Ne7 16. Qg3 Ng6 17. Rf2 Ng5 18. Raf1 Kh7 {"The time for concluding the
+tourney having arrived when Black made this move, the position was submitted
+to the umpire [Steinitz], who adjudged the game to be White's. It is right to
+say that Mr. Parratt's play throughout these games is far below his real
+strength, owing to an almost total want of practice for some months." Sources:
+Westminster Papers, 1 Apr 1874; Illustrated London News, 11 April 1874;
+Huddersfield College Magazine, May 1874, p157.} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "2.1"]
+[White "Madan, Falconer"]
+[Black "Keynes, John Neville"]
+[Result "0-1"]
+[ECO "C50"]
+[Annotator "Blackburne/Potter"]
+[PlyCount "74"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 Bc5 5. d3 d6 6. O-O Bg4 7. a3 ({There is
+no good purpose answered by this move.} 7. Ne2 {in order to play it afterwards,
+would have been better}) 7... Nd4 8. b4 Bb6 9. Bg5 Nxf3+ 10. gxf3 Bh3 11. Re1
+h6 12. Bh4 (12. Be3 {was the proper line of play. The move in the text
+involves the loss of a piece}) 12... g5 13. Bg3 h5 14. Kh1 h4 15. Ne2 hxg3 16.
+fxg3 Bf2 17. Qd2 Bxe1 18. Rxe1 Nh5 19. g4 Qf6 20. Qe3 Nf4 21. Rg1 Qh6 22. Qf2
+Qh4 23. Qxh4 Rxh4 24. Ng3 Rh7 {Mr. Keynes has played the greater part of this
+game in a very skilful manner, but he has been aided materially by his
+opponent's want of foresight. And after a few more moves the game was won by
+White [sic - presumably they mean Black - JS]} 25. c3 O-O-O 26. d4 Rdh8 27. Ne2
+Bxg4 28. Rxg4 Rxh2+ 29. Kg1 Nxe2+ 30. Kf1 Nxc3 31. dxe5 Rb2 32. Ke1 Rh1+ 33.
+Bf1 Nb5 34. exd6 Nxd6 35. Rxg5 Rb1+ 36. Ke2 Rbxf1 37. Kd3 Rxf3+ {Source:
+Westminster Papers, 1 Apr 1874} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "2.3"]
+[White "Madan, Falconer"]
+[Black "Keynes, John Neville"]
+[Result "0-1"]
+[ECO "C47"]
+[PlyCount "32"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d6 5. d5 Ne7 6. Bc4 c6 7. Bg5 h6 8. Be3 b5
+9. Be2 b4 10. Na4 Nxe4 11. dxc6 Nxc6 12. Bd2 Bd7 13. b3 a5 14. O-O Ne7 15. Nb2
+Ng6 16. Bc4 Nf6 {adjudicated a win for Black. Source: Westminster Papers, 1
+Apr 1874} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "3.1"]
+[White "Ogden, Charles Burdett"]
+[Black "Meredith, Samuel Redhead"]
+[Result "1-0"]
+[ECO "C44"]
+[Annotator "Blackburne/Potter"]
+[PlyCount "95"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 ({Very weak} 5... Nf6 {
+was the correct move, and would have brought the game to a position in the
+Giuoco Piano, where neither side has any advantage}) 6. Bxf7+ Kxf7 7. Qd5+ Ke8
+8. Qxc5 d6 9. Qxc3 Nf6 10. O-O Qe7 11. Re1 Ne5 12. Nxe5 dxe5 13. Qb3 c6 14. Bg5
+Rf8 15. Nd2 Be6 16. Qg3 h6 17. Bxf6 Qxf6 18. Nf3 Rd8 19. Nxe5 Qf4 {(It is not
+usually considered advisable with a pawn behind to try and exchange queens.
+Moreover, in other respects, the move in the text is objectionable)} 20. Qg6+
+Bf7 21. Nxf7 {(We see no reason why White should not have captured the g-pawn)}
+Rxf7 22. Qe6+ Kf8 23. f3 Re8 24. Qc4 Qg5 25. Qd3 a6 26. Rad1 Re6 27. Kh1 Kg8
+28. Qd8+ Qxd8 29. Rxd8+ Rf8 30. Rxf8+ Kxf8 31. Rd1 Ke7 32. g3 Rd6 33. Rxd6 Kxd6
+34. Kg2 Ke5 35. Kf2 Kd4 36. Ke2 b5 37. Kd2 c5 38. Kc2 a5 39. Kd2 a4 40. Kc2 b4
+41. b3 a3 42. Kc1 g5 43. g4 c4 44. bxc4 Kxc4 45. Kc2 b3+ 46. axb3+ Kb4 47. e5
+a2 48. Kb2 {Source: Westminster Papers, 1 Apr 1874} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "3.3"]
+[White "Ogden, Charles Burdett"]
+[Black "Meredith, Samuel Redhead"]
+[Result "0-1"]
+[ECO "C45"]
+[Annotator "Zukertort/Wisker"]
+[PlyCount "94"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ ({Safer is} 4... Bc5) 5. Bd2 ({
+The usual course here is} 5. c3) 5... Bxd2+ 6. Qxd2 d6 7. Nxd4 Nxd4 8. Qxd4 Qf6
+9. Qxf6 Nxf6 10. Nc3 O-O 11. O-O Be6 12. Bd3 a6 13. a3 Rae8 14. Rae1 Bd7 15. f4
+Bc6 16. Re3 Nd5 {A mistake, which ought to lose the game.} 17. exd5 Rxe3 18.
+dxc6 bxc6 19. Bxa6 Rb8 20. Rb1 {This blunder turns the tables.} Rxc3 21. Bd3
+Rxa3 22. b3 Rba8 23. Kf2 Ra1 24. Rxa1 Rxa1 25. h3 c5 26. Kf3 d5 27. Ke3 Rc1 28.
+g3 c4 {Very injudicious, Black should bring his king into action.} 29. bxc4
+dxc4 30. Be4 Ra1 31. Kd4 Ra3 32. c3 Ra1 33. Kxc4 Rg1 34. g4 Rg3 35. Kd4 Rxh3
+36. c4 Kf8 37. Kd5 Ke7 38. Kc6 Kd8 39. Kd5 Rh4 40. Ke5 Rxg4 41. Bxh7 g6 42. c5
+f6+ 43. Kxf6 Rxf4+ 44. Ke5 g5 45. Bf5 Rf2 46. c6 Rf4 47. Bd7 Rf7 {Adjudicated
+win for Black. Source: Westminster Papers, 1 April 1874, p255. The newspaper
+places the game alongside other games marked as played in the second round but
+in reality, to tally with results as reported, it was more probably played in
+the third game between the players.} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "4.1"]
+[White "Grundy snr, William"]
+[Black "Ball, Walter W Rouse"]
+[Result "0-1"]
+[ECO "C13"]
+[Annotator "Blackburne/Potter"]
+[PlyCount "78"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 (4. exd5 {at this point is considered
+better}) 4... dxe4 5. Nxe4 Be7 6. Nxf6+ Bxf6 7. Bxf6 Qxf6 8. Nf3 O-O 9. Qe2 (9.
+Bd3 {with the view of castling on the king's side, would have been stronger})
+9... Nc6 10. O-O-O a5 11. Kb1 Bd7 12. Ne5 Rad8 13. Qe4 {(This move loses a
+pawn, without any compensating advantage in position being gained)} Qxf2 14.
+Bb5 f5 15. Qd3 Nxe5 16. dxe5 Bxb5 17. Qxb5 Qxg2 18. Qb3 Rxd1+ 19. Rxd1 Qc6 20.
+Qd3 b6 21. Qd7 Qxd7 22. Rxd7 Rc8 23. Re7 g6 24. Rxe6 f4 25. Kc1 Rd8 26. Rf6 Rf8
+27. Kd2 Rxf6 28. exf6 Kf7 29. Kd3 Kxf6 30. Ke4 g5 31. a4 Ke6 32. c3 Kf6 33. b4
+axb4 34. cxb4 Ke6 35. a5 bxa5 36. bxa5 Kd7 37. Kd5 Kc8 38. Kc6 Kb8 39. a6 Ka7 {
+won in 43 moves, acc. to the Times report. Game end acc. Westminster Papers.
+Source: Westminster Papers, 1 Apr 1874} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "5.1"]
+[White "May, Thomas Hughes D"]
+[Black "Plunkett, Horace Curzon (Hon)"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Annotator "Blackburne/Potter"]
+[PlyCount "85"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. Nc3 Bb4 5. Bd3 Nc6 6. Nge2 ({White should here
+have played} 6. Nf3 {which would have prevented the subsequent advance of his
+opponent's e-pawn}) 6... e5 7. a3 dxc4 {(Black plays hereabouts very
+vigorously)} 8. Bxc4 Bxc3+ 9. Nxc3 {(This move loses a clear pawn)} exd4 10.
+Ne2 dxe3 11. Qxd8+ Nxd8 12. Bxe3 O-O 13. O-O Be6 14. Rac1 c6 15. Ng3 Nd5 16.
+Bxd5 Bxd5 17. Bc5 Re8 18. Nf5 Ne6 19. Ne7+ Kh8 20. Nxd5 cxd5 21. Rfd1 b6 22.
+Bd4 Rac8 23. Rxc8 Rxc8 24. g3 h6 ({Black should have played} 24... Rc4 {
+winning easily}) 25. Kf1 Nxd4 26. Rxd4 Rc2 27. Rxd5 Rxb2 28. Rd7 a5 29. Rxf7
+Rb3 30. a4 Rb4 31. Rb7 Kg8 32. h4 Rxa4 33. Rxb6 Ra1+ 34. Kg2 Rc1 35. Rb5 Ra1
+36. Rb7 a4 37. Ra7 Kf8 38. h5 a3 39. Kf3 a2 40. Kf4 Ke8 41. Kf5 Rh1 42. Rxa2
+Rxh5+ 43. Kg4 {and the game was given up as drawn (Source: Westminster Papers,
+1 Apr 1874)} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "6.1"]
+[White "Tracey, Campbell"]
+[Black "Nicholson, Joseph Shield"]
+[Result "0-1"]
+[ECO "B00"]
+[Annotator "Blackburne/Potter"]
+[PlyCount "150"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 {"This defence of the e-pawn is not at all
+satisfactory because it blocks the c-pawn; 3.d5 followed by 4.c4 is good" 
+(Zukertort/Wisker)} Nf6 4. Bd3 c5 5. Nf3 c4 6. e5 {"White has already the
+inferior game" (Zukertort/Wisker)} cxd3 7. exf6 dxc2 {(Each side pursues his
+own idea with great animation, but Black seems to get the best of the melee)}
+8. Qxc2 exf6 9. O-O Be7 10. d5 O-O 11. Bf4 Bb4 12. Rad1 Na6 13. a3 Bxc3 14.
+bxc3 Rc8 15. c4 b5 {"This advance is premature" (Zukertort/Wisker)} 16. Qb2
+Rxc4 17. Qxb5 Rxf4 18. Qxb7 Ra4 19. Rd3 {"A blunder, which does not improve
+White's prospects" (Zukertort/Wisker)} Nc5 20. Qb5 Ra5 21. Qc4 Nxd3 22. Qxd3
+Qb6 23. d6 Qc6 24. Nh4 Rd5 25. Qg3 Re8 {(there is no reason why the queen
+should not have taken the d-pawn)} ({"} 25... Qxd6 {was simple and sound" 
+(Zukertort/Wisker)}) 26. Qg4 Rg5 27. Qd4 Re4 28. Qxa7 h6 ({"} 28... g6 {
+was the proper move" (Zukertort/Wisker)}) 29. Qb8+ Kh7 30. Qb1 g6 31. Qb3 {
+(The manoeuvres on both sides are rather amusing, though not destitute of
+purpose)} Kg7 32. Nf3 Rc5 33. Nd2 Rg4 34. f3 Rd4 35. Qb2 {(The attack and
+counter attack on both sides are kept up with vigour)} Rcd5 36. Ne4 Qc4 37. Rc1
+Qxc1+ 38. Qxc1 Rd1+ 39. Qxd1 Rxd1+ 40. Kf2 Ra1 ({"} 40... f5 {would win at
+once, giving Black a passed pawn" (Zukertort/Wisker)}) 41. a4 {"The intention
+of this move surpasses the power of our comprehension" (Zukertort/Wisker)} Rxa4
+42. Nc5 Rd4 43. Nxd7 Rxd6 44. Nc5 h5 45. Ne4 Rc6 46. Kg3 f5 47. Nf2 Rf6 ({"} 
+47... g5 {would have saved immense time for the players, the recorder and the
+readers. Black ought to win in about half-a-dozen moves, and he takes 40 to do
+so. I hope to be excused analysing the remainder of the game" (Zukertort/
+Wisker)}) 48. h4 Kh6 49. Nh3 Ra6 50. f4 f6 51. Kh2 Ra8 52. Kg3 Rg8 53. Kf3 Kg7
+54. Ke3 Kf7 55. Nf2 g5 56. hxg5 {(PxP ambiguous)} fxg5 57. fxg5 Rxg5 58. Kf3
+Kf6 59. Nh3 Rg8 60. g3 Ra8 61. Nf4 Ra3+ 62. Kg2 Kg5 63. Nh3+ Kh6 64. Nf4 Ra8
+65. Nh3 Rg8 66. Kf3 Rf8 67. Nf4 Ra8 68. Kg2 Ra4 69. Kf3 Ra1 70. Kg2 Rb1 71. Kf2
+Kg5 72. Kg2 Kg4 73. Ne2 Rb2 74. Kf2 Rxe2+ 75. Kxe2 Kxg3 {Source: Westminster
+Papers, 1 Apr 1874 (longest game of the round, according to the Times report)}
+0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "6.2"]
+[White "Nicholson, Joseph Shield"]
+[Black "Tracey, Campbell"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "77"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "ILN"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 c5 5. Nf3 Nc6 6. b3 cxd4 7. exd4 Bb4 8. Bb2
+Ne4 9. Rc1 Qa5 10. Qc2 O-O 11. Bd3 e5 12. cxd5 Nxd4 13. Nxd4 exd4 14. Bxe4 dxc3
+15. Bxc3 Bxc3+ 16. Qxc3 Qxc3+ 17. Rxc3 Re8 18. Re3 b6 19. Bxh7+ Kf8 20. Rxe8+
+Kxe8 21. Be4 Bb7 22. O-O Rd8 23. Rd1 Rd6 24. f4 Ke7 25. Kf2 Rf6 26. Ke3 Kd6 27.
+g3 Rh6 28. h4 Rh8 29. Kd4 Rh5 30. Kc4 Ba6+ 31. Kb4 f5 32. Bf3 Rh8 33. Re1 Bc8
+34. a4 g6 35. a5 bxa5+ 36. Kxa5 Bd7 37. b4 Rb8 38. Rb1 Rb5+ 39. Ka6 {"... and,
+after a few more moves, Black struck his flag" (HS). Source: Illustrated
+London News, 18 April 1874} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "City of London CC"]
+[Date "1874.03.27"]
+[Round "7.1"]
+[White "Hooper, Wynnard"]
+[Black "Connell, Alexander Richard C"]
+[Result "0-1"]
+[ECO "C64"]
+[Annotator "Blackburne/Potter"]
+[PlyCount "88"]
+[EventDate "1874.03.27"]
+[EventType "team"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 {(This is not a good defence to the Ruy Lopez)}
+4. O-O Bc5 5. c3 a6 6. Ba4 b5 7. Bb3 d6 8. d4 exd4 9. Bg5 Qg6 10. Qd2 ({
+A very weak move.} 10. Bd5 {was the correct line of play}) 10... h6 11. Bh4 Bh3
+{(Useless. This B should have been played to g4 at once)} 12. Bg3 Bg4 13. cxd4
+Bb6 14. a4 Bxf3 15. gxf3 Nxd4 16. Qd3 b4 17. Bc4 Qh5 18. Nd2 Nf6 19. e5 dxe5
+20. Bxe5 Rd8 21. Bxa6 Ne6 22. Bb5+ Nd7 ({Black could here have won by playing} 
+22... Kf8 {as White must then have lost a piece}) 23. Rae1 Qg5+ 24. Kh1 Qh4 25.
+Bg3 Qf6 26. Re4 Qxb2 27. Be5 Qa3 28. Qc4 ({We believe White might have
+retrieved his game at this point by} 28. Bxg7) 28... O-O 29. Bxd7 Rxd7 30. Ra1
+Qd3 31. Qxd3 Rxd3 32. Nc4 Bxf2 33. Kg2 Bc5 34. Bg3 Ng5 35. Rf4 b3 36. Rf5 Bd4
+37. Rb1 Re8 38. Be5 Bxe5 39. Rxe5 Rxe5 40. Nxe5 Rd2+ {(game ended at 9.15pm
+having started at 6pm, acc. the Times report)} 41. Kg3 Ra2 42. Rxb3 Rxa4 43.
+Rb7 f6 44. Ng6 c5 {Source: Westminster Papers, 1 Apr 1874} 0-1
+

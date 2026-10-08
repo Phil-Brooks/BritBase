@@ -1,0 +1,175 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1890.03.27"]
+[Round "1"]
+[White "Allen, Ashley William G"]
+[Black "Jackson, Edward Mackenzie"]
+[Result "0-1"]
+[ECO "C50"]
+[PlyCount "104"]
+[EventDate "1890.03.27"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "The Field"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. O-O O-O 7. Bg5 Be6 8.
+Bxe6 fxe6 9. a3 Qe8 10. Ne2 Qg6 11. Ng3 Rae8 12. Be3 Bb6 13. Bxb6 axb6 14. Qd2
+d5 15. Qg5 Qxg5 16. Nxg5 Nd7 17. c3 Nc5 18. Rad1 d4 19. b4 Na4 20. c4 Nc3 21.
+Rd2 b5 22. c5 h6 23. Nf3 Ra8 24. Ra1 Nxb4 25. Nxe5 Ra4 26. Ne2 Nxe2+ 27. Rxe2
+Rfa8 28. g3 Rxa3 29. Rxa3 Rxa3 30. Rb2 Nc6 31. Nxc6 bxc6 32. Rd2 Rc3 33. Kf1
+Kf7 34. Ke2 Rxc5 35. Rb2 e5 36. f3 Ke6 37. Kd2 Rc3 38. Rb4 Kd6 39. f4 Kc5 40.
+Rb2 b4 41. fxe5 b3 42. h3 Kb4 43. Rb1 Rc5 44. e6 Re5 45. Rc1 c5 46. Rc4+ Kb5
+47. Kc1 Rxe6 48. Kb2 Rxe4 49. Kxb3 Re3 50. Kc2 Rxg3 51. Kd2 Rxh3 52. Rc1 Rh2+ {
+Source: The Field, 5 April 1890} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1890.03.27"]
+[Round "2"]
+[White "Gunnery, Frederick B"]
+[Black "Lester, Hubert B"]
+[Result "1-0"]
+[ECO "C44"]
+[PlyCount "62"]
+[EventDate "1890.03.27"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. Bb5 Bd7 5. c3 Nf6 6. Qc2 Ne7 7. Bxd7+ Nxd7 8.
+O-O Ng6 9. Qb3 b6 10. Ng5 Qf6 11. f4 exf4 12. Nh3 Be7 13. Bxf4 O-O 14. Nd2 Rae8
+15. Bg5 Qe6 16. Qd1 c5 17. d5 Qe5 18. Rf5 Bxg5 19. Rxe5 ({"This is a very
+interesting position. Probably nine players out of ten would have followed the
+same course as the Oxonian, and taken the queen for two pieces. Curiously
+enough, it would have been better to be satisfied with a slighter gain, and
+continue as follows:} 19. Nxg5 Qe7 20. Qh5 h6 21. Nxf7 Rxf7 22. Qxg6 Rxf5 23.
+Qxf5 Rf8 24. Qh3 {, with a pawn ahead." (The Field)}) 19... Be3+ 20. Kh1 Ndxe5
+21. Nf3 Ng4 22. Qa4 Nf6 ({"An incomprehensible retreat. He should have played} 
+22... Re7 {, defending his a-pawn, and then double his rooks and play a
+waiting game. It was close upon six o'clock, the time fixed for adjudication,
+and in this position the umpire would have probably given it as a draw." (The
+Field) (n.b. Stockfish 14 prefers the move played, judging that the mistake
+came on the subsequent move - JS)}) 23. Qxa7 Rxe4 ({Stockfish 14 prefers} 23...
+c4 $16) 24. Qxb6 Nf4 25. Nxf4 Bxf4 26. Qb3 Rfe8 27. g3 Re3 28. Rf1 Bh6 29. a4
+Re2 30. a5 Ne4 31. Qb5 Nf6 {Adjudicated a win for White by L Hoffer. Sources:
+Evening News and Post (London), 29 March 1890; 'The Chess-Monthly', April 1890;
+Worthing Gazette, 2 April 1890; The Field, 5 April 1890 (Contributed by Brian
+Denman; list of sources updated, 10 May 2021) - n.b. I have not included all
+the detailed annotations published in The Field, just the most significant
+ones - JS} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1890.03.27"]
+[Round "3.2"]
+[White "Stoney, William"]
+[Black "Robinson, Henry Edwin"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4kb1r/ppq1n1pp/2n1Qp2/8/5p2/1BN2N1P/PPP3P1/2K1R3 b k - 0 22"]
+[PlyCount "1"]
+[EventDate "1890.03.27"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{"In the second game, on the same board, W. Stoney (Oxford), commenced with
+the Centre Gambit [once an alternative name for the Scotch game, so presumably
+1 e4 e5 2 Nf3 Nc6 3 d4 exd4 4 Nxd4 or 4 Bc4 - JS], with which evidently he was
+more familiar than the Cantab. The latter adopted an inferior defence, with 4..
+.d6, and played afterwards ...Qe7, intending to castle on the queen's side,
+his opponent having castled on that side; but the queen had to retire, and so
+he lost ground. On the fourteenth move the Oxonian won a pawn. He gave it up
+again for a superior position and a powerful attack, when he hastily, in the
+excitement of the moment, transposed the moves he intended to make, and
+instead of winning, he lost the game. We illustrate the position after White's
+22.Qe6. Here Black played} 22... Nd8 {, and Stoney, intending to check with
+the bishop, followed by Nd5, touched the knight first and had to move it. 
+(Source: The Field, 5 April, p503)} (22... Nd8 {"One of the continuations
+might have been} 23. Ba4+ Ndc6 24. Nd4 Qd7 25. Qc4 {and wins"}) 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1890.03.27"]
+[Round "4"]
+[White "Le Patourel, Wallace Mackenzie"]
+[Black "Prior, Richard Henry"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4r3/1p3kp1/p3q2p/4p3/4P3/P1B3QP/1P4PK/8 w - - 0 31"]
+[PlyCount "0"]
+[EventDate "1890.03.27"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Board No.4 was a Queen's Gambit, offered by W. M. Le Patourel (Oxford) and accepted by R. H. Prior (Cambridge). The game was quite even up to the twentieth move, when the Oxonian lost the exchange. At the call of time Mr Hoffer gave the game in favour of Black, in the following position, after Black's 30th move. (Source: The Field, 5 April 1890, p503)}  0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1890.03.27"]
+[Round "6"]
+[White "Jelly, Frank Edward"]
+[Black "Stephenson, Robert Cecil"]
+[Result "1/2-1/2"]
+[Annotator "Hoffer, L; Saunders, J"]
+[SetUp "1"]
+[FEN "2k4r/1p3pr1/p1p5/3p1P2/5Rnp/2P3Pp/PP3P2/3B1R1K b - - 0 26"]
+[PlyCount "19"]
+[EventDate "1890.03.27"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Opening: 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nd4... "Board No.6.—F. E. Jelly (Oxford) played also a Ruy Lopez, which R. C. Stephenson (Cambridge) defended with 3...Nd4, an inferior defence (favoured by Bird), which gave White the usual advantage, which he ought to obtain against this defence; but he exchanged queens early, and allowed the Cantab to institute a telling counter attack. The following is the position at the most interesting stage of the game, after White's 26.Bd1."} 26... hxg3 ({Better would have been} 26... Nxf2+ {followed by 27...hxg3, winning the exchange (Hoffer)}) 27. fxg3 Ne3 28. f6 Rxg3 29. Re1 Ng2 30. Rg4 Rxg4 (30... Rd3 $19 {Hoffer}) 31. Bxg4+ Kd8 ({Stockfish 17:} 31... Kb8 $17) 32. Re7 Rh6 ({"Any other rook's move would have lost." This erroneous assessment appears in both The Field and The Chess Monthly, which then go on to give the following line:} 32... Rh4 33. Bf5 Rh5 34. Bc2 Nf4 ({Stockfish 17:} 34... Rh6 35. Rxf7 Ne3 36. Bd3 Ng4 $17) 35. Rxf7 Rg5 ({Stockfish 17:} 35... Rh6 $15) 36. Rxb7 ({Stockfish 17:} 36. Rf8+ Kd7 37. f7 $1 $18) 36... Ke8 37. Ba4 Nd3 38. Bxc6+ Kf8 39. Bxd5 {"and wins" but Black can now simply take the bishop with the rook and Black wins. JS}) (32... Rg8 {is also playable. JS}) 33. Rxf7 Ke8 34. Be6 Nf4 35. Re7+ Kf8 {Draw by perpetual check. Sources: The Field, 5 April 1890, p503; The Chess Monthly, Vol.11 (1890), p239-240} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1890.03.27"]
+[Round "7"]
+[White "James, Edward Bankes"]
+[Black "Crump, Louis Charles"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/1p1k1p1p/2p1p1pP/2P1K1P1/6B1/8 w - - 0 39"]
+[PlyCount "8"]
+[EventDate "1890.03.27"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Board No.7.â€”E. B. James (Cambridge), having the move, opened with 1.d4, and
+L. C. Crump (Oxford) replied with 1...d5. Considering that this was the last
+board in order of merit, the game was above the average of what would have
+been expected. Both players were soon after the few opening moves thrown upon
+their own resources, and struggled on manfully with quite an irregular and
+difficult position. In the ending the Cantab managed to win a piece, but at
+the expense of three pawns, and could only manage to draw, the Oxonian not
+being anxious at all about the fate of his game, but rather disappointed that
+his opponent would not venture to try for a win. The following is the position
+after Black's 38th move:} 39. Bf1 Ke5 ({Stockfish 14} 39... Kc5 $1 $19) 40. Be2
+Kd5 41. Bd1 Ke5 42. Be2 Kd5 {Agreed drawn. Source: The Field, 5 April 1890, p503
+} (42... Kd5 {"If} 43. Kf4 b4 44. cxb4 Kd4 {and the two passed pawns win
+against the bishop."}) 1/2-1/2
+

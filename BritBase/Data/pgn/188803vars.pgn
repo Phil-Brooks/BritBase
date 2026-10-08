@@ -1,0 +1,224 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "1.1"]
+[White "Schott, George Adolphus"]
+[Black "Barnett, Richard Whieldon"]
+[Result "0-1"]
+[ECO "C56"]
+[PlyCount "40"]
+[EventDate "1888.03.22"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Nd7 7. Bxc6 bxc6 8.
+Qxd4 Bc5 9. Qd1 Ba6 10. a3 Qe7 11. Bf4 f6 12. Kd2 O-O 13. e6 Qxe6 14. Re1 Qg4
+15. Bg3 Bxf2 16. Re7 Rfe8 17. Rxe8+ Rxe8 18. Bxf2 Qxg2 19. Qg1 Re2+ 20. Kc1
+Rxf2 {Source: Chess Monthly, Vol. 9, p246} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "1.2"]
+[White "Barnett, Richard Whieldon"]
+[Black "Schott, George Adolphus"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "54"]
+[EventDate "1888.03.22"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 d5 4. exd5 e4 5. Ne5 Bd6 6. d4 O-O 7. Bg5 h6 8. Bh4
+Qe7 9. Bg3 Bxe5 10. dxe5 Ng4 11. Qd4 Nd7 12. f4 exf3 13. Qxg4 Nxe5 14. Qe4 fxg2
+15. Be2 gxh1=Q+ 16. Qxh1 Qb4+ 17. Nd2 Qxb2 18. Rb1 Qd4 19. Bf2 Qf4 20. Rb3 Re8
+21. Rg3 Bg4 22. Be3 Nd3+ 23. cxd3 Rxe3 24. Rxe3 Qxe3 25. Qe4 Qxe2+ 26. Qxe2
+Bxe2 27. Kxe2 Rd8 {Source: Chess Monthly, Vol. 9, p247} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "2.2"]
+[White "Topham, Richard Stoney"]
+[Black "Stoney, William"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2B2k2/pp2rppp/2p5/8/PPPb4/3P4/6PP/3R3K b - - 0 28"]
+[PlyCount "0"]
+[EventDate "1888.03.22"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{The opening moves of the game were: 1 e4 e5 2 f4 d5 3 exd5 Qxd5 4 Nc3 Qe6 5 fxe5 Qxe5+ 6 Qe2 Qxe2+ 7 Bxe2. Position after White's 28th. Adjudicated drawn. Sources: The Field, 31 March 1888; Chess Monthly, Vol. 9, p252}  1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "3"]
+[White "Warburton, Cecil"]
+[Black "Jackson, Edward Mackenzie"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "68"]
+[EventDate "1888.03.22"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "The Field"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Be6 9. Be3 O-O 10. Bxe4 dxe4 11. Nfd2 Nxd4 12. Nxe4 Nf5 13. Nbd2 Nxe3 14. fxe3
+Qd3 15. Qb3 Qxb3 16. axb3 f5 17. Nc3 Bc5 18. Rae1 f4 19. Nd1 Bg4 20. Ne4 Bb4
+21. Ndc3 Bxc3 22. Nxc3 fxe3 23. Rxf8+ Rxf8 24. Rxe3 c6 25. Re7 Rf7 26. Rxf7
+Kxf7 27. Ne4 Ke7 28. Kf2 Bf5 29. Nd2 Kd6 30. Nf1 Kc5 31. Ne3 Bd3 32. Ke1 Kb4
+33. Kd2 Be4 34. Kc1 Kxb3 {'and Black ultimately won the QBP also, and the game
+on his 56th move. The remainder, however, is of no interest, and White might
+have abandoned at an earlier stage.' Source: The Field of 31.3.1888. Played at
+the British Chess Club, London.} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "4"]
+[White "Grace, Charles M"]
+[Black "Robinson, Henry Edwin"]
+[Result "1-0"]
+[ECO "C67"]
+[PlyCount "111"]
+[EventDate "1888.03.22"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. c4 Be6 11. b3 b5 12. Ng5 Bc8 13. Ne4 h6 14. c5
+Be6 15. Bb2 Bd5 16. Nbd2 Rd8 17. b4 Be7 18. f4 Ne3 19. Rdc1 Rf8 20. Kf2 Bxe4
+21. Nxe4 Nc4 22. Bc3 Rd3 23. Re1 g5 24. f5 Kd7 25. f6 Bd8 26. Rac1 Ke6 27. Ng3
+Rd5 28. Nh5 Kf5 29. Ng7+ Kg6 30. g4 a6 31. Re4 Rd3 32. Bd4 Rd2+ 33. Kg3 Rd3+
+34. Kf2 Nd2 35. Ke2 Nxe4 36. Kxd3 Nxf6 37. exf6 Bxf6 38. Bxf6 Kxf6 39. Nf5 h5
+40. h3 Rd8+ 41. Ke3 Rd5 42. Rc3 Rd8 43. Ra3 Ra8 44. Nd4 hxg4 45. hxg4 Ke5 46.
+Nxc6+ Kd5 47. Na5 Re8+ 48. Kf3 Re4 49. Rd3+ Rd4 50. Rxd4+ Kxd4 51. Nc6+ Kc4 52.
+a3 Kb3 53. Nb8 Kxa3 54. Nxa6 c6 55. Ke4 Kb3 56. Kf5 {Source: Chess Monthly,
+Vol. 9, p248} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "5"]
+[White "Morgan-Brown, Hubert"]
+[Black "Tillyard, Francis"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "7n/6rk/R6p/1p3Pp1/1P2B3/pbP4P/6P1/7K b - - 0 40"]
+[PlyCount "0"]
+[EventDate "1888.03.22"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+{Position after White's 40th. Adjudicated win for Black. Source: Chess Monthly,
+Vol. 9, p252}  0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "6"]
+[White "Osborn, Edward Bolland"]
+[Black "Duke, Edward Hungerford"]
+[Result "1-0"]
+[ECO "C45"]
+[PlyCount "52"]
+[EventDate "1888.03.22"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bb5 O-O 8. Nxc6 dxc6 9. Bxc5 cxb5 10. O-O Re8 11. Bxe7 Qxe7 12. Nd2 Rd8 13. Qc2 Qg5 14. f4 Qc5+ 15. Kh1 Qh5 16. Nf3 Bg4 17. h3 Rd6 18. Rf2 Rad8 19. Nh2 Rd1+ 20. Rxd1 Bxd1 21. Rd2 Rd6 22. Rxd6 cxd6 23. Qd2 Qe2 24. Qxe2 Bxe2 25. Ng4 Bxg4 26. hxg4 f6 {"and White won in 48 moves." Source: The Field, 31 March 1888} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "7.1"]
+[White "Bryant, Walter William"]
+[Black "Newbolt, Francis George"]
+[Result "1-0"]
+[ECO "C54"]
+[PlyCount "49"]
+[EventDate "1888.03.22"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Qe7 7. O-O Ng4 8. cxd4 Bb6 9. Ng5 Nh6 10. Be3 Bxd4 11. Bxd4 Nxd4 12. Qxd4 Qxg5 13. f4 Qg6 14. Nc3 b6 15. Bd5 c6 16. Be4 f5 17. exf6 Qxf6 18. Qxf6 gxf6 19. Rae1 Kf7 20. f5 Bb7 21. Nb5 cxb5 22. Bxb7 Rae8 23. Rxe8 Rxe8 24. Bf3 Nxf5 25. Bh5+ {Source: The Field, 31 March 1888} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "British Chess Club"]
+[Date "1888.03.22"]
+[Round "7.2"]
+[White "Newbolt, Francis George"]
+[Black "Bryant, Walter W"]
+[Result "1-0"]
+[ECO "C52"]
+[PlyCount "49"]
+[EventDate "1888.03.22"]
+[EventType "team"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+[SourceTitle "Chess Monthly"]
+[Source "Hoffer"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Bxc3 8.
+Nxc3 dxc3 9. Qb3 Qf6 10. e5 Nxe5 11. Nxe5 Qxe5 12. Bxf7+ Kf8 13. Ba3+ d6 14.
+Rfe1 Be6 15. Bxe6 Qf6 16. Re3 Qg6 17. Bxg8 Rxg8 18. Rf3+ Ke7 19. Re1+ Kd7 20.
+Rf7+ Kc8 21. Ree7 Qg4 22. Rxc7+ Kd8 23. h3 Qe4 24. Rfd7+ Ke8 25. Qf7# {Source:
+Chess Monthly, Vol. 9, p249} 1-0
+

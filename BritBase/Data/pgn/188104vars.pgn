@@ -1,0 +1,163 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1881.04.06"]
+[Round "1.1"]
+[White "Gattie, Walter Montague"]
+[Black "Sugden, James Fearn"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "87"]
+[EventDate "1881.04.06"]
+[EventType "match"]
+[EventCountry "ENG"]
+[SourceTitle "Field"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Nc3 Bd6 6. Bd3 O-O 7. O-O Nc6 8.
+Bg5 h6 9. Bxf6 Qxf6 10. Nxd5 Qd8 11. Ne3 Bf4 12. c3 Re8 13. Re1 Bxe3 14. fxe3
+Bg4 15. e4 Ne7 16. Bc4 Ng6 17. Qd2 Rf8 18. Qe3 Qe7 19. e5 c6 20. Rad1 Rad8 21.
+Qe4 Be6 22. Bxe6 Qxe6 23. b3 Rfe8 24. c4 Ne7 25. Re3 Rd7 26. Ne1 Red8 27. Nc2
+Nf5 28. Red3 f6 29. Rf1 Ne7 30. Rg3 Rf8 31. Qf4 Kh7 32. Ne3 Rdd8 33. Qe4+ Kh8
+34. Qg4 Qg8 35. e6 Rd6 36. d5 g6 37. Qf4 Rdd8 38. d6 g5 39. dxe7 gxf4 40. Rxg8+
+Rxg8 41. exd8=Q Rxd8 42. e7 Re8 43. Nf5 Kg8 44. Rd1 {Source: The Field, 9
+April 1881, p37} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1881.04.06"]
+[Round "2.2"]
+[White "Kinder, Edward Herring"]
+[Black "Carr, Francis Parker"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "99"]
+[EventDate "1881.04.06"]
+[EventType "match"]
+[EventCountry "ENG"]
+[SourceTitle "Field"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e5 4. Bxc4 exd4 5. Nf3 Nc6 6. exd4 Nf6 7. O-O Be7 8.
+Be3 O-O 9. Nc3 Bg4 10. h3 Bh5 11. Be2 Bd6 12. Ng5 Bxe2 13. Qxe2 Re8 14. Rad1 h6
+15. Nf3 Qd7 16. Rfe1 Ne7 17. Qc4 Ng6 18. Nb5 Re6 19. Ne5 Qe7 20. Nxg6 fxg6 21.
+Bxh6 Re8 22. Rxe6 Qxe6 23. Qxe6+ Rxe6 24. Be3 a6 25. Nxd6 Rxd6 26. Rc1 Nd5 27.
+a3 c6 28. g3 Kf7 29. Kg2 Re6 30. Re1 g5 31. Bd2 Rxe1 32. Bxe1 Nc7 33. Kf3 Kf6
+34. Bc3 Nd5 35. Kg4 Kg6 36. Bd2 Nf6+ 37. Kf3 Kf5 38. g4+ Kg6 39. Ke3 Nd5+ 40.
+Ke4 Kf6 41. f4 gxf4 42. Bxf4 Nxf4 43. Kxf4 g5+ 44. Ke4 Ke6 45. a4 a5 46. b3 b6
+47. Kf3 Kf6 48. Kg3 Kg6 49. h4 gxh4+ 50. Kxh4 {"and White wins" Source: The
+Field, 9 April 1881, p37} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1881.04.06"]
+[Round "3.1"]
+[White "Taylor, Charles"]
+[Black "Morley, Frank"]
+[Result "0-1"]
+[ECO "C35"]
+[PlyCount "54"]
+[EventDate "1881.04.06"]
+[EventType "match"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Nxh4 Qxh4+ 6. Kf1 Nh6 7. Qf3 Qg4 8. Qxg4 Nxg4 9. h3 Ne5 10. Be2 Nbc6 11. c3 d6 12. d4 Ng6 13. Nd2 f5 14. Bb5 fxe4 15. Bxc6+ bxc6 16. Nxe4 O-O 17. Ng5 Ba6+ 18. Kf2 Rae8 19. Bd2 Re2+ 20. Kg1 Nh4 21. Rh2 Rxd2 22. b3 Re8 23. Nf3 Rde2 24. c4 Nxf3+ 25. gxf3 Re1+ 26. Rxe1 Rxe1+ 27. Kf2 Ra1 {Source: Brighton Guardian, 4 May 1881, via Vlastimil Fiala, Varsity Chess Battles, Oxford vs Cambridge 1873-1914 (Moravian Chess, 2025)} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1881.04.06"]
+[Round "4.1"]
+[White "Raymond, Edward Lancelot"]
+[Black "Welsh, John Francis"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[PlyCount "72"]
+[EventDate "1881.04.06"]
+[EventType "match"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. Bc4 Bg4 8.
+dxe5 dxe5 9. Qd3 Bxf3 10. Qxf3 Qxf3 11. gxf3 Bb4 12. O-O-O Bxc3 13. bxc3 Nd7
+14. Bxf7+ Ke7 15. Rhg1 g5 16. Bb3 Raf8 17. h4 Rxf3 18. hxg5 h5 19. Rxd7+ Kxd7
+20. g6 Rhf8 21. g7 Rxf2 22. gxf8=Q Rxf8 23. Rg7+ Kc8 24. Be6+ Kb8 25. Bf5 Rh8
+26. Re7 h4 27. Rxe5 h3 28. Bxh3 Rxh3 29. Kb2 Kc8 30. Re7 Re3 31. Kb3 Re2 32. e5
+a6 33. c4 c5 34. a4 a5 35. Re8+ Kd7 36. Ra8 b6 {Source: 'The Chess-Monthly Vol
+II'. Played at the St George's CC, London.} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1881.04.06"]
+[Round "4.2"]
+[White "Welsh, John Francis"]
+[Black "Raymond, Edward Lancelot"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[PlyCount "34"]
+[EventDate "1881.04.06"]
+[EventType "match"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. d3 Nd4 6. Bc4 Nxf3+ 7. Qxf3 Bxc3+ 8. bxc3 h6 9. Ba3 d6 10. h3 O-O 11. O-O-O Be6 12. Bb3 Qd7 13. d4 exd4 14. Rxd4 Qc6 15. Re1 Bxb3 16. cxb3 Rfe8 17. Rc4 Qd7 {Source: Burnley Express, 30 May 1881, via Vlastimil Fiala, Varsity Chess Battles, Oxford vs Cambridge 1873-1914 (Moravian Chess, 2025)} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1881.04.06"]
+[Round "6.1"]
+[White "Thursby, John Ormerod S"]
+[Black "Wainwright, George Edward"]
+[Result "1-0"]
+[ECO "C01"]
+[Annotator "Denman 4122"]
+[PlyCount "135"]
+[EventDate "1881.04.06"]
+[EventType "match"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Nf3 Bg4 7. Be3 Nf6 8.
+O-O Qd7 9. a3 Bd6 10. Re1 O-O-O 11. Be2 h5 12. h4 Rdg8 13. Qd2 Bxf3 14. Bxf3
+Ne7 15. Bf4 Ng4 16. Bxd6 Qxd6 17. Bxg4+ hxg4 18. g3 f6 19. Qe2 Nc6 20. Qxg4+
+Kb8 21. Re6 Qd8 22. Rae1 g5 23. h5 f5 24. Qd1 g4 25. h6 Rg5 26. Qd2 Rh5 27. Qf4
+a6 28. Kg2 Ka7 29. Rh1 Qg5 30. Qxg5 Rxg5 31. Ne2 Rh7 32. c3 Nd8 33. Rf6 Kb8 34.
+Nf4 Kc8 35. Nxd5 Kd7 36. Nf4 Ke7 37. Rg6 Rxg6 38. Nxg6+ Kf7 39. Ne5+ Kf6 40. f4
+Nf7 41. Nxf7 Kxf7 42. Kf2 Kg8 43. Ke3 Re7+ 44. Kd3 Kh7 45. Rh2 Re1 46. Re2 Rg1
+47. Re3 Kxh6 48. Kc4 Rg2 49. b3 Kg6 50. Kd5 Kf7 51. Ke5 Kg6 52. Ke6 Rf2 53. Re5
+Rf3 54. Rxf5 Rxg3 55. Rg5+ Kh6 56. Kf6 Rg1 57. Rg6+ Kh5 58. Kg7 Kh4 59. f5 g3
+60. f6 Rf1 61. f7 Kh3 62. Rh6+ Kg2 63. f8=Q Rxf8 64. Kxf8 Kf1 65. Ke7 g2 66.
+Rg6 g1=Q 67. Rxg1+ Kxg1 68. Kd7 {and wins. Source: Chess Monthly} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "St Georges CC"]
+[Date "1881.04.06"]
+[Round "6.2"]
+[White "Wainwright, George Edward"]
+[Black "Thursby, John Ormerod S"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[Annotator "Denman 4123"]
+[PlyCount "52"]
+[EventDate "1881.04.06"]
+[EventType "match"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 c5 2. Nc3 Nf6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 e5 6. Bb5+ Bd7 7. Bxd7+ Qxd7
+8. Nf5 g6 9. Bg5 Nxe4 10. Nxe4 Qxf5 11. Nf6+ Kd8 12. Ne4+ Kc7 13. Qd3 Nc6 14.
+O-O-O Qe6 15. Nf6 Be7 16. Nd5+ Kd8 17. Nxe7 Nxe7 18. Qxd6+ Qxd6 19. Rxd6+ Ke8
+20. Bf6 Rg8 21. Bxe5 Nc6 22. Re1 Nd8 23. Bg3+ Ne6 24. Red1 Rd8 25. Rxd8+ Nxd8
+26. Re1+ Ne6 {adjudicated drawn by Steinitz. Source: The Chess Monthly
+1880-1881 v2} 1/2-1/2
+

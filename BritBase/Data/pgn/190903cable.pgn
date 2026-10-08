@@ -1,0 +1,424 @@
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.1"]
+[White "Marshall, Frank James"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[ECO "A43"]
+[PlyCount "120"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "USA"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. d4 c5 2. dxc5 e6 3. Nc3 Bxc5 4. Ne4 d5 5. Nxc5 Qa5+ 6. Bd2 Qxc5 7. Bc3 Nf6
+8. e3 Nc6 9. Bxf6 gxf6 10. Qd2 e5 11. Ne2 Be6 12. Ng3 O-O-O 13. Bd3 Rhg8 14.
+O-O f5 15. c3 Qe7 16. Bb5 Rd6 17. Bxc6 bxc6 18. f4 e4 19. Qd4 f6 20. Rf2 Rd7
+21. b4 Rb7 22. Rd1 Rg6 23. Rc2 Kb8 24. a3 Qf8 25. Ne2 Rbg7 26. Nc1 Qg8 27. Rdd2
+h5 28. Nb3 h4 29. h3 Rg3 30. Kh2 Qf7 31. Qc5 Bd7 32. Qd6+ Kc8 33. Nd4 Qe7 34.
+Qxe7 Rxe7 35. Re2 Kc7 36. c4 Kd6 37. c5+ Kc7 38. b5 Rh7 39. Rc3 Rg8 40. bxc6
+Bxc6 41. Nxf5 Rb8 42. Rd2 Rb1 43. Nd4 Rh8 44. Rf2 Rd1 45. f5 Ba4 46. Rf4 Kb7
+47. c6+ Kb6 48. c7 Rc8 49. Rf2 Rb1 50. Ne6 Bb3 51. Rf4 Bc4 52. Rxh4 Rf1 53. Rc2
+Rb1 54. Rh6 Rb3 55. Rxf6 Rxe3 56. Rb2+ Kc6 57. Rb8 Rxc7 58. Nxc7+ Kxc7 59. Rg8
+Bb5 60. Rg7+ Kd8 {White announced mate in 5 (Source: BCM, May 1909, p222)} 1-0
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.2"]
+[White "Lawrence, Thomas Francis"]
+[Black "Barry, John Finan"]
+[Result "1/2-1/2"]
+[ECO "C14"]
+[PlyCount "66"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "USA"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
+Nb5 Qd8 9. Qg4 g6 10. Bd3 Nf8 11. Nf3 a6 12. Nc3 Nc6 13. Qf4 Qe7 14. O-O-O Bd7
+15. Rh6 O-O-O 16. Rdh1 Be8 17. a3 Nb8 18. Ng5 Nbd7 19. Nxh7 Nxh7 20. Rxh7 Rxh7
+21. Rxh7 c5 22. dxc5 Qxc5 23. Qg3 Kb8 24. f4 Rc8 25. Qe1 Nb6 26. Qd2 Nc4 27.
+Bxc4 Qxc4 28. Kb1 Qf1+ 29. Ka2 Qc4+ 30. Kb1 Qf1+ {[end of game acc. BCM - Mega
+Database 2005 gives the continuation]} 31. Ka2 Qc4+ 32. Kb1 Qf1+ 33. Ka2 Qc4+ {
+Source: BCM, May 1909, p222} 1/2-1/2
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.3"]
+[White "Hodges, Albert Beauregard"]
+[Black "Ward, William"]
+[Result "1-0"]
+[ECO "B38"]
+[PlyCount "43"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "USA"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. c4 Nf6 7. Nc3 O-O 8.
+Be2 d6 9. O-O Bd7 10. Qd2 Nxd4 11. Bxd4 Bc6 12. f3 b6 13. Rae1 Nd7 14. Bxg7
+Kxg7 15. f4 Qc7 16. Bd1 Rae8 17. Re3 f6 18. Rh3 Kh8 19. f5 Ne5 20. fxg6 Nxg6
+21. Qh6 Rf7 22. Bh5 {Source: BCM, May 1909, p223} 1-0
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.4"]
+[White "Wainwright snr, George Edward"]
+[Black "Voigt, Hermann G"]
+[Result "0-1"]
+[ECO "A48"]
+[PlyCount "54"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "USA"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. d4 g6 2. Nf3 Nf6 3. e3 Bg7 4. b3 c5 5. Bb2 cxd4 6. exd4 O-O 7. Be2 Nc6 8.
+O-O d5 9. Ne5 Ne4 10. f3 Nd6 11. Bd3 Bf5 12. Nxc6 bxc6 13. c3 Qb6 14. Rf2 Bxd3
+15. Qxd3 e5 16. dxe5 Bxe5 17. Na3 Bxh2+ 18. Kf1 Nf5 19. g4 Ne3+ 20. Ke2 Rfe8
+21. Rxh2 Nxg4+ 22. Kd2 Nxh2 23. Rd1 Qf2+ 24. Kc1 Re1 25. Nc2 Rxd1+ 26. Qxd1 Re8
+27. Ba3 Nxf3 {Source: BCM, May 1909, p223} 0-1
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.5"]
+[White "Howell, Clarence Seaman"]
+[Black "Blake, Joseph Henry"]
+[Result "0-1"]
+[ECO "C78"]
+[PlyCount "92"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "USA"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Ba7 7. Bxc6 dxc6 8.
+Nxe5 Nxe4 9. Qe2 Qd5 10. Nxc6 Qxc6 11. d3 Bf5 12. dxe4 Qxe4 13. Qxe4+ Bxe4 14.
+Nd2 Bd5 15. Re1+ Be6 16. Nf3 O-O-O 17. Be3 Bxe3 18. Rxe3 Bd5 19. Nd4 Rhe8 20.
+Rxe8 Rxe8 21. f3 g6 22. Kf2 Kd7 23. b3 c5 24. Ne2 b5 25. Rd1 Kc6 26. Nf4 Re5
+27. g4 g5 28. Nd3 Re6 29. Rd2 a5 30. Ne1 Rf6 31. Re2 c4 32. bxc4 Bxc4 33. Rd2
+Bd5 34. a3 Rf4 35. Rd3 Ra4 36. Nc2 Kc5 37. Ne3 Be6 38. Nc2 Bb3 39. Nd4 Bc4 40.
+Re3 Rxa3 41. Re5+ Kb6 42. Re3 a4 43. Nf5 Ra2+ 44. Kg3 Re2 45. Rxe2 Bxe2 46. Ne3
+Kc5 {Source: BCM, May 1909, p223} 0-1
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.6"]
+[White "Michell, Reginald Pryce"]
+[Black "Helms, Hermann"]
+[Result "1-0"]
+[ECO "C82"]
+[PlyCount "132"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "USA"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 Nc5 11. Bc2 Bg4 12. Bf4 Ne6 13. Bg3 Na5 14. Nbd2 c5 15.
+Qe2 Bh5 16. Nf1 d4 17. Be4 Rc8 18. Rad1 Qb6 19. Bf5 Nc6 20. N1d2 dxc3 21. bxc3
+O-O 22. Ne4 b4 23. Nd6 Rb8 24. Qc2 Bg6 25. Bxg6 hxg6 26. Rd3 a5 27. Nd2 Qa6 28.
+N2c4 a4 29. Rdd1 Bxd6 30. Nxd6 bxc3 31. Qxc3 Ncd4 32. Rd2 Rb4 33. h3 Rfb8 34.
+Kh2 Qa8 35. Nc4 Ng5 36. Rd3 Rxc4 37. Qxc4 Nge6 38. Red1 Rb2 39. R1d2 Qe4 40.
+Qc3 Rb4 41. f3 Qb7 42. Rf2 Rb1 43. Rdd2 Rb4 44. Rb2 Qb5 45. Rfd2 Qb8 46. f4 Qf8
+47. Bf2 Nb5 48. Qc1 c4 49. Rxb4 Qxb4 50. Rb2 Qa3 51. Be3 Nec7 52. Bd2 Qc5 53.
+Qc2 Qd4 54. Rb4 Na3 55. Qc3 Qxc3 56. Bxc3 Nd5 57. Rxa4 Nb5 58. Bd2 c3 59. Bc1
+Kf8 60. Rc4 Ke7 61. a4 Nbc7 62. g3 Kd7 63. Kg1 Kc8 64. Kf2 Kb7 65. Be3 Na6 66.
+Bd4 Nab4 {The game left for adjudication at the close of play was afterwards
+resigned by Black (Source: BCM, May 1909, p224)} 1-0
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.7"]
+[White "Schwietzer, George J"]
+[Black "Wahltuch, Victor Leonard"]
+[Result "0-1"]
+[ECO "D30"]
+[PlyCount "88"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "USA"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Nd7 4. Nbd2 Ngf6 5. Bd3 Bd6 6. c4 c6 7. b3 e5 8. dxe5
+Nxe5 9. Nxe5 Bxe5 10. Rb1 dxc4 11. Nxc4 Bc3+ 12. Ke2 b5 13. Nd2 Qd5 14. Nf3 O-O
+15. Qc2 b4 16. Rd1 Qh5 17. Bb2 Bxb2 18. Rxb2 Nd5 19. Kf1 Nc3 20. Re1 Bg4 21.
+Be2 Bxf3 22. Bxf3 Qxh2 23. g3 Rad8 24. Qf5 Rd6 25. Qc5 Rf6 26. Qxb4 Rxf3 27.
+Qxc3 Qxg3 28. Qxc6 Qh3+ 29. Ke2 Rxe3+ 30. fxe3 Qh2+ 31. Kf3 Qxb2 32. Re2 Qe5
+33. Rd2 h6 34. Rd5 Qh2 35. a4 Qh3+ 36. Ke2 Rc8 37. Qb5 Qg2+ 38. Kd3 a6 39. Qd7
+Qc2+ 40. Kd4 Rf8 41. Qb7 Re8 42. Rd7 Qd2+ 43. Kc4 Qxe3 44. Qxa6 Re4+ {Source:
+BCM, May 1909, p225} 0-1
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.8"]
+[White "Holmes, Harry"]
+[Black "Stadelman, Samuel Leigh"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[PlyCount "112"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "USA"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Qc2 c6 7. Nf3 O-O 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Qxc3 Nf6 13. Rfe1 c5 14. Rac1
+cxd4 15. exd4 Qd6 16. Ne5 Bd7 17. Rcd1 Bc6 18. Qh3 Be4 19. Qh4 Bc2 20. Rc1 Bg6
+21. Re3 Qd8 22. Nxg6 hxg6 23. Rh3 Nh5 24. Qe4 Rc8 25. Qxb7 Qxd4 26. b3 Nf4 27.
+Re3 Nd5 28. Ree1 Rc7 29. Qa6 Nf6 30. Rcd1 Qf4 31. Qd6 Qxd6 32. Rxd6 Rb8 33.
+Red1 Kf8 34. f3 Ke7 35. Kf2 Nd7 36. Ra6 Nb6 37. Rd4 g5 38. Ra5 f6 39. Re4 e5
+40. h4 Nxc4 41. bxc4 gxh4 42. Rxh4 Rb2+ 43. Kg3 Rd7 44. Rg4 Ke6 45. Kh3 g5 46.
+Ra6+ Kf5 47. c5 Rc2 48. c6 Rc7 49. Rga4 R7xc6 50. Rxc6 Rxc6 51. Rxa7 Kf4 52.
+Ra3 Rc2 53. g3+ Kf5 54. Ra4 g4+ 55. fxg4+ Kg5 56. Ra8 Kg6 {Source: BCM, May
+1909, p225} 1/2-1/2
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.9"]
+[White "Mlotkowski, Stasch"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[ECO "C44"]
+[PlyCount "123"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "USA"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6 5. Bb5 Nge7 6. exd5 Qxd5 7. d4 Bd7 8.
+Be3 exd4 9. cxd4 Ne5 10. Bxd7+ Qxd7 11. Qxd7+ Nxd7 12. Nc3 Nb6 13. Rc1 Ned5 14.
+Ke2 O-O-O 15. Rhd1 Bd6 16. Nb5 Rhe8 17. g3 a6 18. Nxd6+ Rxd6 19. Ne1 Rde6 20.
+Ng2 Nxe3 21. Nxe3 Nd5 22. Rd3 Rb6 23. Rd2 Rbe6 24. Rd3 Kd7 25. Kf3 Rc6 26. Rcd1
+Nxe3 27. fxe3 Rc2 28. R1d2 Rxd2 29. Rxd2 f5 30. Rc2 b6 31. Rc3 a5 32. Kf4 g6
+33. Kg5 Kd6 34. h3 Re7 35. Kf4 Kd5 36. b3 c6 37. Rc2 Re4+ 38. Kf3 Re6 39. Rc4
+g5 40. Rc3 Rh6 41. Kg2 Ke4 42. a3 f4 43. gxf4 gxf4 44. exf4 Kxf4 45. a4 Ke4 46.
+Rc4 Kd5 47. Kg3 Re6 48. Kf3 Re1 49. Rc3 Rh1 50. Kf4 Rd1 51. Ke3 Re1+ 52. Kf4
+Rd1 53. Ke3 Re1+ 54. Kf3 Kxd4 55. Rxc6 Re3+ 56. Kf2 Rxb3 57. Rh6 Kc5 58. Ke2
+Rb4 59. Rh5+ Kc4 60. Rxh7 Kb3 61. Kd2 Kxa4 62. Rg7 {Source: BCM, May 1909, p226
+} 0-1
+
+[Event "Cable m GBR-USA"]
+[Site "Brooklyn/London"]
+[Date "1909.03.26"]
+[Round "1.10"]
+[White "Jacobs, Herbert Levi"]
+[Black "Ruth, William Allen"]
+[Result "1-0"]
+[ECO "A03"]
+[PlyCount "79"]
+[EventDate "1909.03.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "USA"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. f4 d5 2. b3 Nf6 3. Bb2 e6 4. e3 c5 5. Nf3 Nc6 6. Nc3 Bd7 7. Bd3 Bd6 8. O-O
+O-O 9. Rc1 Rc8 10. Nb5 Bb8 11. c4 Nb4 12. Bb1 dxc4 13. bxc4 Bxb5 14. cxb5 Qd7
+15. a3 Nd3 16. Bxf6 gxf6 17. Rc3 c4 18. Nd4 e5 19. fxe5 fxe5 20. Nf5 f6 21.
+Bxd3 cxd3 22. Rxd3 Qc7 23. e4 Kh8 24. Qh5 Qb6+ 25. Ne3 Qxb5 26. Rd5 Qc6 27. Nf5
+Qb6+ 28. Kh1 Rc7 29. Qh6 Rcf7 30. h3 a6 31. Rc1 Qb2 32. Rdc5 Qxa3 33. R1c3 Qb4
+34. Rc8 Bd6 35. Qh5 Rd7 36. Rxf8+ Bxf8 37. Qe8 Rxd2 38. Rg3 Rd1+ 39. Kh2 Qc5
+40. Ne3 {Source: BCM, May 1909, p226 and BCM, May 1950, p153} 1-0
+
+[Event "Cable m GBR-USA univs"]
+[Site "London/New York"]
+[Date "1909.03.20"]
+[Round "1.1"]
+[White "Wolff, Louis Jacob"]
+[Black "Roughton, Noel James"]
+[Result "1-0"]
+[ECO "C63"]
+[PlyCount "79"]
+[EventDate "1909.03.20"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "US Univs"]
+[BlackTeam "GB Univs"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nf6 5. d3 Bb4 6. Bd2 d6 7. O-O O-O 8. Ng5
+Bxc3 9. Bxc3 Qe8 10. f4 h6 11. fxe5 dxe5 12. Nf3 Ng4 13. Qd2 f4 14. Rfe1 Qh5
+15. Bxc6 bxc6 16. h3 Ne3 17. Nxe5 Qg5 18. Nf3 Qg3 19. Re2 Bxh3 20. Bd4 Bg4 21.
+Rf2 Rf7 22. Bxe3 fxe3 23. Qxe3 Rb8 24. b3 Rb5 25. Raf1 Rh5 26. Qxa7 c5 27. Qa8+
+Rf8 28. Qc6 Bxf3 29. Rxf3 Rxf3 30. Qe8+ Kh7 31. Qxh5 Rxf1+ 32. Kxf1 Qe3 33. Qe2
+Qf4+ 34. Ke1 Qc1+ 35. Kf2 Qf4+ 36. Kg1 Qc1+ 37. Kh2 Qf4+ 38. g3 Qe5 39. Qf2 g6
+40. Qf7+ {Source: BCM, May 1909, p227} 1-0
+
+[Event "Cable m GBR-USA univs"]
+[Site "London/New York"]
+[Date "1909.03.20"]
+[Round "1.2"]
+[White "Lob, Reuben"]
+[Black "Hughes, William Harold"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[PlyCount "81"]
+[EventDate "1909.03.20"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "GB Univs"]
+[BlackTeam "US Univs"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 g6 5. Qg3 d6 6. Nge2 Nge7 7. d3 Be6 8.
+Bb3 Qd7 9. f4 Bxb3 10. axb3 f5 11. Rf1 O-O 12. fxe5 dxe5 13. Bh6 Rf7 14. O-O-O
+f4 15. Qf3 Nd4 16. Nxd4 Bxd4 17. g3 Qh3 18. Bg5 Be3+ 19. Kb1 Nc6 20. gxf4 Qxf3
+21. Rxf3 Bxf4 22. Bxf4 exf4 23. Ne2 g5 24. Rg1 Rg7 25. d4 Re8 26. e5 Nd8 27. b4
+c6 28. Kc1 Ne6 29. Rff1 Rf8 30. c3 g4 31. Kd2 h5 32. h4 g3 33. Rf3 Rg4 34. Rh1
+Rf7 35. c4 Nf8 36. d5 cxd5 37. cxd5 Rf5 38. Rg1 g2 39. d6 Ne6 40. d7 Nd8 41.
+Kd3 {adjudicated (Source: BCM, May 1909, p227)} 1/2-1/2
+
+[Event "Cable m GBR-USA univs"]
+[Site "London/New York"]
+[Date "1909.03.20"]
+[Round "1.3"]
+[White "Whitaker, Norman Tweed"]
+[Black "Humphreys, William Herbert"]
+[Result "1-0"]
+[ECO "C58"]
+[PlyCount "57"]
+[EventDate "1909.03.20"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "US Univs"]
+[BlackTeam "GB Univs"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. Nfd2 O-O 11. Nb3 Bg4 12. Qf1 Nxd5 13. cxd5 Qxd5 14. Nc3
+Bb4 15. Bd2 Bxc3 16. bxc3 Rad8 17. h3 Bh5 18. g4 Bg6 19. O-O-O Qc6 20. Kb2 Qa4
+21. Bf4 Qc6 22. Qe2 Rfe8 23. Rxd8 Rxd8 24. Rd1 Rxd1 25. Qxd1 Qb6 26. Qd4 Qxd4
+27. cxd4 c6 28. Na5 f6 29. Nxb7 {Source: BCM, May 1909, p228} 1-0
+
+[Event "Cable m GBR-USA univs"]
+[Site "London/New York"]
+[Date "1909.03.20"]
+[Round "1.4"]
+[White "Brown, John H"]
+[Black "Stephens, L Walter"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[PlyCount "82"]
+[EventDate "1909.03.20"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "GB Univs"]
+[BlackTeam "US Univs"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nd7 4. d4 c6 5. Bc4 Be7 6. Be3 Ngf6 7. dxe5 dxe5 8.
+Qe2 Qc7 9. O-O O-O 10. Rad1 b5 11. Bb3 a5 12. a3 Ba6 13. Nb1 Nxe4 14. Rfe1 Nef6
+15. Bg5 b4 16. Bc4 Bxc4 17. Qxc4 Bd6 18. Qd3 Nd5 19. c4 bxc3 20. Nxc3 N7b6 21.
+Be3 Rad8 22. Bxb6 Nxb6 23. Qe2 f6 24. Ne4 Nd5 25. Qc4 Kh8 26. g3 Qb6 27. Qc2
+Rf7 28. Nfd2 Bf8 29. Rc1 Rc7 30. Nc5 Bxc5 31. Qxc5 Rb8 32. Rc3 Qxc5 33. Rxc5
+Rb5 34. Rec1 Kg8 35. Rxc6 Rxc6 36. Rxc6 Rxb2 37. Nc4 Rb1+ 38. Kg2 a4 39. Ra6
+Nc3 40. Nb6 Rb3 41. Nc4 Rb1 {Source: BCM, May 1909, p228} 1/2-1/2
+
+[Event "Cable m GBR-USA univs"]
+[Site "London/New York"]
+[Date "1909.03.20"]
+[Round "1.5"]
+[White "Blumberg, Henry"]
+[Black "Rennie, John George"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "39"]
+[EventDate "1909.03.20"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "US Univs"]
+[BlackTeam "GB Univs"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nc3 Nxc3 5. dxc3 f6 6. Nh4 g6 7. O-O c6 8.
+Bb3 d5 9. Qe2 Bd6 10. Bh6 Be6 11. f4 e4 12. f5 Bf7 13. Bg7 Rg8 14. fxg6 Rxg7
+15. gxf7+ Rxf7 16. c4 Be5 17. Rad1 Qb6+ 18. Kh1 dxc4 19. Qxc4 Qc7 20. Qe6+ {
+and forces mate (Source: BCM, May 1909, p229)} 1-0
+
+[Event "Cable m GBR-USA univs"]
+[Site "London/New York"]
+[Date "1909.03.20"]
+[Round "1.6"]
+[White "Bee, John Matthias"]
+[Black "Parchley, WW"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[PlyCount "89"]
+[EventDate "1909.03.20"]
+[EventType "team-match"]
+[EventRounds "1"]
+[SourceTitle "BCM-1909-05"]
+[WhiteTeam "GB Univs"]
+[BlackTeam "US Univs"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Nc6 7. Bd3 Nxc5 8. a3
+Nxd3+ 9. cxd3 Bc5 10. Nf3 a6 11. Na4 Ba7 12. d4 Bd7 13. Be3 Na5 14. Nd2 Rc8 15.
+b4 Nc4 16. Bf2 O-O 17. Nc5 Bc6 18. Ndb3 Qb6 19. O-O Nb2 20. Qb1 Nc4 21. Be1 Qc7
+22. a4 Qd7 23. Kh1 Bxc5 24. bxc5 b6 25. Rf3 Rb8 26. Rh3 g6 27. Qc1 f5 28. exf6
+Qf7 29. Bh4 bxc5 30. Nxc5 Rb4 31. Nd3 Rxa4 32. Rxa4 Bxa4 33. Ne5 Nxe5 34. fxe5
+Bb5 35. Bg5 Qd7 36. Rf3 Kf7 37. Rc3 Bc4 38. Bh6 Rb8 39. Bg7 Qa4 40. h3 Rb3 41.
+Rxb3 Qxb3 42. Bh8 Qb8 43. Qa3 Qd8 44. Bg7 Bb5 45. Kh2 {Source: BCM, May 1909,
+p229} 1/2-1/2
+

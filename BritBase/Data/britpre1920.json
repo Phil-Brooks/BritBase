@@ -1,0 +1,1282 @@
+[
+  {
+    "Year": 1873,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1873.03.28",
+    "EndDate": "",
+    "GamesCount": "9",
+    "DateUpdated": "2025.05.10",
+    "PgnFileName": "187303vars.pgn"
+  },
+  {
+    "Year": 1874,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1874.03.27",
+    "EndDate": "",
+    "GamesCount": "12",
+    "DateUpdated": "2021.03.30",
+    "PgnFileName": "187403vars.pgn"
+  },
+  {
+    "Year": 1875,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1875.03.19",
+    "EndDate": "",
+    "GamesCount": "9+2",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "187503vars.pgn"
+  },
+  {
+    "Year": 1876,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1876.04.05",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2023.01.18",
+    "PgnFileName": "187604vars.pgn"
+  },
+  {
+    "Year": 1877,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1877.03.22",
+    "EndDate": "",
+    "GamesCount": "4",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "187703vars.pgn"
+  },
+  {
+    "Year": 1878,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1878.04.11",
+    "EndDate": "",
+    "GamesCount": "4",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "187804vars.pgn"
+  },
+  {
+    "Year": 1879,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1879.04.03",
+    "EndDate": "",
+    "GamesCount": "3+1",
+    "DateUpdated": "2020.07.22",
+    "PgnFileName": "187904vars.pgn"
+  },
+  {
+    "Year": 1880,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1880.03.18",
+    "EndDate": "",
+    "GamesCount": "5",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "188003vars.pgn"
+  },
+  {
+    "Year": 1881,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1881.04.06",
+    "EndDate": "",
+    "GamesCount": "5",
+    "DateUpdated": "2022.03.24",
+    "PgnFileName": "188104vars.pgn"
+  },
+  {
+    "Year": 1882,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1882.03.30",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "188203vars.pgn"
+  },
+  {
+    "Year": 1883,
+    "Name": "Oxford v Cambridge",
+    "Winner": "drawn",
+    "StartDate": "1883.03.17",
+    "EndDate": "",
+    "GamesCount": "8+3",
+    "DateUpdated": "2023.09.04",
+    "PgnFileName": "188303vars.pgn"
+  },
+  {
+    "Year": 1884,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1884.04.03",
+    "EndDate": "",
+    "GamesCount": "6+1",
+    "DateUpdated": "2023.09.06",
+    "PgnFileName": "188404vars.pgn"
+  },
+  {
+    "Year": 1884,
+    "Name": "1st Scottish Championship",
+    "Winner": "John Crum",
+    "StartDate": "1884.07.21",
+    "EndDate": "1884.07.25",
+    "GamesCount": "13/45",
+    "DateUpdated": "2022.08.03",
+    "PgnFileName": "188407scotland01.pgn"
+  },
+  {
+    "Year": 1885,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1885.03.26",
+    "EndDate": "",
+    "GamesCount": "9+3",
+    "DateUpdated": "2023.09.06",
+    "PgnFileName": "188503vars.pgn"
+  },
+  {
+    "Year": 1886,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1886.04.01",
+    "EndDate": "",
+    "GamesCount": "8+1",
+    "DateUpdated": "2025.05.26",
+    "PgnFileName": "188604vars.pgn"
+  },
+  {
+    "Year": 1887,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1887.03.24",
+    "EndDate": "",
+    "GamesCount": "5+4",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "188703vars.pgn"
+  },
+  {
+    "Year": 1888,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1888.03.22",
+    "EndDate": "",
+    "GamesCount": "5+2",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "188803vars.pgn"
+  },
+  {
+    "Year": 1889,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1889.03.28",
+    "EndDate": "",
+    "GamesCount": "2+2",
+    "DateUpdated": "2025.05.13",
+    "PgnFileName": "188903vars.pgn"
+  },
+  {
+    "Year": 1890,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1890.03.27",
+    "EndDate": "",
+    "GamesCount": "2+4",
+    "DateUpdated": "2025.05.13",
+    "PgnFileName": "189003vars.pgn"
+  },
+  {
+    "Year": 1890,
+    "Name": "County CA Ch'p Cambridge",
+    "Winner": "William H Gunston",
+    "StartDate": "1890.06.23",
+    "EndDate": "1890.06.28",
+    "GamesCount": "13+5",
+    "DateUpdated": "2023.10.10",
+    "PgnFileName": "189006cambridge.pgn"
+  },
+  {
+    "Year": 1890,
+    "Name": "Manchester International",
+    "Winner": "Siegbert Tarrasch",
+    "StartDate": "1890.08.25",
+    "EndDate": "1890.09.08",
+    "GamesCount": "112+3/190",
+    "DateUpdated": "2023.10.06",
+    "PgnFileName": "189008manchester.pgn"
+  },
+  {
+    "Year": 1890,
+    "Name": "Manchester Minor",
+    "Winner": "D Y Mills",
+    "StartDate": "1890.08.25",
+    "EndDate": "1890.09.05",
+    "GamesCount": "14^",
+    "DateUpdated": "2023.10.06",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1891,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1891.03.19",
+    "EndDate": "",
+    "GamesCount": "5",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "189103vars.pgn"
+  },
+  {
+    "Year": 1892,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1892.04.07",
+    "EndDate": "",
+    "GamesCount": "2+1",
+    "DateUpdated": "2025.05.13",
+    "PgnFileName": "189204vars.pgn"
+  },
+  {
+    "Year": 1893,
+    "Name": "London Black & White",
+    "Winner": "J Blackburne",
+    "StartDate": "1893.02.27",
+    "EndDate": "1893.03.03",
+    "GamesCount": "15",
+    "DateUpdated": "2017.11.29",
+    "PgnFileName": "189302londonbw.pgn"
+  },
+  {
+    "Year": 1893,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1893.03.24",
+    "EndDate": "",
+    "GamesCount": "4+1+2",
+    "DateUpdated": "2025.05.12",
+    "PgnFileName": "189303vars.pgn"
+  },
+  {
+    "Year": 1894,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1894.03.16",
+    "EndDate": "",
+    "GamesCount": "5+2",
+    "DateUpdated": "2025.05.13",
+    "PgnFileName": "189403vars.pgn"
+  },
+  {
+    "Year": 1894,
+    "Name": "North v South",
+    "Winner": "South",
+    "StartDate": "1894.04.07",
+    "EndDate": "",
+    "GamesCount": "21/108",
+    "DateUpdated": "2026.07.30",
+    "PgnFileName": "189404northsouth.pgn"
+  },
+  {
+    "Year": 1895,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1895.03.29",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.14",
+    "PgnFileName": "189503vars.pgn"
+  },
+  {
+    "Year": 1895,
+    "Name": "Hastings",
+    "Winner": "H N Pillsbury",
+    "StartDate": "1895.08.05",
+    "EndDate": "1895.09.02",
+    "GamesCount": "231+",
+    "DateUpdated": "2013.10.26",
+    "PgnFileName": "189508hast.pgn"
+  },
+  {
+    "Year": 1896,
+    "Name": "USA-GB Cable Match 1st",
+    "Winner": "USA",
+    "StartDate": "1896.03.13",
+    "EndDate": "1896.03.14",
+    "GamesCount": "8",
+    "DateUpdated": "2025.05.14",
+    "PgnFileName": "189603cable.pgn"
+  },
+  {
+    "Year": 1896,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1896.03.27",
+    "EndDate": "",
+    "GamesCount": "4+1",
+    "DateUpdated": "2025.05.14",
+    "PgnFileName": "189603vars.pgn"
+  },
+  {
+    "Year": 1897,
+    "Name": "Craigside Cup Class 1",
+    "Winner": "G E H Bellingham",
+    "StartDate": "1897.01.04",
+    "EndDate": "1897.01.12",
+    "GamesCount": "17+2",
+    "DateUpdated": "2024.06.03",
+    "PgnFileName": "189701craigside.pgn"
+  },
+  {
+    "Year": 1897,
+    "Name": "Craigside Cup Class 2",
+    "Winner": "C Dawbarn",
+    "StartDate": "1897.01.04",
+    "EndDate": "1897.01.11",
+    "GamesCount": "1^",
+    "DateUpdated": "2024.05.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1897,
+    "Name": "Craigside Handicap A",
+    "Winner": "C H Sherrard",
+    "StartDate": "1897.01.04",
+    "EndDate": "1897.01.11",
+    "GamesCount": "0",
+    "DateUpdated": "2024.05.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1897,
+    "Name": "Craigside Handicap B",
+    "Winner": "G E H Bellingham",
+    "StartDate": "1897.01.04",
+    "EndDate": "1897.01.11",
+    "GamesCount": "2^",
+    "DateUpdated": "2024.06.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1897,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1897.04.02",
+    "EndDate": "",
+    "GamesCount": "4+3",
+    "DateUpdated": "2025.05.15",
+    "PgnFileName": "189704vars.pgn"
+  },
+  {
+    "Year": 1897,
+    "Name": "Ladies International",
+    "Winner": "Mary Rudge",
+    "StartDate": "1897.06.23",
+    "EndDate": "1897.07.03",
+    "GamesCount": "43+8",
+    "DateUpdated": "2025.07.25",
+    "PgnFileName": "189706ladies.pgn"
+  },
+  {
+    "Year": 1898,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1898.03.25",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.14",
+    "PgnFileName": "189803vars.pgn"
+  },
+  {
+    "Year": 1898,
+    "Name": "Southern Counties Congress",
+    "Winner": "J Blake, W Ward",
+    "StartDate": "1898.09.12",
+    "EndDate": "1898.09.20",
+    "GamesCount": "36",
+    "DateUpdated": "2026.08.15",
+    "PgnFileName": "189809sccu.pgn"
+  },
+  {
+    "Year": 1899,
+    "Name": "Craigside Class 1",
+    "Winner": "Amos Burn",
+    "StartDate": "1899.01.02",
+    "EndDate": "1899.01.09",
+    "GamesCount": "25+1",
+    "DateUpdated": "2025.03.27",
+    "PgnFileName": "189901craigside.pgn"
+  },
+  {
+    "Year": 1899,
+    "Name": "Craigside Class 2",
+    "Winner": "Newman Clissold",
+    "StartDate": "1899.01.02",
+    "EndDate": "1899.01.07",
+    "GamesCount": "1^",
+    "DateUpdated": "2025.03.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1899,
+    "Name": "Consultation Game",
+    "Winner": "",
+    "StartDate": "1899.01",
+    "EndDate": "",
+    "GamesCount": "1^",
+    "DateUpdated": "2025.03.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1899,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1899.03.24",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2023.12.22",
+    "PgnFileName": "189903vars.pgn"
+  },
+  {
+    "Year": 1899,
+    "Name": "University Cable GBR-USA",
+    "Winner": "Great Britain",
+    "StartDate": "1899.04.21",
+    "EndDate": "",
+    "GamesCount": "6",
+    "DateUpdated": "2023.12.23",
+    "PgnFileName": "189904univcable.pgn"
+  },
+  {
+    "Year": 1900,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1900.03.30",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.15",
+    "PgnFileName": "190003vars.pgn"
+  },
+  {
+    "Year": 1900,
+    "Name": "City of London",
+    "Winner": "Teichmann",
+    "StartDate": "1900.04.05",
+    "EndDate": "1900.05.03",
+    "GamesCount": "78",
+    "DateUpdated": "2017.11.29",
+    "PgnFileName": "190004cityoflondon.pgn"
+  },
+  {
+    "Year": 1900,
+    "Name": "Craigside Cup Llandudno",
+    "Winner": "Amos Burn",
+    "StartDate": "1900.12.31",
+    "EndDate": "1901.01.05",
+    "GamesCount": "9+3",
+    "DateUpdated": "2023.05.28",
+    "PgnFileName": "190012craigside.pgn"
+  },
+  {
+    "Year": 1900,
+    "Name": "Craigside First Class",
+    "Winner": "Anthony Dod",
+    "StartDate": "1900.12.31",
+    "EndDate": "1901.01.05",
+    "GamesCount": "11^",
+    "DateUpdated": "2023.05.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1900,
+    "Name": "Craigside Second Class",
+    "Winner": "T H Billington",
+    "StartDate": "1900.12.31",
+    "EndDate": "1901.01.05",
+    "GamesCount": "10^",
+    "DateUpdated": "2023.05.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1900,
+    "Name": "Craigside Handicap",
+    "Winner": "Amos Burn",
+    "StartDate": "1900.12.31",
+    "EndDate": "1901.01.05",
+    "GamesCount": "6^",
+    "DateUpdated": "2023.05.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1901,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1901.03.29",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2023.12.11",
+    "PgnFileName": "190103vars.pgn"
+  },
+  {
+    "Year": 1901,
+    "Name": "USA-GB Cable Match",
+    "Winner": "Drawn",
+    "StartDate": "1901.04.19",
+    "EndDate": "1901.04.20",
+    "GamesCount": "10",
+    "DateUpdated": "2013.10.26",
+    "PgnFileName": "190104cable.pgn"
+  },
+  {
+    "Year": 1902,
+    "Name": "Oxford v Cambridge",
+    "Winner": "drawn",
+    "StartDate": "1902.03.21",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2023.12.11",
+    "PgnFileName": "190203vars.pgn"
+  },
+  {
+    "Year": 1902,
+    "Name": "Kent First Class",
+    "Winner": "Rudolf Loman",
+    "StartDate": "1902.05.19",
+    "EndDate": "1902.05.24",
+    "GamesCount": "16",
+    "DateUpdated": "2025.08.31",
+    "PgnFileName": "190205kent.pgn"
+  },
+  {
+    "Year": 1902,
+    "Name": "Kent other",
+    "Winner": "",
+    "StartDate": "1902.05.19",
+    "EndDate": "1902.05.24",
+    "GamesCount": "23^",
+    "DateUpdated": "2025.08.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1903,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1903.03.23",
+    "EndDate": "",
+    "GamesCount": "0",
+    "DateUpdated": "2025.03.17",
+    "PgnFileName": "190303vars.pgn"
+  },
+  {
+    "Year": 1903,
+    "Name": "Midlands v City of London",
+    "Winner": "Midland Counties",
+    "StartDate": "1903.05.23",
+    "EndDate": "",
+    "GamesCount": "10/21",
+    "DateUpdated": "2023.04.25",
+    "PgnFileName": "190305midlandlondon.pgn"
+  },
+  {
+    "Year": 1903,
+    "Name": "Kent First Class",
+    "Winner": "Georg Schories",
+    "StartDate": "1903.06.01",
+    "EndDate": "1903.06.06",
+    "GamesCount": "7",
+    "DateUpdated": "2025.10.10",
+    "PgnFileName": "190306kent.pgn"
+  },
+  {
+    "Year": 1903,
+    "Name": "Kent other",
+    "Winner": "",
+    "StartDate": "1903.06.01",
+    "EndDate": "1903.06.06",
+    "GamesCount": "12^",
+    "DateUpdated": "2025.10.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1904,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1904.03.28",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.17",
+    "PgnFileName": "190403vars.pgn"
+  },
+  {
+    "Year": 1904,
+    "Name": "City of London",
+    "Winner": "Napier",
+    "StartDate": "1904.07.25",
+    "EndDate": "1904.08.13",
+    "GamesCount": "126+10",
+    "DateUpdated": "2022.04.22",
+    "PgnFileName": "190407cityoflondon.pgn"
+  },
+  {
+    "Year": 1904,
+    "Name": "BCF-ch Hastings",
+    "Winner": "W Napier/H E Atkins",
+    "StartDate": "1904.08.22",
+    "EndDate": "1904.09.03",
+    "GamesCount": "57/66",
+    "DateUpdated": "2026.08.16",
+    "PgnFileName": "190408bcf.pgn"
+  },
+  {
+    "Year": 1904,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1904.08.22",
+    "EndDate": "1904.09.03",
+    "GamesCount": "41^",
+    "DateUpdated": "2026.08.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1904,
+    "Name": "BCF-ch Play-Off",
+    "Winner": "W Napier",
+    "StartDate": "1905.01.02",
+    "EndDate": "1905.01.05",
+    "GamesCount": "4^",
+    "DateUpdated": "2026.08.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1905,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1905.03.27",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.19",
+    "PgnFileName": "190503vars.pgn"
+  },
+  {
+    "Year": 1905,
+    "Name": "BCF-ch Southport",
+    "Winner": "H E Atkins",
+    "StartDate": "1905.08.14",
+    "EndDate": "1905.08.25",
+    "GamesCount": "44+22/66",
+    "DateUpdated": "2024.03.29",
+    "PgnFileName": "189302londonbw.pgn"
+  },
+  {
+    "Year": 1905,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1905.08.14",
+    "EndDate": "1905.08.25",
+    "GamesCount": "47+2^",
+    "DateUpdated": "2024.03.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1906,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1906.04.02",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.19",
+    "PgnFileName": "190604vars.pgn"
+  },
+  {
+    "Year": 1906,
+    "Name": "BCF-ch Shrewsbury",
+    "Winner": "H E Atkins",
+    "StartDate": "1906.08.06",
+    "EndDate": "1906.08.17",
+    "GamesCount": "33+1/66",
+    "DateUpdated": "2023.07.15",
+    "PgnFileName": "190608bcf.pgn"
+  },
+  {
+    "Year": 1906,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1906.08.06",
+    "EndDate": "1906.08.17",
+    "GamesCount": "28^",
+    "DateUpdated": "2026.01.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1907,
+    "Name": "USA-GB Cable Match",
+    "Winner": "GB",
+    "StartDate": "1907.02.22",
+    "EndDate": "1907.02.23",
+    "GamesCount": "10",
+    "DateUpdated": "2024.03.18",
+    "PgnFileName": "190702cable.pgn"
+  },
+  {
+    "Year": 1907,
+    "Name": "USA-GB Univ Cable Match",
+    "Winner": "Drawn",
+    "StartDate": "1907.03.23",
+    "EndDate": "1907.03.23",
+    "GamesCount": "6^",
+    "DateUpdated": "2024.03.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1907,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1907.03.25",
+    "EndDate": "",
+    "GamesCount": "4+3",
+    "DateUpdated": "2025.05.21",
+    "PgnFileName": "190703vars.pgn"
+  },
+  {
+    "Year": 1907,
+    "Name": "BCF-ch Crystal Palace",
+    "Winner": "H E Atkins",
+    "StartDate": "1907.08.12",
+    "EndDate": "1907.08.23",
+    "GamesCount": "30+5/66",
+    "DateUpdated": "2023.02.25",
+    "PgnFileName": "190708bcf.pgn"
+  },
+  {
+    "Year": 1907,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1907.08.12",
+    "EndDate": "1907.08.23",
+    "GamesCount": "23^",
+    "DateUpdated": "2025.08.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1908,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1908.03.23",
+    "EndDate": "",
+    "GamesCount": "1Â½+5",
+    "DateUpdated": "2025.05.21",
+    "PgnFileName": "190803vars.pgn"
+  },
+  {
+    "Year": 1908,
+    "Name": "Oxford Uni v Pennsylvania",
+    "Winner": "Pennsylvania",
+    "StartDate": "1908.07.27",
+    "EndDate": "1908.07.29",
+    "GamesCount": "6/18",
+    "DateUpdated": "2024.11.14",
+    "PgnFileName": "190807oxfordpenn.pgn"
+  },
+  {
+    "Year": 1908,
+    "Name": "BCF-ch Tunbridge Wells",
+    "Winner": "Atkins",
+    "StartDate": "1908.08.10",
+    "EndDate": "1908.08.21",
+    "GamesCount": "66/66",
+    "DateUpdated": "2020.05.12",
+    "PgnFileName": "190808bcf.pgn"
+  },
+  {
+    "Year": 1908,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1908.08.10",
+    "EndDate": "1908.08.21",
+    "GamesCount": "8^",
+    "DateUpdated": "2023.02.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1909,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1909.03.22",
+    "EndDate": "",
+    "GamesCount": "2+5",
+    "DateUpdated": "2025.05.21",
+    "PgnFileName": "190903vars.pgn"
+  },
+  {
+    "Year": 1909,
+    "Name": "USA-GB Cable Match",
+    "Winner": "GB",
+    "StartDate": "1909.03.26",
+    "EndDate": "1909.03.27",
+    "GamesCount": "10",
+    "DateUpdated": "2013.10.26",
+    "PgnFileName": "190903cable.pgn"
+  },
+  {
+    "Year": 1909,
+    "Name": "USA-GB Univ Cable Match",
+    "Winner": "USA",
+    "StartDate": "1909.03.20",
+    "EndDate": "1909.03.20",
+    "GamesCount": "6^",
+    "DateUpdated": "2013.10.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1909,
+    "Name": "BCF-ch Scarborough",
+    "Winner": "H E Atkins/ J Blake",
+    "StartDate": "1909.08.09",
+    "EndDate": "1909.08.20",
+    "GamesCount": "62/62",
+    "DateUpdated": "2018.02.08",
+    "PgnFileName": "190908bcf.pgn"
+  },
+  {
+    "Year": 1909,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1909.08.09",
+    "EndDate": "1909.08.20",
+    "GamesCount": "31^",
+    "DateUpdated": "2026.01.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1909,
+    "Name": "BCF-ch 1909 play-off",
+    "Winner": "H E Atkins",
+    "StartDate": "1910.01.03",
+    "EndDate": "1910.01.05",
+    "GamesCount": "3^",
+    "DateUpdated": "2018.10.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1910,
+    "Name": "USA-GB Cable Match",
+    "Winner": "GB",
+    "StartDate": "1910.03.11",
+    "EndDate": "1910.03.12",
+    "GamesCount": "10",
+    "DateUpdated": "2026.07.05",
+    "PgnFileName": "191003cable.pgn"
+  },
+  {
+    "Year": 1910,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1910.03.21",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.21",
+    "PgnFileName": "191003vars.pgn"
+  },
+  {
+    "Year": 1910,
+    "Name": "Kent First Class",
+    "Winner": "Fred D Yates",
+    "StartDate": "1910.03.28",
+    "EndDate": "1910.04.02",
+    "GamesCount": "13+4",
+    "DateUpdated": "2025.10.16",
+    "PgnFileName": "191003kent.pgn"
+  },
+  {
+    "Year": 1910,
+    "Name": "Kent v Netherlands match",
+    "Winner": "Kent",
+    "StartDate": "1910.03.28",
+    "EndDate": "",
+    "GamesCount": "5+1^",
+    "DateUpdated": "2025.10.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1910,
+    "Name": "Kent Championship",
+    "Winner": "Charles Chapman",
+    "StartDate": "1910.03.28",
+    "EndDate": "1910.04.02",
+    "GamesCount": "2^",
+    "DateUpdated": "2025.10.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1910,
+    "Name": "USA-GB Univ Cable Match",
+    "Winner": "USA",
+    "StartDate": "1910.04.23",
+    "EndDate": "",
+    "GamesCount": "6",
+    "DateUpdated": "2026.07.05",
+    "PgnFileName": "191004univcable.pgn"
+  },
+  {
+    "Year": 1910,
+    "Name": "BCF-ch Oxford",
+    "Winner": "H E Atkins",
+    "StartDate": "1910.08.15",
+    "EndDate": "1910.08.26",
+    "GamesCount": "36+2/66",
+    "DateUpdated": "2023.04.16",
+    "PgnFileName": "191008bcf.pgn"
+  },
+  {
+    "Year": 1910,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1910.08.15",
+    "EndDate": "1910.08.26",
+    "GamesCount": "36^",
+    "DateUpdated": "2026.06.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1910,
+    "Name": "City of London CC Ch'ship",
+    "Winner": "William Ward",
+    "StartDate": "1910.11?",
+    "EndDate": "1911.03?",
+    "GamesCount": "37",
+    "DateUpdated": "2024.03.10",
+    "PgnFileName": "191011cityoflondon.pgn"
+  },
+  {
+    "Year": 1911,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1911.03.27",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2025.05.23",
+    "PgnFileName": "191103vars.pgn"
+  },
+  {
+    "Year": 1911,
+    "Name": "EE Colman vs FJ Marshall",
+    "Winner": "Marshall by 2-1",
+    "StartDate": "1911.04.27",
+    "EndDate": "1911.04.29",
+    "GamesCount": "3",
+    "DateUpdated": "2024.02.21",
+    "PgnFileName": "191104colmanmarshall.pgn"
+  },
+  {
+    "Year": 1911,
+    "Name": "Scotland v North of England",
+    "Winner": "Scotland by 13-7",
+    "StartDate": "1911.06.03",
+    "EndDate": "",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1911,
+    "Name": "BCF-ch Glasgow",
+    "Winner": "H E Atkins / F Yates",
+    "StartDate": "1911.08.14",
+    "EndDate": "1911.08.25",
+    "GamesCount": "31/66",
+    "DateUpdated": "2025.12.07",
+    "PgnFileName": "191108bcf.pgn"
+  },
+  {
+    "Year": 1911,
+    "Name": "BCF-ch other sections",
+    "Winner": "",
+    "StartDate": "1911.08.14",
+    "EndDate": "1911.08.25",
+    "GamesCount": "12^",
+    "DateUpdated": "2026.02.06",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1911,
+    "Name": "BCF-ch 1911 play-off",
+    "Winner": "H E Atkins",
+    "StartDate": "1912.01.01",
+    "EndDate": "1912.01.03",
+    "GamesCount": "3^",
+    "DateUpdated": "2018.04.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1911,
+    "Name": "Yates-Palmer match",
+    "Winner": "F Yates",
+    "StartDate": "1911.10.02",
+    "EndDate": "1911.10.04",
+    "GamesCount": "3",
+    "DateUpdated": "2015.08.23",
+    "PgnFileName": "191110yatespalmer.pgn"
+  },
+  {
+    "Year": 1912,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1912.03.25",
+    "EndDate": "",
+    "GamesCount": "4Â½+2",
+    "DateUpdated": "2025.05.24",
+    "PgnFileName": "191203vars.pgn"
+  },
+  {
+    "Year": 1912,
+    "Name": "Great Britain v Netherlands",
+    "Winner": "Netherlands",
+    "StartDate": "1912.04.12",
+    "EndDate": "1912.04.13",
+    "GamesCount": "16",
+    "DateUpdated": "2023.01.16",
+    "PgnFileName": "191204engned.pgn"
+  },
+  {
+    "Year": 1912,
+    "Name": "BCF-ch Richmond",
+    "Winner": "Richard C Griffith",
+    "StartDate": "1912.08.12",
+    "EndDate": "1912.08.23",
+    "GamesCount": "39+1/66",
+    "DateUpdated": "2026.05.17",
+    "PgnFileName": "191208bcf.pgn"
+  },
+  {
+    "Year": 1912,
+    "Name": "BCF-ch Women Ch'ship",
+    "Winner": "Gertrude Anderson",
+    "StartDate": "1912.08.12",
+    "EndDate": "1912.08.23",
+    "GamesCount": "8^",
+    "DateUpdated": "2026.05.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1912,
+    "Name": "BCF Major Open",
+    "Winner": "Speijer/Gunston",
+    "StartDate": "1912.08.12",
+    "EndDate": "1912.08.23",
+    "GamesCount": "20^",
+    "DateUpdated": "2026.01.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1912,
+    "Name": "BCF other sections",
+    "Winner": "",
+    "StartDate": "1912.08.12",
+    "EndDate": "1912.08.23",
+    "GamesCount": "17^",
+    "DateUpdated": "2024.03.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1913,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1913.03.17",
+    "EndDate": "",
+    "GamesCount": "5+2",
+    "DateUpdated": "2025.05.25",
+    "PgnFileName": "191303vars.pgn"
+  },
+  {
+    "Year": 1913,
+    "Name": "BCF-ch Cheltenham",
+    "Winner": "Fred D Yates",
+    "StartDate": "1913.08.11",
+    "EndDate": "1913.08.22",
+    "GamesCount": "34+3/66",
+    "DateUpdated": "2025.03.20",
+    "PgnFileName": "191308bcf.pgn"
+  },
+  {
+    "Year": 1913,
+    "Name": "BCF Major Open",
+    "Winner": "Mackenzie/Middleton",
+    "StartDate": "1913.08.11",
+    "EndDate": "1913.08.22",
+    "GamesCount": "15+1^",
+    "DateUpdated": "2025.11.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1913,
+    "Name": "BCF-ch Women Ch",
+    "Winner": "3 players tied",
+    "StartDate": "1913.08.11",
+    "EndDate": "1913.08.22",
+    "GamesCount": "5^",
+    "DateUpdated": "2025.03.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1913,
+    "Name": "BCF other sections",
+    "Winner": "",
+    "StartDate": "1913.08.11",
+    "EndDate": "1913.08.22",
+    "GamesCount": "16^",
+    "DateUpdated": "2025.03.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1913,
+    "Name": "BCF-ch Women's Play-Off",
+    "Winner": "A Moseley [Sollas]",
+    "StartDate": "1913.10.27",
+    "EndDate": "1913.10.31",
+    "GamesCount": "2/3^",
+    "DateUpdated": "2022.07.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1913,
+    "Name": "H G Cole v Edward Lasker",
+    "Winner": "Harold Cole",
+    "StartDate": "1913.09.15",
+    "EndDate": "1913.10.20",
+    "GamesCount": "5",
+    "DateUpdated": "2026.07.16",
+    "PgnFileName": "191309colelasker.pgn"
+  },
+  {
+    "Year": 1913,
+    "Name": "City of London CC Ch'ship",
+    "Winner": "Edward Lasker",
+    "StartDate": "1913.11.00",
+    "EndDate": "1914.04.00",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1914,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1914.03.23",
+    "EndDate": "",
+    "GamesCount": "3+4",
+    "DateUpdated": "2025.05.25",
+    "PgnFileName": "191403vars.pgn"
+  },
+  {
+    "Year": 1914,
+    "Name": "Great Britain v Netherlands",
+    "Winner": "Netherlands",
+    "StartDate": "1914.04.11",
+    "EndDate": "1914.04.13",
+    "GamesCount": "16",
+    "DateUpdated": "2023.12.23",
+    "PgnFileName": "191404engned.pgn"
+  },
+  {
+    "Year": 1914,
+    "Name": "BCF-ch Chester",
+    "Winner": "Fred D Yates",
+    "StartDate": "1914.08.10",
+    "EndDate": "1914.08.21",
+    "GamesCount": "37/55",
+    "DateUpdated": "2022.04.30",
+    "PgnFileName": "191408bcf.pgn"
+  },
+  {
+    "Year": 1914,
+    "Name": "BCF Major Open",
+    "Winner": "Georg Schories",
+    "StartDate": "1914.08.10",
+    "EndDate": "1914.08.21",
+    "GamesCount": "28^",
+    "DateUpdated": "2021.04.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1914,
+    "Name": "BCF-ch Women Ch",
+    "Winner": "M M Houlding",
+    "StartDate": "1914.08.10",
+    "EndDate": "1914.08.21",
+    "GamesCount": "4^",
+    "DateUpdated": "2016.03.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1914,
+    "Name": "BCF other sections",
+    "Winner": "",
+    "StartDate": "1914.08.10",
+    "EndDate": "1914.08.21",
+    "GamesCount": "19^",
+    "DateUpdated": "2022.06.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1915,
+    "Name": "Universities Week Matches",
+    "Winner": "-",
+    "StartDate": "1915.03.15",
+    "EndDate": "1915.03.20",
+    "GamesCount": "4",
+    "DateUpdated": "2026.05.19",
+    "PgnFileName": "191503university.pgn"
+  },
+  {
+    "Year": 1919,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1919.03.14",
+    "EndDate": "",
+    "GamesCount": "1",
+    "DateUpdated": "2024.03.05",
+    "PgnFileName": "191903vars.pgn"
+  },
+  {
+    "Year": 1919,
+    "Name": "BCF Victory Hastings",
+    "Winner": "J Capablanca",
+    "StartDate": "1919.08.11",
+    "EndDate": "1919.08.22",
+    "GamesCount": "58/66",
+    "DateUpdated": "2021.04.26",
+    "PgnFileName": "191908bcf.pgn"
+  },
+  {
+    "Year": 1919,
+    "Name": "BCF Minor",
+    "Winner": "E G Sergeant",
+    "StartDate": "1919.08.11",
+    "EndDate": "1919.08.22",
+    "GamesCount": "26/66",
+    "DateUpdated": "2021.04.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1919,
+    "Name": "BCF-ch Women Ch",
+    "Winner": "Edith Holloway",
+    "StartDate": "1919.08.11",
+    "EndDate": "1919.08.22",
+    "GamesCount": "5+2",
+    "DateUpdated": "2021.04.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1919,
+    "Name": "BCF other sections",
+    "Winner": "",
+    "StartDate": "1919.08.11",
+    "EndDate": "1919.08.22",
+    "GamesCount": "34",
+    "DateUpdated": "2026.05.04",
+    "PgnFileName": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Year": 1910,
+    "Name": "BCF-ch 7th",
+    "Winner": "",
+    "StartDate": "1910.08.15",
+    "EndDate": "1910.08.15",
+    "GamesCount": "97",
+    "DateUpdated": "2026.10.08",
+    "PgnFileName": "191008bcf.pgn"
+  },
+  {
+    "Year": 1911,
+    "Name": "BCF-ch 8th",
+    "Winner": "",
+    "StartDate": "1911.08.14",
+    "EndDate": "1911.08.14",
+    "GamesCount": "78",
+    "DateUpdated": "2026.10.08",
+    "PgnFileName": "191108bcf.pgn"
+  },
+  {
+    "Year": 1912,
+    "Name": "BCF-ch 9th",
+    "Winner": "",
+    "StartDate": "1912.08.12",
+    "EndDate": "1912.08.12",
+    "GamesCount": "103",
+    "DateUpdated": "2026.10.08",
+    "PgnFileName": "191208bcf.pgn"
+  },
+  {
+    "Year": 1913,
+    "Name": "BCF-ch 10th",
+    "Winner": "",
+    "StartDate": "1913.08.11",
+    "EndDate": "1913.08.11",
+    "GamesCount": "64",
+    "DateUpdated": "2026.10.08",
+    "PgnFileName": "191308bcf.pgn"
+  },
+  {
+    "Year": 1914,
+    "Name": "BCF-ch 11th",
+    "Winner": "",
+    "StartDate": "1914.08.10",
+    "EndDate": "1914.08.10",
+    "GamesCount": "88",
+    "DateUpdated": "2026.10.08",
+    "PgnFileName": "191408bcf.pgn"
+  }
+]
