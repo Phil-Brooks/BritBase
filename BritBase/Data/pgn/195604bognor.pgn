@@ -1,0 +1,831 @@
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.04"]
+[Round "1"]
+[White "Barden, Leonard William"]
+[Black "Horseman, Derek Geoffrey"]
+[Result "1-0"]
+[ECO "C06"]
+[PlyCount "101"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 b6 4. Bd3 Nf6 5. e5 Nfd7 6. Ne2 Ba6 7. Bxa6 Nxa6 8.
+O-O c5 9. c3 cxd4 10. cxd4 b5 11. Ng3 Nb6 12. Qe2 Qd7 13. f4 Nb4 14. Nf3 Rc8
+15. Bd2 Nc4 16. Bxb4 Bxb4 17. f5 Be7 18. Nh5 Rg8 19. f6 gxf6 20. exf6 Bf8 21.
+b3 Nd6 22. Rac1 a6 23. Qd2 Ne4 24. Qe3 Rxc1 25. Rxc1 Rg6 26. Ne5 Bh6 27. Nf4
+Qd8 28. Nexg6 hxg6 29. g3 Qxf6 30. Rc6 Bg7 31. Rxa6 Qxd4 32. Qxd4 Bxd4+ 33. Kf1
+Bc5 34. Nd3 Be3 35. Ra5 Nc3 36. Ne5 d4 37. Ra7 f6 38. Ng4 Bg5 39. h4 f5 40.
+hxg5 fxg4 41. a4 bxa4 42. bxa4 e5 43. a5 e4 44. Rc7 Nd5 45. Rc5 Ne3+ 46. Ke2
+Nf5 47. Rxf5 gxf5 48. a6 f4 49. gxf4 g3 50. a7 d3+ 51. Ke3 {Source: CHESS, May
+1956, Vol.21 no.267-8, p248} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.??"]
+[Round "1"]
+[White "Benjamin, Bryan J"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r5k1/pb3pbp/1p4q1/4n3/2Ppr3/BP3NP1/P4Q1P/1R1RN1K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1... Nxf3+ 2. Nxf3 Rf4 {Source: CHESS, May 1956, Vol.21 no.267-8, p239.
+Contributed by Ulrich Tamm, 29 August 2022.} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.04"]
+[Round "1"]
+[White "Borland, John Alexander C"]
+[Black "Mazitis, Arnolds"]
+[Result "0-1"]
+[ECO "A56"]
+[PlyCount "58"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. Nc3 g6 4. d5 d6 5. Nf3 e5 6. e4 Bg7 7. Bd3 a6 8. O-O O-O
+9. h3 Nh5 10. Nh2 Nd7 11. Ne2 Rb8 12. a4 f5 13. exf5 gxf5 14. Nc3 Ndf6 15. Be2
+Qe8 16. g4 fxg4 17. hxg4 Nf4 18. Bxf4 exf4 19. f3 Nd7 20. Qc2 Bd4+ 21. Kg2 Qe7
+22. Bd3 Qg7 23. Rae1 Ne5 24. Re2 Rf6 25. Ne4 Rh6 26. Rh1 Rxh2+ 27. Rxh2 Nxg4
+28. fxg4 Qxg4+ 29. Kf1 Qg1# {Source: Illustrated London News, 21 April 1956.
+Contributed by Ulrich Tamm, 29 August 2022.} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.04"]
+[Round "1"]
+[White "Radojcic, Miroslav"]
+[Black "Spiller, Arthur Raymond"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/4R1bp/p5p1/1p2p3/6P1/P1B5/1PP1K3/5r2 b - - 0 32"]
+[PlyCount "2"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+32... Rf4 $4 (32... Rg1 $11) 33. Rxg7+ {Source: BCM, May 1956, p129} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.04"]
+[Round "1"]
+[White "Wood, Baruch Harold"]
+[Black "Wade, Robert Graham"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/PR3pp1/4pk1p/r7/3K4/8/6P1/8 b - - 0 42"]
+[PlyCount "21"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+42... e5+ 43. Ke4 $2 (43. Kc4 $1 e4 (43... Kg6 44. Kb4 Ra1 45. Kb5 $11) 44.
+Rb6+ $1 ({Golombek/BCM gives} 44. Kb4 {but this loses:} Ra1 45. Rb6+ Ke7 46.
+Rb7+ Ke6 47. Rb6+ Kd5 48. Rb5+ Kc6 $19) 44... Ke7 45. Rb7+ Kd6 46. Rxf7 {draws}
+) 43... h5 44. g3 Kg6 45. Kf3 f5 46. Kg2 Kf6 47. Kh3 Ra4 48. Rb6+ Kg5 49. Rb7
+g6 50. Rc7 e4 51. Re7 Ra3 52. Kg2 Kg4 {Source: BCM, May 1956, p129} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.05"]
+[Round "2"]
+[White "Clarke, Peter Hugh"]
+[Black "Ventham, Michael Edward"]
+[Result "1-0"]
+[ECO "D72"]
+[PlyCount "43"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Bg7 6. e4 Nb6 7. Ne2 O-O 8. O-O
+c5 9. d5 e6 10. Nec3 exd5 11. exd5 Na6 12. Nd2 Bxc3 13. bxc3 Nxd5 14. Ne4 Be6
+15. Qf3 h5 16. h3 Bf5 17. Rd1 Qa5 18. Rxd5 Bxe4 19. Qf6 Nc7 20. Rxh5 gxh5 21.
+Bxe4 Ne6 22. Qh6 {Source: BCM, May 1956, p128} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.05"]
+[Round "2"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Mackay, Donald G"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[PlyCount "53"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Be6 7. Bxe6 Nd3+ 8.
+Kf1 fxe6 9. Ng5 Nc6 10. Nxe6 Qd7 11. Nd5 Rc8 12. Qg4 Nd4 13. Nxg7+ Bxg7 14.
+Qxg7 Rf8 15. f3 Nf4 16. d3 Nxd5 17. exd5 Qxd5 18. Qg4 Rc6 19. Qe4 Qh5 20. Bf4
+Re6 21. Qxb7 Qf5 22. Bg3 Qxd3+ 23. Kg1 Rxf3 24. Qa8+ Kf7 25. gxf3 Qe3+ 26. Kg2
+Qe2+ 27. Kg1 {Source: CHESS, May 1956, Vol.21 no.267-8, p249} 1/2-1/2
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.05"]
+[Round "2"]
+[White "Rosse, Jack Dennis"]
+[Black "Janosevic, Dragoljub"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/p5pp/bp2p1q1/3pP3/1Pn2P2/P1N3P1/6BP/R2QR1K1 w - - 0 20"]
+[PlyCount "4"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+20. Rc1 $2 (20. Nxd5 $1 {wins, e.g.} exd5 21. Qxd5+ {followed by b5.}) 20...
+Nb2 21. Qd2 $2 Nd3 {and Black won. Source: BCM, May 1956, p129} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.05"]
+[Round "2"]
+[White "Wade, Robert Graham"]
+[Black "Lehmann, Heinz"]
+[Result "1-0"]
+[ECO "B41"]
+[PlyCount "67"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Nf6 6. Nd2 Nc6 7. f4 d5 8. e5
+Nd7 9. Be2 Bc5 10. N2b3 Ba7 11. O-O O-O 12. Qd2 Qe7 13. Rf3 Nxd4 14. Bxd4 f6
+15. Bxa7 Rxa7 16. Qe3 Ra8 17. Raf1 b6 18. Nd4 Bb7 19. Bd3 Nc5 20. Rh3 Ne4 21.
+f5 fxe5 22. Nxe6 d4 23. Qe2 Ng5 24. Nxg5 Qxg5 25. f6 Rxf6 26. Rxf6 Qxf6 27.
+Bxh7+ Kf7 28. Be4 Bxe4 29. Qxe4 Qd8 30. Qxe5 Qd7 31. Qh5+ Ke7 32. Qg6 Rg8 33.
+Rh4 Qd5 34. Qxb6 {Source: BCM, June 1956, p173. Contributed by Andy Ansel, 29
+August 2022} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.06"]
+[Round "3"]
+[White "Fazekas, Stefan"]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "B74"]
+[PlyCount "69"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8.
+O-O O-O 9. Nb3 Be6 10. f4 Qc8 11. Kh1 Rd8 12. Bf3 Bg4 13. Qe1 Bxf3 14. Rxf3 d5
+15. e5 Ng4 16. Bg1 h5 17. Rd1 e6 18. Nb5 b6 19. Rfd3 Bf8 20. a3 Nh6 21. h3 Be7
+22. Bf2 Kg7 23. Bh4 Nf5 24. Bxe7 Ncxe7 25. N3d4 Qd7 26. c4 Nxd4 27. Nxd4 Qc7
+28. Nb5 Qc6 29. Qh4 Kf8 30. Nd6 Rd7 31. cxd5 Nxd5 32. f5 gxf5 33. Qxh5 Rad8 34.
+Qh6+ Ke7 35. Rxd5 {Source: The Times, 10 April 1956} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.06"]
+[Round "3"]
+[White "Pirc, Vasja"]
+[Black "Borland, Robert Edmond"]
+[Result "1-0"]
+[ECO "A15"]
+[PlyCount "43"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. b3 b6 3. g3 Bb7 4. Bg2 g6 5. Bb2 Bg7 6. O-O O-O 7. c4 c6 8. d4 d5
+9. Nc3 Nbd7 10. Qc2 Ne8 11. e4 dxe4 12. Nxe4 Ndf6 13. Rfe1 Nxe4 14. Qxe4 e6 15.
+Ba3 Nf6 16. Qf4 Re8 17. Ne5 Rc8 18. g4 Qc7 19. Rad1 Red8 20. Qe3 Nd7 21. Nxf7
+Nf8 22. Nxd8 {Source: BCM, May 1956, p128} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.06"]
+[Round "3"]
+[White "Radojcic, Miroslav"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[ECO "B11"]
+[PlyCount "80"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. Be2 dxe4 7. Nxe4 Nd7 8.
+Qg3 Ndf6 9. d3 Nxe4 10. dxe4 Nf6 11. Bd3 g6 12. O-O Bg7 13. Be3 O-O 14. f4 Qc7
+15. Qf2 b6 16. Bd4 c5 17. Be5 Qc6 18. c4 Rad8 19. Qe3 Rd7 20. Rae1 Rfd8 21. Bb1
+Ne8 22. Bxg7 Nxg7 23. f5 e5 24. Re2 Rd1 25. Ref2 Rxf1+ 26. Rxf1 Qd6 27. Bc2 Qd4
+28. Qxd4 Rxd4 29. fxg6 hxg6 30. Rd1 Rxc4 31. Rd8+ Kh7 32. Bb3 Rc1+ 33. Kh2 c4
+34. Ba4 Rb1 35. Rd2 b5 36. Bd1 Ne6 37. Bg4 Nd4 38. Bd7 Kg7 39. Bc8 b4 40. Bb7
+c3 {Source: The Times, 10 April 1956} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.??"]
+[Round "4"]
+[White "Borland, Robert Edmond"]
+[Black "Lehmann, Heinz"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r2/4RP2/8/3k2K1/2p5/1p3P2/8/8 w - - 0 58"]
+[PlyCount "20"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+{[#]} 58. Kf6 (58. Rb7 Kc6 $1 (58... Rxf7 59. Rxf7 b2 60. Rb7 c3 61. Kg4 c2 62.
+Rxb2 c1=Q 63. Re2 $11) (58... Kd4 59. Kg6 c3 60. Rb4+) 59. Rb4 Rxf7 60. Rxc4+
+Kb5 61. Rc3 Kb4 62. Rxb3+ Kxb3 63. f4 Kc4 64. f5 Kd5 $18) 58... b2 59. Rb7 c3
+60. Kg7 Rxf7+ 61. Kxf7 c2 62. Rxb2 c1=Q 63. Rb5+ Kd4 64. Rf5 Ke3 65. Kg6 Qg1+
+66. Kh5 Qg7 67. f4 Kf3 {Source: DSZ 1956, p167. Contributed by Ulrich Tamm, 29
+August 2022.} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.07"]
+[Round "4"]
+[White "Dean, Paul"]
+[Black "Clarke, Peter Hugh"]
+[Result "0-1"]
+[ECO "A60"]
+[PlyCount "54"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. Nxd5 Nxd5 6. Qxd5 Nc6 7. Nf3 Be7 8.
+e3 d6 9. a3 Be6 10. Qd1 d5 11. cxd5 Qxd5 12. Qxd5 Bxd5 13. Bd2 O-O 14. Bc3 a6
+15. Be2 b5 16. O-O b4 17. axb4 cxb4 18. Bd4 a5 19. Rfc1 Rfc8 20. h3 Nxd4 21.
+Nxd4 Rxc1+ 22. Rxc1 a4 23. Nc6 Bxc6 24. Rxc6 a3 25. bxa3 bxa3 26. Bc4 a2 27.
+Bxa2 Rxa2 {and Black won on move 61. Source: CHESS, May 1956, Vol.21 no.267-8,
+p249} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.09"]
+[Round "5"]
+[White "Janosevic, Dragoljub"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "1/2-1/2"]
+[ECO "B64"]
+[PlyCount "43"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bxf6 Bxf6 11. Ndb5 e5 12. g3 a6 13. Nxd6 Nd4 14. Nc4 Bg4
+15. Ne2 Bf3 16. Rg1 Rc8 17. Nxe5 Bxe5 18. fxe5 Bxe2 19. Bxe2 Rxc2+ 20. Qxc2
+Qg5+ 21. Qd2 Nxe2+ 22. Kc2 {Contributed by Ulrich Tamm, 29 August 2022.}
+1/2-1/2
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.09"]
+[Round "5"]
+[White "Pirc, Vasja"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "A03"]
+[PlyCount "51"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. Be2 c5 7. O-O Nc6 8. Ne5
+Qc7 9. Nc3 a6 10. Nxc6 Qxc6 11. Bf3 Be6 12. Ne2 Qd7 13. Qe1 Rad8 14. d3 Bf5 15.
+h3 c4 16. Rd1 Qc7 17. Bd4 cxd3 18. cxd3 Qc2 19. Nc3 Qb2 20. Nxd5 Qxa2 21. Nxe7+
+Kh8 22. Nxf5 gxf5 23. Qb4 a5 24. Qxb7 Ng8 25. Bxg7+ Kxg7 26. Qb5 {Source:
+CHESS, May 1956, Vol.21 no.267-8, p249} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.??"]
+[Round "6"]
+[White "Evans, Wilfred"]
+[Black "Radcliffe, JG"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2k2b2/p1q1r1pp/1r2pp2/R2n4/2PP1P2/1R1B1QP1/3B3P/6K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. cxd5 Rxb3 2. Ba6+ {Source: CHESS, May 1956, Vol.21 no.267-8, p239.
+Contributed by Ulrich Tamm, 29 August 2022.} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.10"]
+[Round "6"]
+[White "Matchett, Harry Gethin Thorp"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "0-1"]
+[ECO "E90"]
+[PlyCount "48"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 g6 5. Nc3 Bg7 6. e4 d6 7. Nf3 a6 8. h3 O-O
+9. Be2 axb5 10. Bxb5 Nxe4 11. Nxe4 Qa5+ 12. Nc3 Bxc3+ 13. bxc3 Qxb5 14. Nd2 Qd3
+15. Qf3 Qxf3 16. Nxf3 Ba6 17. Bh6 Re8 18. Nd2 Nd7 19. Bf4 Nb6 20. Be3 Nxd5 21.
+c4 Nxe3 22. fxe3 Reb8 23. Kd1 Rb4 24. Rc1 Bb7 {Sources: BCM, May 1956, p128;
+CHESS, May 1956, Vo.21 no.267-8, p249} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.10"]
+[Round "6"]
+[White "Mazitis, Arnolds"]
+[Black "Richards, David John"]
+[Result "0-1"]
+[ECO "D48"]
+[PlyCount "46"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.10.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.10.13"]
+[SourceQuality "1"]
+
+{IMPORTANT NOTE: The sources for this game DO NOT include the initial moves of
+this game. They only record the moves from 17...Nxf2 onwards. The moves given
+here up to and including White's 17th move are a POSSIBLE RECONSTRUCTION
+suggested by Harley Patara of Sao Paulo, Brazil. We are aware and should
+stress that several other permutations of the opening phase are possible...} 1.
+d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. e3 c5 6. dxc5 Bxc5 7. a3 O-O 8. Bd3
+dxc4 9. Bxc4 a6 10. O-O b5 11. Be2 Bb7 12. Qc2 Rc8 13. b4 Be7 14. Bb2 Ne4 15.
+Rac1 Ndf6 16. Rfd1 Qb6 17. Qb1 {Hereafter there are two contemporary sources
+for the finish:} Nxf2 18. Kxf2 Ng4+ 19. Ke1 Qxe3 20. Rd3 Qf2+ 21. Kd2 Bxf3 22.
+Rxf3 Rfd8+ 23. Kc2 Qxe2+ {and Black won easily. Sources: BCM, May 1956, p129;
+CHESS, May 1956, Vol.21 no.267-8, p239.} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.11"]
+[Round "7"]
+[White "Green, Arnold Yorwarth"]
+[Black "Barden, Leonard William"]
+[Result "0-1"]
+[ECO "E62"]
+[PlyCount "60"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. d5 Na5 8. Nfd2
+c6 9. Nc3 cxd5 10. cxd5 Ng4 11. Rb1 Bd7 12. h3 Ne5 13. b3 Qc8 14. b4 Nac4 15.
+Kh2 Nxd2 16. Qxd2 Bf5 17. Ne4 Qc4 18. f3 Rfc8 19. Rd1 Qc2 20. Rb2 Qa4 21. Qe1
+Rc7 22. Nd2 Bc2 23. Nb3 Bxd1 24. Qxd1 Rac8 25. Rd2 Qxb4 26. h4 a5 27. a3 Qb6
+28. a4 Rc3 29. Bh3 R8c7 30. f4 Qxb3 {Source: "How Good is Your Chess" by
+Barden, Routledge & Kegan Paul 1957.} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.11"]
+[Round "7"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Pirc, Vasja"]
+[Result "1-0"]
+[ECO "A53"]
+[PlyCount "159"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. g3 c6 6. e4 exd4 7. Nxd4 Nb6 8. Qe2
+Be7 9. Bg2 O-O 10. O-O Re8 11. Bf4 Bf8 12. Rad1 Qe7 13. Rfe1 Bg4 14. f3 Be6 15.
+b3 Rad8 16. Qd2 Nc8 17. Nd5 Bxd5 18. exd5 Qd7 19. dxc6 bxc6 20. Rxe8 Rxe8 21.
+Bg5 d5 22. cxd5 Nxd5 23. Qc1 c5 24. Nc2 Ncb6 25. Ne3 Qe6 26. Nxd5 Nxd5 27. Qc4
+Nc7 28. Qxe6 Nxe6 29. Be3 Nd4 30. Kf2 Nc2 31. Bc1 c4 32. bxc4 Bc5+ 33. Kf1 Ne3+
+34. Bxe3 Bxe3 35. f4 Kf8 36. Bc6 Rc8 37. Bb5 Bb6 38. Rd5 g6 39. Ke2 Rd8 40. Re5
+Bd4 41. Re4 h5 42. h3 Bb6 43. a4 Rc8 44. Re5 f6 45. Re6 Kf7 46. Rd6 Rc7 47. Rd5
+f5 48. Kf3 a5 49. Rd6 Bc5 50. Ra6 Bb4 51. Bc6 Kg7 52. Bd5 Kh7 53. Rb6 Kg7 54.
+Ra6 Kh7 55. g4 fxg4+ 56. hxg4 hxg4+ 57. Kxg4 Kg7 58. Kf3 Rc8 59. Ke4 Re8+ 60.
+Kd4 Rf8 61. Ra7+ Kh6 62. Bf7 Kg7 63. Be6+ Kh6 64. Ke5 Bd2 65. f5 Bc3+ 66. Ke4
+gxf5+ 67. Bxf5 Re8+ 68. Kd3 Bb4 69. Kd4 Kg5 70. Bd7 Re1 71. Kd5 Kf6 72. Rc7
+Re5+ 73. Kd4 Re1 74. c5 Rd1+ 75. Kc4 Ke5 76. Be8 Ke6 77. Kb5 Be1 78. Ka6 Bh4
+79. Bb5 Bd8 80. Rh7 {Contributed by Ulrich Tamm, 29 August 2022.} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.11"]
+[Round "7"]
+[White "Spiller, Arthur Raymond"]
+[Black "Matchett, Harry Gethin Thorp"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1nr2rk1/p2qpp1p/1p1p2pQ/1P1N4/n3P3/5P2/P3B1PP/2RR2K1 w - - 0 30"]
+[PlyCount "3"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+30. e5 $1 Rxc1 (30... Qe6 31. Rxc8 Rxc8 32. Qh4 $1 $18) 31. Nf6+ $1 {Source:
+BCM, May 1956, p129} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.12"]
+[Round "8"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Lehmann, Heinz"]
+[Result "1-0"]
+[ECO "B41"]
+[PlyCount "31"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nc3 Bb4 7. Bf3 d5 8.
+exd5 e5 $5 9. Nb3 e4 10. Be2 Qxd5 11. Bd2 Qe5 12. a3 Bd6 13. Be3 Nc6 14. Nd2
+Be6 15. Ndxe4 Nxe4 16. Nxe4 {"with the better game for White." ... x moves.
+Source: BCM, June 1956, p173 (given in the notes to the game Wade-Lehmann)} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.12"]
+[Round "8"]
+[White "Pirc, Vasja"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "A43"]
+[PlyCount "51"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 (5... d5 {is better -
+Barden, BCM}) 6. Nc3 c5 7. d5 Na6 8. Nd2 Nc7 9. a4 b6 10. e4 Rb8 11. Re1 e6 12.
+dxe6 Bxe6 13. Nf3 d5 14. Bf4 dxe4 15. Ng5 Rc8 16. Ngxe4 Nxe4 17. Bxe4 Qf6 18.
+Qe2 g5 19. Bd6 Rfd8 20. Bb7 Rxd6 21. Bxc8 Bxc8 22. Ne4 Qd8 23. Nxd6 Qxd6 24.
+Rad1 Qf8 25. Qe7 Ne6 26. Rxe6 {Source: BCM, June 1956, p174} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.13"]
+[Round "9"]
+[White "Clarke, Peter Hugh"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "0-1"]
+[ECO "C49"]
+[PlyCount "102"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Qe7 9. Bxc6 bxc6 10. h3 h6 11. Be3 Re8 12. Re1 Nd7 13. Nd2 Nf8 14. Qf3 Ng6
+15. Nf1 Bd7 16. Ng3 Rab8 17. Rab1 c5 18. Rec1 Qe6 19. c4 Ba4 20. Qd1 Nh4 21.
+Rxb8 Rxb8 22. Rb1 Rb6 23. Bd2 f5 24. Rxb6 axb6 25. Qh5 f4 26. Qxh4 g5 27. Qh5
+fxg3 28. fxg3 Bxc2 29. Qe2 Ba4 30. Kh2 Kg7 31. Bc3 Kf8 32. Bd2 Ke7 33. Be3 Kd7
+34. Qd2 Kc8 35. Kg1 g4 36. Bxh6 gxh3 37. Bg5 Qg4 38. Bh4 Qd1+ 39. Qxd1 h2+ 40.
+Kxh2 Bxd1 41. Kg1 Be2 42. Kf2 Bxd3 43. Ke3 Bxc4 44. a3 Be6 45. Bf6 b5 46. Kd2
+b4 47. a4 c4 48. a5 Bf7 49. a6 Bg6 50. Kc2 Bxe4+ 51. Kb2 Bxg2 {Source: CHESS,
+May 1956, Vol.21 no.267-8, p248} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.13"]
+[Round "9"]
+[White "Lehmann, Heinz"]
+[Black "Pirc, Vasja"]
+[Result "1-0"]
+[ECO "E24"]
+[PlyCount "45"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e4 Nxe4 7. Qg4 f5 8.
+Qxg7 Qf6 9. Qxf6 Nxf6 10. dxc5 Na6 11. Be3 Ne4 12. Ne2 Naxc5 13. f3 Nb3 14. Rb1
+Nec5 15. Nd4 Na5 16. Nxf5 exf5 17. Bxc5 Rg8 18. Kf2 b6 19. Re1+ Kd8 20. Bd4 Ba6
+21. Bd3 Bxc4 22. Bxf5 h6 23. g4 {Sources: BCM, May 1956, p128; CHESS, June
+1956, Vol.21 no.269-270, p265} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.13"]
+[Round "9"]
+[White "Wood, Baruch Harold"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[Annotator "Golombek, Harry"]
+[SetUp "1"]
+[FEN "1r3r2/pp2pp1k/q5p1/3PP2n/3Q2RP/4PR2/8/3NK3 w - - 0 31"]
+[PlyCount "18"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+{How fatal it is to relax one's attention and play aimlessly comes out very
+clearly in the following position from Round 9. Instead of continuing
+purposefully with the attack by 31 Rg5, White played} 31. e4 {, allowing Black
+just the time for a counter-attack by} Rbc8 32. Qb4 Rc2 33. Re3 Re8 34. Qd4
+Rec8 35. Rd3 Rh2 36. d6 exd6 37. exd6 Rcc2 38. Rg1 Nf4 39. Nf2 Rhxf2 {"A case
+of fiddling whilst Sutton Coldfield was burning." Source: BCM, May 1956, p129.
+Comments by Harry Golombek.} 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.14"]
+[Round "10"]
+[White "Clarke, Peter Hugh"]
+[Black "Janosevic, Dragoljub"]
+[Result "0-1"]
+[ECO "B51"]
+[PlyCount "72"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.31"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.31"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Ba4 e5 8. d4
+Qc7 9. Nbd2 Be7 10. Nf1 b5 11. dxe5 dxe5 12. Bc2 Be6 13. Ne3 Rd8 14. Qe2 O-O
+15. a4 c4 16. axb5 axb5 17. Ng5 Bc5 18. h3 Nd4 19. cxd4 exd4 20. Qf3 d3 21. Bd2
+dxc2 22. Ba5 Qe5 23. Bxd8 Rxd8 24. Nxe6 fxe6 25. Nxc2 Qxb2 26. Ne3 Rf8 27. Rab1
+Qc3 28. Rec1 Qa3 29. Nc2 Qa6 30. Ne3 Qc6 ({Not} 30... Qd6 $4 {as given here
+previously (and also on the 2022 Mega/Big Databases). Amendment suggested by
+Gert Ligterink, 30 August 2022.}) 31. e5 Ne4 32. Qe2 Rxf2 33. Qe1 Qb6 34. Rxc4
+Bxe3 35. Rxe4 Re2+ 36. Kf1 Rxe1+ 0-1
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.14"]
+[Round "10"]
+[White "Fazekas, Stefan"]
+[Black "Lehmann, Heinz"]
+[Result "1-0"]
+[ECO "D86"]
+[PlyCount "79"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 Nc6 9. O-O Na5 10. Bd3 Qd7 11. Rb1 Rd8 12. Be3 b6 13. Qd2 c5 14. Rfd1 Bb7
+15. f3 Bc6 16. Qe1 Ba4 17. Rd2 cxd4 18. cxd4 Rdc8 19. Ba6 Nc4 20. Bxc8 Rxc8 21.
+Bf2 Nxd2 22. Qxd2 Rc2 23. Qe1 Rxa2 24. e5 Bh6 25. Nc3 Bd2 26. Qe2 Rc2 27. Ne4
+Ba5 28. Qe3 Bc6 29. h4 Qe6 30. h5 Qa2 31. Rf1 Re2 32. Qf4 Qe6 33. hxg6 hxg6 34.
+Ng5 Qf5 35. Qh4 e6 36. Rc1 Bd7 37. Qh7+ Kf8 38. Bh4 Bd2 39. Qh8+ Ke7 40. Nh7+ {
+Source: CHESS, June 1956, Vol.21 no.269-270, p265} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.14"]
+[Round "10"]
+[White "Pirc, Vasja"]
+[Black "Spiller, Arthur Raymond"]
+[Result "1-0"]
+[ECO "A05"]
+[PlyCount "49"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. d3 d5 6. Nbd2 Be7 7. e4 c6 8. e5
+Nfd7 9. d4 c5 10. c3 Ba6 11. Re1 Bd3 12. Nf1 c4 13. Re3 Nc6 14. Ne1 Bg6 15. f4
+h5 16. Re2 b5 17. Ne3 Nb6 18. Rf2 Qd7 19. Bh3 Be4 20. f5 O-O-O 21. N1g2 g5 22.
+fxg6 fxg6 23. Nf4 Bf5 24. Nxf5 gxf5 25. Nxe6 {Source: BCM, May 1956, p128} 1-0
+
+[Event "Stevenson Memorial 4th"]
+[Site "Bognor Regis"]
+[Date "1956.04.14"]
+[Round "10"]
+[White "Wade, Robert Graham"]
+[Black "Radojcic, Miroslav"]
+[Result "1-0"]
+[ECO "C32"]
+[PlyCount "31"]
+[EventDate "1956.04.04"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 Qe7 7. Nd2 Bf5 8.
+Ngf3 Nxd2 9. Bxd2 Bxc2 10. Ne5 Nd7 11. Rc1 Nxe5 12. Qxe5 Qxe5+ 13. fxe5 Be4 14.
+Rxc7 Bxd5 15. Bb5+ Bc6 16. Rxc6 {Source: BCM, May 1956, p128} 1-0
+

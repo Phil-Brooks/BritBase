@@ -1,0 +1,84 @@
+﻿[Event "Thames Valley Premier I"]
+[Site "Twickenham"]
+[Date "1955.04.??"]
+[Round "?"]
+[White "Clarke, Peter Hugh"]
+[Black "Landry, Thomas Anselm"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r1r3k/p1n1q1pp/1ppb1p2/4p3/PPB1P1Q1/2P1B2P/3R1PPK/3R4 b - - 0 25"]
+[PlyCount "2"]
+[EventDate "1955.04.09"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+25... Rb7 26. Rxd6 {Source: CHESS, 14 May 1955, p333/345} 1-0
+
+[Event "Thames Valley Premier I"]
+[Site "Twickenham"]
+[Date "1955.04.??"]
+[Round "?"]
+[White "Farrand, Julian Thomas"]
+[Black "Thomson, Alexander Aird"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "33"]
+[EventDate "1955.04.09"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-05a"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nc3 Nc6 5. O-O Ng5 6. d4 Be7 7. Nxg5 Bxg5 8.
+Qh5 d5 9. Bxd5 g6 10. Qxg5 f6 11. Qh6 Nxd4 12. Qg7 Rf8 13. Bh6 Qd6 14. Ne4 Qe7
+15. Qxe7+ Kxe7 16. Bxf8+ Kxf8 17. Nxf6 {Source: CHESS, 14 May 1955, p346} 1-0
+
+[Event "Thames Valley Premier I"]
+[Site "Twickenham"]
+[Date "1955.04.??"]
+[Round "?"]
+[White "Franklin, Michael J"]
+[Black "Clarke, Peter Hugh"]
+[Result "1-0"]
+[ECO "D33"]
+[PlyCount "85"]
+[EventDate "1955.04.09"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-04b"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4 7. Bg2 Bb4 8. O-O
+Nge7 9. Bd2 O-O 10. a3 Bd6 11. e4 dxe4 12. Nxe4 Bc7 13. Bc3 Rb8 14. Qc2 h6 15.
+Rfd1 Be6 16. Ne5 Bd5 17. Nxc6 Nxc6 18. Qe2 b6 19. Nd2 Bxg2 20. Kxg2 b5 21. Qe4
+Ne7 22. Nf1 Qd5 23. Qxd5 Nxd5 24. Ne3 Rbd8 25. Re1 f5 26. Nxd5 Rxd5 27. a4 a6
+28. axb5 axb5 29. Ra7 Bb8 30. Rb7 f4 31. Ree7 Rg5 32. d5 fxg3 33. Rxg7+ Rxg7
+34. Rxg7+ Kh8 35. hxg3 h5 36. d6 b4 37. Bd4 Bxd6 38. Rd7+ Kg8 39. Rxd6 Rc8 40.
+Rd5 h4 41. Rc5 Rxc5 42. Bxc5 hxg3 43. Kxg3 {Source: CHESS, 30 Apr 1954, p313}
+1-0
+
+[Event "Thames Valley Premier I"]
+[Site "Twickenham"]
+[Date "1955.04.??"]
+[Round "?"]
+[White "Wade, Robert Graham"]
+[Black "Farrand, Julian Thomas"]
+[Result "1-0"]
+[ECO "C10"]
+[PlyCount "91"]
+[EventDate "1955.04.09"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-05a"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bd3 b6 9. Bg5 Bb7 10. Qe2 Be7 11. O-O-O h6 12. Bxf6 Bxf6 13. Kb1 Qe7 14. Be4
+Bxe4 15. Qxe4 O-O 16. g4 g6 17. h4 Bg7 18. Ne5 Bxe5 19. Qxe5 Rad8 20. Qe3 Kh7
+21. f4 c5 22. h5 Rxd4 23. g5 Rxd1+ 24. Rxd1 gxh5 25. Rh1 f6 26. Qd3+ f5 27.
+Rxh5 Rh8 28. Qh3 Kg8 29. a3 Qg7 30. gxh6 Qf6 31. Qg2+ Kf7 32. h7 Qg6 33. Qh1
+Qg7 34. Rh6 Qf8 35. Qh5+ Ke7 36. Qg5+ Kd6 37. Qg6 Qc8 38. Qg7 Qe8 39. Qxa7 Qd8
+40. Qb7 Qd7 41. Qxb6+ Kd5 42. Qb3+ c4 43. Qe3 Rxh7 44. Qe5+ Kc6 45. Rxe6+ Kb7
+46. Qxf5 {Source: CHESS, 14 May 1955, p346} 1-0
+

@@ -1,0 +1,311 @@
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.01"]
+[Round "1"]
+[White "Monciuskas, P"]
+[Black "Persitz, Raaphi JA"]
+[Result "0-1"]
+[ECO "A47"]
+[PlyCount "44"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Bd3 c5 5. c3 Nc6 6. Nbd2 e6 7. O-O Be7 8. Re1
+Rc8 9. a3 d5 10. e4 dxe4 11. Nxe4 O-O 12. dxc5 bxc5 13. Qe2 Qd5 14. Bg5 Na5 15.
+Nxf6+ gxf6 16. Bh6 Rfd8 17. Qe4 Qxd3 18. Qh4 Qg6 19. Re3 Nb3 20. Qc4 Nxa1 21.
+Ne1 Rd1 22. Kf1 Nc2 {Source: CHESS, 20 August 1955, p431} 0-1
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.01"]
+[Round "1"]
+[White "Richards, David John"]
+[Black "Perez, FJ"]
+[Result "0-1"]
+[ECO "E87"]
+[PlyCount "46"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2 f5
+9. exf5 gxf5 10. O-O-O Na6 11. Bd3 Nc5 12. Bb1 a5 13. Nge2 a4 14. Bg5 Qe8 15.
+g4 Nf4 16. Nxf4 exf4 17. Rde1 Qg6 18. Bxf4 a3 19. gxf5 axb2+ 20. Kd1 Bxf5 21.
+Rhg1 Bxb1 22. Rxg6 Bxg6 23. Qxb2 Na4 {Source: CHESS, 20 August 1955, p431} 0-1
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.02"]
+[Round "2"]
+[White "Griffiths, Derek Francis K"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "B75"]
+[PlyCount "45"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bd7 7. Be3 g6 8. f3
+Bg7 9. Qd2 Rc8 10. Bb3 Na5 11. g4 Nc4 12. Bxc4 Rxc4 13. h4 h5 14. g5 Nh7 15.
+Qd3 Rc8 16. f4 O-O 17. f5 Be5 18. O-O-O Qa5 19. Nb3 Qd8 20. Bd4 Bc6 21. Bxe5
+dxe5 22. fxg6 fxg6 23. Qc4+ {Source: CHESS, 20 August 1955, p432} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.02"]
+[Round "2"]
+[White "Paffley, Charles Derek Simps"]
+[Black "Butcher, Alfred Joseph"]
+[Result "1-0"]
+[ECO "A95"]
+[PlyCount "59"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. g3 c6 5. Bg2 Nf6 6. Nf3 Be7 7. O-O O-O 8. b3 Qe8
+9. Ne5 Nbd7 10. Nd3 Ne4 11. Qc2 Bf6 12. e3 Kh8 13. Bb2 g5 14. f3 Nd6 15. Ba3
+Be7 16. cxd5 exd5 17. e4 fxe4 18. fxe4 dxe4 19. Nc5 Nxc5 20. dxc5 Nf5 21. Nxe4
+h6 22. Rae1 Qg6 23. Nd6 Bf6 24. Be4 Bd4+ 25. Kg2 Be6 26. Nxf5 Rxf5 27. Rxf5 Qh5
+28. Bb2 Rd8 29. Bxd4+ Rxd4 30. Qb2 {Source: CHESS, 20 August 1955, p432} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.02"]
+[Round "2"]
+[White "Popel, Stephan A"]
+[Black "Howson, James B"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "91"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. c3 Nf6 2. d4 d5 3. Nf3 e6 4. Bf4 Bd6 5. e3 O-O 6. Bd3 c5 7. O-O cxd4 8. cxd4
+Bxf4 9. exf4 Qb6 10. Nc3 Bd7 (10... Qxb2 $5 11. Nb5 $10) 11. Qd2 Nc6 12. Rac1
+Rac8 13. Rfe1 g6 {(>< Nf6)} 14. Bb1 Na5 15. b3 Rc7 16. Ne5 Rfc8 17. f5 $3 Qb4 (
+17... gxf5 $2 18. Qg5+ Kf8 19. Qxf6) (17... exf5 18. Nxd7 Rxd7 (18... Nxd7 $2
+19. Nxd5) 19. Nxd5 Rxc1 20. Nxf6+ Qxf6 21. Rxc1 $18 {_|_} Qxd4 $140 22. Qxa5
+Qd1+ 23. Qe1) 18. Qg5 Rxc3 19. fxg6 hxg6 20. Qxf6 Be8 21. Rcd1 Qf8 22. h4 Qg7
+23. Qf4 Nc6 24. Ng4 Nb4 25. h5 g5 26. Nf6+ Kh8 27. Qe5 Nc6 28. Qd6 Rd8 (28...
+Qxf6 29. Qf8#) 29. Qa3 Bd7 30. Ng4 b5 31. Qb2 b4 32. h6 Qf8 33. Qe2 Qd6 34. Ne3
+Qf4 35. g3 Qf6 36. Qh5 Be8 37. Qg4 e5 38. Nxd5 Qxh6 (38... Rxd5 39. Qe4) 39.
+Nxc3 Nxd4 40. Ne4 $1 Bd7 41. Rxd4 Bxg4 42. Rxd8+ Kg7 43. Nd6 Kf6 44. Rxe5 $1
+Qh5 45. Re1 Bf3 46. Ne8# 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.04"]
+[Round "4"]
+[White "Nicolson, James Roderick"]
+[Black "Mondelski, PAR"]
+[Result "1-0"]
+[ECO "B21"]
+[PlyCount "15"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bf4 Nge7 7. Nb5 Nd5 8.
+exd5 {... etc (43 moves) (Source: CHESS, 20 August 1955, p434} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.05"]
+[Round "5"]
+[White "Paffley, Charles Derek Simps"]
+[Black "Joynson, Herbert Francis"]
+[Result "1-0"]
+[ECO "D58"]
+[PlyCount "67"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 b6 7. cxd5 exd5 8. Bd3
+Bb7 9. Nf3 Nbd7 10. O-O O-O 11. Rc1 a6 12. Ne2 c5 13. dxc5 bxc5 14. b3 Rc8 15.
+Rc2 Qb6 16. Ng3 g6 17. e4 d4 18. e5 Nd5 19. Bxe7 Nxe7 20. Re1 Qe6 21. Bc4 Nd5
+22. Ne4 Rc7 23. Nxd4 cxd4 24. Bxd5 Qxd5 25. Rxc7 Kg7 26. Rxb7 Qxb7 27. Qxd4 Kh7
+28. Qxd7 Qxd7 29. Nf6+ Kg7 30. Nxd7 Rd8 31. Nf6 Rd2 32. g4 Rxa2 33. Rd1 h5 34.
+g5 {Source: CHESS, 20 August 1955, p436} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.06"]
+[Round "6"]
+[White "Wade, Robert Graham"]
+[Black "Mackay, Donald George"]
+[Result "1-0"]
+[ECO "B29"]
+[PlyCount "71"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 e6 6. Bf4 Nc6 7. Qd2 Qc7 8.
+h4 b6 9. Be2 Bb7 10. O-O-O h6 11. Rhe1 O-O-O 12. Kb1 Ne7 13. g4 g6 14. c4 Nc6
+15. Bg3 Bg7 16. Qe3 Rdf8 17. Rd2 h5 18. g5 Ne7 19. Bd3 Qc6 20. Ng1 Nf5 21. Bxf5
+gxf5 22. Qa3 Kb8 23. Rd6 Qg2 24. Ne2 Qe4 25. Qc3 Rd8 26. Nf4 Qf3 27. Re3 Qh1+
+28. Re1 Qf3 29. Qd2 Bf8 30. Rxd7 Be7 31. Rd3 Be4 32. Ree3 Qg4 33. Rxd8+ Rxd8
+34. Nd3 Rd4 35. f4 Rxc4 36. Nf2 {Source: CHESS, 20 August 1955, p437} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.08"]
+[Round "7"]
+[White "Howson, James B"]
+[Black "Evensen, T"]
+[Result "1-0"]
+[ECO "D94"]
+[PlyCount "51"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Bd3 O-O 7. Bd2 c6 8. O-O
+Nbd7 9. Rc1 Re8 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bb1 Qc7 14. Rc3 b6
+15. Ne5 Bb7 16. Rh3 Rad8 17. Bf4 Nh5 18. Rxh5 gxh5 19. Qxh5 Rxd4 20. Qxh7+ Kf8
+21. Ng6+ fxg6 22. Bxc7 Re7 23. Bg3 Red7 24. Qxg6 e5 25. Bxe5 Bxe5 26. Qf5+ {
+Source: CHESS, 20 August 1955, p437} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.08"]
+[Round "7"]
+[White "Mackay, Donald George"]
+[Black "Hamburger, P"]
+[Result "1-0"]
+[ECO "E97"]
+[PlyCount "57"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "CHESS-1955-08"]
+
+1. c4 Nf6 2. Nf3 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bc1 Nh6 11. h3 Nf7 12. Be3 f5 13. exf5 gxf5 14. dxe5 Nfxe5
+15. Nxe5 Nxe5 16. Qd2 Qf6 17. Nd5 Qf7 18. f4 c6 19. fxe5 cxd5 20. exd6 dxc4 21.
+Rad1 Be6 22. Bf3 Rad8 23. Rfe1 Rd7 24. Bxa7 Ra8 25. Rxe6 Rxa7 26. Bd5 Rxa2 27.
+Re7 Rxe7 28. Bxf7+ Rxf7 29. d7 {Source: CHESS, 20 August 1955, p437} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.08"]
+[Round "8"]
+[White "Wade, Robert Graham"]
+[Black "Persitz, Raaphi JA"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[PlyCount "31"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Nf3 Na6 7. Bf4 Nxc5 8.
+a3 Bxc3+ 9. Qxc3 b6 10. e3 Bb7 11. Be2 Qe7 12. O-O Rac8 13. b4 Nce4 14. Qb2 d5
+15. Rac1 Rfd8 16. Be5 {Source: CHESS, 20 August 1955, p438} 1/2-1/2
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.10"]
+[Round "9"]
+[White "Paffley, Charles Derek Simps"]
+[Black "Wade, Robert Graham"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[PlyCount "85"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Nbd7 10. e4 Bg6 11. Bd3 c5 12. Na2 Ba5 13. Bg5 h6 14. Bh4 Bc7 15.
+Rad1 e5 16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Nc3 Bh5 19. Qxh5 Nxh5 20. Bxd8 Rfxd8
+21. Nd5 Nf6 22. Nxf6+ Bxf6 23. b3 Rd4 24. Bc4 Rxe4 25. Rd7 Re7 26. Rxe7 Bxe7
+27. Rd1 Rd8 28. Rxd8+ Bxd8 29. Bd5 b6 30. Kf1 Kf8 31. Ke2 Ke7 32. Kd3 f5 33.
+Ke3 Kd6 34. Bc4 Bf6 35. f3 Bb2 36. f4 Bc1+ 37. Kf3 Bd2 38. h4 Be1 39. h5 Bd2
+40. g4 fxg4+ 41. Kxg4 Kc6 42. Kf5 Bc1 43. Ke4 {(Paffley died aged only 32, in
+1958)} 1/2-1/2
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.11"]
+[Round "10"]
+[White "Persitz, Raaphi JA"]
+[Black "Paffley, Charles Derek Simps"]
+[Result "1-0"]
+[ECO "C47"]
+[PlyCount "109"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7 12. Rae1 Be6 13. Ne2 Qd7 14. Nd4 h6
+15. Bh4 Rae8 16. Bf5 Bd8 17. Bxe6 fxe6 18. Qh3 e5 19. Qxd7 Nxd7 20. Bxd8 exd4
+21. Bc7 Re4 22. f3 Re3 23. Kf2 Nf6 24. Rxe3 Ng4+ 25. Ke2 Nxe3 26. Rg1 Re8 27.
+Kd3 Nf5 28. Bf4 g5 29. Bd2 c5 30. b3 Kf7 31. Re1 Rxe1 32. Bxe1 Ke6 33. Bf2 h5
+34. a3 a6 35. g4 hxg4 36. fxg4 Nd6 37. h3 Nf7 38. b4 Ne5+ 39. Ke2 Nc4 40. bxc5
+Nxa3 41. Kd3 Nb5 42. Be1 Nc3 43. Bxc3 dxc3 44. Kxc3 Kd7 45. Kb4 Kc6 46. Ka5
+Kxc5 47. Kxa6 Kc6 48. c3 Kc5 49. Kb7 d4 50. cxd4+ Kxd4 51. Kc6 Ke5 52. Kd7 Kf6
+53. Kd6 Kf7 54. Ke5 Kg6 55. Ke6 {Source: CHESS, 20 August 1955, p439} 1-0
+
+[Event "CHESS Festival 3rd"]
+[Site "Southend"]
+[Date "1955.08.12"]
+[Round "11"]
+[White "Barden, Leonard William"]
+[Black "Richards, David John"]
+[Result "1-0"]
+[ECO "C18"]
+[PlyCount "39"]
+[EventDate "1955.08.01"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 {is the line given in CHESS, August 1955, Vol.20/251, p439, but we don't know how the game proceeded until move 14. My suggestion is...} 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3 Qa5 9. Bd2 h5 10. Qf4 Bd7 11. dxc5 Qxc5 12. Nf3 Nc6 13. Nh4 Nce7 14. O-O Qc7 $4 {This position occurred in the game, though the diagram prior to 14...Qc7 showed the BQ on a5. I can't see how the position can have occurred within the 14 moves stipulated. Now the game continues as per BH Wood's score...} 15. Nxf5 Nxf5 16. Bxf5 g5 17. Qg3 h4 18. Qxg5 exf5 19. Qf6 Rh7 20. Bg5 {"winning a second pawn when he wants it."... 31 moves. Source: Illustrated London News, 3 September 1955} 1-0
+
+[Event "CHESS Festival 3rd First-Class 2nd Wk"]
+[Site "Southend"]
+[Date "1955.08.??"]
+[Round "?"]
+[White "Reuben, Stewart"]
+[Black "NN"]
+[Result "0-1"]
+[ECO "A52"]
+[PlyCount "14"]
+[EventDate "1955.08.01"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bb4+ 5. Nbd2 Qe7 6. a3 Nxe5 7. axb4 $4
+Nd3# {Source: English Chess Forum} 0-1

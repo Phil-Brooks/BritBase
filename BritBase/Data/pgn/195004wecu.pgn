@@ -1,0 +1,68 @@
+﻿[Event "WECU-ch05"]
+[Site "Weymouth"]
+[Date "1950.04.07"]
+[Round "4"]
+[White "Trevenen, Henry Vickers W"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[ECO "C40"]
+[PlyCount "61"]
+[EventDate "1950.04.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 Qg6 7. Ne3 Nf6 8.
+Bc4 c6 9. d5 Be7 10. Bd2 Nbd7 11. Qe2 Ne5 12. O-O-O b5 13. Bb3 b4 14. Na4 c5
+15. f4 exf3 16. gxf3 Qh5 17. Rdf1 Nfd7 18. Bc4 Nxc4 19. Nxc4 Kd8 20. Re1 Qf7
+21. Na5 Nb8 22. Qe4 Bf6 23. Nxc5 dxc5 24. d6 Qxa2 25. Nb3 Bf5 26. Qxf5 Qxb2+
+27. Kd1 Nd7 28. Re7 Ne5 29. Nxc5 Qa1+ 30. Ke2 Qxh1 31. Nb7# {Source: CHESS,
+May 1950, Vol.15/176, p155} 1-0
+
+[Event "WECU-ch05"]
+[Site "Weymouth"]
+[Date "1950.04.09"]
+[Round "6"]
+[White "Trevenen, Henry Vickers W"]
+[Black "Slade, Ronald Augustus"]
+[Result "1-0"]
+[ECO "A04"]
+[PlyCount "89"]
+[EventDate "1950.04.06"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 f5 2. d3 e6 3. e4 Nf6 4. e5 Nd5 5. Bd2 Be7 6. d4 O-O 7. c4 Nb6 8. Nc3 d6
+9. exd6 cxd6 10. Be2 N8d7 11. a4 a5 12. Qb3 Kh8 13. Be3 e5 14. dxe5 dxe5 15.
+O-O e4 16. Ne5 Nxe5 17. Bxb6 Qe8 18. f3 exf3 19. Bxf3 Nxf3+ 20. Rxf3 f4 21. Nd5
+Bd6 22. Bc7 Ra6 23. Qc3 Bg4 24. Bxd6 Rxd6 25. Re1 Qd8 26. Rxf4 Rxf4 27. Nxf4
+Rd1 28. Nd5 Rxe1+ 29. Qxe1 h6 30. h3 Bd7 31. b3 Bc6 32. Qe5 Kh7 33. Kh2 Kh8 34.
+Kh1 Kh7 35. Ne7 Kh8 36. Qe6 Qe8 37. Ng6+ Kh7 38. Qxe8 Bxe8 39. Ne5 g6 40. c5
+Kg7 41. Nc4 Kf6 42. Nxa5 Ke5 43. Nxb7 Kd5 44. a5 Bc6 45. a6 {Source: Western
+Morning News - Saturday 29 April 1950} 1-0
+
+[Event "WECU-ch05 Open A"]
+[Site "Weymouth"]
+[Date "1950.04.10"]
+[Round "5"]
+[White "Passmore, Kate Harris"]
+[Black "Budge, Keith Edward Charle"]
+[Result "1-0"]
+[ECO "D53"]
+[PlyCount "73"]
+[EventDate "1950.04.06"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 e6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 O-O 7. a3 Na5 8. c5
+Nc6 9. Qc2 Ng4 10. h4 e5 11. Bxe7 Nxe7 12. dxe5 f5 13. O-O-O c6 14. g3 Qc7 15.
+Ng5 Qxe5 16. Bh3 Qf6 17. Bxg4 h6 18. f4 hxg5 19. hxg5 Qe6 20. Bh5 Qxe3+ 21. Kb1
+Qxc5 22. Qh2 Qd6 23. Rde1 Ng6 24. Nd1 Bd7 25. Nf2 Rae8 26. Nd3 Rxe1+ 27. Rxe1
+Be8 28. Rh1 Bf7 29. Bxg6 Bxg6 30. Ne5 Qxe5 31. fxe5 f4+ 32. Ka2 Be4 33. Qh8+
+Kf7 34. e6+ Kxe6 35. Qxf8 Bxh1 36. gxf4 Be4 37. Qxg7 {Source: Western Morning
+News - Saturday 22 April 1950. "An entertaining game, with many interesting
+phases, from the open tournament (A section) at the West of England Congress."
+(RJ Broadbent, chess columnist)} 1-0
+

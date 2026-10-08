@@ -1,0 +1,76 @@
+﻿[Event "Varsity Oxford-Cambridge"]
+[Site "West London CC"]
+[Date "1950.03.25"]
+[Round "1"]
+[White "Penrose, Oliver"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "C92"]
+[PlyCount "87"]
+[EventDate "1950.03.25"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1950-05"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 a5 10. a4 b4 11. d4 exd4 12. cxd4 d5 13. e5 Ne4 14. Nbd2 Ng5 15. Nxg5
+Bxg5 16. Nf3 Be7 17. Be3 Bf5 18. Rc1 Qd7 19. Bc2 Ra6 20. Bd3 Bxd3 21. Qxd3 Rb6
+22. b3 Nd8 23. Bg5 Bxg5 24. Nxg5 Rg6 25. Nf3 Ne6 26. Qe3 Qe7 27. Re2 Rc8 28.
+Rec2 Qd7 29. Rc6 Nf4 30. Rxg6 Nxg6 31. Rc5 Ra8 32. Qc1 Ra7 33. Rb5 Qd8 34. Qc6
+Nf4 35. Kh2 Qc8 36. Qc5 Qa8 37. Qc1 Ne6 38. Ng5 Nxd4 39. Qf4 Nxb5 40. Qxf7+ Kh8
+41. Qf5 Kg8 42. Qe6+ Kh8 43. Nf7+ Kg8 44. Nd8+ {Source: The Times, 27 Mar 1950,
+p8} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West London CC"]
+[Date "1950.03.25"]
+[Round "2"]
+[White "Truscott, Alan Fraser"]
+[Black "Reifenberg, Ernst Robert"]
+[Result "0-1"]
+[ECO "C34"]
+[PlyCount "32"]
+[EventDate "1950.03.25"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1950-05"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. g4 fxg3 6. d4 d5 7. Ng5 g6 8. Qf3
+Be6 9. hxg3 Be7 10. Nxe6 fxe6 11. g4 Bh4+ 12. Kd1 Ng3 13. Rg1 Rf8 14. Qd3 Ne4
+15. Be3 Bf2 16. Nd2 Bxg1 {... adjudicated on move 60} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West London CC"]
+[Date "1950.03.25"]
+[Round "4"]
+[White "Rivier, Andre Raymond"]
+[Black "Mardle, Denis Victor"]
+[Result "0-1"]
+[ECO "A95"]
+[PlyCount "58"]
+[EventDate "1950.03.25"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1950-05"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. g3 Be7 5. Bg2 c6 6. Nf3 d5 7. O-O O-O 8. Ne5
+Nbd7 9. Nxd7 Nxd7 10. Qb3 Kh8 11. Bf4 g5 12. Be5+ Nxe5 13. dxe5 f4 14. Rad1 Qc7
+15. e4 fxe3 16. f4 gxf4 17. gxf4 d4 18. Ne2 c5 19. Rf3 Bd7 20. Rh3 Bc6 21. Qd3
+Rf7 22. Rg3 Bxg2 23. Rxg2 Qc6 24. Rf1 Rg8 25. Rxg8+ Kxg8 26. Ng3 Bh4 27. f5
+Bxg3 28. hxg3 exf5 29. Rxf5 Qg6 0-1
+

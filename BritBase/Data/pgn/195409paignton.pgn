@@ -1,0 +1,139 @@
+[Event "Paignton Premier 4th"]
+[Site "Paignton"]
+[Date "1954.09.13"]
+[Round "1"]
+[White "Kitto, Francis Ernest A"]
+[Black "Wood, Baruch Harold"]
+[Result "0-1"]
+[ECO "E67"]
+[Annotator "Wood, BH"]
+[PlyCount "46"]
+[EventDate "1954.09.13"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. d4 Nbd7 7. O-O e5 8. h3
+c6 9. Bg5 h6 10. Bxf6 Qxf6 {White’s last and next moves, though they form a
+system Kitto has practised with success, do not appeal to me. Black is left
+with equal develop­ment and a better centre - more than he has any right, as
+second player, to expect.} 11. dxe5 dxe5 12. Nd2 Qe7 13. f4 exf4 14. gxf4 Nc5 {
+Already envisaging the excursion to d3 three moves, and the sacrifice four
+moves, later. As I could not effectively prevent the clearly fore­shadowed e4,
+I had to strive to exploit the fact that on that square the pawn temporarily
+blocks the action of three white pieces.} 15. e4 Bd4+ 16. Kh2 Rd8 {Post-game
+analysis revealed that my opponent was continually expecting me to complete my
+development, in routine manner, by ...Be6 and a move of the a8-rook. But
+always there was something better. Such games as this are snares for the
+learner, they are an all too enticing exception — to the law "get all your
+pieces out" — which prove the rule.} 17. Qe2 Nd3 $1 18. e5 ({Not} 18. Qxd3
+Bg1+ 19. Kxg1 Rxd3) 18... Nxf4 $1 19. Rxf4 Qxe5 ({Not} 19... Bxe5 $4 20. Kh1 $1
+) 20. Raf1 Bxc3 {This not only destroys the guard to White’s queen, but
+keeps up the threat of ...g5 as well.} 21. Ne4 Bxb2 22. Nf6+ Kh8 23. Be4 Bc1 {
+Sources: CHESS/20/230, October 1954, p31; BCM, November 1954, p359;
+Illustrated London News, 2 October 1954} (23... Bc1 {For if} 24. Rxc1 {then}
+Qxf4+ {comes. And, to cap it all, 24...Rd2 is threatened.}) 0-1
+
+[Event "Paignton Premier 4th"]
+[Site "Paignton"]
+[Date "1954.09.??"]
+[Round "?"]
+[White "Goodman, John Bertram"]
+[Black "Kitto, Francis Ernest A"]
+[Result "0-1"]
+[ECO "A57"]
+[PlyCount "38"]
+[EventDate "1954.09.13"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Qc2 bxc4 5. e4 d6 6. Bxc4 g6 7. f4 Bg7 8. Nf3
+O-O 9. O-O Nbd7 10. Nc3 Nb6 11. Nd2 Ng4 12. Nd1 Bd4+ 13. Kh1 e5 14. dxe6 Nxh2
+15. exf7+ Kh8 16. Rf3 Qh4 17. g3 Qh3 18. Nf2 Bxf2 19. Rxf2 Nf3+ {Source: BCM,
+November 1954, p360} 0-1
+
+[Event "Paignton Premier Reserves A"]
+[Site "Paignton"]
+[Date "1954.09.17"]
+[Round "?"]
+[White "Sifton, Isaac Taylor"]
+[Black "Harris, Peter A"]
+[Result "1-0"]
+[ECO "C44"]
+[Annotator "Sifton"]
+[PlyCount "47"]
+[EventDate "1954.09.13"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7. Bxf7+ Kxf7
+8. Qh5+ g6 9. Qxc5 d6 10. Qb5 Re8 11. O-O Rxe4 12. Qd5+ ({Maroczy prefers as
+giving somewhat more attack (Morphy p.48)} 12. Bg5 Qe8 13. Nd2 Re5 14. Qb3+ Be6
+15. Qg3 Bd5 $1 16. c4) 12... Re6 13. Bg5 Qe8 14. Bh6 $1 Kg8 $2 (14... Ke7 15.
+Bg5+ Kd7 16. f4 b6 17. f5 gxf5 18. Qxf5 Ba6 19. Qf7+ Ne7) 15. Nd2 Qf7 16. Nf3
+Re2 17. Qb5 Rxc2 18. Ng5 Qc4 19. Rae1 Bd7 20. Qxb7 Rd8 21. Qxc7 Re2 22. Qxd6
+Rxe1 23. Rxe1 d3 24. Qxd7 {Source: Sifton scoresheet} 1-0
+
+[Event "Paignton m"]
+[Site "Paignton"]
+[Date "1954.09.13"]
+[Round "1"]
+[White "Heemskerk, Fenny"]
+[Black "Bruce, Rowena Mary"]
+[Result "0-1"]
+[ECO "E68"]
+[PlyCount "64"]
+[EventDate "1954.09.13"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.08.30"]
+[SourceQuality "1"]
+
+1. g3 Nf6 2. Bg2 g6 3. c4 Bg7 4. Nc3 O-O 5. d4 d6 6. e4 e5 7. Nge2 Nbd7 8. O-O
+exd4 9. Nxd4 Re8 10. f3 c6 11. Be3 Qa5 12. Nb3 Qh5 13. Qxd6 Ne5 14. g4 Bxg4 15.
+fxg4 Nfxg4 16. Bf4 Rad8 17. Qa3 Nxc4 18. Qxa7 Nd2 19. h3 Nxb3 20. hxg4 Qxg4 21.
+Be3 Nxa1 22. Rxa1 Rd7 23. Na4 Red8 24. Rf1 b5 25. Qc5 bxa4 26. Qxc6 h5 27. Qxa4
+h4 28. Kh1 Rd1 29. Bg1 Rxf1 30. Bxf1 h3 31. Qc2 Qf3+ 32. Kh2 Be5# {Source: BCM,
+November 1954, p360} 0-1
+
+[Event "Paignton Major A"]
+[Site "Paignton"]
+[Date "1954.09.??"]
+[Round "?"]
+[White "Fawcett, Edward Douglas"]
+[Black "Harvey, Stanley Thomas"]
+[Result "1-0"]
+[ECO "D18"]
+[PlyCount "57"]
+[EventDate "1954.09.13"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+{"The following is ... from the Major A section, with the added interest that Mr Douglas Fawcett, at the age of 88, was the oldest competitor. He knew and plaved Steinitz at Simpsons’ in the Strand."} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Ne5 Nbd7 10. f4 Bxc3 11. bxc3 Rc8 12. Ba3 Re8 13. Bd3 Bxd3 14. Qxd3 c5 15. Rf3 Nb6 16. Bxc5 Qc7 17. Bxb6 Qxb6 18. c4 Red8 19. Rb1 Qc7 20. Qb3 b6 21. Qc2 Rb8 22. f5 Nd7 23. Nxd7 Qxd7 24. f6 g6 25. Qf2 h6 26. Qh4 Kh7 27. Rb5 Rh8 28. Rh3 Kg8 29. Qf4 {Source: Manchester Guardian, 30 September 1954} 1-0
+

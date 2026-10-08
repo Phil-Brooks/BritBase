@@ -1,0 +1,757 @@
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.24"]
+[Round "1"]
+[White "Durao, Joaquim"]
+[Black "Rosselson, Leon"]
+[Result "1-0"]
+[ECO "B74"]
+[PlyCount "75"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. Nxa5 Bxe2 13. Qxe2 Qxa5 14. Bd4 $1
+Rac8 15. Rad1 Rc6 16. g4 $1 Nd7 17. Bxg7 Kxg7 18. Nd5 Qc5+ 19. Rf2 Re8 (19...
+e6 $5 20. Nf4 Kg8 $5 {Stockfish 14} 21. fxe6 $140 fxe6 22. Nxe6 Qxf2+ 23. Qxf2
+Rxf2 24. Kxf2 Rxc2+ $11) 20. Kh1 Nf6 $2 21. fxg6 $1 hxg6 22. Qf3 $1 Qc4 23. g5
+{Source: Ajedrez Espanol. Contributed by Gerald Hartmann, 6 June 2022. But
+more moves were played: Rosselson Scorebook 2, Game 13} Qxe4 24. gxf6+ exf6 25.
+Qxe4 Rxe4 26. Nxf6 Re6 27. Nd5 a5 28. Rdf1 f5 29. Nf4 Rf6 30. Re1 b5 31. Re7+
+Kh6 32. Rf3 d5 33. Nxd5 Rfd6 34. Ne3 Rd2 35. Re5 b4 36. Rxa5 Rcd6 37. Raxf5 Ra6
+38. Ng4+ {Source: Rosselson Scorebook 2, Game 13} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.24"]
+[Round "1"]
+[White "Gligoric, Svetozar"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "B67"]
+[PlyCount "71"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Nxe4 11. Qe1 Nf6 12. Nf5 Qa5 13. Nxd6+ Bxd6 14. Rxd6
+Qc7 15. Rd2 Qxf4 16. Be2 Ne4 17. Nxe4 Qxe4 18. Qf2 Ne5 {"Barden played his
+first seventeen moves almost instantaneously, then took over an hour on his
+eighteenth" (CHESS)} 19. Rhd1 {(The score gives 'R-K1' but it is clearly
+incorrect. 19 Rhd1 is the only move that makes sense of the remaining score -
+JS)} Rc8 20. Bh5 O-O 21. Rxd7 Nxd7 22. Rxd7 Qa4 23. Rd3 Qxa2 24. Ra3 Qd5 25.
+Bf3 Qd7 26. Kb1 Rc4 27. Rd3 Qc7 28. Bg3 Qa5 29. Qe1 Qxe1+ 30. Bxe1 b5 31. b3
+Rf4 32. Rd6 e5 33. Bg3 Rd4 34. Bxe5 Rxd6 35. Bxd6 Rd8 36. Bb4 {Source: CHESS,
+Vol.22, no.291-2, 17 May 1957, p209} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.25"]
+[Round "2"]
+[White "Rosselson, Leon"]
+[Black "Ballard, Kenneth O"]
+[Result "1-0"]
+[ECO "E87"]
+[PlyCount "61"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. f3 Nbd7 6. Be3 O-O 7. Qd2 e5 8. d5
+Ne8 9. g4 c5 10. Nge2 Nb6 11. Ng3 Bd7 12. a4 a6 13. h4 f6 14. Bd3 Rf7 15. Qh2
+Qc8 16. a5 f5 17. gxf5 gxf5 18. exf5 e4 19. fxe4 Bxc3+ 20. bxc3 Na4 21. Nh5 Kh8
+22. e5 Bxf5 23. e6 Bxe6 24. dxe6 Qxe6 25. Kd2 Nxc3 26. Rae1 Ne4+ 27. Kc1 Rd8
+28. Bg5 Rf2 29. Qxf2 Nxf2 30. Rxe6 Nxd3+ 31. Kd2 {Source: Rosselson Scorebook
+2, Game 14} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.25"]
+[Round "2"]
+[White "Stevenson, Reginald William"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "0-1"]
+[ECO "A26"]
+[PlyCount "50"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. d3 e5 8. Bg5
+h6 9. Bd2 Be6 10. Qa4 Qd7 11. Rac1 Kh7 12. b4 a6 13. Rfe1 Nh5 14. e3 f5 15. a3
+Qf7 16. Qc2 Rae8 17. Rcd1 Bc8 18. Bc1 e4 19. dxe4 Bxc3 20. Qxc3 fxe4 21. Nd4
+Ne5 22. Rf1 Bg4 23. Rd2 c5 24. bxc5 dxc5 25. Nc2 Nxc4 0-1
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.26"]
+[Round "3"]
+[White "Mazitis, Arnolds"]
+[Black "Harris, Geoffrey F"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[PlyCount "57"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 Nbd7 6. Bg5 c5 7. d5 O-O 8. Qd2
+Qb6 9. O-O-O a6 10. h4 Qb4 11. a3 Qa5 12. h5 Rb8 13. hxg6 fxg6 14. Bh6 Ne5 15.
+Bxg7 Kxg7 16. f4 Neg4 17. Nf3 b5 18. e5 Nh5 19. Rxh5 gxh5 20. e6 b4 21. Nb1 Qa4
+22. Bd3 bxa3 23. Nxa3 Qb3 24. Rh1 Qxb2+ 25. Qxb2+ Rxb2 26. Kxb2 Nf2 27. Rxh5
+Nxd3+ 28. Kc3 Nxf4 29. Rh2 {Source: Birmingham Daily Post, 1 May 1957 - BH
+Wood column} 1/2-1/2
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.26"]
+[Round "3"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Mackay, Donald G"]
+[Result "1-0"]
+[ECO "A54"]
+[PlyCount "89"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 d6 3. Nf3 Be7 4. d4 exd4 5. Nxd4 Nf6 6. e4 O-O 7. g3 Re8 8. Bg2
+h6 9. O-O Bf8 10. Re1 Nbd7 11. h3 Nb6 12. b3 c6 13. Bb2 a5 14. Qc2 a4 15. Rad1
+axb3 16. axb3 Qc7 17. Nce2 Nfd7 18. Qc3 Nc5 19. Nf4 Nbd7 20. Nh5 Qb6 21. Re3
+Ra2 22. Rd2 g6 23. Nf5 Rxb2 24. Qxb2 gxf5 25. Rxd6 fxe4 26. b4 Re5 27. Nf6+
+Nxf6 28. Qxe5 Ncd7 29. Qf4 Qxb4 30. Rxf6 Nxf6 31. Qxf6 Qxc4 32. Rxe4 Qc1+ 33.
+Kh2 Be6 34. Rxe6 fxe6 35. Qg6+ Bg7 36. Qxe6+ Kf8 37. Qc8+ Ke7 38. Qxb7+ Kf6 39.
+Bxc6 Qf1 40. Qb6 Qa1 41. Qd8+ Ke6 42. Qd7+ Kf6 43. Qd6+ Kf7 44. Bd5+ Ke8 45.
+Be4 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.26"]
+[Round "3"]
+[White "Rosse, Jack Dennis"]
+[Black "Rosselson, Leon"]
+[Result "0-1"]
+[ECO "A56"]
+[PlyCount "58"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Nf3 O-O 7. Be2 Ne8 8. Qc2 a6
+9. O-O Nc7 10. a3 Nd7 11. Be3 b5 12. cxb5 f5 13. Rad1 f4 14. Bc1 g5 15. Ne1 Qe8
+16. b4 cxb4 17. axb4 Rf6 18. bxa6 Nxa6 19. Ba3 Rh6 20. Nb5 Nf6 21. h3 g4 22.
+hxg4 Nxg4 23. Bxg4 Bxg4 24. f3 Bd7 25. Nc3 Bh4 26. g4 fxg3 27. b5 Bd8 28. Nd3
+Bb6+ 29. Bc5 Nxc5 {Source: Rosselson Scorebook 2, Game 15. Jack Dennis Rosse
+changed his name from Jacob Rosselson in 1949 but was not related to Leon. He
+was a violinist, born 1900 in Lithuania, died 1989.} 0-1
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.26"]
+[Round "3"]
+[White "Wood, Baruch Harold"]
+[Black "Andersen, Borge"]
+[Result "0-1"]
+[ECO "E76"]
+[PlyCount "82"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Bd3
+Qxc5 9. Qe2 Nc6 10. Be3 Qh5 11. Rc1 Ng4 12. Bg1 e5 13. fxe5 Ncxe5 14. Nb5 Nxd3+
+15. Qxd3 Bxb2 16. Rc2 Bg7 17. Nxd6 Rd8 18. c5 Ne5 19. Nxe5 Bxe5 20. Bf2 b6 21.
+Qf3 Qxf3 22. gxf3 bxc5 23. Nb5 Rb8 24. Rxc5 Bd6 25. Nxd6 Rb1+ 26. Ke2 Ba6+ 27.
+Ke3 Rxh1 28. Bg3 Rd1 29. e5 Rd3+ 30. Ke4 Rb8 31. Be1 Rb1 32. Bc3 Rc1 33. Bb4
+Rxc5 34. Bxc5 Rd2 35. Bxa7 Rxa2 36. f4 Rxh2 37. f5 Re2+ 38. Kf4 h5 39. Kg5 Rxe5
+40. Kf6 Rd5 41. Bb8 Bd3 {Source: Skakbladet 1957, 90. Contributed by Ulrich
+Tamm, 7 June 2022.} 0-1
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.27"]
+[Round "4"]
+[White "Andersen, Borge"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[PlyCount "98"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nf3 Nbd7 7. O-O e5 8. Qc2
+exd4 9. Nxd4 Nb6 10. b3 c5 11. Ndb5 a6 12. Na3 Re8 13. Bg5 h6 14. Bf4 g5 15.
+Bd2 Qe7 16. e4 Ng4 17. Rae1 Qf6 18. Nd1 Ne5 19. f4 gxf4 20. Rxf4 Qg6 21. Ne3
+Nc6 22. Qd1 Nd4 23. Nac2 Be5 24. Rff1 h5 25. Ba5 Nd7 26. Nd5 Nf6 27. Nc7 Bg4
+28. Qd3 h4 29. Nxa8 hxg3 30. Nc7 Nxc2 31. Nxe8 Nxe8 32. Qxc2 Bd4+ 33. Kh1 Qh5
+34. Bf3 Bxf3+ 35. Rxf3 Qxf3+ 36. Qg2 Qxg2+ 37. Kxg2 gxh2 38. Kxh2 Nf6 39. Kg3
+Kf8 40. Kf4 Ke7 41. Kf5 Nh5 42. Bd2 Ng7+ 43. Kg4 Ne6 44. Rb1 Kd7 45. a3 b5 46.
+cxb5 axb5 47. a4 Kc6 48. axb5+ Kxb5 49. Rf1 f6 {Source: CHESS, Vol.22, no.
+291-2, 17 May 1957, p206} 1/2-1/2
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.27"]
+[Round "4"]
+[White "James, Rodney Ewan"]
+[Black "Fazekas, Stefan"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "14"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Qe7 5. Nf3 d6 6. c3 Bc5 7. Qb3 Nh6 {... x moves. Source: The Guardian, 1 February 1963 (in a note to the game Sokolsky-Kirillov, Minsk 1957)} 0-1
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.27"]
+[Round "4"]
+[White "Mackay, Donald G"]
+[Black "Durao, Joaquim"]
+[Result "1-0"]
+[ECO "E67"]
+[PlyCount "43"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. Nc3 e5 7. d4 Nbd7 8. d5
+Ne8 9. e4 f5 10. Ne1 c5 11. Nd3 Ndf6 12. f3 Bd7 13. Be3 Qc8 14. Qd2 a6 15. a4
+b6 16. Bh6 Nc7 17. Bxg7 Kxg7 18. f4 fxe4 19. fxe5 exd3 20. exf6+ Kh8 21. Ne4
+Qd8 22. Qh6 {Source: Ajedrez Espanol. Contributed by Gerald Hartmann, 6 June
+2022} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.27"]
+[Round "4"]
+[White "Matchett, Harry Gethin Thorp"]
+[Black "Clarke, Peter Hugh"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[PlyCount "78"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Nc6 7. d5 Na5 8. Nfd2
+c5 9. a3 b5 10. cxb5 Bd7 11. Nc3 Qc7 12. h3 Rfb8 13. a4 a6 14. bxa6 Rxa6 15. e4
+Rab6 16. Re1 Rb4 17. Bf1 c4 18. Kh2 h5 19. f4 Bh6 20. Qf3 g5 21. e5 dxe5 22.
+fxe5 g4 23. Qd1 Nh7 24. h4 Bxd2 25. Bxd2 Rxb2 26. Ra2 Rxa2 27. Nxa2 Rb2 28. Nc3
+Nb3 29. Re2 Nd4 30. Bc1 Rxe2+ (30... Nf3+ $1 31. Kh1 Bxa4 32. Nxa4 Qa7 $1 33.
+Be3 Qxe3) 31. Nxe2 Nf3+ 32. Kh1 Qxe5 33. Qc2 Nf6 34. Bb2 Qxd5 35. Nf4 Qb7 (
+35... Qc5 $1 36. Qg2 Ne4 $1 $19) 36. Bxf6 Ne1+ $2 (36... Qa7 $1) 37. Bg2 $3 Bc6
+38. Qd2 Bxg2+ 39. Nxg2 Nxg2 {Source: Birmingham Daily Post, 1 May 1957 - BH
+Wood column} 1/2-1/2
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.27"]
+[Round "4"]
+[White "Stevenson, Reginald William"]
+[Black "Rosselson, Leon"]
+[Result "0-1"]
+[ECO "A23"]
+[PlyCount "86"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. d3 Nc6 7. Nf3 Bc5 8. O-O
+O-O 9. a3 h6 10. Qc2 Be6 11. Na4 Bd6 12. Nc5 Bxc5 13. Qxc5 Rc8 14. Qb5 e4 15.
+dxe4 dxe4 16. Ne5 Nd4 17. Qxb7 Rc7 18. Qa6 Nc2 19. Bf4 Nxa1 20. Rxa1 Qc8 21.
+Qa5 Rc5 22. Qa4 g5 23. b4 Rc2 24. Be3 Qc3 25. Rd1 Rxe2 26. Bd4 Qc2 27. Qxc2
+Rxc2 28. b5 Nd5 29. Bxe4 Ra2 30. Bxa7 Nc3 31. Re1 Nxe4 32. Rxe4 Ra1+ 33. Kg2
+Bd5 34. f3 Bxe4 35. fxe4 Ra2+ 36. Kh3 Rxa3 37. Bc5 Rb3 38. Bxf8 Kxf8 39. b6 Ke7
+40. Nc6+ Kd6 41. Nd8 Rxb6 42. Nxf7+ Ke7 43. Ne5 Re6 {White lost on time.
+Source: Rosselson Scorebook 2, Game 16} 0-1
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.27"]
+[Round "4"]
+[White "Wade, Robert Graham"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "0-1"]
+[ECO "B41"]
+[PlyCount "96"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Nc2
+Bxc3+ 9. bxc3 d5 10. exd5 exd5 11. O-O Be6 12. cxd5 Qxd5 13. c4 Qd7 14. Bb2
+O-O-O 15. Be2 Qd2 16. Bxf6 gxf6 17. Ne3 Ne5 18. Re1 Qxd1 19. Rexd1 Rhe8 20. f4
+Nc6 21. Kf2 Nd4 22. Bf3 Nxf3 23. Kxf3 f5 24. h3 h5 25. Rxd8+ Rxd8 26. g4 hxg4+
+27. hxg4 fxg4+ 28. Nxg4 Rd4 29. Ne5 f6 30. Ng4 f5 31. Ne3 Rd3 32. Ke2 Ra3 33.
+Kd2 Kd7 34. Rb1 Rxa2+ 35. Kd3 Kc6 36. Nc2 Bxc4+ 37. Kc3 Ra4 38. Nd4+ Kc7 39.
+Nxf5 b5 40. Ne3 Kc6 41. Rg1 Bf7 42. Rg4 b4+ 43. Kb2 Ra2+ 44. Kb1 Rf2 45. f5 a5
+46. Nc2 Kc5 47. Nd4 Bc4 48. Ka1 Rf1+ 0-1
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.29"]
+[Round "5"]
+[White "Rosselson, Leon"]
+[Black "Radojcic, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "A97"]
+[PlyCount "57"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. Re1
+Ne4 9. Qc2 Qg6 10. Nd2 Nxc3 11. Qxc3 Nc6 12. Nb3 e5 13. dxe5 dxe5 14. Na5 e4
+15. Nxc6 Qxc6 16. Be3 a5 17. a3 Be6 18. Rac1 a4 19. f3 Rad8 20. fxe4 fxe4 21.
+Qc2 Bf5 22. Rf1 Bc5 23. Bxc5 Qxc5+ 24. Kh1 Qe3 25. Rcd1 g6 26. Rxd8 Rxd8 27.
+Rd1 Rd4 28. Rxd4 Qxd4 29. Qxa4 {Source: Rosselson Scorebook 2, Game 17} 1/2-1/2
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.30"]
+[Round "6"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[ECO "B92"]
+[PlyCount "90"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Qc7 8. Bg5
+Nbd7 9. Nd2 $6 b5 10. Nf1 $6 (10. f3 $142) 10... b4 11. Nd5 Nxd5 12. exd5 Nc5
+13. Ng3 Be7 14. Bd2 (14. Bxe7 Qxe7 $15) 14... Rb8 15. c4 O-O 16. O-O f5 17. f4
+g6 18. Nh1 (18. Be3 g5) (18. Kh1 $142) 18... Ne4 19. g3 Qc5+ 20. Kg2 Nxd2 21.
+Qxd2 e4 22. Qc2 Bf6 23. Rad1 Bd7 24. Nf2 a5 25. Rb1 a4 26. Qc1 Bd4 27. h4 Rf7
+28. Nh3 h6 29. Qd1 Bf6 30. Qc1 Rc8 31. Kh2 Rc7 32. Rg1 Rg7 33. Rg2 Bc8 34. Qd1
+Ra7 35. Bf1 Bd7 36. b3 $2 (36. Qe2 $142) 36... axb3 37. axb3 (37. Qxb3 Bc3 {
+/\ Ra3}) 37... Be8 38. Be2 Ra2 39. Bf1 Rga7 40. Rc1 Qe3 41. Rb1 Rxg2+ 42. Bxg2
+Ra2 43. Ng1 Qf2 44. Qf1 Qxf1 45. Rxf1 Rb2 {Source: BCM, Jul 1957, p187} 0-1
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.04.30"]
+[Round "6"]
+[White "Rosselson, Leon"]
+[Black "Wood, Baruch Harold"]
+[Result "1/2-1/2"]
+[ECO "C14"]
+[PlyCount "36"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8.
+Nf3 c5 9. Nb5 Nc6 10. c3 a6 11. Nd6 f6 12. Bd3 fxe5 13. fxe5 cxd4 14. cxd4 Rxf3
+15. Qxf3 Nxd4 16. Qh5 $1 $18 g6 17. Bxg6 hxg6 18. Qxg6+ Qg7 {Source: Rosselson
+Scorebook 2, Game 18} (18... Qg7 19. Qxg7+ Kxg7 20. Rc1 $18) 1/2-1/2
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.01"]
+[Round "7"]
+[White "Fazekas, Stefan"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[ECO "C33"]
+[PlyCount "46"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Nc6 4. Ne2 d5 5. exd5 Ne5 6. Qe4 Bd6 7. Nxf4 Nf6 8.
+Qa4+ Bd7 9. Qb3 O-O 10. d4 Ng6 11. Ne2 Re8 12. Nbc3 Ne4 13. Nxe4 Rxe4 14. Qd3
+Qe7 15. h3 Re8 16. Bd2 Nf4 17. Bxf4 Bxf4 18. Kd1 Bh6 19. a4 Re3 20. Qc4 Qg5 21.
+Qb4 Bf5 22. b3 Rxe2 23. Bxe2 Rxe2 {Source: Illustrated London News, 18 May 1957
+} 0-1
+
+[Event "Stevenson Memorial"]
+[Site "Bognor Regis"]
+[Date "1957.05.01"]
+[Round "7"]
+[White "Lloyd, David Edward"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "B92"]
+[PlyCount "35"]
+[EventDate "1957.04.??"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.01.01"]
+[SourceQuality "1"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Nbd7 9. a4 h6 10. Be3 Qc7 (10... b6 11. Bc4 Bb7 12. Nd2 Qc7 13. Qe2 O-O 14. O-O
+Rfc8 15. f3 d5 16. Nxd5 Nxd5 17. exd5 Nf6 {David E Lloyd - Arthur Hall, 1958 
+(0-1)}) 11. O-O O-O 12. Nd2 b6 13. Nc4 Bb7 14. f3 Rfd8 15. a5 bxa5 16. Nxa5 Nb6
+17. Nxb7 Qxb7 18. Kh1 {"and White has an ideal position owing to his control
+of d5 and the serious weakness of Black's a-pawn." (Leonard Barden) ... x
+moves. Source: Manchester Guardian, 3 April 1958. Contributed by Ulrich Tamm,
+7 June 2022.} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.01"]
+[Round "7"]
+[White "Rakic, Tomislav"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "1-0"]
+[ECO "B22"]
+[Annotator "Golombek"]
+[PlyCount "45"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 $6 (5... Qc7 $142) 6. Bb3 d5
+7. cxd4 Nc6 8. Ne2 Bf5 9. Nbc3 e6 10. O-O a6 (10... h6 $142 11. Ng3 $140 Bh7)
+11. Ng3 Bg6 12. f4 Ne7 13. a4 h5 (13... Nf5 14. Nxf5 Bxf5 15. a5 Nd7 16. g4 $40
+) 14. a5 h4 $2 (14... Nbc8) 15. f5 exf5 (15... hxg3 16. fxg6 Nxg6 17. axb6 Rxh2
+18. Ba4+ $18) 16. Nge2 Nc4 17. Ba4+ Nc6 18. Bxc6+ bxc6 19. Qa4 Rc8 20. b3 h3
+21. bxc4 hxg2 22. Rf2 dxc4 23. Qxc4 {Source: BCM, Jul 1957, p188} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.01"]
+[Round "7"]
+[White "Wade, Robert Graham"]
+[Black "Rosselson, Leon"]
+[Result "1-0"]
+[ECO "C02"]
+[PlyCount "73"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Nge7 7. Na3 cxd4 8. cxd4
+Nf5 9. Nc2 h5 10. O-O Bd7 11. Rb1 a5 12. Be3 Nb4 13. a3 Nxc2 14. Qxc2 Be7 15.
+g3 O-O 16. h3 Rac8 17. Qd1 a4 18. g4 hxg4 19. hxg4 Nxe3 20. fxe3 Bb5 21. Rf2 g6
+22. Rh2 Kg7 23. Bd3 Bxd3 24. Qxd3 Rh8 25. Rf2 Qb3 {?? Rosselson} 26. Qxb3 axb3
+27. Rd2 Bh4 28. Rbd1 Bd8 29. Rd3 Rc2 30. R1d2 Ba5 31. Rf2 Rh3 32. Kg2 Rh8 33.
+Rxb3 Rc1 34. Rxb7 Rhh1 35. b4 Bd8 36. Ra2 Ra1 37. Rc2 {('R-B2'). Source:
+Rosselson Scorebook 2, Game 19} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.02"]
+[Round "8"]
+[White "Gligoric, Svetozar"]
+[Black "Lloyd, David Edward"]
+[Result "1-0"]
+[ECO "A84"]
+[Annotator "Golombek"]
+[PlyCount "81"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Bf4 c6 5. e3 Nf6 6. Bd3 Ne4 $6 (6... Nbd7 $2 7.
+cxd5 cxd5 8. Nb5) (6... Bd6 $142) 7. Nge2 Bd6 8. O-O O-O 9. f3 Nxc3 10. bxc3
+Qe7 (10... Bxf4 $142 11. Nxf4 Rf6) 11. Qb3 Kh8 12. Bxd6 Qxd6 13. e4 dxc4 (13...
+dxe4 14. fxe4 Nd7 15. c5 Qe7 16. Nf4 $18) 14. Bxc4 e5 15. f4 $1 exd4 16. e5 Qe7
+17. Nxd4 Nd7 18. Rad1 (18. Ne6 Nc5) 18... Nc5 19. Qa3 Re8 20. Nb3 Ne6 (20...
+Ne4 $4 21. Qxe7 Rxe7 22. Rd8+) 21. Qxe7 Rxe7 22. Rd6 g6 23. g3 a5 24. a4 Kg7
+25. Kf2 Kf8 26. Ke3 Ke8 27. Rb1 Bd7 28. Bxe6 Bxe6 29. Nc5 Bc8 30. Kd4 Kf7 31.
+c4 Ra7 32. Rd8 Rc7 33. Rb6 Ke7 (33... h5 $5) 34. Rh8 h5 35. Rh6 Kf8 36. Rxg6 h4
+37. e6 hxg3 38. hxg3 Rh7 39. Ke5 Ke7 40. g4 (40. Rg8 $1 Ra8 41. Rxc8 $1) 40...
+fxg4 41. f5 {Source: BCM, Jul 1957, p189} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.02"]
+[Round "8"]
+[White "Rosselson, Leon"]
+[Black "Spiller, Arthur Raymond"]
+[Result "1-0"]
+[ECO "E26"]
+[PlyCount "43"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Nc6 8. Nf3
+Ba6 9. e4 Na5 10. e5 Ng8 11. Ng5 $5 $16 f5 12. exf6 ({Stockfish 15:} 12. O-O
+$16) 12... Nxf6 13. Bxh7 Qc7 14. Bg6+ Ke7 15. Qf3 Rxh2 $1 $15 16. Rg1 Bb7 17.
+Bf4 Bxf3 18. Bxc7 Rxg2 $4 ({Stockfish 15:} 18... Rh6 $11) 19. Nxf3 $18 Rxg1+
+20. Nxg1 d6 21. dxc5 Nxc4 22. Bxd6+ {Source: Rosselson Scorebook 2, Game 20}
+1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.02"]
+[Round "8"]
+[White "Wade, Robert Graham"]
+[Black "Wood, Baruch Harold"]
+[Result "1-0"]
+[ECO "B76"]
+[PlyCount "75"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+a6 9. a3 b5 10. Ba2 Bb7 11. Qd2 Nbd7 12. h4 h5 13. O-O-O Rc8 14. g4 Ne5 15.
+gxh5 Nxh5 16. Rdg1 Nc4 17. Bxc4 Rxc4 18. Rg5 Qc7 19. Rxh5 gxh5 20. Rg1 Rxd4 21.
+Bxd4 f6 22. Be3 Rf7 23. Qg2 e6 24. Qg6 d5 25. Qxh5 f5 26. exd5 Qe5 27. Bh6 exd5
+28. Nd1 d4 29. f4 Qc7 30. Bxg7 Qxf4+ 31. Kb1 Rxg7 32. Qe8+ Kh7 33. Rxg7+ Kxg7
+34. Qe7+ Kh6 35. Qxb7 Qd2 36. Qf3 f4 37. Nf2 a5 38. Nd3 {Source: Ajedrez
+Espanol. Contributed by Gerald Hartmann, 6 June 2022} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.03"]
+[Round "9"]
+[White "Gligoric, Svetozar"]
+[Black "Wade, Robert Graham"]
+[Result "1/2-1/2"]
+[ECO "D29"]
+[PlyCount "49"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 e6 5. Bxc4 a6 6. O-O Nf6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Nbd7 10. Nc3 Be7 11. d5 exd5 12. Bxd5 Bxd5 13. Nxd5 Nxd5 14. Rxd5
+Qc7 15. e4 O-O 16. Bg5 Nb6 17. Bxe7 Qxe7 18. Re5 Qc7 19. Rg5 Rfe8 20. Nh4 Qf4
+21. Rg4 Qe5 22. Re1 Rad8 23. h3 g6 24. Nf3 Qe7 25. Qc2 {Source: Ajedrez
+Espanol. Contributed by Gerald Hartmann, 6 June 2022} 1/2-1/2
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.03"]
+[Round "9"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Rosselson, Leon"]
+[Result "1-0"]
+[ECO "E68"]
+[PlyCount "97"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. g3 g6 5. Bg2 Bg7 6. d4 exd4 7. Nxd4 Nbd7 8.
+O-O O-O 9. e4 Nc5 10. h3 a5 11. Rb1 Bd7 12. Re1 Qc8 13. Kh2 Re8 14. b3 Nh5 15.
+Be3 Nf6 16. f3 Ne6 17. Nde2 Bc6 18. Qc2 Nd7 19. Rbd1 h5 20. f4 Nec5 21. Nd4 Na6
+22. a3 Nb6 23. Nxc6 bxc6 24. Ne2 a4 25. b4 Qe6 26. Rc1 c5 27. b5 Nb8 28. Bf2
+Ra7 29. Ng1 N8d7 30. Nf3 Qf6 31. Re2 Bh6 32. h4 Re7 33. Rce1 Qe6 34. Nd2 Ra8
+35. e5 Rae8 36. Bh3 f5 37. exf6 Qxf6 38. Rxe7 Rxe7 39. Rxe7 Qxe7 40. Qxg6+ Qg7
+41. Be6+ Kh8 42. Qxh5 Nf6 43. Qf5 Nbd7 44. Nf3 Qh7 45. Ng5 Qxf5 46. Bxf5 Kg8
+47. Ne6 Ne8 48. Nxc7 Nxc7 49. Bxd7 {Source: Rosselson Scorebook 2, Game 21} 1-0
+
+[Event "Stevenson Memorial 5th"]
+[Site "Bognor Regis"]
+[Date "1957.05.04"]
+[Round "10"]
+[White "Rosselson, Leon"]
+[Black "Harris, Geoffrey F"]
+[Result "1/2-1/2"]
+[ECO "D50"]
+[PlyCount "105"]
+[EventDate "1957.04.24"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2016.04.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2016.04.14"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c5 5. cxd5 cxd4 6. Qxd4 Be7 7. e4 Nc6 8.
+Bb5 exd5 9. Nf3 O-O 10. Bxc6 bxc6 11. e5 Ne4 12. Bxe7 Qxe7 13. Nxe4 dxe4 14.
+Qxe4 Ba6 15. O-O-O Qc5+ 16. Kb1 Rab8 17. Rd2 Rfd8 18. Qc2 Qb4 19. Rhd1 Rd5 20.
+Rxd5 cxd5 21. Rd4 Qb5 22. Qd2 Qf1+ 23. Ne1 Rb5 24. b4 Bb7 25. a4 Rb6 26. Kb2
+Re6 27. f4 f6 28. Nd3 fxe5 29. fxe5 h6 {('P-R3')} 30. Rf4 Qg1 31. Nc5 Rxe5 32.
+Nxb7 Qxh2 33. Rf2 Qh4 34. Nc5 Qe7 35. a5 Kh8 36. Nd3 Re3 37. Nf4 Qe5+ 38. Ka2
+Qe8 39. Ng6+ Kh7 40. Nf8+ Kh8 41. Qc2 Re4 42. a6 Qb5 43. Ng6+ Kh7 44. Ne7 Qxa6+
+45. Kb3 {?? Rosselson} (45. Kb1 $18) 45... Qc4+ 46. Qxc4 dxc4+ 47. Kc3 Rxe7 $19
+48. Kxc4 Kg6 49. Kb5 Kg5 50. Ka6 Kg4 51. Rf8 Kg3 $2 ({Stockfish 15:} 51... h5
+$19) 52. Ra8 Kxg2 53. b5 {Source: Rosselson Scorebook 2, Game 22} 1/2-1/2
+
+
+

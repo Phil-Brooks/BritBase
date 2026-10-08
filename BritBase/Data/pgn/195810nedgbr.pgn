@@ -1,0 +1,570 @@
+﻿[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.1"]
+[White "Penrose, Jonathan"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.2"]
+[White "Van Donk, Henk J"]
+[Black "Alexander, C Hugh O'D"]
+[Result "0-1"]
+[ECO "A42"]
+[PlyCount "30"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+{N.B. Opening move order not known...} 1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nc6
+5. Be3 e5 6. dxe5 {Moves from here given in the source} Nxe5 $5 7. Be2 Ne7 8.
+f4 N5c6 9. Qd2 f5 10. Nf3 fxe4 11. Nxe4 d5 12. Ng3 dxc4 13. Qxd8+ Nxd8 14. Bd4
+O-O 15. Bxc4+ Be6 {"and Black's queenside majority won a long ending" (Barden)
+... x moves. Source: BCM, April 1961, p98 (exact opening move order not known)}
+0-1
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.3"]
+[White "Clarke, Peter Hugh"]
+[Black "Cortlever, Nicolaas"]
+[Result "1-0"]
+[ECO "C83"]
+[Annotator "Clarke"]
+[PlyCount "81"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Nxd2 12. Qxd2 Na5 (12... Qd7 13. Qd3 Na5 14.
+Bc2 g6 15. Nd4 (15. Bh6 Bf5 $10) 15... c5 $10) 13. Nd4 $1 (13. Bc2 Nc4 14. Qd3
+g6 15. Bh6) 13... c5 (13... Nxb3 14. Nxb3) (13... Nc4 14. Qe2 $1 Nxe5 $140 $2
+15. Nxe6 fxe6 16. Bd4) 14. Nxe6 fxe6 15. Bc2 Nc6 (15... Nc4 16. Qd3 g6 (16...
+Rf5 17. f4 Nxb2 (17... Nxe3 18. Qxe3 $40) 18. Qe2 Rf7 19. Qh5 g6 20. Bxg6 $1)
+17. Bh6 Rf5 18. Qh3 Rxe5 19. Rae1 $14) 16. f4 (16. Qd3 g6 17. Bh6 Re8 18. Qg3 (
+18. Rfe1 Qd7 $13) 18... Bh4 $13) 16... d4 17. cxd4 cxd4 (17... Nxd4 $2 18. Bxd4
+cxd4 (18... Qxd4+ $2 19. Qxd4 cxd4 20. Bb3) 19. Qd3 $16) 18. Bf2 d3 $1 19. Bb3
+(19. Qxd3 Qxd3 20. Bxd3 Rxf4) (19. Bxd3 Nb4 20. Rad1 Nxd3 21. Qxd3 Qxd3 22.
+Rxd3 Rxf4) 19... Qd7 20. Rad1 Kh8 $1 21. Be3 (21. a3 b4 22. a4 Na5 $1) 21...
+Rad8 22. Bb6 Rb8 23. Qe3 Nb4 $2 (23... Qc8 $1 24. Kh1 (24. Rxd3 Nxe5 $1 25.
+fxe5 Rxb6 $1) (24. Bc5 Bxc5 25. Qxc5 Rd8) 24... Nb4 25. a3 Nc2 26. Qxd3 Nxa3
+27. Bd4 $13) 24. Bc5 $2 (24. a3 $1 Qc6 (24... Qb7 25. Bd4) 25. Ba7 Rb7 26. axb4
+) 24... Bxc5 $2 (24... Rfd8 25. Bxe7 Qxe7 26. a3 Nc2) 25. Qxc5 a5 26. a3 Na6 (
+26... Rbc8 27. Qe3 Nc2 28. Bxc2 Rxc2 29. Rxd3 $18 {_|_}) 27. Qe3 $1 (27. Qd6 $2
+Qxd6 28. exd6 Nc5 $17) 27... Rbd8 28. Rf3 Qc6 (28... d2 29. Rf2 Qd4 30. Qxd4
+Rxd4 31. Rdxd2) 29. Rxd3 Rxd3 30. Qxd3 Nc5 (30... Qc1+ 31. Rf1 Qxb2 32. Qd6 $18
+) 31. Qd6 $1 Qxd6 32. exd6 Rd8 (32... Nxb3 33. Rxb3 $18) 33. Rc3 $1 Ne4 34. Rc6
+g6 35. Bxe6 Rxd6 (35... Nxd6 $142) 36. Rxd6 Nxd6 37. Kf2 Kg7 38. Ke3 Kf6 39.
+Bd5 g5 40. fxg5+ Kxg5 41. Kd4 {Source: BCM, December 1958, p334} 1-0
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.4"]
+[White "Kramer, Haije J"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.5"]
+[White "Barden, Leonard William"]
+[Black "Van Scheltinga, Theo D"]
+[Result "1-0"]
+[ECO "B42"]
+[PlyCount "61"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Nf6 6. Bd3 d5 $2 (6... Nc6) 7.
+e5 Nfd7 (7... Ne4 8. Bxe4 dxe4 9. Nc3 Qc7 10. Qd2 Qxe5 11. O-O-O $32) 8. Nxe6
+$5 (8. f4 $1) 8... Bb4+ (8... fxe6 $4 9. Qh5+ g6 10. Bxg6+ hxg6 11. Qxg6+ Ke7
+12. Bg5+) 9. c3 fxe6 10. cxb4 (10. Qh5+ g6 11. Bxg6+ hxg6 12. Qxg6+ Kf8 13.
+Bh6+ Rxh6 14. Qxh6+ Kf7 15. cxb4 Nc6 (15... Nxe5 $2 16. Qh7+ Kf6 $2 17. Qh4+)
+16. O-O Ndxe5 $17) 10... Nxe5 11. Qh5+ (11. Be2 $142 $5 Nbc6 12. f4 Nf7 13. O-O
+O-O (13... Nxb4 14. Nc3 $15) 14. Bd4 Nxb4 (14... e5 15. fxe5 Nfxe5 16. Nc3 {^^}
+) 15. Bxg7) 11... Nf7 12. O-O (12. f4 Nc6 13. a3 e5) 12... Nd7 $2 (12... Nc6 $1
+13. a3 e5 $17 {[+]}) 13. f4 Nf6 14. Qh4 d4 (14... O-O 15. Nd2) 15. Bf2 b5 16.
+Nd2 Bb7 17. Rfe1 O-O (17... Qd5 18. Ne4 $40) 18. Rxe6 Nh6 $2 (18... Qd5 $142
+19. Ne4 Nh6 (19... Qxe6 $2 20. Nxf6+) 20. Re5 (20. Rd6 Nf5 21. Rxd5 Nxh4) 20...
+Qd7 21. Rc5 Qe7 $132) 19. Rae1 Nd5 (19... Nfg4 $142 20. Qxd8 Raxd8 21. Bh4 $16)
+20. Qg3 Nxf4 21. Re7 (21. Rxh6 Nxd3) 21... Nh5 22. Qg5 (22. Qe5 $2 Rxf2 $1)
+22... Qd5 23. R1e5 Qxa2 24. Rxb7 Qxb2 25. Ree7 Qc1+ 26. Bf1 Nf5 27. Rec7 Qd1
+28. Nf3 d3 29. Qxh5 d2 30. Rd7 $138 (30. Rxg7+ $1 Nxg7 31. Rxg7+ Kxg7 32. Qg4+
+Kf6 (32... Kh8 33. Bd4+) (32... Kh6 33. Qg5#) 33. Bh4+ Kf7 34. Ne5+) 30... Rad8
+31. Qg5 {Source: BCM, December 1958, p335} 1-0
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.6"]
+[White "Muhring, Willem Jan"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.7"]
+[White "Fuller, John Arthur"]
+[Black "Roessel, Frits"]
+[Result "0-1"]
+[ECO "B29"]
+[PlyCount "74"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nxc3 5. bxc3 d5 6. Bb5+ Nc6 7. h3 Bf5 8.
+O-O e6 9. a4 Be7 10. Ba3 Qa5 11. Qb1 O-O 12. Bd3 Bxd3 13. cxd3 Rfc8 14. d4 Rc7
+15. dxc5 Bxc5 16. Qb5 Bxa3 17. Rxa3 a6 18. Qb2 Qc5 19. d4 Qe7 20. a5 Na7 21.
+Rb3 Nb5 22. Re1 Rac8 23. Re3 Rc4 24. Nd2 Ra4 25. Rb4 Rxb4 26. cxb4 h6 27. Rb3
+Qc7 28. Nf3 Qc1+ 29. Qxc1 Rxc1+ 30. Kh2 Rd1 31. Kg3 Nxd4 32. Nxd4 Rxd4 33. f4
+g5 34. fxg5 hxg5 35. Kf3 Kg7 36. g3 Re4 37. b5 Ra4 0-1
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.8"]
+[White "Spanjaard, Eduard"]
+[Black "Parr, Frank"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+ 0-1
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.9"]
+[White "Cafferty, Bernard"]
+[Black "Barendregt, Johan Teunis"]
+[Result "1/2-1/2"]
+[Annotator "blank"]
+[PlyCount "4"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 {... Pirc Defence, x moves} 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.25"]
+[Round "1.10"]
+[White "Orbaan, Constant"]
+[Black "Fazekas, Stefan"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.1"]
+[White "Euwe, Max"]
+[Black "Penrose, Jonathan"]
+[Result "1-0"]
+[ECO "B06"]
+[PlyCount "105"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Bc4 c5 5. dxc5 Qa5+ 6. c3 Qxc5 7. Qb3 e6 8. Be3
+Qc7 9. Na3 Bd7 10. Bf4 Ne7 11. Rd1 Nc8 12. Nd4 O-O 13. Nab5 Bxb5 14. Nxb5 Qc6
+15. O-O Be5 16. Bh6 Bg7 17. Bxg7 Kxg7 18. Nd4 Qb6 19. Bxe6 fxe6 20. Nxe6+ Kg8
+21. Nxf8+ Qxb3 22. axb3 Kxf8 23. e5 Nd7 24. f4 a5 25. f5 gxf5 26. Rxf5+ Ke7 27.
+Rh5 Nf8 28. Rd5 b6 29. Rh6 dxe5 30. Rxe5+ Kf7 31. Rc6 Ng6 32. Rc7+ Nge7 33. Rb7
+a4 34. bxa4 Rxa4 35. h3 Ra1+ 36. Kh2 Rd1 37. c4 Rc1 38. Rc7 Rb1 39. Re2 Rc1 40.
+b4 Rb1 41. b5 Rc1 42. Re4 Rc3 43. Rh4 Kg6 44. Rd4 h5 45. Rd8 h4 46. Rdxc8 Nxc8
+47. Rxc8 Rc2 48. Rc6+ Kf5 49. Rxb6 Rxc4 50. Rb8 Rb4 51. b6 Kf6 52. b7 Kg7 53.
+Rd8 1-0
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.2"]
+[White "Alexander, C Hugh O'D"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+ 0-1
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.3"]
+[White "Cortlever, Nicolaas"]
+[Black "Clarke, Peter Hugh"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.4"]
+[White "Golombek, Harry"]
+[Black "Kramer, Haije J"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.5"]
+[White "Van Scheltinga, Theo D"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "A43"]
+[PlyCount "99"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 c5 5. d5 Nf6 6. Nc3 Na6 7. O-O Nc7 8. a4 a6
+9. Bf4 O-O 10. Nd2 Bd7 11. a5 Rb8 12. Nc4 Nb5 13. e5 Nxc3 14. bxc3 Ne4 15. Ra3
+Bb5 16. exd6 Nxd6 17. Nb6 c4 18. Re1 Qc7 19. Bf3 Rbe8 20. Qd2 Qc5 21. Raa1 Nc8
+22. Nxc8 Qxc8 23. Bh6 Qd8 24. Re4 e5 25. dxe6 Rxe6 26. Rxe6 fxe6 27. Qxd8 Rxd8
+28. Bxg7 Kxg7 29. Bxb7 Rd2 30. Be4 Re2 31. f3 Rd2 32. Kf1 Kf6 33. f4 e5 34. Ke1
+Rd6 35. fxe5+ Kxe5 36. Bf3 Kf4 37. Ke2 Re6+ 38. Kf2 Rd6 39. g3+ Kf5 40. Ke3 Ke5
+41. Be2 Rd5 42. Rf1 Ke6 43. Rf4 Re5+ 44. Re4 Kd5 45. Bf3 Rxe4+ 46. Bxe4+ Ke5
+47. Bb7 g5 48. g4 h6 49. h3 Kd6 50. Kd4 1-0
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.6"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Muhring, Willem Jan"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.7"]
+[White "Roessel, Frits"]
+[Black "Fuller, John Arthur"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+ 1-0
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.8"]
+[White "Parr, Frank"]
+[Black "Spanjaard, Eduard"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+ 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.9"]
+[White "Barendregt, Johan Teunis"]
+[Black "Cafferty, Bernard"]
+[Result "1/2-1/2"]
+[Annotator "blank"]
+[PlyCount "2"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Netherlands"]
+[BlackTeam "Great Britain"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "GBR"]
+
+1. e4 Nf6 {... Alekhine's Defence, x moves} 1/2-1/2
+
+[Event "NED-GBR m"]
+[Site "Vlissingen"]
+[Date "1958.10.26"]
+[Round "2.10"]
+[White "Fazekas, Stefan"]
+[Black "Orbaan, Constant"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1958.10.25"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "NED"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Great Britain"]
+[BlackTeam "Netherlands"]
+[WhiteTeamCountry "GBR"]
+[BlackTeamCountry "NED"]
+
+ 0-1
+

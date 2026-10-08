@@ -1,0 +1,722 @@
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.11"]
+[Round "1"]
+[White "Alexander, Frederick Forrest L"]
+[Black "Knight, Anthony Henry"]
+[Result "1-0"]
+[ECO "A80"]
+[PlyCount "57"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Nc3 e6 3. e4 fxe4 4. Nxe4 Be7 5. Bd3 d5 6. Ng3 Nf6 7. Nf3 c5 8. c3
+cxd4 9. cxd4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 O-O 12. O-O Nbd7 13. Rae1 Re8 14. Re2
+Nf8 15. Rfe1 Bd7 16. Ne5 Rc8 17. Qg5 Rc7 18. Re3 Bc6 19. Rf3 N6d7 20. Qh5 Nxe5
+21. Rxe5 g6 22. Qh6 Rg7 23. h4 Ree7 24. h5 Qe8 25. hxg6 hxg6 26. Nh5 gxh5 27.
+Rxh5 Nh7 28. Bxh7+ Rxh7 29. Rg3+ {Source: CHESS, November 1951, p27} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.12"]
+[Round "2"]
+[White "Teschner, Rudolf"]
+[Black "Trott, Arthur Henry"]
+[Result "0-1"]
+[ECO "E24"]
+[PlyCount "60"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d5 7. e3 c5 8. cxd5
+Nxd5 9. Qd2 Qa5 10. Bb2 Nc6 11. e4 Nb6 12. Rd1 Rd8 13. Kf2 Ne5 14. Bc1 Na4 15.
+Ne2 b6 16. Qc2 Nc4 17. d5 b5 18. dxe6 Bxe6 19. Rxd8+ Rxd8 20. g3 Ne5 21. Nf4
+Qxc3 22. Qxc3 Nxc3 23. Nxe6 fxe6 24. Bh3 Kf7 25. f4 Nd3+ 26. Ke3 Nxc1 27. Rxc1
+b4 28. axb4 cxb4 29. Ra1 b3 30. Rxa7+ Kf8 {Sources: The Times, 17 April 1951;
+BCM, May 1951, p145 - shared best game prize} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.13"]
+[Round "3"]
+[White "Alexander, Frederick Forrest L"]
+[Black "Ditt, Egon H"]
+[Result "0-1"]
+[ECO "E17"]
+[PlyCount "64"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nbd2 c5 8. b3
+Nc6 9. Bb2 Nxd4 10. Nxd4 Bxg2 11. Kxg2 cxd4 12. Bxd4 d5 13. e3 dxc4 14. Nxc4
+Qd5+ 15. Qf3 Rac8 16. Rad1 b5 17. Bxf6 Qxf3+ 18. Kxf3 Bxf6 19. Nd6 Rc2 20. Nxb5
+Rxa2 21. Rd7 a6 22. Ra7 h6 23. b4 Rb8 24. Nc7 Rxb4 25. Rxa6 Rc2 26. Ne8 Be5 27.
+Nd6 Kf8 28. Ra8+ Ke7 29. Nc8+ Kf6 30. h4 Bb8 31. Na7 Rc7 32. Ra1 Rbb7 {Source:
+Weser Kurier, 26.4.1951. Contributed by Ulrich Tamm, 5 June 2022.} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.13"]
+[Round "3"]
+[White "Brown, Bertram Goulding"]
+[Black "Teschner, Rudolf"]
+[Result "0-1"]
+[ECO "D87"]
+[PlyCount "70"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 O-O 9. O-O Nd7 10. Be3 Qc7 11. Bb3 b6 12. Qd2 Ba6 13. Rfd1 Rad8 14. Qb2 e5
+15. Ng3 exd4 16. cxd4 cxd4 17. Bxd4 Bxd4 18. Rxd4 Nc5 19. Rad1 Nd3 20. Qa1 Qf4
+21. Nh1 h5 22. Bc4 Bxc4 23. Rxc4 Nb2 24. Rxd8 Rxd8 25. Rc1 Qxc1+ 26. Qxc1 Rd1+
+27. Qxd1 Nxd1 28. Ng3 Nc3 29. a3 Nb5 30. a4 Nc3 31. a5 bxa5 32. e5 a4 33. Nf1
+Ne2+ 34. Kh1 a3 35. Nd2 Nd4 {Source: Deutsche Schachzeitung 1951, 174.
+Contributed by Ulrich Tamm, 5 June 2022.} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.13"]
+[Round "3"]
+[White "Tartakower, Saviely"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "0-1"]
+[ECO "E04"]
+[PlyCount "40"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. Nf3 (1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 c5 5. O-O Nc6 {is the move order
+according to BCM, but Thomas himself gives the game beginning 1 Nf3, etc.})
+1... d5 2. g3 Nf6 3. Bg2 e6 4. O-O c5 5. d4 Nc6 6. c4 dxc4 7. Qa4 Bd7 8. dxc5
+Bxc5 9. Qxc4 Be7 10. Nc3 Rc8 11. Qh4 O-O 12. e4 e5 13. Bh3 Nd4 14. Nxe5 Ng4 15.
+Bxg4 Bxh4 16. Nxd7 f5 17. Nxf8 fxg4 18. Be3 Nf3+ 19. Kh1 Qxf8 20. gxh4 Qd6 {
+Sources: "Chess for the Love of It" by A. R. B. Thomas (Routledge & Kegan Paul,
+1973), p35; BCM, May 1951, p144} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.13"]
+[Round "3"]
+[White "Trott, Arthur Henry"]
+[Black "Ravn, Palle"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[PlyCount "55"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. O-O c5 10. Qe2 Qb6 11. Rd1 Bb7 12. e4 Nxe4 13. d5 exd5 14. Rxd5 Be7 15.
+Rxd7 Kxd7 16. Ne5+ Kc7 17. f3 Nd6 18. Bf4 Rhe8 19. Nc1 a5 20. Nb3 g5 21. Be3
+Nxc4 22. Qxc4 Bd6 23. Nxc5 Bxc5 24. Bxc5 Qe6 25. Bd6+ Kxd6 26. Rd1+ Bd5 27.
+Rxd5+ Qxd5 28. Nxf7+ 1/2-1/2
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.14"]
+[Round "4"]
+[White "Bonham, Reginald Walter"]
+[Black "Hawes, Stephen ON"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "b5k1/2pp1ppp/8/1pPP4/8/1BP2QP1/1q3PK1/8 w - - 0 25"]
+[PlyCount "4"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+25. c6 Qa3 $4 26. Qe4 $4 (26. Qe3 $18 dxc6 $140 27. d6 $1) 26... dxc6 {and
+Black eventually won. Source: BCM, May 1951, p147} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.14"]
+[Round "4"]
+[White "Ditt, Egon H"]
+[Black "Illingworth, Leonard"]
+[Result "1-0"]
+[ECO "C56"]
+[PlyCount "53"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qh5 9. Nxe4 Be7 10. Bg5 Be6 11. Bxe7 Nxe7 12. Qxd4 O-O 13. Rad1 Nc6 14. Qe3
+Rae8 15. Neg5 h6 16. Nxe6 Rxe6 17. Qb3 Rg6 18. Re4 Qf5 19. Rde1 Qc8 20. Nh4 Rd6
+21. Qg3 Rd4 22. h3 Rfd8 23. c3 Rd3 24. Nf3 f5 25. Re7 Nxe7 26. Rxe7 g5 27. Qe5
+{Source: Chronik Bremer SG. Contributed by Ulrich Tamm, 5 June 2022.} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.14"]
+[Round "4"]
+[White "Horne, Dennis Morton"]
+[Black "Brown, Bertram Goulding"]
+[Result "1-0"]
+[ECO "C39"]
+[PlyCount "29"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2025.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2025.11.22"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Bg7 6. d4 Nf6 7. Nc3 d5 8. Bxf4 Be6 9. Bd3 Nbd7 10. exd5 Nxe5 11. Bxe5 Bxd5 12. O-O c6 13. Nxd5 cxd5 14. Qe2 Kf8 15. Qf2 {Source: Arbeiter Zeitung, 3 June 1954. Contributed by Alan A Smith, 27 November 2025.} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.16"]
+[Round "5"]
+[White "Christoph, Manfred"]
+[Black "Ditt, Egon H"]
+[Result "0-1"]
+[ECO "C91"]
+[PlyCount "64"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+d6 9. c3 Bg4 10. h3 Bxf3 11. Qxf3 exd4 12. Qd1 d5 13. e5 Ne4 14. cxd4 Bb4 15.
+Rf1 f6 16. Qd3 Kh8 17. Be3 fxe5 18. dxe5 Ne7 19. Bc2 c5 20. Qe2 Qc7 21. f4 Ng3
+22. Qd3 Nef5 23. Rf3 c4 24. Qxd5 Rad8 25. Qe6 Nxe3 26. Bxh7 Rd1+ 27. Kf2 Be1+
+28. Kg1 Ne2+ 29. Kh2 Bg3+ 30. Rxg3 Nf1+ 31. Kh1 Nfxg3+ 32. Kh2 Rh1# {Source:
+Chronik Bremer SG. Contributed by Ulrich Tamm, 5 June 2022.} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.16"]
+[Round "5"]
+[White "Ravn, Palle"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "0-1"]
+[ECO "C35"]
+[PlyCount "62"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. O-O Nc6 7. d4 d5 8. exd6
+Bxd6 9. Re1+ Ne7 10. h3 Nf6 11. Nc3 O-O 12. Nb5 Ng6 13. Nxd6 cxd6 14. Bd3 Nh5
+15. c4 Qf6 16. b4 Ng3 17. Bb2 Bf5 18. a4 Rfe8 19. Qd2 Bxd3 20. Qxd3 Nf5 21. Qb3
+Ngh4 22. Nxh4 Nxh4 23. Qc2 f3 24. d5 Qg5 25. g4 h5 26. Qf2 Rxe1+ 27. Qxe1 hxg4
+28. Bc1 Qf6 29. Ra3 gxh3 30. Kh2 f2 31. Qf1 Qe5+ {Source: The Times, 21 April
+1951} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.16"]
+[Round "5"]
+[White "Roele, M"]
+[Black "Rossolimo, Nicolas"]
+[Result "0-1"]
+[ECO "E46"]
+[PlyCount "62"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. Ng3 c5 8. dxc5
+dxc4 9. Bxc4 Qxd1+ 10. Nxd1 Bxc5 11. b4 Be7 12. Bb2 Bd7 13. e4 Rc8 14. Bd3 Ba4
+15. Ne3 Rd8 16. Ke2 Nc6 17. e5 Nd5 18. Nxd5 Rxd5 19. Be4 Rd7 20. Rhc1 Bg5 21.
+Rcb1 Rad8 22. Bc3 Bb5+ 23. Ke1 Nxe5 24. Ne2 Nd3+ 25. Kf1 Nf4 26. Bf3 Rd3 27. g3
+Rxf3 28. gxf4 Rxc3 29. fxg5 Rc2 30. Re1 Rdd2 31. Rac1 Rxe2 {Source: BCM, May
+1951, p146} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.16"]
+[Round "5"]
+[White "Tartakower, Saviely"]
+[Black "Fry, William James"]
+[Result "1-0"]
+[ECO "E81"]
+[PlyCount "55"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 Re8 8.
+O-O-O Nf8 9. g4 N6d7 10. h4 e5 11. d5 Qe7 12. h5 f6 13. hxg6 hxg6 14. Nge2 Nb6
+15. Ng3 Qf7 16. Bd3 g5 17. Nf5 Bxf5 18. exf5 Nfd7 19. Ne4 Qe7 20. Qf2 Rad8 21.
+Rh5 Kf7 22. Bxg5 fxg5 23. Nxg5+ Kg8 24. Ne6 Rc8 25. Rg5 Qxg5+ 26. Nxg5 Bh6 27.
+Qh4 Kg7 28. Qh5 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.16"]
+[Round "5"]
+[White "Trott, Arthur Henry"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "0-1"]
+[ECO "D09"]
+[PlyCount "56"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bg4 6. g3 Bb4 7. Bg2 Nge7 8. a3
+Bxd2+ 9. Qxd2 O-O 10. O-O Ng6 11. Rd1 Bxf3 12. Bxf3 Ncxe5 13. Bxb7 Rb8 14. Bg2
+Qf6 15. Qc2 Rfd8 16. f4 Ng4 17. Rd3 N6e5 18. Rd1 d3 19. exd3 Nxd3 20. Bd5 Qd4+
+21. Kf1 Rxd5 22. cxd5 Qxd5 23. Kg1 Qd4+ 24. Kf1 Qe4 25. Kg1 Ngf2 26. Kf1 Re8
+27. Rxd3 Nxd3 28. Qg2 Qe1# {Source: BCM, May 1951, p147} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.17"]
+[Round "6"]
+[White "Ditt, Egon H"]
+[Black "Horne, Dennis Morton"]
+[Result "0-1"]
+[ECO "C56"]
+[PlyCount "56"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 Be7 13. Qe2 Bf6 14.
+Bf4 Qf5 15. Bg3 d3 16. cxd3 Qxd3 17. Rc1 Qxe2 18. Rxe2 Rhe8 19. Rec2 Rd5 20. b4
+Re4 21. a3 a5 22. bxa5 Rxa5 23. Nd2 Re7 24. Ra2 Nb4 25. axb4 Rxa2 26. Nb1 Rb2
+27. Bd6 Rxb1 28. Rxb1 cxd6 {Source: BCM, May 1951, p146} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.17"]
+[Round "6"]
+[White "Fry, William James"]
+[Black "Trott, Arthur Henry"]
+[Result "0-1"]
+[ECO "D37"]
+[PlyCount "72"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. a3 Be7 4. Nc3 d5 5. Nf3 O-O 6. e3 Nbd7 7. cxd5 exd5 8.
+Bd3 c6 9. O-O Bd6 10. Qc2 Re8 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe4 Nf6 14. Bg5 h6
+15. Bxf6 Qxf6 16. Rfe1 Bg4 17. Qc3 Re7 18. Ne5 Bh5 19. g3 c5 20. f4 cxd4 21.
+Qxd4 Rae8 22. Bg2 g5 23. Rac1 Bc7 24. Qd2 Rd8 25. Qb4 a5 26. Qc4 gxf4 27. gxf4
+Rd2 28. Nf3 Bb6+ 29. Kh1 Rxg2 30. Kxg2 Qg6+ 31. Ng5 hxg5 32. Qc8+ Kh7 33. f5
+Qd6 34. Qc3 Qd5+ 35. Kg3 Qxf5 36. h3 Qf2# {Source: CHESS, November 1951, p40}
+0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.17"]
+[Round "6"]
+[White "Watson, Arthur Tijou"]
+[Black "Cole, Henry Holwell"]
+[Result "0-1"]
+[ECO "D90"]
+[PlyCount "94"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 c5 3. c3 cxd4 4. cxd4 Nc6 5. Nc3 g6 6. Bf4 Bg7 7. e3 Nf6 8. Bd3 O-O 9. Rc1 Nh5 10. Bg3 f5 11. Nxd5 Kh8 12. Rc5 e6 13. Nf4 Nxf4 14. Bxf4 Qb6 15. Rb5 Qd8 16. Qb3 h6 17. Bc4 Qe7 18. h4 b6 19. O-O Ba6 20. Ne5 Nxe5 21. Rxe5 Bxc4 22. Qxc4 Bxe5 23. Bxe5+ Kh7 24. Rc1 Qd7 25. Qb4 Rfc8 26. Rxc8 Rxc8 27. Qa3 g5 28. hxg5 hxg5 29. e4 Kg6 30. exf5+ exf5 31. b3 Rc2 32. f3 Kf7 33. b4 b5 34. Qa6 Rc6 35. Qa3 a6 36. Qe3 Kg6 37. g4 Qc8 38. gxf5+ Qxf5 39. d5 Qb1+ 40. Kg2 Qxa2+ 41. Kg3 Qxd5 42. Bd4 Re6 43. Qd3+ Qf5 44. Qxf5+ Kxf5 45. Bc5 Re2 46. Bb6 Rc2 47. Ba7 Rc4 {Source: H H Cole. The year of the game is not given on the scoresheet and It is uncertain whether the game was played in April 1950 or April 1951. The game was played in the sixth round, yet surprisingly Cole defeated Watson in the sixth round at both the 1950 and 1951 events. (JS note: Cole had Black in 1951 but White in 1950, so this game was played in the 1951 tournament.)} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.18"]
+[Round "7"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[ECO "C78"]
+[PlyCount "91"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8. Bc2
+c5 9. d4 Qc7 10. a4 Bd7 11. axb5 Bxb5 12. Re1 Nd7 13. dxe5 dxe5 14. Rxa5 Qxa5
+15. Qd5 O-O-O 16. Qxf7 Bd6 17. Na3 Qc7 18. Ng5 Rdf8 19. Nxb5 axb5 20. Qb3 c4
+21. Qxb5 Bc5 22. Rf1 Rf6 23. b4 Ba7 24. Ba4 Rhf8 25. Nf3 Nb6 26. Bd1 Nd7 27.
+Be2 Rb6 28. Qa4 Rg6 29. Bd2 Bb8 30. Be3 Qc6 31. Qxc6+ Rxc6 32. Nd2 Ra6 33. Nxc4
+Ra2 34. Bg4 Kc7 35. Rd1 Nf6 36. Be6 Rc2 37. Na3 Rb2 38. b5 Re8 39. b6+ Kb7 40.
+Bd5+ Nxd5 41. exd5 Rd8 42. c4 Rb3 43. Nb1 Bd6 44. Nd2 Rd3 45. c5 Bxc5 46. Bxc5
+{Source: BCM, May 1951, p144 - shared best game prize} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.18"]
+[Round "7"]
+[White "Tartakower, Saviely"]
+[Black "Ravn, Palle"]
+[Result "1-0"]
+[ECO "D45"]
+[PlyCount "43"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Ne5 Nxe5 7. dxe5 Nd7 8. f4
+f5 9. exf6 Qxf6 10. Be2 Bc5 11. O-O O-O 12. Kh1 (12. Qc2 g5 $1) 12... a6 13.
+Qc2 b5 14. cxb5 cxb5 15. Bd3 Qh4 (15... Qh6 16. Rf3 g6 17. Rh3 Qg7 18. Rg3 Rf6
+19. h4) 16. Bd2 Nf6 (16... Bb7 17. Rf3 d4 18. Ne4 dxe3 19. Rh3 Qxf4 20. Nxc5
+Nxc5 21. Bxh7+ $18) 17. Be1 Qh6 18. Rf3 Ng4 (18... e5 19. Nxd5) 19. Rh3 Nxe3
+20. Qe2 (20. Bxh7+ $6 Kh8 21. Rxh6 Nxc2 $146) 20... Qf6 (20... Qxf4 21. Bxh7+
+Kh8 22. Bd3+ Kg8 23. Bd2) 21. Bxh7+ (21. Rxe3 Bxe3 22. Qxe3 d4) 21... Kf7 22.
+Bh4 {Source: BCM, May 1951, p145} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.19"]
+[Round "8"]
+[White "Boxall, Ronald Frank"]
+[Black "Illingworth, Leonard"]
+[Result "1-0"]
+[ECO "A17"]
+[PlyCount "27"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Re1 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Ng5 Ne4 $2 (9... Nxe2+ $1 10. Rxe2 Bxg5 11. Bxb7 Nc6 12. Bxc6 (12. Bxa8
+$2 Nd4 $17) 12... dxc6 $15) 10. Bxe4 Bxe4 11. Qxe4 Bxg5 12. Qxa8 Qe7 13. Qxa7
+Qc5 14. d4 {Source: BCM, May 1951, p147} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.19"]
+[Round "8"]
+[White "Roele, M"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[ECO "C04"]
+[PlyCount "70"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 e6 2. e4 d5 3. Nd2 Nc6 4. Ngf3 f5 5. exf5 exf5 6. Bb5 Bd6 7. O-O Nge7 8.
+c4 O-O 9. c5 Bf4 10. Nb3 Bxc1 11. Rxc1 Bd7 12. Re1 Ng6 13. Bxc6 Bxc6 14. Na5
+Qd7 15. h4 Ba4 16. b3 Bb5 17. Nxb7 Rfe8 18. a4 Rxe1+ 19. Qxe1 Re8 20. Qd2 Be2
+21. h5 Bxf3 22. hxg6 Qc6 23. Rc3 Bxg2 24. Na5 Qxg6 25. Rg3 Qf6 26. Kxg2 f4 27.
+Rh3 g5 28. Qd1 Re7 29. b4 g4 30. Rh5 Re2 31. Re5 f3+ 32. Kg1 Ra2 33. Qe1 g3 34.
+Re8+ Kf7 35. Qe5 Qxe5 {Source: BCM, May 1951, p146} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.20"]
+[Round "9"]
+[White "Cole, Henry Holwell"]
+[Black "Heneage, Hugh Windsor Fiesch"]
+[Result "1-0"]
+[ECO "C00"]
+[Annotator "Saunders, John"]
+[PlyCount "15"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+{The score of this short game (in descriptive notation) looks suspicious to
+say the least as at least three of the moves are serious errors. JS} 1. e4 e6
+2. g3 ({In his old age (he was 78 when he played this game) Cole developed a
+penchant for offbeat lines and had previously tried} 2. b3 {in another
+tournament game in 1950. I should add that Heneage was also in his 70s when
+the game was played.}) 2... d5 3. Bg2 Nd7 {A strange choice since White could
+now take a free pawn on d5. But he doesn't do so.} 4. d4 Ngf6 {The score just
+gives 4...'Kt KB3'.} ({It's a long shot, but I wonder if Black may have played
+} 4... Ne7 {('Kt K7') here, despite the ambiguous move recorded. The rest of
+the score would then make more sense, albeit only slightly:} 5. Nc3 c5 6. Qe2
+dxe4 ({the reply} 6... cxd4 {is still good but now arguably less lethal than
+in the game as} 7. Nb5 {offers counterplay}) 7. Bxe4 {This is now more natural
+than in the game since it can't be captured by a knight.} Nd5 $4 {Still an
+horrendous blunder but players are forgiven one such oversight in a game,
+particularly if they are over 70 (I'm within months of attaining that age
+myself).} 8. Bxd5 {1-0. Unconvinced? No, neither am I.}) 5. Nc3 c5 {The score
+gives 'P QB4' here though only one BP can move, which is perhaps a sign that,
+on the previous turn, a piece may not have gone to f6 after all and thus
+obstructed the f-pawn.} 6. Qe2 {This is the point where my game inputter's
+instinct tells me there must be something wrong with the score of this game.
+This is just so horribly anti-positional and I find it hard to believe a
+player of Cole's ability would have played it.} dxe4 ({What did Cole have in
+mind after} 6... cxd4 {, I wonder. And why wouldn't Black have played it? My
+every instinct screams 'defective score'. Knight moves make no sense, and} 7.
+exd5 dxc3 8. dxe6 {is easily rebuffed.}) 7. Bxe4 {This feels equally
+implausible. Capture with the knight is both more natural and much better.} Nd5
+(7... cxd4 {now is arguably more decisive than on the previous move. Even a
+rank beginner could be expected to find it. Of the move played, words fail me..
+.}) 8. Bxd5 {Source: H H Cole. Contributed by Brian Denman, 6 June 2022. Brian
+has shown me the score which I may as well reproduce here: 1 PK4 PK3 2 PKKt3
+PQ4 3 BKt2 KtQ2 4 PQ4 KtKB3 5 KtQB3 PQB4 6 QK2 QPxP 7 BxP KtQ4 8 BxKt Resigns.
+It is clearly written, with one slight pecularity in that the 'Q' of White's
+move 6 is written over what looks like an original 'K'. This opens up the
+possibility of 6 Nge2 but then resignation after 7 Bxd5 would be a trifle
+premature. I therefore adjudicate this game 'defective score'! I'd be
+interested in attempts to reconstruct.} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.20"]
+[Round "9"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Roele, M"]
+[Result "0-1"]
+[ECO "E21"]
+[PlyCount "98"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 c5 6. Bg5 h6 7. Bh4 g5 8. Bg3 g4
+9. dxc5 Nc6 10. a3 Ba5 11. O-O-O gxf3 12. Nb5 bxc5 13. Qxf3 Rg8 14. Bh4 Rg6 15.
+e3 d5 16. cxd5 exd5 17. Qf4 Be6 18. e4 Rg4 19. Nd6+ Kd7 20. Qf3 Rxh4 21. exd5
+Nxd5 22. Nxf7 Qe7 23. Rxd5+ Bxd5 24. Qxd5+ Kc7 25. Bb5 Nd4 26. Qxa8 Nxb5 27.
+Rd1 Rc4+ 28. Kb1 Qe4+ 29. Qxe4 Rxe4 30. Nxh6 Re2 31. Ng4 c4 32. Rc1 c3 33. Rc2
+Re1+ 34. Rc1 Re2 35. Rc2 Re4 36. f3 Re1+ 37. Rc1 Re2 38. Rc2 Re1+ 39. Rc1 Re2
+40. Rc2 Re6 41. Rc1 Nd4 42. bxc3 Rb6+ 43. Ka2 Ne2 44. Rf1 Nxc3+ 45. Ka1 Ne2 46.
+Rb1 Rd6 47. Nf2 Rd2 48. Ne4 Bc3+ 49. Nxc3 Nxc3 {Source: BCM, May 1951, p146}
+0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.21"]
+[Round "10"]
+[White "Horne, Dennis Morton"]
+[Black "Hawes, Stephen ON"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4b3/2pn3p/1p1k2p1/1P1P1pP1/2PK3P/6N1/2B5/8 w - - 0 37"]
+[PlyCount "31"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+37. Bxf5 Nc5 38. Bc2 Bf7 39. Ne2 Nd7 40. Ng3 Nc5 41. Nh1 Be8 42. Nf2 Bd7 43. h5
+gxh5 44. Bxh7 h4 45. Bc2 h3 46. g6 Ke7 47. Ke5 h2 48. Kf4 Bh3 49. Kg5 Kf8 50.
+Kh6 Nd7 51. g7+ Kf7 52. Bg6+ {Source: BCM, May 1951, p148} 1-0
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.21"]
+[Round "10"]
+[White "Teschner, Rudolf"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[ECO "B09"]
+[PlyCount "71"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. Nd2
+Qxc5 9. Nb3 Qb6 10. Bf3 Nc6 11. Nd5 Nxd5 12. exd5 Nd4 13. Nxd4 Bxd4 14. c3 Bf2+
+15. Kf1 a5 16. Qe2 Bc5 17. g4 Bd7 18. Kg2 e6 19. dxe6 fxe6 20. h4 Rae8 21. g5
+e5 22. h5 exf4 23. Bd5+ Kg7 24. Qf3 Rf5 25. Bxf4 Qxb2+ 26. Kg3 Qf2+ 27. Qxf2
+Bxf2+ 28. Kxf2 Rxf4+ 29. Kg3 Rf5 30. hxg6 Rxg5+ 31. Kf2 Rf8+ 32. Ke3 Re5+ 33.
+Be4 Bf5 34. Rxh7+ Kxg6 35. Rh4 Rfe8 {game end - Source: BCM, May 1951, p145}
+36. Rg1+ {game end - Source: CHESS, Vol.16, no.188, p182} 0-1
+
+[Event "Stevenson Memorial 3rd"]
+[Site "Southsea"]
+[Date "1951.04.21"]
+[Round "10"]
+[White "Trott, Arthur Henry"]
+[Black "Roele, M"]
+[Result "1-0"]
+[ECO "A25"]
+[PlyCount "75"]
+[EventDate "1951.04.11"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.02"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nh6 6. Nh3 O-O 7. O-O d6 8. Bd2
+f6 9. f4 Nf7 10. Rb1 Ne7 11. Nf2 f5 12. b4 Bf6 13. b5 g5 14. Nd5 Nxd5 15. Bxd5
+exf4 16. gxf4 g4 17. Kh1 h5 18. Qc2 Kh7 19. Bc3 Nh6 20. Rbe1 Bh4 21. Kg2 Qd7
+22. c5 c6 23. bxc6 bxc6 24. Bb3 d5 25. e4 dxe4 26. dxe4 Ba6 27. Rg1 Bxf2 28.
+Qxf2 Bd3 29. e5 Be4+ 30. Rxe4 fxe4 31. Rd1 Qf5 32. e6 Rfd8 33. Rd6 g3 34. Qd4
+Qg4 35. Rd7+ Rxd7 36. Qxd7+ Kg8 37. e7+ Kh7 38. e8=Q+ {Source: BCM, May 1951,
+p147} 1-0
+

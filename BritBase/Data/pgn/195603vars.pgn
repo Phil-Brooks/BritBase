@@ -1,0 +1,245 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1956.03.24"]
+[Round "1"]
+[White "Persitz, Raaphi JA"]
+[Black "Lloyd, David Edward"]
+[Result "1-0"]
+[ECO "C06"]
+[Annotator "Persitz, Raaphi - CHESS Magazine"]
+[PlyCount "49"]
+[EventDate "1956.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "The Times"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 ({My opponent told me that he considered this a marked improvement upon} 
+1. Nh3 {, which I had recklessly ventured in the University match last year,
+with - incidentally - excellent results as far as the opening went. Though I
+cannot subscribe to this over-conventional view, still, since the present game
+can be taken to have lent some force to it, one perhaps should be fair and
+award Black the nebulous distinction and declare him "moral victor." Moreover,
+I am beginning to wonder why, while holding the above-mentioned view, he
+nevertheless allowed me to play the ostensibly stronger 1.e4.}) 1... e6 2. d4
+d5 3. Nd2 Nf6 ({Without in any way wishing to imply that it is basically
+unsound, one has to admit that this has long been one of those lines which
+constantly suffers from being in a perpetual state of rehabilitation. The main
+alternatives nowadays are} 3... c5 {and 3...Nc6. 3dxe4 has no independent
+status, while on 3...Bb4? 4.c3 is available now.}) 4. e5 Nfd7 (4... Ne4 {
+has never - to the best of my knowledge - been properly refuted.}) 5. Bd3 c5 6.
+c3 b6 ({More frequently seen in master practice is} 6... Nc6 {, eventually
+followed by ...f6 to undermine the white centre. The text, which prepares for .
+..Ba6, aims to exchange the ever-valuable white KB for the comparatively
+useless French bishop.}) 7. Ne2 (7. Qe2 {, to thwart the above-mentioned plan,
+can be effectively answered by} cxd4 8. cxd4 Nc6 9. Ngf3 Nb4 {and so on.}) 7...
+Ba6 8. Bxa6 ({One can, if one so desires, retain the powerful bishop and
+retreat to c2 [with} 8. Bc2 {] but then one has of course to reckon with a
+troublesome sniper along the a6-f1 diagonal. The text, at least, has the merit
+of temporarily dislodging the b8 knight.}) 8... Nxa6 9. O-O Be7 ({More
+promising than this, which appears to be the "book move" is I think} 9... f5 {
+in order after} 10. exf6 {(as in the game)} ({If, on 9...f5} 10. Nf4 Qe7 ({
+not, of course,} 10... Nc7 {because of} 11. Qh5+) 11. Qh5+ Qf7) 10... Qxf6 {
+, to be able to post the bishop more actively at d6.}) 10. Ng3 ({The present
+world champion [Botvinnik] and others before and after him, have, in similar
+positions, often shown preference for the pawn-storm strategy:} 10. f4 {
+, etc! The text, although by no means more promising, tends to lay more stress
+on fluid piece-play and might well appeal to a player like Keres, for instance.
+}) 10... f5 $2 ({Played now, this can be already regarded as the losig move,
+in spite of the fact that only one tempo earlier, it would have served well.
+Keres (versus Kotov as White [Soviet Championship, 1948]) tried here} 10... O-O
+{first, and after} 11. Qg4 f5 12. exf6 {was able to retake with the rook.
+Nevertheless, he did not obtain a fully satisfactory position, and evetually
+lost after a few vicissitudes.}) 11. exf6 Bxf6 ({Not} 11... Nxf6 $2 12. Qa4+)
+12. Qg4 Nc7 13. Nf3 O-O (13... Qe7 14. Bf4 O-O-O 15. Rfe1 {and so on, is the
+greater evil.}) 14. Bf4 {Threatening to win the backward e-pawn by way of 15.
+Bxc7, and preventing the freeing ...e5.} Re8 {Forced.} 15. Rfe1 {Renewing the
+threat.} Nf8 16. Nh5 Rc8 ({On} 16... Nb5 {at once,} 17. a4 {(followed by 18.
+BxN etc.) is most disagreeable}) ({while if} 16... Kh8 17. Ng5 Bxg5 18. Bxg5
+Qd7 (18... Qd6 19. Nxg7 $1 {etc}) 19. Nf6 {is possible, among other things.}) (
+{Finally, if} 16... Re7 $2 17. Nxf6+) 17. Ne5 ({Menacing 18.Nc6, followed by
+19.Nxf6 winning. Just as forceful, though perhaps a trifle too unkind is} 17.
+Ng5 $1 {gaining material in all variations.}) (17. Be5 {also has its points.})
+17... Nb5 {(!)} ({Avoiding 18.Nc6, and planning, if given the time, ...Nd6-f5 
+(or e4). Other moves: (1)} 17... Kh8 18. Nf7+) ({(2)} 17... g6 18. Nc6) ({(3)} 
+17... Bxe5 18. Bxe5 {are hopeless}) 18. Bh6 $1 Qe7 (18... Rc7 19. Nc6 Rxc6 20.
+Bxg7 {leads to disaster.}) ({So does} 18... g6 19. Bxf8 Kxf8 (19... Rxf8 20.
+Qxe6+) 20. Nxf6 Qxf6 21. Nd7+) 19. Re3 Nd6 ({Hereabouts,} 19... Bxe5 20. dxe5 {
+results in the loss of the exchange (at least).}) 20. Rf3 $1 ({Not so good is} 
+20. Rg3 {because of} Rc7 {or 20...g6.}) 20... Nf5 ({Or (1)} 20... Kh8 21. Rxf6
+gxf6 22. Bg7+) ({(2)} 20... Ne4 21. Re1 Kh8 {and now, the double exchange
+"sacrifice"} 22. Rxe4 dxe4 23. Rxf6 {decides.}) 21. Nxf6+ {It is ironical that
+just when Black has succeeded in bringing the knight back into play, it is
+this very (now excellently posted) piece that robs the queen of her only
+flight square f5, thereby determing the game in White's favour.} Kh8 {(?)} ({
+The calmer} 21... Qxf6 22. Bg5 h5 {, etc, would prolong the agony (not long,
+after 23.Qf4 - ed [BH Wood])}) 22. Nxe8 Nxh6 (22... Qxe8 23. Rxf5) ({or} 22...
+Rxe8 23. Bg5 {and Black is a whole rook down.}) 23. Nf7+ Qxf7 {Otherwise 24.
+Qxg7 is mate.} 24. Rxf7 Nxg4 25. Rxf8# {Sources: The Times, 26 Mar 1956; BCM,
+May 1956, p140; CHESS, July 7, 1956, p282} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1956.03.24"]
+[Round "2"]
+[White "Rosselson, Leon"]
+[Black "Gardner, Kenneth L"]
+[Result "1/2-1/2"]
+[ECO "D51"]
+[PlyCount "81"]
+[EventDate "1956.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "The Times"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 Bb4 7. Bd3 c5 8.
+Nge2 cxd4 9. exd4 O-O 10. O-O Bxc3 11. bxc3 h6 12. Bh4 Nb6 13. Qb3 Bd7 14. a4
+Bc6 15. a5 Nc8 16. f3 Nd6 17. Bg3 Rc8 18. Bxd6 Qxd6 19. Ng3 g6 20. Qc2 Kg7 21.
+f4 Rfe8 22. Qd2 Ne4 23. Bxe4 dxe4 24. Qe3 f5 25. c4 Bd7 26. Rfc1 Rc7 27. Nf1
+Rec8 28. Nd2 Be8 29. c5 Qe6 30. Nc4 Bc6 31. a6 Rb8 32. Rab1 Bd5 33. Nd6 b6 34.
+Nb5 Rd7 35. Qc3 Rc8 36. Qb2 bxc5 37. dxc5+ Qf6 38. Qxf6+ Kxf6 39. Nd6 Rc6 40.
+Kf2 Rxa6 41. Rb8 {adjudicated (Source: The Times, 26 Mar 1956)} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1956.03.24"]
+[Round "3"]
+[White "Mutkin, Henry Gerald"]
+[Black "Collins, Malcolm F"]
+[Result "1-0"]
+[ECO "A04"]
+[PlyCount "53"]
+[EventDate "1956.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "The Times"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 Nc6 5. dxe4 h6 6. Nf3 e5 7. Bc4 Bc5 8.
+O-O d6 9. h3 Na5 10. Bb5+ Bd7 11. Bxd7+ Qxd7 12. a3 Nc6 13. Nc3 O-O 14. Nh4 Kh7
+15. Qd3 Nh5 16. Nf5 Nd4 17. Be3 Nxf5 18. exf5 Nf4 19. Bxf4 exf4 20. f6+ g6 21.
+Nd5 c6 22. Rae1 Rae8 23. Re7+ Rxe7 24. fxe7 Rf7 25. Re1 Qe8 26. Re6 Rg7 27.
+Nf6+ {Source: The Times, 26 Mar 1956} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1956.03.24"]
+[Round "4"]
+[White "Gray, Denis John Pereira"]
+[Black "Stern, Ken"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "37"]
+[EventDate "1956.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "The Times"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Be2 e6 4. d3 d5 5. exd5 exd5 6. Bf4 Nf6 7. Nf3 d4 8. Nb1
+Be7 9. Nbd2 O-O 10. Ne5 Nd5 11. Nxc6 bxc6 12. Bg3 f5 13. h3 f4 14. Bh2 Ne3 15.
+fxe3 Bh4+ 16. Kf1 fxe3+ 17. Nf3 Qd5 ({Black's 18th move was a grave blunder
+that lost offhand; instead by} 17... g5 {on the previous move, threatening ...
+h5 and ...g4, he could have preserved a winning advantage - The Times 
+(Golombek) (n.b. analysis engines disagree with this assessment, giving White
+an edge after 17...g5 - JS)}) 18. c3 Rb8 $4 19. Bxb8 {Source: The Times, 26
+Mar 1956} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1956.03.24"]
+[Round "5"]
+[White "Richards, David J"]
+[Black "Walker, Peter"]
+[Result "1/2-1/2"]
+[ECO "A97"]
+[PlyCount "80"]
+[EventDate "1956.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "The Times"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 f5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. Re1
+d5 9. Qc2 c6 10. cxd5 exd5 11. Bf4 Nh5 12. e3 Nd7 13. Rab1 Nb6 14. Nd2 g5 15.
+Be5 Bf6 16. f4 Bxe5 17. dxe5 d4 18. exd4 gxf4 19. gxf4 Nxf4 20. Re3 Be6 21.
+Rg3+ Kh8 22. Bf3 Rg8 23. Kf2 Rxg3 24. hxg3 Nh3+ 25. Kg2 Qg6 26. Rh1 Nf4+ 27.
+Kf2 Nfd5 28. Nxd5 Nxd5 29. a3 Rg8 30. Nf1 Nc7 31. Qc1 Qf7 32. Qc5 Rd8 33. Rh6
+Nb5 34. Rf6 Qd7 35. Rf8+ Kg7 36. Rxd8 Qxd8 37. Ke3 a6 38. a4 Nc7 39. Nd2 Nd5+
+40. Kf2 Qg5 {Source: The Times, 26 Mar 1956} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1956.03.24"]
+[Round "6"]
+[White "Taylor, John Dudley"]
+[Black "Ball, Robert James"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[PlyCount "76"]
+[EventDate "1956.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "The Times"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. f4 d5 2. b3 Nf6 3. Nf3 g6 4. e3 Bg7 5. Bb2 O-O 6. Be2 c5 7. O-O Nc6 8. Ne5
+d4 9. Nxc6 bxc6 10. Qc1 a5 11. Bf3 Nd5 12. Rd1 Qc7 13. Na3 Ba6 14. g3 e5 15. e4
+Nb6 16. d3 f5 17. exf5 Rxf5 18. Be4 Rff8 19. fxe5 Bxe5 20. Nc4 Nxc4 21. bxc4
+Bxg3 22. Qh6 Bf2+ 23. Kh1 Be3 24. Qh3 Bc8 25. Qh4 Bf2 26. Qg5 Bf5 27. Bg2 Be3
+28. Qg3 Bf4 29. Qh4 g5 30. Qh6 Bg6 31. Re1 Rae8 32. Ba3 Qd6 33. Rab1 Rxe1+ 34.
+Rxe1 Rf6 35. Qh3 Bf5 36. Qh5 Bg6 37. Qh3 Bf5 38. Qh5 Bg6 {Source: The Times,
+26 Mar 1956} 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1956.03.24"]
+[Round "7"]
+[White "Furmston, Michael P"]
+[Black "Cock, John C"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[PlyCount "85"]
+[EventDate "1956.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "The Times"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Bc4 Nb6 7. Bb5 cxd4 8.
+Nxd4 Bd7 9. O-O Nxd4 10. Qxd4 Bxb5 11. Nxb5 Qxd4 12. Nxd4 O-O-O 13. Be3 Nc4 14.
+b3 Nxe3 15. fxe3 e5 16. Nb5 a6 17. Nc3 Bc5 18. Rf3 f6 19. Ne4 Be7 20. Kf1 Kd7
+21. Nf2 Ke6 22. Ke2 f5 23. e4 g6 24. Rd1 Rxd1 25. Kxd1 Bc5 26. Ke2 Rd8 27. Rd3
+Rd6 28. exf5+ gxf5 29. g4 Rxd3 30. gxf5+ Kxf5 31. Nxd3 Bg1 32. h3 h5 33. c4 e4
+34. Nf2 Bxf2 35. Kxf2 Kf4 36. b4 e3+ 37. Ke2 Ke4 38. b5 axb5 39. cxb5 Kd4 40.
+h4 b6 41. a4 Kc5 42. Kxe3 Kb4 43. Kf4 {Source: The Times, 26 Mar 1956} 1/2-1/2
+

@@ -1,0 +1,1642 @@
+[
+  {
+    "Year": 1950,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1950.03.25",
+    "EndDate": "",
+    "GamesCount": "3/7",
+    "DateUpdated": "2022.04.10",
+    "PgnFileName": "195003vars.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "Birmingham U20",
+    "Winner": "B Haggqvist",
+    "StartDate": "1950.04.03",
+    "EndDate": "1950.04.15",
+    "GamesCount": "24+1",
+    "DateUpdated": "2025.10.20",
+    "PgnFileName": "195004birmjun.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "Birmingham Easter",
+    "Winner": "R W Bonham",
+    "StartDate": "1950.04.03",
+    "EndDate": "1950.04.15",
+    "GamesCount": "4+1^",
+    "DateUpdated": "2025.10.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1950,
+    "Name": "West of England",
+    "Winner": "H V W Trevenen",
+    "StartDate": "1950.04.06",
+    "EndDate": "1950.04.10",
+    "GamesCount": "2+1",
+    "DateUpdated": "2024.01.17",
+    "PgnFileName": "195004wecu.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "Southsea",
+    "Winner": "Tartakower, Bisguier",
+    "StartDate": "1950.04.12",
+    "EndDate": "1950.04.22",
+    "GamesCount": "61+3",
+    "DateUpdated": "2025.10.20",
+    "PgnFileName": "195004southsea.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "GBR-ch U18 Girls",
+    "Winner": "Jean Craker",
+    "StartDate": "1950.04.12",
+    "EndDate": "1950.04.15",
+    "GamesCount": "0",
+    "DateUpdated": "2022.05.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1950,
+    "Name": "Ilford Premier",
+    "Winner": "D Hooper, J Penrose",
+    "StartDate": "1950.05.26",
+    "EndDate": "1950.05.29",
+    "GamesCount": "7+3",
+    "DateUpdated": "2022.06.24",
+    "PgnFileName": "195005ilford.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "British Universities Ch",
+    "Winner": "Denis V Mardle",
+    "StartDate": "1950.07.17",
+    "EndDate": "1950.07.27",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "195054universityannual.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "IRL-ch Belfast",
+    "Winner": "T Vincent Maher",
+    "StartDate": "1950.07.17",
+    "EndDate": "1950.07.25",
+    "GamesCount": "",
+    "DateUpdated": "[ irlchess.com ]",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1950,
+    "Name": "GBR-ch Buxton",
+    "Winner": "R J Broadbent",
+    "StartDate": "1950.08.21",
+    "EndDate": "1950.09.01",
+    "GamesCount": "57+15/198",
+    "DateUpdated": "2023.05.29",
+    "PgnFileName": "195008bcf.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "GBR other",
+    "Winner": "",
+    "StartDate": "1950.08.21",
+    "EndDate": "1950.09.01",
+    "GamesCount": "8^",
+    "DateUpdated": "2022.06.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1950,
+    "Name": "GBR-ch U18",
+    "Winner": "Malcolm Barker",
+    "StartDate": "1950.04.17",
+    "EndDate": "1950.04.22",
+    "GamesCount": "3^",
+    "DateUpdated": "2022.06.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1950,
+    "Name": "Hastings 1950/51",
+    "Winner": "W Unzicker",
+    "StartDate": "1950.12.28",
+    "EndDate": "1951.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2020.08.09",
+    "PgnFileName": "195012hast.pgn"
+  },
+  {
+    "Year": 1950,
+    "Name": "Hastings subsid",
+    "Winner": "",
+    "StartDate": "1950.12.28",
+    "EndDate": "1951.01.06",
+    "GamesCount": "1^",
+    "DateUpdated": "2020.08.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1951,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1951.03.24",
+    "EndDate": "",
+    "GamesCount": "4/7",
+    "DateUpdated": "2022.04.10",
+    "PgnFileName": "195103vars.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "Southsea",
+    "Winner": "Rossolimo, Tartakower",
+    "StartDate": "1951.04.11",
+    "EndDate": "1951.04.21",
+    "GamesCount": "24+2",
+    "DateUpdated": "2026.06.24",
+    "PgnFileName": "195104southsea.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "Staunton Memorial",
+    "Winner": "Svetozar Gligoric",
+    "StartDate": "1951.05.28",
+    "EndDate": "1951.06.22",
+    "GamesCount": "120",
+    "DateUpdated": "2022.12.07",
+    "PgnFileName": "195105staunton.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "World Junior U20 Champ",
+    "Winner": "Borislav Ivkov",
+    "StartDate": "1951.06.11",
+    "EndDate": "1951.06.23",
+    "GamesCount": "98/99",
+    "DateUpdated": "2022.06.20",
+    "PgnFileName": "195106wchampu20.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "North of Thames vs South of Thames Match",
+    "Winner": "North of Thames",
+    "StartDate": "1951.06.16",
+    "EndDate": "",
+    "GamesCount": "6",
+    "DateUpdated": "2024.09.11",
+    "PgnFileName": "195106nthamessthames.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "BCF U20 Qualifier",
+    "Winner": "Malcolm Barker",
+    "StartDate": "1951.03.??",
+    "EndDate": "1951.03.30",
+    "GamesCount": "4^",
+    "DateUpdated": "2022.06.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1951,
+    "Name": "British Universities Ch",
+    "Winner": "Oliver Penrose",
+    "StartDate": "1951.07.16",
+    "EndDate": "1951.07.26",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "195054universityannual.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "IRL-ch Cork",
+    "Winner": "Austin Bourke",
+    "StartDate": "1951.07.16",
+    "EndDate": "1951.07.24",
+    "GamesCount": "",
+    "DateUpdated": "[ irlchess.com ]",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1951,
+    "Name": "Glorney Cup (Dublin) ( link )",
+    "Winner": "England",
+    "StartDate": "1951.07.25",
+    "EndDate": "1951.07.27",
+    "GamesCount": "3",
+    "DateUpdated": "2024.11.06",
+    "PgnFileName": "195107glorney.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "GBR-ch Swansea",
+    "Winner": "Ernst Klein",
+    "StartDate": "1951.08.20",
+    "EndDate": "1951.08.31",
+    "GamesCount": "58/165 + 20",
+    "DateUpdated": "2024.11.06",
+    "PgnFileName": "195108bcf.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "GBR other",
+    "Winner": "",
+    "StartDate": "1951.08.20",
+    "EndDate": "1951.08.31",
+    "GamesCount": "10^",
+    "DateUpdated": "2024.11.05",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1951,
+    "Name": "Britain v Yugoslavia",
+    "Winner": "Yugoslavia",
+    "StartDate": "1951.09.12",
+    "EndDate": "1951.09.13",
+    "GamesCount": "9+4/20",
+    "DateUpdated": "2024.11.07",
+    "PgnFileName": "195109gbryug.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "England v Scotland",
+    "Winner": "England",
+    "StartDate": "1951.09.15",
+    "EndDate": "",
+    "GamesCount": "2+1/8",
+    "DateUpdated": "2024.11.07",
+    "PgnFileName": "195109engsco.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "Paignton",
+    "Winner": "Harry Golombek",
+    "StartDate": "1951.09.17",
+    "EndDate": "1951.09.22",
+    "GamesCount": "21/28",
+    "DateUpdated": "2024.08.28",
+    "PgnFileName": "195109paignton.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "Oxford",
+    "Winner": "William Fairhurst",
+    "StartDate": "1951.10.29",
+    "EndDate": "1951.11.03",
+    "GamesCount": "15/15",
+    "DateUpdated": "2018.04.09",
+    "PgnFileName": "195110oxford.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "Hastings 1951/52",
+    "Winner": "Svetozar Gligoric",
+    "StartDate": "1951.12.27",
+    "EndDate": "1952.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2025.10.18",
+    "PgnFileName": "195112hast.pgn"
+  },
+  {
+    "Year": 1951,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1951.12.27",
+    "EndDate": "1952.01.05",
+    "GamesCount": "17^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1952,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1952.03.29",
+    "EndDate": "",
+    "GamesCount": "3/7",
+    "DateUpdated": "2022.06.02",
+    "PgnFileName": "195203vars.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Liverpool Student Comp.",
+    "Winner": "Taimanov,\n      Bronstein",
+    "StartDate": "1952.04.06",
+    "EndDate": "1952.04.13",
+    "GamesCount": "28+9",
+    "DateUpdated": "2022.09.04",
+    "PgnFileName": "195204liverpool.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Bolton Easter ( bulletin )",
+    "Winner": "Slade Milan",
+    "StartDate": "1952.04.11",
+    "EndDate": "1952.04.14",
+    "GamesCount": "15",
+    "DateUpdated": "2016.04.03",
+    "PgnFileName": "195204bolton.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Bolton other events",
+    "Winner": "",
+    "StartDate": "1952.04.11",
+    "EndDate": "1952.04.14",
+    "GamesCount": "39^",
+    "DateUpdated": "2016.04.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1952,
+    "Name": "Southsea",
+    "Winner": "D A Yanofsky",
+    "StartDate": "1952.04.16",
+    "EndDate": "1952.04.26",
+    "GamesCount": "27+1",
+    "DateUpdated": "2023.05.14",
+    "PgnFileName": "195204southsea.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Ilford Premier",
+    "Winner": "D A Yanofsky",
+    "StartDate": "1952.05.30",
+    "EndDate": "1952.06.02",
+    "GamesCount": "6+1",
+    "DateUpdated": "2024.06.09",
+    "PgnFileName": "195205ilford.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Ilford other",
+    "Winner": "",
+    "StartDate": "1952.05.30",
+    "EndDate": "1952.06.02",
+    "GamesCount": "6^",
+    "DateUpdated": "2024.06.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1952,
+    "Name": "GBR-NED London",
+    "Winner": "Netherlands",
+    "StartDate": "1952.05.31",
+    "EndDate": "1952.06.01",
+    "GamesCount": "20",
+    "DateUpdated": "2025.09.25",
+    "PgnFileName": "195205gbrned.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Klein-Barda, Radio Match",
+    "Winner": "Barda",
+    "StartDate": "1952",
+    "EndDate": "1952.05.30",
+    "GamesCount": "1^",
+    "DateUpdated": "2025.09.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1952,
+    "Name": "British Universities Ch",
+    "Winner": "Peter J Oakley",
+    "StartDate": "1952.06.26",
+    "EndDate": "1952.07.09",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "195054universityannual.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "GBR-ch Chester",
+    "Winner": "Robert G Wade",
+    "StartDate": "1952.08.18",
+    "EndDate": "1952.08.29",
+    "GamesCount": "62/154 + 8",
+    "DateUpdated": "2024.10.09",
+    "PgnFileName": "195208bcf.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "GBR other",
+    "Winner": "",
+    "StartDate": "1952.08.18",
+    "EndDate": "1952.08.29",
+    "GamesCount": "52^",
+    "DateUpdated": "2026.06.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1952,
+    "Name": "Paignton",
+    "Winner": "Leonard W Barden",
+    "StartDate": "1952.09.15",
+    "EndDate": "1952.09.20",
+    "GamesCount": "17/28+2",
+    "DateUpdated": "2023.02.10",
+    "PgnFileName": "195209paignton.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Hastings 1952/53",
+    "Winner": "H Golombek, A Medina, J Penrose, D Yanofsky",
+    "StartDate": "1952.12.30",
+    "EndDate": "1953.01.08",
+    "GamesCount": "45/45",
+    "DateUpdated": "2023.12.16",
+    "PgnFileName": "195212hast.pgn"
+  },
+  {
+    "Year": 1952,
+    "Name": "Hastings subsid",
+    "Winner": "1952.12.38",
+    "StartDate": "1953.01.08",
+    "EndDate": "9^",
+    "GamesCount": "Hastings Page",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1953,
+    "Name": "Glasgow m",
+    "Winner": "Wade, Fairhurst",
+    "StartDate": "1953.02.02",
+    "EndDate": "1953.03.23",
+    "GamesCount": "8/8",
+    "DateUpdated": "2018.05.01",
+    "PgnFileName": "195302glasgowmatch.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1953.03.28",
+    "EndDate": "",
+    "GamesCount": "7/7",
+    "DateUpdated": "2022.04.10",
+    "PgnFileName": "195303vars.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "Bognor Regis 1st",
+    "Winner": "Winter, Golombek",
+    "StartDate": "1953.05.04",
+    "EndDate": "1953.05.09",
+    "GamesCount": "16/28 + 4",
+    "DateUpdated": "2026.01.23",
+    "PgnFileName": "195305bognor.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "Ilford Premier",
+    "Winner": "",
+    "StartDate": "1953.05.22",
+    "EndDate": "1953.05.25",
+    "GamesCount": "4/15",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": "195305ilford.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "Ilford other",
+    "Winner": "",
+    "StartDate": "1953.05.22",
+    "EndDate": "1953.05.25",
+    "GamesCount": "12^",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1953,
+    "Name": "British Universities Ch",
+    "Winner": "Thomas K Hemingway",
+    "StartDate": "1953.07.06",
+    "EndDate": "1953.07.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "195054universityannual.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "CHESS Festival 1st Cheltenham",
+    "Winner": "Jan Hein Donner",
+    "StartDate": "1953.07.25",
+    "EndDate": "1953.08.08",
+    "GamesCount": "15+2",
+    "DateUpdated": "2026.07.09",
+    "PgnFileName": "195307cheltenham.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "CHESS Festival - other",
+    "Winner": "",
+    "StartDate": "1953.07.25",
+    "EndDate": "1953.08.08",
+    "GamesCount": "4^",
+    "DateUpdated": "2026.07.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1953,
+    "Name": "Glasgow International",
+    "Winner": "J Penrose",
+    "StartDate": "1953.07.27",
+    "EndDate": "1953.08.04",
+    "GamesCount": "20/25",
+    "DateUpdated": "2023.05.06",
+    "PgnFileName": "195307glasgow.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "GBR-ch Hastings",
+    "Winner": "D Yanofsky",
+    "StartDate": "1953.08.10",
+    "EndDate": "1953.08.21",
+    "GamesCount": "176",
+    "DateUpdated": "2016.04.20",
+    "PgnFileName": "195308bcf.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "GBR other",
+    "Winner": "",
+    "StartDate": "1953.08.10",
+    "EndDate": "1953.08.21",
+    "GamesCount": "23^",
+    "DateUpdated": "2024.07.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1953,
+    "Name": "Paignton",
+    "Winner": "R G Wade",
+    "StartDate": "1953.09.07",
+    "EndDate": "1953.09.12",
+    "GamesCount": "9+1",
+    "DateUpdated": "2023.05.15",
+    "PgnFileName": "195309paignton.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "Paignton other events",
+    "Winner": "",
+    "StartDate": "1953.09.07",
+    "EndDate": "1953.09.12",
+    "GamesCount": "7^",
+    "DateUpdated": "2023.05.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1953,
+    "Name": "Hastings 1953/54",
+    "Winner": "Alexander, Bronstein",
+    "StartDate": "1953.12.30",
+    "EndDate": "1954.01.08",
+    "GamesCount": "45/45",
+    "DateUpdated": "2024.05.20",
+    "PgnFileName": "195312hast.pgn"
+  },
+  {
+    "Year": 1953,
+    "Name": "Hastings subsid",
+    "Winner": "",
+    "StartDate": "1953.12.30",
+    "EndDate": "1954.01.8",
+    "GamesCount": "5^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1954.03.27",
+    "EndDate": "",
+    "GamesCount": "7/7",
+    "DateUpdated": "2022.04.11",
+    "PgnFileName": "195403vars.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "Midland ch Birmingham",
+    "Winner": "P Harris, D Horseman",
+    "StartDate": "1954.04.12",
+    "EndDate": "1954.04.24",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "WECU-ch09 Newquay",
+    "Winner": "J Aitken, ARB Thomas",
+    "StartDate": "1954.04.15",
+    "EndDate": "1954.04.19",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "Lancashire CA Salford",
+    "Winner": "KR Smith, RG Wade",
+    "StartDate": "1954.04.16",
+    "EndDate": "1954.04.19",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "Yorkshire CA Leeds",
+    "Winner": "JH Beaty",
+    "StartDate": "1954.04.17",
+    "EndDate": "1954.04.19",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "Bognor Regis 2nd",
+    "Winner": "Barden, O'Kelly",
+    "StartDate": "1954.04.21",
+    "EndDate": "1954.05.01",
+    "GamesCount": "6+2",
+    "DateUpdated": "2024.09.25",
+    "PgnFileName": "195404bognor.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "An TÃ³stal 1st Dublin",
+    "Winner": "A O'Kelly de Galway",
+    "StartDate": "1954.05.03",
+    "EndDate": "1954.05.07",
+    "GamesCount": "3+3",
+    "DateUpdated": "2026.05.03",
+    "PgnFileName": "195405antostal.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "Ilford Premier 5th",
+    "Winner": "Raaphi Persitz",
+    "StartDate": "1954.06.05",
+    "EndDate": "1954.06.07",
+    "GamesCount": "4",
+    "DateUpdated": "2023.05.15",
+    "PgnFileName": "195406ilford.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "Ilford BCF",
+    "Winner": "Neil McKelvie",
+    "StartDate": "1954.06.05",
+    "EndDate": "1954.06.07",
+    "GamesCount": "3^",
+    "DateUpdated": "2023.05.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "Appleby Frodingham 2nd",
+    "Winner": "BH Wood, M Haygarth",
+    "StartDate": "1954.06.05",
+    "EndDate": "1954.06.07",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "London GB-USSR",
+    "Winner": "USSR by 18Â½-1Â½",
+    "StartDate": "1954.07.03",
+    "EndDate": "1954.07.05",
+    "GamesCount": "20",
+    "DateUpdated": "2015.09.07",
+    "PgnFileName": "195407gbussr.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "GBR-ch Nottingham",
+    "Winner": "Barden, Phillips",
+    "StartDate": "1954.08.16",
+    "EndDate": "1954.08.27",
+    "GamesCount": "81/165",
+    "DateUpdated": "2026.05.11",
+    "PgnFileName": "195408bcf.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "GBR other events",
+    "Winner": "",
+    "StartDate": "1954.08.16",
+    "EndDate": "1954.08.27",
+    "GamesCount": "27^",
+    "DateUpdated": "2024.11.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "CHESS Festival Skegness",
+    "Winner": "",
+    "StartDate": "1954.08.30",
+    "EndDate": "1954.09.11",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "Paignton",
+    "Winner": "Baruch H Wood",
+    "StartDate": "1954.09.13",
+    "EndDate": "1954.09.18",
+    "GamesCount": "2+3",
+    "DateUpdated": "2024.09.25",
+    "PgnFileName": "195409paignton.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "GBR-ch play-off match",
+    "Winner": "Barden 5-5 Phillips",
+    "StartDate": "1954.10",
+    "EndDate": "1954.11.04",
+    "GamesCount": "10^",
+    "DateUpdated": "2016.04.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1954,
+    "Name": "Hastings 1954/55",
+    "Winner": "Keres, Smyslov",
+    "StartDate": "1954.12.29",
+    "EndDate": "1955.01.07",
+    "GamesCount": "45",
+    "DateUpdated": "2023.01.10",
+    "PgnFileName": "195412hast.pgn"
+  },
+  {
+    "Year": 1954,
+    "Name": "Hastings subsidiaries",
+    "Winner": "",
+    "StartDate": "1954.12.29",
+    "EndDate": "1955.01.07",
+    "GamesCount": "19+6^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1955,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1955.03.26",
+    "EndDate": "",
+    "GamesCount": "1Â½/2",
+    "DateUpdated": "2022.04.11",
+    "PgnFileName": "195503vars.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "West of England Ch 10th",
+    "Winner": "F E A Kitto",
+    "StartDate": "1955.04.07",
+    "EndDate": "1955.04.11",
+    "GamesCount": "17",
+    "DateUpdated": "2024.06.17",
+    "PgnFileName": "195504wecu.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "West of England other",
+    "Winner": "",
+    "StartDate": "1955.04.07",
+    "EndDate": "1955.04.11",
+    "GamesCount": "9^",
+    "DateUpdated": "2024.06.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1955,
+    "Name": "Thames Valley Premier",
+    "Winner": "",
+    "StartDate": "1955.04.09",
+    "EndDate": "",
+    "GamesCount": "4",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": "195504thamesvalley.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "Bognor Regis 3rd",
+    "Winner": "A O'Kelly de Galway",
+    "StartDate": "1955.04.13",
+    "EndDate": "1955.04.23",
+    "GamesCount": "15+4",
+    "DateUpdated": "2025.11.12",
+    "PgnFileName": "195504bognor.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "Bognor Regis other",
+    "Winner": "",
+    "StartDate": "1955.04.13",
+    "EndDate": "1955.04.23",
+    "GamesCount": "9^",
+    "DateUpdated": "2022.08.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1955,
+    "Name": "An TÃ³stal 2nd, Cork",
+    "Winner": "A O'Kelly de Galway",
+    "StartDate": "1955.05.12",
+    "EndDate": "1955.05.19",
+    "GamesCount": "13+4",
+    "DateUpdated": "2026.05.03",
+    "PgnFileName": "195505cork.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "Ilford Premier",
+    "Winner": "",
+    "StartDate": "1955.05.27",
+    "EndDate": "1955.05.30",
+    "GamesCount": "4",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": "195505ilford.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "Birmingham Training Tmt",
+    "Winner": "Geoffrey F Harris",
+    "StartDate": "1955.06.28",
+    "EndDate": "1955.07.09",
+    "GamesCount": "15+1",
+    "DateUpdated": "2024.07.09",
+    "PgnFileName": "195506birmingham.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "3rd CHESS F'l Southend",
+    "Winner": "",
+    "StartDate": "1955.08.01",
+    "EndDate": "1955.08.12",
+    "GamesCount": "13",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": "195508chessfest.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "3rd CHESS Festival other",
+    "Winner": "",
+    "StartDate": "1955.08.01",
+    "EndDate": "1955.08.12",
+    "GamesCount": "1^",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1955,
+    "Name": "GBR-ch Aberystwyth",
+    "Winner": "H Golombek",
+    "StartDate": "1955.08.22",
+    "EndDate": "1955.09.02",
+    "GamesCount": "80/198",
+    "DateUpdated": "2021.05.10",
+    "PgnFileName": "195508bcf.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "GBR women 's ch",
+    "Winner": "J Doulton,\n      R Bruce",
+    "StartDate": "1955.08.22",
+    "EndDate": "1955.09.02",
+    "GamesCount": "1^",
+    "DateUpdated": "2016.04.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1955,
+    "Name": "GBR other",
+    "Winner": "",
+    "StartDate": "1955.08.22",
+    "EndDate": "1955.09.02",
+    "GamesCount": "3^",
+    "DateUpdated": "2016.04.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1955,
+    "Name": "Paignton Premier",
+    "Winner": "Raaphi Persitz",
+    "StartDate": "1955.09.12",
+    "EndDate": "1955.09.17",
+    "GamesCount": "5",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": "195509paignton.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "Paignton other",
+    "Winner": "",
+    "StartDate": "1955.09.12",
+    "EndDate": "",
+    "GamesCount": "6^",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1955,
+    "Name": "ENG v SCO m Glasgow",
+    "Winner": "England",
+    "StartDate": "1955.11.26",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2024.06.16",
+    "PgnFileName": "195511scoeng.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "Hastings 1955/56",
+    "Winner": "Korchnoi,\n      Olafsson",
+    "StartDate": "1955.12.28",
+    "EndDate": "1956.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2023.01.05",
+    "PgnFileName": "195512hast.pgn"
+  },
+  {
+    "Year": 1955,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1955.12.28",
+    "EndDate": "1956.01.06",
+    "GamesCount": "18^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1956,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1956.03.24",
+    "EndDate": "",
+    "GamesCount": "7/7",
+    "DateUpdated": "2022.04.11",
+    "PgnFileName": "195603vars.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "West of England Ch Bath",
+    "Winner": "Peter F Copping",
+    "StartDate": "1956.03.29",
+    "EndDate": "1956.04.02",
+    "GamesCount": "11",
+    "DateUpdated": "2024.06.17",
+    "PgnFileName": "195603wecu.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "West of England other",
+    "Winner": "",
+    "StartDate": "1956.03.29",
+    "EndDate": "1956.04.02",
+    "GamesCount": "4^",
+    "DateUpdated": "2024.06.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1956,
+    "Name": "Thames Valley Premier",
+    "Winner": "C Kottnauer",
+    "StartDate": "1956.03.29",
+    "EndDate": "1956.04.02",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1956,
+    "Name": "Bognor Regis 4th",
+    "Winner": "A O'Kelly de Galway",
+    "StartDate": "1956.04.04",
+    "EndDate": "1956.04.14",
+    "GamesCount": "21+10",
+    "DateUpdated": "2022.08.31",
+    "PgnFileName": "195604bognor.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "An Tostal 3rd Dublin",
+    "Winner": "A O'Kelly de Galway",
+    "StartDate": "1956.05.07",
+    "EndDate": "1956.05.13",
+    "GamesCount": "28",
+    "DateUpdated": "2026.04.15",
+    "PgnFileName": "195605antostal.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "Ilford Premier 7th",
+    "Winner": "C Kottnauer",
+    "StartDate": "1956.05.18",
+    "EndDate": "1956.05.21",
+    "GamesCount": "15",
+    "DateUpdated": "2024.06.02",
+    "PgnFileName": "195605ilford.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "SCA-ch Dundee",
+    "Winner": "J M Aitken",
+    "StartDate": "1956.07.21",
+    "EndDate": "1956.07.28",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1956,
+    "Name": "GBR-ch Blackpool",
+    "Winner": "C H Alexander",
+    "StartDate": "1956.08.20",
+    "EndDate": "1956.08.31",
+    "GamesCount": "173+2/176",
+    "DateUpdated": "2025.01.07",
+    "PgnFileName": "195608bcf.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1956.08.20",
+    "EndDate": "1956.08.31",
+    "GamesCount": "16^",
+    "DateUpdated": "2023.09.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1956,
+    "Name": "Paignton Premier",
+    "Winner": "F Kitto",
+    "StartDate": "1956.09.10",
+    "EndDate": "1956.09.15",
+    "GamesCount": "28/28",
+    "DateUpdated": "2021.05.12",
+    "PgnFileName": "195609paignton.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "Paignton Women's Int'l",
+    "Winner": "Rinder,\n      Heemskerk",
+    "StartDate": "1956.09.10",
+    "EndDate": "1956.09.15",
+    "GamesCount": "2^",
+    "DateUpdated": "2021.05.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1956,
+    "Name": "Hastings 1956/57",
+    "Winner": "Gligoric, Larsen",
+    "StartDate": "1956.12.27",
+    "EndDate": "1957.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2023.09.13",
+    "PgnFileName": "195612hast.pgn"
+  },
+  {
+    "Year": 1956,
+    "Name": "Hastings other sections",
+    "Winner": "",
+    "StartDate": "1956.12.27",
+    "EndDate": "1957.01.05",
+    "GamesCount": "27+6^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1957.03.23",
+    "EndDate": "",
+    "GamesCount": "7/7",
+    "DateUpdated": "2022.04.12",
+    "PgnFileName": "195703vars.pgn"
+  },
+  {
+    "Year": 1957,
+    "Name": "Midland Open Birm'ham",
+    "Winner": "Brian J Moore",
+    "StartDate": "1957.04.15",
+    "EndDate": "1957.04.27",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "WECU-ch12 Bourn'th",
+    "Winner": "Jeffrey Ansell",
+    "StartDate": "1957.04.18",
+    "EndDate": "1957.04.22",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "Southend Premier 1st",
+    "Winner": "Peter H Clarke",
+    "StartDate": "1957.04.19",
+    "EndDate": "1957.04.22",
+    "GamesCount": "15",
+    "DateUpdated": "2020.12.14",
+    "PgnFileName": "195704southend.pgn"
+  },
+  {
+    "Year": 1957,
+    "Name": "Thames Valley Premier",
+    "Winner": "Michael J Franklin",
+    "StartDate": "1957.04.19",
+    "EndDate": "1957.04.22",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "Bognor Regis 5th",
+    "Winner": "Svetozar Gligoric",
+    "StartDate": "1957.04.24",
+    "EndDate": "1957.05.04",
+    "GamesCount": "26",
+    "DateUpdated": "2022.07.31",
+    "PgnFileName": "195704bognor.pgn"
+  },
+  {
+    "Year": 1957,
+    "Name": "An Tostal 4th Dublin",
+    "Winner": "F Perez Perez",
+    "StartDate": "1957.05.11",
+    "EndDate": "1957.05",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "Dublin Zonal",
+    "Winner": "Ludek Pachman",
+    "StartDate": "1957.05.12",
+    "EndDate": "1957.06.02",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "Ilford Prem ier 8th",
+    "Winner": "Wade,\n      Kottnauer, Penrose",
+    "StartDate": "1957.06.07",
+    "EndDate": "1957.06.10",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "SCA-ch 64th Glasgow",
+    "Winner": "Dr. James M Aitken",
+    "StartDate": "1957.07.12",
+    "EndDate": "1957.07.20",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "GBR-ch Plymouth",
+    "Winner": "Dr. Stefan Fazekas",
+    "StartDate": "1957.08.19",
+    "EndDate": "1957.08.30",
+    "GamesCount": "65+3",
+    "DateUpdated": "2021.01.13",
+    "PgnFileName": "195708bcf.pgn"
+  },
+  {
+    "Year": 1957,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1957.08.19",
+    "EndDate": "1957.08.30",
+    "GamesCount": "13+1^",
+    "DateUpdated": "2024.10.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "Paignton Premier",
+    "Winner": "Harry Golombek",
+    "StartDate": "1957.09.09",
+    "EndDate": "1957.09.14",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1957,
+    "Name": "Hastings 1957/58",
+    "Winner": "Paul Keres",
+    "StartDate": "1957.12.30",
+    "EndDate": "1958.01.08",
+    "GamesCount": "45/45",
+    "DateUpdated": "2023.01.10",
+    "PgnFileName": "195712hast.pgn"
+  },
+  {
+    "Year": 1957,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1957.12.30",
+    "EndDate": "1958.01.08",
+    "GamesCount": "14+6^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "London Boys Ch'ship",
+    "Winner": "",
+    "StartDate": "1958.01",
+    "EndDate": "",
+    "GamesCount": "1",
+    "DateUpdated": "2019.03.27",
+    "PgnFileName": "195801londonboys.pgn"
+  },
+  {
+    "Year": 1958,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1958.03.22",
+    "EndDate": "",
+    "GamesCount": "7/7",
+    "DateUpdated": "2022.04.12",
+    "PgnFileName": "195803vars.pgn"
+  },
+  {
+    "Year": 1958,
+    "Name": "Midland Open Birmingham",
+    "Winner": "Peter A Harris",
+    "StartDate": "1958.04.02",
+    "EndDate": "1958.04.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "WECU-ch Newquay",
+    "Winner": "R A Slade",
+    "StartDate": "1958.04.03",
+    "EndDate": "1958.04.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "Southend Premier 2nd",
+    "Winner": "L Barden,\n      P Clarke",
+    "StartDate": "1958.04.04",
+    "EndDate": "1958.04.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "Thames Valley Premier",
+    "Winner": "Friedman,\n      Pritchard",
+    "StartDate": "1958.04.05",
+    "EndDate": "1958.04.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "WLS-ch Cardiff",
+    "Winner": "B V Douthwaite",
+    "StartDate": "1958.04",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "Bognor Regis 6th",
+    "Winner": "Ivkov, Karaklajic, Wade",
+    "StartDate": "1958.04.09",
+    "EndDate": "1958.04.19",
+    "GamesCount": "20+9",
+    "DateUpdated": "2024.08.07",
+    "PgnFileName": "195804bognor.pgn"
+  },
+  {
+    "Year": 1958,
+    "Name": "Bognor subsidiary",
+    "Winner": "1958.04.09",
+    "StartDate": "1958.04.19",
+    "EndDate": "9^",
+    "GamesCount": "2022.08.31",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "England v Scotland",
+    "Winner": "England",
+    "StartDate": "1958.04.26",
+    "EndDate": "1958.04.26",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "Ilford Premier 9th",
+    "Winner": "J Penrose,\n      R Wade",
+    "StartDate": "1958.05.23",
+    "EndDate": "1958.05.27",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "Appleby Frodingham 6th",
+    "Winner": "Baruch H Wood",
+    "StartDate": "1958.05.23",
+    "EndDate": "1958.05.26",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "SCA-ch Edinburgh",
+    "Winner": "Dr. James M Aitken",
+    "StartDate": "1958.07.05",
+    "EndDate": "1958.07.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "GBR-ch Leamington",
+    "Winner": "J Penrose (L Barden)",
+    "StartDate": "1958.08.18",
+    "EndDate": "1958.08.29",
+    "GamesCount": "153/154",
+    "DateUpdated": "2023.04.09",
+    "PgnFileName": "195808bcf.pgn"
+  },
+  {
+    "Year": 1958,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1958.08.18",
+    "EndDate": "1958.08.29",
+    "GamesCount": "12^",
+    "DateUpdated": "2022.10.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "GBR-ch play-off",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1958.11.24",
+    "EndDate": "1958.12.05",
+    "GamesCount": "5^",
+    "DateUpdated": "2018.04.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "Paignton 8th",
+    "Winner": "P S Milner-Barry",
+    "StartDate": "1958.09.08",
+    "EndDate": "1958.09.13",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1958,
+    "Name": "NED-GBR Vlissingen",
+    "Winner": "Netherlands 11-9",
+    "StartDate": "1958.10.25",
+    "EndDate": "1958.10.26",
+    "GamesCount": "4+1+15",
+    "DateUpdated": "2025.09.25",
+    "PgnFileName": "195810nedgbr.pgn"
+  },
+  {
+    "Year": 1958,
+    "Name": "Hastings 1958/59",
+    "Winner": "Wolfgang Uhlmann",
+    "StartDate": "1958.12.29",
+    "EndDate": "1959.01.07",
+    "GamesCount": "15+6/45",
+    "DateUpdated": "2024.09.15",
+    "PgnFileName": "195812hast.pgn"
+  },
+  {
+    "Year": 1958,
+    "Name": "Hastings subsidiary",
+    "Winner": "",
+    "StartDate": "1958.12.29",
+    "EndDate": "1959.01.07",
+    "GamesCount": "16^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1959.03.21",
+    "EndDate": "",
+    "GamesCount": "4Â½/7",
+    "DateUpdated": "2022.04.12",
+    "PgnFileName": "195903vars.pgn"
+  },
+  {
+    "Year": 1959,
+    "Name": "WECU-ch Paignton",
+    "Winner": "J M Aitken",
+    "StartDate": "1959.03.26",
+    "EndDate": "1959.03.30",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "Southend Prem ier 3rd",
+    "Winner": "P H Clarke",
+    "StartDate": "1959.03.27",
+    "EndDate": "1959.03.30",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "Thames Valley Premier",
+    "Winner": "J B Howson,\n      A K May",
+    "StartDate": "1959.03.28",
+    "EndDate": "1959.03.30",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "WLS-ch",
+    "Winner": "D A Curtis",
+    "StartDate": "1959.04",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "Bognor Regis 7th",
+    "Winner": "Gereben,\n      Mardle",
+    "StartDate": "1959.04.01",
+    "EndDate": "1959.04.11",
+    "GamesCount": "106",
+    "DateUpdated": "2022.09.02",
+    "PgnFileName": "195904bognor.pgn"
+  },
+  {
+    "Year": 1959,
+    "Name": "Ilford Premier 10th",
+    "Winner": "C Kottnauer",
+    "StartDate": "1959.05.15",
+    "EndDate": "1959.05.18",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "Appleby-Frodingham 7th",
+    "Winner": "John H Beaty",
+    "StartDate": "1959.05.15",
+    "EndDate": "1959.05.18",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "SCA-ch 66th Glasgow",
+    "Winner": "P Coast",
+    "StartDate": "1959.07.17",
+    "EndDate": "1959.07.24",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "GBR-ch York",
+    "Winner": "Penrose,\n      Haygarth,\n      Golombek",
+    "StartDate": "1959.08.10",
+    "EndDate": "1959.08.21",
+    "GamesCount": "187",
+    "DateUpdated": "2023.05.15",
+    "PgnFileName": "195908bcf.pgn"
+  },
+  {
+    "Year": 1959,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1959.08.10",
+    "EndDate": "1959.08.21",
+    "GamesCount": "42^",
+    "DateUpdated": "2024.01.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "GBR-ch p/f London",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1959.11.13",
+    "EndDate": "1959.11.23",
+    "GamesCount": "4^",
+    "DateUpdated": "2018.04.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "CHESS Festival 4th",
+    "Winner": "D Janosevic",
+    "StartDate": "1959.08.24",
+    "EndDate": "1959.09.05",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "Paignton 9th",
+    "Winner": "Milner-Barry, Wade",
+    "StartDate": "1959.09.07",
+    "EndDate": "1959.09.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1959,
+    "Name": "ENG-NED Cheltenham",
+    "Winner": "NED by 12Â½-7Â½",
+    "StartDate": "1959.10.24",
+    "EndDate": "1959.10.25",
+    "GamesCount": "20",
+    "DateUpdated": "2025.09.25",
+    "PgnFileName": "195910gbrned.pgn"
+  },
+  {
+    "Year": 1959,
+    "Name": "Hastings 1959/60",
+    "Winner": "S Gligoric",
+    "StartDate": "1959.12.30",
+    "EndDate": "1960.01.09",
+    "GamesCount": "45",
+    "DateUpdated": "2025.04.07",
+    "PgnFileName": "195912hast.pgn"
+  },
+  {
+    "Year": 1959,
+    "Name": "Hastings other sections",
+    "Winner": "",
+    "StartDate": "1959.12.30",
+    "EndDate": "1960.01.09",
+    "GamesCount": "12^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  }
+]

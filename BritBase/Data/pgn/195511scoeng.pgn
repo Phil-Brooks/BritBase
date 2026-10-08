@@ -1,0 +1,232 @@
+﻿[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.1"]
+[White "Aitken, James Macrae"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[PlyCount "86"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 e6 11. O-O-O Ngf6 12. Kb1 O-O-O 13. c4 Bd6 14. Ne4
+Nxe4 15. Qxe4 Nf6 16. Qe2 c5 17. Bc3 Rhe8 18. Rhe1 Qb6 19. Ne5 Bxe5 20. dxc5
+Qc6 21. Bxe5 Qxg2 22. Bd6 Qg6+ 23. Ka1 Qf5 24. Rd3 Nd7 25. Rf3 Qh5 26. Qe3 f6
+27. c6 Nb6 28. cxb7+ Kxb7 29. Qe4+ Nd5 30. Rb3+ Ka8 31. Bc7 Rc8 32. Qh1 Rxc7
+33. cxd5 Rc5 34. dxe6+ Qd5 35. Qxd5+ Rxd5 36. Kb1 Re5 37. Rxe5 fxe5 38. Rg3
+Rxe6 39. Rxg7 Rf6 40. Re7 Rxf2 41. Rxe5 Rf1+ 42. Kc2 Rf2+ 43. Kc3 Rf3+ {
+adjudicated by Max Euwe - n.b. the result of this game was not reported in BCM
+or CHESS - previously it had been believed that Aitken had been given a win
+but his scorebook shows that it was a draw. This is confirmed by the entry in
+the 1956/57 BCF Yearbook, p91. Note also an extra pair of moves at the end (JS,
+9 May 2021)} 1/2-1/2
+
+[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.2"]
+[White "Penrose, Jonathan"]
+[Black "Fairhurst, William Albert"]
+[Result "1-0"]
+[ECO "C44"]
+[Annotator "Barden, Leonard"]
+[PlyCount "70"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[SourceTitle "BCM-1956-01"]
+[WhiteTeam "England"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bb4+ (6... Nf6 7.
+Nc3 Bb4 {was the move order according to BCM}) 7. Nc3 Nf6 (7... Bg4 8. Be2 Bxf3
+(8... Nf6 9. O-O Qa5 10. Ng5 $1 Bxe2 11. Qxe2+ Be7 12. Rd1 O-O 13. d5 {()}) 9.
+Bxf3 Qc4 10. Bxc6+ $1 (10. Be3 $2 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1 Qc4+ 13. Kg1
+Nge7 14. Rc1 Qxa2 15. Ra1 {1/2-1/2, Marshall-Capablanca, Lake Hopatcong 1926})
+10... bxc6 (10... Qxc6 11. O-O Ne7 12. Qb3 Bxc3 13. bxc3 O-O 14. c4 b6 15. d5
+Qg6 16. Bf4 Rac8 17. Qa4 a5 18. Qd7 $14) 11. Qe2+ Qxe2+ 12. Kxe2 O-O-O 13. Be3
+Ne7 14. Rhd1 Rhe8 15. Kf3 Nf5 16. g4 $14) (7... Nge7 8. Be2 O-O 9. a3 $14 {
+Penrose-Bolbochan, Moscow ol 1956}) 8. Be2 O-O (8... Ne4 9. Bd2 Bxc3 10. bxc3
+Nxd2 11. Qxd2 O-O 12. Rb1 b6 13. O-O Qd6 14. Bd3 Bg4 15. Ng5 h6 16. Ne4 Qd8 17.
+f4 Bf5 {(Velimirovic-Tringov, The Hague 1966)} 18. g4 $1 Bd7 (18... Bxg4 19. f5
+) 19. f5 $16) 9. O-O Qa5 $2 (9... Bxc3 $2 10. bxc3 Re8 11. Re1 {^^}) (9... Qd8
+$1 10. a3 Bd6 11. Bg5 h6 12. Bh4 Re8 13. d5 {Bazan-Incutto, Mar del Plata 1960}
+) 10. Bd2 Rd8 (10... Nd5 11. Nxd5 Qxd5 12. Bxb4 Nxb4 13. Ne5 Be6 14. a3 Nc6 15.
+Bf3 $1 $16 {Reti-Breyer, Baden 1914}) 11. a3 Be7 12. d5 $1 Nb8 (12... Nxd5 $2
+13. Na4 $18) 13. Bc4 c6 14. Ne5 Qc7 15. Nxf7 $1 {["... Penrose rushed things a
+bit, and it is doubtful if his speculative sacrifice should have won" (PB
+Anderson, BCM]} cxd5 16. Ba2 Kxf7 17. Nxd5 $1 Nxd5 18. Qh5+ Kg8 19. Rfe1 Nc6
+20. Bxd5+ Rxd5 (20... Kh8 21. Be4 h6 22. Bxh6 $1 $18) 21. Qxd5+ Kh8 22. Qf7 Bg4
+23. Bc3 (23. Bb4 $145 $5) 23... Rg8 24. h3 Bc8 25. Rad1 h6 26. Rd5 Bd6 27. Qg6
+{"and wins" (BCM - no more moves given)} ({Fritz suggests} 27. Rxd6 $1 Qxd6 (
+27... Qxf7 28. Rxh6#) 28. Re8 $1 {with a simple mate}) 27... Be5 28. Bxe5 Nxe5
+29. Rdxe5 Bd7 30. Re7 Qd8 31. Qf7 Bc6 32. R1e6 Qd1+ 33. Kh2 Qd2 34. Rg6 a6 35.
+Rxg7 Qd6+ {Sources: BCM, January 1956, p2; Chessman Quarterly, Vol.3 No.17,
+March/April 1971, p7} 1-0
+
+[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.3"]
+[White "Anderson, Peter B"]
+[Black "Wade, Robert Graham"]
+[Result "0-1"]
+[ECO "B37"]
+[PlyCount "46"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[SourceTitle "BCM-1956-01"]
+[WhiteTeam "Scotland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nc2 Nh6 7. Be2 O-O 8. g4
+f5 9. exf5 gxf5 10. g5 Nf7 11. Nc3 e5 12. h4 b6 13. Nd5 Bb7 14. Rg1 f4 15. Bd3
+e4 16. Qh5 Nd6 17. Nf6+ Rxf6 18. gxf6 Qxf6 19. Be2 Ne5 20. Bd2 e3 21. fxe3 f3
+22. Rf1 Qe7 23. Bxf3 Bxf3 (23... Bxf3 24. Rxf3 Qxh4+ $1) 0-1
+
+[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.4"]
+[White "Harris, Geoffrey F"]
+[Black "Nairn, Richard Charles (Dr"]
+[Result "1-0"]
+[ECO "E14"]
+[PlyCount "43"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[SourceTitle "BCM-1956-01"]
+[WhiteTeam "England"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SCO"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Bd3 Ne4 6. Nbd2 f5 7. Qc2 Nxd2 8.
+Bxd2 Nc6 9. a3 Be7 10. d5 Nb8 11. e4 g6 12. exf5 gxf5 13. O-O-O Bf6 14. Rhe1
+Kf7 15. Bf4 Qc8 16. Bxf5 exf5 17. Qxf5 Rg8 18. Ne5+ Kg7 19. Bh6+ Kxh6 20. Qxf6+
+Rg6 21. Nf7+ Kh5 22. Re5+ 1-0
+
+[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.5"]
+[White "Perkins, Nicholas Anthony"]
+[Black "Moore, Brian J"]
+[Result "1-0"]
+[ECO "D85"]
+[PlyCount "79"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[WhiteTeam "Scotland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qb3 O-O 8.
+Nf3 c5 9. Be3 Qa5 10. Bc4 Nc6 11. O-O Qc7 12. dxc5 Na5 13. Qb4 Nxc4 14. Qxc4
+Be6 15. Qb4 a5 16. Qb2 Bc4 17. Rfd1 Rfd8 18. Qc2 Qc6 19. Bd4 a4 20. Rab1 a3 21.
+Rb6 Qa4 22. Qxa4 Rxa4 23. Ra1 Ba6 24. h3 f6 25. e5 fxe5 26. Nxe5 Bxe5 27. Bxe5
+Rd2 28. Bd4 Kf7 (28... Re2) 29. Re1 Re2 30. Rxe2 Bxe2 31. Rxb7 Bc4 32. c6 Bxa2
+33. Bc5 Be6 34. Rxe7+ Kf6 35. c7 Bf5 36. Re1 a2 37. Ra1 Ra8 38. Bd4+ Ke6 39.
+c8=Q+ (39. Rxa2) 39... Rxc8 40. Rxa2 {(adjudicated) Source: Glasgow Herald, 30
+December 1955} 1-0
+
+[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.6"]
+[White "Gibbs, Peter Campbell"]
+[Black "Thomson, Alexander Aird"]
+[Result "1-0"]
+[ECO "D36"]
+[PlyCount "63"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[WhiteTeam "England"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SCO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. Qc2 Nh5 8.
+Bd2 Nhf6 9. Bg5 h6 10. Bh4 Be7 11. e3 O-O 12. Bd3 Re8 13. O-O Ne4 14. Bxe7 Qxe7
+15. Rab1 Ng5 16. Nd2 Nf8 17. b4 Be6 18. Na4 Rac8 19. Nc5 b6 20. Nxe6 Ngxe6 21.
+Nf3 c5 22. bxc5 bxc5 23. dxc5 Nxc5 24. Bf5 Nfe6 25. Rfc1 Qf6 26. Nd4 Nxd4 27.
+exd4 Ne6 28. Qxc8 Rxc8 29. Rxc8+ Nf8 30. Bd3 Qxd4 31. Bf1 Qd2 32. Rbb8 {
+Source: Yorkshire Evening Post, 21 August 1958 (Ronnie Ives column)} 1-0
+
+[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.7"]
+[White "Fallone, Michael"]
+[Black "Haygarth, Michael John"]
+[Result "1-0"]
+[ECO "A48"]
+[PlyCount "78"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[WhiteTeam "Scotland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 d6 5. Nbd2 Nbd7 6. c3 O-O 7. Bd3 Re8 8.
+Nc4 c6 9. Qc2 b5 10. Ncd2 Qb6 11. O-O Bb7 12. e4 c5 13. d5 a6 14. c4 Ng4 15. h3
+Nge5 16. Nxe5 Nxe5 17. Bxe5 Bxe5 18. f4 Bg7 19. f5 a5 20. Kh1 Ba6 21. Rab1 bxc4
+22. Nxc4 Bxc4 23. Bxc4 Reb8 24. Qf2 Bd4 25. Qf3 Bf6 26. fxg6 hxg6 27. g4 Qb4
+28. b3 Rf8 29. a4 Qd2 30. Rf2 Qg5 31. h4 Qxh4+ 32. Rh2 Qg5 33. Qh3 Rfb8 34. Rf1
+Bg7 35. e5 Qxe5 36. Qh7+ Kf8 37. Qxg6 Ke8 38. Rxf7 Kd7 39. Qxg7 Qe4+ {
+adjudicated} ({Additional moves} 39... Qe4+ 40. Kg1 Qe3+ 41. Rhf2 {given by
+the Glasgow Herald, acc. Chess Scotland website article}) 1-0
+
+[Event "SCO-ENG match"]
+[Site "Glasgow University CC"]
+[Date "1955.11.26"]
+[Round "1.8"]
+[White "Middleton, Ian"]
+[Black "Honan, Neill Thomas"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[PlyCount "12"]
+[EventDate "1955.11.26"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "SCO"]
+[WhiteTeam "England"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SCO"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c5 {etc. "Agreed to a
+draw without a single piece off the board." (PB Anderson, BCM, Jan 1956, p2)}
+1/2-1/2
+

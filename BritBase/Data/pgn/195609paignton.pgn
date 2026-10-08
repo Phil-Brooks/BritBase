@@ -1,0 +1,647 @@
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.10"]
+[Round "1"]
+[White "Courtney, Hugh Edward Guy"]
+[Black "Kitto, Francis Ernest A"]
+[Result "0-1"]
+[ECO "A57"]
+[PlyCount "82"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 e6 5. Nc3 exd5 6. Nxd5 Bb7 7. Nc3 d5 8. e3
+Bd6 9. Nf3 O-O 10. b3 Nbd7 11. Bb2 Re8 12. Be2 Qe7 13. O-O Rad8 14. Qc2 d4 15.
+exd4 cxd4 16. Nd1 Qxe2 17. Qxe2 Rxe2 18. Nxd4 Ree8 19. Nc6 Rc8 20. Nxa7 Rc5 21.
+Ne3 Rh5 22. g3 Rxe3 23. fxe3 Bc5 24. Bd4 Bxa7 25. Bxa7 Ng4 26. Rf4 Rxh2 27. e4
+Nde5 28. Kf1 g5 29. Bg1 gxf4 30. Bxh2 Bxe4 31. Bg1 fxg3 32. b6 h5 33. Re1 Nh2+
+34. Ke2 Nhf3 35. Rd1 Nxg1+ 36. Rxg1 h4 37. Ke3 f5 38. Kf4 Ng6+ 39. Ke3 g2 40.
+Kf2 Nf4 41. a4 Nh3+ 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.10"]
+[Round "1"]
+[White "Heidenfeld, Wolfgang"]
+[Black "Copping, Peter Fairbairn"]
+[Result "1-0"]
+[ECO "B22"]
+[PlyCount "55"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nf6 8. h3
+Bf5 9. Na3 Be7 10. Be3 cxd4 11. Nb5 Qd7 12. Nbxd4 Be4 13. Bb5 O-O 14. Ng5 Qc8
+15. Nxe4 Nxe4 16. Qf3 Nxd4 17. Bxd4 Nf6 18. Rad1 a6 19. Ba4 Qc7 20. Rfe1 Rfd8
+21. Re5 Rd5 22. Rde1 Rad8 23. Bb3 Rxe5 24. Rxe5 Bd6 25. Rg5 Bh2+ 26. Kh1 Rxd4
+27. Qxf6 Be5 28. Qxe5 1-0
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.10"]
+[Round "1"]
+[White "Moore, Brian J"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "0-1"]
+[ECO "A57"]
+[PlyCount "90"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 e6 5. Nc3 exd5 6. Nxd5 Bb7 7. Nxf6+ Qxf6 8.
+Nf3 d5 9. g3 Bd6 10. Bg2 O-O 11. O-O a6 12. bxa6 Nxa6 13. Bg5 Qe6 14. Qd2 h6
+15. Bf4 Bxf4 16. Qxf4 Qxe2 17. Rfe1 Qb5 18. Re7 Rae8 19. Rae1 Rxe7 20. Rxe7 Bc8
+21. Ne5 Be6 22. Bf1 c4 23. Qd4 Qc5 24. Qxc5 Nxc5 25. Nc6 Ra8 26. a3 Nb3 27. Bg2
+Ra6 28. Rc7 d4 29. Ne5 c3 30. bxc3 Rxa3 31. h3 Ra1+ 32. Kh2 Rc1 33. c4 f6 34.
+Nd3 Rxc4 35. Rb7 Nc5 36. Rb8+ Kf7 37. Nf4 d3 38. Rd8 Rc3 39. Bf3 g5 40. Bh5+
+Ke7 41. Nxe6 Kxe6 42. Bg6 f5 43. g4 fxg4 44. hxg4 Ke5 45. Kg2 Ne6 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.10"]
+[Round "1"]
+[White "Newman, Richard Hilary"]
+[Black "Tylor, Theodore Henry"]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[PlyCount "58"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Nbd7 6. Bd3 Be7 7. Nge2 O-O 8. Ng3
+a6 9. a4 Re8 10. Nf5 Nf8 11. O-O Ng6 12. Qf3 Bxf5 13. exf5 Nf8 14. g4 N6d7 15.
+Ne4 h6 16. Qg3 Nh7 17. f4 Ndf6 18. Nc3 Nd7 19. Be3 Bh4 20. Qg2 exf4 21. Bxf4
+Ne5 22. Rad1 Bg5 23. Bxe5 Rxe5 24. Rde1 Qe7 25. Rxe5 Qxe5 26. Qe4 Re8 27. Qxe5
+Rxe5 28. Ne4 Be7 29. Kg2 Nf6 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "2"]
+[White "Copping, Peter Fairbairn"]
+[Black "Moore, Brian J"]
+[Result "1/2-1/2"]
+[ECO "B62"]
+[PlyCount "102"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Be2 Be7 8.
+Qd3 a6 9. Rd1 Bd7 10. O-O Rc8 11. Bc1 O-O 12. Nxc6 Bxc6 13. f4 b5 14. Bf3 b4
+15. Ne2 Bb5 16. Qd2 Qc7 17. Rfe1 Qxc2 18. Qxc2 Rxc2 19. Nd4 Rc7 20. Nxb5 axb5
+21. Be3 Nd7 22. Rc1 Rfc8 23. Rxc7 Rxc7 24. Rc1 Rxc1+ 25. Bxc1 Bf6 26. Kf1 Nc5
+27. b3 Bc3 28. Be3 Nd7 29. Ke2 Kf8 30. Kd3 Ke7 31. Bd4 Bxd4 32. Kxd4 Nb8 33. e5
+Na6 34. Bc6 Nc7 35. g3 f6 36. h4 g6 37. g4 h6 38. g5 hxg5 39. hxg5 f5 40. Bf3
+Kd7 41. Bb7 Ne8 42. Ba6 Kc6 43. exd6 Nxd6 44. Ke5 Ne4 45. Bc8 Nc5 46. Bxe6 Nd3+
+47. Kf6 Nxf4 48. Bf7 Kd6 49. Be8 Kc5 50. Bd7 Kd4 51. Bxf5 Ke3 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "2"]
+[White "Kitto, Francis Ernest A"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[PlyCount "63"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. c4 f5 2. d4 Nf6 3. Nc3 e6 4. g3 Bb4 5. Bd2 O-O 6. Bg2 d6 7. e3 Nbd7 8. Nge2
+e5 9. dxe5 dxe5 10. Nd5 Bxd2+ 11. Qxd2 c6 12. Nxf6+ Nxf6 13. Qc3 Qc7 14. O-O
+Be6 15. Rad1 Rad8 16. Nc1 Ne4 17. Qc2 Nd6 18. c5 Nf7 19. b4 f4 20. exf4 exf4
+21. Ne2 fxg3 22. fxg3 Bg4 23. Be4 Ng5 24. Bxh7+ Kh8 25. Rxd8 Qxd8 26. Nf4 Rxf4
+27. Rxf4 Nh3+ 28. Kg2 Nxf4+ 29. gxf4 Qh4 30. Bg6 Be6 31. Qe2 Bd5+ 32. Kg1
+1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "2"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Newman, Richard Hilary"]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[PlyCount "108"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. b3 Nbd7 7. Bb2 c5 8. c4
+a6 9. Nc3 Rb8 10. Qc2 b5 11. cxb5 axb5 12. dxc5 dxc5 13. Rfd1 Qb6 14. Ng5 Bb7
+15. Nce4 Rfd8 16. Nxf6+ Nxf6 17. Be5 Nd5 18. Bxg7 Kxg7 19. Rac1 Rbc8 20. Ne4 c4
+21. Qb2+ Kg8 22. bxc4 bxc4 23. Qxb6 Nxb6 24. Rxd8+ Rxd8 25. Nc3 Bxg2 26. Kxg2
+Ra8 27. Kf3 Kg7 28. Ke4 Ra5 29. f4 e6 30. Kd4 Nd5 31. Rc2 Nb6 32. Rb2 Ra6 33.
+Kc5 Na4+ 34. Nxa4 Rxa4 35. Kb5 c3 36. Rc2 Re4 37. a4 e5 38. fxe5 Rxe5+ 39. Kb4
+Re4+ 40. Kb3 Kf6 41. Rxc3 Rxe2 42. h3 Kg5 43. a5 f5 44. Kb4 h5 45. a6 h4 46. a7
+Re8 47. Kb5 hxg3 48. Rxg3+ Kh4 49. Rxg6 Kxh3 50. Rf6 Kg4 51. Rb6 Ra8 52. Ka6 f4
+53. Rb8 Rxa7+ 54. Kxa7 f3 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "2"]
+[White "Tylor, Theodore Henry"]
+[Black "Courtney, Hugh Edward Guy"]
+[Result "1-0"]
+[ECO "A04"]
+[PlyCount "75"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O c5 5. Nc3 Nc6 6. d4 Nxd4 7. Nxd4 Bxg2 8.
+Kxg2 cxd4 9. Qxd4 e6 10. Bg5 Be7 11. e4 h6 12. Bxf6 Bxf6 13. e5 Be7 14. Rad1
+Rc8 15. Rd2 Bc5 16. Qa4 Qc7 17. Rfd1 O-O 18. f4 Qc6+ 19. Qxc6 dxc6 20. Rd7 b5
+21. Kf3 Bb6 22. Ke4 Rfd8 23. Ne2 Kf8 24. Rxd8+ Bxd8 25. g4 Ke7 26. Ng3 Bb6 27.
+Nh5 f6 28. Nxg7 fxe5 29. f5 Rg8 30. Nxe6 Rxg4+ 31. Kxe5 Rg2 32. f6+ Ke8 33. Nf4
+Rf2 34. Rg1 Bc5 35. Rg8+ Bf8 36. Ne6 Re2+ 37. Kf5 Rf2+ 38. Kg6 1-0
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "3"]
+[White "Courtney, Hugh Edward Guy"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "1-0"]
+[ECO "A52"]
+[PlyCount "85"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. a3 a5 7. b3 Ngxe5 8. Bb2
+d6 9. Qc2 O-O 10. Nc3 Bg4 11. Be2 Bxf3 12. gxf3 Qh4 13. Qe4 Qh3 14. f4 Ng6 15.
+Nd5 Rfe8 16. Qf3 Qxf3 17. Bxf3 Nh4 18. Be2 Rac8 19. Rg1 Nf5 20. Nf6+ Kf8 21.
+Nxe8 Rxe8 22. Kd2 f6 23. Bd3 Nce7 24. Bc3 Bb6 25. Rg4 Kf7 26. Rag1 g6 27. Bxf5
+Nxf5 28. h4 c6 29. Kd3 d5 30. cxd5 cxd5 31. Rh1 h5 32. Rgg1 d4 33. e4 Nxh4 34.
+Bxa5 Bxa5 35. Rxh4 Rc8 36. b4 Bb6 37. f5 Rc3+ 38. Kd2 gxf5 39. exf5 Rxa3 40.
+Rxh5 Ke7 41. Re1+ Kd7 42. Rh7+ Kc6 43. Re6+ 1-0
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "3"]
+[White "Moore, Brian J"]
+[Black "Kitto, Francis Ernest A"]
+[Result "1-0"]
+[ECO "D33"]
+[PlyCount "71"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Bg4 7. Ne5 Nxe5 8.
+dxe5 d4 9. Ne4 f6 10. exf6 Nxf6 11. Nxf6+ Qxf6 12. Bg2 Bd6 13. O-O O-O 14. f3
+Be6 15. e4 c4 16. Kh1 Rad8 17. f4 Bc5 18. f5 Bc8 19. Qa4 Qf7 20. Bg5 Bd7 21.
+Qa5 b6 22. Qd2 Rde8 23. Rae1 h6 24. Bf4 Bb5 25. g4 g5 26. Bg3 c3 27. bxc3 Bxf1
+28. Bxf1 dxc3 29. Qxc3 Kh7 30. e5 Qd5+ 31. Bg2 Qd4 32. Qc2 Qxg4 33. f6+ Kh8 34.
+Qg6 Qd7 35. Be4 Bd4 36. Qxh6+ 1-0
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "3"]
+[White "Newman, Richard Hilary"]
+[Black "Copping, Peter Fairbairn"]
+[Result "0-1"]
+[ECO "E92"]
+[PlyCount "56"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. Be2 e5 6. d5 O-O 7. Nf3 h6 8. O-O c5
+9. Ne1 Ne8 10. Nd3 Nd7 11. a3 Kh7 12. b4 b6 13. Bb2 f5 14. f4 Qe7 15. Qc2 exf4
+16. exf5 Rxf5 17. Bg4 Ne5 18. Rae1 Qh4 19. Nxe5 Rxe5 20. Rxe5 Bxe5 21. Bxc8
+Rxc8 22. bxc5 bxc5 23. Ne4 Bxb2 24. Qxb2 Rc7 25. Qb8 Re7 26. Nxd6 f3 27. gxf3
+Qd4+ 28. Kg2 Qe5 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "3"]
+[White "Tylor, Theodore Henry"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[PlyCount "41"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O g6 5. d4 cxd4 6. Nxd4 Bg7 7. c4 O-O 8.
+cxd5 Nxd5 9. Nc3 Nxc3 10. bxc3 Qa5 11. Qb3 Nc6 12. Nxc6 bxc6 13. Ba3 Be6 14.
+Bb4 Qa6 15. Qc2 Rac8 16. Bxe7 Rfe8 17. Bc5 Bc4 18. Rfe1 Bxe2 19. Bf1 Bxf1 20.
+Rxe8+ Rxe8 21. Rxf1 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.12"]
+[Round "4"]
+[White "Copping, Peter Fairbairn"]
+[Black "Tylor, Theodore Henry"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[PlyCount "82"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. d4 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. Qc2 Nc5 11. Re1 Ng4 12. Nf3 Be6 13. Nb5 c6 14. Nbd4 Ne5
+15. Nxe6 Nxe6 16. Be3 Nxf3+ 17. Bxf3 Bd4 18. Bxd4 Nxd4 19. Qd3 c5 20. Bg2 Rb8
+21. f4 b5 22. b3 Qf6 23. Rab1 b4 24. Re3 Re7 25. Rf1 Rbe8 26. Qb1 Kh8 27. Rf2
+Qg7 28. a3 a5 29. axb4 axb4 30. Ra2 f5 31. Ra6 fxe4 32. Kh1 Nf5 33. Rxe4 Rxe4
+34. Bxe4 Qc3 35. Kg2 Qd2+ 36. Kh3 Qe2 37. Ra8 Rxa8 38. Bxa8 h5 39. Qa1+ Kh7 40.
+Bf3 $1 Qxf3 41. Qh8+ Kxh8 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.12"]
+[Round "4"]
+[White "Heidenfeld, Wolfgang"]
+[Black "Moore, Brian J"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[PlyCount "83"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 e5 6. d5 Nh5 7. Ng3 Nf4 8. Nge2
+Nxe2 9. Bxe2 O-O 10. Be3 f5 11. f3 Nd7 12. O-O f4 13. Bf2 g5 14. b4 Rf6 15. g4
+fxg3 16. hxg3 Rg6 17. Kg2 Nf6 18. Rh1 g4 19. Qd3 gxf3+ 20. Bxf3 Bg4 21. Rh4
+Bxf3+ 22. Kxf3 Ng4 23. Rf1 Qg5 24. Ke2 Nxf2 25. Kxf2 Rf8+ 26. Ke2 Qxg3 27. Qxg3
+Rxg3 28. Rxf8+ Bxf8 29. Nb5 Be7 30. Rh1 Bd8 31. Nxa7 Rc3 32. Rg1+ Kf8 33. Rf1+
+Ke8 34. Rh1 Rxc4 35. Kd3 Rxb4 36. Rxh7 Be7 37. Nc8 Bg5 38. Rxc7 Kd8 39. Rc2
+Rd4+ 40. Ke2 Rxe4+ 41. Kf3 Rf4+ 42. Kg3 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.12"]
+[Round "4"]
+[White "Kitto, Francis Ernest A"]
+[Black "Newman, Richard Hilary"]
+[Result "1-0"]
+[ECO "B62"]
+[PlyCount "69"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Bb5 Bd7 8.
+O-O Be7 9. Bxc6 bxc6 10. Qf3 Qb6 11. Rad1 Rd8 12. Qg3 O-O 13. b3 c5 14. Nde2
+Kh8 15. Nf4 Bc6 16. Rd3 Qb7 17. Qh4 Ng8 18. Bxe7 Qxe7 19. Qxe7 Nxe7 20. Rfd1
+Nc8 21. f3 Rd7 22. e5 Rfd8 23. exd6 Rxd6 24. Rxd6 Rxd6 25. Nd3 c4 26. bxc4 Kg8
+27. Rb1 f6 28. Rb8 Rd8 29. Nb4 Bd7 30. c5 Re8 31. Rb7 Re7 32. Rc7 e5 33. Ncd5
+Rf7 34. Nc6 Kf8 35. Nd8 1-0
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.12"]
+[Round "4"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Courtney, Hugh Edward Guy"]
+[Result "0-1"]
+[ECO "A49"]
+[PlyCount "78"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. b3 Nbd7 7. Bb2 Re8 8.
+Nbd2 e5 9. dxe5 dxe5 10. Nc4 e4 11. Nfe5 Nxe5 12. Qxd8 Rxd8 13. Bxe5 Be6 14.
+Ne3 Rd2 15. Rfd1 Rxe2 16. Bf1 Rxe3 17. fxe3 Ng4 18. Bxg7 Kxg7 19. Re1 f5 20.
+Rad1 Kf6 21. Rd4 Ke5 22. Rd2 g5 23. h3 Nf6 24. Kf2 Rf8 25. Red1 Nd5 26. c4 Nb4
+27. Rd8 Rf7 28. a3 Nc6 29. Rg8 h6 30. Rh8 f4 31. gxf4+ gxf4 32. Rxh6 fxe3+ 33.
+Ke1 Rf2 34. Rg6 a5 35. Rg5+ Kf4 36. Rg2 Rxf1+ 37. Kxf1 Bxh3 38. Kg1 Bxg2 39.
+Kxg2 e2 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.13"]
+[Round "5"]
+[White "Courtney, Hugh Edward Guy"]
+[Black "Moore, Brian J"]
+[Result "1-0"]
+[ECO "E76"]
+[PlyCount "145"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Bd3
+Qxc5 9. Qe2 Nc6 10. Be3 Qh5 11. h3 Ng4 12. Bd2 Nd4 13. Qf1 Nxf3+ 14. Qxf3 Bd4
+15. Ke2 Nf2 16. Qxh5 gxh5 17. Rhf1 Nxd3 18. Kxd3 Bg7 19. f5 Be5 20. Nd5 e6 21.
+Ne7+ Kg7 22. Bc3 Kf6 23. Bxe5+ dxe5 24. Nxc8 Rfxc8 25. fxe6+ Kxe6 26. b4 Rd8+
+27. Kc3 Rd4 28. c5 Rxe4 29. Rad1 Rg8 30. Rd6+ Ke7 31. Rdf6 Rg3+ 32. R6f3 Rxf3+
+33. Rxf3 Re2 34. a4 Rxg2 35. b5 h4 36. Kc4 Ke6 37. Rd3 Rc2+ 38. Kb4 f5 39. Rd6+
+Ke7 40. Rh6 f4 41. Rxh7+ Ke6 42. Rh6+ Kf5 43. Rh5+ Kf6 44. Rh6+ Kg5 45. c6 b6
+46. Rh7 e4 47. Rxa7 e3 48. Re7 e2 49. Kb3 f3 50. Kxc2 f2 51. c7 e1=Q 52. c8=Q
+Qxe7 53. Qg4+ Kh6 54. Qf4+ Kh5 55. Qf3+ Kg5 56. Qxf2 Qe4+ 57. Kb3 Qd3+ 58. Kb4
+Qe4+ 59. Kc3 Qxa4 60. Qxb6 Qa3+ 61. Kd4 Qxh3 62. Qd8+ Kf4 63. Qc7+ Kg5 64. Qg7+
+Kh5 65. b6 Qb3 66. Qe5+ Kg4 67. Qe4+ Kg3 68. Qe3+ Qxe3+ 69. Kxe3 h3 70. b7 h2
+71. b8=Q+ Kg2 72. Qb2+ Kh3 (72... Kg1 73. Kf3 $1 h1=Q+ 74. Kg3 $18) 73. Qb7 1-0
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.13"]
+[Round "5"]
+[White "Newman, Richard Hilary"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "0-1"]
+[ECO "A89"]
+[PlyCount "96"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 d6 4. d4 g6 5. Bg2 Bg7 6. Nc3 O-O 7. O-O Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. e4 e6 11. Bg5 exd5 12. Nxd5 c6 13. Nxf6+ Bxf6 14. Qxd8
+Bxd8 15. Bxd8 Rxd8 16. Rfd1 Be6 17. b3 Kf7 18. Kf1 Kf6 19. Ke2 f4 20. Bf3 g5
+21. g4 Rd4 22. h3 Rh8 23. Rxd4 exd4 24. Kd3 Ke5 25. Be2 Bf7 26. Rg1 Bg6 27. f3
+c5 28. Rb1 a5 29. a4 h5 30. Rg1 Kf6 31. Rd1 hxg4 32. hxg4 Ke5 33. Re1 Rh3 34.
+Bd1 Rg3 35. Kd2 Rh3 36. Kd3 Be8 37. Rg1 Bd7 38. Kd2 Be6 39. Rg2 Rh1 40. Bc2 Rh3
+41. Ke2 d3+ 42. Bxd3 Kd4 43. Bc2 Kc3 44. Bd1 Rh1 45. Rf2 b5 46. cxb5 c4 47. Rf1
+Rh2+ 48. Rf2 Rh8 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.13"]
+[Round "5"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Copping, Peter Fairbairn"]
+[Result "0-1"]
+[ECO "D01"]
+[PlyCount "70"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 h6 5. Bxf6 exf6 6. e4 dxe4 7. fxe4 Bg6 8.
+Nf3 c6 9. Bd3 Qa5 10. O-O Nd7 11. Nh4 Bh7 12. a3 Qb6 13. Bc4 O-O-O 14. Bxf7 Ne5
+15. Be6+ Kb8 16. Qe1 Rxd4 17. Kh1 Qc7 18. Nf3 Nxf3 19. Rxf3 Qe5 20. Qg3 Bd6 21.
+Qxe5 Bxe5 22. Rd3 Rhd8 23. Rad1 Rxd3 24. Rxd3 Kc7 25. Rxd8 Kxd8 26. Bf5 Bxf5
+27. exf5 Bxc3 28. bxc3 Kd7 29. g4 Kd6 30. Kg2 b5 31. Kg3 a5 32. Kh4 a4 33. Kh5
+c5 34. Kg6 b4 35. Kxg7 bxa3 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.13"]
+[Round "5"]
+[White "Tylor, Theodore Henry"]
+[Black "Kitto, Francis Ernest A"]
+[Result "0-1"]
+[ECO "A11"]
+[PlyCount "66"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 Bf5 4. O-O e6 5. d3 Bc5 6. c4 c6 7. cxd5 exd5 8. Bg5
+Nbd7 9. Nh4 Bg6 10. Nc3 O-O 11. d4 Be7 12. Nxg6 hxg6 13. Rb1 Re8 14. e3 Nf8 15.
+Bxf6 gxf6 16. b4 a6 17. a4 f5 18. Ne2 Ne6 19. b5 axb5 20. axb5 Kg7 21. bxc6
+bxc6 22. Qc2 Rc8 23. Qa2 Rh8 24. Rb7 Qd6 25. Rc1 Rce8 26. Rb6 Nd8 27. Nf4 Qd7
+28. Qa4 Bd6 29. Nxd5 g5 30. Nb4 f4 31. Bxc6 Qh3 32. Nd3 fxe3 33. Bxe8 e2 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.14"]
+[Round "6"]
+[White "Copping, Peter Fairbairn"]
+[Black "Courtney, Hugh Edward Guy"]
+[Result "0-1"]
+[ECO "D13"]
+[PlyCount "108"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Qb3 Nc6 6. e3 Na5 7. Bb5+ Bd7 8.
+Qd3 a6 9. Bxd7+ Qxd7 10. O-O Nc6 11. b3 e6 12. Bb2 Nb4 13. Qe2 Be7 14. Ne5 Qb5
+15. Qxb5+ axb5 16. Nc3 Ra5 17. Rfc1 Nc6 18. a4 bxa4 19. Rxa4 Rxa4 20. Nxa4 Nd8
+21. Bc3 Nd7 22. Nxd7 Kxd7 23. Ba5 Nc6 24. Bb6 Ra8 25. Kf1 Bd6 26. Bc5 Bxc5 27.
+dxc5 Kc7 28. Rb1 Nb4 29. Ke2 Kc6 30. Kd2 Ra5 31. Kc3 Rb5 32. Kd4 Na6 33. f4
+Nxc5 34. Nxc5 Rxc5 35. Rb2 f6 36. e4 Rc1 37. exd5+ exd5 38. g3 Rd1+ 39. Kc3 Kc5
+40. Kc2 Rf1 41. Kd3 Rf3+ 42. Ke2 Rc3 43. g4 Rh3 44. Rc2+ Kd4 45. Rc7 Rxh2+ 46.
+Ke1 Kd3 47. Rxb7 Re2+ 48. Kf1 Re4 49. Rxg7 Rxf4+ 50. Kg2 Ke3 51. Kg3 d4 52.
+Re7+ Re4 53. Rxh7 d3 54. Rh1 d2 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.14"]
+[Round "6"]
+[White "Heidenfeld, Wolfgang"]
+[Black "Tylor, Theodore Henry"]
+[Result "0-1"]
+[ECO "E70"]
+[PlyCount "46"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 Nbd7 6. Ng3 e5 7. d5 a5 8. Be2
+Nc5 9. b3 Bd7 10. Be3 b6 11. Qd2 h5 12. h4 Nh7 13. Rb1 Bf6 14. Bh6 Bxh4 15.
+Nxh5 gxh5 16. Bxh5 Bg5 17. Bxf7+ Kxf7 18. Bxg5 Nxg5 19. Rxh8 Qxh8 20. Qxg5 Rg8
+21. Qe3 Qh1+ 22. Kd2 Qxg2 23. Re1 Rh8 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.14"]
+[Round "6"]
+[White "Kitto, Francis Ernest A"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[PlyCount "93"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 e6 5. Bg5 Be7 6. Nge2 Nxe4 7. dxe4 Bxg5 8.
+f4 Be7 9. a3 a6 10. O-O b5 11. Ba2 Bb7 12. f5 Ne5 13. Nf4 c4 14. Qe1 Ng4 15.
+Kh1 h5 16. b3 Bf6 17. bxc4 bxc4 18. Rb1 Bxc3 19. Qxc3 Qh4 20. Nh3 Bxe4 21. fxe6
+dxe6 22. Rbe1 Nf6 23. Rf4 Nd5 24. Rxh4 Nxc3 25. Rhxe4 Nxa2 26. Rxc4 O-O 27. Ra1
+Rab8 28. Kg1 Rb2 29. Nf4 Rfb8 30. Nxh5 Rb1+ 31. Rxb1 Rxb1+ 32. Kf2 Rb5 33. Ng3
+Ra5 34. a4 Rd5 35. Ne2 Kf8 36. Ke3 Ke7 37. Nf4 Ra5 38. g4 g5 39. Nd3 Kd6 40.
+Rd4+ Rd5 41. c4 Rxd4 42. Kxd4 f6 43. c5+ Kc6 44. Kc4 a5 45. Kb3 Nb4 46. Nxb4+
+axb4 47. Kxb4 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.14"]
+[Round "6"]
+[White "Moore, Brian J"]
+[Black "Newman, Richard Hilary"]
+[Result "0-1"]
+[ECO "A61"]
+[PlyCount "44"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. a4 Bg7 8. Nd2
+O-O 9. Nc4 b6 10. Bf4 Ba6 11. e4 Bxc4 12. Bxc4 Re8 13. Qc2 Nxe4 14. Nxe4 f5 15.
+f3 fxe4 16. O-O Qf6 17. fxe4 Qd4+ 18. Kh1 Rxe4 19. Bxd6 Qxc4 20. Qf2 Qxd5 21.
+Rad1 Rd4 22. Rde1 Nc6 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.15"]
+[Round "7"]
+[White "Copping, Peter Fairbairn"]
+[Black "Kitto, Francis Ernest A"]
+[Result "0-1"]
+[ECO "E46"]
+[PlyCount "40"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Bd6 7. Ng3 b6 8. Bd3
+c5 9. dxc5 bxc5 10. O-O Nc6 11. e4 Bxg3 12. hxg3 d4 13. Na4 Qe7 14. Bg5 e5 15.
+b3 Bd7 16. Bc2 Rac8 17. Nb2 Qd6 18. Qe1 Ng4 19. Qe2 Qg6 20. Bd2 $4 (20. Bh4 $8)
+20... Qh5 0-1
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.15"]
+[Round "7"]
+[White "Courtney, Hugh Edward Guy"]
+[Black "Newman, Richard Hilary"]
+[Result "1/2-1/2"]
+[ECO "C21"]
+[PlyCount "115"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Nf6 7. Bxf7+ Kxf7
+8. Qxd8 Bb4+ 9. Qd2 Bxd2+ 10. Nxd2 Re8 11. Ngf3 Nc6 12. O-O Bg4 13. e5 Nd5 14.
+g3 Ndb4 15. Ng5+ Kg6 16. f4 Nd3 17. Bc3 Be2 18. Rfb1 Rab8 19. Ngf3 b5 20. Nh4+
+Kf7 21. Ne4 b4 22. Bb2 a5 23. e6+ Kg8 24. f5 a4 25. Re1 Nxe1 26. Rxe1 Bc4 27.
+Bxg7 Bxe6 28. fxe6 Kxg7 29. Nf5+ Kg6 30. Nh4+ Kg7 31. Nf5+ Kg6 32. Nh4+ Kh5 33.
+Nf6+ Kh6 34. h3 b3 35. axb3 axb3 36. Nxe8 Rxe8 37. Re3 Nd4 38. e7 b2 39. Re1
+Rxe7 40. Rxe7 b1=Q+ 41. Kf2 Nf5 42. Re6+ Kg7 43. Nf3 Qb2+ 44. Re2 Qb6+ 45. Kg2
+Nd4 46. Nxd4 Qxd4 47. Re7+ Kf6 48. Rxc7 Qd2+ 49. Kf3 Qd3+ 50. Kf2 Ke6 51. h4
+Kd6 52. Rf7 Qd4+ 53. Kg2 Qd5+ 54. Rf3 Ke5 55. Kf2 Qd2+ 56. Kg1 Ke4 57. Rf4+ Ke3
+58. Kh1 1/2-1/2
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.15"]
+[Round "7"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "1-0"]
+[ECO "D78"]
+[PlyCount "59"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 c6 7. Nc3 h6 8. Ne5
+Be6 9. f4 Nbd7 10. b3 dxc4 11. bxc4 Nxe5 12. fxe5 Nh7 13. Qd3 Qd7 14. Bb2 Bh3
+15. Ne4 Bxg2 16. Kxg2 Rfd8 17. Nc5 Qc8 18. e6 f5 19. Nd7 Rxd7 20. exd7 Qxd7 21.
+Rad1 Ng5 22. Ba3 Re8 23. d5 e6 24. h4 Ne4 25. dxc6 Qxc6 26. Qd7 Rc8 27. Qxc6
+Rxc6 28. Rd8+ Kh7 29. Rd7 Rb6 30. Bf8 1-0
+
+[Event "Paignton Premier 6th"]
+[Site "Paignton"]
+[Date "1956.09.15"]
+[Round "7"]
+[White "Tylor, Theodore Henry"]
+[Black "Moore, Brian J"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[PlyCount "77"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. Re1 d6 6. c3 e5 7. e4 Nc6 8. h3
+Re8 9. d3 a5 10. Nbd2 Nd7 11. Nf1 Nc5 12. Ne3 Bd7 13. Nd5 Qc8 14. Kh2 Ne7 15.
+d4 Ne6 16. Be3 Nxd5 17. exd5 Nd8 18. Nd2 f5 19. dxe5 dxe5 20. Nc4 Nf7 21. d6
+Nxd6 22. Nxd6 cxd6 23. Qxd6 Kh8 24. f4 Ra6 25. Qd2 e4 26. Bf1 Ra8 27. Bd4 Bc6
+28. Bxg7+ Kxg7 29. Qd4+ Kh6 30. Rad1 Qe6 31. Bc4 Qe7 32. Qe3 Rad8 33. Kg1 Rxd1
+34. Rxd1 Rd8 35. Rd4 Kg7 36. Kf2 h5 37. h4 Kf6 38. Qd2 Qc5 39. Ke3 1/2-1/2
+
+[Event "Paignton Women's International"]
+[Site "Paignton"]
+[Date "1956.09.11"]
+[Round "2"]
+[White "Heemskerk, Fenny"]
+[Black "Rinder, Elfriede"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[PlyCount "58"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 c5 5. e3 Nc6 6. O-O Bd6 7. b3 O-O 8. Bb2
+cxd4 9. exd4 Qc7 10. Re1 b6 11. Nbd2 Ba6 12. a3 Rac8 13. Rc1 Na5 14. Ne5 Qe7
+15. a4 Ba3 16. Bxa3 Qxa3 17. c4 Qb2 18. cxd5 exd5 19. Rxc8 Rxc8 20. Nef3 Rc3
+21. Ng5 h6 22. Nxf7 Nxb3 23. Nxb3 Qxb3 24. Qxb3 Rxb3 25. Ne5 Ra3 26. Bh3 Rxa4
+27. Be6+ Kh8 28. Ng6+ Kh7 29. Nf8+ Kh8 {10 Source: Sueddeutsche Schachzeitung
+1957. Contributed by Ulrich Tamm, 17 May 2021.} 1/2-1/2
+
+[Event "Paignton Women's International"]
+[Site "Paignton"]
+[Date "1956.09.13"]
+[Round "4"]
+[White "Heemskerk, Fenny"]
+[Black "Bruce, Rowena Mary"]
+[Result "1-0"]
+[ECO "A85"]
+[PlyCount "76"]
+[EventDate "1956.09.10"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Bb4 5. Bf4 d6 6. Qb3 Bxc3+ 7. bxc3 O-O 8.
+h4 Qe8 9. c5 Ne4 10. cxd6 cxd6 11. Ng5 d5 12. Nxe4 fxe4 13. e3 Nd7 14. Be2 Nb6
+15. a4 Bd7 16. a5 Na4 17. c4 dxc4 18. Bxc4 b5 19. axb6 Nxb6 20. Ba6 Qg6 21. O-O
+Bc6 22. Rac1 Bd5 23. Qb4 Rf7 24. Rc7 Qg4 25. Rxf7 Kxf7 26. g3 h6 27. Rc1 Nd7
+28. Qd6 Nf6 29. Rc7+ Kg8 30. Qe7 Qd1+ 31. Bf1 Qg4 32. Be2 Qg6 33. h5 Qh7 34.
+Be5 Ne8 35. Qf7+ Kh8 36. Re7 Qg8 37. Qg6 Bc6 38. Qxh6+ Qh7 {"Here the game was
+adjourned but Black resigned without resuming play." Source: BCM, October 1956,
+p287} 1-0
+

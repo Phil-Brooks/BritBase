@@ -1,0 +1,327 @@
+﻿[Event "Ilford Premier 3rd"]
+[Site "Ilford"]
+[Date "1952.05.30"]
+[Round "1"]
+[White "Bowen, Alfred William"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[ECO "D95"]
+[PlyCount "47"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "StarBase 2.74"]
+[Source "Pickard & Son"]
+[SourceDate "2001.12.15"]
+[SourceVersion "1"]
+[SourceVersionDate "2001.12.15"]
+[SourceQuality "2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Qb3 dxc4 6. Bxc4 O-O 7. Nf3 Nc6 8.
+Be2 Na5 9. Qc2 Nc6 10. O-O Bf5 11. e4 Bg4 12. d5 Bxf3 13. dxc6 Bxe2 14. cxb7
+Bxf1 15. bxa8=Q Qxa8 16. Kxf1 Qc6 17. Bf4 Nd5 18. exd5 Qc4+ 19. Kg1 Qxf4 20.
+Re1 Be5 21. g3 Qf6 22. Ne4 Qb6 23. Nc5 Bd6 24. Rc1 1/2-1/2
+
+[Event "Ilford Premier 3rd"]
+[Site "Ilford"]
+[Date "1952.05.30"]
+[Round "1"]
+[White "Wade, Robert Graham"]
+[Black "Israel, Harold"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1r2/4bkp1/3p3p/p3p3/PpP1R3/1P3P1P/1B4P1/3R2K1 w - - 0 34"]
+[PlyCount "7"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1952-07"]
+
+34. Rd5 Ra8 35. f4 $1 exf4 36. Bxg7 $1 Kxg7 37. Rxe7+ {Source: BCM, July 1952,
+p188} 1-0
+
+[Event "Ilford Premier 3rd"]
+[Site "Ilford"]
+[Date "1952.05.31"]
+[Round "2"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "B85"]
+[PlyCount "119"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1952-07"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. O-O a6 8. Be3
+Qc7 9. f4 Be7 10. Qe1 O-O 11. Rd1 Bd7 12. Kh1 Rac8 13. Bf3 b5 14. a3 Rfd8 15.
+Qf2 Rb8 16. Nxc6 Bxc6 17. Bd4 b4 18. axb4 Rxb4 19. e5 Ne8 20. Ne4 h6 21. c3
+Rbb8 22. b4 a5 23. bxa5 Qxa5 24. Nf6+ gxf6 25. Bxc6 dxe5 26. fxe5 f5 27. Ra1
+Qc7 28. Bf3 Rd7 29. Ra6 Qc4 30. Be2 Qd5 31. Bf3 Qc4 32. Be2 Qd5 33. Qg3+ Kh7
+34. Bd3 Ng7 35. Qh3 Bg5 36. Qf3 Qxf3 37. Rxf3 h5 38. Ra2 Kg6 39. g3 f6 40. Ra6
+fxe5 41. Bxe5 Re8 42. Bb5 Rd1+ 43. Kg2 Re7 44. c4 Bf6 45. Bd6 Rd2+ 46. Rf2
+Rxf2+ 47. Kxf2 Ra7 48. Rxa7 Bd4+ 49. Kf3 Bxa7 50. c5 e5 51. Bd7 Kf6 52. c6 e4+
+53. Ke2 Ne6 54. c7 Nxc7 55. Bxc7 Kg5 56. h3 Bd4 57. Be8 h4 58. Bd8+ Kh6 59.
+Bxh4 Be5 60. Ke3 {Source: BCM, July 1952, p186} 1-0
+
+[Event "Ilford Premier 3rd"]
+[Site "Ilford"]
+[Date "1952.05.31"]
+[Round "3"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Friedman, Otto"]
+[Result "1-0"]
+[ECO "B73"]
+[PlyCount "63"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1952-07"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. h3 d5 10. exd5 Nb4 11. Nb3 Nfxd5 12. Nxd5 Qxd5 13. c3 Qxd1 14. Raxd1
+Nc6 15. Nc5 Re8 16. Bb5 a6 17. Bc4 Rb8 18. Rfe1 b5 19. Bd5 Na5 20. Bg5 Kf8 21.
+b4 Bxc3 22. bxa5 Bxa5 23. Re2 Bb4 24. Bc6 Bxc5 25. Bh6+ Kg8 26. Bxe8 Bb7 27.
+Bd7 Rd8 28. Rc2 Bd6 29. Bg4 a5 30. Rc5 Ba6 31. Rc6 Ra8 32. Bf3 {Source: BCM,
+July 1952, p187} 1-0
+
+[Event "Ilford Premier 3rd"]
+[Site "Ilford"]
+[Date "1952.06.01"]
+[Round "4"]
+[White "Friedman, Otto"]
+[Black "Wade, Robert Graham"]
+[Result "0-1"]
+[ECO "D48"]
+[PlyCount "64"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1952-07"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 b4 11. Na4 c5 12. e5 Nd5 13. Nxc5 Nxc5 14. dxc5 Bxc5 15.
+Qe2 h6 16. Bd2 Qb6 17. Rac1 Rc8 18. Rc4 Ne7 19. Rg4 g6 20. Rc1 Kf8 21. h4 a5
+22. h5 g5 23. a3 Rd8 24. axb4 axb4 25. Be1 Nd5 26. g3 $2 Ne3 $1 27. fxe3 Bxe3+
+28. Kg2 Bxc1 29. Rxb4 g4 30. Rxb6 gxf3+ 31. Kf2 fxe2 32. Bxe2 Bd5 {time 
+(Source: BCM, July 1952, p187)} 0-1
+
+[Event "Ilford Premier 3rd"]
+[Site "Ilford"]
+[Date "1952.06.01"]
+[Round "4"]
+[White "Israel, Harold"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "0-1"]
+[ECO "C14"]
+[PlyCount "78"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "StarBase 2.74"]
+[Source "Pickard & Son"]
+[SourceDate "2001.12.15"]
+[SourceVersion "1"]
+[SourceVersionDate "2001.12.15"]
+[SourceQuality "2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 O-O 8.
+f4 c5 9. Nf3 Nc6 10. g3 a6 11. Bg2 Nb6 12. b3 Bd7 13. Ne2 cxd4 14. Nfxd4 Qc5
+15. c3 Nc8 16. O-O N8e7 17. Kh1 Rac8 18. Rac1 Qa5 19. Rfd1 Rc7 20. a4 Nxd4 21.
+Nxd4 Qb6 22. Qa2 Nc6 23. Nxc6 Bxc6 24. a5 Qe3 25. Re1 Qc5 26. b4 Qe7 27. Qd2
+Rd8 28. Re3 Bb5 29. Bf1 d4 30. cxd4 Rxc1 31. Qxc1 Bxf1 32. Qxf1 Qxb4 33. Qe1
+Qxd4 34. Re4 Qd5 35. Kg1 h6 36. Re3 Qa2 37. Re2 Qc4 38. Rd2 Qc5+ 39. Qf2 Qc1+ {
+Source: 'Chess the Hard Way!' by DA Yanofsky, (Pitman, 1953), p147} 0-1
+
+[Event "Ilford Premier 3rd"]
+[Site "Ilford"]
+[Date "1952.06.02"]
+[Round "5"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Phillips, Alan"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[PlyCount "72"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "StarBase 2.74"]
+[Source "Pickard & Son"]
+[SourceDate "2001.12.15"]
+[SourceVersion "1"]
+[SourceVersionDate "2001.12.15"]
+[SourceQuality "2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Qc7 13. Bg5 Bb7 14. Nbd2 h6 15.
+Bh4 Rac8 16. Rc1 Qb8 17. Bg3 Nc6 18. Nf1 Bd8 19. d5 Ne7 20. Ne3 Bb6 21. Bh4 g5
+22. Bg3 Rc7 23. Bb1 Rxc1 24. Qxc1 Kh7 25. Qd1 Bc8 26. Nh2 Ng6 27. Nhg4 Nxg4 28.
+hxg4 Nf4 29. Nf5 Bxf5 30. exf5 f6 31. Bxf4 gxf4 32. g5 hxg5 33. Qh5+ Kg8 34.
+Qg6+ Kh8 35. Qh6+ Kg8 36. Qg6+ Kh8 1/2-1/2
+
+[Event "Ilford Open A"]
+[Site "Ilford"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Speigel, Jack Alfred"]
+[Black "Farrand, Julian Thomas"]
+[Result "0-1"]
+[ECO "C58"]
+[PlyCount "58"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1952-07"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. c3 O-O 11. Nd4 Bg4 12. Qc2 a5 13. Be3 Re8 14. Nd2 Bxd4 15.
+Bxd4 b5 16. b3 a4 17. O-O Be2 18. Rfe1 Bd3 19. Qb2 a3 20. Qc1 Nh5 21. Re3 Nf4
+22. Qe1 Qg5 23. g3 Nh3+ 24. Kh1 f5 25. cxb5 f4 26. Nxe4 Qxd5 27. Rxd3 Rxe4 28.
+Be3 Rd4+ 29. f3 Qxf3# {Source: BCM, July 1952, p188} 0-1
+
+[Event "Ilford Major G"]
+[Site "Ilford"]
+[Date "1952.05.30"]
+[Round "1"]
+[White "Camminis, Philip J"]
+[Black "Ives, Ronald Wilson"]
+[Result "0-1"]
+[ECO "E90"]
+[PlyCount "70"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be3 Nbd7 7. b4 e5 8. d5
+Ng4 9. Bg5 f6 10. Bc1 f5 11. Ng5 Ndf6 12. f3 Nh6 13. Bd3 f4 14. Ne2 Nh5 15. h4
+Nf7 16. Ne6 Bxe6 17. dxe6 Nh6 18. c5 Qe7 19. Qc2 Kh8 20. Qc4 Bf6 21. g3 Ng8 22.
+Bb2 fxg3 23. O-O-O Bxh4 24. Ng1 Nf4 25. Be2 g2 26. Rh2 Bg3 27. Bxe5+ dxe5 28.
+Rd7 Nxe2+ 29. Nxe2 Qg5+ 30. Kc2 Bxh2 31. Qc3 g1=Q 32. Nxg1 Bxg1 33. Rxc7 Qg2+
+34. Kb1 Qf1+ 35. Kc2 Qe2+ {Source: RW Ives scorebook} 0-1
+
+[Event "Ilford Major G"]
+[Site "Ilford"]
+[Date "1952.05.31"]
+[Round "2"]
+[White "Ives, Ronald Wilson"]
+[Black "Wycherley, Kenneth W"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[PlyCount "50"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. f3 d6 5. e4 Nbd7 6. Be3 O-O 7. Bd3 e5 8. Nge2
+Qe7 9. O-O exd4 10. Bxd4 Ne5 11. Rc1 c6 12. b4 Be6 13. c5 Nxd3 14. Qxd3 d5 15.
+Be5 dxe4 16. fxe4 Ne8 17. Bxg7 Nxg7 18. Rcd1 Rad8 19. Qg3 Rxd1 20. Rxd1 Rd8 21.
+Rxd8+ Qxd8 22. Qd6 Qc8 23. Nf4 Ne8 24. Qe7 Qd7 25. Qxd7 Bxd7 {Source: RW Ives
+scorebook} 1/2-1/2
+
+[Event "Ilford Major G"]
+[Site "Ilford"]
+[Date "1952.05.31"]
+[Round "3"]
+[White "Wilkinson, SA."]
+[Black "Ives, Ronald Wilson"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[PlyCount "114"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. g3 Bg4 7. Bg2 Nfd7 8. h3
+Bxf3 9. Bxf3 e5 10. Be3 exd4 11. Bxd4 Ne5 12. Be2 Nbc6 13. Be3 Na5 14. Qa4 b6
+15. O-O Qc8 16. Kg2 Nb7 17. Rac1 Nc5 18. Qc2 a5 19. Nd5 Qd8 20. b3 c6 21. Nc3
+Qe7 22. Rcd1 Rad8 23. Rd2 f5 24. f4 Ned7 25. Bxc5 Nxc5 26. exf5 Rxf5 27. Bf3
+Bxc3 28. Qxc3 Ne4 29. Re1 Qf6 30. Qxf6 Nxf6 31. Bxc6 Rc5 32. Re6 Rxc6 33. Rxf6
+Kg7 34. Re6 Kf7 35. Rde2 Rd7 36. g4 a4 37. g5 axb3 38. axb3 Rcc7 39. Kf3 Rb7
+40. Rf6+ Kg7 41. Rd2 b5 42. cxb5 Rxb5 43. Rd3 Rdb7 44. Rfxd6 Rxb3 45. Kg4 Rxd3
+46. Rxd3 Rb5 47. h4 Rb4 48. Rc3 {('R-B3')} Rb1 49. Rg3 Rb4 50. Rc3 {('R-B3')}
+Rb1 51. Rg3 Rb4 52. Rh3 {('R-R3')} Rb1 53. h5 Rg1+ 54. Rg3 gxh5+ 55. Kf3 Rf1+
+56. Ke4 Kg6 57. Re3 Ra1 {Source: RW Ives scorebook} 1/2-1/2
+
+[Event "Ilford Major G"]
+[Site "Ilford"]
+[Date "1952.06.01"]
+[Round "4"]
+[White "Ives, Ronald Wilson"]
+[Black "Petterson, J."]
+[Result "1-0"]
+[ECO "A02"]
+[PlyCount "65"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+
+1. f4 b6 2. e3 Bb7 3. Nf3 e6 4. b3 Be7 5. Bb2 Bf6 6. d4 c5 7. Be2 Ne7 8. O-O
+Nf5 9. Qd2 Nc6 10. g4 cxd4 11. gxf5 dxe3 12. Bxf6 Qxf6 13. Qc3 Qxf5 14. Qxe3
+Qxc2 15. Nc3 d5 16. Rf2 Qg6+ 17. Rg2 Qf6 18. Rd1 d4 19. Qd2 O-O 20. Ne4 Qe7 21.
+Nxd4 Rfd8 22. Nxc6 Bxc6 23. Qc3 f5 24. Rxd8+ Rxd8 25. Qxc6 fxe4 26. Qxe4 g6 27.
+Bc4 Rd1+ 28. Kf2 Qh4+ 29. Kf3 Qh5+ 30. Kg3 Rh1 31. Qxe6+ Kg7 32. Qf7+ Kh6 33.
+Qf8# {Source: RW Ives scorebook} 1-0
+
+[Event "Ilford Major G"]
+[Site "Ilford"]
+[Date "1952.06.02"]
+[Round "5"]
+[White "Ives, Ronald Wilson"]
+[Black "Melitus, Gregory Owen John"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[PlyCount "55"]
+[EventDate "1952.05.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.28"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.28"]
+[SourceQuality "1"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Ne4 5. d4 Bg4 6. Bd3 Nxc3 7. bxc3 e6 8. O-O
+Nd7 9. a4 Be7 10. Ba3 O-O 11. Bxe7 Qxe7 12. Re1 c5 13. Rb1 c4 14. Be2 Bxf3 15.
+Bxf3 Rab8 16. Bg4 Nb6 17. a5 Na4 18. Re3 Qc7 19. a6 b5 20. f4 g6 21. Qe1 Qe7
+22. Qg3 Kh8 23. Qh3 Rb6 24. Qh6 Rg8 25. Rh3 Rg7 26. Be2 Qa3 27. Qg5 Rb8 28.
+Rxb5 {Source: RW Ives scorebook} 1/2-1/2
+
