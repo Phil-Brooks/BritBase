@@ -1,0 +1,4490 @@
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Littlewood, Paul E"]
+[Black "Middleton, Ervin R"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2345"]
+[BlackElo "2295"]
+[PlyCount "119"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 b5 7. Bc2 d5 8. a4 Rb8
+9. axb5 axb5 10. d3 d4 11. cxd4 cxd4 12. Bb3 Nf6 13. Bf4 Rb6 14. Ne5 Nxe5 15.
+Bxe5 O-O 16. Qc1 Ne8 17. Bxg7 Nxg7 18. Ra8 Qd7 19. Na3 Qb7 20. Bd5 Qd7 21. Qc5
+Ra6 22. Rb8 Ne6 23. Bxe6 Rxe6 24. Nxb5 Ba6 25. Rxf8+ Kxf8 26. Nxd4 Rd6 27. Nf3
+Bxd3 28. Re1 Qb7 29. Qc3 Kg8 30. e5 Rd5 31. h3 Bf5 32. Nd4 Qd7 33. Nc6 Rd3 34.
+Qc5 Kf8 35. b4 Rd2 36. b5 Rc2 37. Qb4 Qd2 38. Qxe7+ Kg8 39. Qd8+ Qxd8 40. Nxd8
+Rb2 41. Nc6 Bd3 42. Rd1 Bxb5 43. Rd8+ Kg7 44. Ne7 Re2 45. Rg8+ Kh6 46. f4 Kh5
+47. Kh2 Bc4 48. Rh8 Kh6 49. Rc8 Bd3 50. Ng8+ Kg7 51. Nf6 h5 52. Kg3 Be4 53. Kh4
+Rf2 54. g3 Bf5 55. Rg8+ Kh6 56. g4 hxg4 57. hxg4 Rxf4 58. Rh8+ Kg7 59. Rh7+ Kf8
+60. Kg5 {Source: Paul Littlewood} 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Clark, Gary M"]
+[Black "Harding, Timothy David"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2130"]
+[BlackElo "2230"]
+[Annotator "Harding,T"]
+[PlyCount "117"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "Tim Harding"]
+[Source "Tim Harding"]
+[SourceDate "2023.12.23"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.23"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 {Another McCutcheon accident} 5. e5 h6
+6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4 g6 9. h4 c5 10. Bd3 Nxd2 11. Kxd2 Nc6 12. Rh3
+cxd4 13. cxd4 Qb6 14. Ne2 Qb4+ 15. Kd1 Nxe5 16. Qf4 Nxd3 17. Rxd3 b6 18. h5 Qe7
+19. hxg6 fxg6 20. Rc3 Rh7 21. Kd2 Qg5 22. Rh1 Qxf4+ 23. Nxf4 Kf7 24. Nd3 Ba6
+25. Ne5+ Kg8 26. Nxg6 Rc8 27. Rg3 Kf7 28. Rh4 Ke8 29. Ne5 Rhc7 30. Rg8+ Ke7 31.
+Rxc8 Bxc8 32. Rxh6 Kd6 33. g4 Rg7 34. g5 Ke7 35. f4 Bd7 36. Ke3 Ba4 37. Kd2 Bb5
+38. Rh8 Bf1 39. Ra8 Kd6 40. Rd8+ Kc7 41. Rf8 Bh3 42. Ke3 Bf5 43. c3 Kd6 44. Rc8
+Ke7 45. Kf3 Kd6 46. Kg3 Rb7 47. a3 b5 48. Rd8+ Ke7 49. Nc6+ Kf7 50. Ra8 Rb6 51.
+Rxa7+ Ke8 52. Ne5 Rb8 53. g6 Rc8 54. Kh4 Rxc3 55. Kg5 Rc8 56. g7 Bh7 57. Kf6
+Bg8 58. Re7+ Kd8 59. Nf7+ {Source: Tim Harding} 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Blow, Ronald"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2225"]
+[BlackElo "2230"]
+[PlyCount "113"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 g6 6. c3 Bg7 7. h3 Nf6 8. d4
+O-O 9. Bf1 Qc7 10. d5 Ne5 11. Nxe5 dxe5 12. c4 Ne8 13. Bg5 f6 14. Be3 Nd6 15.
+Nc3 a6 16. a4 f5 17. exf5 gxf5 18. f4 e4 19. Qc2 b6 20. Qf2 Rfc8 21. Be2 Rab8
+22. Rec1 Qd8 23. Kh1 Qf8 24. Rc2 Bf6 25. Rb1 Qg7 26. Rg1 Qh6 27. Kh2 Kf7 28. g3
+Rg8 29. a5 Bxc3 30. Rxc3 bxa5 31. Bxc5 Rxb2 32. Bh5+ Qxh5 33. Qxb2 Qg6 34. Qb6
+Rc8 35. Qa7 Ke8 36. Rb1 Qh5 37. Rb2 Qd1 38. Bxd6 exd6 39. Qxa6 Qd4 40. Rcc2 Qc5
+41. Qb6 a4 42. Qxc5 Rxc5 43. Ra2 Kd8 44. Kg2 Kc7 45. Kf2 Kb6 46. Ke3 Ka5 47.
+Kd4 Bc8 48. Rc3 Kb4 49. Rb2+ Ka5 50. Rb8 Ba6 51. g4 fxg4 52. hxg4 e3 53. Kxe3
+Bxc4 54. Kd4 Ba6 55. Rxc5+ dxc5+ 56. Kxc5 a3 57. d6 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Webb, Simon"]
+[Black "Supancic, Darko"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2445"]
+[BlackElo "2335"]
+[PlyCount "105"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 d6 6. g3 g6 7. Bg2 Bd7 8. O-O
+Bg7 9. b3 O-O 10. Bb2 Rc8 11. Rc1 a6 12. Qd2 Qa5 13. Rfd1 Rfe8 14. Na4 Qxd2 15.
+Rxd2 Nxd4 16. Bxd4 Bxa4 17. bxa4 b5 18. axb5 axb5 19. Rdc2 bxc4 20. Rxc4 Rxc4
+21. Rxc4 e5 22. Ba7 d5 23. Rc7 Ra8 24. a4 Bf8 25. a5 e4 26. e3 Ne8 27. Rd7 Nd6
+28. Bf1 Nc4 29. Rxd5 Rxa7 30. Bxc4 Kg7 31. Rb5 Bd6 32. Rd5 Rc7 33. Rxd6 Rxc4
+34. g4 Ra4 35. a6 g5 36. Kg2 Ra2 37. Kg3 Ra1 38. h4 h6 39. h5 Rg1+ 40. Kh2 Ra1
+41. Kg2 Ra2 42. Rb6 Ra1 43. Rc6 Ra2 44. Kf1 Ra1+ 45. Ke2 Ra2+ 46. Ke1 Ra1+ 47.
+Kd2 Ra2+ 48. Kc3 Rxf2 49. Kb3 Rf1 50. Rc2 Rb1+ 51. Rb2 Ra1 52. Ra2 Rb1+ 53. Kc4
+1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Hartston, William Roland"]
+[Black "Garbett, Paul Anthony"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2475"]
+[BlackElo "2310"]
+[PlyCount "100"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 Ne4 6. Qd3 Qa5 7. Qxe4 Bxc3+ 8.
+Bd2 Bxd2+ 9. Nxd2 cxd4 10. Qxd4 O-O 11. Bg2 Qc7 12. O-O Nc6 13. Qc3 d6 14. Rfd1
+Rd8 15. Rac1 e5 16. Ne4 Bg4 17. Qd3 Bh5 18. Nc3 Qa5 19. Be4 Bg6 20. a3 Rd7 21.
+e3 Ne7 22. Qe2 Rc8 23. h4 Bxe4 24. Nxe4 Rcd8 25. b4 Qxa3 26. Ra1 Qxb4 27. Rdb1
+Qxb1+ 28. Rxb1 b6 29. Rd1 h6 30. g4 f6 31. Kh2 f5 32. gxf5 Nxf5 33. Qg4 Rf7 34.
+Ng3 Rdf8 35. Rd2 Rf6 36. Nxf5 Rxf5 37. Kg3 R5f6 38. Qe4 R8f7 39. f3 Rc7 40. f4
+Rc5 41. Rf2 exf4+ 42. exf4 Ra5 43. Re2 Rc5 44. Qa8+ Rf8 45. Re8 Rxe8 46. Qxe8+
+Kh7 47. Qe4+ Kh8 48. Qe6 a5 49. Qxd6 a4 50. Qxb6 Rxc4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Large, Peter G"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[ECO "B86"]
+[WhiteElo "2275"]
+[BlackElo "2440"]
+[PlyCount "98"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8. Ba2
+O-O 9. O-O Nc6 10. Be3 Bd7 11. f4 Nxd4 12. Qxd4 Ng4 13. Kh1 Bf6 14. e5 Nxe3 15.
+Qxe3 dxe5 16. fxe5 Bg5 17. Qh3 Bc6 18. Rad1 Qe7 19. Bc4 Rad8 20. Bd3 g6 21. Rf2
+Qc5 22. Qg3 Qe3 23. Re2 Qxg3 24. hxg3 Kg7 25. Ne4 Be7 26. Rf1 h5 27. Kh2 Rd4
+28. Rf4 a5 29. Nd2 Rfd8 30. Ref2 Rxf4 31. gxf4 Bc5 32. Re2 Bd4 33. Nb3 Bxb2 34.
+Nxa5 Bxa3 35. Nxc6 bxc6 36. Re4 c5 37. g3 Bb4 38. Kg2 Bc3 39. Ra4 Bd4 40. Kf3
+Rb8 41. Kg2 Rb1 42. Ra3 Rg1+ 43. Kh2 h4 44. Be4 Re1 45. Bf3 g5 46. gxh4 gxf4
+47. Bg2 Bxe5 48. Kh3 f5 49. Ra5 Re3+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Kristiansen, Tor"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2320"]
+[BlackElo "2450"]
+[PlyCount "88"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 e5 4. Bg2 f5 5. e3 Nf6 6. Nge2 O-O 7. b4 d6 8. O-O
+Kh8 9. d3 c6 10. Rb1 Nbd7 11. b5 c5 12. Bd2 Qe7 13. a4 Qf7 14. a5 e4 15. dxe4
+fxe4 16. Nxe4 Nxe4 17. Bxe4 Qxc4 18. Bg2 Ne5 19. Nf4 Bg4 20. Qb3 Qxb3 21. Rxb3
+Nf3+ 22. Bxf3 Bxf3 23. Bc3 Rfe8 24. Bxg7+ Kxg7 25. Rb2 g5 26. Ne2 Re4 27. Nc3
+Rc4 28. Rc1 d5 29. Rbc2 b6 30. Nb1 Rb4 31. Nd2 Be2 32. Ra2 Rf8 33. axb6 axb6
+34. Rb1 Rxb1+ 35. Nxb1 Bc4 36. Ra6 Rf6 37. Nc3 g4 38. Ra7+ Rf7 39. Rxf7+ Kxf7
+40. f4 d4 41. exd4 cxd4 42. Na4 Bxb5 43. Nxb6 d3 44. Kf2 d2 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Goichberg, William"]
+[Black "Law, Andrew P"]
+[Result "0-1"]
+[ECO "B82"]
+[WhiteElo "2525"]
+[BlackElo "2345"]
+[PlyCount "80"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Be7 7. f4 Nc6 8. Qf3
+O-O 9. O-O-O Qc7 10. g4 Nxd4 11. Bxd4 e5 12. g5 exd4 13. gxf6 dxc3 14. fxe7
+cxb2+ 15. Kb1 Qxe7 16. f5 Bd7 17. Rg1 Qf6 18. Qa3 Bc6 19. Rxd6 Qe5 20. Bd3 Rfe8
+21. Rh6 Qd4 22. Rg3 Rac8 23. f6 g6 24. Qxb2 Qxb2+ 25. Kxb2 Bd7 26. Rh4 Re5 27.
+Rf4 Bc6 28. c4 Kf8 29. h4 Ke8 30. Rg5 Re6 31. h5 h6 32. Rgg4 g5 33. Rf5 Bd7 34.
+e5 Rc5 35. Rfxg5 Rb6+ 36. Kc3 Bxg4 37. Rg8+ Kd7 38. Rxg4 Rxe5 39. Rg7 Rxf6 40.
+Kd4 Rxh5 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Knott, Simon John Bradley"]
+[Black "Barasi, Paul David L"]
+[Result "0-1"]
+[ECO "A27"]
+[WhiteElo "2205"]
+[BlackElo "2000"]
+[PlyCount "66"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 Nc6 2. Nc3 e5 3. Nf3 f5 4. d4 e4 5. Bg5 Be7 6. Bxe7 Qxe7 7. Ng1 Nf6 8. e3
+O-O 9. Nh3 b6 10. Be2 Bb7 11. O-O Kh8 12. Nf4 Nd8 13. Rc1 Ne6 14. Nfd5 Qd8 15.
+b4 c6 16. Nxf6 Rxf6 17. d5 Ng5 18. c5 Rh6 19. dxc6 Bxc6 20. Qd4 f4 21. exf4
+Nf3+ 22. Bxf3 Qh4 23. h3 exf3 24. Ne4 fxg2 25. Ng5 gxf1=R+ 26. Kxf1 Rf6 27.
+cxb6 axb6 28. Re1 h6 29. b5 Bxb5+ 30. Kg1 hxg5 31. Re7 Qxh3 32. fxg5 Qf1+ 33.
+Kh2 Rxf2+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Baczynskyj, Boris"]
+[Black "Bellin, Robert"]
+[Result "1-0"]
+[ECO "C83"]
+[WhiteElo "2370"]
+[BlackElo "2415"]
+[PlyCount "61"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. Nbd2 O-O 11. c3 Nxd2 12. Qxd2 Na5 13. Bc2 Nc4 14. Qd3 g6 15.
+Bh6 Nxb2 16. Qe2 Re8 17. Nd4 Qd7 18. f4 f5 19. g4 Bc5 20. gxf5 gxf5 21. Kh1 Bf8
+22. Qh5 Qf7 23. Rg1+ Kh8 24. Qh3 Bxh6 25. Qxh6 c5 26. Nxf5 Bxf5 27. Bxf5 Re7
+28. Rg5 ({Not} 28. Rg6 {as given on Big/Mega Database 2020}) 28... d4 29. Rag1
+Qf8 30. Be6 d3 31. Qxf8+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Haik, Aldo"]
+[Black "Povah, Nigel Edward"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2425"]
+[BlackElo "2350"]
+[PlyCount "61"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O b6 10. h3 Ba6 11. Bg5 Qc8 12. f4 Bxd3 13. Qxd3 Nbd7 14. Kh1 c4 15.
+Qf3 Qc5 16. Ng3 Rae8 17. Rae1 b5 18. a3 a5 19. e5 dxe5 20. Nce4 Nxe4 21. Nxe4
+Qd4 22. f5 f6 23. Bd2 Qxd5 24. Bxa5 Ra8 25. Rd1 Qc6 26. Bb4 Rfd8 27. Be7 Re8
+28. Rd6 Qc7 29. Ng5 Rxe7 30. Qd5+ Kf8 31. Qxa8+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Silman, Jeremy D"]
+[Black "Basman, Michael John"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2360"]
+[BlackElo "2395"]
+[PlyCount "53"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 b6 2. d4 Bb7 3. Nd2 e6 4. Ngf3 Nf6 5. Bd3 c5 6. c3 Qc7 7. O-O Be7 8. Re1
+O-O 9. Nf1 d6 10. Bg5 Nbd7 11. e5 dxe5 12. dxe5 Nd5 13. c4 Bxg5 14. Nxg5 Nf4
+15. Bxh7+ Kh8 16. g3 f6 17. gxf4 fxg5 18. Qh5 Rxf4 19. Bf5+ Kg8 20. Bxe6+ Kf8
+21. Qh8+ Ke7 22. Qxg7+ Kxe6 23. Qg6+ Ke7 24. Qxg5+ Ke6 25. Qxf4 Rf8 26. Qh6+
+Ke7 27. Rad1 {Source: CHESS, May 1978, p247} 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Diesen, Mark C"]
+[Black "Macpherson, H Dugald"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2440"]
+[BlackElo "2315"]
+[PlyCount "39"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Bb4 4. e5 Ne7 5. a3 Bxc3 6. dxc3 b6 7. Qd4 Nf5 8. Qf4
+Qd7 9. Bd3 Ba6 10. Bxf5 exf5 11. Nd4 Nc6 12. Qxf5 Qxf5 13. Nxf5 O-O-O 14. Bf4
+f6 15. exf6 Rhe8+ 16. Be3 gxf6 17. O-O-O Ne5 18. Rhe1 c5 19. Bh6 Kc7 20. Ng7
+1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Werner, Dimo"]
+[Black "Watson, William Nicholas"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2255"]
+[BlackElo "2145"]
+[PlyCount "39"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d4 cxd4 8.
+cxd4 Nxd4 9. Nxd4 exd4 10. e5 Nc6 11. Bf4 O-O 12. Nd2 Qa5 13. a4 a6 14. Bf1
+Bxe5 15. b4 Qd5 16. Bc4 Qd6 17. Bxe5 Nxe5 18. Ne4 Qxb4 19. Qxd4 d6 20. Bxf7+
+1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.23"]
+[Round "1"]
+[White "Kinlay, Jonathan"]
+[Black "Soos, Bela"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2300"]
+[BlackElo "2425"]
+[PlyCount "36"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 d6 6. O-O Nf6 7. d3 O-O 8. f5
+gxf5 9. Qe1 fxe4 10. dxe4 Bg4 11. Qg3 Kh8 12. Bg5 Bh5 13. Kh1 Bg6 14. Nh4 Ne5
+15. Nxg6+ hxg6 16. Qh4+ Kg8 17. Nd5 Nxc4 18. Rxf6 exf6 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Nunn, John DM"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "C91"]
+[WhiteElo "2440"]
+[BlackElo "2345"]
+[PlyCount "106"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+d6 9. c3 Bg4 10. d5 Na5 11. Bc2 c6 12. h3 Bc8 13. dxc6 Qc7 14. Nbd2 Qxc6 15.
+Nf1 Nc4 16. Ng3 Re8 17. a4 Bf8 18. b3 Nb6 19. a5 Nbd7 20. Bd2 Bb7 21. b4 h6 22.
+Rc1 Rad8 23. c4 bxc4 24. Bb3 Qc8 25. Bxc4 Qa8 26. Qb3 d5 27. exd5 e4 28. Nh4
+Ne5 29. Bc3 Bxd5 30. Bxd5 Qxd5 31. Qxd5 Nxd5 32. Rxe4 Nd3 33. Rxe8 Rxe8 34. Rd1
+Nxc3 35. Rxd3 Bxb4 36. Nhf5 g6 37. Nxh6+ Kg7 38. Ng4 Bxa5 39. Rd7 Bb4 40. h4
+Ne2+ 41. Nxe2 Rxe2 42. Ne3 a5 43. Ra7 Ra2 44. Kf1 a4 45. g4 a3 46. Ra4 Rb2 47.
+Kg2 Bc5 48. Kf3 a2 49. h5 Rd2 50. hxg6 fxg6 51. Ra6 Bd4 52. Nc4 Rxf2+ 53. Kg3
+Rc2 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Mestel, A Jonathan"]
+[Black "Silman, Jeremy D"]
+[Result "1-0"]
+[ECO "B70"]
+[WhiteElo "2450"]
+[BlackElo "2360"]
+[PlyCount "99"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Nde2 Nf6 7. g3 O-O 8.
+Bg2 d6 9. O-O Bd7 10. h3 Rc8 11. Nd5 Nxd5 12. exd5 Ne5 13. a4 Qb6 14. b3 Ng4
+15. Ra2 Nf6 16. Be3 Qc7 17. c4 a5 18. Nd4 Rfe8 19. Re1 e5 20. dxe6 fxe6 21. Nb5
+Bxb5 22. axb5 Nd7 23. Rd2 Be5 24. f4 Bc3 25. Rxd6 Nc5 26. b6 Qg7 27. Bxc5 Rxc5
+28. Rexe6 Rxe6 29. Rxe6 Qd4+ 30. Qxd4 Bxd4+ 31. Kf1 a4 32. Re4 Bf6 33. bxa4 Ra5
+34. Re6 Kf7 35. Bd5 Rxa4 36. c5 Rd4 37. Rxf6+ Kxf6 38. Bxb7 Rb4 39. c6 Rxb6 40.
+c7 Rb1+ 41. Kf2 Rxb7 42. c8=Q Re7 43. Qh8+ Ke6 44. Kf3 Rd7 45. Kg4 Rf7 46. Kg5
+Rf5+ 47. Kh6 Rh5+ 48. Kg7 Rxh3 49. Qxh7 Rxg3 50. Qxg6+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Ripley, John M"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "E30"]
+[WhiteElo "2145"]
+[BlackElo "2225"]
+[PlyCount "82"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bg5 c5 5. d5 d6 6. e3 Bxc3+ 7. bxc3 Qe7 8. Bd3
+exd5 9. cxd5 Qe5 10. Bb5+ Nbd7 11. Bxf6 Qxf6 12. Ne2 O-O 13. Bxd7 Bxd7 14. O-O
+Rfe8 15. Qd2 b5 16. Ng3 a5 17. e4 b4 18. c4 a4 19. Rab1 Rab8 20. Qe3 Qc3 21.
+Qxc3 bxc3 22. Rbc1 Rb2 23. Rxc3 Rxa2 24. Rb1 a3 25. Rb7 Ra1+ 26. Nf1 Ra8 27.
+Rcb3 g6 28. Rb8+ Rxb8 29. Rxb8+ Kg7 30. Ra8 Kf6 31. f4 g5 32. fxg5+ Ke5 33. Kf2
+Kxe4 34. Ra7 a2 35. Ra3 Bg4 36. Ne3 Bh5 37. Nc2 Rd1 38. Rxa2 Rd2+ 39. Kg3 Bd1
+40. Nb4 Rxa2 41. Nxa2 Kd3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Supancic, Darko"]
+[Black "Flear, Glenn C"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2335"]
+[BlackElo "2240"]
+[PlyCount "81"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 Ne4 6. Qe2 f5 7. exf6 d5 8. Nbd2
+d3 9. Qe3 Bf5 10. Bxd3 Bc5 11. fxg7 Rg8 12. Nd4 Rxg7 13. Bxe4 dxe4 14. Nxc6
+Bxe3 15. Nxd8 Bxd2+ 16. Bxd2 Rxd8 17. g3 Rd3 18. O-O-O Bg4 19. Rde1 Bf3 20.
+Rhg1 Kd7 21. h3 h5 22. g4 hxg4 23. hxg4 Rxg4 24. Rxg4 Bxg4 25. Rxe4 Be6 26. b3
+a6 27. Rh4 Rf3 28. Be3 Kd6 29. Kd2 c6 30. Rh7 Rf7 31. Rh4 Rf5 32. Rd4+ Ke7 33.
+Rb4 Rd5+ 34. Ke2 b5 35. Rh4 Rf5 36. Rh8 a5 37. Ra8 a4 38. bxa4 Bxa2 39. a5 Kd6
+40. a6 Bc4+ 41. Ke1 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Carleton, John Joseph"]
+[Black "Hartston, William Roland"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2280"]
+[BlackElo "2475"]
+[PlyCount "80"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Qc7 7. Bd3 b5 8.
+Nxc6 Qxc6 9. a3 Bb7 10. Qe2 Rc8 11. O-O Nf6 12. f4 Bc5 13. Bxc5 Qxc5+ 14. Kh1
+d6 15. e5 Nd7 16. Be4 d5 17. Bd3 g6 18. a4 b4 19. Nb1 Qc6 20. Nd2 Nc5 21. Nf3
+Nxd3 22. cxd3 Qc2 23. Qe3 d4 24. Qxd4 Bxf3 25. Rxf3 O-O 26. Qxb4 Rb8 27. Qe4
+Rxb2 28. Rff1 Rd8 29. Rfc1 Qxd3 30. Qxd3 Rxd3 31. Rc4 Ra3 32. Rd1 Rba2 33. g3
+Rb3 34. Rc6 Rbb2 35. Rxa6 Rxh2+ 36. Kg1 Rhg2+ 37. Kf1 Rxg3 38. Rd8+ Kg7 39. Rd7
+Rf3+ 40. Ke1 Rh3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Perkins, Alan H"]
+[Black "Diesen, Mark C"]
+[Result "0-1"]
+[ECO "D47"]
+[WhiteElo "2310"]
+[BlackElo "2440"]
+[PlyCount "73"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. O-O cxd4 13. Re1 g6 14. Bb5 a6 15. Bg5
+axb5 16. Bxd8 Rxd8 17. Nxd4 bxa4 18. Qxa4 Bc5 19. Rad1 O-O 20. Qb5 Ba8 21. g3
+Ba7 22. Nc6 Bxc6 23. Qxc6 Nc5 24. Qb5 Rb8 25. Qe2 Bb6 26. Rc1 Ra8 27. Qb5 Rfc8
+28. Red1 Ra5 29. Qc4 Rc7 30. Qh4 Rd7 31. Rc4 Rxa2 32. Rdc1 Nd3 33. Rc8+ Kg7 34.
+R1c2 Ra1+ 35. Kg2 Ne1+ 36. Kh3 Nxc2 37. Rxc2 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Cummings, David H"]
+[Black "Goichberg, William"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2230"]
+[BlackElo "2525"]
+[PlyCount "69"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 e6 2. g3 d5 3. Nf3 Nf6 4. b3 c5 5. Bb2 Nc6 6. Bg2 Be7 7. O-O O-O 8. e3 b6
+9. Nc3 Bb7 10. cxd5 exd5 11. d4 Ne4 12. dxc5 Nxc3 13. Bxc3 bxc5 14. Qd2 Qd6 15.
+Qb2 Rfd8 16. Rad1 Bf8 17. Qb1 g6 18. Qb2 Rd7 19. Rd2 Rad8 20. Rfd1 Qc7 21. h4
+h6 22. Ne5 Nxe5 23. Bxe5 Qc6 24. Bf6 Be7 25. Bxe7 Rxe7 26. Bxd5 Qc8 27. Qf6
+Bxd5 28. Qxe7 Re8 29. Qf6 Qe6 30. Qxe6 fxe6 31. Rc1 Rc8 32. Rdc2 c4 33. e4 Bxe4
+34. Rxc4 Rxc4 35. Rxc4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Soos, Bela"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2425"]
+[BlackElo "2385"]
+[PlyCount "70"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 e6 7. Bd3 Be7 8. h3
+O-O 9. Nf3 Bd7 10. O-O Qb6 11. Qe2 Rfc8 12. Rac1 Qd8 13. Rfd1 g6 14. Bh2 Be8
+15. Ne1 a6 16. Bb1 b5 17. Qf3 Bb4 18. Ne2 Na5 19. Be5 Be7 20. Bxf6 Bxf6 21. Nd3
+Be7 22. Ne5 f6 23. Ng4 Rxc1 24. Rxc1 Rc8 25. Rd1 Nc4 26. Nf4 Rc6 27. e4 Nxb2
+28. exd5 Rc3 29. Qe4 Nxd1 30. Nxg6 Rc1 31. Qxe6+ Kg7 32. Nxe7 Ne3+ 33. Kh2 Nf1+
+34. Kg1 Ne3+ 35. Kh2 Nf1+ 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Speelman, Jonathan S"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2410"]
+[BlackElo "2425"]
+[PlyCount "70"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8. e4 a6
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 Nbd7 12. Rc1 O-O 13. f4 Rac8 14. Bf2 Qb8 15.
+Qe2 Rc7 16. f5 e5 17. Nc2 Rfc8 18. Ne3 b5 19. g4 Nc5 20. Ned5 Nxd5 21. Nxd5
+Bxd5 22. cxd5 Bg5 23. Be3 Bxe3+ 24. Qxe3 Na4 25. f6 Rxc1 26. Rxc1 Rxc1+ 27.
+Qxc1 gxf6 28. b3 Nc5 29. g5 Qd8 30. gxf6 Qxf6 31. Qe3 b4 32. Bf3 Kg7 33. Kf1
+Qf4 34. Qg1+ Kf6 35. Qf2 Nd3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Povah, Nigel Edward"]
+[Black "Pettersson, Lars Erik"]
+[Result "1-0"]
+[ECO "C87"]
+[WhiteElo "2350"]
+[BlackElo "2325"]
+[PlyCount "67"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 d6 8.
+Nxd4 Bd7 9. Bxc6 bxc6 10. e5 dxe5 11. Nf3 e4 12. Ne5 O-O 13. Nxd7 Nxd7 14. Rxe4
+Nf6 15. Rd4 Qc8 16. Nc3 Bc5 17. Rc4 Qf5 18. Qf3 Rfe8 19. Bf4 Bb6 20. Rxc6 Qxc2
+21. Nd5 Qxf2+ 22. Qxf2 Bxf2+ 23. Kxf2 Nxd5 24. Bxc7 Rac8 25. Rac1 Nb4 26. Rd6
+Nxa2 27. Rc4 Re6 28. Ba5 Rce8 29. Rxe6 fxe6 30. b4 Rb8 31. Ke2 e5 32. Kd3 g6
+33. Kc2 Rf8 34. Kb2 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Brown, Simon D"]
+[Black "Cafferty, Bernard"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[WhiteElo "2080"]
+[BlackElo "2300"]
+[PlyCount "66"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O e6 7. g4 Bg6 8. h4
+h6 9. Bf4 Bb4 10. a3 Be7 11. h5 Bh7 12. g5 hxg5 13. Bxg5 Bg6 14. h6 Ng8 15.
+Bxe7 Qxe7 16. e4 O-O-O 17. exd5 exd5 18. Re1 Qf6 19. h7 Rxh7 20. Rxh7 Bxh7 21.
+b4 Qd6 22. Kb2 Ngf6 23. Qg5 Bg6 24. Nh3 Re8 25. Rxe8+ Nxe8 26. Nf4 Qf6 27. Qxf6
+Ndxf6 28. Nxg6 fxg6 29. Bd3 g5 30. Nd1 Nd6 31. Ne3 Kd7 32. Nf5 g4 33. fxg4 Nxg4
+{Source: StarBase 4.56} 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Fuller, Maxwell L"]
+[Black "Lobo, Richard C"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2390"]
+[BlackElo "2370"]
+[PlyCount "63"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Bb5 Bd7 5. f4 a6 6. Bxc6 Bxc6 7. Nf3 e4 8. Nd4
+Bd7 9. O-O Nf6 10. c4 g6 11. Nc3 Bg7 12. Qc2 O-O 13. f5 Re8 14. fxg6 fxg6 15.
+Rf4 c5 16. Nde2 g5 17. Rff1 b5 18. Ng3 b4 19. Ncxe4 Nxe4 20. Bxg7 Nxg3 21. hxg3
+Kxg7 22. Rf7+ Kxf7 23. Qxh7+ Ke6 24. Rf1 d5 25. Qg6+ Ke5 26. d4+ cxd4 27. exd4+
+Kxd4 28. Rd1+ Kc3 29. Qd3+ Kb2 30. Qd2+ Ka3 31. Qc1+ Kxa2 32. Qc2+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Ligterink, Gert"]
+[Black "Kinlay, Jonathan"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2440"]
+[BlackElo "2300"]
+[PlyCount "64"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qb6 12. Nc3 O-O 13. Be3 Qd8 14. Re1 Qe8 15.
+Ne5 Nxe5 16. dxe5 Bxe5 17. Bc5 Bb8 18. Qf3 Bd7 19. Bxf8 Qxf8 20. Rac1 Qd6 21.
+g3 a6 22. Bf1 Ba7 23. Bh3 Re8 24. Rcd1 Bc6 25. Qe2 Qc5 26. Bg2 e5 27. Rc1 Qb6
+28. Qd2 e4 29. Re2 d4 30. Nd1 Bb5 31. Re1 e3 32. fxe3 dxe3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Law, Andrew P"]
+[Black "Baczynskyj, Boris"]
+[Result "1-0"]
+[ECO "A33"]
+[WhiteElo "2345"]
+[BlackElo "2370"]
+[PlyCount "55"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 Bc5 7. Nb3 Bb4 8.
+Bg2 d5 9. O-O Bxc3 10. bxc3 O-O 11. cxd5 exd5 12. Qc2 Re8 13. Bf4 Bg4 14. Rfe1
+Qd7 15. Rad1 Bh3 16. Bh1 Ne5 17. Bg5 Neg4 18. Nc5 Qb5 19. Nd3 Ne4 20. Bc1 Rac8
+21. Bxe4 dxe4 22. Nf4 Rc5 23. Nxh3 Rh5 24. f3 Qb6+ 25. Kg2 Nxh2 26. Nf4 Rh6 27.
+Nd5 Qg6 28. Ne7+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Basman, Michael John"]
+[Black "Large, Peter G"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2395"]
+[BlackElo "2275"]
+[PlyCount "53"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Nc6 6. d3 a6 7. fxe5 Nxe5 8.
+Nxe5 dxe5 9. Bg5 Be6 10. Rf1 Bxc4 11. Bxf6 gxf6 12. dxc4 Bb4 13. Qd3 Bxc3+ 14.
+Qxc3 Qd6 15. Rd1 Qc6 16. Rd5 Rg8 17. g3 b5 18. cxb5 Qxc3+ 19. bxc3 Rg4 20. Rxf6
+Rxe4+ 21. Kd2 axb5 22. Rf5 Kf8 23. Rd7 c6 24. Rfxf7+ Kg8 25. Rg7+ Kh8 26. Rxh7+
+Kg8 27. Rh6 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Shapiro, Daniel E"]
+[Black "Baker, Chris W"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2350"]
+[BlackElo "2280"]
+[PlyCount "49"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 c5 2. e3 Nf6 3. Nf3 g6 4. Be2 Bg7 5. O-O b6 6. c4 O-O 7. Nc3 e6 8. e4
+cxd4 9. Nxd4 Bb7 10. f3 d5 11. cxd5 exd5 12. e5 Nfd7 13. f4 a6 14. Be3 Nc5 15.
+Nb3 Nbd7 16. Bf3 Qh4 17. g3 Qh6 18. Nxd5 Bxd5 19. Bxd5 Rad8 20. Qf3 Nd3 21.
+Rad1 Nb4 22. e6 Nxd5 23. Qxd5 fxe6 24. Qxe6+ Rf7 25. Bxb6 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "2"]
+[White "Reuben, Stewart"]
+[Black "Crouch, Colin S"]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "2270"]
+[BlackElo "2300"]
+[PlyCount "48"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bf4 O-O 7. Rc1 c5 8. dxc5
+dxc4 9. Qxd8 Rxd8 10. Bc7 Rd7 11. Bxb8 Rxb8 12. Bxc4 Bxc5 13. Nf3 a6 14. Ke2 b5
+15. Bd3 Bb7 16. Nxb5 Rxd3 17. Rxc5 Rd5 18. Rxd5 Bxd5 19. Nc3 Rxb2+ 20. Nd2 Bc4+
+21. Kd1 Bd3 22. f3 Nd5 23. Nxd5 exd5 24. a4 Ra2 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Cafferty, Bernard"]
+[Black "Povah, Nigel Edward"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2300"]
+[PlyCount "33"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 Re8 7. Bd3 g6 8. a3
+Bf8 9. Nxf6+ Qxf6 10. Be4 d6 11. b4 a5 12. b5 Nd8 13. Bb2 Ne6 14. d4 exd4 15.
+O-O Qe7 16. exd4 Bg7 17. Rae1 {Source: Streatham & Brixton Club Magazine,
+Knightmare No.3. Contributed by Andy Ansel, 2 August 2024.} 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Littlewood, Paul E"]
+[Black "Mestel, A Jonathan"]
+[Result "1-0"]
+[ECO "B75"]
+[WhiteElo "2345"]
+[BlackElo "2450"]
+[PlyCount "103"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. g4 Rc8 10. O-O-O Ne5 11. h4 h5 12. g5 Nh7 13. f4 Ng4 14. Bg1 O-O 15. Kb1
+e5 16. Nf3 Be6 17. fxe5 Nxe5 18. Nxe5 Bxe5 19. Nb5 Re8 20. Bh3 Bxh3 21. Rxh3
+Qd7 22. Rb3 Qg4 23. Nxa7 Rc4 24. Bf2 Rxe4 25. Rg1 Re2 26. Qd1 Qe4 27. Rf1 Rxf2
+28. Rxf2 Bd4 29. Rf1 Bxa7 30. Rbf3 Re7 31. Rf4 Qe5 32. a3 Nf8 33. Qd3 Nd7 34.
+Qf3 Qe6 35. Qxb7 Ne5 36. Qa8+ Kg7 37. Rf6 Qc4 38. R1f4 Qc5 39. Qd8 Rc7 40. c3
+d5 41. Rd6 Kh7 42. Qf6 Nc6 43. Rxc6 Qxc6 44. Qxc6 Rxc6 45. Rxf7+ Kg8 46. Rxa7
+Rc4 47. a4 Rxh4 48. a5 Rg4 49. a6 h4 50. b4 Rg1+ 51. Kb2 d4 52. Rc7 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Ornstein, Axel"]
+[Black "Werner, Dimo"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2425"]
+[BlackElo "2255"]
+[PlyCount "87"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. e3 Be7 5. Nc3 O-O 6. Bd3 b6 7. O-O Bb7 8. d5
+exd5 9. cxd5 d6 10. e4 Ba6 11. h3 Bxd3 12. Qxd3 a6 13. a4 Nbd7 14. Bf4 Ne8 15.
+Nd2 Bf6 16. Nc4 Be5 17. Bxe5 Nxe5 18. Nxe5 dxe5 19. f4 f6 20. fxe5 fxe5 21.
+Rxf8+ Kxf8 22. Rf1+ Kg8 23. Qg3 Qb8 24. Rf5 Nd6 25. Rg5 g6 26. Qxe5 Nf7 27.
+Qxb8+ Rxb8 28. Rg3 Re8 29. Re3 Re5 30. Kf2 Nd6 31. Kf3 Kg7 32. Nd1 c4 33. Nf2
+h5 34. h4 b5 35. axb5 axb5 36. Ra3 Re7 37. Ra6 Rf7+ 38. Ke3 Rd7 39. Kd4 Kf7 40.
+g4 Nc8 41. gxh5 gxh5 42. e5 Ra7 43. Rxa7+ Nxa7 44. Ne4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Hartston, William Roland"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2475"]
+[BlackElo "2225"]
+[PlyCount "80"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. c3 a5 6. Be2 dxe4 7. dxe4 e5 8. O-O
+Bc5 9. Bb5 Qe7 10. Nc4 Bd7 11. Qe2 O-O 12. Bg5 Bd6 13. Nxd6 cxd6 14. Nd2 Rfd8
+15. a4 h6 16. Bh4 Be6 17. Nc4 Rac8 18. Nb6 Rc7 19. f3 Nb8 20. Rad1 g5 21. Bf2
+Nh5 22. g3 Nf6 23. Rd2 Kg7 24. Be3 Kh8 25. g4 Qf8 26. Kg2 Nbd7 27. h4 Nh7 28.
+Bxd7 Bxd7 29. hxg5 hxg5 30. Rh1 f6 31. Nd5 Rc6 32. Bb6 Ra8 33. Kg3 Be6 34. Qh2
+Bg8 35. Qg1 Qf7 36. Rdh2 Qg7 37. Rh6 Rf8 38. Qh2 Rcc8 39. Qh5 Rf7 40. Bxa5 Rcf8
+1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Franklin, Michael J"]
+[Black "Rayner, Emmanuel"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2315"]
+[BlackElo "2345"]
+[PlyCount "77"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Nbd2 d6 6. Bc4 c5 7. c3 b6 8. O-O
+Bb7 9. h3 Nbd7 10. Re1 a6 11. a4 Qc7 12. Bh2 Bc6 13. e4 e5 14. Qe2 Bb7 15. Rac1
+Rfe8 16. Ng5 Re7 17. f4 exf4 18. Bxf4 Rf8 19. Bxa6 h6 20. Ngf3 Bxe4 21. Nxe4
+Rxe4 22. Qd2 g5 23. Bh2 c4 24. Rxe4 Nxe4 25. Qe2 Ndf6 26. Qxc4 Qd7 27. Bb5 Qf5
+28. Rf1 Qg6 29. Qd3 h5 30. h4 g4 31. Ng5 d5 32. Be5 Nxg5 33. Qxg6 fxg6 34. hxg5
+Ne4 35. Rxf8+ Kxf8 36. Bxg7+ Kxg7 37. Bc6 Nxg5 38. Bxd5 Kf6 39. b4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Silman, Jeremy D"]
+[Black "Johnsen, Gunnar"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "2360"]
+[BlackElo "2280"]
+[PlyCount "77"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. c3 Nf6 6. Nbd2 Be7 7. O-O O-O 8. a4
+a6 9. Bc4 exd4 10. Nxd4 Ne5 11. Be2 c5 12. Nc2 Bc6 13. f4 Ng6 14. Bd3 b5 15.
+Ne3 c4 16. Bc2 Qb6 17. Qe2 Rfe8 18. axb5 axb5 19. Rxa8 Bxa8 20. Kh1 Bc6 21. Nf5
+Qb7 22. Nd4 Bf8 23. Nxc6 Qxc6 24. Qf3 d5 25. e5 Nd7 26. Qg3 b4 27. Nf3 bxc3 28.
+bxc3 Bc5 29. h4 Qc7 30. h5 Ngf8 31. Rd1 Nb6 32. Qg4 Qd7 33. f5 Kh8 34. Bg5 Be7
+35. h6 gxh6 36. Bxh6 Ng6 37. e6 fxe6 38. Qd4+ e5 39. Nxe5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Watson, William Nicholas"]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2145"]
+[BlackElo "2440"]
+[PlyCount "72"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Nxe7 Nxe7 12. Bxf6 gxf6 13. c4 Bb7 14. cxb5
+Bxe4 15. Qa4 d5 16. bxa6+ Kf8 17. Rd1 d4 18. f3 Bc6 19. Bb5 Qb6 20. O-O Kg7 21.
+f4 Bxb5 22. Nxb5 Rxa6 23. Qc4 Rc8 24. Qb3 d3+ 25. Kh1 e4 26. f5 Rc7 27. Rf4 Qe3
+28. Rg4+ Ng6 29. fxg6 hxg6 30. Nc3 Rb6 31. Qd5 Rxc3 32. Qxe4 Qxe4 33. Rxe4 Rxb2
+34. a4 d2 35. Re2 Rc1 36. Rexd2 Rbb1 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Webb, Simon"]
+[Black "Law, Andrew P"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[WhiteElo "2445"]
+[BlackElo "2345"]
+[PlyCount "64"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Nxe5 Nxe5 13. dxe5 Qxe5 14. Qc2
+Bd7 15. Bd2 Rad8 16. Rad1 Ng4 17. f4 Qe8 18. Rde1 Ba4 19. Qb1 c4 20. Bxh7+ Kh8
+21. Bf5 Rxd2 22. Bxg4 Bc6 23. Bf3 Rd3 24. Qc1 Be4 25. Bxe4 Qxe4 26. f5 Rfd8 27.
+Rf4 Qe5 28. Rxc4 Qxf5 29. Rd4 Qc5 30. Qb2 R8xd4 31. cxd4 Qxa3 32. Qxb7 Rxe3
+1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Baczynskyj, Boris"]
+[Black "Basman, Michael John"]
+[Result "0-1"]
+[ECO "B16"]
+[WhiteElo "2370"]
+[BlackElo "2395"]
+[PlyCount "60"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bf4 Qb6 7. b3 e5 8.
+dxe5 fxe5 9. Qe2 Bb4+ 10. Bd2 Be6 11. Nf3 Nd7 12. Bxb4 Qxb4+ 13. Qd2 a5 14. Ng5
+Qxd2+ 15. Kxd2 Bd5 16. c4 Bxg2 17. Bxg2 Rg8 18. Nxh7 Rxg2 19. Rag1 Rxg1 20.
+Rxg1 Ke7 21. h4 Nc5 22. Ng5 Rd8+ 23. Ke2 f6 24. Nf3 Ne6 25. Ne1 f5 26. Nd3 e4
+27. Ne1 Kf6 28. f3 Nd4+ 29. Ke3 f4+ 30. Kxe4 Ne2 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Ripley, John M"]
+[Black "Speelman, Jonathan S"]
+[Result "0-1"]
+[ECO "B67"]
+[WhiteElo "2145"]
+[BlackElo "2410"]
+[PlyCount "56"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 a6 7. Qd2 e6 8.
+O-O-O Bd7 9. f4 b5 10. Nxc6 Bxc6 11. Qe3 h6 12. Bh4 Ng4 13. Qg3 g5 14. Qxg4
+gxh4 15. Bd3 b4 16. Nd5 h5 17. Qe2 Qa5 18. Bc4 Bg7 19. f5 Bb5 20. fxe6 fxe6 21.
+Nf4 Rc8 22. Bxb5+ axb5 23. Nxe6 Be5 24. Nd4 Rc4 25. Nf3 b3 26. axb3 Qa1+ 27.
+Kd2 Rxc2+ 28. Kd3 Rc3+ {Source: CHESS, May 1978, p252} 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Haik, Aldo"]
+[Black "Fuller, Maxwell L"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2425"]
+[BlackElo "2390"]
+[PlyCount "53"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Qe7 5. e4 d6 6. Bd3 Nc6 7. Nf3 e5 8. d5
+Bxc3+ 9. Qxc3 Nb8 10. b4 O-O 11. O-O b6 12. c5 bxc5 13. bxc5 Ba6 14. Ba3 Bxd3
+15. Qxd3 dxc5 16. Rac1 Nbd7 17. Nd2 Ne8 18. Nb3 Nd6 19. Nxc5 Nxc5 20. Rxc5 f5
+21. exf5 Rxf5 22. Qc2 Qh4 23. Rxc7 Rg5 24. f4 Rg6 25. fxe5 Qd4+ 26. Kh1 Qxe5
+27. Rc8+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Macdonald-Ross, Michael"]
+[Black "Carleton, John Joseph"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "2265"]
+[BlackElo "2280"]
+[PlyCount "42"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 h6 5. Bh4 Nbd7 6. Nbd2 Be7 7. Bd3 c5 8. c3
+O-O 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bg3 b5 12. Nf3 b4 13. c4 dxc4 14. Bxc4 Nb6 15.
+Nd2 Nxc4 16. Nxc4 Ba6 17. Qxd8 Rfxd8 18. b3 Bxc4 19. bxc4 Rd3 20. Ke2 Rad8 21.
+Rhd1 Ra3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Nunn, John DM"]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2440"]
+[BlackElo "2415"]
+[PlyCount "39"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 Be7 7. d4 O-O 8.
+Bd3 c5 9. O-O Nc6 10. d5 Na5 11. Ne3 Bf6 12. Bd2 c4 13. Nxc4 Nxc4 14. Bxc4 Qc7
+15. Qe2 Bd7 16. Bd3 Bxc3 17. Bxh7+ Kxh7 18. Qd3+ Kg8 19. Bxc3 Rfc8 20. Bb4
+1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Crouch, Colin S"]
+[Black "Diesen, Mark C"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[WhiteElo "2300"]
+[BlackElo "2440"]
+[PlyCount "33"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. exd5 Nf6 6. Nc3 Bg7 7. Bc4 Nbd7 8.
+d6 e6 9. d5 exd5 10. Bxd5 O-O 11. Nge2 Ne5 12. Bf4 Nxd5 13. Nxd5 Qxd6 14. Bg5
+f6 15. Bh4 Rd8 16. Nec3 g5 17. Bg3 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.24"]
+[Round "3"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Supancic, Darko"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[WhiteElo "2385"]
+[BlackElo "2335"]
+[PlyCount "30"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. exf6 gxh4 10. Ne5 Bb4 11. g3 Qd5 12. Rg1 Qe4+ 13. Be2 Nd7 14. Qd2 Bxc3 15.
+Qxc3 Nxf6 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Diesen, Mark C"]
+[Black "Littlewood, Paul E"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2440"]
+[BlackElo "2345"]
+[PlyCount "131"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 Bxc3 6. Qxc3 Qe7 7. a3 d5 8.
+cxd5 Nxd5 9. Qb3 Nb6 10. d3 O-O 11. Be2 Bf5 12. Qc3 Rad8 13. b4 a6 14. O-O Rd7
+15. Nd2 Rfd8 16. Ne4 Bxe4 17. dxe4 Qd6 18. b5 Na4 19. Qc2 axb5 20. Bxb5 Nc5 21.
+a4 Nb4 22. Qc4 c6 23. Qxb4 cxb5 24. Ba3 b6 25. Qxb5 Qd3 26. Bxc5 Qxb5 27. axb5
+bxc5 28. Rfc1 g6 29. Kf1 Rc8 30. Ra6 Rb7 31. Rc6 Rcb8 32. g4 h6 33. h4 Rxb5 34.
+R1xc5 Kg7 35. Rd5 g5 36. h5 Rb1+ 37. Kg2 Re8 38. Rd7 Rf8 39. Rg6+ Kh7 40. Rf6
+Kg7 41. Rg6+ Kh7 42. Re7 Rb4 43. Kf3 Rbb8 44. Rf6 Kg7 45. Rf5 Ra8 46. Rexe5 Ra7
+47. Ra5 Re7 48. Rfe5 Rb7 49. Rab5 Ra7 50. Rb6 Rc8 51. Reb5 Rc2 52. Rb2 Rcc7 53.
+Rd2 Ra4 54. e5 Re7 55. Rdd6 Rxe5 56. Rxh6 Ree4 57. Rhf6 Rxg4 58. h6+ Kg8 59.
+Rb8+ Kh7 60. Rf8 Rh4 61. R8xf7+ Kh8 62. Rd6 Ra8 63. Rg6 Rb8 64. Rxg5 Rh3+ 65.
+Kg2 Rxh6 66. Rff5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Bachmann, Friedhelm"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2225"]
+[BlackElo "2220"]
+[PlyCount "85"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nc6 5. O-O Nf6 6. d3 O-O 7. Re1 d6 8. c3 e5
+9. Nbd2 b5 10. a4 b4 11. Qc2 Rb8 12. Nc4 Ba6 13. Ne3 Qb6 14. Nd2 Na5 15. Kh1
+Qc7 16. f4 exf4 17. gxf4 Rfd8 18. c4 Nc6 19. Nf3 Bc8 20. Rb1 Bg4 21. Nxg4 Nxg4
+22. h3 b3 23. Qe2 Nh6 24. Be3 Re8 25. f5 gxf5 26. Qd2 Ng4 27. hxg4 fxg4 28. Nh4
+Re6 29. Nf5 Rbe8 30. Rf1 Ne7 31. Rbe1 h5 32. Nxg7 Kxg7 33. Qc3+ Kg6 34. Rf4 Nc6
+35. Rf5 f6 36. Ref1 Qe7 37. e5 Nxe5 38. Be4 Kg7 39. Rxh5 Rh8 40. Rxh8 Kxh8 41.
+Kg2 Nxd3 42. Rh1+ Kg8 43. Bd5 {BCM, June 1978, clearly lists Black's name as F
+Bachmann with a rating of 2220. Other sources give Karlheinz Bachmann.} 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Bennett, Terry B"]
+[Black "Webb, Simon"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2270"]
+[BlackElo "2445"]
+[PlyCount "83"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. d5 e6 5. f3 Qa5+ 6. c3 Nf6 7. e4 exd5 8. exd5
+d6 9. Qd2 Be7 10. c4 Qxd2+ 11. Kxd2 b5 12. Nc3 a6 13. Re1 Kd8 14. g4 h6 15. h4
+Nbd7 16. b3 Rb8 17. Bd3 Re8 18. Kc2 Nb6 19. Nge2 Bd7 20. Ng3 bxc4 21. bxc4 Na4
+22. Rb1 Rxb1 23. Rxb1 Nxc3 24. Kxc3 Kc7 25. g5 Ng8 26. Ne4 Bc8 27. Nxc5 hxg5
+28. hxg5 f6 29. Ne4 fxg5 30. Bxg5 Rf8 31. Bxe7 Nxe7 32. Ng5 Rh8 33. Re1 Kd7 34.
+Bc2 Rf8 35. Re6 Rf4 36. Re4 Rf6 37. Rh4 Rh6 38. Rf4 Rh5 39. Ne6 Rxd5 40. cxd5
+Nxd5+ 41. Kd4 g5 42. Re4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Basman, Michael John"]
+[Black "Nunn, John DM"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2395"]
+[BlackElo "2440"]
+[PlyCount "79"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. f4 Nc6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 d6 6. O-O Nf6 7. Qe1 Nd4 8. Bd1
+O-O 9. h3 Rb8 10. d3 b5 11. Nxd4 cxd4 12. Ne2 Qb6 13. Kh1 Bb7 14. Bd2 Nd7 15.
+Ba5 Qc6 16. c3 dxc3 17. Nxc3 Nc5 18. Qe3 e6 19. Rc1 Qa6 20. b4 Rbc8 21. Be2 f5
+22. a4 Bxc3 23. axb5 Qxb5 24. Rxc3 Ba6 25. Rfc1 fxe4 26. bxc5 Qxa5 27. Qxe4
+Rxc5 28. Qxe6+ Rf7 29. Rxc5 dxc5 30. Bf3 Qa4 31. Bd5 Qxf4 32. Re1 Bb5 33. Qc8+
+Kg7 34. Bxf7 Qxf7 35. Qxc5 Qf5 36. Qxa7+ Kh6 37. Qe3+ Kg7 38. Qd4+ Kf7 39. Qa7+
+Kf6 40. Qe7# 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Werner, Dimo"]
+[Black "Franklin, Michael J"]
+[Result "0-1"]
+[ECO "A31"]
+[WhiteElo "2255"]
+[BlackElo "2315"]
+[PlyCount "80"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 a6 3. c4 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 b6 7. Be2 Bb7 8. f3
+e6 9. O-O Nbd7 10. Be3 Be7 11. Qd2 O-O 12. Rfd1 Rc8 13. Rac1 Re8 14. Bf1 Qc7
+15. Qf2 Qb8 16. a3 Bd8 17. b4 Bc7 18. g3 Ne5 19. Nb3 d5 20. Nd2 dxe4 21. Ncxe4
+Nxf3+ 22. Qxf3 Nxe4 23. Nxe4 f5 24. Bd3 Rf8 25. Bb1 Rf7 26. Qe2 fxe4 27. Qg4
+Re8 28. Rf1 Rf5 29. Rxf5 exf5 30. Qxf5 Bxg3 31. Rf1 Bxh2+ 32. Kh1 Bd6 33. c5
+bxc5 34. bxc5 Bc7 35. Qf7+ Kh8 36. Rg1 Be5 37. Rg5 Rf8 38. Qc4 Bf4 39. c6 Bxc6
+40. Bxf4 Qxf4 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Bailey, Richard"]
+[Black "Haik, Aldo"]
+[Result "0-1"]
+[ECO "E77"]
+[WhiteElo "2325"]
+[BlackElo "2425"]
+[PlyCount "78"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. d5 e6 8. Nf3 exd5
+9. e5 Ng4 10. cxd5 dxe5 11. h3 e4 12. Nxe4 Re8 13. Nc3 Ne3 14. Bxe3 Rxe3 15.
+Qd2 Re8 16. O-O a6 17. a4 b6 18. Bc4 Ra7 19. Rae1 Rf8 20. Kh1 Kh8 21. Qf2 Bd7
+22. Ne5 Be8 23. Re2 Rb7 24. Ba2 b5 25. axb5 axb5 26. Qxc5 b4 27. Ne4 b3 28. Bb1
+Rb5 29. Qd6 Rxd5 30. Qxd8 Rxd8 31. Re3 f6 32. Nf3 Bf7 33. Ned2 Rfe8 34. Rxe8+
+Rxe8 35. Nd4 f5 36. N4xb3 Re2 37. Bd3 Re3 38. Bc2 Bd5 39. Nc1 Rxh3+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Kinlay, Jonathan"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "2300"]
+[BlackElo "2425"]
+[PlyCount "75"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 cxd4 8. cxd4
+h5 9. Bd3 Nb6 10. Nh3 Bd7 11. O-O g6 12. Nhg5 Qe7 13. b3 a5 14. Be3 Nb4 15. Be2
+a4 16. Bf2 Bc6 17. Bh4 Qd7 18. a3 Na6 19. Nxf7 Qxf7 20. Bf6 Rh6 21. Ng5 Qg8 22.
+Bd3 Nc7 23. Rf3 Be7 24. Bxe7 Kxe7 25. Qd2 Kd8 26. Qb4 Nd7 27. Rg3 axb3 28. Qxb3
+Qf8 29. Rf1 Kc8 30. Bb1 Bb5 31. Rf2 Bc4 32. Qb2 Ra6 33. Rc3 Rb6 34. Qc1 Kb8 35.
+Ba2 Nb5 36. Rxc4 dxc4 37. Qxc4 Nc7 38. h4 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Carleton, John Joseph"]
+[Black "Goodman, David SC"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2280"]
+[BlackElo "2320"]
+[PlyCount "67"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. e5 b6 5. f4 h5 6. Nf3 Qd7 7. Be3 Ba6 8. Bxa6
+Nxa6 9. Qe2 Nb4 10. a3 Nc6 11. Nd1 Na5 12. Nf2 Nh6 13. Nd3 Nf5 14. Bf2 Rc8 15.
+O-O c5 16. dxc5 bxc5 17. b4 Nb7 18. Rfd1 c4 19. Nde1 c3 20. Bxa7 Rc4 21. Qxc4
+dxc4 22. Rxd7 Kxd7 23. Rd1+ Kc7 24. Bf2 Rd8 25. Rxd8 Nxd8 26. Nd4 Nxd4 27. Bxd4
+Kc6 28. Bxc3 Kb5 29. Nf3 Ka4 30. Nd2 Kxa3 31. Nxc4+ Ka4 32. Nd6 f6 33. Kf1 Nc6
+34. b5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Goichberg, William"]
+[Black "Botterill, George Steven"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2525"]
+[BlackElo "2400"]
+[PlyCount "64"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6 Nxf6
+9. Bh3 Na5 10. Nbd2 Bd6 11. O-O O-O 12. Re1 Kh8 13. Ne5 Bxe5 14. Rxe5 Nc6 15.
+Re1 e5 16. Bxc8 Raxc8 17. Nf3 Ne4 18. Be3 Qxb2 19. dxe5 Nxc3 20. Qd2 Qxd2 21.
+Nxd2 d4 22. Bf4 b5 23. Ne4 Nxe4 24. Rxe4 Na5 25. e6 Nb3 26. Rb1 d3 27. e7 Rfe8
+28. Kf1 Kg8 29. Ke1 Nc5 30. Re3 c3 31. Rxb5 d2+ 32. Kd1 Nd3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Large, Peter G"]
+[Black "Ripley, John M"]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2275"]
+[BlackElo "2145"]
+[PlyCount "53"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O a6 9. a4 Be7 10. a5 Qc7 11. Be2 O-O 12. Kh1 Nd7 13. f4 Nc5 14. Nxc5 dxc5
+15. e5 Nxa5 16. Bd3 Rd8 17. Ne4 c4 18. Nf6+ gxf6 19. Bxh7+ Kxh7 20. Qh5+ Kg8
+21. Bd2 Rxd2 22. Rf3 Rxg2 23. Rh3 Kf8 24. Qh8+ Rg8 25. Qxg8+ Kxg8 26. Rg1+ Kf8
+27. Rh8# 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Ligterink, Gert"]
+[Black "Silman, Jeremy D"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2440"]
+[BlackElo "2360"]
+[PlyCount "49"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Qa5 8.
+O-O O-O 9. Bb3 d6 10. h3 Bd7 11. Qd3 Rac8 12. f4 Qh5 13. Nf3 Nb4 14. Qd2 Bc6
+15. e5 dxe5 16. fxe5 Rcd8 17. Qf2 Nfd5 18. Nxd5 Bxd5 19. Bxd5 Rxd5 20. Bxa7 Qf5
+21. Qh4 Ra8 22. Ng5 Qxe5 23. Qxh7+ Kf8 24. Nxf7 Qxb2 25. Ne5+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Soos, Bela"]
+[Black "Perkins, Alan H"]
+[Result "1-0"]
+[ECO "E38"]
+[WhiteElo "2425"]
+[BlackElo "2310"]
+[PlyCount "49"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+b4 Nce4 9. Qd4 d5 10. c5 h6 11. f3 Ng5 12. h4 Ngh7 13. g4 Nf8 14. Bf4 Ng6 15.
+Bd6 Bd7 16. e3 Rc8 17. Bd3 b6 18. h5 Ne7 19. Ne2 Rc6 20. Rc1 Nc8 21. Be5 bxc5
+22. bxc5 a6 23. Kf2 Kf8 24. Qb4 Ne8 25. Nd4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Bellin, Robert"]
+[Black "Lobo, Richard C"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2415"]
+[BlackElo "2370"]
+[PlyCount "47"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. Nc3 c5 5. e4 dxe4 6. dxc5 Qa5 7. Qh5 Nc6 8.
+Bb5 f5 9. a3 Bg7 10. Nge2 e6 11. g4 fxg4 12. Qxg4 Rg8 13. Bxc6+ bxc6 14. Qxe4
+Qxc5 15. Qxh7 Kf8 16. Qd3 f5 17. O-O-O Kf7 18. Qf3 Ke7 19. Rhe1 Rb8 20. Na4 Qb5
+21. b3 Bh6+ 22. Kb1 Qxa4 23. Nd4 Kf7 24. Qh5+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Sowray, Peter John"]
+[Black "Brown, Simon D"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2205"]
+[BlackElo "2080"]
+[PlyCount "44"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6 7. Bd3 Be7 8. O-O
+O-O 9. Qe2 Qb6 10. dxc5 Nxc5 11. Bc2 f5 12. exf6 Bxf6 13. b4 Nd7 14. Qxe6+ Rf7
+15. Bxh7+ Kxh7 16. Qxf7 Nde5 17. Nxe5 Nxe5 18. Qxd5 Be6 19. Qe4+ g6 20. Qf4 Rf8
+21. Ne4 Bg7 22. Qh4+ Kg8 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Mestel, A Jonathan"]
+[Black "Crouch, Colin S"]
+[Result "0-1"]
+[ECO "C72"]
+[WhiteElo "2450"]
+[BlackElo "2300"]
+[PlyCount "42"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. Bd5 Be7 12. c3 Bxg5 13. cxd4 Bxc1 14. Qxc1
+Ra7 15. Qe3 Nf5 16. Bxf7+ Kxf7 17. Qb3+ Kf8 18. Qe6 Nxd4 19. Qxg4 Qh4 20. Qh3
+Qxh3 21. gxh3 Nc2 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Johnsen, Gunnar"]
+[Black "Harding, Timothy David"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2280"]
+[BlackElo "2230"]
+[Annotator "Harding,T"]
+[PlyCount "42"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "Tim Harding"]
+[Source "Tim Harding"]
+[SourceDate "2023.12.23"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.23"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 Bb7 6. Bg2 dxe4 7. Ng5 Nbd7 8.
+O-O Qc8 9. Ndxe4 Nxe4 10. dxe4 Nf6 11. e5 Bxg2 12. Kxg2 Qb7+ 13. Kg1 Rd8 14.
+Qe2 Nd7 15. Bf4 Be7 16. Rfe1 O-O 17. Qh5 h6 18. Ne4 Qc6 19. Qf3 Kh8 20. Qh5 Kg8
+21. Qf3 Kh8 {Source: Tim Harding} 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "4"]
+[White "Law, Andrew P"]
+[Black "Hartston, William Roland"]
+[Result "1/2-1/2"]
+[ECO "D56"]
+[WhiteElo "2345"]
+[BlackElo "2475"]
+[PlyCount "25"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Bd3 Nxc3 10. bxc3 Nd7 11. O-O e5 12. Be2 dxc4 13. Bxc4 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Short, Nigel D"]
+[Black "Littlewood, Paul E"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2225"]
+[BlackElo "2345"]
+[PlyCount "131"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d4 cxd4 8.
+cxd4 exd4 9. Bf4 a6 10. Bc4 d6 11. Nbd2 O-O 12. Rc1 h6 13. h3 d5 14. Bb3 Be6
+15. e5 Qb6 16. Nf1 a5 17. Re2 g5 18. Bh2 Bf5 19. Bc2 Bxc2 20. Qxc2 Nb4 21. Qb1
+Rac8 22. Rd1 Rc4 23. b3 d3 24. Red2 Rc3 25. a3 Nc2 26. Rxd3 Nxa3 27. Qb2 Rc2
+28. Qd4 Qxd4 29. Nxd4 Rc5 30. Ra1 Nc2 31. Nxc2 Rxc2 32. Rxa5 Rd8 33. Rb5 Rd7
+34. g4 d4 35. Ng3 Rc3 36. Rd1 Nc6 37. Ne4 Rc2 38. Nd6 Bxe5 39. Rxe5 Nxe5 40.
+Bxe5 f6 41. Ne4 fxe5 42. Nf6+ Kf7 43. Nxd7 Ke6 44. Nb6 Rc3 45. Rb1 Rxh3 46. Kg2
+Rc3 47. Kf1 e4 48. Nc4 Kd5 49. Ke2 b5 50. Nd2 Ke5 51. f3 exf3+ 52. Nxf3+ Ke4
+53. Nd2+ Kf4 54. Rh1 d3+ 55. Kd1 Rc6 56. Rg1 Ra6 57. Kc1 Ra1+ 58. Nb1 Ra2 59.
+Rh1 Rc2+ 60. Kd1 Rg2 61. Nc3 Rb2 62. Rxh6 Rxb3 63. Kd2 Kxg4 64. Rb6 b4 65. Nd5
+Kf3 66. Rxb4 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Bennett, Terry B"]
+[Black "Soos, Bela"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2270"]
+[BlackElo "2425"]
+[PlyCount "121"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c6 4. Bd3 Bg4 5. f3 Bh5 6. Nd2 Nbd7 7. Ne2 Bg6 8. e4
+dxe4 9. Nxe4 e6 10. c3 Be7 11. Qb3 Qb6 12. Bf4 Nd5 13. Qxb6 axb6 14. Bd2 b5 15.
+Nf4 Nxf4 16. Bxf4 O-O 17. Ke2 Nb6 18. a3 Nd5 19. Bd2 Rfd8 20. Nf2 Bxd3+ 21.
+Nxd3 Nb6 22. Rad1 Nc4 23. Bc1 Rd5 24. g4 Rad8 25. Nf4 R5d7 26. Nd3 Bd6 27. h3
+f6 28. Rhe1 Kf7 29. Kf2 e5 30. dxe5 Bxe5 31. Nxe5+ Nxe5 32. Rxd7+ Rxd7 33. Kg3
+Rd3 34. Rf1 Ke6 35. h4 Kd5 36. h5 g5 37. hxg6 hxg6 38. Kf4 c5 39. Kg3 g5 40.
+Kg2 Kc4 41. f4 Nxg4 42. fxg5 fxg5 43. Bxg5 Ne3+ 44. Bxe3 Rxe3 45. Kf2 Re6 46.
+Rd1 Kb3 47. Rd2 b6 48. Kf1 Rf6+ 49. Ke2 Re6+ 50. Kf2 Rh6 51. Ke3 Re6+ 52. Kf2
+Re4 53. Kf1 Rh4 54. Kg2 Rf4 55. Re2 b4 56. axb4 cxb4 57. Kg3 Rc4 58. Kf2 bxc3
+59. bxc3 Rxc3 60. Re5 Rc5 61. Re3+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Ornstein, Axel"]
+[Black "Crouch, Colin S"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2425"]
+[BlackElo "2300"]
+[PlyCount "119"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. Qd3 dxc4 6. Qxc4 b5 7. Qb3 b4 8. Na4
+Qd5 9. Bf4 Ba6 10. Rc1 Nbd7 11. Qxd5 Nxd5 12. Bg3 Bb5 13. Nc5 Nxc5 14. dxc5 Nf6
+15. Nd2 O-O-O 16. e4 Bxf1 17. Rxf1 Kb7 18. f3 Ka6 19. Nc4 Bxc5 20. Ne5 Be3 21.
+Rxc6+ Kb7 22. Rc2 Rc8 23. Nc4 Bc5 24. Ke2 Nh5 25. Bd6 Ka8 26. Rfc1 Rhd8 27. Bg3
+Nxg3+ 28. hxg3 Kb8 29. Na5 Bd4 30. Nc6+ Rxc6 31. Rxc6 Bxb2 32. Rb1 Ba3 33. Rd1
+Rxd1 34. Kxd1 Bb2 35. Rc4 Bc3 36. a3 a5 37. Rc5 Bd4 38. Rxa5 bxa3 39. Rxa3 Bf2
+40. g4 Kc8 41. Ke2 Bb6 42. Kd3 Kd8 43. Rb3 Bf2 44. Rb7 Ke8 45. Kc4 Bg3 46. Kb5
+h6 47. Kc6 Bf4 48. Rb5 Ke7 49. e5 Bc1 50. Rb3 g6 51. Rb1 Bf4 52. Rb7+ Kf8 53.
+Kd6 Bg3 54. Rb5 Bf4 55. Kd7 Bg3 56. Rb8+ Kg7 57. Ke8 f5 58. Rb7+ Kg8 59. gxf5
+gxf5 60. Ke7 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Haik, Aldo"]
+[Black "Carleton, John Joseph"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2425"]
+[BlackElo "2280"]
+[PlyCount "113"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nc6 4. Nf3 Bb4 5. e3 Nf6 6. a3 Bxc3+ 7. bxc3 O-O 8. a4
+Re8 9. Be2 Ne4 10. Bb2 Na5 11. Qc2 b6 12. cxd5 exd5 13. O-O Bf5 14. Bd3 c5 15.
+dxc5 bxc5 16. c4 Nc6 17. cxd5 Nb4 18. Qc4 Nxd3 19. Qxd3 Ng3 20. Qd2 Nxf1 21.
+Rxf1 Be4 22. Rd1 Bxf3 23. gxf3 Qg5+ 24. Kf1 Rad8 25. Qc3 Rd6 26. Qxc5 Rh6 27.
+Qxa7 Rxh2 28. Ke2 h5 29. d6 Rg2 30. Qd4 Rd8 31. e4 h4 32. Qe5 h3 33. Qxg5 Rxg5
+34. e5 h2 35. Rh1 Rh5 36. Bd4 f6 37. f4 g5 38. Bb6 Rd7 39. Bc7 gxf4 40. e6 Re5+
+41. Kf3 Rxe6 42. Rxh2 Re1 43. Rh4 Kf7 44. Rxf4 Ra1 45. a5 Ke6 46. Re4+ Kd5 47.
+Re3 Rh7 48. Kf4 Kc6 49. Kf5 Rf1 50. Ke6 Rxf2 51. d7 Rxd7 52. Rc3+ Kb7 53. Kxd7
+Rd2+ 54. Bd6 Rd5 55. Rb3+ Ka6 56. Kc6 Rxa5 57. Bc5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Botterill, George Steven"]
+[Black "Sowray, Peter John"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2400"]
+[BlackElo "2205"]
+[PlyCount "85"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O c5 5. c4 g6 6. Nc3 Bg7 7. d4 Ne4 8. Qd3
+Nxc3 9. bxc3 d6 10. e4 Nc6 11. Be3 Qd7 12. Nd2 e5 13. Nb3 cxd4 14. cxd4 exd4
+15. Nxd4 Ne5 16. Qb3 Rc8 17. Rfc1 Ba6 18. Bf1 O-O 19. Rab1 Rfe8 20. f3 Rc5 21.
+Kg2 Bb7 22. Be2 Ng4 23. Bg1 Nxh2 24. Nb5 Rh5 25. g4 Nxg4 26. fxg4 Bxe4+ 27. Kf1
+Rhe5 28. Bf3 Bxb1 29. Rxb1 Qe7 30. Bf2 Bh6 31. Qd3 Be3 32. Bg3 Qf6 33. Kg2 Bf4
+34. Bf2 R5e7 35. Nc3 Qg5 36. Nd5 Re5 37. Rh1 Rxd5 38. Qxd5 Qxd5 39. Bxd5 Kg7
+40. Bxf7 Re2 41. Kf3 Rxa2 42. Bd5 Be5 43. Be3 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Franklin, Michael J"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2315"]
+[BlackElo "2440"]
+[PlyCount "81"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Nbd2 d6 6. Bc4 Nc6 7. c3 Qe8 8. O-O
+e5 9. Bg3 Qe7 10. h3 Kh8 11. b4 e4 12. Ne1 Nh5 13. Bh2 f5 14. Nc2 f4 15. exf4
+Nxf4 16. Ne3 Qg5 17. Nxe4 Nxh3+ 18. Kh1 Qh4 19. f3 Ng5 20. Qe1 Qh5 21. Nxg5
+Qxg5 22. Nd5 Qd8 23. Qd2 Be6 24. Rfe1 Bg8 25. Bb3 a6 26. Re4 Qd7 27. Rae1 Bxd5
+28. Bxd5 Rae8 29. Qe2 Rxe4 30. Qxe4 Bf6 31. a4 Kg7 32. Bb3 Nd8 33. Bg3 c6 34.
+Kg1 d5 35. Qe3 Rf7 36. Be5 Re7 37. f4 Bxe5 38. fxe5 Ne6 39. Bd1 Rf7 40. Bg4 Qe7
+41. Bxe6 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Hartston, William Roland"]
+[Black "Basman, Michael John"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2475"]
+[BlackElo "2395"]
+[PlyCount "72"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Nh5 7. Be5 f6 8.
+Bg3 Qa5 9. e3 e6 10. Bd3 Bb4 11. Nd2 Nxg3 12. hxg3 Bxc3 13. bxc3 Qxc3 14. Rxh7
+Rxh7 15. Bxh7 Bd7 16. Rc1 Qa3 17. Qh5+ Ke7 18. Rc2 Rh8 19. g4 Be8 20. Qh2 Qd6
+21. Qh3 Bg6 22. Bxg6 Rxh3 23. gxh3 Qh2 24. Rb2 b6 25. Bd3 Qxh3 26. Be2 Kd6 27.
+Nf1 Qh1 28. Bb5 Na5 29. Be2 Nc4 30. Rc2 b5 31. Rc1 a6 32. a4 bxa4 33. Ra1 Qh7
+34. Nd2 Qc2 35. Bxc4 dxc4 36. Ra3 Ke7 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Baczynskyj, Boris"]
+[Black "Kinlay, Jonathan"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "2370"]
+[BlackElo "2300"]
+[PlyCount "67"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nf6 3. d3 Nc6 4. g3 e6 5. Bg2 d5 6. Nbd2 Be7 7. O-O O-O 8. e5
+Nd7 9. Re1 b5 10. Nf1 b4 11. h4 a5 12. N1h2 a4 13. Ng4 a3 14. bxa3 bxa3 15. h5
+Ba6 16. h6 g6 17. Bxa3 Qa5 18. Bc1 c4 19. Bf1 cxd3 20. Bxd3 Bxd3 21. cxd3 Rfc8
+22. Bg5 Bxg5 23. Nxg5 Nd4 24. Rb1 Ra7 25. Kg2 Rac7 26. Nf3 Nc2 27. Re2 Na3 28.
+Rbb2 Nb5 29. Qh1 Nc3 30. Rec2 f5 31. exf6 d4 32. Qh4 Qd5 33. Qg5 Qa8 34. Qf4
+1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Brown, Simon D"]
+[Black "Fuller, Maxwell L"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2080"]
+[BlackElo "2390"]
+[PlyCount "59"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O b5 7. e4 dxe4 8.
+d5 b4 9. dxc6 bxc3 10. Qxc3 Rc8 11. Bxf6 gxf6 12. fxe4 Bh6+ 13. Kb1 Qb6 14.
+exf5 Nc5 15. Qd4 O-O 16. Bc4 Kh8 17. Ne2 Rfd8 18. Qg4 Bd2 19. Nd4 Na4 20. Nb3
+Rxc6 21. Bxf7 Nc3+ 22. bxc3 Bxc3 23. Rxd8+ Qxd8 24. Rd1 Rd6 25. Rxd6 exd6 26.
+Be6 d5 27. Qf3 d4 28. Qc6 Qe7 29. Qc8+ Kg7 30. Qd7 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Webb, Simon"]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "A10"]
+[WhiteElo "2445"]
+[BlackElo "2415"]
+[PlyCount "58"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. Nc3 d5 7. e3 Nc6 8. b3
+Ne4 9. Bb2 Bf6 10. d4 Bd7 11. Ne2 g5 12. Ne5 Bg7 13. f3 Nf6 14. Qd3 Qe7 15. Nc3
+f4 16. g4 Be8 17. cxd5 Nxd5 18. Nxd5 exd5 19. Rfe1 Nxe5 20. dxe5 Rd8 21. exf4
+gxf4 22. Bf1 c5 23. Qd2 h5 24. gxh5 Bxh5 25. Qf2 Rf5 26. Bd3 Rg5+ 27. Kh1 Qe6
+28. Rg1 Rxg1+ 29. Rxg1 Qh3 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Shapiro, Daniel E"]
+[Black "Supancic, Darko"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2350"]
+[BlackElo "2335"]
+[PlyCount "55"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. cxd5 exd5 6. Qc2 Be7 7. Bg5 O-O 8. e3
+Re8 9. Bd3 Nbd7 10. O-O Nf8 11. Rab1 Ng6 12. Ne5 Nd7 13. Bxe7 Qxe7 14. f4 Ngf8
+15. Rf3 f6 16. Ng4 Nb6 17. Nf2 g6 18. f5 g5 19. Re1 Bd7 20. h4 h6 21. hxg5 hxg5
+22. Qb3 Kg7 23. Rh3 Rad8 24. Qd1 Qf7 25. Ng4 Re7 26. Qf3 Bc8 27. Qg3 Nh7 28.
+Rxh7+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Clark, Gary M"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "2130"]
+[BlackElo "2450"]
+[PlyCount "48"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. Be2 Nf6 4. c3 Bd7 5. d3 Nc6 6. O-O g6 7. Re1 Bg7 8. Bf1
+O-O 9. h3 Rc8 10. d4 cxd4 11. cxd4 d5 12. e5 Ne4 13. Qb3 e6 14. Nbd2 f5 15.
+exf6 Nxf6 16. Bd3 Nh5 17. Nf1 Rxf3 18. gxf3 Nxd4 19. Qd1 e5 20. Nh2 Bxh3 21.
+Kh1 Qh4 22. Be3 Rf8 23. Rg1 Nxf3 24. Nxf3 Rxf3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Diesen, Mark C"]
+[Black "Law, Andrew P"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2440"]
+[BlackElo "2345"]
+[PlyCount "23"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. Qf3 O-O 8.
+O-O-O Nc6 9. Be2 Nxd4 10. Bxd4 Qa5 11. Qg3 Bd7 12. e5 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.25"]
+[Round "5"]
+[White "Silman, Jeremy D"]
+[Black "Werner, Dimo"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2360"]
+[BlackElo "2255"]
+[PlyCount "81"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8. Be3
+Qb6 9. Qc2 f5 10. Ne2 c4 11. Ng5 Ne7 12. h3 a5 13. g4 h6 14. Nf3 h5 15. Rg1
+hxg4 16. hxg4 Qc6 17. Bf2 Nb6 18. Bh4 Bd7 19. Kd2 fxg4 20. Rxg4 Nf5 21. Bg5 Nc8
+22. Nh4 Nce7 23. Nxf5 exf5 24. Rg3 Be6 25. Bh3 Qd7 26. Ng1 O-O-O 27. Nf3 Re8
+28. Nh4 Kb8 29. Rag1 Rh5 30. Ke3 Ka8 31. Rb1 g6 32. b4 axb4 33. Rxb4 Nc6 34.
+Rb2 Bf7 35. Bg2 Rxg5 36. fxg5 Nxe5 37. dxe5 f4+ 38. Kxf4 Rxe5 39. Re3 Rxe3 40.
+Kxe3 Bc5+ 41. Kd2 {Source: Andy Ansel (24 December 2023)} 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Soos, Bela"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2425"]
+[BlackElo "2225"]
+[PlyCount "105"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bf4 c5 4. e3 Qb6 5. Qc1 Nc6 6. c3 d5 7. h3 cxd4 8. exd4
+Be7 9. Nbd2 O-O 10. Bd3 Bd7 11. O-O Rac8 12. Qb1 Na5 13. Re1 Qd8 14. Ne5 b5 15.
+a3 h6 16. g4 Nc4 17. Re2 a5 18. Bh2 Ne8 19. f4 Nxd2 20. Rxd2 Nd6 21. Re2 Be8
+22. f5 exf5 23. gxf5 b4 24. axb4 axb4 25. Qe1 Bg5 26. Nf3 Bf6 27. Ra6 Nb5 28.
+Be5 Bxe5 29. dxe5 bxc3 30. f6 cxb2 31. Rxb2 g5 32. Rg2 Kh8 33. Nxg5 Rc4 34.
+Bxc4 dxc4 35. Rd2 Nd4 36. Qh4 Nf5 37. Qxh6+ Nxh6 38. Rxd8 Rg8 39. h4 c3 40. Ra3
+c2 41. Rc3 Nf5 42. Rxc2 Nxh4 43. Kh2 Rxg5 44. Rxe8+ Kh7 45. Rc3 Kg6 46. Rh3 Rh5
+47. Kg1 Kf5 48. Kf2 Kg4 49. Rg3+ Kf5 50. Rh3 Kg4 51. Rh1 Kf5 52. Kg3 Kg5 53.
+Rxh4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Crouch, Colin S"]
+[Black "Franklin, Michael J"]
+[Result "0-1"]
+[ECO "B28"]
+[WhiteElo "2300"]
+[BlackElo "2315"]
+[PlyCount "92"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 e6 6. Be2 Nf6 7. O-O Nc6 8. Be3
+cxd4 9. Nxd4 Bd7 10. Bf3 Qd6 11. Nd2 Qc7 12. Re1 Bd6 13. Nf5 Bxh2+ 14. Kh1 Bf4
+15. Nxg7+ Kf8 16. Nh5 Nxh5 17. Bxh5 Bxe3 18. Rxe3 Ne5 19. Qb3 Ng6 20. Qb4+ Kg7
+21. Kg1 a5 22. Qd4+ e5 23. Qc4 Qxc4 24. Nxc4 f6 25. Bf3 Ra7 26. Nb6 Be6 27. Rd1
+Re8 28. c4 Nh4 29. Rd6 Nf5 30. Red3 Nxd6 31. Rxd6 a4 32. Bd1 a3 33. b3 Bf5 34.
+c5 Ra5 35. b4 Ra7 36. Bb3 e4 37. Nd5 Be6 38. b5 Bxd5 39. Bxd5 Re7 40. Rb6 f5
+41. c6 bxc6 42. Bxc6 Re5 43. Rb8 Ra4 44. Rc8 f4 45. b6 Rb4 46. Rc7+ Kh6 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Goodman, David SC"]
+[Black "Webb, Simon"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2320"]
+[BlackElo "2445"]
+[PlyCount "86"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 d6 7. Bxb5+ Bd7 8.
+Bxd7+ Nbxd7 9. Ne2 g6 10. Bd2 Bg7 11. Bc3 O-O 12. Nd2 Nb6 13. a4 Qc8 14. a5 Qa6
+15. b3 Nbd7 16. Nc4 Ne8 17. O-O Nc7 18. f4 Nf6 19. Qd3 Rfe8 20. Bxf6 Bxf6 21.
+e5 Bg7 22. Qf3 Rad8 23. Rad1 Nb5 24. h4 e6 25. dxe6 fxe6 26. h5 d5 27. Nd2 gxh5
+28. Qxh5 Qa7 29. Rf3 Qf7 30. Qh4 Rd7 31. Rh3 Qg6 32. Nf3 d4 33. Ng3 Nc3 34. Rd2
+Rb8 35. Nh5 Ne4 36. Re2 Kh8 37. Rxe4 Qxe4 38. Ng5 Qg6 39. Ng3 h6 40. N3e4 Kg8
+41. Nf6+ Bxf6 42. exf6 Qxf6 43. Rg3 Rg7 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Carleton, John Joseph"]
+[Black "Valvo, Michael J"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2280"]
+[BlackElo "2530"]
+[PlyCount "74"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 g6 6. h4 Bg7 7. h5 Nb4 8. c3
+N4c6 9. f4 Qd5 10. Nd2 Nxe5 11. dxe5 O-O 12. Qb3 Be6 13. Qxd5 Bxd5 14. Nc4 Nd7
+15. Be3 Nb6 16. Na5 Rfd8 17. hxg6 hxg6 18. Rh2 f6 19. c4 Be4 20. c5 Nd5 21. Bc4
+e6 22. Bd4 Nxf4 23. exf6 Rxd4 24. fxg7 Kxg7 25. Bf1 Bd5 26. Nb3 Re4+ 27. Kd2
+Rd8 28. Kc2 Re3 29. Nd2 Bxg2 30. Bc4 Bh3 31. Rah1 Bf5+ 32. Kc1 g5 33. Nb3 b6
+34. Rd2 Rxd2 35. Kxd2 Rf3 36. Rg1 Kf6 37. c6 e5 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Law, Andrew P"]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2345"]
+[BlackElo "2425"]
+[PlyCount "73"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 b6 3. Nc3 Bb7 4. d4 e6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Nh5 8. Qc2
+Nxg3 9. hxg3 Bg7 10. O-O-O g4 11. Ne1 Nc6 12. e3 Qg5 13. Kb1 O-O-O 14. Nd3 Kb8
+15. a3 h5 16. Nf4 h4 17. Be2 hxg3 18. Ne4 Qf5 19. Nxg3 Qxc2+ 20. Kxc2 e5 21.
+Nfh5 Bf8 22. d5 Ne7 23. Bxg4 c6 24. Nf6 Rxh1 25. Rxh1 cxd5 26. Nxd7+ Kc7 27.
+Nxe5 Bg7 28. Nf3 dxc4 29. Rh7 Rg8 30. Bh5 Nf5 31. Bxf7 Nxg3 32. Bxg8 Be4+ 33.
+Kc1 Bxh7 34. Bxh7 Nh1 35. Ng5 Bh6 36. f4 Nf2 37. Bf5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Wicker, Kevin J"]
+[Black "Hartston, William Roland"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2305"]
+[BlackElo "2475"]
+[PlyCount "72"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. b3 b6 2. Bb2 Bb7 3. e3 Nf6 4. c4 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O c5 8. Nc3
+d6 9. d4 a6 10. Qc2 Nbd7 11. d5 b5 12. a4 b4 13. Na2 e5 14. Nd2 Qe7 15. Bd3
+Rae8 16. e4 h5 17. f3 Bh6 18. Rfe1 h4 19. Nf1 Nh5 20. Nc1 Kg7 21. Ne2 Bc8 22.
+Bc1 Bxc1 23. Qxc1 Ndf6 24. Ra2 Nh7 25. Bb1 Ng5 26. f4 exf4 27. Nxf4 Nxf4 28.
+Qxf4 h3 29. g3 f5 30. e5 dxe5 31. Rae2 Qf6 32. Qf2 e4 33. Rd1 f4 34. gxf4 Bg4
+35. Ng3 Qxf4 36. Rf1 Qe5 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Knott, Simon John Bradley"]
+[Black "Harding, Timothy David"]
+[Result "1-0"]
+[ECO "A38"]
+[WhiteElo "2205"]
+[BlackElo "2230"]
+[Annotator "Harding,T"]
+[PlyCount "67"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "Tim Harding"]
+[Source "Tim Harding"]
+[SourceDate "2023.12.23"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.23"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 g6 6. Bg2 Bg7 7. O-O Nc6 8.
+Nxd5 Qxd5 9. d3 O-O 10. Be3 Qd6 11. Rc1 Nd4 12. Nd2 Bf5 13. Bxb7 Rab8 14. Nc4
+Qe6 15. Bg2 Rfd8 16. Re1 Bh3 17. Qa4 Bxg2 18. Kxg2 Rd5 19. Qxa7 Rf8 20. Nd2 Rh5
+21. Nf1 Nc6 22. Qa6 Qh3+ 23. Kg1 Nb4 24. Qb7 Nd5 25. Bxc5 Bh6 26. Rc4 Rd8 27.
+a4 e5 28. a5 Bd2 29. Ra1 Nf4 30. gxf4 Bxf4 31. Qg2 Rg5 32. Ng3 Qe6 33. a6 Qc8
+34. a7 {... and White won. Source: Tim Harding} 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Cummings, David H"]
+[Black "Kristiansen, Tor"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2230"]
+[BlackElo "2320"]
+[PlyCount "63"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. d4 e5 8. d5
+Ne7 9. e4 Bg4 10. Be3 Nd7 11. Qd2 Bxf3 12. Bxf3 f5 13. Bg2 Nb6 14. Qd3 h6 15.
+exf5 Nxf5 16. b4 Nd7 17. Ne4 Qe7 18. c5 Nxe3 19. Qxe3 Nf6 20. Rac1 a5 21. cxd6
+cxd6 22. b5 a4 23. Nxf6+ Rxf6 24. Qb6 Qd8 25. Qxb7 Rb8 26. Qa6 a3 27. Rc3 Ra8
+28. Qc6 Rf8 29. Be4 g5 30. Rfc1 g4 31. b6 Qf6 32. R1c2 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Kinlay, Jonathan"]
+[Black "Baker, Chris W"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2300"]
+[BlackElo "2280"]
+[PlyCount "57"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. O-O d6 6. Re1 Bd7 7. exd6 e6 8. Nc3
+Nf6 9. d4 cxd4 10. Nxd4 Qb6 11. Be3 Nxd4 12. Bxd4 Qxd6 13. Bxf6 gxf6 14. Qh5
+Bxb5 15. Nxb5 Qb6 16. Rxe6+ Qxe6 17. Nc7+ Ke7 18. Nxe6 fxe6 19. Rd1 Rc8 20. Qa5
+Rxc2 21. Qb4+ Kf7 22. Qxb7+ Be7 23. g3 a5 24. Rd7 Re8 25. Kg2 f5 26. a3 Kf6 27.
+Rc7 Bc5 28. Rf7+ Kg6 29. Rg7+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Ligterink, Gert"]
+[Black "Bennett, Terry B"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[WhiteElo "2440"]
+[BlackElo "2270"]
+[PlyCount "56"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+O-O Nge7 9. Nb3 Bd6 10. Bg5 O-O 11. Re1 Bg4 12. h3 Bh5 13. Be2 h6 14. Bxe7 Bxe7
+15. Nfd4 Bxe2 16. Rxe2 Bf6 17. c3 Qb6 18. Nf5 Rad8 19. Rd2 Rfe8 20. Rxd5 Rxd5
+21. Qxd5 Re2 22. Qf3 Rxb2 23. Nxh6+ Kf8 24. Ng4 Ne5 25. Nxe5 Bxe5 26. g3 g6 27.
+h4 Rc2 28. Nd4 Bxd4 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Littlewood, Paul E"]
+[Black "Haik, Aldo"]
+[Result "0-1"]
+[ECO "C46"]
+[WhiteElo "2345"]
+[BlackElo "2425"]
+[PlyCount "56"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Nxd4 h6 8.
+Bh4 c6 9. Nxe7 Nxe7 10. Qd2 d5 11. O-O-O g5 12. Bg3 dxe4 13. Qe3 Qb6 14. Bd6 f5
+15. Bxe7 Kxe7 16. Qa3+ Kf7 17. Bc4+ Kg6 18. Qe7 Rf8 19. Nb3 Qxf2 20. g3 b5 21.
+Rd6+ Kh7 22. Bf7 a5 23. Nd4 f4 24. h4 gxh4 25. gxh4 Kh8 26. Rd1 Bg4 27. Ne6
+Bxd1 28. Nxg7 Qxc2# 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Mestel, A Jonathan"]
+[Black "Botterill, George Steven"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2450"]
+[BlackElo "2400"]
+[PlyCount "54"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6 Nxf6
+9. Bg2 Bd6 10. O-O O-O 11. Qe2 Kh8 12. Ne5 Bxe5 13. dxe5 Nd7 14. Be3 Qc7 15. f4
+Na5 16. Nd2 Nc5 17. Bxc5 Qxc5+ 18. Qf2 Qxf2+ 19. Kxf2 Bd7 20. Ke3 Rae8 21. Nf3
+Nb3 22. Rab1 Re7 23. Nd4 Nc5 24. Kd2 Be8 25. f5 exf5 26. Bxd5 Rxe5 27. Bxc4 Bf7
+1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Povah, Nigel Edward"]
+[Black "Shapiro, Daniel E"]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2350"]
+[BlackElo "2350"]
+[PlyCount "51"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nb3 a6 8.
+O-O e6 9. a4 Qc7 10. a5 Nxa5 11. Nxa5 b6 12. e5 bxa5 13. exf6 Qxc4 14. fxg7
+Bxg7 15. Qxd6 Bb7 16. Bg5 Qb4 17. Qg3 Qxb2 18. Bd2 O-O-O 19. Rab1 Qa3 20. Rxb7
+Kxb7 21. Qxg7 Qf8 22. Qg5 f5 23. Rb1+ Ka8 24. Na4 Qd6 25. Nb6+ Ka7 26. Qg7+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Silman, Jeremy D"]
+[Black "Nunn, John DM"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2360"]
+[BlackElo "2440"]
+[PlyCount "51"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nbd7 7. Re1 e5 8.
+dxe5 dxe5 9. Bc4 Qe7 10. Be3 c6 11. Nd2 b5 12. Bf1 Nc5 13. f3 Rd8 14. b4 Ne6
+15. Qb1 Bf8 16. a3 a5 17. Na2 axb4 18. axb4 Nh5 19. Nb3 Nhf4 20. c3 Qf6 21. Rd1
+Bh6 22. Rxd8+ Qxd8 23. Qe1 Qf6 24. Nac1 Rxa1 25. Nxa1 Ng5 26. Kh1 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Goichberg, William"]
+[Black "Raindle, Ian M"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "2525"]
+[BlackElo "2050"]
+[PlyCount "47"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O 8. h3
+a6 9. Bb3 Nc6 10. Be3 Bd7 11. f4 e6 12. Nf3 Qc7 13. Qd2 Na5 14. Rad1 Bc6 15.
+Bd4 Nxb3 16. axb3 Rfe8 17. Qe3 b5 18. e5 Nd5 19. Nxd5 Bxd5 20. exd6 Qxc2 21.
+Bxg7 Kxg7 22. f5 f6 23. Rc1 exf5 24. Qxe8 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.26"]
+[Round "6"]
+[White "Bellin, Robert"]
+[Black "Diesen, Mark C"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2415"]
+[BlackElo "2440"]
+[PlyCount "24"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bg5 Nf6 3. Bxf6 exf6 4. e3 c6 5. Nd2 Bd6 6. Bd3 Be6 7. Qf3 Nd7 8.
+Ne2 g6 9. Nf4 f5 10. Qe2 Nf6 11. O-O-O Qe7 12. Kb1 O-O-O 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Hartston, William Roland"]
+[Black "Bennett, Terry B"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2475"]
+[BlackElo "2270"]
+[PlyCount "190"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 e6 2. Nf3 d5 3. c4 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Be3
+c4 9. b3 cxb3 10. axb3 O-O 11. Ne5 Nb4 12. Nc3 Bf5 13. Rc1 Rc8 14. Qd2 h6 15.
+h3 Ne4 16. Nxe4 Rxc1 17. Rxc1 dxe4 18. d5 Qxd5 19. Qxd5 Nxd5 20. Bxa7 Ra8 21.
+Bd4 Ra3 22. g4 Nf4 23. Bf1 Be6 24. e3 Nd3 25. Nxd3 exd3 26. Bxd3 Rxb3 27. Bc2
+Rb4 28. Ra1 Rc4 29. Be4 Bf6 30. Ra8+ Rc8 31. Bxb7 Rxa8 32. Bxa8 Be7 33. f4 h5
+34. f5 Bd7 35. Bd5 hxg4 36. hxg4 Kf8 37. Kg2 f6 38. Kf3 Bd6 39. e4 Ba3 40. g5
+Be7 41. g6 Bb5 42. Ke3 Bd6 43. Bb6 Ba4 44. Kd4 Ke7 45. Kc4 Bd7 46. Bb7 Ba4 47.
+Be3 Bc2 48. Bc6 Ba3 49. Bd4 Bd6 50. Kc3 Bd1 51. Be3 Be2 52. Kd4 Bd1 53. Bb5 Bc2
+54. Kd5 Ba3 55. Bc4 Bb4 56. Bd4 Ba3 57. Bc3 Bb1 58. Ba5 Bc2 59. Bc7 Bb4 60. Kd4
+Bb1 61. Bd5 Ba3 62. Bf4 Bc2 63. Kc4 Ba4 64. Kc3 Bc5 65. e5 Bd7 66. e6 Bb5 67.
+Be4 Bd6 68. Be3 Be8 69. Kc4 Ba4 70. Kd5 Ba3 71. Bd2 Bb5 72. Bc2 Be8 73. Be3 Bb5
+74. Bb6 Bb4 75. Bd4 Ba3 76. Bc3 Be8 77. Bd2 Bb5 78. Be4 Ba4 79. Kc4 Bd6 80. Be1
+Ba3 81. Kd5 Kf8 82. Ba5 Ke7 83. Bd3 Be8 84. Bc7 Ba4 85. Bf4 Be8 86. Bc2 Bb5 87.
+Be3 Bb4 88. Bc1 Kf8 89. Kd4 Ke7 90. Bd3 Ba4 91. Kc4 Bd6 92. Be4 Be8 93. Bd2 Ba4
+94. Kc3 Bc5 95. Bc2 Bb5 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Ornstein, Axel"]
+[Black "Garbett, Paul Anthony"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2425"]
+[BlackElo "2310"]
+[PlyCount "184"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Nf3 d5 5. b3 Ne4 6. Bg2 Qa5+ 7. Nfd2 Bg7 8. Bb2
+Be6 9. O-O Nxd2 10. Nxd2 O-O 11. e3 Nd7 12. Qe2 b5 13. Rfc1 bxc4 14. bxc4 Rab8
+15. Bc3 Qa4 16. cxd5 cxd5 17. Nb3 Rfc8 18. Bf1 Rc6 19. Be1 Rbc8 20. Rxc6 Rxc6
+21. Qb5 Qxb5 22. Bxb5 Rc2 23. Bd3 Rc8 24. Bb4 Bf6 25. Kf1 Bf5 26. Bxf5 gxf5 27.
+Ke2 Rc2+ 28. Bd2 e6 29. Kd3 Rc4 30. Na5 Ra4 31. Kc2 Bd8 32. Kb3 Rxa5 33. Bxa5
+Bxa5 34. Ka4 Bd2 35. Rd1 Bc3 36. Kb5 a5 37. a3 Nf6 38. f3 a4 39. Kxa4 Ne8 40.
+Kb3 Ba5 41. Kc2 Nd6 42. Kd3 Nc4 43. Ra1 Nb2+ 44. Ke2 Nc4 45. Ra2 f6 46. Kd3 Kf7
+47. e4 fxe4+ 48. fxe4 Be1 49. a4 Ba5 50. Rf2 Be1 51. Rf1 Ba5 52. Rb1 Nd6 53.
+exd5 exd5 54. Rb8 h6 55. g4 Nc4 56. Rb7+ Ke6 57. Rh7 Bd2 58. h4 Bf4 59. Rb7 Bg3
+60. h5 Bf4 61. Ra7 Bd2 62. Rc7 Bb4 63. Rh7 Bd2 64. a5 Bxa5 65. Rxh6 Bd2 66. Rh8
+f5 67. h6 Kf7 68. gxf5 Bg5 69. h7 Bf6 70. Rb8 Nd6 71. Rb6 Ke7 72. Ra6 Bg7 73.
+Ra5 Nf7 74. Rxd5 Ng5 75. Ra5 Nxh7 76. d5 Ng5 77. Ra6 Be5 78. Kc4 Nf7 79. Re6+
+Kd7 80. Kd3 Bd6 81. Ke3 Kd8 82. Rg6 Bh2 83. f6 Nd6 84. Rg8+ Kd7 85. Rg7+ Kd8
+86. Rg8+ Kd7 87. Ra8 Bg1+ 88. Kf4 Bd4 89. Rf8 Bc3 90. Ke3 Bb2 91. Ke2 Bc3 92.
+Kd3 Be5 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Littlewood, Paul E"]
+[Black "Silman, Jeremy D"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2345"]
+[BlackElo "2360"]
+[PlyCount "106"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. O-O Nc7 6. Bxc6 dxc6 7. h3 g6 8. d3
+Bg7 9. a4 a5 10. b3 O-O 11. Bb2 Ne6 12. Re1 Nd4 13. Nbd2 b6 14. Ne4 Be6 15. c4
+Qc7 16. Bxd4 cxd4 17. Ng3 c5 18. Qe2 Bc8 19. Nh2 Bb7 20. Ra2 Bc6 21. h4 h5 22.
+f4 Bh6 23. Rf1 f6 24. Kh1 e6 25. exf6 Bxf4 26. Qxe6+ Kh8 27. f7 Kg7 28. Ne2
+Rxf7 29. Nxf4 Rxf4 30. Rxf4 Qxf4 31. Qxc6 Qc1+ 32. Nf1 Qxf1+ 33. Kh2 Rf8 34.
+Qe4 Qf4+ 35. Qxf4 Rxf4 36. Re2 Rxh4+ 37. Kg3 Rg4+ 38. Kf3 Kf7 39. Re5 Rh4 40.
+Rd5 Ke7 41. Rg5 Kf7 42. Rd5 Rh1 43. Rd7+ Ke6 44. Rb7 Re1 45. Rxb6+ Kf5 46. Rb5
+Re3+ 47. Kf2 Rxd3 48. Rxa5 Ke4 49. Rxc5 Rd2+ 50. Kg3 Rb2 51. Rg5 d3 52. Rxg6 d2
+53. Rd6 Rxb3+ {Source: Paul Littlewood} 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Short, Nigel D"]
+[Black "Povah, Nigel Edward"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2225"]
+[BlackElo "2350"]
+[PlyCount "84"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nc6 4. d4 exd4 5. exd4 d5 6. Bb5 Qg5 7. Qe2+ Be7 8.
+Nf3 Qxg2 9. Rg1 Qh3 10. Nbd2 g6 11. O-O-O Qe6 12. Qf1 Bd7 13. Re1 Qd6 14. c4
+O-O-O 15. Ne5 Nxe5 16. dxe5 Qe6 17. cxd5 Qxd5 18. Bc4 Qa5 19. e6 Bc6 20. Bxh8
+Qxd2+ 21. Kb1 f6 22. Re2 Qd4 23. Rg3 Nh6 24. Rd3 Be4 25. Rxe4 Qxe4 26. f3 Qf5
+27. Bg7 Ng4 28. Ka1 Rxd3 29. Qxd3 Qxd3 30. Bxd3 Nxh2 31. Be2 c6 32. Kb2 Kc7 33.
+Kc3 Kd6 34. Kd4 Kxe6 35. Bc4+ Kf5 36. Ke3 Bc5+ 37. Ke2 Kf4 38. Bxf6 Nxf3 39.
+Bg8 h5 40. Bf7 Kf5 41. Kxf3 Kxf6 42. Be8 Ba3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Haik, Aldo"]
+[Black "Law, Andrew P"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2425"]
+[BlackElo "2345"]
+[PlyCount "82"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 Nbd7 8.
+g3 b6 9. Bg2 Bb7 10. O-O Qe8 11. b4 Ne4 12. Qc2 f5 13. Bb2 Qh5 14. d5 e5 15.
+Rad1 Ndf6 16. Ne1 Bc8 17. f3 Ng5 18. c5 Bd7 19. c6 Be8 20. e3 Bg6 21. Qd2 Rae8
+22. Nd3 Qh6 23. Nc1 Bh5 24. h4 Nf7 25. Rde1 Qg6 26. Kh2 Nh6 27. Ne2 Qf7 28. e4
+fxe4 29. fxe4 Qg6 30. Nc3 Rf7 31. Qg5 Ref8 32. Kg1 Nhg4 33. Bc1 h6 34. Qxg6
+Bxg6 35. Bh3 h5 36. Bg5 Nh7 37. Rxf7 Rxf7 38. Bd8 Rf3 39. Ne2 Bxe4 40. Bxc7
+Bxd5 41. Bxd6 Bxc6 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Macdonald-Ross, Michael"]
+[Black "Bellin, Robert"]
+[Result "0-1"]
+[ECO "D50"]
+[WhiteElo "2265"]
+[BlackElo "2415"]
+[PlyCount "74"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 d5 6. cxd5 exd5 7. e3 Qd6 8.
+Bxf6 Qxf6 9. Bd3 c6 10. Qf3 Nd7 11. Qxf6 Nxf6 12. Nge2 b6 13. O-O O-O 14. Rac1
+Bb7 15. Rfd1 Rfe8 16. a3 Bd6 17. Na2 a5 18. Nac3 g6 19. Na4 Nd7 20. h4 h5 21.
+g3 Kg7 22. Rc3 b5 23. Nc5 Nxc5 24. dxc5 Be5 25. Rc2 Re7 26. Kg2 Bf6 27. Rcd2
+Bc8 28. Ra1 Bd7 29. Bb1 Rae8 30. Nc1 d4 31. e4 Be6 32. Ne2 Rd7 33. Bd3 Bb3 34.
+Rh1 Re5 35. Bxb5 cxb5 36. Nxd4 Rxd4 37. Rxd4 Rxc5 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Valvo, Michael J"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[WhiteElo "2530"]
+[BlackElo "2440"]
+[PlyCount "69"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 O-O 5. Nf3 Nc6 6. O-O d6 7. d3 Nh5 8. Rb1
+f5 9. Bd2 a5 10. a3 f4 11. Nd5 e5 12. b4 axb4 13. axb4 Bg4 14. b5 Ne7 15. Ng5
+Kh8 16. Ne4 Nxd5 17. cxd5 Nf6 18. f3 Bd7 19. Qb3 Nxe4 20. dxe4 Bh6 21. Rfc1 Bg5
+22. e3 fxe3 23. Bxe3 Ra5 24. Bxg5 Qxg5 25. f4 Qf6 26. Rxc7 Rxb5 27. Qd3 Rxb1+
+28. Qxb1 exf4 29. gxf4 Ra8 30. e5 Qxf4 31. Qb2 Qe3+ 32. Qf2 Ra1+ 33. Bf1 Bh3
+34. Rc8+ Kg7 35. Rc7+ 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Nunn, John DM"]
+[Black "Crouch, Colin S"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2440"]
+[BlackElo "2300"]
+[PlyCount "63"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. b4 Bb6 7. a4 a5 8. b5 Nb8
+9. O-O O-O 10. Nbd2 h6 11. Ba2 Nbd7 12. d4 Nh7 13. Nc4 Qf6 14. Ne3 exd4 15.
+cxd4 Ng5 16. Nxg5 Qxg5 17. f4 Qe7 18. Bb1 Re8 19. Kh1 Qd8 20. Ra3 Nf6 21. e5
+dxe5 22. fxe5 Nh7 23. Ba2 Ng5 24. Nd5 Be6 25. Nxb6 cxb6 26. d5 Bd7 27. Qd4 Qe7
+28. Re3 Rac8 29. Ba3 Qd8 30. h4 Nh7 31. e6 Bxe6 32. dxe6 {Source: CHESS, May
+1978, p252} 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Basman, Michael John"]
+[Black "Soos, Bela"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2395"]
+[BlackElo "2425"]
+[PlyCount "62"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 g6 2. Nc3 c6 3. d3 d5 4. Bd2 Bg7 5. f4 Na6 6. Nf3 Nc7 7. g3 dxe4 8. dxe4
+Nf6 9. Bd3 Ne6 10. e5 Nd5 11. Ne4 Qb6 12. c4 Nb4 13. Be2 c5 14. a3 Nc6 15. b4
+O-O 16. bxc5 Nxc5 17. Rb1 Nxe4 18. Rxb6 axb6 19. Qb3 Nxd2 20. Kxd2 Bg4 21. Ke3
+Ra6 22. Rd1 Rfa8 23. Kf2 e6 24. c5 Bxf3 25. Bxf3 Bf8 26. Bxc6 Bxc5+ 27. Kg2
+Rxa3 28. Qb5 R3a5 29. Qd3 bxc6 30. Qd7 Ra2+ 31. Kh3 Ra1 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Britton, Richard L"]
+[Black "Speelman, Jonathan S"]
+[Result "0-1"]
+[ECO "B57"]
+[WhiteElo "2300"]
+[BlackElo "2410"]
+[PlyCount "50"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nxc6 bxc6 8.
+O-O e6 9. Bf4 Qc7 10. Qd3 Be7 11. Rad1 e5 12. Bg5 h6 13. Bxf6 gxf6 14. Qg3 Be6
+15. Bxe6 fxe6 16. Qh3 Qc8 17. f4 exf4 18. e5 fxe5 19. Qh5+ Kf8 20. Ne4 Qc7 21.
+Qg6 d5 22. Qxe6 Rh7 23. Nf6 Rf7 24. Nd7+ Qxd7 25. Qxe5 Kg8 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Kinlay, Jonathan"]
+[Black "Mestel, A Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B82"]
+[WhiteElo "2300"]
+[BlackElo "2450"]
+[PlyCount "50"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 a6 6. Be3 Nc6 7. f4 Nf6 8. Qf3
+Be7 9. O-O-O Qc7 10. g4 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Bd6 14. Be3 Be6
+15. Bb5+ Ke7 16. Ba4 Qa5 17. Kb1 Rhc8 18. Bb3 Rxc3 19. bxc3 Nxe4 20. Qh4+ f6
+21. Bd2 Ba3 22. Qxh7 Bxb3 23. axb3 Nxc3+ 24. Bxc3 Qxc3 25. Qxg7+ Ke8 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Norman, Kenneth I"]
+[Black "Rayner, Emmanuel"]
+[Result "0-1"]
+[ECO "E66"]
+[WhiteElo "2250"]
+[BlackElo "2345"]
+[PlyCount "46"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O Nc6 6. d4 d6 7. Nc3 a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Rb8 11. b3 b5 12. Bb2 bxc4 13. bxc4 Bh6 14. f4 e5 15.
+Rae1 exf4 16. gxf4 Nh5 17. e3 Bg7 18. Nd1 Bxb2 19. Nxb2 f5 20. Nd3 Qf6 21. Kh1
+Bd7 22. Rg1 Qg7 23. Ref1 Ng3+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Baczynskyj, Boris"]
+[Black "Knott, Simon John Bradley"]
+[Result "0-1"]
+[ECO "C17"]
+[WhiteElo "2370"]
+[BlackElo "2205"]
+[PlyCount "44"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. Nf3 Nbc6 7. Bb5 O-O 8. Bg5
+Bxc3+ 9. bxc3 Qa5 10. Bxc6 Qxc3+ 11. Kd1 Nf5 12. Rb1 bxc6 13. Re1 Ba6 14. Rb3
+Qa1+ 15. Bc1 Bc4 16. Ra3 Rfb8 17. dxc5 Rb1 18. Qf4 Qb2 19. Ra5 d4 20. Qd2 Rd8
+21. Rxa7 Ne3+ 22. Rxe3 Rxc1+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "7"]
+[White "Franklin, Michael J"]
+[Black "Diesen, Mark C"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2315"]
+[BlackElo "2440"]
+[PlyCount "30"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 c5 2. e3 Nf6 3. Nf3 e6 4. Bd3 d5 5. c3 Nbd7 6. Nbd2 Bd6 7. O-O O-O 8. Re1
+e5 9. e4 cxd4 10. cxd4 dxe4 11. Nxe4 Nxe4 12. Bxe4 exd4 13. Qxd4 Nf6 14. Bg5
+Be7 15. Qxd8 Bxd8 ({Not} 15... Rxd8 {as given in Big/Mega Database 2020})
+1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Basman, Michael John"]
+[Black "Haik, Aldo"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2395"]
+[BlackElo "2425"]
+[PlyCount "111"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 Qh4+ 3. g3 Qe7 4. fxe5 Qxe5 5. Nc3 Bb4 6. Nf3 Qe7 7. Qe2 Bxc3 8.
+bxc3 Nc6 9. Bg2 d6 10. O-O Nf6 11. d3 Bg4 12. h3 Bxf3 13. Qxf3 Nd7 14. Rb1 Rb8
+15. d4 O-O 16. Rb5 f6 17. Qd3 g6 18. Bh6 Rfe8 19. Rf2 Nd8 20. Bd2 Ne6 21. Rb1
+Kh8 22. Rbf1 Ng7 23. h4 Rf8 24. a4 Rbe8 25. a5 Nb8 26. c4 c5 27. dxc5 dxc5 28.
+e5 f5 29. Bc3 Ne6 30. Rb1 Nc6 31. a6 Nb4 32. Bxb4 cxb4 33. axb7 Nc5 34. Qd4
+Nxb7 35. Qxa7 Nc5 36. Qxe7 Rxe7 37. Re2 Rfe8 38. Rxb4 Ne4 39. Bxe4 Rxe5 40. c5
+fxe4 41. Rc4 Rc8 42. Rexe4 Rcxc5 43. Rxc5 Rxc5 44. c4 Kg7 45. Kf2 Ra5 46. Ke3
+Ra3+ 47. Kf4 Kf6 48. g4 h6 49. g5+ hxg5+ 50. hxg5+ Kf7 51. Re5 Ra4 52. Rc5 Ra1
+53. Ke5 Rf1 54. Kd6 Rd1+ 55. Rd5 Rg1 56. Re5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Goodman, David SC"]
+[Black "Macpherson, H Dugald"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2320"]
+[BlackElo "2315"]
+[PlyCount "81"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nbd7 8. d5
+h6 9. Ne1 Nc5 10. Qc2 a5 11. b3 Nh7 12. Nd3 b6 13. f3 f5 14. Nf2 f4 15. Bd2 g5
+16. a3 h5 17. Rfb1 Bd7 18. b4 Nb7 19. h3 Bh6 20. Nb5 Kh8 21. Bc3 g4 22. fxg4
+Ng5 23. Bf3 Nxf3+ 24. gxf3 Qh4 25. Kf1 axb4 26. axb4 hxg4 27. hxg4 Qg3 28. Ke2
+Rxa1 29. Rxa1 Qg2 30. Rh1 Kg7 31. Be1 Ra8 32. Qb2 Nd8 33. Nxc7 Rc8 34. c5 Rxc7
+35. cxd6 Rc2+ 36. Qxc2 Bb5+ 37. Kd2 Qxf3 38. Kc1 Qe3+ 39. Kb1 f3 40. Rxh6 Kxh6
+41. Bd2 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Ligterink, Gert"]
+[Black "Povah, Nigel Edward"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2440"]
+[BlackElo "2350"]
+[PlyCount "79"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 Be6 8.
+Bxf6 gxf6 9. Nd5 Rc8 10. c3 a6 11. Na3 Bh6 12. Qh5 Bg7 13. Nc2 Bxd5 14. exd5
+Ne7 15. Ne3 Qb6 16. O-O-O Qc5 17. Kb1 b5 18. Bd3 Ng6 19. g3 O-O 20. Be4 b4 21.
+c4 a5 22. h4 Rfe8 23. Qg4 Ne7 24. h5 h6 25. Rh4 Kf8 26. Qf3 Ra8 27. Rg4 Qc8 28.
+Rc1 Ra6 29. Bf5 Qc7 30. Qe4 Kg8 31. Qd3 Rea8 32. Nf1 Qc5 33. Qf3 R8a7 34. Nd2
+Kf8 35. Ne4 Qb6 36. c5 dxc5 37. Rxc5 Ra8 38. d6 Nc6 39. Bh7 Nd4 40. Qxf6 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Valvo, Michael J"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2530"]
+[BlackElo "2450"]
+[PlyCount "76"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 e5 4. Bg2 f5 5. d3 Nf6 6. Nf3 d6 7. O-O O-O 8. Rb1 h6
+9. b4 Kh7 10. Qc2 c6 11. c5 dxc5 12. bxc5 Qe7 13. Nd2 Qxc5 14. Nc4 Rd8 15. Na4
+Qe7 16. Ba3 Qc7 17. Qc3 Nd5 18. Bxd5 Rxd5 19. e4 Rd8 20. Ne3 b6 21. Nd5 Qf7 22.
+Be7 Rxd5 23. exd5 Qxe7 24. dxc6 e4 25. d4 Qd6 26. Rbc1 Nxc6 27. Qxc6 Qxc6 28.
+Rxc6 Bd7 29. Rc7 Bxa4 30. Rfc1 Kg8 31. d5 Bf8 32. Rc8 Rxc8 33. Rxc8 Kf7 34.
+Rc7+ Kf6 35. Rxa7 Bb5 36. a4 Bc4 37. Rb7 Bc5 38. d6 e3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Fuller, Maxwell L"]
+[Black "Baker, Chris W"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2390"]
+[BlackElo "2280"]
+[PlyCount "69"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. b3 e5 2. Bb2 d6 3. c4 Nf6 4. Nc3 Nc6 5. e3 Be7 6. Nf3 e4 7. Ng5 Bf5 8. Qb1
+O-O 9. f3 d5 10. cxd5 Nxd5 11. Ngxe4 Bb4 12. Nxd5 Qxd5 13. Bc4 Qa5 14. Qc2 Rad8
+15. O-O-O Bxe4 16. fxe4 b5 17. Be2 Bxd2+ 18. Rxd2 Nb4 19. Rxd8 Rxd8 20. Rd1 c6
+21. Rxd8+ Qxd8 22. Qd2 Nxa2+ 23. Kc2 Qe7 24. Kb1 Nb4 25. Qd4 f6 26. e5 c5 27.
+exf6 gxf6 28. Qg4+ Kf8 29. Qf5 Kg7 30. Bxb5 Qd6 31. Qg5+ Kf7 32. Bc4+ Ke8 33.
+Qg8+ Kd7 34. Qf7+ Kc6 35. Qxf6 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Garbett, Paul Anthony"]
+[Black "Nunn, John DM"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[WhiteElo "2310"]
+[BlackElo "2440"]
+[PlyCount "66"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. a4 g6 8. Be2
+Bg7 9. O-O O-O 10. Bf3 Qc7 11. Kh1 e5 12. fxe5 dxe5 13. Nb3 b6 14. Qe1 Bb7 15.
+Qh4 Bc6 16. Be2 b5 17. Bd3 b4 18. Ne2 Nh5 19. Bg5 f6 20. Bd2 a5 21. g4 Nf4 22.
+Bxf4 exf4 23. Nxf4 Ne5 24. Ne6 Qd6 25. Nxf8 Nxd3 26. cxd3 Qxd3 27. Qxh7+ Kxf8
+28. Nc5 Bxe4+ 29. Nxe4 Qxe4+ 30. Kg1 Qxg4+ 31. Kh1 Qe4+ 32. Kg1 Rd8 33. Rae1
+Qd4+ 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Nicholson, John Graham"]
+[Black "Littlewood, Paul E"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2290"]
+[BlackElo "2345"]
+[PlyCount "66"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. Bd3 Be6 13. Qh5 O-O 14. exf5 Bxd5
+15. f6 e4 16. fxg7 Re8 17. Be2 Re5 18. Qh6 Rg5 19. Nc2 Ne5 20. Ne3 Bc4 21. Bxc4
+bxc4 22. O-O d5 23. b3 Rb8 24. Rad1 Rb6 25. Qh3 cxb3 26. axb3 Rxb3 27. f4 exf3
+28. Rxd5 Qb6 29. Qc8+ Kxg7 30. Rd4 Qg6 31. g4 Nxg4 32. Rxg4 Rxg4+ 33. Qxg4 Rxc3
+1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Webb, Simon"]
+[Black "Silman, Jeremy D"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[WhiteElo "2445"]
+[BlackElo "2360"]
+[PlyCount "63"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Nxd2 c5 6. dxc5 Qa5 7. Bg2 O-O 8.
+Ngf3 Qxc5 9. O-O d5 10. Rc1 Nc6 11. cxd5 Qxd5 12. Nc4 Qb5 13. a4 Qb4 14. Qd6
+Qxa4 15. Nfe5 Nxe5 16. Nxe5 Qb5 17. Rc2 Qb6 18. Qxb6 axb6 19. Nc4 Ra6 20. Rfc1
+b5 21. Ne5 Ra8 22. Rc5 Nd7 23. Nxd7 Bxd7 24. Bxb7 Rab8 25. Rc7 Rfd8 26. f4 Kf8
+27. Kf2 Be8 28. Ke3 Rd6 29. Be4 Ra6 30. Rc8 Rxc8 31. Rxc8 Ke7 32. Ra8 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Soos, Bela"]
+[Black "Franklin, Michael J"]
+[Result "1/2-1/2"]
+[ECO "E33"]
+[WhiteElo "2425"]
+[BlackElo "2315"]
+[PlyCount "59"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Qe7 9. e3 e5 10. dxe5 Nxe5 11. Be2 Nfg4 12. h3 Nh6 13. O-O-O Bf5 14. e4
+Bg6 15. g4 Nxf3 16. Bxf3 Rfe8 17. Rhe1 f6 18. Re3 Nf7 19. Rde1 Ne5 20. Be2 Bf7
+21. Bd2 Nc6 22. Qc3 Qe5 23. Bf1 a5 24. h4 a4 25. g5 fxg5 26. hxg5 Qxc3+ 27.
+Bxc3 Na5 28. Bxa5 Rxa5 29. f4 Rc5 30. Rc3 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Carleton, John Joseph"]
+[Black "Sowray, Peter John"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2280"]
+[BlackElo "2205"]
+[PlyCount "53"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. h4 dxc3 13. h5 O-O-O 14. Qd3
+d4 15. h6 Rg6 16. h7 Rh8 17. Nxd4 Nxd4 18. Qxd4 Nf5 19. Qxa7 Qc6 20. Be3 Qe4
+21. Rh3 Rh6 22. O-O-O Rxh3 23. Bb6 Qxf4+ 24. Kb1 Qa4 25. Qxa4 Bxa4 26. gxh3 Bc6
+27. Rd8+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Stirling, William J"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "2205"]
+[BlackElo "2225"]
+[PlyCount "53"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 b6 7. Qe2 Nc6 8. Qe3
+cxd4 9. cxd4 Nb4 10. Bb1 Ba6 11. Ne2 Rc8 12. Nc3 f6 13. f4 fxe5 14. fxe5 Qh4+
+15. g3 Qg4 16. h3 Qh5 17. Kf2 Be7 18. Kg2 O-O 19. Nf3 h6 20. Bd2 Nc6 21. Re1
+Nxd4 22. Nxd5 exd5 23. g4 Rxf3 24. gxh5 Rxe3 25. Bxe3 Nc2 26. Bxc2 Rxc2+ 27.
+Kg3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Bellin, Robert"]
+[Black "Ornstein, Axel"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2415"]
+[BlackElo "2425"]
+[PlyCount "45"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c6 4. Nd2 Qa5 5. c3 Qh5 6. Nxe4 Qxh4 7. Ng3 d5 8.
+Nf3 Qf6 9. e4 e6 10. Bd3 h5 11. h4 g6 12. Qe2 Bh6 13. exd5 cxd5 14. Bb5+ Kf8
+15. Ne5 a6 16. Ba4 Bf4 17. Nf1 Bxe5 18. Qxe5 Qxe5+ 19. dxe5 b5 20. Bc2 Nc6 21.
+f4 Bb7 22. Rd1 Ke7 23. Kf2 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Rayner, Emmanuel"]
+[Black "Quigley, Steven A"]
+[Result "0-1"]
+[ECO "A97"]
+[WhiteElo "2345"]
+[BlackElo "2080"]
+[PlyCount "46"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 f5 2. g3 d6 3. d4 e6 4. Bg2 Be7 5. O-O Nf6 6. c4 O-O 7. Nc3 Qe8 8. Re1
+Qg6 9. e4 fxe4 10. Nxe4 Nxe4 11. Rxe4 Nc6 12. Re1 Nb4 13. a3 Nc2 14. Nh4 Bxh4
+15. Be4 Nxe1 16. Bxg6 Nf3+ 17. Kh1 hxg6 18. gxh4 b6 19. Qe2 Bb7 20. Qxe6+ Kh8
+21. d5 Rae8 22. Qd7 Re1+ 23. Kg2 Rg1+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Bennett, Terry B"]
+[Black "Supancic, Darko"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2270"]
+[BlackElo "2335"]
+[PlyCount "27"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bg5 Nd7 3. e3 Ngf6 4. Nd2 e5 5. dxe5 Nxe5 6. Ngf3 Nxf3+ 7. Qxf3 Be7
+8. h3 Be6 9. Bd3 O-O 10. O-O Nd7 11. Bf4 Nc5 12. Be2 Bf6 13. c3 c6 14. Rfd1
+1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Law, Andrew P"]
+[Black "Botterill, George Steven"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2345"]
+[BlackElo "2400"]
+[PlyCount "23"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 dxc4 6. Bxc4 Nf6 7. O-O O-O 8.
+Bg5 h6 9. Bh4 Nbd7 10. Nc3 c6 11. Re1 Qa5 12. Bb3 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.27"]
+[Round "8"]
+[White "Diesen, Mark C"]
+[Black "Hartston, William Roland"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[WhiteElo "2440"]
+[BlackElo "2475"]
+[PlyCount "16"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. Qc2 c5 7. dxc5 Qa5 8. e3
+Nc6 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Law, Andrew P"]
+[Black "Soos, Bela"]
+[Result "0-1"]
+[ECO "B34"]
+[WhiteElo "2345"]
+[BlackElo "2425"]
+[PlyCount "144"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Be2 O-O 8.
+O-O d5 9. exd5 Nb4 10. Qd2 Nfxd5 11. Nxd5 Nxd5 12. Bh6 e5 13. Bxg7 Kxg7 14. Nf3
+Nf4 15. Bc4 Qxd2 16. Nxd2 Bf5 17. g3 Nh3+ 18. Kg2 Ng5 19. Rfe1 Rad8 20. h4 Rxd2
+21. hxg5 Rxc2 22. Bb3 Rc5 23. Rad1 e4 24. Rd5 Rfc8 25. Rd6 R8c7 26. Re3 Rd7 27.
+Rd1 Rxd1 28. Bxd1 Be6 29. Bb3 Bxb3 30. Rxb3 b6 31. Re3 Re5 32. Kf1 h6 33. gxh6+
+Kxh6 34. Ke2 f5 35. b4 Kg5 36. Rc3 a5 37. Rc4 Rd5 38. a4 axb4 39. Rxb4 Rd6 40.
+f3 exf3+ 41. Kxf3 Rd3+ 42. Kf2 Ra3 43. Rxb6 Rxa4 44. Kg2 Kh5 45. Kf3 g5 46. Rb3
+Ra2 47. Rc3 g4+ 48. Ke3 Rg2 49. Kf4 Rf2+ 50. Ke5 Kg5 51. Rc8 Re2+ 52. Kd4 Re4+
+53. Kd3 Re6 54. Rg8+ Kf6 55. Rf8+ Kg6 56. Ra8 Rb6 57. Ke3 Rb2 58. Ra6+ Kg5 59.
+Ra8 Rg2 60. Rg8+ Kf6 61. Rf8+ Kg6 62. Kf4 Rf2+ 63. Ke5 Re2+ 64. Kd4 Re1 65.
+Rg8+ Kf7 66. Ra8 Re4+ 67. Kd3 Re6 68. Ra7+ Kf6 69. Ra8 Re1 70. Rf8+ Kg6 71. Kd4
+Rg1 72. Ke5 Rxg3 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Hartston, William Roland"]
+[Black "Bellin, Robert"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2475"]
+[BlackElo "2415"]
+[PlyCount "121"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d3 d5 2. g3 g6 3. Bg2 Bg7 4. Nf3 e5 5. O-O Ne7 6. Nbd2 O-O 7. e4 dxe4 8.
+dxe4 b6 9. Re1 Nbc6 10. c3 a5 11. a4 Ba6 12. Bf1 Bxf1 13. Nxf1 Qxd1 14. Rxd1
+Rfd8 15. Be3 f6 16. N1d2 Bf8 17. Nc4 Kf7 18. Kf1 Rxd1+ 19. Rxd1 Rd8 20. Rxd8
+Nxd8 21. Ne1 Nc8 22. Ke2 Ke6 23. Nd3 Nc6 24. Kd2 Be7 25. f3 Bf8 26. Kc2 Be7 27.
+Bf2 Bf8 28. Ne3 N8e7 29. Nc4 Nc8 30. g4 Bd6 31. Kb3 Bf8 32. f4 Bh6 33. f5+ gxf5
+34. gxf5+ Kf7 35. Kc2 Bf8 36. Be3 Ke8 37. Nf2 Nd8 38. Nd3 Nc6 39. h4 Kd7 40.
+Nf2 Ke8 41. Kd3 Nd8 42. Ng4 Be7 43. Bd2 Nb7 44. b4 c6 45. h5 Bd8 46. Be1 Kf7
+47. Ngxe5+ fxe5 48. Nxe5+ Ke8 49. Nxc6 Bg5 50. e5 Ne7 51. Nxe7 Bxe7 52. Kc4 Kd7
+53. Kd5 Nd8 54. e6+ Ke8 55. Bf2 axb4 56. cxb4 Bxb4 57. Bxb6 Nb7 58. f6 Bc3 59.
+Kc6 Bxf6 60. Kxb7 Bc3 61. Kc6 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Ornstein, Axel"]
+[Black "Basman, Michael John"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2425"]
+[BlackElo "2395"]
+[PlyCount "109"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.10.24"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.10.24"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 cxd5 6. e3 (6. Nf3 e6 7. e3 {is the move order given in the Basman/Welling Collection}) 6... e6 7. Bd3 Be7 8. Nf3 a6 9. O-O O-O 10. Qe2 Nb6 11. Ne5 Nfd7 12. Bxe7 Qxe7 13. f4 f6 14. Nf3 Rd8 15. Rae1 Nf8 16. e4 dxe4 17. Qxe4 Qb4 18. Rf2 Rb8 19. a3 Qa5 20. Bb1 Bd7 (20... Kh8 21. Ba2 Bd7 {is the move order given in the Basman/Welling Collection}) 21. Ba2 Kh8 22. Qd3 Rbc8 23. f5 Qxf5 24. Qxf5 exf5 25. d5 Ng6 26. Rd1 Nc4 27. Bxc4 Rxc4 28. Nd4 f4 29. Rdd2 Kg8 30. h3 Re8 31. Kf1 Re5 32. Rf3 Ne7 33. Nb3 g5 34. Na5 Rc8 35. Nxb7 Nf5 36. Kf2 Kf8 (36... h5 37. Rfd3 Kf8 {is the move order given in the Basman/Welling Collection}) 37. Rfd3 h5 38. b4 Ke8 39. d6 Ne3 40. Nc5 a5 41. Nd5 Nxd5 42. Rxd5 Rxd5 43. Rxd5 axb4 44. axb4 Ra8 45. Rd2 Bb5 46. Ne4 Ra1 47. g4 Rf1+ 48. Kg2 f3+ 49. Kh2 Re1 50. Nxf6+ Kf7 51. d7 Bxd7 52. Nxd7 hxg4 53. hxg4 Re4 54. Kg3 (54. b5 Ke7 55. Kg3 f2 {1-0 is the game finish given in the Basman/Welling Collection}) 54... f2 55. Kxf2 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Silman, Jeremy D"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2360"]
+[BlackElo "2410"]
+[PlyCount "103"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nd4 6. Bc4 Ne7 7. d3 a6 8. Nxd4
+cxd4 9. Ne2 g6 10. Bg5 Bg7 11. Bb3 Qc5 12. f4 b6 13. f5 gxf5 14. Bxe7 Qxe7 15.
+exf5 Bb7 16. Ng3 Be5 17. Qh5 Bxg3 18. fxe6 O-O-O 19. exd7+ Rxd7 20. hxg3 Qe3+
+21. Kh2 Rd6 22. Qg4+ Kb8 23. Qf4 Qxf4 24. Rxf4 Re8 25. Raf1 Re2 26. Rf6 Rxg2+
+27. Kh3 Rg1 28. Rxd6 Rxf1 29. Rxb6 Kc7 30. Rb4 Bf3 31. g4 Kd6 32. Rxd4+ Ke5 33.
+Ra4 h5 34. gxh5 f5 35. Kh4 Bc6 36. Rc4 Bb5 37. Rb4 f4 38. Re4+ Kf6 39. Ba4 Kf5
+40. Kh3 Bxa4 41. Rxa4 Rh1+ 42. Kg2 Rc1 43. Rc4 Kg4 44. h6 Rd1 45. h7 Rd2+ 46.
+Kg1 Rd1+ 47. Kf2 Rd2+ 48. Ke1 Rh2 49. Rc7 f3 50. d4 Kg3 51. Rg7+ Kf4 52. d5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Haik, Aldo"]
+[Black "Diesen, Mark C"]
+[Result "1/2-1/2"]
+[ECO "E34"]
+[WhiteElo "2425"]
+[BlackElo "2440"]
+[PlyCount "100"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 c5 7. Bd2 Qd8 8.
+dxc5 Bxc5 9. e3 Nc6 10. a3 O-O 11. Rd1 Bd7 12. Bc4 Rc8 13. Ba2 h6 14. Bb1 Qe7
+15. b4 Bd6 16. O-O Rfd8 17. Bc1 Ne5 18. Nxe5 Bxe5 19. Bb2 Rc7 20. f4 Bd6 21.
+Qd3 Bc6 22. Nb5 Bxb5 23. Qxb5 Rcd7 24. Bd4 e5 25. Bxa7 exf4 26. exf4 Bxf4 27.
+Rxd7 Be3+ 28. Kh1 Rxd7 29. Bb8 Bd4 30. Bg3 Rd5 31. Qc4 b5 32. Qc2 g6 33. Ba2
+Rg5 34. Bh4 Rf5 35. Rxf5 gxf5 36. Qxf5 Kg7 37. Qxb5 Qe3 38. Qf1 Qxa3 39. Qc4
+Qa7 40. h3 Ne4 41. Qe2 Nc3 42. Qg4+ Kf8 43. Qc8+ Kg7 44. Qg4+ Kf8 45. Qc8+ Kg7
+46. Bf2 Bxf2 47. Qxc3+ Qd4 48. Qb3 Qf4 49. Qb1 Bd4 50. b5 Qf2 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Mestel, A Jonathan"]
+[Black "Garbett, Paul Anthony"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2450"]
+[BlackElo "2310"]
+[PlyCount "100"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+d6 9. Re1 Bd7 10. Nxc6 bxc6 11. Na4 Be7 12. c4 Rb8 13. c5 e5 14. cxd6 Bxd6 15.
+Qc2 c5 16. Bg5 Rb4 17. Nc3 Be6 18. Nd5 Nxd5 19. exd5 Bd7 20. Bd2 Rb8 21. b3 O-O
+22. Bf1 Bb5 23. Bc4 f5 24. f3 Kh8 25. Bc3 f4 26. g4 Qe7 27. Re2 Qg5 28. Kh1 Rf6
+29. h4 Rh6 30. Be1 Qf6 31. Rh2 Qg6 32. Qxg6 Rxg6 33. Re2 Rf6 34. Bc3 Rf7 35.
+Rae1 Re7 36. Kg2 Rbe8 37. Re4 Kg8 38. Kf2 Kf7 39. Ke2 h5 40. Rg1 Bd7 41. Kf2
+hxg4 42. fxg4 Rh8 43. h5 Bc8 44. Kf3 g6 45. Rxf4+ exf4 46. Bxh8 Re3+ 47. Kf2
+Rh3 48. Bf1 Rh2+ 49. Rg2 Rh1 50. Bd3 Bb7 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Franklin, Michael J"]
+[Black "Webb, Simon"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2315"]
+[BlackElo "2445"]
+[PlyCount "95"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 g6 2. Nf3 Bg7 3. c3 d6 4. h3 f5 5. Bf4 Nf6 6. e3 O-O 7. Bc4+ e6 8. Qb3
+Qe7 9. a4 a5 10. Na3 Kh8 11. Nb5 Ne4 12. h4 c6 13. Na3 Nd7 14. Bg5 Nxg5 15.
+hxg5 d5 16. Be2 e5 17. O-O-O e4 18. Nh4 Qxg5 19. g3 Qf6 20. Ng2 g5 21. Rh2 Qd6
+22. Rdh1 Nf6 23. Qb6 Be6 24. Kb1 Rf7 25. Ka1 Bf8 26. Rb1 Qc7 27. Qb3 b6 28.
+Rhh1 Bc8 29. Rhc1 Ba6 30. Bxa6 Rxa6 31. c4 Ra8 32. cxd5 Nxd5 33. Nc4 Nb4 34.
+Ne5 Rf6 35. Ne1 Bd6 36. f4 Bxe5 37. dxe5 Qf7 38. Qxf7 Rxf7 39. Rd1 gxf4 40.
+gxf4 Rg8 41. Rbc1 Rg3 42. Rd8+ Kg7 43. Nc2 Nd3 44. Rh1 c5 45. Na3 Rxe3 46. Rg1+
+Kh6 47. Rd6+ Kh5 48. Rg5+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Short, Nigel D"]
+[Black "Goodman, David SC"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2225"]
+[BlackElo "2320"]
+[PlyCount "93"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 b6 2. d3 Bb7 3. Nf3 g6 4. g3 Bg7 5. Bg2 c5 6. O-O Nc6 7. Re1 d6 8. c3 Nf6
+9. d4 cxd4 10. cxd4 e5 11. d5 Ne7 12. Nc3 O-O 13. b3 Qd7 14. Bb2 Nh5 15. Nd2
+Ba6 16. Bf3 Bh6 17. Nf1 Ng7 18. Be2 Bb7 19. a4 f5 20. f3 a6 21. Qd3 Ne8 22. Nd2
+f4 23. g4 Bg5 24. Nc4 Nc8 25. Kg2 Bh4 26. Rh1 h5 27. h3 Qe7 28. Na2 Bg3 29. Bd1
+Qh4 30. Qe2 Ra7 31. Nb4 Ba8 32. Bc2 Qg5 33. a5 Rh7 34. axb6 Nf6 35. Qd3 Bb7 36.
+Rag1 Qh4 37. Qe2 Kf7 38. Na5 Rfh8 39. Nxb7 hxg4 40. Bd1 gxh3+ 41. Kf1 Nxb6 42.
+Nxd6+ Kg7 43. Bxe5 Nbd7 44. Bd4 Kg8 45. Qxa6 Be1 46. Qc8+ Nf8 47. Rxg6+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Littlewood, Paul E"]
+[Black "Valvo, Michael J"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "2345"]
+[BlackElo "2530"]
+[PlyCount "88"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Be6 5. Qe2 c5 6. Nf3 Nc6 7. Qe4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 Nc7 10. exd6 Bxc4 11. Qxc4 Qxd6 12. O-O Qc6 13. Qxc6+ bxc6
+14. b3 e5 15. Bb2 f6 16. Rd1 Bc5 17. Nd2 O-O-O 18. Ne4 Be7 19. Kf1 Ne6 20. g3
+Rd5 21. c4 Rdd8 22. Ke2 f5 23. Nd2 e4 24. f3 Nd4+ 25. Bxd4 Rxd4 26. Nf1 Rhd8
+27. Rxd4 Rxd4 28. Ne3 exf3+ 29. Kxf3 g6 30. Rd1 Rxd1 31. Nxd1 Kd7 32. Nf2 Ke6
+33. Nd3 a5 34. Ke3 g5 35. Kf3 h5 36. Ke3 Bd6 37. Kf3 Kf6 38. h4 g4+ 39. Kf2 Ke6
+40. a3 Bxa3 41. Nf4+ Kf7 42. Nxh5 Bc1 43. c5 Ba3 44. Nf4 Bxc5+ {Source: Paul
+Littlewood} 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Nunn, John DM"]
+[Black "Wicker, Kevin J"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2440"]
+[BlackElo "2305"]
+[PlyCount "77"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Bc4 b5 5. Bb3 a5 6. a4 b4 7. Nce2 d5 8. e5 Bf5
+9. Ng3 Qd7 10. c3 Na6 11. Nxf5 Qxf5 12. Bc2 Qd7 13. Nf3 e6 14. O-O h6 15. Bd3
+Ne7 16. Bxa6 Rxa6 17. cxb4 axb4 18. Bd2 c5 19. dxc5 Nc6 20. Be3 O-O 21. Qd2 Kh7
+22. b3 Rb8 23. Bf4 Qc7 24. Rac1 Ra5 25. Rfe1 Rd8 26. Nd4 Nxd4 27. Qxd4 Rc8 28.
+Qxb4 Rxc5 29. Rxc5 Qxc5 30. Qxc5 Rxc5 31. Rc1 Rxc1+ 32. Bxc1 Bxe5 33. a5 Bc7
+34. a6 Bb6 35. Bf4 d4 36. Kf1 Kg7 37. Bc7 Ba7 38. b4 Kf6 39. b5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Britton, Richard L"]
+[Black "Supancic, Darko"]
+[Result "0-1"]
+[ECO "B29"]
+[WhiteElo "2300"]
+[BlackElo "2335"]
+[PlyCount "72"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 a6 9. Be2 e5 10. Nxc6 Qxc6 11. O-O Be6 12. c4 Be7 13. Qb3 Rc8 14. Rfc1
+O-O 15. Qb6 f5 16. Qxc6 Rxc6 17. f3 Rd8 18. Rc2 f4 19. Bf2 Bf5 20. Rc3 Rd2 21.
+Bf1 Rxb2 22. Rb3 Rxb3 23. axb3 Bc2 24. Ra5 Bxb3 25. Rxe5 Bd6 26. Rd5 Bc7 27.
+Rd4 a5 28. Bd3 Rd6 29. Kf1 a4 30. Ke2 a3 31. Rxd6 Bxd6 32. Bd4 Bb4 33. g3 fxg3
+34. hxg3 a2 35. Bb2 Ba3 36. Ba1 Be7 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Baczynskyj, Boris"]
+[Black "Cummings, David H"]
+[Result "1-0"]
+[ECO "C04"]
+[WhiteElo "2370"]
+[BlackElo "2230"]
+[PlyCount "61"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. e5 Nd7 6. d4 f6 7. Bb5 Be7 8. O-O
+O-O 9. Re1 f5 10. c4 Nb4 11. c5 c6 12. Bf1 a5 13. a3 Na6 14. b4 Nc7 15. bxa5
+Rxa5 16. Nb3 Ra8 17. Bd2 b6 18. cxb6 Na6 19. Qc2 Qxb6 20. Reb1 Qa7 21. Na5 Ndb8
+22. Nxc6 Nxc6 23. Qxc6 Bd7 24. Qxa6 Qxa6 25. Bxa6 Rxa6 26. Rb7 Rd8 27. Rc1 Kf8
+28. Bb4 Ra4 29. h4 g6 30. Ng5 h6 31. Nxe6+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Botterill, George Steven"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2400"]
+[BlackElo "2440"]
+[PlyCount "45"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Qb6 5. d4 Nc6 6. Be2 Nh6 7. b3 cxd4 8. cxd4
+Nf5 9. Bb2 Bb4+ 10. Kf1 O-O 11. g4 Nh6 12. Rg1 f6 13. exf6 Rxf6 14. g5 Rxf3 15.
+gxh6 Rf7 16. Bd3 e5 17. Qh5 e4 18. Be2 Be6 19. Nc3 Bxc3 20. Bxc3 Nxd4 21. Qe5
+Nf5 22. Bh5 Re7 23. Bg4 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Bailey, Richard"]
+[Black "Bennett, Terry B"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[WhiteElo "2325"]
+[BlackElo "2270"]
+[PlyCount "43"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 e6 2. g3 d5 3. c4 c5 4. cxd5 exd5 5. Nf3 Nc6 6. Nc3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. b3 Be6 10. Bb2 Qa5 11. dxc5 Qxc5 12. Rc1 Qa5 13. Qd3 Rad8 14. Qb5 Qc7
+15. Rfd1 a6 16. Qd3 Qa5 17. Na4 Ne4 18. Nd4 Nb4 19. Qb1 Bd7 20. Bxe4 dxe4 21.
+Qxe4 Rfe8 22. Qxb7 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.28"]
+[Round "9"]
+[White "Macpherson, H Dugald"]
+[Black "Reuben, Stewart"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2315"]
+[BlackElo "2270"]
+[PlyCount "35"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 c5 5. cxd5 Nxd5 6. Nc3 Nc6 7. O-O Be7 8. d4
+Bf6 9. Nxd5 exd5 10. dxc5 O-O 11. Qc2 Qe7 12. Bf4 Nb4 13. Qd2 Qxc5 14. Rfc1 Qb5
+15. a4 Qa5 16. Bc7 b6 17. Bd6 Na6 18. b4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Franklin, Michael J"]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2315"]
+[BlackElo "2425"]
+[PlyCount "115"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 b6 3. Bf4 Bb7 4. e3 e6 5. Bd3 Be7 6. Nbd2 c5 7. h3 O-O 8. O-O
+Nc6 9. c3 cxd4 10. exd4 Nd5 11. Bh2 f5 12. Re1 Qe8 13. a3 Bf6 14. Nc4 Qg6 15.
+Nd6 Nd8 16. Nxb7 Nxb7 17. Ne5 Bxe5 18. Bxe5 Qh6 19. Qf3 Na5 20. c4 Nf6 21. d5
+Rac8 22. dxe6 dxe6 23. Bf4 Qh5 24. Rxe6 Qxf3 25. gxf3 Nxc4 26. b3 Na5 27. Ba6
+Nxb3 28. Bxc8 Rxc8 29. Rd1 Kf7 30. Re5 Rc4 31. Bg5 h6 32. Bxf6 Kxf6 33. Red5
+Nc5 34. Rd6+ Kg5 35. Kg2 Rc3 36. a4 Rc4 37. R1d4 Rxa4 38. Rxa4 Nxa4 39. Rd7 g6
+40. Rxa7 Nc5 41. Kg3 f4+ 42. Kg2 Ne6 43. Rb7 Nd4 44. Rxb6 Nf5 45. Rb5 Kf6 46.
+Rb4 g5 47. Kf1 Kg6 48. Ke2 Nh4 49. Rb6+ Kg7 50. Ra6 Kh7 51. Kd3 Nxf3 52. Ke4
+Nh4 53. Ke5 Kg7 54. Rb6 h5 55. Ra6 Kf7 56. Rh6 Kg7 57. Rxh5 Kg6 58. Rxh4 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Nunn, John DM"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2440"]
+[BlackElo "2225"]
+[PlyCount "111"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6 (6... b6 {
+Nunn-Short, Geneva 1979}) 7. Bd3 cxd4 8. cxd4 Qb6 9. O-O Be7 10. Re1 O-O 11.
+Nf1 f6 12. exf6 Nxf6 13. Ng3 Bd7 14. a3 a5 15. b3 Rae8 16. Bb2 Bd6 17. Bc2 Bc8
+18. Rc1 Bf4 19. Rb1 Qd8 20. Qd3 g6 21. Rbd1 Ng4 22. Re2 b6 23. h3 Nf6 24. Ne5
+Nxe5 25. dxe5 Nd7 26. b4 Qg5 27. Rde1 Bb7 28. Ba4 Re7 29. Bd4 axb4 30. axb4 Bc8
+31. Nf1 Ref7 32. g3 Rf5 33. Bxd7 Bxd7 34. Kh2 Bc1 35. f4 Bxf4 36. gxf4 Qxf4+
+37. Ng3 Rg5 38. Rg2 Bb5 39. Qe3 Qh4 40. Bxb6 Rf4 41. Bd8 h6 42. Bxg5 hxg5 43.
+Rf2 d4 44. Qd2 Rg4 45. Ne4 Rxe4 46. Rxe4 Qxe4 47. Qxg5 Be8 48. Qf6 Kh7 49. Qe7+
+Kh6 50. Qf8+ Kh7 51. Qf4 Qd5 52. b5 d3 53. b6 Bc6 54. Kg3 Be8 55. Qg5 Qe4 56.
+Qh4+ 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Diesen, Mark C"]
+[Black "Basman, Michael John"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2440"]
+[BlackElo "2395"]
+[PlyCount "105"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Bd3 O-O 7. O-O Nbd7 8. h3
+Nb6 9. b3 Bf5 10. a4 a5 11. Ba3 Re8 12. cxd5 Bxd3 13. Qxd3 Nbxd5 14. Rac1 Rb8
+15. Nd1 Nd7 16. e4 Nf4 17. Qd2 Bh6 18. Ne3 Nf6 19. Qc2 Qd7 20. Kh2 Qe6 21. Ne5
+Rbd8 22. Bb2 Bg7 23. Rcd1 Qc8 24. N3c4 N6h5 25. g4 Nf6 26. Nxa5 h5 27. f3 Nh7
+28. Kg3 Bxe5 29. dxe5 g5 30. Nc4 Nf8 31. h4 N8g6 32. hxg5 h4+ 33. Kh2 b5 34.
+Ne3 bxa4 35. bxa4 Qb8 36. Kh1 Qa7 37. Nc4 Ne6 38. Qc3 Ngf4 39. Qc2 Nh3 40. Kh2
+Nhxg5 41. f4 Rxd1 42. Qxd1 Nxe4 43. Qf3 Ng3 44. Rc1 Qxa4 45. Kh3 Rb8 46. Kxh4
+Ne4 47. Ba1 Nd2 48. Nxd2 Nxf4 49. Kg3 Rb4 50. Bc3 Qb5 51. Re1 Nd3 52. Re3 Rf4
+53. Qe2 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Bellin, Robert"]
+[Black "Quigley, Steven A"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2415"]
+[BlackElo "2080"]
+[PlyCount "85"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 c6 2. e4 g6 3. f4 d5 4. e5 h5 5. Nf3 Bg4 6. Bd3 Nh6 7. Be3 e6 8. Nbd2 Nf5
+9. Bf2 Bh6 10. h3 Bxf3 11. Qxf3 h4 12. O-O Na6 13. c3 Nc7 14. a4 a5 15. Rfb1 b5
+16. Ra2 b4 17. cxb4 axb4 18. Nb3 Bf8 19. Rc1 Qd7 20. Raa1 Be7 21. Rc2 Kf8 22.
+Qd1 Kg7 23. Nc5 Bxc5 24. Rxc5 Na6 25. Rc2 Qb7 26. b3 Rac8 27. Rac1 Nb8 28. Qd2
+Nd7 29. Qe1 Qb6 30. Bxf5 gxf5 31. Rd1 Rh6 32. Bxh4 Rch8 33. Be7 Rg6 34. Rd3 Qa6
+35. Re3 c5 36. Bxc5 Nxc5 37. Rxc5 Qb6 38. Rg3 Rhh6 39. Rxg6+ Rxg6 40. Qe3 Qd8
+41. Qf2 Qh8 42. Kh2 Qf8 43. a5 1-0
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Bennett, Terry B"]
+[Black "Valvo, Michael J"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2270"]
+[BlackElo "2530"]
+[PlyCount "80"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Bc4 Nf6 5. Qe2 Nc6 6. e5 Nh5 7. g4 Nxd4 8. Qd1
+Bxg4 9. Qxd4 Qc8 10. f4 O-O 11. Nd5 Qd7 12. Ne3 dxe5 13. Qxd7 Bxd7 14. fxe5
+Bxe5 15. Nf3 Bg7 16. O-O h6 17. Bd2 b5 18. Bb3 a5 19. a4 Nf4 20. Nd5 Nxd5 21.
+Bxd5 Rab8 22. Bxa5 bxa4 23. Bc3 Rb5 24. Bc4 Rc5 25. Bxg7 Kxg7 26. b3 e5 27.
+Rfe1 f6 28. Nd2 axb3 29. cxb3 Rb8 30. Ne4 Rc6 31. Nc3 Be6 32. Nd5 Rd8 33. Rad1
+Rcd6 34. Ne3 Bxc4 35. Rxd6 Rxd6 36. Nxc4 Rd3 37. Re3 Rd5 38. Rc3 Rc5 39. Kf2 f5
+40. Ke3 Kf6 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Speelman, Jonathan S"]
+[Black "Shapiro, Daniel E"]
+[Result "1/2-1/2"]
+[ECO "B60"]
+[WhiteElo "2410"]
+[BlackElo "2350"]
+[PlyCount "79"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Qb6 7. Nb3 e6 8.
+Qe2 Be7 9. O-O-O O-O 10. f4 Rd8 11. Kb1 a6 12. g4 Qc7 13. Bg2 Nd7 14. Bxe7 Nxe7
+15. Qd3 Nb6 16. e5 d5 17. Be4 Ng6 18. Bxg6 fxg6 19. h4 Rf8 20. Rdf1 Bd7 21. h5
+g5 22. h6 g6 23. f5 gxf5 24. gxf5 Qxe5 25. Re1 Qf6 26. fxe6 Bxe6 27. Rhf1 Bf5
+28. Nxd5 Nxd5 29. Qxd5+ Kh8 30. Nd4 Be6 31. Nxe6 Qxf1 32. Rc1 Qf6 33. a3 Qxh6
+34. Nxg5 Qg6 35. Rh1 h6 36. Qd4+ Kg8 37. Qd5+ Kh8 38. Qe5+ Kg8 39. Qd5+ Kh8 40.
+Qd4+ 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Carleton, John Joseph"]
+[Black "Botterill, George Steven"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2280"]
+[BlackElo "2400"]
+[PlyCount "78"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nbd2 O-O 6. O-O b6 7. Re1 e6 8. Bf1
+Bb7 9. a4 a6 10. c3 Nbd7 11. b4 c5 12. Ba3 Qc7 13. Rc1 Rfd8 14. Qb3 h6 15. Bd3
+d5 16. Qb1 c4 17. Bc2 dxe4 18. Nxe4 Nxe4 19. Bxe4 Bxe4 20. Qxe4 b5 21. Ra1 Nf6
+22. Qc2 Nd5 23. Bc1 a5 24. axb5 axb4 25. Rxa8 Rxa8 26. cxb4 Nxb4 27. Qe4 Nd5
+28. Ne5 Rb8 29. Qe2 c3 30. Ba3 Bxe5 31. dxe5 Qa5 32. Bd6 Rxb5 33. h4 Rb2 34.
+Qc4 Qb6 35. Qc8+ Kh7 36. Bc5 Qb7 37. Qe8 c2 38. Ba3 Rb1 39. Rc1 Nf4 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Supancic, Darko"]
+[Black "Haik, Aldo"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "2335"]
+[BlackElo "2425"]
+[PlyCount "72"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. h3 g6 7. Nf3 Bg7 8. Nc3
+O-O 9. Be3 Bf5 10. Be2 d5 11. c5 Nc4 12. Qb3 Nc6 13. Bxc4 Na5 14. Qd1 dxc4 15.
+O-O Bd3 16. Re1 Nc6 17. Qa4 Nxd4 18. Nxd4 Bxd4 19. Bxd4 Qxd4 20. Rxe7 Qxc5 21.
+Rxb7 Rfb8 22. Qd7 Rxb7 23. Qxb7 Re8 24. Rd1 Re6 25. Qb8+ Kg7 26. b3 Qa5 27. b4
+Qa3 28. Nd5 Qa4 29. Rd2 Qd7 30. Nc3 Qd4 31. Nb5 Qa1+ 32. Kh2 a6 33. Nc7 Qe5+
+34. g3 Re7 35. Nxa6 Qe1 36. Qf4 Re4 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Silman, Jeremy D"]
+[Black "Bailey, Richard"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "2360"]
+[BlackElo "2325"]
+[PlyCount "70"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. h4 Rf8 12. g4 hxg5 13. hxg5 Ng8 14. Nf5 exf5
+15. Nd5 Qc6 16. exf5 Nc5 17. Rde1 Be6 18. Bc4 O-O-O 19. Rh7 Kb8 20. fxe6 fxe6
+21. Qd1 exd5 22. Bxd5 Qa4 23. Rxg7 Qxf4+ 24. Qd2 Qxd2+ 25. Kxd2 Bxg5+ 26. Rxg5
+Nf6 27. Bh1 Rg8 28. Rf5 Nxg4 29. Re7 Rd7 30. Re1 Ne5 31. Bd5 Rg4 32. c3 Rh7 33.
+Rf6 Rh2+ 34. Re2 Ne4+ 35. Bxe4 Rxe2+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Mestel, A Jonathan"]
+[Black "Law, Andrew P"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "2450"]
+[BlackElo "2345"]
+[PlyCount "61"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 e5 7. Ndb5 a6 8.
+Na3 Rb8 9. Nd5 Nxd5 10. exd5 Ne7 11. Qd2 Nf5 12. f4 Nxe3 13. Qxe3 Be7 14. Bd3
+O-O 15. O-O exf4 16. Qxf4 b5 17. c4 Bf6 18. Rab1 Be5 19. Qf2 b4 20. Nc2 b3 21.
+axb3 Rxb3 22. Ne1 g6 23. Bc2 Rxb2 24. Rxb2 Bxb2 25. Bxg6 fxg6 26. Qxb2 Rxf1+
+27. Kxf1 a5 28. Nf3 Qc7 29. Qe2 Qf7 30. Ke1 Bg4 31. h3 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Goichberg, William"]
+[Black "Britton, Richard L"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2525"]
+[BlackElo "2300"]
+[PlyCount "50"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nf3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Nd5 Nd7 11. Bc4 Rc8 12. b3 Bg5 13. O-O Bh6 14. a5 O-O 15.
+Qe2 Kh8 16. Rfd1 f5 17. Nb6 fxe4 18. Nxe5 Nxe5 19. Bxe6 Nf3+ 20. gxf3 exf3 21.
+Qf1 Rxc2 22. Ra4 Bf4 23. Qh3 Qg5+ 24. Qg4 Qc5 25. Rf1 Qxf2+ 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Webb, Simon"]
+[Black "Garbett, Paul Anthony"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2445"]
+[BlackElo "2310"]
+[PlyCount "49"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 Nbd7 7. c4 e5 8. dxe5
+Ng4 9. O-O Ngxe5 10. Nc3 Rb8 11. Qd2 Nxf3+ 12. Bxf3 Ne5 13. Bg2 Be6 14. Rad1
+Re8 15. h3 h5 16. Nd5 Qc8 17. Kh2 h4 18. gxh4 Bxd5 19. Bxd5 Qf5 20. Bd4 Qh5 21.
+Bxa7 Bh6 22. Be3 Ng4+ 23. hxg4 Qxh4+ 24. Kg1 Rxe3 25. Qd4 1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Ligterink, Gert"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "C62"]
+[WhiteElo "2440"]
+[BlackElo "2345"]
+[PlyCount "48"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8.
+Bg5 Be7 9. O-O-O O-O 10. h4 Re8 11. Rhe1 h6 12. Bf4 Nd7 13. Qd2 Bf6 14. Nd5
+Bxd5 15. exd5 Nc5 16. g4 Ne4 17. Rxe4 Rxe4 18. g5 Be5 19. Be3 h5 20. Qd3 Rg4
+21. Nxe5 dxe5 22. f3 e4 23. fxe4 Qe7 24. Bd4 Rxh4 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Wicker, Kevin J"]
+[Black "Nicholson, John Graham"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2305"]
+[BlackElo "2290"]
+[PlyCount "30"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Ne4 4. Bh4 Qb6 5. Qc1 g5 6. Bg3 Bg7 7. c3 Qh6 8. Bxb8
+Rxb8 9. Nd2 Nxd2 10. Qxd2 b5 11. e4 b4 12. Ne2 bxc3 13. Nxc3 Qb6 14. Rb1 Qa5
+15. Bd3 Rxb2 0-1
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Soos, Bela"]
+[Black "Hartston, William Roland"]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[WhiteElo "2425"]
+[BlackElo "2475"]
+[PlyCount "28"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 O-O 7. Bg2 Ne8 8. Nge2
+Nd7 9. O-O g6 10. f4 f5 11. Be3 Ng7 12. Nc1 exf4 13. gxf4 fxe4 14. Nxe4 Nf6
+1/2-1/2
+
+[Event "Aaronson Masters 1st"]
+[Site "London"]
+[Date "1978.03.29"]
+[Round "10"]
+[White "Harding, Timothy David"]
+[Black "Pettersson, Lars Erik"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2230"]
+[BlackElo "2325"]
+[PlyCount "19"]
+[EventDate "1978.03.23"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 g6 2. e4 Bg7 3. d4 c5 4. Nf3 cxd4 5. Nxd4 Qb6 6. Nb5 a6 7. Be3 Qa5+ 8.
+Bd2 Qb6 9. Be3 Qa5+ 10. Bd2 1/2-1/2
+

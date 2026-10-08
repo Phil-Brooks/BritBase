@@ -1,0 +1,969 @@
+﻿[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.03.10"]
+[Round "1"]
+[White "Mabbs, David J"]
+[Black "Blaine, Martin"]
+[Result "1-0"]
+[ECO "B15"]
+[PlyCount "57"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Qxf3 Be6 6. Nge2 Bd5 7. Qg3 Nf6 8.
+Nf4 Nbd7 9. Bd3 g6 10. O-O Bg7 11. Kh1 Nf8 12. Bd2 Qd7 13. Rae1 h6 14. Na4 g5
+15. Nc5 Qc8 16. Nxd5 Nxd5 17. Qf3 Bf6 18. c4 Nf4 19. Bxf4 gxf4 20. Qxf4 Kd8 21.
+Qe3 Bg5 22. Qe5 Rg8 23. Rxf7 Nd7 24. Ne6+ Ke8 25. Qf5 Nf6 26. Nxg5 Qxf5 27.
+Rexe7+ Kd8 28. Bxf5 Rxg5 29. Re5 {Source: bulletin} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.03.10"]
+[Round "1"]
+[White "Hollis, Geoffrey A"]
+[Black "Timson, Paul F"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[PlyCount "50"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Bd2 Rb8 10. Rb1 b5 11. a3 a5 12. a4 b4 13. Nb5 Nd4 14. c4 Nec6 15. Be3
+e5 16. Nbxd4 cxd4 17. Bf2 Ne7 18. fxe5 dxe5 19. Nd2 f5 20. Qe2 b3 21. Qd1 Bd7
+22. Ra1 Qe8 23. Ra3 Bh6 24. c5 Bxd2 25. Qxd2 Bxa4 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.03.10"]
+[Round "1"]
+[White "Weinhold, Klaus Manfred"]
+[Black "Fertoszegi, Robert A"]
+[Result "0-1"]
+[ECO "B07"]
+[PlyCount "89"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nbd2 O-O 6. O-O Nbd7 7. Re1 e5 8.
+dxe5 dxe5 9. Bf1 Qe7 10. c3 Rd8 11. Qc2 Nc5 12. b4 Ncd7 13. Nc4 Nh5 14. Bg5 f6
+15. Bd2 Nf8 16. Ne3 Be6 17. c4 c6 18. c5 Nf4 19. Nc4 Bxc4 20. Bxc4+ N8e6 21.
+Rad1 Kh8 22. Be3 g5 23. Bb3 Ng6 24. Rxd8+ Rxd8 25. Rd1 Nef4 26. Rxd8+ Qxd8 27.
+Qd2 Qc8 28. Bxf4 Nxf4 29. g3 Nh3+ 30. Kg2 h5 31. Qd6 Qg4 32. Nd2 Qe2 33. Kxh3
+Qxf2 34. g4 hxg4+ 35. Kxg4 Kh7 36. Qd3 f5+ 37. exf5 Qg2+ 38. Qg3 Qxd2 39. f6
+Bxf6 40. Kf5 Kg7 41. Ke6 Qxb4 42. Qd3 Qg4+ 43. Kd6 Qc8 44. Be6 Qd8+ 45. Bd7 {
+White lost on time (Source: bulletin)} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.03.10"]
+[Round "1"]
+[White "Bruzzi, Stefano"]
+[Black "Israel, Harold"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{not available}  1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.03.10"]
+[Round "1"]
+[White "Perkins, Nicholas Anthony"]
+[Black "Hawley, Martin Harold"]
+[Result "1-0"]
+[ECO "A25"]
+[PlyCount "89"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. d3 Bc5 6. Nf3 O-O 7. O-O a5 8. Nxe5
+Nxe5 9. d4 d6 10. dxc5 dxc5 11. Qxd8 Rxd8 12. Bg5 Ned7 13. Nd5 c6 14. Ne7+ Kf7
+15. Nxf5 Ne5 16. Ne3 Be6 17. b3 h6 18. Bxf6 gxf6 19. Rfd1 a4 20. f4 Ng4 21.
+Nxg4 Bxg4 22. Kf2 axb3 23. axb3 Rxa1 24. Rxd8 Rb1 25. Rb8 Rxb3 26. Bxc6 b6 27.
+Rb7+ Kf8 28. Bd5 Rb2 29. Rf7+ Ke8 30. Rxf6 Rxe2+ 31. Kf1 Rxh2 32. Rxb6 Rc2 33.
+Rxh6 Be2+ 34. Ke1 Bxc4 35. Bxc4 Rxc4 36. Kd2 Kd7 37. Rg6 Ra4 38. Kc3 Re4 39.
+Kd3 Ra4 40. Ke3 Rc4 41. g4 Ke7 42. g5 Kf7 43. Rc6 Ke7 44. g6 Rc1 45. f5 {
+Source: bulletin} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.01"]
+[Round "2"]
+[White "Timson, Paul F"]
+[Black "Mabbs, David J"]
+[Result "1-0"]
+[ECO "A25"]
+[PlyCount "67"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 Nc6 2. Nc3 e5 3. g3 g6 4. Bg2 Bg7 5. Rb1 Nge7 6. b4 O-O 7. e3 Nf5 8. Nge2
+d6 9. O-O Be6 10. d3 Qd7 11. b5 Nd8 12. a4 Ne7 13. Nd5 c5 14. d4 cxd4 15. exd4
+Bf5 16. Ra1 Ne6 17. Bb2 Rfd8 18. Qd2 Rac8 19. Rac1 b6 20. Rfd1 Nxd5 21. Bxd5
+Qe7 22. Qe3 Qf6 23. dxe5 dxe5 24. f4 exf4 25. Bxf6 fxe3 26. Bxd8 Rxd8 27. Bxe6
+Rxd1+ 28. Rxd1 Bxe6 29. Rd8+ Bf8 30. c5 bxc5 31. a5 Bc4 32. b6 axb6 33. axb6
+Ba6 34. Ra8 {Source: bulletin} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.01"]
+[Round "2"]
+[White "Fertoszegi, Robert A"]
+[Black "Hollis, Geoffrey A"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[PlyCount "101"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Re8 10. Bg5 a6 11. a4 Qc7 12. Rc1 Nbd7 13. b4 b6 14. Re1 Bb7 15. Ng3
+Rac8 16. Qd2 Ng4 17. Qe2 c4 18. Bb1 Nge5 19. Bd2 Nf6 20. f4 Ned7 21. Qf3 b5 22.
+Be3 bxa4 23. Nxa4 h5 24. Ba2 h4 25. Rxc4 Qb8 26. e5 dxe5 27. Ne2 e4 28. Qh3
+Bxd5 29. Rxc8 Qxc8 30. Rc1 Qb7 31. Bxd5 Nxd5 32. Bd2 e3 33. Be1 Qb5 34. Nac3
+Nxc3 35. Nxc3 Qc6 36. Ne2 Qd6 37. Bxh4 Nf6 38. Qf3 Qxb4 39. Rc6 Qb1+ 40. Qf1
+Qxf1+ 41. Kxf1 Ne4 42. Rxa6 Rb8 43. g4 Nd2+ 44. Kg2 Rb1 45. Ra3 Nc4 46. Ra2 Nd2
+47. Ra3 Nc4 48. Ra2 Bb2 49. Ra4 Nd2 50. Rb4 Kg7 51. f5 {Source: bulletin}
+1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.01"]
+[Round "2"]
+[White "Israel, Harold"]
+[Black "Weinhold, Klaus Manfred"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[PlyCount "68"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6 7. Be2 b5 8. Nxc6
+dxc6 9. Be3 Nf6 10. Bf3 Bb4 11. O-O O-O 12. Qe2 e5 13. f5 Bb7 14. g4 Nd7 15. g5
+Bc5 16. Bxc5 Nxc5 17. Bg2 a5 18. Qh5 f6 19. g6 h6 20. Qf3 Rad8 21. Qe3 Qb6 22.
+Rfd1 Na4 23. Qxb6 Nxb6 24. b3 Rfe8 25. Kf2 Kf8 26. Ke3 Ke7 27. Bf1 Rxd1 28.
+Rxd1 Rd8 29. Rxd8 Kxd8 30. Ne2 Nc8 31. Ng3 Nd6 32. Nh5 Ne8 33. c4 Ba6 34. c5
+Ke7 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.01"]
+[Round "2"]
+[White "Hawley, Martin Harold"]
+[Black "Bruzzi, Stefano"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[PlyCount "71"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Be3 a4 16. Nbd2 Nb4 17. Bb1 Bd7 18. a3 Nc6 19. Bd3 Qb7 20. Qe2 Rfe8 21. Rac1
+Rab8 22. Rc2 Bd8 23. dxe5 dxe5 24. Rc5 Bb6 25. Rxb5 Nd4 26. Nxd4 exd4 27. Bf4
+Bxb5 28. Bxb5 Ba5 29. Bxb8 Rxb8 30. Bd3 Re8 31. e5 Qxb2 32. Nc4 Qc3 33. Rb1 Bc7
+34. Qf1 Bxe5 35. Rc1 Qb3 36. Rb1 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.01"]
+[Round "2"]
+[White "Blaine, Martin"]
+[Black "Perkins, Nicholas Anthony"]
+[Result "0-1"]
+[ECO "A20"]
+[PlyCount "88"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 e5 4. d3 Bb4+ 5. Nd2 O-O 6. a3 Be7 7. Ngf3 Nc6 8. O-O
+Kh8 9. e4 d6 10. b4 Qe8 11. b5 Nd8 12. Re1 Qh5 13. Nf1 fxe4 14. dxe4 Be6 15.
+Qd3 Nd7 16. N3d2 Nc5 17. Qc3 Nf7 18. Bf3 Qg6 19. Nb3 Na4 20. Qd3 Ng5 21. Bg2
+Qf7 22. f4 Bxc4 23. Qe3 Bxb3 24. fxg5 Bxg5 25. Qe2 Bc4 26. Qc2 Bxc1 27. Raxc1
+Bxb5 28. Qxc7 Qxc7 29. Rxc7 Nc5 30. Ne3 Rac8 31. Re7 Rce8 32. Rc7 Bc6 33. Nf5
+Ne6 34. Re7 Rxe7 35. Nxe7 Nd4 36. Nxc6 bxc6 37. Rb1 c5 38. Rb7 Ne2+ 39. Kh1 c4
+40. Bh3 h5 41. Bf5 d5 42. Bg6 d4 43. Bxh5 d3 44. Kg2 c3 {Source: bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.22"]
+[Round "3"]
+[White "Mabbs, David J"]
+[Black "Fertoszegi, Robert A"]
+[Result "1-0"]
+[ECO "B70"]
+[PlyCount "37"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 d6 2. g3 Nf6 3. Bg2 c5 4. Nc3 g6 5. Nge2 Nc6 6. d4 cxd4 7. Nxd4 Nxd4 8.
+Qxd4 Bg7 9. O-O O-O 10. Qd3 Ng4 11. Nd5 Ne5 12. Qb3 Rb8 13. Bg5 Re8 14. f4 Nc6
+15. f5 gxf5 16. exf5 Bf8 17. Rae1 Qa5 18. Be4 Kh8 19. Nf6 {Source: bulletin}
+1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.22"]
+[Round "3"]
+[White "Blaine, Martin"]
+[Black "Timson, Paul F"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[PlyCount "33"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 g6 2. d4 Bg7 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Nxc6 bxc6 7. Bg2 Rb8 8.
+O-O Rxb2 9. Bxb2 Bxb2 10. Nd2 Bxa1 11. Qxa1 Nf6 12. Ne4 O-O 13. Nxf6+ exf6 14.
+Qd4 Qa5 15. Bf3 d5 16. cxd5 cxd5 17. Qxd5 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.22"]
+[Round "3"]
+[White "Hollis, Geoffrey A"]
+[Black "Israel, Harold"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[PlyCount "40"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Nc6 8.
+Nxc6 bxc6 9. Nc3 Qh4 10. f4 Nxc3 11. bxc3 f5 12. c5 Be7 13. Qc2 Bd7 14. Bd2 Qf6
+15. Rab1 Rfb8 16. Rxb8+ Rxb8 17. Rb1 Qf8 18. Rxb8 Qxb8 19. Bxf5 Bxf5 20. Qxf5
+Qb2 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.22"]
+[Round "3"]
+[White "Weinhold, Klaus Manfred"]
+[Black "Hawley, Martin Harold"]
+[Result "0-1"]
+[ECO "A43"]
+[PlyCount "50"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. O-O
+exd5 9. exd5 Na6 10. Kh1 Re8 11. Bb5 Bd7 12. Bxd7 Qxd7 13. a3 Nc7 14. a4 Re7
+15. Qd3 Rae8 16. Bd2 Na6 17. Nd1 Ne4 18. Bc3 Nxc3 19. bxc3 Nb4 20. cxb4 Bxa1
+21. b5 Bg7 22. f5 Qxf5 23. Qxf5 gxf5 24. Nh4 Re1 25. Kg1 Bd4+ {Source: bulletin
+} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.04.22"]
+[Round "3"]
+[White "Perkins, Nicholas Anthony"]
+[Black "Bruzzi, Stefano"]
+[Result "0-1"]
+[ECO "A29"]
+[PlyCount "106"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. Nf3 Re8 6. O-O Nc6 7. Nd5 Bf8 8. d3
+Nxd5 9. cxd5 Nd4 10. Ng5 h6 11. Ne4 d6 12. e3 Nf5 13. Bd2 g6 14. Rc1 Bd7 15.
+Qb3 b6 16. Rc2 Bg7 17. Rfc1 Rc8 18. Qa3 a5 19. b3 Rf8 20. Bc3 Ne7 21. Ba1 f5
+22. Nd2 g5 23. f4 gxf4 24. exf4 Ng6 25. Rf1 Rf7 26. Qc1 exf4 27. Bxg7 Rxg7 28.
+gxf4 Bb5 29. Nc4 Qf6 30. Kh1 Bxc4 31. dxc4 Re8 32. Qd1 Qh4 33. Rcf2 Re3 34. Rf3
+Rge7 35. Rxe3 Rxe3 36. Qd2 Qe7 37. Qc2 Nh4 38. Rg1 Kf7 39. Qf2 Re2 40. Qg3 Nxg2
+41. Rxg2 Re1+ 42. Rg1 Qe4+ 43. Qg2 Qxg2+ 44. Kxg2 Re2+ 45. Kg3 Rxa2 46. Re1 Ra3
+47. Re6 Rxb3+ 48. Kg2 Rc3 49. Rxh6 Rxc4 50. Kf3 a4 51. Rh8 Rc5 52. Ra8 Ra5 53.
+Rc8 Ra7 {Source: bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.05.15"]
+[Round "4"]
+[White "Israel, Harold"]
+[Black "Mabbs, David J"]
+[Result "1-0"]
+[ECO "C02"]
+[PlyCount "63"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 f5 4. e5 d5 5. d4 e6 6. Bd3 Qb6 7. O-O Bd7 8. dxc5
+Bxc5 9. Nbd2 Nh6 10. Nb3 Nf7 11. Nxc5 Qxc5 12. Be3 Qe7 13. Bd4 g5 14. Re1 Rg8
+15. Nd2 g4 16. Nb3 Qh4 17. g3 Qh5 18. h4 f4 19. Qe2 O-O-O 20. Nc5 Rg5 21. Ba6
+Ncxe5 22. Bxb7+ Kb8 23. Qa6 Nf3+ 24. Kh1 Nxd4 25. cxd4 Rg6 26. Re5 Qh6 27. Bxd5
+Bc8 28. Qb5+ Kc7 29. Qc6+ Kb8 30. Qa8+ Kc7 31. Qxa7+ Kd6 32. Ne4# {Source:
+bulletin} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.05.15"]
+[Round "4"]
+[White "Fertoszegi, Robert A"]
+[Black "Blaine, Martin"]
+[Result "1/2-1/2"]
+[ECO "A53"]
+[PlyCount "76"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bg5 Be6 7. O-O-O+
+Nbd7 8. Nf3 Kc8 9. e3 Bd6 10. h3 h6 11. Bh4 g5 12. Bg3 e4 13. Nd4 Bxg3 14. fxg3
+Re8 15. Be2 a6 16. Rhf1 c6 17. Rf2 c5 18. Nxe6 Rxe6 19. Rdf1 Rd6 20. Bd1 Kc7
+21. Ba4 Rd8 22. Bxd7 Nxd7 23. Rxf7 Kc8 24. Re7 Nf6 25. Rf5 b6 26. Ra7 Kb8 27.
+Rf7 Nh5 28. Nd5 Nxg3 29. Re5 R8d7 30. Rxd7 Rxd7 31. Nxb6 Rf7 32. Rd5 Nf1 33.
+Nd7+ Ka8 34. Nxc5 Nxe3 35. Rd8+ Ka7 36. Nxe4 Rf1+ 37. Kd2 Rd1+ 38. Kxe3 Rxd8 {
+Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.05.15"]
+[Round "4"]
+[White "Hawley, Martin Harold"]
+[Black "Hollis, Geoffrey A"]
+[Result "1-0"]
+[ECO "B09"]
+[PlyCount "60"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Nc7 9. a4 e6 10. dxe6 fxe6 11. e5 dxe5 12. fxe5 Ng4 13. Bg5 Qd7 14. Qe2 Nxe5
+15. Nxe5 Qd4+ 16. Be3 Qxe5 17. Rxf8+ Bxf8 18. Rf1 Bg7 19. Qf2 Qxe3 20. Qxe3 Bd4
+21. Qxd4 cxd4 22. Ne4 Nd5 23. Ng5 Ne3 24. Rf6 Bd7 25. b3 Rf8 26. Nxh7 Rf7 27.
+Bxg6 Rxh7 28. Bxh7+ Kxh7 29. Rf7+ Kg6 30. Rxd7 Nxc2 {Source: bulletin} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.05.15"]
+[Round "4"]
+[White "Bruzzi, Stefano"]
+[Black "Weinhold, Klaus Manfred"]
+[Result "1/2-1/2"]
+[ECO "B34"]
+[PlyCount "76"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bc4 Ke8
+8. Be3 Bg7 9. c3 Nh6 10. h3 f5 11. f3 Rf8 12. Nd2 Nf7 13. a4 Ne5 14. Bb3 fxe4
+15. fxe4 Nd3+ 16. Ke2 Nf4+ 17. Bxf4 Rxf4 18. Rhf1 Rf6 19. Rfe1 e5 20. Nf3 Be6
+21. Bxe6 Rxe6 22. Ng5 Rd6 23. Nxh7 Bh6 24. Rad1 Rad8 25. Rxd6 Rxd6 26. Rd1 Rxd1
+27. Kxd1 Kf7 28. h4 Kg7 29. Ng5 Bxg5 30. hxg5 Kf7 31. Kc2 Ke7 32. Kb3 Kd7 33.
+Kb4 b6 34. Kc4 Kd6 35. Kb4 Kd7 36. a5 Kc7 37. c4 Kb7 38. axb6 axb6 {Source:
+bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.05.15"]
+[Round "4"]
+[White "Timson, Paul F"]
+[Black "Perkins, Nicholas Anthony"]
+[Result "1-0"]
+[ECO "A34"]
+[PlyCount "61"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. g3 Nc6 6. Bg2 e6 7. O-O Be7 8. d4
+cxd4 9. Nxd4 Nxc3 10. bxc3 Bd7 11. Rb1 e5 12. Nxc6 Bxc6 13. Bxc6+ bxc6 14.
+Qxd8+ Rxd8 15. Be3 O-O 16. Rb7 Rfe8 17. Rfb1 f5 18. Rxa7 f4 19. gxf4 exf4 20.
+Bd4 c5 21. Be5 Bf8 22. Bxf4 Rxe2 23. Rbb7 Re6 24. a4 Rg6+ 25. Kf1 Rd1+ 26. Ke2
+Ra1 27. Be5 Re6 28. f4 Rh1 29. Ra8 Rxh2+ 30. Kf3 Rg6 31. Rbb8 {Source: bulletin
+} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.08"]
+[Round "5"]
+[White "Mabbs, David J"]
+[Black "Hawley, Martin Harold"]
+[Result "0-1"]
+[ECO "B07"]
+[PlyCount "38"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. d4 d6 2. e4 Nf6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Ng4 6. Nh3 Nxe5 7. Bf4 Nbc6
+8. Bb5 Bg4+ 9. Kc1 O-O-O 10. Nc3 Bxh3 11. gxh3 e6 12. a4 a6 13. Bg3 g5 14. f3
+Bc5 15. Kb1 Nxf3 16. Ne4 Nd2+ 17. Nxd2 Rxd2 18. Bd3 Nb4 19. Be1 Rd1# {Source:
+bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.08"]
+[Round "5"]
+[White "Blaine, Martin"]
+[Black "Israel, Harold"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{not available}  1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.08"]
+[Round "5"]
+[White "Timson, Paul F"]
+[Black "Fertoszegi, Robert A"]
+[Result "1-0"]
+[ECO "A24"]
+[PlyCount "64"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d6 4. Bg2 g6 5. e3 Bg7 6. Nge2 O-O 7. O-O Re8 8. Rb1
+c6 9. d4 e4 10. Qc2 Bg4 11. Nxe4 Nxe4 12. f3 Bxf3 13. Bxf3 f5 14. Nc3 Nf6 15.
+b4 Nbd7 16. b5 Qc7 17. bxc6 bxc6 18. Qa4 Ne4 19. Nxe4 fxe4 20. Bg2 Nb6 21. Qc2
+Qe7 22. Ba3 Bh6 23. Qb3 Qe6 24. Bxd6 Nxc4 25. Bf4 g5 26. Be5 Nd2 27. Qxe6+ Rxe6
+28. Rb7 g4 29. Rff7 Bxe3+ 30. Kh1 Nf3 31. Rg7+ Kf8 32. Rxh7 Rh6 {Source:
+bulletin} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.08"]
+[Round "5"]
+[White "Hollis, Geoffrey A"]
+[Black "Bruzzi, Stefano"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[PlyCount "44"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 Na5 10. Nxe5 Nxb3 11. cxb3 d5 12. Nd2 dxe4 13. Nxe4 Nxe4 14. dxe4
+Qxd1 15. Rxd1 Bxe4 16. Re1 Bc2 17. Nc6 Bf6 18. Ne7+ Kh8 19. Nd5 Bxb3 20. Nxf6
+gxf6 21. axb5 axb5 22. Bh6 Rxa1 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.08"]
+[Round "5"]
+[White "Perkins, Nicholas Anthony"]
+[Black "Weinhold, Klaus Manfred"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[PlyCount "74"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. g3 O-O 5. Bg2 c5 6. Nf3 cxd4 7. Nxd4 Nc6 8.
+O-O Nxd4 9. Qxd4 d6 10. Qh4 Rb8 11. Bh6 b6 12. Bxg7 Kxg7 13. Qd4 Kg8 14. Rfd1
+Be6 15. Rac1 Rc8 16. Nd5 Nxd5 17. cxd5 Bd7 18. Qe3 Rc5 19. b4 Rc8 20. Rxc8 Bxc8
+21. Qa3 a5 22. Rc1 Ba6 23. e3 Bb5 24. Qc3 axb4 25. Qxb4 Qd7 26. h4 Ra8 27. a3
+Ra4 28. Qb2 h5 29. Kh2 Ra8 30. Bh3 Qe8 31. Rc7 Kh7 32. Qd4 Qd8 33. Qxb6 Rb8 34.
+Qa7 Ra8 35. Qb7 Rb8 36. Rc8 Rxb7 37. Rxd8 Ra7 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.29"]
+[Round "6"]
+[White "Bruzzi, Stefano"]
+[Black "Mabbs, David J"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{not available}  1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.29"]
+[Round "6"]
+[White "Hawley, Martin Harold"]
+[Black "Blaine, Martin"]
+[Result "0-1"]
+[ECO "B14"]
+[PlyCount "58"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 dxc4 8.
+Bxc4 Nc6 9. O-O Nb4 10. Re1 O-O 11. Bg5 Nfd5 12. Bxe7 Nxe7 13. Ne4 b6 14. Nfg5
+h6 15. Nf3 Ba6 16. Bxa6 Nxa6 17. Qa4 Nc7 18. Rac1 Ncd5 19. Ne5 a6 20. Qa3 Nf5
+21. Nc6 Qd7 22. Ng3 Nxg3 23. Qxg3 Rac8 24. Ne5 Qa4 25. Ng4 Rxc1 26. Rxc1 h5 27.
+Ne5 Qxd4 28. b3 Nf4 29. Qe3 Qxe3 {Source: bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.29"]
+[Round "6"]
+[White "Israel, Harold"]
+[Black "Timson, Paul F"]
+[Result "0-1"]
+[ECO "B07"]
+[PlyCount "48"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. Be3 O-O 6. Qd2 e5 7. dxe5 dxe5 8.
+O-O-O Qxd2+ 9. Rxd2 Nc6 10. f3 Be6 11. Nd5 Bxd5 12. exd5 Ne7 13. c4 Nf5 14. Bc5
+Rfe8 15. g4 Nd7 16. Bf2 Nd4 17. Bxd4 exd4 18. Nh3 Re3 19. Kc2 Rae8 20. Bd1 Ne5
+21. b3 d3+ 22. Kb1 Nxf3 23. Bxf3 Rxf3 24. Nf2 Re2 {Source: bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.29"]
+[Round "6"]
+[White "Weinhold, Klaus Manfred"]
+[Black "Hollis, Geoffrey A"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[PlyCount "42"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be3 O-O 6. h3 c6 7. Qd2 b5 8. a3 Qa5
+9. Bd3 Be6 10. O-O a6 11. Nh4 Qc7 12. f4 Bc4 13. f5 Nbd7 14. Bh6 e6 15. Rae1
+Bxd3 16. cxd3 Nh5 17. Bxg7 Kxg7 18. fxe6 fxe6 19. Qg5 Qd8 20. Qg4 Qb6 21. Ne2
+Rae8 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.06.29"]
+[Round "6"]
+[White "Fertoszegi, Robert A"]
+[Black "Perkins, Nicholas Anthony"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{by default}  0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.07.24"]
+[Round "7"]
+[White "Mabbs, David J"]
+[Black "Weinhold, Klaus Manfred"]
+[Result "0-1"]
+[ECO "B22"]
+[PlyCount "48"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Na3 Nf6 5. Nf3 a6 6. Be2 e6 7. O-O Nc6 8. Nc4
+Qd8 9. a4 b6 10. Qb3 Rb8 11. d4 Qc7 12. Bg5 Be7 13. Rad1 O-O 14. dxc5 bxc5 15.
+Qa3 Nd5 16. Bxe7 Ncxe7 17. Rfe1 Nf4 18. Bf1 Bb7 19. Nfe5 Rfd8 20. Qa2 Neg6 21.
+Nxg6 hxg6 22. Ne3 Qc6 23. Qc4 Nh3+ 24. gxh3 Qh1# {Source: bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.07.24"]
+[Round "7"]
+[White "Blaine, Martin"]
+[Black "Bruzzi, Stefano"]
+[Result "1-0"]
+[ECO "A21"]
+[PlyCount "35"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 Ne7 5. e3 O-O 6. Nge2 c5 7. d4 d6 8. O-O
+Nbc6 9. dxc5 dxc5 10. b3 Bg4 11. h3 Bf5 12. Bb2 Nb4 13. g4 Bc2 14. Qc1 Bd3 15.
+Rd1 Qc7 16. Ng3 Rad8 17. a3 Nbc6 18. Nd5 {Source: bulletin} 1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.07.24"]
+[Round "7"]
+[White "Timson, Paul F"]
+[Black "Hawley, Martin Harold"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[PlyCount "39"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 e5 2. Nc3 f5 3. g3 Nc6 4. Bg2 Nf6 5. e3 g6 6. Nge2 Bg7 7. O-O O-O 8. Rb1
+a5 9. a3 d6 10. d3 Be6 11. Nd5 Bf7 12. Nec3 Nxd5 13. Nxd5 Rb8 14. Bd2 Qd7 15.
+Bc3 b5 16. b4 axb4 17. axb4 Ne7 18. Qc2 Rfc8 19. Nxe7+ Qxe7 20. Bd5 {Source:
+bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.07.24"]
+[Round "7"]
+[White "Fertoszegi, Robert A"]
+[Black "Israel, Harold"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{not available}  1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.07.24"]
+[Round "7"]
+[White "Perkins, Nicholas Anthony"]
+[Black "Hollis, Geoffrey A"]
+[Result "0-1"]
+[ECO "A21"]
+[PlyCount "64"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 e5 2. Nf3 d6 3. Nc3 f5 4. d4 e4 5. Bg5 Be7 6. Bxe7 Nxe7 7. Nd2 O-O 8. e3
+Nd7 9. Be2 Nf6 10. Qb3 Kh8 11. f3 d5 12. cxd5 Nexd5 13. Nxd5 Nxd5 14. O-O f4
+15. fxe4 Nxe3 16. Rxf4 Rxf4 17. Qxe3 Rf8 18. Bc4 Qe7 19. a3 c6 20. Re1 Be6 21.
+d5 Bg8 22. dxc6 bxc6 23. e5 Bxc4 24. Nxc4 Qe6 25. b3 Rab8 26. Rd1 h6 27. Rd6
+Qxc4 28. Rxh6+ Kg8 29. Rf6 Rxb3 30. Rxf8+ Kxf8 31. Qf2+ Qf7 32. Qc5+ Kg8 {
+Source: bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.08.17"]
+[Round "8"]
+[White "Hollis, Geoffrey A"]
+[Black "Mabbs, David J"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{by default}  0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.08.17"]
+[Round "8"]
+[White "Weinhold, Klaus Manfred"]
+[Black "Blaine, Martin"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[PlyCount "61"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 e6 6. Bf4 Bd6 7. Bxd6 Qxd6 8.
+Nf3 O-O 9. O-O b6 10. Nbd2 Ba6 11. Qe2 Bxd3 12. Qxd3 Nc6 13. Rfe1 Rac8 14. Ne5
+Nd7 15. Ndf3 Ncxe5 16. Nxe5 Rc7 17. Qh3 Nxe5 18. Rxe5 b5 19. a3 a5 20. Rd1 b4
+21. axb4 axb4 22. Rc1 Rfc8 23. Re2 Qf4 24. Qe3 Qf5 25. Qd2 h6 26. f3 Rc4 27.
+Ree1 Qf6 28. Red1 h5 29. Qe3 h4 30. g3 bxc3 31. bxc3 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.08.17"]
+[Round "8"]
+[White "Bruzzi, Stefano"]
+[Black "Timson, Paul F"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[PlyCount "119"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Na6 7. h3 c5 8. d5
+Nc7 9. a4 b6 10. Bg5 Rb8 11. Qd2 a6 12. Bh6 b5 13. Bxg7 Kxg7 14. axb5 axb5 15.
+Qe3 b4 16. Nb1 e6 17. dxe6 Bxe6 18. Rd1 Qe7 19. Qf4 Rfd8 20. Nbd2 d5 21. Ra7
+Nfe8 22. Ng5 Ra8 23. Rda1 Rxa7 24. Rxa7 Rd7 25. Qe5+ Kg8 26. Nxe6 Qxe6 27. Qxe6
+fxe6 28. e5 Rf7 29. Nb3 Rf5 30. Nxc5 Rxe5 31. Kf1 d4 32. Nb3 Rd5 33. Rb7 Kg7
+34. Bc4 Rd6 35. f4 Kf6 36. Rxb4 e5 37. fxe5+ Kxe5 38. Nd2 Nf6 39. Nf3+ Kf4 40.
+Bd3 Ke3 41. Ne5 Kf4 42. Nc4 Rd8 43. Kf2 Ne4+ 44. Bxe4 Kxe4 45. Rb7 Nd5 46. Nd2+
+Kf5 47. Nf3 Nf6 48. Rb5+ Ke6 49. Rb6+ Ke7 50. Ke2 Nd5 51. Rb7+ Kf6 52. g3 Re8+
+53. Kf2 Re4 54. Rb5 Ne3 55. Rb6+ Ke7 56. Ne1 Nd1+ 57. Kf1 Ne3+ 58. Kf2 Nd1+ 59.
+Kf1 Ne3+ 60. Kf2 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.08.17"]
+[Round "8"]
+[White "Israel, Harold"]
+[Black "Perkins, Nicholas Anthony"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[PlyCount "58"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c5 2. Nf3 g6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg7 6. Be2 cxd4 7. cxd4 Nf6 8.
+Nc3 Qd8 9. O-O O-O 10. Qb3 Nbd7 11. Rd1 Nb6 12. d5 Bg4 13. Be3 Nfd7 14. h3 Bxf3
+15. Bxf3 Nc8 16. Qxb7 Rb8 17. Qa6 Rxb2 18. Qa3 Rc2 19. Rac1 Rxc1 20. Rxc1 Ndb6
+21. Qb3 Nd6 22. Ne2 Qb8 23. Nd4 Bxd4 24. Bxd4 Rc8 25. Rxc8+ Qxc8 26. Bxb6 axb6
+27. Qxb6 Qc1+ 28. Kh2 Qf4+ 29. Kg1 Qc1+ {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.08.17"]
+[Round "8"]
+[White "Hawley, Martin Harold"]
+[Black "Fertoszegi, Robert A"]
+[Result "0-1"]
+[ECO "C64"]
+[PlyCount "32"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. O-O fxe4 6. Nxe5 Qh4 7. d4 Nxe5 8.
+dxe5 Ne7 9. Qe2 a6 10. Ba4 e3 11. f4 b5 12. Bc2 Nd5 13. g3 Qh3 14. Be4 Bb7 15.
+Re1 Nxf4 16. gxf4 Bxe4 {Source: bulletin} 0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.09.08"]
+[Round "9"]
+[White "Mabbs, David J"]
+[Black "Perkins, Nicholas Anthony"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{by default}  0-1
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.09.08"]
+[Round "9"]
+[White "Blaine, Martin"]
+[Black "Hollis, Geoffrey A"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{not available}  1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.09.08"]
+[Round "9"]
+[White "Timson, Paul F"]
+[Black "Weinhold, Klaus Manfred"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[PlyCount "21"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Nh6 7. O-O O-O 8. d3
+f5 9. Rb1 Nf7 10. b4 Ne7 11. b5 {Source: bulletin} 1/2-1/2
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.09.08"]
+[Round "9"]
+[White "Fertoszegi, Robert A"]
+[Black "Bruzzi, Stefano"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+{by default}  1-0
+
+[Event "Middlesex County ch"]
+[Site "London"]
+[Date "1970.09.08"]
+[Round "9"]
+[White "Israel, Harold"]
+[Black "Hawley, Martin Harold"]
+[Result "1/2-1/2"]
+[ECO "B39"]
+[PlyCount "51"]
+[EventDate "1970.03.10"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "John Saunders"]
+[SourceDate "2016.04.06"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4 8.
+Qxg4 Nxd4 9. Qd1 e5 10. Bd3 O-O 11. O-O d6 12. Nd5 f5 13. Bxd4 exd4 14. exf5
+Bxf5 15. Bxf5 Rxf5 16. f4 Kh8 17. Qd3 b5 18. b3 Qd7 19. Rae1 bxc4 20. bxc4 Re8
+21. Rxe8+ Qxe8 22. g4 Rf8 23. f5 gxf5 24. Rxf5 Qe1+ 25. Rf1 Rxf1+ 26. Qxf1 {
+Source: bulletin} 1/2-1/2
+

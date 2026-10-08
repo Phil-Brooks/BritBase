@@ -1,0 +1,2092 @@
+[
+  {
+    "Year": 1970,
+    "Name": "Middlesex County ch",
+    "Winner": "Paul Timson",
+    "StartDate": "1970.03.10",
+    "EndDate": "1970.09.08",
+    "GamesCount": "45",
+    "DateUpdated": "2016.04.06",
+    "PgnFileName": "197003middx.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "WLS-ch Swansea",
+    "Winner": "Gavrilovic, Chesters",
+    "StartDate": "1970.03.26",
+    "EndDate": "1970.03.30",
+    "GamesCount": "85",
+    "DateUpdated": "2020.09.23",
+    "PgnFileName": "197003wales.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "WLS-chW/Open",
+    "Winner": "Hazel Brunker",
+    "StartDate": "1970.03.26",
+    "EndDate": "1970.03.30",
+    "GamesCount": "28^",
+    "DateUpdated": "2020.09.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "WLS-ch U18",
+    "Winner": "R L Smith",
+    "StartDate": "1970.03.26",
+    "EndDate": "1970.03.30",
+    "GamesCount": "25^",
+    "DateUpdated": "2020.09.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "25th West of England",
+    "Winner": "Peter H Clarke",
+    "StartDate": "1970.03.26",
+    "EndDate": "1970.03.30",
+    "GamesCount": "16",
+    "DateUpdated": "2023.07.10",
+    "PgnFileName": "197003wecu.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "Churchill Mem, Hove",
+    "Winner": "",
+    "StartDate": "1970.04.01",
+    "EndDate": "1970.04.08",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "Clare Benedict, Paignton",
+    "Winner": "Spain",
+    "StartDate": "1970.04.06",
+    "EndDate": "1970.04.10",
+    "GamesCount": "60",
+    "DateUpdated": "2001.07.08",
+    "PgnFileName": "197004clarebenedict.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "British Universities Indiv",
+    "Winner": "Simon Webb",
+    "StartDate": "1970.04.06",
+    "EndDate": "1970.04.11",
+    "GamesCount": "72",
+    "DateUpdated": "2015.10.25",
+    "PgnFileName": "197004buca.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "British Univ. Team Ch",
+    "Winner": "London Univ",
+    "StartDate": "1970.04.13",
+    "EndDate": "1970.04.15",
+    "GamesCount": "163^",
+    "DateUpdated": "2015.10.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "Manchester Open",
+    "Winner": "Vic Knox",
+    "StartDate": "1970.07.03",
+    "EndDate": "1970.07.05",
+    "GamesCount": "22",
+    "DateUpdated": "2026.07.13",
+    "PgnFileName": "197007manchester.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "18th CHESS F, Southport",
+    "Winner": "Daniel Wright",
+    "StartDate": "1970.07.13",
+    "EndDate": "1970.07.24",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "Northern Open, Whitby",
+    "Winner": "Max Fuller",
+    "StartDate": "1970.07.27",
+    "EndDate": "1970.08.07",
+    "GamesCount": "24",
+    "DateUpdated": "2026.01.07",
+    "PgnFileName": "197007whitby.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "Glorney Cup, Glasgow",
+    "Winner": "England",
+    "StartDate": "1970.07.29",
+    "EndDate": "1970.08.01",
+    "GamesCount": "90",
+    "DateUpdated": "2024.02.15",
+    "PgnFileName": "197007glorney.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "Irish Championship",
+    "Winner": "Paul G Henry",
+    "StartDate": "1970.07.11",
+    "EndDate": "1970.07.19",
+    "GamesCount": "21+7",
+    "DateUpdated": "2025.09.23",
+    "PgnFileName": "197007irlch.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "GBR-ch Coventry",
+    "Winner": "Robert G Wade",
+    "StartDate": "1970.08.10",
+    "EndDate": "1970.08.21",
+    "GamesCount": "179",
+    "DateUpdated": "2019.06.23",
+    "PgnFileName": "197008bcf.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1970.08.10",
+    "EndDate": "1970.08.21",
+    "GamesCount": "44^",
+    "DateUpdated": "2025.02.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "ENG-NED m Vlissingen",
+    "Winner": "Netherlands",
+    "StartDate": "1970.10.31",
+    "EndDate": "1970.11.01",
+    "GamesCount": "20",
+    "DateUpdated": "2025.11.16",
+    "PgnFileName": "197010engned.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "Islington Open 6th",
+    "Winner": "Jan Timman",
+    "StartDate": "1970.12.11",
+    "EndDate": "1970.12.13",
+    "GamesCount": "136",
+    "DateUpdated": "2023.10.14",
+    "PgnFileName": "197012islington.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "Islington Major/Minor",
+    "Winner": "",
+    "StartDate": "1970.12.11",
+    "EndDate": "1970.12.13",
+    "GamesCount": "53^",
+    "DateUpdated": "2023.10.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "Islington Junior A",
+    "Winner": "R Bellin, S Mariotti",
+    "StartDate": "1970.12.15",
+    "EndDate": "1970.12.23",
+    "GamesCount": "37+1^",
+    "DateUpdated": "2023.10.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "Islington Junior B",
+    "Winner": "Jon Speelman",
+    "StartDate": "1970.12.15",
+    "EndDate": "1970.12.23",
+    "GamesCount": "13^",
+    "DateUpdated": "2023.10.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1970,
+    "Name": "Hastings Premier",
+    "Winner": "Lajos Portisch",
+    "StartDate": "1970.12.29",
+    "EndDate": "1971.01.07",
+    "GamesCount": "45",
+    "DateUpdated": "2025.03.23",
+    "PgnFileName": "197012hast.pgn"
+  },
+  {
+    "Year": 1970,
+    "Name": "Hastings other sections",
+    "Winner": "See Hastings Page",
+    "StartDate": "1970.12.29",
+    "EndDate": "1971.01.07",
+    "GamesCount": "38^",
+    "DateUpdated": "2026.08.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "Bayswater Blindfold Simul",
+    "Winner": "Sergio Mariotti +8=1-1",
+    "StartDate": "1971.01.17",
+    "EndDate": "",
+    "GamesCount": "10",
+    "DateUpdated": "2025.11.14",
+    "PgnFileName": "197101mariottisimul.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "ENG-FRG, Cheltenham",
+    "Winner": "West Germany",
+    "StartDate": "1971.04.03",
+    "EndDate": "1971.04.04",
+    "GamesCount": "20",
+    "DateUpdated": "2025.06.19",
+    "PgnFileName": "197104engfrg.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "26th West of England",
+    "Winner": "David A LeMoir",
+    "StartDate": "1971.04.08",
+    "EndDate": "1971.04.12",
+    "GamesCount": "20",
+    "DateUpdated": "2023.07.11",
+    "PgnFileName": "197104wecu.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Slater Young Masters",
+    "Winner": "G Botterill, P Markland",
+    "StartDate": "1971.04.09",
+    "EndDate": "1971.04.17",
+    "GamesCount": "45",
+    "DateUpdated": "2026.04.03",
+    "PgnFileName": "197104slater.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Churchill Mem, Hove",
+    "Winner": "",
+    "StartDate": "1971.04.14",
+    "EndDate": "1971.04.21",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "7th Staffordshire Open",
+    "Winner": "A Miles, D Anderton",
+    "StartDate": "1971.05.29",
+    "EndDate": "1971.06.01",
+    "GamesCount": "35+3",
+    "DateUpdated": "2026.01.21",
+    "PgnFileName": "197105staffs.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Bayswater Open",
+    "Winner": "L Barden, L Blackstock",
+    "StartDate": "1971.06.11",
+    "EndDate": "1971.06.13",
+    "GamesCount": "47/60",
+    "DateUpdated": "2015.10.09",
+    "PgnFileName": "197106bayswater.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "19th CHESS F, Southport",
+    "Winner": "B Eley, J Durao, T vd Weide",
+    "StartDate": "1971.07.12",
+    "EndDate": "1971.07.23",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "Oxford International",
+    "Winner": "George Botterill",
+    "StartDate": "1971.07.24",
+    "EndDate": "1971.08.01",
+    "GamesCount": "9+5",
+    "DateUpdated": "2024.10.21",
+    "PgnFileName": "197107oxford.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Oxford other",
+    "Winner": "",
+    "StartDate": "1971.07.25",
+    "EndDate": "1971.08.01",
+    "GamesCount": "14^",
+    "DateUpdated": "2023.12.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "GBR-ch Blackpool",
+    "Winner": "Raymond Keene",
+    "StartDate": "1971.08.09",
+    "EndDate": "1971.08.20",
+    "GamesCount": "198",
+    "DateUpdated": "2018.04.15",
+    "PgnFileName": "197108bcf.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "GBR-ch subsidiary events",
+    "Winner": "",
+    "StartDate": "1971.08.09",
+    "EndDate": "1971.08.20",
+    "GamesCount": "51^",
+    "DateUpdated": "2026.10.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "Robert Silk, Paignton",
+    "Winner": "R Bellin, W Hartston",
+    "StartDate": "1971.09.05",
+    "EndDate": "1971.09.11",
+    "GamesCount": "3+1",
+    "DateUpdated": "2023.06.05",
+    "PgnFileName": "197109paignton.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Paignton Premier",
+    "Winner": "J Century, AH Williams",
+    "StartDate": "1971.09.05",
+    "EndDate": "1971.09.11",
+    "GamesCount": "6^",
+    "DateUpdated": "2026.01.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "Paignton other",
+    "Winner": "",
+    "StartDate": "1971.09.05",
+    "EndDate": "1971.09.11",
+    "GamesCount": "8^",
+    "DateUpdated": "2026.01.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "1st North Devon Open",
+    "Winner": "Peter J Waters",
+    "StartDate": "1971.10.01",
+    "EndDate": "1971.10.03",
+    "GamesCount": "50",
+    "DateUpdated": "2020.08.06",
+    "PgnFileName": "197110barnstaple.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Cambridge Invitationals",
+    "Winner": "",
+    "StartDate": "1971.10.26",
+    "EndDate": "1971.10.28",
+    "GamesCount": "16",
+    "DateUpdated": "2023.12.30",
+    "PgnFileName": "197110cambridge.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "ENG-NED m London",
+    "Winner": "England",
+    "StartDate": "1971.10.26",
+    "EndDate": "1971.10.28",
+    "GamesCount": "20",
+    "DateUpdated": "2025.06.19",
+    "PgnFileName": "197110gbrned.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Islington Open 7th",
+    "Winner": "R Bellin, J Carleton, P C Griffiths, M Lambshire, J Nunn, S Webb, A Whiteley",
+    "StartDate": "1971.12.10",
+    "EndDate": "1971.12.12",
+    "GamesCount": "185",
+    "DateUpdated": "2023.09.18",
+    "PgnFileName": "197112islington.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Hastings Premier",
+    "Winner": "A Karpov, V Korchnoi",
+    "StartDate": "1971.12.29",
+    "EndDate": "1972.01.15",
+    "GamesCount": "120",
+    "DateUpdated": "2025.06.12",
+    "PgnFileName": "197112hast.pgn"
+  },
+  {
+    "Year": 1971,
+    "Name": "Hastings Challengers",
+    "Winner": "Dusan Rajkovic",
+    "StartDate": "1971.12.29",
+    "EndDate": "1972.01.07",
+    "GamesCount": "37+4^",
+    "DateUpdated": "2025.06.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1971,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1971.12.29",
+    "EndDate": "1972.01.07",
+    "GamesCount": "4^",
+    "DateUpdated": "2026.01.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1972,
+    "Name": "Karpov Simul, Centymca",
+    "Winner": "+17,=4,-5",
+    "StartDate": "1972.01.22",
+    "EndDate": "",
+    "GamesCount": "26",
+    "DateUpdated": "2015.07.15",
+    "PgnFileName": "197201karpovsimul.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "Birmingham International",
+    "Winner": "RenÃ© Borngaesser",
+    "StartDate": "1972.03.25",
+    "EndDate": "1972.04.09",
+    "GamesCount": "56",
+    "DateUpdated": "2025.11.12",
+    "PgnFileName": "197203birmingham.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "Norwich Junior Internat'l",
+    "Winner": "Gyula Sax",
+    "StartDate": "1972.03.28",
+    "EndDate": "1972.04.13",
+    "GamesCount": "120",
+    "DateUpdated": "2026.01.27",
+    "PgnFileName": "197203norwich.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "27th West of England",
+    "Winner": "Andrew R B Thomas",
+    "StartDate": "1972.03.30",
+    "EndDate": "1972.04.03",
+    "GamesCount": "22",
+    "DateUpdated": "2026.01.27",
+    "PgnFileName": "197203wecu.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "Churchill Mem, Hove",
+    "Winner": "",
+    "StartDate": "1972.04.05",
+    "EndDate": "1972.04.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1972,
+    "Name": "Teesside International",
+    "Winner": "Bent Larsen",
+    "StartDate": "1972.04.17",
+    "EndDate": "1972.05.05",
+    "GamesCount": "120",
+    "DateUpdated": "2026.01.29",
+    "PgnFileName": "197204teesside.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "Teesside other",
+    "Winner": "",
+    "StartDate": "1972.04.17",
+    "EndDate": "1972.05.05",
+    "GamesCount": "18^",
+    "DateUpdated": "2026.01.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1972,
+    "Name": "Staffordshire Open",
+    "Winner": "John Carleton",
+    "StartDate": "1972.05.27",
+    "EndDate": "1972.05.29",
+    "GamesCount": "95",
+    "DateUpdated": "2025.11.24",
+    "PgnFileName": "197205staffs.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "IRL-ch Dublin",
+    "Winner": "W Heidenfeld, O'Leary",
+    "StartDate": "1972.07.08",
+    "EndDate": "1972.07.16",
+    "GamesCount": "90",
+    "DateUpdated": "2020.09.17",
+    "PgnFileName": "197207ireland.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "20th CHESS F, Southport",
+    "Winner": "Five-way tie",
+    "StartDate": "1972.07.17",
+    "EndDate": "1972.07.27",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1972,
+    "Name": "Glorney Cup, Sidcup",
+    "Winner": "England",
+    "StartDate": "1972.08.08",
+    "EndDate": "1972.08.12",
+    "GamesCount": "90+3",
+    "DateUpdated": "2015.08.01",
+    "PgnFileName": "197208glorney.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "GBR-ch Brighton",
+    "Winner": "Brian Eley",
+    "StartDate": "1972.08.14",
+    "EndDate": "1972.08.25",
+    "GamesCount": "180",
+    "DateUpdated": "2023.12.27",
+    "PgnFileName": "197208bcf.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "GBR-ch other",
+    "Winner": "",
+    "StartDate": "1972.08.14",
+    "EndDate": "1972.08.25",
+    "GamesCount": "57^",
+    "DateUpdated": "2025.10.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1972,
+    "Name": "North Devon Open 2nd",
+    "Winner": "R Bellin, N Argyris",
+    "StartDate": "1972.10.20",
+    "EndDate": "1972.10.22",
+    "GamesCount": "69",
+    "DateUpdated": "2025.11.17",
+    "PgnFileName": "197210northdevon.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "ENG-NED m Vlissingen",
+    "Winner": "England",
+    "StartDate": "1972.10.28",
+    "EndDate": "1972.10.29",
+    "GamesCount": "10/20",
+    "DateUpdated": "2026.04.27",
+    "PgnFileName": "197210gbrned.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "ENG-FRG Attendorn",
+    "Winner": "West Germany",
+    "StartDate": "1972.11.18",
+    "EndDate": "1972.11.19",
+    "GamesCount": "20",
+    "DateUpdated": "2026.04.03",
+    "PgnFileName": "197211frgeng.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "Evening St'd Islington 8th",
+    "Winner": "Robert Bellin",
+    "StartDate": "1972.12.15",
+    "EndDate": "1972.12.17",
+    "GamesCount": "163",
+    "DateUpdated": "2023.12.27",
+    "PgnFileName": "197212islington.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "Hasting Premier",
+    "Winner": "Bent Larsen",
+    "StartDate": "1972.12.27",
+    "EndDate": "1973.01.13",
+    "GamesCount": "120",
+    "DateUpdated": "2024.08.25",
+    "PgnFileName": "197212hast.pgn"
+  },
+  {
+    "Year": 1972,
+    "Name": "Hastings other sections",
+    "Winner": "",
+    "StartDate": "1972.12.27",
+    "EndDate": "1973.01.05",
+    "GamesCount": "40^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "Robert Silk, Canterbury",
+    "Winner": "Michael Stean",
+    "StartDate": "1973.04.08",
+    "EndDate": "1973.04.14",
+    "GamesCount": "21",
+    "DateUpdated": "2024.02.16",
+    "PgnFileName": "197304canterbury.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Birmingham",
+    "Winner": "Tony Miles",
+    "StartDate": "1973.04.17",
+    "EndDate": "1973.04.29",
+    "GamesCount": "40",
+    "DateUpdated": "2023.01.28",
+    "PgnFileName": "197304birmingham.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "28th West of England",
+    "Winner": "D M Wise, D LeMoir",
+    "StartDate": "1973.04.19",
+    "EndDate": "1973.04.23",
+    "GamesCount": "21",
+    "DateUpdated": "2026.01.29",
+    "PgnFileName": "197304wecu.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Ilford Open",
+    "Winner": "Alan Phillips",
+    "StartDate": "1973.05.25",
+    "EndDate": "1973.05.28",
+    "GamesCount": "40",
+    "DateUpdated": "2025.11.18",
+    "PgnFileName": "197305ilford.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "1st Charlton Open",
+    "Winner": "Michael Basman",
+    "StartDate": "1973.06.29",
+    "EndDate": "1973.07.01",
+    "GamesCount": "23",
+    "DateUpdated": "2026.01.01",
+    "PgnFileName": "197306charlton.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "European Team Ch, Bath",
+    "Winner": "USSR",
+    "StartDate": "1973.07.06",
+    "EndDate": "1973.07.13",
+    "GamesCount": "224",
+    "DateUpdated": "2025.12.28",
+    "PgnFileName": "197307bath.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "World U20 Ch'p, Teesside",
+    "Winner": "Alexander Beliavsky",
+    "StartDate": "1973.07.16",
+    "EndDate": "1973.08.04",
+    "GamesCount": "447",
+    "DateUpdated": "2025.12.31",
+    "PgnFileName": "197307worldu20.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "21st CHESS Fest, Teesside",
+    "Winner": "A Adorjan, L Alster",
+    "StartDate": "1973.07.23",
+    "EndDate": "1973.08.04",
+    "GamesCount": "44",
+    "DateUpdated": "2026.01.31",
+    "PgnFileName": "197307teesside.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "CHESS Festival other",
+    "Winner": "",
+    "StartDate": "1973.07.23",
+    "EndDate": "1973.08.04",
+    "GamesCount": "5^",
+    "DateUpdated": "2026.01.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "GBR-ch Eastbourne",
+    "Winner": "William Hartston",
+    "StartDate": "1973.08.06",
+    "EndDate": "1973.08.17",
+    "GamesCount": "198+3",
+    "DateUpdated": "2017.09.17",
+    "PgnFileName": "197308bcf.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "GBR-ch play-off",
+    "Winner": "Hartston, Basman",
+    "StartDate": "1974.01.28",
+    "EndDate": "1974.02.03",
+    "GamesCount": "6^",
+    "DateUpdated": "2017.09.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1973.08.06",
+    "EndDate": "1973.08.17",
+    "GamesCount": "9^",
+    "DateUpdated": "2023.11.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "Paignton Premier",
+    "Winner": "Peter C Griffiths",
+    "StartDate": "1973.09.02",
+    "EndDate": "1973.09.08",
+    "GamesCount": "20",
+    "DateUpdated": "2026.01.16",
+    "PgnFileName": "197309paignton.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Paignton other",
+    "Winner": "",
+    "StartDate": "1973.09.02",
+    "EndDate": "1973.09.08",
+    "GamesCount": "7^",
+    "DateUpdated": "2026.01.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "London Invitation",
+    "Winner": "Bent Larsen",
+    "StartDate": "1973.09.07",
+    "EndDate": "1973.09.09",
+    "GamesCount": "75+1",
+    "DateUpdated": "2015.08.01",
+    "PgnFileName": "197309londoninvit.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Glasgow International",
+    "Winner": "Robert Huebner",
+    "StartDate": "1973.09.20",
+    "EndDate": "1973.09.24",
+    "GamesCount": "30",
+    "DateUpdated": "2024.02.16",
+    "PgnFileName": "197309glasgow.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Glasgow Junior Int'nal",
+    "Winner": "Stephen Swanson",
+    "StartDate": "1973.09.20",
+    "EndDate": "1973.09.24",
+    "GamesCount": "30^",
+    "DateUpdated": "2024.02.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "Hexagon Woolacombe",
+    "Winner": "Raymond Keene",
+    "StartDate": "1973.10.05",
+    "EndDate": "1973.10.14",
+    "GamesCount": "24+1/45",
+    "DateUpdated": "2025.10.24",
+    "PgnFileName": "197310hexagon.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "ENG-NED m Manchester",
+    "Winner": "Netherlands",
+    "StartDate": "1973.10.27",
+    "EndDate": "1973.10.28",
+    "GamesCount": "11/20",
+    "DateUpdated": "2026.02.18",
+    "PgnFileName": "197310gbrned.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Cutty Sark Knock-Out",
+    "Winner": "William Hartston",
+    "StartDate": "1973.11.26",
+    "EndDate": "1973.11.28",
+    "GamesCount": "7",
+    "DateUpdated": "2026.02.09",
+    "PgnFileName": "197311cuttysark.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Evening St'd Islington 9th",
+    "Winner": "Borivoje Vujacic",
+    "StartDate": "1973.12.07",
+    "EndDate": "1973.12.09",
+    "GamesCount": "97+13",
+    "DateUpdated": "2026.09.08",
+    "PgnFileName": "197312islington.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Guardian Royal Ex Masters",
+    "Winner": "Jan Timman",
+    "StartDate": "1973.12.11",
+    "EndDate": "1973.12.20",
+    "GamesCount": "45",
+    "DateUpdated": "2022.07.10",
+    "PgnFileName": "197312gremasters.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "GRE Masters Reserves",
+    "Winner": "John Nunn",
+    "StartDate": "1973.12.11",
+    "EndDate": "1973.12.20",
+    "GamesCount": "22/45^",
+    "DateUpdated": "2022.07.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "GRE Women's Int",
+    "Winner": "S Caldwell, S Jackson",
+    "StartDate": "1973.12.11",
+    "EndDate": "1973.12.16",
+    "GamesCount": "6/15^",
+    "DateUpdated": "2022.07.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "GRE Speelman v Eslon",
+    "Winner": "Jon Speelman",
+    "StartDate": "1973.12.11",
+    "EndDate": "1973.12.16",
+    "GamesCount": "0/4",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "Hastings Premier",
+    "Winner": "Kuzmin, Szabo, Tal, Timman",
+    "StartDate": "1973.12.27",
+    "EndDate": "1974.01.13",
+    "GamesCount": "120",
+    "DateUpdated": "2024.07.09",
+    "PgnFileName": "197312hast.pgn"
+  },
+  {
+    "Year": 1973,
+    "Name": "Hastings Challengers",
+    "Winner": "Mark C Diesen",
+    "StartDate": "1973.12.27",
+    "EndDate": "1974.01.05",
+    "GamesCount": "48+3^",
+    "DateUpdated": "2025.11.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1973,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1973.12.27",
+    "EndDate": "1974.01.13",
+    "GamesCount": "7^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "M. Tal Simul, Knotty Ash",
+    "Winner": "+23 =2 -2",
+    "StartDate": "1974.01.18",
+    "EndDate": "",
+    "GamesCount": "23/27",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "197401talsimulliverpool.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "GBR-ch play-off",
+    "Winner": "Hartston v Basman",
+    "StartDate": "1974.01.28",
+    "EndDate": "1974.02.03",
+    "GamesCount": "(see above at 1973.08)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "England v West Germany",
+    "Winner": "England 11-9",
+    "StartDate": "1974.03.30",
+    "EndDate": "1974.03.31",
+    "GamesCount": "20",
+    "DateUpdated": "2025.11.19",
+    "PgnFileName": "197403engger.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "Birmingham International",
+    "Winner": "Tony Miles",
+    "StartDate": "1974.04.09",
+    "EndDate": "1974.04.21",
+    "GamesCount": "55",
+    "DateUpdated": "2026.04.03",
+    "PgnFileName": "197404birmingham.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "29th West of England",
+    "Winner": "Derek M Wise",
+    "StartDate": "1974.04.11",
+    "EndDate": "1974.04.15",
+    "GamesCount": "22",
+    "DateUpdated": "2026.01.29",
+    "PgnFileName": "197404wecu.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "WECU other",
+    "Winner": "",
+    "StartDate": "1974.04.11",
+    "EndDate": "1974.04.15",
+    "GamesCount": "1^",
+    "DateUpdated": "2026.07.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "Dublin Easter",
+    "Winner": "Hans J Hecht",
+    "StartDate": "1974.04.11",
+    "EndDate": "1974.04.15",
+    "GamesCount": "28",
+    "DateUpdated": "2026.04.03",
+    "PgnFileName": "197404dublin.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "Athenaeum Jubilee",
+    "Winner": "Max Fuller",
+    "StartDate": "1974.07.05",
+    "EndDate": "1974.07.14",
+    "GamesCount": "41/45",
+    "DateUpdated": "2025.11.21",
+    "PgnFileName": "197407athenaeum.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "World Students Olympiad",
+    "Winner": "",
+    "StartDate": "1974.07.16",
+    "EndDate": "1974.07.31",
+    "GamesCount": "732",
+    "DateUpdated": "2023.10.15",
+    "PgnFileName": "197407worldstudents.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "GBR-ch Clacton",
+    "Winner": "7-way tie",
+    "StartDate": "1974.08.05",
+    "EndDate": "1974.08.16",
+    "GamesCount": "176",
+    "DateUpdated": "2017.09.17",
+    "PgnFileName": "197408bcf.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "GBR-ch other sections",
+    "Winner": "",
+    "StartDate": "1974.08.05",
+    "EndDate": "1974.08.16",
+    "GamesCount": "7+1^",
+    "DateUpdated": "2026.07.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "GBR-ch pl-off Llanelli",
+    "Winner": "George Botterill",
+    "StartDate": "1974.12.14",
+    "EndDate": "1974.12.21",
+    "GamesCount": "21^",
+    "DateUpdated": "1999.10.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "Robert Silk",
+    "Winner": "John Nunn",
+    "StartDate": "1974.09.01",
+    "EndDate": "1974.09.07",
+    "GamesCount": "28/28",
+    "DateUpdated": "2024.10.25",
+    "PgnFileName": "197409paignton.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "Paignton Premier",
+    "Winner": "Nigel Povah",
+    "StartDate": "1974.09.01",
+    "EndDate": "1974.09.07",
+    "GamesCount": "19^",
+    "DateUpdated": "2023.12.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "Paignton - other sections",
+    "Winner": "",
+    "StartDate": "1974.09.01",
+    "EndDate": "1974.09.07",
+    "GamesCount": "7^",
+    "DateUpdated": "2021.12.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "London CC Invitation",
+    "Winner": "Simon Webb",
+    "StartDate": "1974.09.13",
+    "EndDate": "1974.09.15",
+    "GamesCount": "18",
+    "DateUpdated": "2024.10.23",
+    "PgnFileName": "197409londoninvit.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "ENG-NED m Vlissingen",
+    "Winner": "Netherlands",
+    "StartDate": "1974.10.26",
+    "EndDate": "1974.10.27",
+    "GamesCount": "5/20",
+    "DateUpdated": "2026.04.28",
+    "PgnFileName": "197410gbrned.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "Even'g St'd Islington 10th",
+    "Winner": "10 tied",
+    "StartDate": "1974.12.20",
+    "EndDate": "1974.12.22",
+    "GamesCount": "35",
+    "DateUpdated": "2025.11.22",
+    "PgnFileName": "197412islington.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "Hastings Premier",
+    "Winner": "Vlastimil Hort",
+    "StartDate": "1974.12.28",
+    "EndDate": "1975.01.14",
+    "GamesCount": "120",
+    "DateUpdated": "2021.11.01",
+    "PgnFileName": "197412hast.pgn"
+  },
+  {
+    "Year": 1974,
+    "Name": "Hastings Challengers",
+    "Winner": "Robert Bellin",
+    "StartDate": "1974.12.28",
+    "EndDate": "1975.01.07",
+    "GamesCount": "33^",
+    "DateUpdated": "2024.08.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1974,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1974.12.28",
+    "EndDate": "1975.01.07",
+    "GamesCount": "10^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1975,
+    "Name": "BBC TV Master Game",
+    "Winner": "William Hartston",
+    "StartDate": "1975.00",
+    "EndDate": "",
+    "GamesCount": "11",
+    "DateUpdated": "2026.04.11",
+    "PgnFileName": "197500bbctv.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Zetters Birmingham",
+    "Winner": "Milan Matulovic",
+    "StartDate": "1975.03.27",
+    "EndDate": "1975.04.13",
+    "GamesCount": "120",
+    "DateUpdated": "2025.06.18",
+    "PgnFileName": "197503birmingham.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "30th West of England",
+    "Winner": "Peter H Clarke (on t/b)",
+    "StartDate": "1975.03.27",
+    "EndDate": "1975.03.31",
+    "GamesCount": "32",
+    "DateUpdated": "2026.01.29",
+    "PgnFileName": "197503wecu.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Glasgow 800 Cup",
+    "Winner": "team event",
+    "StartDate": "1975.05.09",
+    "EndDate": "1975.05.11",
+    "GamesCount": "48/48",
+    "DateUpdated": "2019.03.24",
+    "PgnFileName": "197505glasgow800cup.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Staffordshire Open",
+    "Winner": "Richard A Beach",
+    "StartDate": "1975.05.24",
+    "EndDate": "1975.05.27",
+    "GamesCount": "33",
+    "DateUpdated": "2020.10.03",
+    "PgnFileName": "197505staffs.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Glorney Cup",
+    "Winner": "England",
+    "StartDate": "1975.07.21",
+    "EndDate": "1975.07.25",
+    "GamesCount": "90",
+    "DateUpdated": "2015.08.10",
+    "PgnFileName": "197507glorney.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "London GM",
+    "Winner": "Tony Miles",
+    "StartDate": "1975.08.17",
+    "EndDate": "1975.08.28",
+    "GamesCount": "55",
+    "DateUpdated": "2026.04.03",
+    "PgnFileName": "197508londongm.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "GBR-ch Morecambe",
+    "Winner": "William Hartston",
+    "StartDate": "1975.08.04",
+    "EndDate": "1975.08.15",
+    "GamesCount": "187",
+    "DateUpdated": "2021.09.04",
+    "PgnFileName": "197508bcf.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "GBR-ch others",
+    "Winner": "",
+    "StartDate": "1975.08.04",
+    "EndDate": "1975.08.15",
+    "GamesCount": "42^",
+    "DateUpdated": "2026.06.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1975,
+    "Name": "Alexander Mem., Teesside",
+    "Winner": "Efim Geller",
+    "StartDate": "1975.09.01",
+    "EndDate": "1975.09.18",
+    "GamesCount": "105",
+    "DateUpdated": "2023.12.02",
+    "PgnFileName": "197509teesside.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Paignton Premier",
+    "Winner": "Robert Bellin",
+    "StartDate": "1975.09.07",
+    "EndDate": "1975.09.13",
+    "GamesCount": "0",
+    "DateUpdated": "( crosstable )",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1975,
+    "Name": "Guernsey Open 1st",
+    "Winner": "Gerald H Bennett",
+    "StartDate": "1975.10.05",
+    "EndDate": "1975.10.11",
+    "GamesCount": "16",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": "197510guernsey.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "ENG-NED m Hartley W'ney",
+    "Winner": "Netherlands",
+    "StartDate": "1975.10.25",
+    "EndDate": "1975.10.26",
+    "GamesCount": "7/20",
+    "DateUpdated": "2026.04.27",
+    "PgnFileName": "197510gbrned.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Eve'g St'd Open 11th",
+    "Winner": "Bojan Kurajica",
+    "StartDate": "1975.12.12",
+    "EndDate": "1975.12.14",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1975,
+    "Name": "NED-ENG (Euro Team Ch)",
+    "Winner": "Drawn 8-8",
+    "StartDate": "1975.12.20",
+    "EndDate": "1975.12.21",
+    "GamesCount": "12/16",
+    "DateUpdated": "2026.04.27",
+    "PgnFileName": "197512nedengeuro.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Hastings Premier",
+    "Winner": "Bronst'n Hort Uhlmann",
+    "StartDate": "1975.12.29",
+    "EndDate": "1976.01.15",
+    "GamesCount": "120",
+    "DateUpdated": "2020.09.24",
+    "PgnFileName": "197512hast.pgn"
+  },
+  {
+    "Year": 1975,
+    "Name": "Hastings Challengers",
+    "Winner": "D Rumens, S Kagan",
+    "StartDate": "1975.12.29",
+    "EndDate": "1976.01.08",
+    "GamesCount": "46^",
+    "DateUpdated": "2026.04.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1975,
+    "Name": "Hastings other sections",
+    "Winner": "",
+    "StartDate": "1975.12.29",
+    "EndDate": "1976.01.08",
+    "GamesCount": "7^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "BBC TV Master Game",
+    "Winner": "William Hartston",
+    "StartDate": "1976.00",
+    "EndDate": "",
+    "GamesCount": "12",
+    "DateUpdated": "2026.04.13",
+    "PgnFileName": "197600bbctv.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "Simuls Korchnoi, Bronstein",
+    "Winner": "",
+    "StartDate": "1976.01.17",
+    "EndDate": "1976.01.23",
+    "GamesCount": "included in Centymca file",
+    "DateUpdated": "",
+    "PgnFileName": "centymca.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "Centymca Speed",
+    "Winner": "Bronstein, Taimanov",
+    "StartDate": "1976.01.22",
+    "EndDate": "",
+    "GamesCount": "included in Centymca file",
+    "DateUpdated": "",
+    "PgnFileName": "centymca.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "Young ENG v USSR Rapid",
+    "Winner": "USSR 12Â½-5Â½ ENG",
+    "StartDate": "1976.01.24",
+    "EndDate": "",
+    "GamesCount": "18",
+    "DateUpdated": "2015.10.08",
+    "PgnFileName": "197601youngengvsussr.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "London-Belgrade telex",
+    "Winner": "drawn",
+    "StartDate": "1976.04.03",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2026.04.21",
+    "PgnFileName": "197604londonbelgrade.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "Birmingham Intern'l",
+    "Winner": "Jonathan Mestel",
+    "StartDate": "1976.04.12",
+    "EndDate": "1976.04.24",
+    "GamesCount": "19+6",
+    "DateUpdated": "2019.03.27",
+    "PgnFileName": "197604birmingham.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "31st West of England",
+    "Winner": "Derek Wise, S Taulbut",
+    "StartDate": "1976.04.15",
+    "EndDate": "1976.04.19",
+    "GamesCount": "33",
+    "DateUpdated": "2026.01.30",
+    "PgnFileName": "197604wecu.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "West of England other",
+    "Winner": "",
+    "StartDate": "1976.04.15",
+    "EndDate": "1976.04.19",
+    "GamesCount": "1^",
+    "DateUpdated": "2026.01.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "Robert Silk, London",
+    "Winner": "Five-way tie",
+    "StartDate": "1976.07.05",
+    "EndDate": "1976.07.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "SCO-ch",
+    "Winner": "P Giulian, R McKay",
+    "StartDate": "1976.07.17",
+    "EndDate": "1976.07.23",
+    "GamesCount": "",
+    "DateUpdated": "1998.08.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "GBR-ch Portsmouth",
+    "Winner": "Jonathan Mestel",
+    "StartDate": "1976.08.09",
+    "EndDate": "1976.08.20",
+    "GamesCount": "198",
+    "DateUpdated": "2017.09.17",
+    "PgnFileName": "197608bcf.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "GBR-ch other sections",
+    "Winner": "",
+    "StartDate": "1976.08.09",
+    "EndDate": "1976.08.20",
+    "GamesCount": "22^",
+    "DateUpdated": "2024.10.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "London Central YMCA",
+    "Winner": "Max Fuller",
+    "StartDate": "1976.08.27",
+    "EndDate": "1976.09.05",
+    "GamesCount": "55",
+    "DateUpdated": "2021.09.29",
+    "PgnFileName": "197608centymca.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "Paignton Premier",
+    "Winner": "J Kopelovich [Y Afek]",
+    "StartDate": "1976.09.05",
+    "EndDate": "1976.09.11",
+    "GamesCount": "17",
+    "DateUpdated": "2024.10.31",
+    "PgnFileName": "197609paignton.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "London vs New York telex",
+    "Winner": "New York",
+    "StartDate": "1976.09.11",
+    "EndDate": "",
+    "GamesCount": "14",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "Guernsey Open 2nd",
+    "Winner": "Max Fuller",
+    "StartDate": "1976.10.03",
+    "EndDate": "1976.10.09",
+    "GamesCount": "16",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": "197610guernsey.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "Islington Open 12th",
+    "Winner": "George Botterill",
+    "StartDate": "1976.12.17",
+    "EndDate": "1976.12.19",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "Hastings Premier",
+    "Winner": "Oleg Romanishin",
+    "StartDate": "1976.12.29",
+    "EndDate": "1977.01.15",
+    "GamesCount": "105",
+    "DateUpdated": "2021.10.29",
+    "PgnFileName": "197612hast.pgn"
+  },
+  {
+    "Year": 1976,
+    "Name": "Hastings Challengers",
+    "Winner": "Jonathan Tisdall",
+    "StartDate": "1976.12.29",
+    "EndDate": "1977.01.08",
+    "GamesCount": "55^",
+    "DateUpdated": "2026.04.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1976,
+    "Name": "Hastings other sections",
+    "Winner": "",
+    "StartDate": "1976.12.29",
+    "EndDate": "1977.01.08",
+    "GamesCount": "26^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Islington-Slater",
+    "Winner": "M Fuller, J Plaskett",
+    "StartDate": "1977.02.19",
+    "EndDate": "1977.02.27",
+    "GamesCount": "(55)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Telex Match ENG-Iceland",
+    "Winner": "Drawn 4-4",
+    "StartDate": "1977.02.19",
+    "EndDate": "",
+    "GamesCount": "(8)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Walbrook Birmingham Int",
+    "Winner": "George Botterill",
+    "StartDate": "1977.04.05",
+    "EndDate": "1977.04.17",
+    "GamesCount": "66",
+    "DateUpdated": "2023.07.23",
+    "PgnFileName": "197704birmingham.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "Midland Open",
+    "Winner": "Bill Stirling",
+    "StartDate": "1977.04.05",
+    "EndDate": "1977.04.17",
+    "GamesCount": "28^",
+    "DateUpdated": "2023.07.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "WECU-ch32 Cheltenham",
+    "Winner": "Adrian Hollis",
+    "StartDate": "1977.04.07",
+    "EndDate": "1977.04.11",
+    "GamesCount": "28",
+    "DateUpdated": "2023.01.23",
+    "PgnFileName": "197704wecu.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "Slater Young Experts",
+    "Winner": "Five-way tie",
+    "StartDate": "1977.04.07",
+    "EndDate": "1977.04.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Southend SCCU Ch",
+    "Winner": "H Macpherson, C Cubitt",
+    "StartDate": "1977.04.08",
+    "EndDate": "1977.04.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Southend Open",
+    "Winner": "B Simm",
+    "StartDate": "1977.04.08",
+    "EndDate": "1977.04.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Ilford Open",
+    "Winner": "Michael Franklin",
+    "StartDate": "1977.06.03",
+    "EndDate": "1977.06.06",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "SCO-ch Glasgow",
+    "Winner": "Craig Pritchett",
+    "StartDate": "1977.07.16",
+    "EndDate": "1977.07.23",
+    "GamesCount": "56",
+    "DateUpdated": "1998.08.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "BBC TV Master Game",
+    "Winner": "Anatoly Karpov",
+    "StartDate": "1977",
+    "EndDate": "",
+    "GamesCount": "13",
+    "DateUpdated": "1997",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "GBR-ch Brighton",
+    "Winner": "George Botterill",
+    "StartDate": "1977.08.08",
+    "EndDate": "1977.08.19",
+    "GamesCount": "220",
+    "DateUpdated": "2020.04.27",
+    "PgnFileName": "197708bcf.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "GBR-ch other",
+    "Winner": "",
+    "StartDate": "1977.08.08",
+    "EndDate": "1977.08.19",
+    "GamesCount": "21^",
+    "DateUpdated": "2025.11.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "GBR-ch Women's Play-Off",
+    "Winner": "",
+    "StartDate": "1978.01",
+    "EndDate": "1978.01",
+    "GamesCount": "4^",
+    "DateUpdated": "2020.04.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Karpov vs England Simul",
+    "Winner": "Karpov 9Â½-Â½",
+    "StartDate": "1977.08.14",
+    "EndDate": "",
+    "GamesCount": "10",
+    "DateUpdated": "2026.01.01",
+    "PgnFileName": "197708karpovsimul.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Miguel Quinteros",
+    "StartDate": "1977.08.26",
+    "EndDate": "1977.09.01",
+    "GamesCount": "193+1",
+    "DateUpdated": "2024.08.26",
+    "PgnFileName": "197708lloyds.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "Chorley",
+    "Winner": "John Littlewood",
+    "StartDate": "1977.08.27",
+    "EndDate": "1977.09.04",
+    "GamesCount": "45",
+    "DateUpdated": "1999.07.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Lord John Cup, London",
+    "Winner": "Vlastimil Hort",
+    "StartDate": "1977.09.05",
+    "EndDate": "1977.09.14",
+    "GamesCount": "45",
+    "DateUpdated": "2024.06.30",
+    "PgnFileName": "197709lordjohn.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "Guernsey Open 3rd",
+    "Winner": "four-way tie",
+    "StartDate": "1977.10.16",
+    "EndDate": "1977.10.22",
+    "GamesCount": "9",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": "197710guernsey.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "ENG-NED m Hartley W'ney",
+    "Winner": "Drawn",
+    "StartDate": "1977.10.29",
+    "EndDate": "1977.10.30",
+    "GamesCount": "8/20",
+    "DateUpdated": "2026.04.28",
+    "PgnFileName": "197710gbrned.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "British Lightning Team Ch",
+    "Winner": "Leicester",
+    "StartDate": "1977.11.10",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "British Lightning Individ Ch",
+    "Winner": "R Lobo",
+    "StartDate": "1977.11.11",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Islington Open 13th",
+    "Winner": "John Nunn",
+    "StartDate": "1977.12.16",
+    "EndDate": "1977.12.18",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Hastings Premier",
+    "Winner": "R Dzindzhihasvili",
+    "StartDate": "1977.12.28",
+    "EndDate": "1978.01.14",
+    "GamesCount": "105",
+    "DateUpdated": "2020.11.01",
+    "PgnFileName": "197712hast.pgn"
+  },
+  {
+    "Year": 1977,
+    "Name": "Hastings Challengers",
+    "Winner": "Amikam Balshan",
+    "StartDate": "1977.12.28",
+    "EndDate": "1978.01.07",
+    "GamesCount": "42^",
+    "DateUpdated": "2025.06.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1977,
+    "Name": "Hastings other sections",
+    "Winner": "",
+    "StartDate": "1977.12.28",
+    "EndDate": "1978.01.07",
+    "GamesCount": "19^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1978,
+    "Name": "Petrosian / Hort Simuls",
+    "Winner": "",
+    "StartDate": "1978.01.15",
+    "EndDate": "1978.01.22",
+    "GamesCount": "6",
+    "DateUpdated": "2025.08.19",
+    "PgnFileName": "197801gmsimuls.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "Aaronson Masters",
+    "Winner": "A Haik, M Franklin",
+    "StartDate": "1978.03.23",
+    "EndDate": "1978.03.29",
+    "GamesCount": "155",
+    "DateUpdated": "2024.08.03",
+    "PgnFileName": "197803aaronson.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "Robert Silk Int'l London",
+    "Winner": "Jon Speelman",
+    "StartDate": "1978.07.16",
+    "EndDate": "1978.07.26",
+    "GamesCount": "45/45",
+    "DateUpdated": "2024.10.24",
+    "PgnFileName": "197807robertsilk.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "GBR-ch Ayr",
+    "Winner": "Jon Speelman",
+    "StartDate": "1978.08.07",
+    "EndDate": "1978.08.18",
+    "GamesCount": "235",
+    "DateUpdated": "2017.09.17",
+    "PgnFileName": "197808bcf.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "GBR-ch others",
+    "Winner": "",
+    "StartDate": "1978.08.07",
+    "EndDate": "1978.08.18",
+    "GamesCount": "12^",
+    "DateUpdated": "2024.08.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1978,
+    "Name": "World U26 Team Ch'ship",
+    "Winner": "England (in Mexico)",
+    "StartDate": "1978.08.21",
+    "EndDate": "1978.09.06",
+    "GamesCount": "(432)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1978,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "3-way",
+    "StartDate": "1978.08.24",
+    "EndDate": "1978.08.31",
+    "GamesCount": "235 + PDF",
+    "DateUpdated": "2026.05.05",
+    "PgnFileName": "197808lloyds.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "EEC Team Championship",
+    "Winner": "West Germany",
+    "StartDate": "1978.09.03",
+    "EndDate": "1978.09.12",
+    "GamesCount": "112",
+    "DateUpdated": "2026.05.05",
+    "PgnFileName": "197809eecteam.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "Aaronson Open 2nd",
+    "Winner": "Vlastimil Hort",
+    "StartDate": "1978.09.15",
+    "EndDate": "1978.09.17",
+    "GamesCount": "34",
+    "DateUpdated": "2026.01.01",
+    "PgnFileName": "197809aaronson.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "Glasgow Open",
+    "Winner": "four-way tie",
+    "StartDate": "1978.09.22",
+    "EndDate": "1978.09.25",
+    "GamesCount": "97",
+    "DateUpdated": "2025.11.13",
+    "PgnFileName": "197809glasgow.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "Glasgow Junior Intern'l",
+    "Winner": "C McNab, K Deckwerth",
+    "StartDate": "1978.09.23",
+    "EndDate": "1978.09.25",
+    "GamesCount": "30^",
+    "DateUpdated": "2025.11.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1978,
+    "Name": "Guernsey Open 4th",
+    "Winner": "four-way tie",
+    "StartDate": "1978.10.15",
+    "EndDate": "1978.10.21",
+    "GamesCount": "18",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": "197810guernsey.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "Islington Open 14th",
+    "Winner": "J Nunn, A J Mestel, T Taylor",
+    "StartDate": "1978.12.15",
+    "EndDate": "1978.12.17",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1978,
+    "Name": "Hastings Premier",
+    "Winner": "Ulf Andersson",
+    "StartDate": "1978.12.28",
+    "EndDate": "1979.01.14",
+    "GamesCount": "105",
+    "DateUpdated": "2025.06.14",
+    "PgnFileName": "197812hast.pgn"
+  },
+  {
+    "Year": 1978,
+    "Name": "Hastings Challengers",
+    "Winner": "Israel Zilber",
+    "StartDate": "1978.12.28",
+    "EndDate": "1979.01.07",
+    "GamesCount": "20^",
+    "DateUpdated": "2025.11.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1978,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1978.12.28",
+    "EndDate": "1979.01.07",
+    "GamesCount": "17^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "Denmark v England m",
+    "Winner": "Denmark",
+    "StartDate": "1979.03.24",
+    "EndDate": "1979.03.25",
+    "GamesCount": "16",
+    "DateUpdated": "2021.10.04",
+    "PgnFileName": "197903engden.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "Aaronson Masters",
+    "Winner": "Paul Littlewood",
+    "StartDate": "1979.04.12",
+    "EndDate": "1979.04.20",
+    "GamesCount": "124",
+    "DateUpdated": "2026.05.17",
+    "PgnFileName": "197904aaronson.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "Clare Benedict, Cleveland",
+    "Winner": "",
+    "StartDate": "1979.07.14",
+    "EndDate": "1979.07.21",
+    "GamesCount": "(84)",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "GBR-ch Chester",
+    "Winner": "Robert Bellin",
+    "StartDate": "1979.08.06",
+    "EndDate": "1979.08.17",
+    "GamesCount": "259",
+    "DateUpdated": "2018.11.26",
+    "PgnFileName": "197908bcf.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "GBR-ch other sections",
+    "Winner": "",
+    "StartDate": "1979.08.06",
+    "EndDate": "1979.08.17",
+    "GamesCount": "3^",
+    "DateUpdated": "2025.03.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "Lloyds Bank Masters",
+    "Winner": "Murray Chandler",
+    "StartDate": "1979.08.22",
+    "EndDate": "1979.08.30",
+    "GamesCount": "191",
+    "DateUpdated": "2024.04.20",
+    "PgnFileName": "197908lloyds.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "Guernsey Open 5th",
+    "Winner": "Yannick Berthelot",
+    "StartDate": "1979.10.14",
+    "EndDate": "1979.10.20",
+    "GamesCount": "10",
+    "DateUpdated": "2025.10.08",
+    "PgnFileName": "197910guernsey.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "Regency Masters A",
+    "Winner": "James Plaskett",
+    "StartDate": "1979.10.30",
+    "EndDate": "1979.11.08",
+    "GamesCount": "45",
+    "DateUpdated": "2021.08.19",
+    "PgnFileName": "197910ramsgate.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "Regency Masters B",
+    "Winner": "T Wedberg",
+    "StartDate": "1979.10.30",
+    "EndDate": "1979.11.08",
+    "GamesCount": "45^",
+    "DateUpdated": "2021.08.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "Brighton International",
+    "Winner": "Jon Speelman",
+    "StartDate": "1979.12.13",
+    "EndDate": "1979.12.19",
+    "GamesCount": "45",
+    "DateUpdated": "2026.04.13",
+    "PgnFileName": "197912brighton.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "Brighton m P.Wells/Prins",
+    "Winner": "Lod Prins by 3-1",
+    "StartDate": "1979.12.13",
+    "EndDate": "1979.12.16",
+    "GamesCount": "4^",
+    "DateUpdated": "2026.04.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "Islington Open 15th",
+    "Winner": "Richard Britton",
+    "StartDate": "1979.12.21",
+    "EndDate": "1979.12.23",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "Hastings Premier",
+    "Winner": "U Andersson, J Nunn",
+    "StartDate": "1979.12.28",
+    "EndDate": "1980.01.14",
+    "GamesCount": "120",
+    "DateUpdated": "2025.06.16",
+    "PgnFileName": "197912hast.pgn"
+  },
+  {
+    "Year": 1979,
+    "Name": "Hastings Challengers",
+    "Winner": "Luismar Brito",
+    "StartDate": "1979.12.28",
+    "EndDate": "1980.01.07",
+    "GamesCount": "33+2+33^",
+    "DateUpdated": "2025.06.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1979.12.28",
+    "EndDate": "1980.01.07",
+    "GamesCount": "1^",
+    "DateUpdated": "See Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1979,
+    "Name": "Welsh Championship 1980",
+    "Winner": "Howard Williams",
+    "StartDate": "1979.12.30",
+    "EndDate": "1980.01.05",
+    "GamesCount": "20/24",
+    "DateUpdated": "2000.06.22",
+    "PgnFileName": ""
+  }
+]

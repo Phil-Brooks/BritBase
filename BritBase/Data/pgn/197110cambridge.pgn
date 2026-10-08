@@ -1,0 +1,493 @@
+[Event "Cambridge Invitation A"]
+[Site "Cambridge"]
+[Date "1971.10.26"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Botterill, George Steven"]
+[Result "0-1"]
+[ECO "D91"]
+[WhiteElo "2500"]
+[Annotator "Botterill"]
+[PlyCount "112"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Nf3 exd5 9. e3 O-O 10. Be2 (10. b4) 10... Qd6 11. O-O c6 12. a3 Be6 13. Na4 Nd7
+14. b4 Rfc8 15. Nc5 b6 16. Na6 c5 17. bxc5 (17. Qa4 c4 18. b5) 17... bxc5 18.
+Qa4 (18. Nxc5 Nxc5 19. dxc5 Qxc5 20. Nd4 Rab8) 18... c4 19. Rfb1 Rc6 20. Nb4
+Rb6 21. Ne1 a5 22. Na2 Bf8 (22... Rxb1 23. Rxb1 Nb6 24. Qb5 Qxa3) 23. Nc3 Rxb1
+24. Nxb1 Qb6 25. Qc2 Rb8 26. Nc3 Qc6 (26... Qb2 27. Qxb2 Rxb2 28. Bd1) 27. Bd1
+Nb6 (27... Rb3 28. Qc1 Nb6 29. Bxb3 cxb3 30. Nd3 Nc4 31. Ne5) 28. Qc1 Bd7 29.
+g3 Bd6 30. Nf3 Bf5 31. Ne1 h5 32. Bf3 Kg7 33. h4 Rd8 34. Ng2 Bg4 35. Bxg4 hxg4
+36. Qc2 (36. Qd1 f5 37. Qc2) 36... Rb8 37. e4 dxe4 38. Nxe4 Re8 39. Nxd6 Qxd6
+40. Qc3 Rc8 41. Ne3 (41. d5+ Qf6 42. Qxf6+ Kxf6 43. Ne3 Ke5) 41... Nd5 42. Nxd5
+Qxd5 43. Re1 (43. Qe3) 43... Rb8 44. Rc1 Re8 45. Qd2 Re4 46. Rd1 f5 47. Qg5 c3
+48. h5 Re6 49. hxg6 c2 50. Rf1 (50. Rc1 Qf3) 50... Re8 51. Qf4 Rh8 52. f3 gxf3
+53. Qc7+ Kxg6 54. Rf2 Qxd4 55. Qc6+ Kg5 56. Qxc2 Qa1+ (56... Qa1+ 57. Rf1 Rh1+
+58. Kxh1 Qxf1+ 59. Kh2 Qe2+) 0-1
+
+[Event "Cambridge Invitation A"]
+[Site "Cambridge"]
+[Date "1971.10.26"]
+[Round "1"]
+[White "Hartston, William Roland"]
+[Black "Keene, Raymond Dennis"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2390"]
+[BlackElo "2465"]
+[Annotator "Keene"]
+[PlyCount "46"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 g6 2. Nc3 c6 3. d4 d5 4. Nf3 Bg7 (4... Bg4 5. h3 Bxf3 6. Qxf3 dxe4 7.
+Nxe4 Qxd4 8. Bd2) 5. h3 dxe4 6. Nxe4 Nf6 7. Nxf6+ exf6 8. Bc4 (8. Be2 O-O 9.
+O-O Re8) 8... O-O 9. O-O Nd7 (9... Re8 10. c3 Nd7 11. Qb3) 10. Re1 Nb6 11. Bf1
+(11. Bb3 a5 12. a3 a4 13. Ba2 Qc7 14. c4 Be6) 11... Be6 12. b3 Re8 13. c4 Qd7
+14. Bb2 Bf5 15. Rxe8+ Rxe8 16. Qd2 Be4 17. Ne1 h5 18. Rd1 Nc8 19. Bc3 (19. f3
+Bf5 20. g4 hxg4 21. hxg4 Be6 (21... Bxg4 22. fxg4 Qxg4+ 23. Ng2 Bh6 24. Qxh6
+Qxd1 25. d5 Qf3 26. Qf4) 22. d5 cxd5 23. cxd5 Rd8 24. Bc4 b5 25. dxe6 Qxd2 26.
+exf7+ Kh7 27. Rxd2 Rxd2 28. Bc3 bxc4 29. Bxd2 cxb3 30. axb3 Nd6) 19... Nd6 20.
+d5 (20. f3 Bf5 21. g4 hxg4 22. hxg4 Bxg4 23. fxg4 Qxg4+ 24. Ng2 Ne4) 20... c5 (
+20... cxd5 21. f3 Nf5 22. Qf2 (22. fxe4 Bh6 23. Qb2 Be3+ 24. Kh2 Qc7+) 22...
+Bh6 23. Bd2) 21. Qb2 Qe7 22. Nd3 Bxd3 23. Bxd3 b6 (23... b6 24. Kf1 (24. Re1
+Qxe1+) 24... Qd8 (24... Qc7 25. Bxf6 (25. Kg1 Qe7) 25... Nxc4 26. bxc4 Qh2) 25.
+Re1 Rxe1+ 26. Kxe1 Ne8) 1/2-1/2
+
+[Event "Cambridge Invitation A"]
+[Site "Cambridge"]
+[Date "1971.10.27"]
+[Round "2"]
+[White "Hartston, William Roland"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[WhiteElo "2390"]
+[BlackElo "2500"]
+[PlyCount "107"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Be2 b5 11. e5 Bb7 12. Qg3 dxe5 13. fxe5 Qxe5 14. Bf4 Qc5
+15. Be3 Qe5 16. Bf4 Qc5 17. Be3 Qc8 18. Rhf1 O-O 19. Bf3 Nc5 20. Nb3 Nfe4 21.
+Nxe4 Nxe4 22. Qe1 f5 23. Nd2 Bd5 24. Bxe4 fxe4 25. Rxf8+ Qxf8 26. Qg3 Bf6 27.
+Rf1 Qe7 28. Qg4 Rf8 29. Kb1 Qb4 30. Nb3 Qc4 31. Re1 a5 32. Qe2 Qxe2 33. Rxe2 a4
+34. Nd2 Be5 35. g3 Rf5 36. a3 h5 37. Kc1 g5 38. Rf2 g4 39. c3 h4 40. Rg2 hxg3
+41. hxg3 Rh5 42. Nf1 Bc4 43. Nh2 Rh3 44. Nxg4 Rxg3 45. Rxg3 Bxg3 46. Nf6+ Kf7
+47. Nxe4 Bc7 48. Kd2 Kg6 49. Nf2 Kf5 50. Nd1 Ke4 51. Bc5 Kd5 52. Ba7 Bf4+ 53.
+Ne3+ Kc6 54. Bd4 1/2-1/2
+
+[Event "Cambridge Invitation A"]
+[Site "Cambridge"]
+[Date "1971.10.27"]
+[Round "2"]
+[White "Keene, Raymond Dennis"]
+[Black "Botterill, George Steven"]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[WhiteElo "2465"]
+[Annotator "Keene"]
+[PlyCount "53"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 c5 7. e3 Qa5 8. Qb3
+cxd4 9. exd4 Nc6 10. Nf3 Be6 11. c5 (11. Be2) 11... Bg7 12. Bb5 O-O 13. O-O Bf6
+14. Bg3 (14. Bxf6 exf6 15. Ne1) 14... Rfc8 15. Bd3 b6 16. cxb6 axb6 17. Rfc1
+Qa7 18. Re1 Qa3 (18... Na5 19. Qc2 Nc4 20. Bxg6 hxg6 21. Rxe6 fxe6 22. Qxg6+
+Kf8 23. Bf4 Bg7 24. Ng5 Nd6 25. Nxe6+) 19. Qxb6 Qxc3 20. Ba6 Nxd4 21. Bxc8
+Nxf3+ 22. gxf3 Rxc8 23. Kg2 d4 (23... Qa3 24. Rad1) 24. Rxe6 fxe6 (24... Qxa1
+25. Rxf6 exf6 26. Qxf6 Re8 27. Be5 Rxe5 28. Qxe5) 25. Qxe6+ Kg7 26. Be5 Bxe5 (
+26... Qc5 27. Rc1 Qxc1 28. Qxe7+ Kh6 29. Bxf6) 27. Qxe5+ 1/2-1/2
+
+[Event "Cambridge Invitation A"]
+[Site "Cambridge"]
+[Date "1971.10.28"]
+[Round "3"]
+[White "Botterill, George Steven"]
+[Black "Hartston, William Roland"]
+[Result "1-0"]
+[ECO "B82"]
+[BlackElo "2390"]
+[PlyCount "127"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O Be7 9. Be3 Qc7 10. Bd3 a6 11. f4 b5 12. Qf3 O-O 13. Rae1 Bb7 14. Qh3 Nb4
+15. a3 Nxd3 16. cxd3 e5 17. Rc1 Qd8 18. Qf3 Rc8 19. h3 Ba8 20. Na1 exf4 21.
+Qxf4 Nd7 22. Rfd1 Ne5 23. Nb3 h6 24. Nd4 Bg5 25. Qf2 g6 26. Qd2 d5 27. Bxg5
+hxg5 28. Qf2 g4 29. Qg3 Re8 30. Kh2 dxe4 31. dxe4 Qg5 32. h4 Qe7 33. Nd5 Bxd5
+34. Rxc8 Rxc8 35. exd5 f6 36. Re1 Qc5 37. Rxe5 Qxd4 (37... fxe5 38. Qxe5) 38.
+Re6 Rd8 39. Qc7 Qxd5 40. Rxf6 Rd7 41. Qf4 Kg7 42. Rxa6 Qf5 43. Qxf5 gxf5 44.
+Rb6 Rd2 45. Rxb5 Kf6 46. Kg3 Rd3+ 47. Kf4 Rd4+ 48. Ke3 Re4+ 49. Kf2 Rd4 50. Rb4
+Rd3 51. a4 Ke5 52. g3 Rf3+ 53. Kg2 Rd3 54. Rf4 Rb3 55. Rf2 Rb4 56. a5 Ra4 57.
+b4 Rxb4 58. Ra2 Rb7 59. a6 Ra7 60. Ra4 Kf6 61. Kf2 Kg6 62. Ke3 Kf6 63. Kf4 Kg6
+64. Ra5 1-0
+
+[Event "Cambridge Invitation A"]
+[Site "Cambridge"]
+[Date "1971.10.28"]
+[Round "3"]
+[White "Donner, Jan Hein"]
+[Black "Keene, Raymond Dennis"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2500"]
+[BlackElo "2465"]
+[Annotator "Keene"]
+[PlyCount "96"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Nbd7 6. Nf3 Be7 7. Bd3 Nf8 8. h3 h5
+9. g3 Ng6 10. h4 Bd7 11. a3 a6 12. Ng5 Rb8 13. Qe2 Qc7 (13... Qc8) 14. Kf1 Nh7
+15. Nh3 Qc8 16. Kg2 Bxh4 17. gxh4 Nxh4+ 18. Kg3 Bg4 19. Qf1 Bf3 (19... Nf3) 20.
+Rg1 Bg2 21. Qxg2 (21. Rxg2 Qg4+ 22. Kh2 Nf3+ 23. Kh1 Qxh3+ 24. Rh2 Qxh2#) 21...
+Nxg2 22. Kxg2 Nf6 23. f3 Kf8 24. Bd2 g6 25. Ng5 Kg7 26. Bf1 h4 27. a4 Nh5 28.
+Ne2 Qd8 29. Kf2 Qb6 30. Bc3 Qb3 31. a5 b5 32. axb6 Rxb6 33. f4 Re8 34. fxe5
+dxe5 35. Nf3 Rf6 (35... Qc2) 36. Ke3 h3 (36... Rxf3+ 37. Kxf3 Qc2) 37. Bxh3 Kg8
+38. Rg5 Rxf3+ 39. Kxf3 Qxc4 40. Rd1 Nf6 41. Ng3 Nh7 42. Rg4 Qb3 43. Rd2 a5 44.
+Bf1 a4 45. Rd3 Qc2 46. Nf5 c4 47. Re3 Qd1+ 48. Be2 Qh1+ 1-0
+
+[Event "Cambridge Invitation B"]
+[Site "Cambridge"]
+[Date "1971.10.26"]
+[Round "1"]
+[White "Bellin, Robert"]
+[Black "Eales, Richard Geoffrey"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Annotator "Eales"]
+[PlyCount "51"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 c6 6. Nc3 d6 7. cxd6 (7. Qb3 Nd7
+) 7... exd6 8. Nxd5 cxd5 9. Bxd5 dxe5 10. Qb3 Qc7 11. Nf3 Bd6 12. O-O O-O 13.
+d3 Nd7 (13... Nc6) 14. Be3 Nf6 15. Rac1 Qe7 16. Bg5 h6 17. Bxf6 Qxf6 18. Nd2
+Rb8 19. Rc3 Rd8 20. Rfc1 Bf5 21. Ne4 Qe7 22. h3 Bg6 23. Nxd6 Rxd6 24. Rc7 Rd7
+25. Rxd7 Qxd7 26. Be4 1/2-1/2
+
+[Event "Cambridge Invitation B"]
+[Site "Cambridge"]
+[Date "1971.10.26"]
+[Round "1"]
+[White "Cafferty, Bernard"]
+[Black "Williams, Arthur Howard"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2440"]
+[Annotator "Williams, A Howard"]
+[PlyCount "62"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 e4 5. Nd2 Bb4 6. e3 O-O 7. g3 (7. Qc2)
+7... Bxc3 8. bxc3 Re8 9. Bg2 d6 10. O-O Bg4 11. Qc2 (11. Qb3) (11. f3) 11...
+Be2 12. Re1 Bd3 13. Qa4 Qd7 (13... a6) (13... Nd7) 14. Ba3 Qf5 15. h3 Nd7 16.
+c5 dxc5 17. Bxc5 Nxc5 18. dxc5 Re6 19. g4 Qe5 20. Rac1 h5 21. Nxe4 Bxe4 22. f4
+Qf6 (22... Qxc5 23. Bxe4 Rae8 24. Bxc6 Rxe3 25. Rxe3 Qxe3+ 26. Kh2 bxc6) (22...
+Qd5 23. Rcd1 Bxg2 24. Rxd5 Bxd5) 23. Bxe4 Qh4 24. Bg2 Rae8 (24... hxg4 25. f5)
+25. Qd1 Rxe3 26. Rxe3 Rxe3 27. Qd2 Qg3 (27... Qe7) 28. Qf2 Rxc3 29. Qxg3 Rxg3
+30. gxh5 Ra3 31. Rb1 Nd8 1/2-1/2
+
+[Event "Cambridge Invitation B"]
+[Site "Cambridge"]
+[Date "1971.10.27"]
+[Round "2"]
+[White "Eales, Richard Geoffrey"]
+[Black "Williams, Arthur Howard"]
+[Result "1/2-1/2"]
+[ECO "B89"]
+[PlyCount "44"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8. a3
+O-O 9. O-O Bd7 10. Ba2 Nxd4 11. Bxd4 Bc6 12. Qe2 (12. Qd3 Qa5 13. f4 e5 14. Be3
+Ng4 15. Nd5 Bxd5 16. Bxd5 Nxe3 17. Qxe3) 12... e5 13. Be3 Nxe4 14. Nd5 Nf6 15.
+Rad1 Nxd5 16. Bxd5 Qa5 17. Qf3 Rac8 18. Rd2 Kh8 19. Qd1 a6 (19... Bxd5 20. Rxd5
+Qa4 21. c3 Qxd1) 20. c3 Qb5 21. a4 Qa5 22. Qb3 Bxd5 (22... Bxd5 23. Rxd5 Qc7
+24. Rfd1 f5 25. f4 e4 26. R1d4) 1/2-1/2
+
+[Event "Cambridge Invitation B"]
+[Site "Cambridge"]
+[Date "1971.10.28"]
+[Round "3"]
+[White "Cafferty, Bernard"]
+[Black "Eales, Richard Geoffrey"]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[WhiteElo "2440"]
+[PlyCount "69"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 d5 3. d4 g6 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Bg7 8.
+Bxc4 c5 9. Ne2 O-O 10. O-O Nc6 11. Rb1 Na5 12. Bd3 Be6 13. Qa4 b6 14. Rfd1 cxd4
+15. cxd4 Qd6 16. Bg3 Bd7 17. Qc2 Qa3 18. Rdc1 Rac8 19. Qd2 Be6 20. Nc3 Nc4 21.
+Bxc4 Bxc4 22. Rb2 Rc6 23. Nb1 Qa6 24. Rbc2 Rfc8 25. Qb4 Bf8 26. Qb2 e6 27. f3
+Qb5 28. Qxb5 Bxb5 29. Rxc6 Rxc6 30. Rxc6 Bxc6 31. Bb8 Bb4 32. Bxa7 Bd5 33. Bxb6
+Bxa2 34. Bc5 Bxc5 35. Nc3 1/2-1/2
+
+[Event "Cambridge Invitation B"]
+[Site "Cambridge"]
+[Date "1971.10.28"]
+[Round "3"]
+[White "Williams, Arthur Howard"]
+[Black "Bellin, Robert"]
+[Result "1-0"]
+[ECO "A99"]
+[Annotator "Williams, A Howard"]
+[PlyCount "77"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 f5 2. d4 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 a5 8. b3 Qe8
+9. Bb2 c6 10. Rc1 Bd7 11. e3 Na6 12. Ne2 Qh5 13. Nf4 Qh6 14. c5 d5 15. Ne5 Bc8
+16. Bc3 Nb8 17. f3 Nbd7 18. Ned3 Nh5 19. a4 (19. Qd2) 19... Bd8 20. Nxh5 Qxh5
+21. Bd2 Bc7 22. Nf4 Qf7 23. e4 dxe4 24. fxe4 e5 25. Ne2 Nf6 26. exf5 Qh5 27.
+dxe5 Bxe5 28. Bf4 Bxf5 29. Bxe5 Ng4 (29... Bg4 30. Bxf6 Bxe2 31. Bf3) 30. h3
+Nxe5 (30... Ne3 31. Nf4) 31. g4 Bxg4 (31... Nxg4 32. Ng3) 32. hxg4 Nxg4 33. Qd6
+Rfe8 34. Bf3 Re5 35. Rf2 Qg5 36. Bxg4 Rxe2 37. Rxe2 Qxg4+ (37... Qxc1+ 38. Kg2)
+38. Rg2 Qe4 39. Qd2 1-0
+
+[Event "Cambridge Invitation C"]
+[Site "Cambridge"]
+[Date "1971.10.26"]
+[Round "1"]
+[White "Hartston, Jana"]
+[Black "Blackstock, Leslie Steven F"]
+[Result "1-0"]
+[ECO "E18"]
+[PlyCount "169"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Nh4 Bxg2 10. Nxg2 c5 11. d5 Bf6 12. Rb1 Re8 13. e3 exd5 14. Qxd5 Nc6
+15. b3 Qe7 16. Rd1 Rad8 17. Bb2 Nb4 18. Qf5 Bxb2 19. Rxb2 d5 20. cxd5 Qe5 21.
+Qxe5 Rxe5 22. d6 Re6 23. Rbd2 Nc6 24. Nf4 Re4 25. Nd5 Kf8 26. Nc3 Re6 27. Kg2
+Rd7 28. h4 Nd8 29. Nb5 f5 30. Rd5 g6 31. Kf3 Nf7 32. Kf4 Rf6 33. a4 Ke8 34. a5
+bxa5 35. Rxc5 Nxd6 36. Nxd6+ Rfxd6 37. Rxd6 Rxd6 38. Rxa5 Rd7 39. Kg5 Kf7 40.
+Ra6 (40. h5) 40... Kg7 41. g4 (41. h5) 41... fxg4 42. Kxg4 Rb7 43. e4 h5+ 44.
+Kg5 Rb5+ 45. Kf4 Rxb3 46. Rxa7+ Kh6 47. f3 Rb1 48. Rf7 Rh1 49. Kg3 Rg1+ 50. Kh2
+Re1 51. Kg2 Re2+ 52. Kg3 Re1 53. Re7 Rg1+ 54. Kh2 Re1 55. Kg2 Re2+ 56. Kg3 Re1
+57. e5 Rg1+ 58. Kh2 Ra1 59. Rd7 Re1 60. f4 Re4 61. Kg3 Re3+ 62. Kg2 Ra3 63. Rf7
+Ra2+ 64. Kf3 Ra3+ 65. Ke4 Ra4+ 66. Kd5 Ra5+ 67. Ke6 Ra6+ 68. Kd7 Ra7+ 69. Ke6
+Ra6+ 70. Kd5 Ra5+ 71. Kc6 Ra6+ 72. Kc5 Ra5+ 73. Kb6 Ra1 74. e6 Rb1+ 75. Kc6
+Rc1+ 76. Kd7 Rd1+ 77. Ke8 Ra1 78. e7 Ra8+ 79. Kd7 Ra7+ 80. Kc6 Ra6+ 81. Kb7 Re6
+82. Kc7 Re1 83. Kd7 Rd1+ 84. Ke8 Ra1 85. Rf8 1-0
+
+[Event "Cambridge Invitation C"]
+[Site "Cambridge"]
+[Date "1971.10.26"]
+[Round "1"]
+[White "Patterson, Nicholas James"]
+[Black "Stean, Michael Frank"]
+[Result "0-1"]
+[ECO "B93"]
+[WhiteElo "2340"]
+[PlyCount "60"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. Nf3
+Bg7 9. O-O Nbd7 10. Qe1 b5 11. Kh1 Bb7 12. Bd2 e5 13. fxe5 dxe5 14. a4 b4 15.
+Na2 a5 16. c3 b3 17. Nc1 Nc5 18. Bb5+ Nfd7 19. Ng5 O-O 20. Qh4 h6 21. Nxf7 Rxf7
+22. Rxf7 Kxf7 23. Bc4+ Ne6 24. Bxe6+ Kxe6 25. Nxb3 Nf6 26. Be3 Nxe4 27. Rd1 Kf7
+28. Bb6 Qxb6 29. Rd7+ Kg8 30. Nd4 exd4 0-1
+
+[Event "Cambridge Invitation C"]
+[Site "Cambridge"]
+[Date "1971.10.27"]
+[Round "2"]
+[White "Hartston, Jana"]
+[Black "Patterson, Nicholas James"]
+[Result "0-1"]
+[ECO "B33"]
+[BlackElo "2340"]
+[Annotator "Patterson"]
+[PlyCount "60"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 h6 7. Nd6+ (7. Nd5
+Nxd5 8. exd5 a6 9. dxc6 axb5 10. cxd7+ Bxd7 11. Bd3 Bc6 12. O-O Qd5 13. Qg4 h5)
+7... Bxd6 8. Qxd6 Qe7 9. Qd1 O-O 10. Bc4 Qb4 11. Bd3 d5 12. a3 Qc5 (12... Qa5
+13. Bd2) 13. Nxd5 Nxd5 14. exd5 e4 15. Bxe4 Re8 16. O-O Rxe4 17. dxc6 Qxc6 (
+17... Bg4 18. cxb7) 18. Qd8+ (18. Be3) 18... Re8 19. Qd3 Be6 20. Rd1 Bd5 21.
+Be3 Bxg2 22. Qd6 Qxc2 23. Kxg2 (23. Rd2) 23... Rxe3 24. Qd4 Re2 25. Rac1 Qg6+ (
+25... Qxb2 26. Qxb2 Rxb2 27. Rd7) 26. Kh1 Rae8 27. b4 Qf5 28. Kg1 R8e4 29. Qxa7
+Qg4+ 30. Kh1 Qf3+ (30... Qf3+ 31. Kg1 Rg4+ 32. Kf1 Re8) 0-1
+
+[Event "Cambridge Invitation C"]
+[Site "Cambridge"]
+[Date "1971.10.28"]
+[Round "3"]
+[White "Patterson, Nicholas James"]
+[Black "Blackstock, Leslie Steven F"]
+[Result "0-1"]
+[ECO "B76"]
+[WhiteElo "2340"]
+[PlyCount "79"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bd7 7. Bb3 g6 8. f3
+Bg7 9. Be3 O-O 10. h4 Qa5 11. h5 Nxh5 12. g4 Nf6 13. Qd2 Rac8 14. O-O-O Ne5 15.
+Bh6 Bxh6 16. Rxh6 Rxc3 17. bxc3 Bxg4 18. Rxh7 Kxh7 19. fxg4 Nexg4 20. Rh1+ Kg8
+21. Nf5 Nxe4 22. Nh6+ Nxh6 23. Qxh6 Qg5+ 24. Qxg5 Nxg5 25. Rg1 Ne4 26. Rxg6+
+Kh7 27. Rg1 Nxc3 28. Kd2 Ne4+ 29. Ke3 f5 30. Bd5 Nc5 31. Rh1+ Kg7 32. Rg1+ Kf6
+33. Rh1 Ke5 34. Bc4 Rf6 35. Rh7 e6 36. Kf3 Rg6 37. c3 Rg4 38. Bb3 Rg1 39. Kf2
+Rc1 40. Rh3 0-1
+
+[Event "Cambridge Invitation C"]
+[Site "Cambridge"]
+[Date "1971.10.28"]
+[Round "3"]
+[White "Stean, Michael Frank"]
+[Black "Hartston, Jana"]
+[Result "1-0"]
+[ECO "B14"]
+[PlyCount "49"]
+[EventDate "1971.10.26"]
+[EventType "tourn"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 a5 11. O-O Bf5 12. Nf4 Rc8 13. Re1 Re8 14. h3 h5
+15. Be3 Rc4 16. Qd1 Qd6 17. Rc1 Rcc8 18. Qe2 Kf8 19. g4 hxg4 20. hxg4 Bd7 21.
+g5 Nh7 22. Nd3 Nc4 23. Bf4 Qb6 24. Nc5 Rxc5 25. dxc5 1-0
+

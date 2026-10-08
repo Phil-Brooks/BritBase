@@ -1,0 +1,827 @@
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.24"]
+[Round "1"]
+[White "Gliksman, Darko"]
+[Black "Botterill, George Steven"]
+[Result "1/2-1/2"]
+[WhiteElo "2385"]
+[Annotator "Saunders, John"]
+[SetUp "1"]
+[FEN "8/p1r3k1/8/6pp/1P1R2P1/4Pp2/P4P2/6K1 b - - 0 41"]
+[PlyCount "43"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+41... Rc1+ 42. Kh2 h4 43. Rd5 Kg6 44. Rf5 Rc4 45. Kh3 Rxb4 46. Rxf3 Ra4 47. Rf5
+Ra3 $1 (47... Rxa2 $2 48. f4 $1 gxf4 49. exf4 Rf2 50. Kxh4 $16) 48. Rb5 a5 49.
+Rb6+ Kf7 50. Rb3 Rxa2 51. f4 Rf2 52. fxg5 a4 53. Ra3 Rf3+ 54. Kxh4 Kg6 55. Rc3
+Kg7 56. Ra3 Kg6 57. Rxa4 Rxe3 58. Ra6+ Kg7 59. g6 Re1 60. Kh5 Rh1+ 61. Kg5 Rb1
+62. Ra7+ Kg8 {Source: CHESS, Sept 1971, p362} 1/2-1/2
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.24"]
+[Round "1"]
+[White "Puhm, Alar"]
+[Black "Smith, Roger Rance"]
+[Result "0-1"]
+[Annotator "Saunders, John"]
+[SetUp "1"]
+[FEN "3qr1k1/pb1rbp1p/1pn1pnpB/8/1PBP4/P2Q1NN1/5PPP/3RR1K1 w - - 0 19"]
+[PlyCount "18"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+19. Rxe6 $2 fxe6 20. Bxe6+ Kh8 21. b5 $2 (21. d5) 21... Nxd4 $2 (21... Rxd4 $1
+$19 {I wonder whether annotator Botterill got the moves wrong here...}) 22.
+Nxd4 $4 (22. Bxd7 Bxf3 23. gxf3 Qxd7 24. Qxd4 $11) 22... Rxd4 $1 $19 23. Qxd4
+Qxd4 24. Rxd4 Bc5 $1 25. Rd7 Nxd7 26. Bxd7 Re1+ 27. Nf1 Bd5 {"and White was
+dead" (assume "resigns"). Source: CHESS, Sept 1971, p361.} 0-1
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.24"]
+[Round "1"]
+[White "Wright, Daniel"]
+[Black "Weichert, Hans Dieter"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "2340"]
+[Annotator "Saunders, John"]
+[PlyCount "73"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Qc2 O-O 6. e4 fxe4 7. Nxe4 Nxe4 8.
+Qxe4 d6 9. g4 Nc6 {(move order unknown up to this point)} 10. d5 Ne5 11. Nxe5
+Bxe5 12. f4 Bxg4 13. fxe5 Bf3 14. Qh4 Bxh1 15. Bh3 dxe5 (15... c6) 16. Be6+ Kh8
+17. Bg5 Rf6 18. O-O-O (18. Bxf6+ exf6 19. Ke2) 18... Bf3 19. Rg1 Rxe6 20. dxe6
+Qd6 (20... Qd3 $1 $17 {Houdini}) 21. Bf6+ exf6 22. Qxf6+ Kg8 23. Qf7+ Kh8 24.
+e7 e4 25. Kb1 c6 26. e8=R+ Rxe8 27. Qxe8+ Kg7 28. h4 Qd3+ (28... Qf6) 29. Ka1
+Qxc4 30. Qe5+ Kh6 $4 (30... Kf7 $13) 31. Qf6 Qg8 32. h5 (32. Rg5 $1 e3 (32...
+Qg7 33. Rh5+ Bxh5 34. Qg5#) (32... Qe8 33. Re5 $18) 33. Re5 e2 34. Qf4+ $18)
+32... Qe8 (32... Bxh5 33. Qg5+ Kg7 34. Qxh5 $18) 33. a3 Qg8 34. Qg5+ Kg7 35.
+hxg6 h5 36. Qe7+ Kh6 37. Qf7 {Source: CHESS, Sept 1971, p361 (notes by
+Botterill)} 1-0
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.25"]
+[Round "2"]
+[White "Durao, Joaquim"]
+[Black "Puhm, Alar"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2280"]
+[PlyCount "53"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O a6 9. Be3 Qc7 10. f4 b5 11. Bd3 Be7 12. Qf3 Bb7 13. Rae1 O-O 14. Qh3 g6 15.
+f5 b4 16. Nd1 exf5 17. exf5 Ne5 18. Bh6 Rfe8 19. Bg5 Rf8 20. Ne3 h5 21. fxg6
+fxg6 22. Bxg6 (22. Qe6+ Kg7 23. Nd4 $18) 22... Nxg6 23. Qe6+ Kh7 24. Bxf6 Rae8
+(24... Bxf6 25. Rxf6 Qg7 26. Rxf8 Rxf8 27. Nf5 $16) 25. Rf5 Nf4 26. Rxh5+ Nxh5
+27. Qf5+ {Sources: CHESS, November 1971, p51; The Times, 7 August 1971} 1-0
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.25"]
+[Round "2"]
+[White "Smith, Roger Rance"]
+[Black "Ciocaltea, Victor"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[BlackElo "2460"]
+[PlyCount "90"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Bg4 7. O-O Nc6 8. Be3
+Nd7 9. d5 Na5 10. Nd2 Bxe2 11. Qxe2 c5 12. f4 a6 13. Nf3 Rb8 14. Rad1 Nb6 15.
+Nd2 Qd7 16. e5 Na4 17. Nxa4 Qxa4 18. b3 Qd7 19. Ne4 b5 20. e6 fxe6 21. Ng5 exd5
+22. cxd5 Nb7 23. Ne6 Rf7 24. f5 Nd8 25. Nxg7 Kxg7 26. Qb2+ Kg8 27. Bh6 Rf6 28.
+fxg6 hxg6 29. Rxf6 exf6 30. Qxf6 Kh7 31. Re1 Rb7 32. Bg5 Nf7 33. Re4 $2 (33.
+Re6 $1 Ne5 34. Bf4 $18) 33... Qf5 34. Rh4+ Kg8 35. Qxf5 gxf5 36. Bf6 a5 37. Rh5
+a4 38. Rxf5 Ra7 39. Kf2 axb3 40. axb3 Ra2+ 41. Kg3 Rd2 42. h4 Rd3+ 43. Rf3 Rxd5
+44. Kf4 Ne5 45. Bxe5 dxe5+ {Source: CHESS, September 1971, p362} 1/2-1/2
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.26"]
+[Round "3"]
+[White "Botterill, George Steven"]
+[Black "Eslon, Jaan"]
+[Result "1-0"]
+[Annotator "Saunders, John"]
+[SetUp "1"]
+[FEN "4rrk1/1b1n1pb1/pp1p2pp/2qP4/P1p1PP1B/2N3N1/1P1Q2PP/4RR1K w - - 0 21"]
+[PlyCount "17"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+21. f5 Qd4 22. Qc1 g5 $4 (22... Qe5 23. f6 Bxf6 $11 (23... Nxf6 $2 24. Nf5 gxf5
+25. Rxf5 Qd4 26. Bxf6 $18)) (22... Kh7 23. Nge2 Qe5 24. Bf2 Qe7 $15) 23. f6 $1
+Nxf6 24. Nf5 Qc5 25. Bxg5 Ng4 26. Bxh6 Nxh6 27. Nxh6+ Kh7 28. Nf5 Re5 29. Qg5 {
+Source: CHESS, Sept 1971, p363} 1-0
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.27"]
+[Round "4"]
+[White "Gliksman, Darko"]
+[Black "Durao, Joaquim"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2385"]
+[Annotator "Saunders, John"]
+[PlyCount "69"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. O-O Bg4 8. d5
+Bxf3 9. exf3 Na5 10. b3 c5 11. Bb2 a6 12. Bh3 Rb8 13. f4 b5 14. cxb5 axb5 15.
+f5 b4 16. Ne2 c4 17. fxg6 hxg6 18. Bd4 cxb3 19. axb3 Rb5 20. Nf4 g5 $2 21. Bxf6
+(21. Qd3) 21... Bxf6 22. Qd3 Qb6 (22... Qb8) 23. Ne6 $1 $18 Nxb3 24. Nxf8 Nxa1
+25. Nd7 Qa5 26. Nxf6+ exf6 27. Qb1 (27. Be6 $3 $18) 27... Rxd5 28. Qxa1 Qxa1
+29. Rxa1 f5 30. Rb1 g4 31. Bf1 Rd4 32. Be2 f4 33. Rd1 Re4 34. Bd3 Rd4 35. Bh7+
+{Source: CHESS, Sept 1971, p363} 1-0
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.28"]
+[Round "5"]
+[White "Ciocaltea, Victor"]
+[Black "Gliksman, Darko"]
+[Result "1-0"]
+[ECO "B79"]
+[WhiteElo "2460"]
+[BlackElo "2385"]
+[PlyCount "105"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.08.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.08.29"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Qa5 11. O-O-O Rfc8 12. h4 Ne5 13. Kb1 Nc4 14. Bxc4 Rxc4 15. Nb3 Qc7 16. Bd4 Be6 17. h5 a5 18. Nb5 $5 Qc6 19. Na3 Ra4 20. hxg6 hxg6 21. c3 b5 22. Nc2 Rxa2 $5 (22... b4 $5 $13) 23. Nc1 b4 (23... Ra4 24. b3 Rxd4 $5 $13) 24. Nxa2 b3 25. Na3 bxa2+ 26. Ka1 Rb8 27. e5 Nd7 28. exd6 Nc5 29. Bxc5 Qxc5 30. dxe7 Qxe7 31. Qd6 {"and White enjoyed a safe material advantage" (Botterill)} Qb7 32. Rd2 Qb3 33. Qc7 Bf6 34. Qxa5 Qb7 35. Re1 Ra8 36. Qb5 Qc7 37. Rxe6 fxe6 38. Rd7 Qf4 39. Kxa2 Rb8 40. Qc4 Qe3 41. Qd3 Qg5 42. g4 Rd8 43. Rxd8+ Bxd8 44. Nc4 Be7 45. Qe4 Qf6 46. f4 Kh7 47. Ne5 Kg7 48. g5 Qf5 49. Qxf5 exf5 50. Kb3 Bc5 51. Kc4 Be3 52. Nd3 Kf7 53. Kd5 {Sources: Revista de Sah, #10/1971, p149-150. Full score contributed by Florin Dan, 20 October 2024; (moves 1-36) CHESS, September 1971, p364} 1-0
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.29"]
+[Round "6"]
+[White "Rischbieth, Norman"]
+[Black "Durao, Joaquim"]
+[Result "0-1"]
+[BlackElo "2280"]
+[Annotator "Saunders, John"]
+[SetUp "1"]
+[FEN "r2q1k1r/ppp2p2/3pnp2/2bNp3/4P1B1/2PP4/PP3P1P/R2Q1RK1 b - - 0 16"]
+[PlyCount "13"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+16... f5 17. Bxf5 Qh4 18. h3 Qg3+ 19. Kh1 Rxh3+ 20. Bxh3 Qxh3+ 21. Kg1 Kg7 22.
+Ne3 Bxe3 {Source: CHESS, Nov 1971, p52} 0-1
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.30"]
+[Round "7"]
+[White "Botterill, George Steven"]
+[Black "Weichert, Hans Dieter"]
+[Result "1-0"]
+[ECO "E66"]
+[Annotator "Saunders, John"]
+[PlyCount "57"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Rb8 11. b3 b5 12. Bb2 e5 13. dxe6 fxe6 14. cxb5 axb5 15.
+Nce4 Bb7 16. Bxf6 Bxf6 17. Rad1 Be7 18. h4 Qb6 19. Nf3 Bxe4 20. Qxe4 d5 21. Qg4
+Bf6 22. h5 Kh8 23. hxg6 Rg8 24. Bh3 Rxg6 25. Qxe6 Qxe6 26. Bxe6 d4 27. Bf5 Rg7
+28. b4 cxb4 29. Nxd4 {"with a decisive advantage" (Botterill)... Source: CHESS,
+Sept 1971, p364} 1-0
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.31"]
+[Round "8"]
+[White "Gliksman, Darko"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D71"]
+[WhiteElo "2385"]
+[BlackElo "2310"]
+[PlyCount "42"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. g3 Nf6 2. Bg2 d5 3. Nf3 g6 4. c4 Bg7 5. cxd5 Nxd5 6. d4 Nb6 7. Nc3 Nc6 8. d5
+Bxc3+ 9. bxc3 Qxd5 10. Qc2 Bf5 11. Qb2 O-O-O 12. O-O Nc4 13. Qb3 N6a5 14. Ng5
+Nxb3 15. Bxd5 Nxa1 16. Bxc4 f6 17. e4 Bd7 18. Ne6 Bxe6 19. Bxe6+ Kb8 20. Ba3
+Nc2 21. Bxe7 Rd2 {Source: BCM, Sept 1971, p328} 1/2-1/2
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.31"]
+[Round "8"]
+[White "Puhm, Alar"]
+[Black "Wright, Daniel"]
+[Result "0-1"]
+[ECO "B78"]
+[BlackElo "2340"]
+[Annotator "Saunders, John"]
+[PlyCount "58"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Nc6 8. f3
+Bd7 9. Qd2 Rc8 10. Bb3 O-O 11. h4 h5 12. O-O-O Ne5 13. Bh6 Bxh6 14. Qxh6 Rxc3
+15. bxc3 Qa5 16. g4 (16. Kb1 Rc8 17. g4) 16... Qxc3 17. Kb1 a5 18. f4 $2 (18.
+gxh5 $1 $11 a4 19. hxg6 axb3 20. cxb3 fxg6 21. h5 Nxh5 22. Rxh5 gxh5 23. Rg1+
+Bg4 24. Ne6 Rf7 25. fxg4 Qd3+ $11) 18... Nfxg4 $19 19. Qg5 a4 20. fxe5 (20.
+Bxf7+ Nxf7 21. Qxg6+ Kh8 22. Qxh5+ Ngh6 23. Rd3 Qb4+ 24. Ka1 Bg4 $15) 20...
+axb3 21. cxb3 Ne3 22. e6 Bxe6 23. Qxe7 (23. Nxe6 Qc2+ 24. Ka1 Nxd1 25. Rxd1
+Qxd1+ 26. Kb2 Qe2+ 27. Ka1 Rc8 $19) 23... Nxd1 24. Rxd1 Rc8 25. Qxd6 Bg4 26.
+Rg1 Qd3+ 27. Kb2 Qd2+ 28. Kb1 Qe3 29. Rf1 Qd3+ {Source: CHESS, Sept 1971, p365}
+0-1
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.31"]
+[Round "8"]
+[White "Smith, Roger Rance"]
+[Black "Botterill, George Steven"]
+[Result "1/2-1/2"]
+[Annotator "Saunders, John"]
+[SetUp "1"]
+[FEN "r5rk/1ppb1q2/n2p2nb/3Ppp1p/1PP5/2NB1PP1/2QN1B1P/1R3R1K w - - 0 23"]
+[PlyCount "72"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+23. c5 h4 24. Nc4 hxg3 25. Bxg3 dxc5 26. Nxe5 Nxe5 27. Bxe5+ Bg7 28. Bxg7+ Rxg7
+29. Bxa6 Rxa6 30. bxc5 Qh5 31. Rxb7 Rag6 32. Qf2 f4 33. Rbb1 Bh3 34. Rg1 Bg2+
+35. Rxg2 Rxg2 36. Rb8+ Kh7 37. Qxg2 Rxg2 38. Kxg2 Qg5+ 39. Kf2 Qe5 40. Ne4 Qd4+
+41. Kg2 Qg7+ 42. Kh3 Kg6 43. d6 cxd6 44. cxd6 Kf5 45. Rb5+ Ke6 46. Rg5 Qh8+ 47.
+Kg4 Qxh2 48. Rh5 Qg1+ 49. Kxf4 Qc1+ 50. Kg4 Qg1+ 51. Ng3 Kxd6 52. Rg5 Qd1 53.
+Rh5 Ke6 54. Rh1 Qd4+ 55. Ne4 Qg7+ 56. Ng5+ Kf6 57. f4 Qd7+ 58. Kg3 Qd3+ {
+Source: CHESS, Sept 1971, p365} 1/2-1/2
+
+[Event "Oxford International"]
+[Site "Oxford, Manchester College"]
+[Date "1971.08.01"]
+[Round "9"]
+[White "Wright, Daniel"]
+[Black "Botterill, George Steven"]
+[Result "0-1"]
+[ECO "E91"]
+[WhiteElo "2340"]
+[PlyCount "58"]
+[EventDate "1971.07.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 Nf6 4. e4 O-O 5. d4 d6 6. Be2 Nbd7 7. e5 Ne8 8. O-O
+c5 9. exd6 Nxd6 10. d5 Nb6 11. Qb3 e5 12. Be3 Nd7 13. Bd3 h6 14. Nd2 f5 15. f3
+b6 16. Qc2 Qf6 17. Rab1 g5 18. a3 e4 19. fxe4 f4 20. g3 Ne5 21. gxf4 gxf4 22.
+Bxf4 Bh3 23. Bxe5 Qxe5 24. Rxf8+ Rxf8 25. Nb3 Qh5 26. Qe2 Qg5+ 27. Kh1 Bg4 28.
+Rg1 Bxe2 29. Rxg5 Bxd3 {Sources: BCM, September 1971, p328; Sunday Times 
+(London, England), 24 October 24, 1971 (Alexander column)} 0-1
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.25"]
+[Round "1"]
+[White "Brocklesby, Sydney Hugh"]
+[Black "Saunders, John C"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[WhiteElo "1800"]
+[BlackElo "1895"]
+[PlyCount "45"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "John Saunders"]
+[Source "BritBase"]
+[SourceDate "2021.01.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.01.09"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. d4 Nbd7 7. O-O c6 8. Rb1
+Qc7 9. Qc2 e5 10. dxe5 dxe5 11. Nd2 Re8 12. Rd1 Nf8 13. Nde4 Nxe4 14. Nxe4 Bf5
+15. b3 Ne6 16. e3 Ng5 17. Bb2 Nxe4 18. Bxe4 Bg4 19. Rd2 Rad8 20. Rxd8 Rxd8 21.
+f3 Be6 22. Rd1 f5 23. Bd3 {Time limit: 40/2½ hours plus adjournments. The
+venue was Arlosh Hall, Manchester (now Harris Manchester) College, Oxford.
+Sydney Hugh Brocklesby (1909-1997) - had a younger brother, Edward Willingham
+Brocklesby (1914-2004), who played for Cambridge in the Varsity match but
+later lived in Oxford. Perhaps Sydney was staying with his brother for the
+tournament?} 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.25"]
+[Round "1"]
+[White "Magorian, James"]
+[Black "Aitken, James Macrae"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[BlackElo "2080"]
+[PlyCount "69"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 33"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.05.17"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.17"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 Qf6 8.
+d3 Qxf3 9. gxf3 O-O-O 10. f4 exf4 11. Bxf4 Ne7 12. Nd2 g5 13. Bh2 Bg7 14. Rab1
+Ng6 15. Nc4 Rhe8 16. f4 Bd4+ 17. Kh1 gxf4 18. Bxf4 Nxf4 19. Rxf4 f6 20. Rf5 Rg8
+21. c3 Bxc3 22. bxc3 Rxd3 23. Rh5 Rxc3 24. Nb2 Rc2 25. Rxh7 Rgg2 26. Rh8+ Kd7
+27. Rd1+ Ke7 28. Nd3 Rh2+ 29. Kg1 Rcg2+ 30. Kf1 Rxa2 31. Kg1 Rag2+ 32. Kf1 Rc2
+33. Kg1 Rcg2+ 34. Kf1 Rc2 35. Kg1 {Source: Aitken Book 33. Time control was 40/
+2½hrs. Jim Magorian is/was a US player.} 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.26"]
+[Round "2"]
+[White "Aitken, James Macrae"]
+[Black "Chalfen, Allen"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2080"]
+[PlyCount "37"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 33"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.05.17"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.17"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. Be3 dxe5 7. d5 Nb8 8. Nxe5
+e6 9. Nc3 Bb4 10. Qb3 Bxc3+ 11. Qxc3 exd5 12. c5 d4 13. Bxd4 Nd5 14. Qg3 Rg8
+15. Bc4 Be6 16. O-O f6 17. Rfe1 fxe5 18. Qxe5 Ne7 19. Qxe6 {Source: Aitken
+Book 33} 1-0
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.26"]
+[Round "2"]
+[White "Saunders, John C"]
+[Black "Piggott, Brian AM"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "1895"]
+[BlackElo "1925"]
+[PlyCount "38"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "John Saunders"]
+[Source "BritBase"]
+[SourceDate "2021.01.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.01.09"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 d6 6. O-O e5 7. Nbd2 Nge7 8. a4
+O-O 9. Nc4 f5 10. exf5 Nxf5 11. Re1 Nfd4 12. Nxd4 Nxd4 13. c3 Nc6 14. f4 Rb8
+15. fxe5 Nxe5 16. Nxe5 Bxe5 17. Bh6 Bg7 18. Bxg7 Kxg7 19. Qe2 Bf5 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.27"]
+[Round "3"]
+[White "Rouverol, Guy"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "C90"]
+[BlackElo "2080"]
+[PlyCount "83"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 33"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.05.17"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.17"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8. Bc2
+c5 9. d3 Be7 10. Nbd2 O-O 11. Re1 Ne8 12. Nf1 Nc6 13. Ne3 Nc7 14. Nd5 Be6 15.
+Nxe7+ Qxe7 16. Ng5 Bd7 17. Qh5 h6 18. Nh3 f5 19. f4 Be8 20. Qd1 Qh4 21. Be3 Bh5
+22. Qd2 fxe4 23. dxe4 Qe7 24. f5 Rad8 25. Qf2 Kh7 26. g4 Bxg4 27. Qg3 Bxh3 28.
+Qxh3 Rg8 29. Kh1 g5 30. Rg1 Qf6 31. Rg4 Rg7 32. Rag1 Kg8 33. Qh5 Kf8 34. h4 Ke7
+35. hxg5 hxg5 36. Bxg5 Rxg5 37. Rxg5 Kd7 38. Rg7+ Kc8 39. R1g6 Qf8 40. Qh7 Qh8
+41. Rxc7+ Kb8 42. Rgg7 {Source: Aitken Book 33. I remember, during our 6th
+round post-mortem, that Dr Aitken mentioned his game against Rouverol to me
+and was very impressed by his play. (JS) Guy Rouverol (born 6 December 1931,
+Nimes - died 8 September 2007, Bouc-Bel-Air - but FIDE haven't yet been
+informed of his death 14 years later!)} 1-0
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.27"]
+[Round "3"]
+[White "Walker, RA"]
+[Black "Saunders, John C"]
+[Result "1/2-1/2"]
+[ECO "C29"]
+[WhiteElo "1900"]
+[BlackElo "1895"]
+[PlyCount "44"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "John Saunders"]
+[Source "BritBase"]
+[SourceDate "2021.01.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.01.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6 8.
+Be2 Bc5 9. O-O h6 10. Kh1 O-O 11. Qe1 Kh8 12. Rb1 Be6 13. c4 Rb8 14. Qg3 Be7
+15. c3 b6 16. cxd4 Nxd4 17. Nxd4 Qxd4 18. Bb2 Qh4 19. Qxh4 Bxh4 20. d4 Be7 21.
+Rf2 Rbd8 22. Rbf1 c6 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.28"]
+[Round "4"]
+[White "Aitken, James Macrae"]
+[Black "Norman, Kenneth I"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[WhiteElo "2080"]
+[PlyCount "89"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 33"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.05.17"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.17"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Be2 e5 8. Nb3
+b5 9. Bf3 Bb7 10. O-O Nbd7 11. Qe2 Rc8 12. a3 Be7 13. Kh1 O-O 14. Be3 exf4 15.
+Bxf4 Ne5 16. Nd4 Rfd8 17. Nf5 Nc4 18. Nd1 Re8 19. Nxe7+ Qxe7 20. b3 Ne5 21. Bg5
+Nxf3 22. gxf3 Qe5 23. Bxf6 Qxf6 24. Nf2 d5 25. Rad1 dxe4 26. Nxe4 Qe5 27. Qg2
+Bxe4 28. fxe4 g6 29. Rd7 Re7 30. Rxe7 Qxe7 31. b4 Rc4 32. Re1 Qe5 33. Qe2 Qc3
+34. e5 Qxc2 35. e6 Qxe2 36. Rxe2 Kf8 37. exf7 Rc3 38. a4 Rc4 39. Re6 Rxb4 40.
+a5 Kxf7 41. Rxa6 Ra4 42. Kg2 Ra3 43. Ra8 Kf6 44. a6 Kg5 45. Rb8 {Source:
+Aitken Book 33} 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.28"]
+[Round "4"]
+[White "Saunders, John C"]
+[Black "Gorman, John A"]
+[Result "1-0"]
+[ECO "C58"]
+[WhiteElo "1895"]
+[BlackElo "1820"]
+[PlyCount "57"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "John Saunders"]
+[Source "BritBase"]
+[SourceDate "2021.01.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.01.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 Nxc4 7. dxc4 Bc5 8.
+Nc3 O-O 9. Nge4 Nxe4 10. Nxe4 Be7 11. Qh5 f5 12. Ng5 h6 13. h4 Bd7 14. Qg6 Bxg5
+15. hxg5 Be8 16. Qe6+ Bf7 17. Qxf5 Bxd5 18. Qg4 Bf7 19. g6 Bxg6 20. Qxg6 Qd4
+21. Qg3 Rad8 22. Bxh6 Rd7 23. O-O Rf5 24. c3 Qd6 25. Qg4 Rdf7 26. Be3 g5 27.
+Rad1 Qf6 28. Rd2 Rh7 29. Rd8+ 1-0
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.30"]
+[Round "5"]
+[White "Brocklesby, Sydney Hugh"]
+[Black "Aitken, James Macrae"]
+[Result "0-1"]
+[ECO "A11"]
+[BlackElo "2080"]
+[PlyCount "60"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 34"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.07.20"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.20"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. g3 Bf5 3. Bg2 e6 4. c4 c6 5. cxd5 exd5 6. O-O Be7 7. d3 Nf6 8. Qb3
+Qb6 9. Qxb6 axb6 10. Nc3 O-O 11. Bf4 Nbd7 12. a3 Nc5 13. Nd4 Bd7 14. Rfd1 Na4
+15. Nxa4 Rxa4 16. Nc2 Be6 17. Be3 Nd7 18. Nd4 Bf6 19. Nxe6 fxe6 20. Bh3 Kf7 21.
+Rab1 Ke7 22. Bd2 h6 23. b3 Raa8 24. a4 c5 25. Rdc1 Rfc8 26. Bc3 Bxc3 27. Rxc3
+Ne5 28. Rbc1 Nc6 29. e3 Nb4 30. d4 Na2 {Source: Aitken Book 34} 0-1
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.30"]
+[Round "5"]
+[White "Saunders, John C"]
+[Black "Jones, David Richard Timothy"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1895"]
+[BlackElo "2110"]
+[PlyCount "65"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "John Saunders"]
+[Source "BritBase"]
+[SourceDate "2021.01.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.01.09"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. Ne2 Bd6 6. c3 Qh4 7. Ng1 Bg4 8.
+Be2 Nf6 9. Be3 O-O 10. Nd2 Bxe2 11. Qxe2 Rae8 12. g3 Qg4 13. h3 Qe6 14. Qf3 Ne4
+15. Ne2 f5 16. Nf4 Bxf4 17. gxf4 Na5 18. O-O-O Rf6 19. Nxe4 fxe4 20. Qg4 Nc4
+21. Qxe6+ Rexe6 22. b3 Nd6 23. Rhg1 c6 24. Rg5 Nf5 25. Rdg1 Re7 26. R5g4 Rh6
+27. Rh1 Rf7 28. h4 Rhf6 29. h5 Kf8 30. Kd2 Rh6 31. Rgg1 Rff6 32. Ke2 g6 33.
+hxg6 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.31"]
+[Round "6"]
+[White "Aitken, James Macrae"]
+[Black "Saunders, John C"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[WhiteElo "2080"]
+[BlackElo "1895"]
+[Annotator "Aitken, JM; Saunders,J"]
+[PlyCount "48"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 b5 6. Bb3 Nxd4 7. Nxd4 exd4 8.
+Bd5 ({"Barden recommends the gambit} 8. c3 {" (Aitken)}) 8... Rb8 9. Bc6+ Bd7
+10. Bxd7+ Qxd7 11. Qxd4 c5 ({"I like Black's 11th move.} 11... Nf6 {was played
+in Hort-Keres, 1961" (Aitken)}) 12. Qe3 Nf6 13. O-O Be7 14. f3 O-O 15. c4 {
+Aitken's comments at this point are close to illegible but the gist seems to
+be that he didn't like White's 14th and 15th moves - JS} Qe6 16. cxb5 axb5 17.
+Nc3 Rfd8 (17... b4 {looks better for Black. If} 18. Nd5 Nxd5 19. exd5 Qd7 {
+with a positional plus for Black (Saunders)}) 18. Ne2 d5 {"His ...d5 is a
+forcing move that leads to a drawn ending." (Aitken's scorebook)} 19. Nf4 Qe5
+20. Nxd5 Nxd5 21. exd5 Qxe3+ 22. Bxe3 Rxd5 23. Rfd1 Rbd8 24. Rxd5 Rxd5 {
+Sources: Aitken Book 34; John Saunders scorebook. "I recall that we were the
+first to finish and adjourn for a post-mortem, which was just as well because
+the analysis room was tiny, with only one small table and chess set! I fondly
+recall my chat with this affable old gent and cherish the memory. If anyone
+had told us then that one day I would be involved in a project to preserve all
+his chess games on a computer, I imagine we would both have been equally
+astonished." (JS)} (24... Rxd5 {"The game would have continued} 25. a4 bxa4 26.
+Rxa4 {with a draw" (Aitken)}) 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.08.01"]
+[Round "7"]
+[White "Piggott, Brian AM"]
+[Black "Aitken, James Macrae"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "1925"]
+[BlackElo "2080"]
+[PlyCount "76"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8. Bc2
+c5 9. h3 Bb7 10. d4 Qc7 11. Re1 Rc8 12. dxe5 dxe5 13. Nbd2 g6 14. c4 Bg7 15.
+Qe2 Bc6 16. b3 O-O 17. Nf1 Nh5 18. g3 Qd7 19. Kh2 bxc4 20. bxc4 Qe6 21. Bd2 Nb7
+22. Be3 h6 23. Rab1 Nf6 24. N1d2 Nd7 25. Rb2 f5 26. exf5 gxf5 27. Bf4 Qf7 28.
+Nh4 exf4 29. Nxf5 Kh8 30. Qg4 fxg3+ 31. Qxg3 Rce8 32. Rxe8 Rxe8 33. Rxb7 Bxb7
+34. Nd6 Qe7 35. Nxb7 Be5 36. f4 Rg8 37. Qf3 Bxf4+ 38. Kh1 Bxd2 {Sources: BCM,
+Oct 1971, p379; Aitken Book 34. Leading scores: 1 Jonathan Century 6/7; 2-3
+Akihiro Kanamori, John Nunn 5½; 4-5 PJ Booth, GP Burton 5; 6-11 JM Aitken, G
+Bromley, MJ Conroy, DA Hester, JM Ripley, KJ Wicker 4½ (46 competitors)} 0-1
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.08.01"]
+[Round "7"]
+[White "Saunders, John C"]
+[Black "Harding, Timothy David"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "1895"]
+[BlackElo "2080"]
+[Annotator "Saunders, J; Harding, T"]
+[PlyCount "47"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "John Saunders"]
+[Source "BritBase"]
+[SourceDate "2021.01.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.01.09"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nbd7 6. Be2 a6 7. Be3 b5 8.
+O-O Bb7 9. f3 e6 10. Qd2 Rc8 11. a4 bxa4 12. Nxa4 Be7 13. Nb3 O-O 14. Nc3 Nb8
+15. Rfd1 Qc7 16. Na5 Bc6 17. Nc4 Bb5 18. Nxb5 axb5 19. Ra7 Qd8 20. Bb6 Qe8 21.
+Nxd6 Bxd6 22. Qxd6 Rxc2 23. Qd3 Qc6 24. Be3 {JS notes: Open Swiss: (1)
+Jonathan Century 6/7; (2-3) A Kanamori, John Nunn 5.5; (4-5) PJ Booth, Graham
+P Burton 5; (6-11) James M Aitken, G Bromley, Mike J Conroy, David A Hester,
+John M Ripley, Kevin J Wicker 4.5. I (JS) was amongst those on 4. 46
+competitors (BCM, Sept 1971, p329) The main event was a 14-player, 9-round
+Swiss: (1) G Botterill 6.5/9; (2) V Ciocaltea 6; (3) Peter Markland 5.5; (4-7)
+J Eslon, RR Smith, Andrew Whiteley, Danny Wright 5, etc. There was also a
+women's tournament won by E Polihroniade 6.5, Jana Hartston 5.5, etc.  TH
+notes: My first tournament after an almost complete 18 month break from chess.
+The congress organiser was Alan K. Crombleholme. One of the titled players in
+the master section whom Botterill defeated was Gliksman.} 1/2-1/2
+
+[Event "Oxford op"]
+[Site "Oxford, Manchester College"]
+[Date "1971.07.??"]
+[Round "?"]
+[White "Burton, Graham P"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[ECO "C47"]
+[PlyCount "50"]
+[EventDate "1971.07.25"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Be7 6. Bc4 Nxe4 7. O-O O-O 8.
+Re1 Nf6 9. Ng5 Nxd5 10. Nxf7 Rxf7 11. Bxd5 Qf8 12. Qe2 Kh8 13. Bxf7 Qxf7 14.
+Bd2 d6 15. b4 Bf5 16. b5 Ne5 17. f4 Ng6 18. Rac1 d5 19. Qh5 Ba3 20. Ra1 Bxc2
+21. Re2 Bc5 22. Kh1 Qf5 23. Qxf5 Bxf5 24. Rae1 Be4 25. f5 d3 {Sources: "John
+Nunn 1424 Games 1970-1995" by Fred Lindsay, page 2; StarBase 4.56} 0-1
+

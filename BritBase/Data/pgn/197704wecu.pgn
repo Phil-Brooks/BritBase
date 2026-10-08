@@ -1,0 +1,604 @@
+﻿[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Williams, S."]
+[Result "1-0"]
+[ECO "B20"]
+[PlyCount "53"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. b4 cxb4 3. a3 b3 4. cxb3 Nc6 5. Nf3 d6 6. d4 e5 7. dxe5 Nxe5 8. Nc3
+Bg4 9. Bb5+ Bd7 10. O-O Nf6 11. Bf4 Qb6 12. Bxd7+ Nfxd7 13. Nd5 Qd8 14. Rc1 Rc8
+15. Qe2 Nxf3+ 16. Qxf3 Rc6 17. Qg3 f6 18. Nb4 Rb6 19. Rfd1 Ne5 20. Bxe5 fxe5
+21. Qh3 Kf7 22. Rc8 Qg5 23. Qd7+ Kg6 24. Qe8+ Kh6 25. Rd3 g6 26. Rh3+ Kg7 27.
+Rc7+ {Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham,
+Easter 1977. Contributed by Andy Ansel, 22 January 2023.} 1-0
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Andrews, B Peter A"]
+[Black "Poolake, Maximilian Ernst"]
+[Result "1-0"]
+[ECO "B97"]
+[PlyCount "53"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Bd3 Be7 10. Qf3 Qc7 11. a4 b6 12. O-O Bb7 13. Qh3 Nc5 14. Rfe1 Nxd3 15.
+cxd3 O-O 16. Kh1 Kh8 17. Rac1 Qd7 18. Nd4 Ng8 19. Nd5 Bxd5 20. exd5 Bxg5 21.
+fxg5 Qxa4 22. Re4 Qa5 23. Rh4 h6 24. gxh6 gxh6 25. Rxh6+ Nxh6 26. Qxh6+ Kg8 27.
+Nc6 {Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham,
+Easter 1977. Contributed by Andy Ansel, 22 January 2023.} 1-0
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Cock, John Crowle"]
+[Black "Moore, Gerald"]
+[Result "0-1"]
+[ECO "B33"]
+[PlyCount "76"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 Be6 9. Nc4 Rc8 10. Ne3 Be7 11. Bxf6 Bxf6 12. Qd2 Bg5 13. Rd1 Nd4 14. Bd3
+O-O 15. O-O Qf6 16. Ncd5 Qg6 17. f4 exf4 18. Nxf4 Qh6 19. g3 Bh3 20. Rf2 Nc6
+21. Bf1 Bxf1 22. Ng4 Bxf4 23. Nxh6+ Bxh6 24. Qd5 Bh3 25. Qh5 Be6 26. Rxd6 Be3
+27. b3 Rcd8 28. Rxd8 Rxd8 29. Qe2 Ba7 30. Kg2 Bxf2 31. Kxf2 Ne5 32. c4 f6 33.
+Ke3 Rd3+ 34. Kf2 Bg4 35. Qc2 Rf3+ 36. Kg2 Nd3 37. Qb1 Rf2+ 38. Kg1 Rd2 {
+Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham, Easter
+1977. Contributed by Andy Ansel, 22 January 2023.} 0-1
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Burn, Malcolm E"]
+[Black "Legg, Ian P"]
+[Result "0-1"]
+[ECO "D08"]
+[PlyCount "52"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Bf4 Bg4 6. Nbd2 Qd7 7. a3 Nge7 8. h3
+Bf5 9. Qa4 Ng6 10. Bh2 Be7 11. Rd1 O-O 12. g4 Nb4 13. gxf5 Qxa4 14. axb4 Nh4
+15. Nxd4 Bxb4 16. Bg3 Rfd8 17. e3 Rxd4 18. exd4 Nf3+ 19. Ke2 Nxd4+ 20. Ke1 Nf3+
+21. Ke2 Rd8 22. Bf4 Nd4+ 23. Ke1 Bxd2+ 24. Bxd2 Nc2+ 25. Ke2 Qxc4+ 26. Kf3 Qd5+
+{Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham,
+Easter 1977. Contributed by Andy Ansel, 22 January 2023.} 0-1
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Patterson, Nicholas J"]
+[Black "Legg, Ian P"]
+[Result "1-0"]
+[ECO "A28"]
+[PlyCount "31"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e3 d6 5. d4 e4 6. Nd2 Bf5 7. Qc2 Qe7 8. Nd5
+Qd7 9. Nxf6+ gxf6 10. d5 Ne5 11. Nxe4 O-O-O 12. f4 Ng4 13. Bd3 Bg6 14. f5 Bh5
+15. Ng3 Re8 16. Nxh5 {Source: Souvenir Brochure of the 32nd Annual WECU
+Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22 January 2023.}
+1-0
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Andrews, B Peter A"]
+[Black "Moore, Gerald"]
+[Result "0-1"]
+[ECO "A21"]
+[PlyCount "58"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e5 5. e3 Nc6 6. Nge2 Nge7 7. O-O O-O 8. d3
+Be6 9. e4 Qd7 10. Rb1 f5 11. b3 f4 12. f3 g5 13. Nd5 Ng6 14. Bb2 Nd4 15. Qd2
+Nxe2+ 16. Qxe2 c6 17. Nb4 h5 18. Nc2 c5 19. Rbd1 Rf7 20. Bc1 Raf8 21. Kh1 g4
+22. Rde1 h4 23. fxg4 hxg3 24. hxg3 Bxg4 25. Bf3 fxg3 26. Bxg4 Rxf1+ 27. Rxf1
+Rxf1+ 28. Qxf1 Qxg4 29. Kg1 Qh5 {Source: Souvenir Brochure of the 32nd Annual
+WECU Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22 January
+2023.} 0-1
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Moore, Gerald"]
+[Black "Hollis, Adrian Swayne"]
+[Result "0-1"]
+[ECO "E91"]
+[PlyCount "120"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 Bg4 6. Be2 O-O 7. Be3 Nfd7 8. h3
+Bxf3 9. Bxf3 Nc6 10. Qd2 e5 11. Ne2 exd4 12. Nxd4 Nde5 13. Be2 Nxd4 14. Bxd4
+Qh4 15. g4 Rfe8 16. O-O-O Nc6 17. Bxg7 Kxg7 18. f3 a5 19. Kb1 a4 20. c5 dxc5
+21. Bb5 Qf6 22. Qc3 Qxc3 23. bxc3 Re6 24. Rd7 Ne5 25. Rxc7 Nxf3 26. Rxb7 Nd2+
+27. Kc2 Nxe4 28. Re1 Ng5 29. Rf1 Rf6 30. Rxf6 Kxf6 31. Bc4 Rf8 32. Rc7 Nxh3 33.
+Rxc5 Nf2 34. g5+ Kg7 35. Ra5 Rc8 36. Bd3 Nxd3 37. Kxd3 h6 38. gxh6+ Kxh6 39. c4
+f5 40. Rxa4 Kg5 41. Ra3 Kf4 42. Rc3 Ke5 43. Ke3 Rh8 44. Kf2 Rh2+ 45. Kg3 Rxa2
+46. c5 Ra7 47. c6 Rc7 48. Kh4 Kd5 49. Kg5 Rxc6 50. Re3 Re6 51. Ra3 Kd4 52. Ra1
+Kd3 53. Ra3+ Ke2 54. Ra2+ Kf3 55. Ra3+ Re3 56. Ra6 f4 57. Rxg6 Re5+ 58. Kh4 Re1
+59. Rf6 Rh1+ 60. Kg5 Rg1+ {Source: Souvenir Brochure of the 32nd Annual WECU
+Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22 January 2023.}
+0-1
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Wise, Derek Maurice"]
+[Black "Hollis, Adrian Swayne"]
+[Result "0-1"]
+[ECO "C15"]
+[PlyCount "58"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Be3 Nf6 8.
+Qd3 O-O 9. O-O-O a5 10. N2c3 Nd5 11. Nxd5 exd5 12. Nc3 Bf6 13. Be2 a4 14. g4
+Na5 15. f4 c6 16. Qd2 Re8 17. Rdg1 b6 18. g5 Be7 19. h4 Ba6 20. Bxa6 Rxa6 21.
+Qd3 Nc4 22. Nd1 b5 23. g6 fxg6 24. h5 b4 25. hxg6 bxa3 26. Qf5 Bf6 27. bxa3 Rb6
+28. Rxh7 Qb8 29. Rxg7+ Kxg7 {Source: Souvenir Brochure of the 32nd Annual WECU
+Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22 January 2023.}
+0-1
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Clarke, Peter Hugh"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[ECO "B38"]
+[PlyCount "123"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. e4 O-O 7. Be2 Nc6 8.
+Be3 d6 9. O-O Nd7 10. Rc1 Nc5 11. Qd2 Qa5 12. Rfd1 Be6 13. f3 Kh8 14. b3 Rac8
+15. Bf1 f5 16. exf5 Bxf5 17. Nd5 Qxd2 18. Rxd2 Nxd4 19. Bxd4 Bxd4+ 20. Rxd4 Rf7
+21. Re1 Re8 22. Rd2 a5 23. Nc3 Bd7 24. Bd3 Nxd3 25. Rxd3 Bc6 26. Kf2 Kg7 27.
+Ke3 Kf8 28. Kd2 Rd8 29. Nd5 Ke8 30. g3 Kd7 31. f4 e6 32. Nc3 Re7 33. Ne2 Kc7
+34. Nd4 Bd7 35. Rde3 Rde8 36. a3 e5 37. Ne2 exf4 38. Nxf4 Rxe3 39. Rxe3 Kc6 40.
+Rxe8 Bxe8 41. Kc3 Bf7 42. b4 axb4+ 43. axb4 g5 44. Ne2 b6 45. Kd4 b5 46. cxb5+
+Kxb5 47. Nc3+ Kxb4 48. Ne4 h6 49. Nxd6 Bb3 50. Nf5 h5 51. Ke5 h4 52. g4 Bd1 53.
+Ne3 Be2 54. Kf5 Kc3 55. Kxg5 h3 56. Kf4 Kd4 57. g5 Bd3 58. Ng4 Kd5 59. Nf2 Bf1
+60. Kf5 Kd6 61. Kf6 Kd7 62. g6 {Source: Souvenir Brochure of the 32nd Annual
+WECU Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22 January
+2023.} 1-0
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Burnett, Leon P"]
+[Black "Patterson, Nicholas J"]
+[Result "1-0"]
+[ECO "B51"]
+[PlyCount "53"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Ngf6 5. Re1 g6 6. c3 a6 7. Bf1 Bg7 8. d4
+e5 9. dxe5 dxe5 10. Nbd2 b5 11. a4 Rb8 12. axb5 axb5 13. Nb1 O-O 14. Na3 c4 15.
+b3 cxb3 16. Qxb3 Nxe4 17. Rxe4 Nc5 18. Qb4 Nxe4 19. Qxe4 b4 20. Nc4 Bb7 21. Qe3
+e4 22. Ng5 bxc3 23. Ba3 c2 24. Rc1 Qd1 25. Bxf8 Rxf8 26. Qd2 Bh6 27. Rxd1 {
+Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham, Easter
+1977. Contributed by Andy Ansel, 22 January 2023.} 1-0
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Andrews, B Peter A"]
+[Black "Wheeler, George W"]
+[Result "0-1"]
+[ECO "B48"]
+[PlyCount "46"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. a3 a6 7. Be3 Qc7 8. Be2
+Be7 9. O-O b5 10. Kh1 Bb7 11. Nb3 Ne5 12. f3 O-O 13. Qd4 Rac8 14. Bf4 d6 15.
+Nd2 Ng6 16. Bg3 Nh5 17. a4 Nxg3+ 18. hxg3 Bf6 19. Qb4 d5 20. exd5 Qxg3 21. Nde4
+{which Knight not specified} Qh4+ 22. Kg1 Be5 23. axb5 Bh2+ {Source: Souvenir
+Brochure of the 32nd Annual WECU Congress, Cheltenham, Easter 1977.
+Contributed by Andy Ansel, 22 January 2023.} 0-1
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Cock, John Crowle"]
+[Black "Boyce, James R"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "92"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c3 f5 10. Nbd2 O-O 11. Qb3 Kh8 12. Qxb7 Rf6 13. Qb3 Rg6 14. Bf1 Bd6
+15. g3 f4 16. Bg2 Nxf2 17. Kxf2 fxg3+ 18. Kg1 gxh2+ 19. Kh1 Bf4 20. Qd1 Qd6 21.
+Nf1 Bg3 22. Nxg3 Qxg3 23. Qe2 Rf8 24. Rf1 Rgf6 25. Bd2 Rxf3 26. Rxf3 Bxf3 27.
+Bxf3 Qxf3+ 28. Qxf3 Rxf3 29. Kg2 Rf5 30. Re1 Kg8 31. Re2 Rh5 32. Re1 g5 33. Rh1
+Kf7 34. Rxh2 Rxh2+ 35. Kxh2 Kg6 36. Be1 Nd8 37. Bg3 Ne6 38. Be5 Kf5 39. Kg3 h5
+40. b3 Ke4 41. Bf6 Kf5 42. Be5 Ke4 43. Bf6 c6 44. Be7 Kd3 45. Bb4 Kc2 46. c4
+Kb2 {Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham,
+Easter 1977. Contributed by Andy Ansel, 22 January 2023.} 0-1
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Staples, Maurice J"]
+[Black "Patterson, Nicholas J"]
+[Result "1-0"]
+[ECO "A02"]
+[PlyCount "85"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. f4 Nf6 2. b3 d6 3. Bb2 g6 4. Nf3 Bg7 5. e3 O-O 6. Be2 e5 7. fxe5 Ng4 8. O-O
+Nc6 9. c3 dxe5 10. h3 Nh6 11. e4 f5 12. d3 Be6 13. Ba3 Re8 14. Nbd2 Qd7 15. Ng5
+Kh8 16. Nxe6 Qxe6 17. Qe1 Ne7 18. Nf3 Bf6 19. Qf2 Neg8 20. Bc1 f4 21. Bb2 Nf7
+22. Rfd1 Nd6 23. Nh2 h5 24. Bf3 Nh6 25. Qe2 Re7 26. Kh1 Kh7 27. Re1 Bh4 28.
+Red1 Ndf7 29. d4 Qb6 30. c4 c5 31. dxc5 Qxc5 32. Rd5 Qc6 33. Rad1 Ng8 34. Ba3
+Rc7 35. Bd6 Nf6 36. Bxc7 Nxd5 37. exd5 Qxc7 38. Bxh5 Qe7 39. Bf3 Ng5 40. Be4
+Qa3 41. Qh5+ Kg7 42. Qxg6+ Kf8 43. Qf6+ {Source: Souvenir Brochure of the 32nd
+Annual WECU Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22
+January 2023.} 1-0
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Davey, Neil"]
+[Black "LeMoir, David"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "97"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O c6 7. a4 Qc7 8. a5
+h6 9. Re1 g5 10. dxe5 dxe5 11. Qe2 Nf8 12. Rb1 Ng6 13. b4 g4 14. Nd2 Nf4 15.
+Qf1 N6h5 16. Ne2 Be6 17. Ng3 Ng7 18. b5 h5 19. bxc6 bxc6 20. Bb2 f6 21. Bxe6
+Ngxe6 22. Nf5 h4 23. Nb3 Kf7 24. Qc4 Rag8 25. Rbd1 Kg6 26. Rd2 Bf8 27. Red1 Qh7
+28. Qxc6 g3 29. h3 gxf2+ 30. Rxf2 Kh5 31. Kh1 Qg6 32. Qc3 Qg5 33. Bc1 Rh7 34.
+Qf3+ Kg6 35. c4 Rc7 36. Rc2 Nc5 37. Bxf4 exf4 38. Rd5 Nxb3 39. Ne7+ Bxe7 40.
+Rxg5+ fxg5 41. Qxb3 Rd8 42. c5 Rc6 43. Qb7 Re6 44. Rc1 Rd4 45. c6 Rdxe4 46. c7
+Re1+ 47. Rxe1 Rxe1+ 48. Kh2 Bd6 49. Qc6 {Source: Souvenir Brochure of the 32nd
+Annual WECU Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22
+January 2023.} 1-0
+
+[Event "WECU-ch32"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Boyce, James R"]
+[Black "Wise, Derek Maurice"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[PlyCount "89"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 b6 3. d4 Bb7 4. d5 Nf6 5. Nd2 g6 6. Be2 Bg7 7. Ngf3 O-O 8. O-O
+e6 9. c4 exd5 10. exd5 b5 11. Nb3 d6 12. Bd2 a5 13. a4 bxc4 14. Bxc4 Ne4 15.
+Be3 Nd7 16. Nbd2 Nef6 17. Bg5 h6 18. Bxf6 Nxf6 19. Qb3 Qc7 20. Rfe1 Rab8 21.
+Qd3 Ba8 22. b3 Qb7 23. Rad1 Rfe8 24. Ne4 Nxe4 25. Rxe4 Qb4 26. Rde1 Rxe4 27.
+Rxe4 Qa3 28. Bb5 Bb7 29. h3 Rf8 30. Re7 Bc8 31. Qe2 Qxb3 32. Nd2 Qxd5 33. Bc4
+Qf5 34. g4 Qf6 35. Rxf7 Rxf7 36. Qe8+ Bf8 37. Ne4 Qe7 38. Bxf7+ Qxf7 39. Qxc8
+Qe7 40. Qc6 Kg7 41. Kg2 Qe5 42. Qc7+ Be7 43. Nxc5 Kf7 44. Nb7 Qe4+ 45. Kg3 {
+Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham, Easter
+1977. Contributed by Andy Ansel, 22 January 2023.} 1/2-1/2
+
+[Event "WECU-ch32 Open"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Courtney, Hugh Edward Guy"]
+[Black "Smith, Ivor BN"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[PlyCount "63"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 d5 3. d4 dxe4 4. d5 Nf6 5. Bc4 a6 6. Bg5 Nbd7 7. a4 Ne5 8. Bxf6
+Nxc4 9. Bh4 Nxb2 10. Qb3 Nd3+ 11. Kf1 Nf4 12. c4 Ng6 13. Bg3 f5 14. f4 e5 15.
+Ne2 exf4 16. Nxf4 Nxf4 17. Bxf4 Bd6 18. g3 O-O 19. Qe3 Qf6 20. Ra3 Bxf4 21.
+gxf4 Qd4 22. Nd2 Qxe3 23. Rxe3 Bd7 24. a5 Rad8 25. Rb3 Rf6 26. Rb6 Rxb6 27.
+axb6 Ba4 28. Kf2 Kf7 29. Ke3 Bc2 30. Rc1 Bd3 31. Nb3 Rc8 32. Na5 {Source:
+Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham, Easter 1977.
+Contributed by Andy Ansel, 22 January 2023.} 1/2-1/2
+
+[Event "WECU-ch32 Open"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Smith, Ivor BN"]
+[Black "Knee, John P"]
+[Result "1-0"]
+[ECO "B22"]
+[PlyCount "71"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Qxd4 e6 6. Bc4 Nc6 7. Qe4 Nb6 8. Bb3
+d6 9. exd6 Bxd6 10. Nf3 Qc7 11. O-O Bd7 12. Na3 a6 13. Rd1 O-O-O 14. Be3 Be8
+15. Rxd6 Rxd6 16. Bf4 Qd8 17. Bxd6 Qxd6 18. Rd1 Qc7 19. Qg4 g6 20. Qg5 Qe7 21.
+Qe3 Qc7 22. Ng5 Ne5 23. Ne4 Nc6 24. c4 Nd7 25. Nb5 axb5 26. cxb5 Nb6 27. Nd6+
+Kb8 28. Qc3 Rg8 29. bxc6 Bxc6 30. Qf6 Be8 31. Bxe6 fxe6 32. Qxe6 Rf8 33. Nxe8
+Qc5 34. Qd6+ Qxd6 35. Nxd6 Rd8 36. Rd2 {Source: Souvenir Brochure of the 32nd
+Annual WECU Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22
+January 2023.} 1-0
+
+[Event "WECU-ch32 Reserves"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Wood, D."]
+[Black "Cragg, I."]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "78"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. b4 Nf6 2. Bb2 e6 3. b5 d5 4. e3 c5 5. bxc6 Nxc6 6. c4 dxc4 7. Bxc4 Be7 8.
+Nf3 O-O 9. O-O b6 10. Qc2 Bb7 11. d4 Rc8 12. Qe2 Qc7 13. Bb3 Nb4 14. Rc1 Qb8
+15. Nbd2 Rxc1+ 16. Rxc1 Rc8 17. Rxc8+ Qxc8 18. Ba3 Ne4 19. Nxe4 Bxe4 20. Qb5
+Nd3 21. Qa4 Bxa3 22. Qxa3 Qc3 23. h3 Bxf3 24. Qxa7 h6 25. Qb8+ Kh7 26. gxf3
+Qe1+ 27. Kg2 Qxf2+ 28. Kh1 Qxf3+ 29. Kh2 Qf2+ 30. Kh1 Qf1+ 31. Kh2 Ne1 32. Qb7
+Nf3+ 33. Kg3 Qg1+ 34. Kf4 Ng5 35. Bc2+ g6 36. Bxg6+ Kxg6 37. e4 Nxh3+ 38. Kf3
+Qf2+ 39. Kg4 Qg2+ {Source: Souvenir Brochure of the 32nd Annual WECU Congress,
+Cheltenham, Easter 1977. Contributed by Andy Ansel, 22 January 2023.} 0-1
+
+[Event "WECU-ch32 Reserves"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Cragg, I."]
+[Black "Cleal, Robert C J"]
+[Result "0-1"]
+[ECO "A05"]
+[PlyCount "118"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 d6 4. g3 g6 5. Bg2 Bg7 6. O-O Nf6 7. Nbd2 O-O 8. a4
+e5 9. Nc4 Qc7 10. Ne1 Bd7 11. f4 exf4 12. gxf4 Rae8 13. c3 Be6 14. Ne3 Ne7 15.
+d4 cxd4 16. cxd4 Bc4 17. Rf2 d5 18. e5 Ne4 19. Bxe4 dxe4 20. Rc2 Bb3 21. Rxc7
+Bxd1 22. Nxd1 Nc6 23. Be3 Re7 24. Rxe7 Nxe7 25. Rc1 Nd5 26. Rc5 Rd8 27. Kf2 f5
+28. Nc3 Nxc3 29. Rxc3 Rd7 30. Nc2 Kf7 31. Nb4 Bf8 32. Nc2 Ke6 33. Ke2 Be7 34.
+Bf2 Kf7 35. Rc8 h6 36. h4 g5 37. fxg5 hxg5 38. h5 Kg7 39. e6 Rd8 40. Rc7 Kf6
+41. d5 Rxd5 42. h6 Rd8 43. Bd4+ Kxe6 44. Rxb7 Bf6 45. Bxf6 Kxf6 46. Rxa7 f4 47.
+Ra6+ Kf5 48. h7 Rh8 49. Rh6 g4 50. a5 Kg5 51. Rh1 g3 52. Ne1 Kg4 53. a6 f3+ 54.
+Kf1 $2 (54. Ke3) 54... e3 55. a7 $2 (55. Nxf3 $1) 55... e2+ 56. Kg1 f2+ 57. Kg2
+Rxh7 58. a8=Q Rh2+ 59. Rxh2 f1=Q# {Source: Souvenir Brochure of the 32nd
+Annual WECU Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22
+January 2023.} 0-1
+
+[Event "WECU-ch32 Minor"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Pike, S."]
+[Black "Prettejohn, Michael Hugh"]
+[Result "0-1"]
+[ECO "A00"]
+[PlyCount "40"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. b4 Nf6 2. Bb2 e5 3. Bxe5 Bxb4 4. c4 Nc6 5. Bb2 O-O 6. Nf3 d5 7. cxd5 Nxd5 8.
+e3 Re8 9. Be2 Qe7 10. O-O Bg4 11. d4 Rad8 12. Nbd2 Nxe3 13. fxe3 Qxe3+ 14. Rf2
+Bxd2 15. Qxd2 Qxd2 16. Nxd2 Rxe2 17. Rxe2 Bxe2 18. Re1 Bh5 19. a3 f6 20. Nb3
+Bf7 {Source: Souvenir Brochure of the 32nd Annual WECU Congress, Cheltenham,
+Easter 1977. Contributed by Andy Ansel, 22 January 2023.} 0-1
+
+[Event "WECU-ch32 Junior ch"]
+[Site "Cheltenham"]
+[Date "1977.04.??"]
+[Round "?"]
+[White "Hick, MA."]
+[Black "Smith, DM."]
+[Result "1-0"]
+[ECO "E44"]
+[PlyCount "33"]
+[EventDate "1977.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. a3 Bxc3+ 7. Nxc3 O-O 8.
+Bd3 Bxg2 9. Rg1 Bb7 10. e4 Kh8 11. e5 Ne8 12. Bg5 Qc8 13. Qh5 g6 14. Qh6 Kg8
+15. Be7 Ng7 16. Bf6 Ne8 17. Rg3 {Source: Souvenir Brochure of the 32nd Annual
+WECU Congress, Cheltenham, Easter 1977. Contributed by Andy Ansel, 22 January
+2023.} 1-0
+
