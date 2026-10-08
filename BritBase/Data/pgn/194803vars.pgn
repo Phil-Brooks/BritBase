@@ -1,0 +1,45 @@
+﻿[Event "Varsity Oxford-Cambridge"]
+[Site "West London CC"]
+[Date "1948.03.20"]
+[Round "1"]
+[White "Swinnerton-Dyer, H Peter"]
+[Black "Horne, Dennis Morton"]
+[Result "0-1"]
+[ECO "C68"]
+[PlyCount "68"]
+[EventDate "1948.03.20"]
+[EventType "team-tourn"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BCM-1948-05"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Be3
+Bxf3 9. Qxf3 Qxf3 10. gxf3 Bd6 11. Nc3 Ne7 12. Ne2 g5 13. Kh1 f6 14. h4 g4 15.
+f4 Ng6 16. f5 Nxh4 17. Ng1 O-O-O 18. Kh2 Rdg8 19. Kg3 Nxf5+ 20. exf5 h4+ 21.
+Kg2 Rh5 22. Ne2 Rxf5 23. Rh1 h3+ 24. Kg1 Rf3 25. Ng3 f5 26. Nf1 f4 27. Nd2 fxe3
+28. Nxf3 gxf3+ 29. Kh2 Rg2+ 30. Kxh3 Rxf2 31. Rac1 Rg2 32. Rhf1 e4 33. dxe4
+Rg3+ 34. Kh4 f2 {Source: BCM, May 1948, p158} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "West London CC"]
+[Date "1948.03.20"]
+[Round "4"]
+[White "Moxon, Harry Frederick"]
+[Black "Bridges, Ian Lucas"]
+[Result "1-0"]
+[ECO "B40"]
+[Annotator "Saunders,John"]
+[PlyCount "29"]
+[EventDate "1948.03.20"]
+[EventType "team-tourn"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e6 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. Bd3 Bb4 8.
+Bf4 Bxc3+ 9. bxc3 d5 10. e5 Nd7 11. Qg4 g6 12. O-O h6 13. Bxg6 Rg8 14. Qxe6+
+Qe7 15. Bxf7+ {Source: CHESS, Feb 1949} 1-0
+

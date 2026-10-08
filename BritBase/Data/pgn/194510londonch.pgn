@@ -1,0 +1,600 @@
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.13"]
+[Round "1"]
+[White "Aitken, James Macrae"]
+[Black "Diggle, Geoffrey Harber"]
+[Result "1-0"]
+[ECO "C70"]
+[Annotator "Book 7"]
+[PlyCount "63"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bb4 5. O-O Nge7 6. c3 Ba5 7. d4 exd4 8.
+cxd4 d5 9. exd5 Qxd5 10. Nc3 Bxc3 11. bxc3 O-O 12. Ng5 h6 {? Aitken} 13. Bb3
+Qa5 14. Ne4 Bf5 15. Re1 Bg6 16. d5 Rad8 17. c4 Rfe8 {? Aitken} 18. Bd2 Qb6 19.
+dxc6 Nxc6 20. Nc3 Qd4 21. Rxe8+ Rxe8 22. Nd5 Bh5 23. Qc1 Re2 24. Be3 Qh4 25.
+Nf4 Ne5 26. Nxe2 Bxe2 27. Bf4 Nd3 28. Bg3 Qd4 29. Qb1 f5 30. Bd1 f4 {? Aitken}
+31. Bxe2 fxg3 32. Bxd3 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.13"]
+[Round "1"]
+[White "Brown, Harold"]
+[Black "Hayley, Robert E"]
+[Result "1-0"]
+[ECO "A03"]
+[PlyCount "51"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "StarBase 4.56"]
+[SourceDate "2004.11.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.11.04"]
+[SourceQuality "2"]
+
+1. f4 d5 2. e3 Nf6 3. Nf3 c5 4. Bb5+ Nc6 5. O-O Qc7 6. Ne5 e6 7. b3 a6 8. Bxc6+
+bxc6 9. Bb2 Bd6 10. d3 O-O 11. Nd2 Re8 12. Ndf3 Nd7 13. Ng5 Bxe5 14. fxe5 Rf8
+15. Qh5 h6 16. Nxf7 Bb7 17. Nxh6+ gxh6 18. Qg6+ Kh8 19. Qxh6+ Kg8 20. Qxe6+ Kh8
+21. Qh6+ Kg8 22. Qg6+ Kh8 23. e6+ Ne5 24. Qh5+ Kg8 25. Bxe5 Qh7 26. Qg5+ {
+Source: BCM, December 1945, p287. Probably Robert Evelyn Hayley (1920-1996)
+but there's an outside chance he could be Ronald Edwin Hayley (1923-2007).} 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.13"]
+[Round "1"]
+[White "Distler, Alexander"]
+[Black "Truscott, Alan Fraser"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2r2k2/8/4p1Qp/1p6/rPn5/2R3P1/3q1b1P/1BR4K w - - 0 34"]
+[PlyCount "29"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+34. Rf3+ Ke7 35. Qf7+ Kd6 36. Rd3+ Qxd3 37. Bxd3 Ne5 38. Qf4 Rxc1+ 39. Qxc1
+Nxd3 40. Qxh6 Kd5 41. Qh7 Kc4 42. Qe4+ Bd4 43. Qxe6+ Kxb4 44. Qd6+ Kc4 45. Qe6+
+Kb4 46. Qd6+ Ka5 47. Qd8+ Ka6 48. Qd6+ {Source: BCM, December 1945, p286}
+1/2-1/2
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.13"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "0-1"]
+[ECO "C68"]
+[PlyCount "56"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bc5 6. Ne2 f6 7. O-O Bg4 8.
+Ng3 Ne7 9. h3 Be6 10. Qe2 Qd7 11. d3 O-O-O 12. Be3 Bd6 13. c4 Ng6 14. Nh5 Nf4
+15. Nxf4 exf4 16. Bd4 Be7 17. Rad1 g5 18. e5 fxe5 19. Bxe5 Rhg8 20. Nh2 Rdf8
+21. f3 h5 22. Rfe1 Rg6 23. Bc3 Bd6 24. d4 g4 25. hxg4 hxg4 26. c5 g3 27. cxd6
+Qh7 28. Ng4 Rh8 {Source: BCM, December 1945, p284} 0-1
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.14"]
+[Round "2"]
+[White "Brierley, William Leonard"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "D41"]
+[PlyCount "67"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bc4 Nb6 8. Bd3
+Bd7 9. O-O a6 10. Bd2 cxd4 11. exd4 Be7 12. Rc1 Bf6 13. Ne4 Be7 14. Bb1 Nd5 15.
+Nc5 Bc8 16. Re1 O-O 17. Qc2 g6 18. Bh6 Re8 19. Qd2 Qa5 20. Qd1 Qc7 21. Ne5 Nxe5
+22. Rxe5 Qb8 23. Qe2 Nc7 24. f4 b6 25. Nb3 Bd6 26. f5 Nb5 27. fxg6 hxg6 28. Qg4
+Bxe5 29. Bxg6 f5 30. Bxf5+ Kh8 31. Bg7+ Bxg7 32. Qh5+ Kg8 33. Qxe8+ Bf8 34.
+Rxc8 {Source: BCM, December 1945, p284} 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.14"]
+[Round "2"]
+[White "Friedman, Otto"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[ECO "D66"]
+[PlyCount "81"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Rc1 c6 8. Bd3
+Ne8 9. Bxe7 Qxe7 10. O-O dxc4 11. Bxc4 e5 12. e4 Nd6 13. Bb3 b6 14. Qd2 Ba6 15.
+Rfd1 Rad8 16. dxe5 Nxe5 17. Nxe5 Qxe5 18. Qd4 Qe7 19. Qa4 Bb5 20. Qa3 c5 21.
+Rxd6 Qxd6 22. Nxb5 Qf4 23. Rf1 Qxe4 24. Qxa7 c4 25. Qa4 Qe5 26. Qxc4 Qxb2 27.
+Qc7 Qf6 28. Qg3 h6 29. Nc3 Rd4 30. Nd5 Qe6 31. Nf4 Qf5 32. Ng6 Re8 33. Nh4 Qh5
+34. Nf3 Rde4 35. h3 Qc5 36. Rd1 Re2 37. Rd7 R8e7 38. Rd8+ Kh7 39. Rd5 Qc1+ 40.
+Kh2 R7e6 41. Rd1 {Source: BCM, February 1946, p62} 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.14"]
+[Round "2"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Diggle, Geoffrey Harber"]
+[Result "1-0"]
+[ECO "B73"]
+[PlyCount "89"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Nc6 7. Be3 Bg7 8.
+O-O O-O 9. Qd2 Ng4 10. Bxg4 Bxg4 11. Nxc6 bxc6 12. Bh6 Qa5 13. Bxg7 Kxg7 14.
+Qd4+ Kg8 15. b3 Rab8 16. Rfe1 Qb6 17. Qd2 Kg7 18. Qg5 Qd4 19. Re3 h5 20. Qxe7
+Rfe8 21. Qh4 Qe5 22. h3 Bc8 23. Rd1 Ba6 24. Qg3 Qxg3 25. Rxg3 Re6 26. Re3 Kf6
+27. Rxd6 Rxd6 28. e5+ Ke6 29. exd6+ Kxd6 30. Ne4+ Kc7 31. Ng5 Rd8 32. Nxf7 Rd1+
+33. Kh2 Rd2 34. Rc3 Rxf2 35. Ne5 Rf6 36. Kg3 Bc8 37. h4 Bf5 38. b4 Kb6 39. Rc5
+Bc8 40. a4 Bf5 41. c4 Bc8 42. a5+ Kb7 43. b5 cxb5 44. cxb5 Kb8 45. Nc6+ 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.15"]
+[Round "3"]
+[White "Aitken, James Macrae"]
+[Black "Distler, Alexander"]
+[Result "1-0"]
+[ECO "B27"]
+[Annotator "Book 7"]
+[PlyCount "95"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5 Qa5+ 5. Bd2 Qxc5 6. Bc3 Nf6 7. Bd3 d6 8.
+O-O Nc6 9. Nbd2 Bg4 10. Qe1 O-O 11. e5 dxe5 12. Nb3 Qb6 13. Nxe5 Nxe5 14. Bxe5
+Bd7 15. Rd1 Rfd8 16. Bc3 Re8 17. Bd4 Qc7 18. Be5 Qc8 19. c4 Bf5 20. Qc3 Nh5 21.
+Bxf5 Qxf5 22. Bxg7 Nxg7 23. Rd5 Qg4 24. f3 Qf4 25. Re1 Ne6 26. Re4 Qc7 27. Nd4
+Nxd4 28. Rexd4 Red8 29. Qd3 Rxd5 30. Rxd5 Qb6+ 31. Qd4 Qb4 32. h4 h5 33. Rb5
+Qe1+ 34. Kh2 b6 35. a3 f6 36. c5 bxc5 37. Rxc5 Kg7 38. b4 Rd8 {Looking for a
+perpetual check 39.Qxd8 Qxh4+ etc. (G.C.)} 39. Qe4 Qxe4 40. fxe4 Rd4 41. Rc7
+Rxe4 42. Rxa7 Rxh4+ 43. Kg3 Rg4+ 44. Kf3 Kf7 45. b5 Ke6 46. b6 Kd6 47. Rxe7 Kc6
+{?? Aitken} (47... Rc4 48. b7 Rc3+ 49. Kf4 Rb3) 48. b7 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.15"]
+[Round "3"]
+[White "Brown, Harold"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[PlyCount "69"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. f4 d5 2. e3 Nf6 3. Nf3 Bg4 4. Be2 Bxf3 5. Bxf3 c6 6. O-O Nbd7 7. b3 e5 8.
+fxe5 Nxe5 9. Bb2 Bd6 10. Qe1 Qc7 11. Qh4 O-O-O 12. Nc3 h5 13. Ne2 Rdg8 14. g3
+Nxf3+ 15. Rxf3 Ne4 16. Rf5 Nxd2 17. Kg2 f6 18. Rxh5 Rxh5 19. Qxh5 Qe7 20. Bd4
+Qe4+ 21. Kh3 c5 22. Bc3 Nf3 23. Qg4+ Qxg4+ 24. Kxg4 Nxh2+ 25. Kf5 Re8 26. Nf4
+Rxe3 27. Nxd5 Re2 28. g4 Kd7 29. g5 Be5 30. Rd1 Bd4 31. gxf6 Rf2+ 32. Kg6 gxf6
+33. Bxd4 cxd4 34. Nxf6+ Kc6 35. Rxd4 1/2-1/2
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.16"]
+[Round "4"]
+[White "Aitken, James Macrae"]
+[Black "Truscott, Alan Fraser"]
+[Result "1-0"]
+[ECO "C43"]
+[Annotator "Book 7"]
+[PlyCount "37"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Nc6 8.
+Nxc6 bxc6 9. c5 Be7 10. Nd2 f5 11. Nf3 Bf6 12. Bf4 Qe7 13. Re1 Re8 14. Qc1 a5
+15. Be5 Ba6 16. Bxa6 Rxa6 17. Qf4 Bxe5 18. Nxe5 Qg5 {?? Aitken} 19. Rxe4 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.16"]
+[Round "4"]
+[White "Friedman, Otto"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "0-1"]
+[ECO "A21"]
+[PlyCount "60"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. c4 e5 2. Nc3 f5 3. e3 Nf6 4. d4 e4 5. Nh3 Bb4 6. Bd2 O-O 7. Qb3 Bxc3 8. Bxc3
+d6 9. Nf4 c6 10. h4 Qb6 11. Qa3 Qc7 12. Be2 Qe7 13. d5 c5 14. b3 Na6 15. Qb2
+Nc7 16. a4 Bd7 17. O-O-O a6 18. a5 Rab8 19. h5 b5 20. axb6 Rxb6 21. Ba5 Rb7 22.
+Rh3 Ba4 23. Rdh1 Rxb3 24. Ng6 Qf7 25. Qa2 Rfb8 26. Qxa4 Rb1+ 27. Kc2 R8b2+ 28.
+Kc3 Nfxd5+ 29. cxd5 Nxd5+ 30. Kc4 Nb6+ {Source: BCM, December 1945, p285} 0-1
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.16"]
+[Round "4"]
+[White "List, Paul M (Dr)"]
+[Black "Brierley, William Leonard"]
+[Result "1-0"]
+[ECO "D42"]
+[PlyCount "39"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 cxd4 8.
+exd4 Be7 9. O-O Nf6 10. a3 O-O 11. b4 a6 12. Bb2 b6 13. Qe2 Bb7 14. Rad1 Nb8
+15. Ne5 Nbd7 16. f4 Re8 17. Bb1 Nd5 18. Bxh7+ Kf8 19. Qh5 Nxe5 20. fxe5 {
+Source: BCM, December 1945, p286} 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.17"]
+[Round "5"]
+[White "Hayley, Robert E"]
+[Black "Aitken, James Macrae"]
+[Result "0-1"]
+[ECO "D52"]
+[Annotator "Aitken Book 7"]
+[PlyCount "66"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 07"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bg5 c6 6. e3 Qa5 7. Nd2 Bb4 8. Bxf6
+Nxf6 9. Qc2 O-O 10. Bd3 Re8 11. h3 e5 12. Nb3 Qc7 13. a3 dxc4 14. Bxc4 Bxc3+
+15. Qxc3 Ne4 16. Qc2 exd4 17. Bd3 Bf5 18. Nxd4 Bg6 19. O-O c5 20. Rac1 Rac8 21.
+b4 Qe7 22. Nb3 c4 23. Bxe4 {No note from Aitken but this is bad. White has
+missed the coming attack on g2 and after Bf4 which holds c8 the Bxh3 and Rxe3
+ideas. White has to let the b3 Knight go. (G.C.)} Bxe4 24. Qc3 Qg5 25. f3 Bf5
+26. f4 Qg3 27. Rf3 cxb3 28. Qb2 Rxc1+ 29. Qxc1 Qg6 {29..Rc8! (G.C.)} 30. Qb2
+Be4 31. Rf2 Bd5 32. f5 Qb6 33. Re2 Rxe3 {Probably Robert Evelyn Hayley 
+(1920-1996) but there's an outside chance he could be Ronald Edwin Hayley 
+(1923-2007).} 0-1
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.18"]
+[Round "6"]
+[White "Brown, Harold"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "A02"]
+[Annotator "Book 7"]
+[PlyCount "75"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. f4 Nf6 2. e3 g6 3. Nf3 Bg7 4. d4 e6 5. Bd3 d5 6. Nbd2 c5 7. c3 Nc6 8. O-O
+Nd7 9. Ne5 f6 10. Nxd7 Bxd7 11. dxc5 e5 12. e4 Qe7 13. b4 exf4 14. Re1 Ne5 15.
+exd5 O-O 16. Nc4 Qf7 17. Nxe5 fxe5 18. Be4 Bf5 19. Qc2 Rad8 20. Bxf5 Qxf5 21.
+Qxf5 gxf5 22. c4 e4 23. Rb1 Bd4+ 24. Kf1 Bc3 25. Re2 e3 26. Rb3 Bg7 27. b5 Rc8
+28. c6 Rfd8 29. Bb2 b6 30. Bxg7 Kxg7 31. g3 {! Aitken} fxg3 32. hxg3 f4 33.
+gxf4 Rf8 34. Rg2+ Kh8 35. Rxe3 Rxf4+ 36. Rf2 Rxc4 37. d6 Rc1+ 38. Re1 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.19"]
+[Round "7"]
+[White "Aitken, James Macrae"]
+[Black "Friedman, Otto"]
+[Result "1-0"]
+[ECO "B53"]
+[Annotator "Book 7"]
+[PlyCount "87"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5 Nxe4 5. cxd6 e6 6. Bd3 Nxd6 7. O-O Nc6 8.
+Re1 Be7 9. c3 O-O 10. Bf4 Ne8 11. Qc2 Nf6 12. Ne5 h6 13. Nd2 Nd5 14. Nxc6 bxc6
+15. Bg3 Bb7 16. Rad1 Bd6 17. Bxd6 Qxd6 18. Ne4 Qe7 19. Qb3 c5 20. Bb1 Nf4 21.
+f3 Rfd8 22. Qc2 Ng6 23. Qf2 {! Aitken} c4 24. Rxd8+ Rxd8 25. Qxa7 Bxe4 26. Qxe7
+Nxe7 27. fxe4 Rd2 28. b4 Ng6 29. Rf1 Ne5 30. a4 Kf8 31. h3 h5 32. a5 Nc6 33. e5
+{! Aitken} Re2 34. Bg6 Nxe5 35. Bxh5 Ra2 36. Bf3 Ke7 37. Rd1 Nxf3+ 38. gxf3 Ra3
+39. Kf2 Rxc3 40. Ra1 Rd3 41. a6 Rd8 42. b5 c3 43. b6 c2 44. Rc1 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.20"]
+[Round "8"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "D51"]
+[Annotator "Book 7"]
+[PlyCount "93"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. Nf3 c6 6. e4 dxe4 7. Nxe4 Bb4+ 8.
+Nc3 O-O {? Aitken} 9. Bd3 c5 10. Qc2 h6 11. h4 cxd4 12. Nxd4 e5 13. Nf5 Nc5 14.
+O-O-O {? Aitken} Nxd3+ 15. Rxd3 Bxf5 16. Rxd8 Bxc2 17. Rxf8+ Kxf8 18. Bxf6 Bxc3
+19. bxc3 gxf6 20. Kxc2 Ke7 21. Rb1 b6 22. c5 {! Aitken} bxc5 23. Rb7+ Ke6 24.
+Rc7 Rg8 25. g3 e4 26. Rxc5 e3 27. fxe3 Rxg3 28. Kd3 Rg4 29. Rc4 f5 30. Rd4 h5
+31. a4 Rg1 32. c4 Rc1 33. Kd2 Ra1 34. c5 Ra2+ 35. Kc3 Ra3+ 36. Kd2 Ra2+ 37. Kc3
+Ra3+ 38. Kb2 Rxe3 39. c6 Re5 40. Rc4 Kd5 {?? Aitken} 41. c7 Kxc4 42. c8=Q+ Rc5
+43. Qa6+ Kb4 44. Qxa7 f4 45. Qb6+ Kc4 46. Qb3+ Kd4 47. a5 1-0
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.21"]
+[Round "9"]
+[White "List, Paul M (Dr)"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "1/2-1/2"]
+[ECO "E34"]
+[PlyCount "118"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 c5 6. a3 Bxc3+ 7. bxc3 Nc6 8. Nf3
+O-O 9. Bd3 dxc4 10. Bxc4 Na5 11. Ba2 b6 12. dxc5 bxc5 13. c4 Bb7 14. Bb2 Be4
+15. Qc3 Rb8 16. Nd2 Bd3 17. Rd1 Qb6 18. Ba1 Rfd8 19. f3 Nc6 20. Nb3 Bg6 21. Ke2
+e5 22. Rxd8+ Rxd8 23. Rd1 Rxd1 24. Kxd1 a5 25. Nd2 h6 26. Ke2 Qc7 27. h3 Qe7
+28. Bb3 Nd4+ 29. Kf2 Nxb3 30. Qxb3 Nh5 31. Qb8+ Kh7 32. Bxe5 Qd7 33. Qd6 Qa4
+34. g4 Nf6 35. Bxf6 gxf6 36. f4 f5 37. e4 fxg4 38. hxg4 f6 39. Qxf6 Qd7 40. Qc3
+Qxg4 41. Qf3 Qh4+ 42. Qg3 Qd8 43. Ke1 Qe7 44. Ke2 Bh5+ 45. Kd3 Bd1 {(sealed
+move)} 46. Kc3 h5 47. e5 h4 48. Qd3+ Kh6 49. Ne4 Ba4 50. Nd6 Bd7 51. Qe3 Qg7
+52. f5+ Kh7 53. f6 Qg3 54. Kd3 Qg6+ 55. Qe4 h3 56. f7 Qxe4+ 57. Kxe4 h2 58.
+f8=Q h1=Q+ 59. Ke3 Qe1+ {Source: BCM, December 1945, p285} 1/2-1/2
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.22"]
+[Round "10"]
+[White "Aitken, James Macrae"]
+[Black "List, Paul M (Dr)"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Annotator "Book 7"]
+[PlyCount "117"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Rb8 9. axb5 axb5 10. c3 d5 11. exd5 Nxd5 12. d4 exd4 13. Nxd4 Nxd4 14. Qxd4 Bb7
+15. Bxd5 Bxd5 16. Rd1 c6 17. Bf4 Rb7 18. Nd2 Rd7 19. Ra7 Bf6 20. Qe3 Re8 21.
+Rxd7 Qxd7 22. Ne4 {! Aitken} Be7 23. Re1 Qe6 24. Nd6 Bxd6 25. Qxe6 Bxe6 26.
+Bxd6 h6 27. Bc5 Rd8 28. Bd4 Ra8 29. f3 Ra2 30. Re2 Bc4 31. Rd2 g5 32. g4 Kh7
+33. Be5 Bd5 34. Kf2 h5 35. h3 Kg6 36. f4 gxf4 37. Bxf4 Ra1 38. b3 Ra3 {! Aitken
+} 39. c4 Be6 40. cxb5 cxb5 41. Rd3 Rxb3 42. Rxb3 Bxb3 43. gxh5+ Kxh5 44. Kg3
+Kg6 45. Bd2 Kf5 46. Kf3 Ke5 47. h4 Bd1+ 48. Ke3 Kd5 49. Kf4 Ke6 50. Kg5 f5 51.
+Kf4 Kf6 52. Bc3+ Ke6 53. Bd2 Be2 54. Bc3 Bh5 55. Kg5 Be8 56. h5 Bxh5 57. Kxh5
+Kd5 58. Kg5 Ke4 59. Bd2 {Aitken has written R.9 but scored it out and made it
+'10' maybe he had a bye in round 9. GC (He did have a bye in round 9 - JS)}
+1/2-1/2
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.22"]
+[Round "10"]
+[White "Distler, Alexander"]
+[Black "Friedman, Otto"]
+[Result "0-1"]
+[ECO "E33"]
+[PlyCount "102"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 a5 8. b3
+O-O 9. Bb2 Re8 10. e3 e5 11. d5 Ne7 12. Be2 Ne4 13. Qc2 f5 14. O-O Ng6 15. Bd3
+Rf8 16. b4 Ng5 17. Nd2 e4 18. Be2 Qe7 19. g3 Bd7 20. Rfe1 Ne5 21. Bd4 Ngf3+ 22.
+Nxf3 Nxf3+ 23. Bxf3 exf3 24. Qd3 Qg5 25. c5 Qh5 26. Kh1 Qh3 27. Rg1 axb4 28.
+axb4 Rxa1 29. Bxa1 Qg4 30. Qc3 Rf6 31. c6 bxc6 32. dxc6 Be6 33. Qd4 Rh6 34.
+Qxg4 fxg4 35. Bd4 Bc4 36. Bb6 cxb6 37. c7 Be6 38. Ra1 Rh5 39. Ra8+ Kf7 40. c8=Q
+Bxc8 41. Rxc8 Rd5 42. h3 Rd1+ 43. Kh2 Rd2 44. hxg4 Rxf2+ 45. Kh3 Rb2 46. Rc6
+Rb1 47. Rc2 Rh1+ 48. Rh2 Rxh2+ 49. Kxh2 Kf6 50. Kg1 Kg5 51. e4 Kxg4 {Source:
+BCM, April 1946, p127} 0-1
+
+[Event "London Championship"]
+[Site "London"]
+[Date "1945.10.23"]
+[Round "11"]
+[White "Thomas, George Alan"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "C73"]
+[Annotator "Book 7"]
+[PlyCount "87"]
+[EventDate "1945.10.13"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 7"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.22"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 exd4 7. Nxd4 c5 8.
+Ne2 Bb7 {! Aitken} 9. f3 g6 10. c4 {! Aitken} Bg7 11. Nbc3 Ne7 12. Be3 O-O 13.
+O-O Rb8 14. Qd2 Bc8 15. Rad1 ({Roger Paige gives} 15. Rfd1 {in his book of Sir
+George Thomas's games.}) 15... Be6 16. b3 f5 {? Aitken} 17. Bh6 fxe4 {(Aitken
+clearly has 18.Nf4 Qc1 19.Bxg7 Kxg7 here. 18.Nf4?? loses to 18...Bxh6 and is
+too simple to miss by two good players, I have given 18.Bxg7 and then Nf4 - GC.
+Roger Paige's book has 18 Bxg7 as GC has given here.)} 18. Bxg7 Kxg7 19. Nf4
+Qc8 20. Nxe4 Nc6 21. Ng5 ({Roger Paige's book, which had an earlier 15 Rfd1,
+now has} 21. Rfe1 Nd4 22. Ng5 {after which the two versions converge - JS})
+21... Nd4 22. Rfe1 Re8 23. Qc3 Bf7 24. Rxe8 Qxe8 25. Re1 Qd7 26. Nfe6+ Bxe6 27.
+Nxe6+ Kg8 28. Nxd4 cxd4 29. Qxd4 Re8 30. Rxe8+ Qxe8 31. Qe4 Qf8 32. h3 Qf6 33.
+Kh2 Qb2 {? Aitken} 34. Qe7 {! Aitken} Qd2 35. Qd8+ Kg7 36. Qxc7+ Kh6 {? Aitken}
+37. Qf7 Kg5 38. b4 {! Aitken} Qxa2 39. f4+ Kh6 40. Qf8+ Kh5 41. Qg7 h6 42. Qd7
+g5 43. Qf7+ Kh4 44. Qg6 {Source: Aitken Scorebook 7 & Times Weekly Edition, 9
+January 1946, p19 (as given in The Chess Games of Sir George Alan Thomas by by
+Roger L Paige (2005)). (Final table of this tournament is shown in BCM,
+December 1945, p284: 1 G Wood 8/10, 2 Dr PM List 7½, 3 Dr O Friedman 7, 4 Sir
+G Thomas 6½, 5-6 Dr JM Aitken, WL Brierley 5½, 7-8 H Brown, AF Truscott 5, 9
+A Distler 2½, 10 GH Diggle 2, 11 RE Hayley ½.)} 1-0
+
+[Event "London ch preliminary ko"]
+[Site "London"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Bowley, EJ."]
+[Black "Wenman, Francis Percival"]
+[Result "1-0"]
+[ECO "A52"]
+[PlyCount "61"]
+[EventDate "1945.??.??"]
+[EventType "k.o."]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Nf3 Bc5 7. Bd3 d6 8.
+Qe2 Bg4 9. Be3 Nd4 10. Qf2 Nxf3+ 11. gxf3 Bxe3 12. Qxe3 Bd7 13. h4 Qe7 14. Nc3
+Bc6 15. O-O-O Nd7 16. Nd5 Bxd5 17. cxd5 a6 18. Qd4 f6 19. Rde1 O-O-O 20. Rh2
+Nc5 21. Bf1 Kb8 22. b4 Na4 23. b5 axb5 24. Bxb5 Nc5 25. Rb2 Qf7 26. Kb1 Qh5 27.
+Bc6 Kc8 28. Rxb7 Qxf3 29. Qb4 Na6 30. Rb8+ Nxb8 31. Qb7# {Source: BCM, January
+1946, p22} 1-0
+
+[Event "London ch preliminary ko"]
+[Site "London"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Distler, Alexander"]
+[Black "Gilchrist, James"]
+[Result "1-0"]
+[ECO "D13"]
+[PlyCount "85"]
+[EventDate "1945.??.??"]
+[EventType "k.o."]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 cxd4 4. cxd4 d5 5. Nc3 Nc6 6. Qb3 g6 7. Bg5 e6 8. e3
+Be7 9. Rc1 O-O 10. Bd3 Kg7 11. O-O h6 12. Bh4 Nh7 13. Bg3 Bd6 14. Ne2 Bxg3 15.
+hxg3 f5 16. Rc3 Nf6 17. Rfc1 Ne4 18. R3c2 g5 19. Nd2 Rf7 20. f3 Nxd2 21. Rxd2
+Na5 22. Qa3 b6 23. b4 Nb7 24. Rdc2 Nd6 25. b5 Bb7 26. Qa4 Rc8 27. Rxc8 Nxc8 28.
+Qc2 Nd6 29. a4 Ne8 30. Kf2 Qd6 31. Qb3 Nf6 32. Bb1 Rc7 33. Rh1 Bc8 34. g4 Qe7
+35. Ng3 f4 36. exf4 gxf4 37. Ne2 e5 38. g3 $2 (38. dxe5 Qxe5 39. Qd3 $18) 38...
+exd4 $2 (38... e4 39. Nxf4 exf3 $11) 39. gxf4 $18 Rc3 40. Nxc3 Qe3+ 41. Kg2
+Nxg4 42. fxg4 Bxg4 43. Qxd5 {Source: BCM, January 1946, p22} 1-0
+
+[Event "London ch preliminary ko"]
+[Site "London"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Duke, AJ."]
+[Black "Butcher, Cecil George"]
+[Result "1-0"]
+[ECO "D00"]
+[PlyCount "61"]
+[EventDate "1945.??.??"]
+[EventType "k.o."]
+[EventCountry "ENG"]
+
+1. d4 d5 2. e3 e6 3. Bd3 c5 4. c3 Nc6 5. f4 c4 6. Bc2 g6 7. Nf3 Bg7 8. Nbd2 Nf6
+9. O-O b5 10. Ne5 Bb7 11. Qf3 Qc7 12. g4 a5 13. a3 a4 14. Rf2 O-O-O 15. e4 Nxe5
+16. fxe5 dxe4 17. Nxe4 Nxe4 18. Bxe4 Bxe4 19. Qxe4 Rd5 20. Bg5 Qb7 21. Raf1 Rf8
+22. Bf6 Bxf6 23. Rxf6 Rd7 24. Qxb7+ Kxb7 25. Rxe6 fxe6 26. Rxf8 Kc6 27. Kf2 Kd5
+28. Ke3 Kc6 29. Re8 Rf7 30. Rxe6+ Kc7 31. Rf6 {Source: BCM, January 1946, p21}
+1-0
+
+[Event "London ch preliminary ko"]
+[Site "London"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Moore, JJ."]
+[Black "Gordon, AL."]
+[Result "0-1"]
+[ECO "B00"]
+[PlyCount "66"]
+[EventDate "1945.??.??"]
+[EventType "k.o."]
+[EventCountry "ENG"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Nf3 Nge7 6. Bd3 Qd7 7. Nh4 Bxd3 8.
+Qxd3 Nf5 9. Nxf5 exf5 10. Bf4 Be7 11. h4 O-O-O 12. Nd2 h6 13. h5 Rhe8 14. O-O-O
+Bf8 15. Bg3 Qe6 16. f4 Na5 17. b4 Nc4 18. Nxc4 dxc4 19. Qf3 a5 20. a3 Rd5 21.
+Kb2 Red8 22. Bf2 Qb6 23. Ra1 Qb5 24. Qe2 c5 25. a4 Qb6 26. Qxc4 axb4 27. cxb4
+Rxd4 28. Bxd4 Rxd4 29. a5 Qc6 30. Qc2 Qb5 31. Ra3 Re4 32. Rd1 Re2 33. Rd2 Qxb4+
+{"and wins" Source: BCM, January 1946, p21} 0-1
+

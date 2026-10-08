@@ -1,0 +1,103 @@
+﻿[Event "Varsity Oxford-Cambridge"]
+[Site "Talbot Restaurant, London"]
+[Date "1949.03.19"]
+[Round "1"]
+[White "Swinnerton-Dyer, H Peter"]
+[Black "Truscott, Alan Fraser"]
+[Result "0-1"]
+[ECO "B06"]
+[PlyCount "15"]
+[EventDate "1949.03.19"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. g3 Nf6 5. Bg2 O-O 6. Ne2 e5 7. Qc2 Qe7 8. O-O {
+etc... move order likely to be wrong - moves deduced from a photo of the final
+position.} 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "Talbot Restaurant, London"]
+[Date "1949.03.19"]
+[Round "3"]
+[White "Reifenberg, Ernst Robert"]
+[Black "Pike, John Edward"]
+[Result "1-0"]
+[ECO "C58"]
+[PlyCount "74"]
+[EventDate "1949.03.19"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "Britbase"]
+[SourceVersion "2"]
+[SourceVersionDate "1998.08.06"]
+[SourceQuality "1"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 Qc7 9. Bd3 Bd6 10. Nc3 h6 {[A contemporary photo shows that White had used
+about 8 minutes, and Black 20 minutes, by this stage of the game]} 11. Nge4 Nd5
+{[? Ritson Morry]} 12. Nxd5 cxd5 13. Nxd6+ Qxd6 14. Bb5+ Nc6 (14... Bd7 $142)
+15. Qa3 $1 Qe6 16. O-O Bd7 17. Re1 f6 18. d3 Kf7 19. c4 $1 d4 20. c5 Ne7 21.
+Bc4 Nd5 22. b4 a6 23. Qb3 Bc6 24. a4 Rhd8 25. Rb1 Rab8 26. b5 axb5 27. axb5 Qe8
+28. Bd2 Kf8 29. Qa4 Ra8 30. Qc2 Bb7 31. c6 Bxc6 32. bxc6 Qxc6 33. Bb4+ Kg8 34.
+Bxd5+ Qxd5 35. Qb3 Kf7 36. Qxd5+ Rxd5 37. Rb2 Rb5 {adjudicated win for white 
+[Source; London Chess Bulletin, 25 March 1949]} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "Talbot Restaurant, London"]
+[Date "1949.03.19"]
+[Round "6"]
+[White "Wall, John Anthony"]
+[Black "Tayler, Roger John"]
+[Result "1-0"]
+[ECO "E85"]
+[PlyCount "59"]
+[EventDate "1949.03.19"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 {["This was quite a popular defence in this match, for it
+was adopted in four of the seven games." (MCB)} 3. Nc3 Bg7 4. e4 d6 5. f3 Nc6
+6. Be3 e5 7. Nge2 O-O 8. d5 Ne7 9. Qd2 Bd7 10. g4 Kh8 11. Ng3 Nfg8 12. h4 f5
+13. gxf5 gxf5 14. Bg5 f4 15. Nh5 $1 Bh6 16. Ne2 Qe8 17. Nexf4 $1 exf4 18. Qd4+
+Nf6 19. Nxf6 (19. Bxf6+ $142) 19... Bg7 20. Nxe8 Bxd4 21. Nxc7 Bxb2 22. Rb1
+Bc3+ 23. Ke2 Nf5 24. exf5 Bxf5 25. Rb3 Rae8+ 26. Nxe8 Rxe8+ 27. Kf2 Bd4+ 28.
+Kg2 Rg8 29. Bd3 Bc8 30. Kf1 {Source: Midland Chess Bulletin, 2 Apr 1949} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "Talbot Restaurant, London"]
+[Date "1949.03.19"]
+[Round "7"]
+[White "Moore, Noel Ernest Ackroyd"]
+[Black "Jones, Terence C Granville"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "q3nrk1/p2R3p/1p2p1p1/2p2pB1/2P4Q/6PP/Pb3P2/5RK1 b - - 0 22"]
+[PlyCount "9"]
+[EventDate "1949.03.19"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+22... h5 23. Rfd1 Nf6 24. Re7 Qf3 $1 25. Re1 Ne4 26. Be3 g5 {"and in the end
+White could nothing but give up his queen" (Source: Midland Chess Bulletin, 2
+Apr 1949 & London Chess Bulletin, 25 Mar 1949)} 0-1
+

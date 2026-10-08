@@ -1,0 +1,44 @@
+﻿[Event "Manor Farm Tournament"]
+[Site "Horsington"]
+[Date "1943.01.01"]
+[Round "2"]
+[White "Robertson, George Marwick"]
+[Black "Du Mont, Julius"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "57"]
+[EventDate "1942.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 Nc6 (3... e6) 4. c3 a5 5. Nd4 e5 6. Nxc6 bxc6 7. b4
+Nf6 8. e3 axb4 9. cxb4 Ne4 10. Qc2 Bf5 11. Bd3 Bg6 12. O-O Be7 13. Bb2 Bf6 14.
+Nd2 Ng5 (14... Nxd2 15. Qxd2 e4) 15. Bxg6 hxg6 16. f4 exf4 17. exf4 Ne6 18. f5
+Bxb2 19. Qxb2 gxf5 20. Rxf5 Qh4 21. Nf3 Qg4 22. Rxf7 Rh5 23. Rb7 Rf5 24. Re1
+Rxf3 25. Rxg7 Rxa2 26. Rxg4 Rxb2 27. Rxe6+ Kf7 28. gxf3 Kxe6 29. h4 {Source:
+BCM, February 1943, p26. Private tournament held at the home of George
+Robertson, Manor Farm, Horsington, Somerset, 31 December 1942 to 4 January
+1943. 1 J C Waterman 4½/5; 2 G M Robertson 3½; 3-4 M Ellinger, J du Mont 3;
+5-6 J T Reese, H Chancellor ½.} 1-0
+
+[Event "Manor Farm Tournament"]
+[Site "Horsington"]
+[Date "1942.??.??"]
+[Round "?"]
+[White "Du Mont, Julius"]
+[Black "Ellinger, Maurice"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r5k1/pp3ppp/2n5/2pPP3/8/2B2P2/PP2K2P/7R b - - 0 1"]
+[PlyCount "34"]
+[EventDate "1942.12.31"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1... Nxe5 2. Bxe5 Re8 3. f4 f6 4. d6 fxe5 5. f5 Kf7 6. Ke3 Rd8 7. Rd1 g6 8. Ke4
+gxf5+ 9. Kxe5 Rf8 10. Kxf5 Ke8+ 11. Ke6 Kd8 12. Rg1 Re8+ 13. Kd5 Re2 14. Rg8+
+Kd7 15. Rg7+ Kd8 16. Rxb7 Rd2+ 17. Kc6 Kc8 18. Rf7 {Source: BCM, February 1943,
+p26} 1-0
+

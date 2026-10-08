@@ -1,0 +1,77 @@
+[Event "Oxford University v Bletchley"]
+[Site "Oxford, Balliol College"]
+[Date "1944.12.02"]
+[Round "1.1"]
+[White "Tylor, Theodore Henry"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "60"]
+[EventDate "1944.12.02"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Bletchley"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 d6 5. Nd5 Ba5 6. Nxf6+ Qxf6 7. c3 Nc6 8. O-O Bg4 9. a4 Bb6 10. b4 a5 11. b5 Nd8 12. Be2 Ne6 13. d3 O-O 14. Be3 Bc5 15. Nd2 Bxe2 16. Qxe2 Qe7 17. Nb3 f5 18. Nxc5 dxc5 19. exf5 Rxf5 20. f4 Re8 21. Qg4 g6 22. fxe5 Rxe5 23. Bd2 Ng7 24. Rae1 Qe6 25. Qf3 Rxe1 26. Rxe1 Qf5 27. Rxe8+ Nxe8 28. Qxf5 gxf5 29. c4 b6 30. Kf2 Ng7 {Source: CHESS, February 1945, Vol.10/113, p73} ({Intriguingly, Stockfish gives this position as +6.05 for White!} 30... Ng7 31. Kg3 $1 Ne6 32. Kh4 $1 Kf7 33. Kh5 $1 {and we're headed for an eventual zugzwang when Black will have to cede ground in some way.}) 1/2-1/2
+
+[Event "Oxford University v Bletchley"]
+[Site "Oxford, Balliol College"]
+[Date "1944.12.02"]
+[Round "1.2"]
+[White "Golombek, Harry"]
+[Black "Cornforth, John Warcup"]
+[Result "0-1"]
+[ECO "A60"]
+[PlyCount "72"]
+[EventDate "1944.12.02"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Bletchley"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Bg2 Be7 7. e4 Nbd7 8. Ne2 b5 9. O-O Qb6 10. b3 Ng4 11. Bb2 Bf6 12. Bxf6 Ndxf6 13. h3 Ne5 14. f4 Ned7 15. Kh2 O-O 16. Nd2 a5 17. g4 Ba6 18. g5 Ne8 19. Ng3 b4 20. Re1 f6 21. Qg4 Qd8 22. h4 Bc8 23. Nf5 Nb6 24. Qf3 fxg5 25. fxg5 Nxd5 26. Rf1 Bxf5 27. exf5 Nb6 28. Nc4 Ra7 29. Qg3 Kh8 30. Nxb6 Qxb6 31. Rae1 Qd8 32. Rd1 Re7 33. f6 gxf6 34. gxf6 Ref7 35. Bc6 Rxf6 36. Rxf6 Qxf6 {Source: CHESS, February 1945, Vol.10/113, p73. Contributed by Brian Denman via the English Chess Forum, 9 September 2015} 0-1
+
+[Event "Oxford University v Bletchley"]
+[Site "Oxford"]
+[Date "1944.12.02"]
+[Round "1.3"]
+[White "Schenk, Hans Georg"]
+[Black "Aitken, James Macrae"]
+[Result "0-1"]
+[ECO "D02"]
+[Annotator "Book 6"]
+[PlyCount "100"]
+[EventDate "1944.12.02"]
+[EventType "team-match"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 6"]
+[Source "Geoff Chandler"]
+[SourceDate "2020.11.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2020.11.19"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Bletchley"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. Nbd2 Bd6 5. e3 O-O 6. Bd3 c5 7. c3 Bxf4 8.
+exf4 Qd6 9. g3 cxd4 10. cxd4 Nc6 11. a3 b6 12. b4 Bb7 13. O-O Ne7 14. Qe2 Nf5
+15. Qe5 Ne4 16. Qxd6 Nexd6 17. Rfc1 Rac8 18. Nb3 Nc4 19. Ne5 Nfd6 20. Rc2 f6
+21. Ng4 a5 22. bxa5 Nxa5 23. Nxa5 bxa5 24. Ne3 Rxc2 25. Bxc2 Nb5 {! Aitken} 26.
+Rb1 Ba6 27. Ba4 Nxd4 28. Rb6 Bd3 29. Bd7 Kf7 30. Rb7 Kg6 31. Rb6 Be4 32. Kf1
+Nf3 33. Bxe6 Nxh2+ 34. Ke2 Re8 35. Kd2 Nf3+ 36. Kc1 Rd8 37. f5+ Kh6 38. g4 d4
+39. Nc4 Kg5 40. Nd6 Kf4 41. Nf7 Ra8 42. Nd6 Ng5 43. Kd2 Kxg4 44. Nxe4 Nxe4+ 45.
+Ke2 Kf4 46. f3 Ng3+ 47. Kd3 Rd8 48. Rb7 Nxf5 49. Bxf5 Kxf5 50. Rxg7 h5 {
+Adjudicated a win for Black. (Source: Aitken scorebook) "The match was played
+on twelve boards, and took place on Saturday 2 December 1944, at Oxford, in
+the Massey Room, Balliol College. The match began promptly at 2.30pm and ended
+at 6pm." (BCM, February 1945, p36)} 0-1
+

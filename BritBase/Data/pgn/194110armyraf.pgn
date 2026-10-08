@@ -1,0 +1,285 @@
+[Event "Army v RAF"]
+[Site "London, Hampstead CC"]
+[Date "1941.10.25"]
+[Round "1.1"]
+[White "Solomon, John David"]
+[Black "Parr, Frank"]
+[Result "1-0"]
+[ECO "B52"]
+[PlyCount "85"]
+[EventDate "1941.10.25"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.04"]
+[SourceQuality "1"]
+[WhiteTeam "RAF"]
+[BlackTeam "Army"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Qe2 g6 5. c3 Bg7 6. d4 cxd4 7. cxd4 Nc6 8.
+Be3 Nf6 9. Nc3 a6 10. Bd3 O-O 11. h3 h6 12. Rc1 e6 13. O-O Kh7 14. Rfd1 Ne7 15.
+Bf4 Bc6 16. Bh2 Qd7 17. e5 Bxf3 18. Qxf3 dxe5 19. Bxe5 Nfd5 20. Ne4 Nc6 21. Bc4
+f6 22. Nc5 Qe7 23. Nxe6 fxe5 24. Nxf8+ Rxf8 25. Qxd5 Nxd4 26. Bd3 e4 27. Bc4 b5
+28. Rxd4 Bxd4 29. Qxd4 bxc4 30. Rxc4 Re8 31. Qb6 Qe5 32. Qc7+ Kg8 33. Qxe5 Rxe5
+34. Rc6 Ra5 35. a3 Kf7 36. Kf1 Rb5 37. b4 a5 38. Rc5 Rxc5 39. bxc5 Ke6 40. Ke2
+Kd5 41. Ke3 Kxc5 42. Kxe4 Kc4 43. f4 {Source: CHESS, December 1941, Vol.7/75,
+p41} 1-0
+
+[Event "Army v RAF"]
+[Site "London, Hampstead CC"]
+[Date "1941.10.25"]
+[Round "1.2"]
+[White "Wheatcroft, George Shorrock A"]
+[Black "Riley, Douglas Eric Arnold"]
+[Result "1-0"]
+[ECO "C32"]
+[PlyCount "65"]
+[EventDate "1941.10.25"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.04"]
+[SourceQuality "1"]
+[WhiteTeam "Army"]
+[BlackTeam "RAF"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Bf2+ $2
+8. Kd1 Qxd5+ 9. Nfd2 f5 10. Nc3 Qd4 11. Ncxe4 fxe4 12. c3 Qe3 13. Qh5+ Kf8 14.
+Nf3 Qc5 15. Ng5 Qd5+ 16. Kc2 $2 Bf5 17. Be3 Bxe3 18. Rd1 Bd2 19. Rxd2 e3+ 20.
+Rd3 Nd7 21. Kc1 Qxa2 22. Rxe3 Nf6 23. Nxh7+ Rxh7 24. Qxf5 Rd8 25. Qc5+ Rd6 26.
+Bd3 Qa1+ 27. Bb1 Rh5 28. Re5 Ne4 29. Qxc7 Rxe5 30. fxe5 Rd2 31. Rf1+ Kg8 32.
+Qc4+ Kh8 33. Rf8+ {Source: CHESS, December 1941, Vol.7/75, p42} 1-0
+
+[Event "Army v RAF"]
+[Site "London, Hampstead CC"]
+[Date "1941.10.25"]
+[Round "1.3"]
+[White "Taylor, ES"]
+[Black "Horne, Dennis Morton"]
+[Result "1-0"]
+[ECO "D06"]
+[PlyCount "65"]
+[EventDate "1941.10.25"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.04"]
+[SourceQuality "1"]
+[WhiteTeam "RAF"]
+[BlackTeam "Army"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c5 4. cxd5 cxd4 5. Qxd4 Qxd5 6. Nc3 Qxd4 7. Nxd4 a6
+8. e4 e5 9. Nb3 Bb4 10. f3 Be6 11. Be3 Nbd7 12. Rc1 Rc8 13. Be2 O-O 14. Kf2
+Bxb3 15. axb3 Nc5 16. Na2 Ncxe4+ 17. fxe4 Nxe4+ 18. Kf3 Nd2+ 19. Kg3 Ne4+ 20.
+Kf3 Nd2+ 21. Bxd2 Bxd2 22. Rc4 f5 23. Rd1 e4+ 24. Kf2 Rce8 25. Rc7 b5 26. Nc3
+f4 27. Kf1 e3 28. b4 Re5 29. Bf3 a5 30. bxa5 b4 31. Nd5 Rd8 32. a6 Kf8 33. Nxf4
+{Source: CHESS, December 1941, Vol.7/75, p43} 1-0
+
+[Event "Army v RAF"]
+[Site "London, Hampstead CC"]
+[Date "1941.10.25"]
+[Round "1.4"]
+[White "Montgomerie, John"]
+[Black "Butler, David Henry"]
+[Result "1-0"]
+[ECO "C18"]
+[PlyCount "91"]
+[EventDate "1941.10.25"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.04"]
+[SourceQuality "1"]
+[WhiteTeam "Army"]
+[BlackTeam "RAF"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. bxc3 Qc7 8.
+Nf3 Qxc3+ 9. Bd2 Qc7 10. Bd3 Nc6 11. Qe2 Nge7 12. b5 Nd8 13. O-O f6 14. Ra4 Nf7
+15. exf6 gxf6 16. c4 Ne5 17. cxd5 Nxd3 18. Qxd3 Nxd5 19. Rc1 Qg7 20. Qa3 Rg8
+21. g3 a6 22. bxa6 bxa6 23. Rc6 Qb7 24. Rd6 Qb1+ 25. Kg2 Rb8 26. Rc4 Kf7 27.
+Rxd5 exd5 28. Rc7+ Kg6 29. Qe7 Kh5 30. Nh4 Bh3+ 31. Kxh3 Rxg3+ 32. Kxg3 Rg8+
+33. Kf3 Qd1+ 34. Ke3 d4+ 35. Kd3 Qb3+ 36. Kxd4 Rg4+ 37. f4 Qb2+ 38. Kd3 Qb1+
+39. Ke2 Rxh4 40. Qxh7+ Qxh7 41. Rxh7+ Kg4 42. Rxh4+ Kxh4 43. Kd3 f5 44. Kd4 Kh3
+45. Ke5 Kg4 46. Ba5 {Source: CHESS, December 1941, Vol.7/75, p43} 1-0
+
+[Event "Army v RAF"]
+[Site "London, Hampstead CC"]
+[Date "1941.10.25"]
+[Round "1.5"]
+[White "Hobbs, John"]
+[Black "Thomson, Alexander Aird"]
+[Result "1-0"]
+[ECO "C35"]
+[PlyCount "87"]
+[EventDate "1941.10.25"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.04"]
+[SourceQuality "1"]
+[WhiteTeam "RAF"]
+[BlackTeam "Army"]
+
+1. e4 e5 2. f4 exf4 3. h4 Be7 4. Nf3 d6 5. d4 Bg4 6. Bxf4 Bxh4+ 7. g3 g5 8. Be2
+gxf4 9. gxh4 Nc6 10. c3 f5 11. Nbd2 fxe4 12. Nxe4 Qe7 13. Nfg5 f3 14. Bxf3 Bxf3
+15. Qxf3 d5 16. Qh5+ Kd7 17. Qg4+ Ke8 18. O-O dxe4 19. Qh5+ Kd8 20. Rf8+ Qxf8
+21. Ne6+ Ke7 22. Nxf8 Rxf8 23. Qc5+ Ke8 24. d5 Rf5 25. Qc4 Nce7 26. Qxc7 Rxd5
+27. Rf1 Nh6 28. Qb8+ Rd8 29. Qxb7 Rg8+ 30. Kh1 Nhf5 31. Qb5+ Rd7 32. Rd1 Ng3+
+33. Kh2 Nf1+ 34. Rxf1 Kd8 35. Qb8+ Nc8 36. Qf4 Re8 37. Re1 Nd6 38. c4 e3 39.
+Rxe3 Rxe3 40. Qxe3 Nxc4 41. Qg5+ Kc8 42. Qc1 Kb7 43. Qxc4 Rd2+ 44. Kg3 {
+Source: CHESS, December 1941, Vol.7/75, p44} 1-0
+
+[Event "British Forces v Allied Forces"]
+[Site "Nottingham"]
+[Date "1941.11.15"]
+[Round "1.1"]
+[White "Tartakower, Saviely"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "D03"]
+[PlyCount "87"]
+[EventDate "1941.11.15"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.04"]
+[SourceQuality "1"]
+[WhiteTeam "Allied Forces"]
+[BlackTeam "British Forces"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. Nbd2 d5 5. e3 c5 6. c3 Nbd7 7. Bd3 b6 8. O-O
+Bb7 9. Qc2 h6 10. Bh4 O-O 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bg3 f6 14. exf6 Bxf6
+15. e4 Bh4 16. Rae1 Bxg3 17. hxg3 c4 18. Be2 Nc5 19. exd5 exd5 20. Nf3 Qf6 21.
+Nd4 Rae8 22. Bh5 Rxe1 23. Rxe1 Ne4 24. Bf3 a6 25. Re2 b5 26. Bxe4 dxe4 27. Qd2
+Rd8 28. Qe3 b4 29. Rd2 a5 30. Qe2 Qf7 31. Qg4 Kh8 32. Kh2 Rd5 33. Kg1 Rd8 34.
+Qf4 Qxf4 35. gxf4 Kg8 36. Kf1 Kf7 37. g3 Kf6 38. Ke2 g5 39. fxg5+ hxg5 40. Ke3
+Rd6 41. Nb3 cxb3 42. Rxd6+ Ke5 $2 43. Rb6 bxa2 44. Rb5+ {Source: BCM, December
+1941, p306. Tartakower played under the nom de guerre 2nd Lt. Georges Cartier.}
+1-0
+
+[Event "British Forces v Allied Forces"]
+[Site "Nottingham"]
+[Date "1941.11.15"]
+[Round "1.2"]
+[White "Solomon, John David"]
+[Black "Sulik, Franciszek"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "41"]
+[EventDate "1941.11.15"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.04"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.04"]
+[SourceQuality "1"]
+[WhiteTeam "British Forces"]
+[BlackTeam "Allied Forces"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. c4 Be7 6. d4 O-O 7. Bd3 d5 8. O-O
+Nf6 9. cxd5 Bg4 10. Nc3 Nxd5 11. Be4 c6 12. Qb3 Nb6 13. Rd1 N8d7 14. h3 Bh5 15.
+g4 Bg6 16. Bxg6 hxg6 17. Ne5 Nxe5 18. dxe5 Qc7 19. Bf4 Nd7 20. Rac1 Nxe5 $4 21.
+Nd5 {Source: CHESS, December 1941, Vol.7/75, p34} 1-0
+
+[Event "British Forces v Allied Forces"]
+[Site "Nottingham"]
+[Date "1941.11.15"]
+[Round "1.3"]
+[White "Simek, A"]
+[Black "Wheatcroft, George Shorrock"]
+[Result "0-1"]
+[ECO "B71"]
+[PlyCount "52"]
+[EventDate "1941.11.15"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.08.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.08.29"]
+[SourceQuality "1"]
+[WhiteTeam "Allied Forces"]
+[BlackTeam "British Forces"]
+[BlackTeamCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 Bd7 7. f4 g6 8. O-O Bg7 9. Nf3 Nxe4 10. Nxe4 Qb6+ 11. Kh1 Qxb5 12. c3 O-O 13. a4 Qa5 14. Be3 Rad8 15. Qe1 Bc8 16. Qh4 Qf5 17. Nf2 d5 18. Rac1 f6 19. b4 e5 20. b5 d4 21. Bd2 dxc3 22. Rxc3 Nd4 23. Nxd4 Rxd4 24. Be3 Rxa4 25. Nd3 exf4 26. Rc5 Qxd3 {Source: CHESS, January 1942, Vol.7/76, p59} 0-1
+
+[Event "British Forces v Allied Forces"]
+[Site "Nottingham"]
+[Date "1941.11.15"]
+[Round "1.4"]
+[White "Parr, Frank"]
+[Black "Balcar, Oldrych"]
+[Result "0-1"]
+[ECO "D61"]
+[PlyCount "68"]
+[EventDate "1941.11.15"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.08.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.08.29"]
+[SourceQuality "1"]
+[WhiteTeam "British Forces"]
+[BlackTeam "Allied Forces"]
+[WhiteTeamCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 Be7 6. e3 O-O 7. Qc2 h6 8. Bh4 Nbd7 9. Rd1 a6 10. Be2 Nh7 11. Bg3 f5 12. h3 Ng5 13. Bh2 Nxf3+ 14. gxf3 Bh4 15. Rg1 Rf7 16. Rg2 b5 17. c5 Bb7 18. Kd2 Bg5 19. f4 Bf6 20. Bh5 Re7 21. Rdg1 a5 22. Ne2 a4 23. Nc1 b4 24. Nd3 Qa5 25. Kc1 b3 26. axb3 axb3 27. Qxb3 Ba6 28. Be2 Bc4 29. Qc2 Qb5 30. f3 Ra2 31. Ne5 Qa5 32. Qd2 Ra1+ 33. Kc2 Qa4+ 34. Kc3 Qb3# {Source: CHESS, January 1942, Vol.7/76, p59} 0-1
+
+[Event "British Forces v Allied Forces"]
+[Site "Nottingham"]
+[Date "1941.11.15"]
+[Round "1.6"]
+[White "Tims Collins, Francis George"]
+[Black "Prytys, W"]
+[Result "1-0"]
+[ECO "C23"]
+[PlyCount "39"]
+[EventDate "1941.11.15"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.08.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.08.29"]
+[SourceQuality "1"]
+[WhiteTeam "British Forces"]
+[BlackTeam "Allied Forces"]
+[WhiteTeamCountry "GBR"]
+
+1. e4 e5 2. Bc4 Qf6 3. Nc3 c6 4. Nf3 h6 5. O-O Bc5 6. d3 d6 7. h3 Be6 8. Bb3 Bxb3 9. axb3 Ne7 10. Be3 Nd7 11. d4 exd4 12. Bxd4 Bxd4 13. Nxd4 Ne5 14. f4 N5g6 15. Nf5 Nxf5 16. exf5 Ne7 17. Ne4 Qxb2 18. f6 gxf6 19. Qxd6 Nd5 20. Nxf6+ {Source: CHESS, January 1942, Vol.7/76, p60} 1-0
+

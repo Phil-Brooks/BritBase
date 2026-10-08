@@ -1,0 +1,45 @@
+﻿[Event "West London Club Ch m"]
+[Site "London"]
+[Date "1943.04.10"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Streusler, Heinrich"]
+[Result "1-0"]
+[ECO "B11"]
+[PlyCount "53"]
+[EventDate "1943.04.10"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 d4 4. Ne2 d3 5. cxd3 Qxd3 6. Ng3 Qd8 7. Bc4 Nf6 8.
+O-O Qc7 9. d4 e6 10. Qc2 Be7 11. Bd3 Nbd7 12. Bd2 Nf8 13. Rfe1 h5 14. Bg5 Bd7
+15. d5 h4 16. Nxh4 Nxd5 17. exd5 Bxg5 18. Nhf5 Bf6 19. Qc5 Kd8 20. Nd6 Be8 21.
+Nxe8 Kxe8 22. dxc6 bxc6 23. Be4 Rc8 24. Rac1 Be7 25. Bxc6+ Nd7 26. Bxd7+ Kxd7
+27. Qb5+ {Source: BCM, June 1943, p137} 1-0
+
+[Event "West London Club Ch m"]
+[Site "London"]
+[Date "1943.05.01"]
+[Round "2"]
+[White "Streusler, Heinrich"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "C76"]
+[PlyCount "122"]
+[EventDate "1943.04.10"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 g6 7. O-O Bg7 8. Bg5 f6
+9. Be3 Nge7 10. Bb3 Qc8 11. a3 Nd8 12. dxe5 dxe5 13. Qd2 Be6 14. c4 O-O 15. Nc3
+Nf7 16. Nd5 Nc6 17. Rfd1 Kh8 18. Bc5 Re8 19. Qe2 Bg4 20. h3 Bxf3 21. Qxf3 Ng5
+22. Qd3 Ne6 23. Be3 Ncd4 24. Bxd4 exd4 25. Bc2 Qd8 26. Qg3 c6 27. Nf4 a5 28.
+Rd2 Qb6 29. b3 Rad8 30. Rad1 Nxf4 31. Qxf4 c5 32. Qg3 Re7 33. h4 Bh6 34. Re2
+Qe6 35. f4 a4 36. e5 axb3 37. Bxb3 Qf5 38. Rf2 fxe5 39. fxe5 Qxe5 40. Qxe5+
+Rxe5 41. Rf7 Rf8 42. Rxf8+ Bxf8 43. Rd3 Be7 44. g3 Re2 45. Bd1 Rb2 46. Kf1 Kg7
+47. Be2 Kf6 48. Kf2 Ke5 49. Rf3 g5 50. hxg5 Bxg5 51. Ke1 Rb1+ 52. Kf2 Be3+ 53.
+Kg2 Rb2 54. Kf1 Rd2 55. Ke1 Ke4 56. Rf7 d3 57. Bf3+ Kd4 58. Rxh7 Rf2 59. Bg4
+Kc3 60. Rh1 Kc2 61. Bd1+ Kc1 {Source: BCM, June 1943, p135} 0-1
+

@@ -1,0 +1,652 @@
+[
+  {
+    "Year": 1940,
+    "Name": "Oxford v Cambridge (unofficial)",
+    "Winner": "Drawn",
+    "StartDate": "1940.03.16",
+    "EndDate": "",
+    "GamesCount": "1/6",
+    "DateUpdated": "2021.03.19",
+    "PgnFileName": "194003vars.pgn"
+  },
+  {
+    "Year": 1940,
+    "Name": "IRL-ch Dublin",
+    "Winner": "John J O'Hanlon",
+    "StartDate": "1940.07.15",
+    "EndDate": "1940.07.19",
+    "GamesCount": "",
+    "DateUpdated": "[ irlchess.com ]",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1941,
+    "Name": "Oxford v Cambridge (unofficial)",
+    "Winner": "Oxford",
+    "StartDate": "1941.03.18",
+    "EndDate": "",
+    "GamesCount": "0/7",
+    "DateUpdated": "2021.12.22",
+    "PgnFileName": "194103vars.pgn"
+  },
+  {
+    "Year": 1941,
+    "Name": "Dublin Dunsany Premier",
+    "Winner": "Gerard J Kerlin",
+    "StartDate": "1941.07.21",
+    "EndDate": "1941.07.29",
+    "GamesCount": "",
+    "DateUpdated": "[ irlchess.com ]",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1941,
+    "Name": "Army v RAF",
+    "Winner": "Army 4Â½-3Â½",
+    "StartDate": "1941.10.25",
+    "EndDate": "",
+    "GamesCount": "5",
+    "DateUpdated": "2024.07.18",
+    "PgnFileName": "194110armyraf.pgn"
+  },
+  {
+    "Year": 1941,
+    "Name": "British Forces v Allied Forces",
+    "Winner": "British Forces 6Â½-5Â½",
+    "StartDate": "1941.11.15",
+    "EndDate": "",
+    "GamesCount": "5^",
+    "DateUpdated": "2024.09.06",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1942,
+    "Name": "Oxford v Cambridge (unofficial)",
+    "Winner": "Oxford",
+    "StartDate": "1942.??.??",
+    "EndDate": "",
+    "GamesCount": "2/7",
+    "DateUpdated": "2021.03.21",
+    "PgnFileName": "194203vars.pgn"
+  },
+  {
+    "Year": 1942,
+    "Name": "Kent Congress",
+    "Winner": "Ronald M Bruce",
+    "StartDate": "1942.08.10",
+    "EndDate": "1942.08.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1942,
+    "Name": "Dublin Champions Tourney",
+    "Winner": "Gerard J Kerlin",
+    "StartDate": "1942.10",
+    "EndDate": "1942.11",
+    "GamesCount": "",
+    "DateUpdated": "[ irlchess.com ]",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1942,
+    "Name": "British Forces v Allied Forces",
+    "Winner": "Allies by 7-6",
+    "StartDate": "1942.11.07",
+    "EndDate": "",
+    "GamesCount": "7+6",
+    "DateUpdated": "2026.07.20",
+    "PgnFileName": "194211forces.pgn"
+  },
+  {
+    "Year": 1942,
+    "Name": "Manor Farm, Horsington",
+    "Winner": "J C Waterman",
+    "StartDate": "1942.12.31",
+    "EndDate": "1943.01.04",
+    "GamesCount": "2/15",
+    "DateUpdated": "2023.02.12",
+    "PgnFileName": "194212manorfarm.pgn"
+  },
+  {
+    "Year": 1943,
+    "Name": "West London CC Match, Sir G Thomas v Heinrich Streusler",
+    "Winner": "Sir George Thomas",
+    "StartDate": "1943.04.30",
+    "EndDate": "1943.05.01",
+    "GamesCount": "2",
+    "DateUpdated": "2024.06.09",
+    "PgnFileName": "194304thomasstreusler.pgn"
+  },
+  {
+    "Year": 1944,
+    "Name": "Oxford v Cambridge (unofficial)",
+    "Winner": "Drawn",
+    "StartDate": "1944.??.??",
+    "EndDate": "",
+    "GamesCount": "0/7",
+    "DateUpdated": "2021.03.23",
+    "PgnFileName": "194403vars.pgn"
+  },
+  {
+    "Year": 1944,
+    "Name": "Oxford Univ v Bletchley",
+    "Winner": "Bletchley",
+    "StartDate": "1944.12.02",
+    "EndDate": "",
+    "GamesCount": "3/12^",
+    "DateUpdated": "2021.03.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1944,
+    "Name": "Blackpool",
+    "Winner": "David Hooper",
+    "StartDate": "1944.07.17",
+    "EndDate": "1944.07.21",
+    "GamesCount": "10/15+6",
+    "DateUpdated": "2026.03.14",
+    "PgnFileName": "194407blackpool.pgn"
+  },
+  {
+    "Year": 1945,
+    "Name": "Oxford v Cambridge (unofficial)",
+    "Winner": "Cambridge",
+    "StartDate": "1945.03.03",
+    "EndDate": "",
+    "GamesCount": "0/7",
+    "DateUpdated": "2021.03.22",
+    "PgnFileName": "194503vars.pgn"
+  },
+  {
+    "Year": 1945,
+    "Name": "Blackpool",
+    "Winner": "Gerald Abrahams",
+    "StartDate": "1945.05.21",
+    "EndDate": "1945.05.25",
+    "GamesCount": "16+7",
+    "DateUpdated": "2026.03.14",
+    "PgnFileName": "194505blackpool.pgn"
+  },
+  {
+    "Year": 1945,
+    "Name": "London Champ'ship",
+    "Winner": "Gabriel Wood",
+    "StartDate": "1945.10.13",
+    "EndDate": "1945.10.23",
+    "GamesCount": "20/55",
+    "DateUpdated": "2020.11.24",
+    "PgnFileName": "194510londonch.pgn"
+  },
+  {
+    "Year": 1945,
+    "Name": "London Ch'ship prelim k.o.",
+    "Winner": "1945",
+    "StartDate": "",
+    "EndDate": "4^",
+    "GamesCount": "2020.11.24",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1945,
+    "Name": "Hastings 1945/46",
+    "Winner": "Saviely Tartakower",
+    "StartDate": "1945.12.28",
+    "EndDate": "1946.01.09",
+    "GamesCount": "66/66",
+    "DateUpdated": "2023.09.19",
+    "PgnFileName": "194512hast.pgn"
+  },
+  {
+    "Year": 1945,
+    "Name": "Hastings subsidiary tourns",
+    "Winner": "1945.12.28",
+    "StartDate": "1946.01.09",
+    "EndDate": "18^",
+    "GamesCount": "Hastings Page",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1946,
+    "Name": "London-A",
+    "Winner": "H Steiner",
+    "StartDate": "1946.01.14",
+    "EndDate": "1946.01.26",
+    "GamesCount": "66",
+    "DateUpdated": "2022.06.14",
+    "PgnFileName": "194601london.pgn"
+  },
+  {
+    "Year": 1946,
+    "Name": "London-B",
+    "Winner": "Max Euwe",
+    "StartDate": "1946.01.14",
+    "EndDate": "1946.01.26",
+    "GamesCount": "66^",
+    "DateUpdated": "2022.06.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1946,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1946.03.18",
+    "EndDate": "",
+    "GamesCount": "0/7",
+    "DateUpdated": "2021.03.23",
+    "PgnFileName": "194603vars.pgn"
+  },
+  {
+    "Year": 1946,
+    "Name": "GB-USSR Radio Match",
+    "Winner": "USSR",
+    "StartDate": "1946.06.19",
+    "EndDate": "1946.06.21",
+    "GamesCount": "24",
+    "DateUpdated": "2018.04.29",
+    "PgnFileName": "194606gbrussr.pgn"
+  },
+  {
+    "Year": 1946,
+    "Name": "BCF-ch Nottingham",
+    "Winner": "Robert F Combe",
+    "StartDate": "1946.08.12",
+    "EndDate": "1946.08.23",
+    "GamesCount": "66",
+    "DateUpdated": "2016.04.07",
+    "PgnFileName": "194608bcf.pgn"
+  },
+  {
+    "Year": 1946,
+    "Name": "BCF various",
+    "Winner": "",
+    "StartDate": "1946.08.12",
+    "EndDate": "1946.08.23",
+    "GamesCount": "89^",
+    "DateUpdated": "2016.04.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1946,
+    "Name": "BCF-ch women's play-off",
+    "Winner": "Elaine Saunders",
+    "StartDate": "1946.09.30",
+    "EndDate": "1946.10.02",
+    "GamesCount": "3^",
+    "DateUpdated": "2016.03.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1946,
+    "Name": "London Championship",
+    "Winner": "Sir George Thomas",
+    "StartDate": "1946.09.21",
+    "EndDate": "1946.09.29",
+    "GamesCount": "12/28",
+    "DateUpdated": "2022.06.22",
+    "PgnFileName": "194609london.pgn"
+  },
+  {
+    "Year": 1946,
+    "Name": "Hastings 1946/47",
+    "Winner": "C Hugh O'D Alexander",
+    "StartDate": "1946.12.30",
+    "EndDate": "1947.01.08",
+    "GamesCount": "45",
+    "DateUpdated": "2023.02.07",
+    "PgnFileName": "194612hast.pgn"
+  },
+  {
+    "Year": 1946,
+    "Name": "Hastings other",
+    "Winner": "1946.12.30",
+    "StartDate": "1947.01.08",
+    "EndDate": "17^",
+    "GamesCount": "Hastings Page",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1947,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1947.03.17",
+    "EndDate": "",
+    "GamesCount": "0/7",
+    "DateUpdated": "2022.04.10",
+    "PgnFileName": "194703vars.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "WECU Championship",
+    "Winner": "Andrew R B Thomas",
+    "StartDate": "1947.03",
+    "EndDate": "1947.04.07",
+    "GamesCount": "28",
+    "DateUpdated": "2024.09.13",
+    "PgnFileName": "194703wecu.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "GBR-NED Amsterdam",
+    "Winner": "GBR by 12Â½-7Â½",
+    "StartDate": "1947.04.05",
+    "EndDate": "1947.04.06",
+    "GamesCount": "19+1",
+    "DateUpdated": "2025.09.24",
+    "PgnFileName": "194704gbrned.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "GBR-CZE London",
+    "Winner": "CZE by 12-8",
+    "StartDate": "1947.06.14",
+    "EndDate": "1947.06.15",
+    "GamesCount": "20",
+    "DateUpdated": "2022.06.19",
+    "PgnFileName": "194706gbrcze.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "MCCU-CZE Birmingham",
+    "Winner": "CZE by 13Â½-6Â½",
+    "StartDate": "1947.06.17",
+    "EndDate": "1947.06.18",
+    "GamesCount": "20^",
+    "DateUpdated": "2022.06.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1947,
+    "Name": "Middlesex v Slovakia",
+    "Winner": "Slovakia by 3-1",
+    "StartDate": "1947.06.12",
+    "EndDate": "",
+    "GamesCount": "1^",
+    "DateUpdated": "2022.06.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1947,
+    "Name": "BCF-ch Harrogate",
+    "Winner": "Golombek/Broadbent",
+    "StartDate": "1947.08.11",
+    "EndDate": "1947.08.22",
+    "GamesCount": "62+1/66",
+    "DateUpdated": "2020.12.05",
+    "PgnFileName": "194708bcf.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "BCF Premier",
+    "Winner": "Dr. James M Aitken",
+    "StartDate": "1947.08.11",
+    "EndDate": "1947.08.22",
+    "GamesCount": "53+3^",
+    "DateUpdated": "2023.01.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1947,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1947.08.11",
+    "EndDate": "1947.08.22",
+    "GamesCount": "19+2^",
+    "DateUpdated": "2023.04.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1947,
+    "Name": "BCF-ch play-off",
+    "Winner": "Harry Golombek",
+    "StartDate": "1947.10.18",
+    "EndDate": "1947.10.27",
+    "GamesCount": "6^",
+    "DateUpdated": "2016.04.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1947,
+    "Name": "GBR-USSR London",
+    "Winner": "USSR by 15-5",
+    "StartDate": "1947.09.21",
+    "EndDate": "1947.09.22",
+    "GamesCount": "20",
+    "DateUpdated": "2022.06.19",
+    "PgnFileName": "194709gbrussr.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "GBR-AUS Radio Match",
+    "Winner": "GBR by 7-3",
+    "StartDate": "1947.10.04",
+    "EndDate": "1947.10.05",
+    "GamesCount": "10",
+    "DateUpdated": "2022.06.19",
+    "PgnFileName": "194710gbrausradio.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "Hastings 1947/48",
+    "Winner": "Laszlo Szabo",
+    "StartDate": "1947.12.29",
+    "EndDate": "1948.01.07",
+    "GamesCount": "22+1/45",
+    "DateUpdated": "2023.01.13",
+    "PgnFileName": "194712hast.pgn"
+  },
+  {
+    "Year": 1947,
+    "Name": "Hastings subsidiary tournaments",
+    "Winner": "1947.12.29",
+    "StartDate": "1948.01.07",
+    "EndDate": "44^",
+    "GamesCount": "Hastings Page",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1948,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1948.03.20",
+    "EndDate": "",
+    "GamesCount": "2/7",
+    "DateUpdated": "2022.06.08",
+    "PgnFileName": "194803vars.pgn"
+  },
+  {
+    "Year": 1948,
+    "Name": "Plymouth Jubilee",
+    "Winner": "Euwe, Kitto",
+    "StartDate": "1948.08.09",
+    "EndDate": "1948.08.14",
+    "GamesCount": "21",
+    "DateUpdated": "2023.01.25",
+    "PgnFileName": "194808plymouth.pgn"
+  },
+  {
+    "Year": 1948,
+    "Name": "BCF-ch London",
+    "Winner": "Reg J Broadbent",
+    "StartDate": "1948.08.30",
+    "EndDate": "1948.09.10",
+    "GamesCount": "27+13/66",
+    "DateUpdated": "2020.11.29",
+    "PgnFileName": "194808bcf.pgn"
+  },
+  {
+    "Year": 1948,
+    "Name": "BCF Women's ch",
+    "Winner": "Edith Price",
+    "StartDate": "1948.08.30",
+    "EndDate": "1948.09.10",
+    "GamesCount": "2^",
+    "DateUpdated": "2022.07.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1948,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1948.08.30",
+    "EndDate": "1948.09.10",
+    "GamesCount": "39^",
+    "DateUpdated": "2024.10.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1948,
+    "Name": "GBR-NED London",
+    "Winner": "Drawn 10-10",
+    "StartDate": "1948.09.11",
+    "EndDate": "1948.09.12",
+    "GamesCount": "20",
+    "DateUpdated": "2022.06.19",
+    "PgnFileName": "194809gbrned.pgn"
+  },
+  {
+    "Year": 1948,
+    "Name": "Birmingham Junior Inter'l",
+    "Winner": "Hans Bouwmeester",
+    "StartDate": "1948.11.15",
+    "EndDate": "1948.11.25",
+    "GamesCount": "9",
+    "DateUpdated": "2026.01.18",
+    "PgnFileName": "194811birmjunior.pgn"
+  },
+  {
+    "Year": 1948,
+    "Name": "Hastings 1948/49",
+    "Winner": "Nicolas Rossolimo",
+    "StartDate": "1948.12.30",
+    "EndDate": "1949.01.08",
+    "GamesCount": "45/45",
+    "DateUpdated": "2023.12.15",
+    "PgnFileName": "194812hast.pgn"
+  },
+  {
+    "Year": 1948,
+    "Name": "Hastings subsidiary tournaments",
+    "Winner": "1948.12.30",
+    "StartDate": "1949.01.08",
+    "EndDate": "25+2^",
+    "GamesCount": "2026.05.11",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1949,
+    "Name": "Oxford v Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1949.03.19",
+    "EndDate": "",
+    "GamesCount": "4/7",
+    "DateUpdated": "2022.04.10",
+    "PgnFileName": "194903vars.pgn"
+  },
+  {
+    "Year": 1949,
+    "Name": "Southsea, Stevenson Mem.",
+    "Winner": "Nicolas Rossolimo",
+    "StartDate": "1949.04.13",
+    "EndDate": "1949.04.23",
+    "GamesCount": "53+3",
+    "DateUpdated": "2026.02.24",
+    "PgnFileName": "194904southsea.pgn"
+  },
+  {
+    "Year": 1949,
+    "Name": "Southsea (consultation & other)",
+    "Winner": "1949.04.13",
+    "StartDate": "",
+    "EndDate": "4^",
+    "GamesCount": "2026.02.24",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1949,
+    "Name": "IRL-ch Galway",
+    "Winner": "Patrick B Kennedy",
+    "StartDate": "1949.07.17",
+    "EndDate": "1949.07.23",
+    "GamesCount": "",
+    "DateUpdated": "[ irlchess.com ]",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1949,
+    "Name": "BCF-ch Felixstowe",
+    "Winner": "Harry Golombek",
+    "StartDate": "1949.08.08",
+    "EndDate": "1949.08.19",
+    "GamesCount": "70+43/176",
+    "DateUpdated": "2026.09.17",
+    "PgnFileName": "194908bcf.pgn"
+  },
+  {
+    "Year": 1949,
+    "Name": "BCF women's ch",
+    "Winner": "Eileen Tranmer",
+    "StartDate": "1949.08.08",
+    "EndDate": "1949.08.19",
+    "GamesCount": "2^",
+    "DateUpdated": "2023.10.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1949,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1949.08.08",
+    "EndDate": "1948.08.19",
+    "GamesCount": "14^",
+    "DateUpdated": "2022.06.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1949,
+    "Name": "London-Sydney radio",
+    "Winner": "",
+    "StartDate": "1949.08.26",
+    "EndDate": "1949.08.28",
+    "GamesCount": "10",
+    "DateUpdated": "2022.04.15",
+    "PgnFileName": "194908radio.pgn"
+  },
+  {
+    "Year": 1949,
+    "Name": "NED-GBR Utrecht",
+    "Winner": "NED by 12Â½-7Â½",
+    "StartDate": "1949.09.17",
+    "EndDate": "1949.09.18",
+    "GamesCount": "20",
+    "DateUpdated": "2025.09.24",
+    "PgnFileName": "194909nedgbr.pgn"
+  },
+  {
+    "Year": 1949,
+    "Name": "Hastings 1949/50",
+    "Winner": "Laszlo Szabo",
+    "StartDate": "1949.12.29",
+    "EndDate": "1950.01.07",
+    "GamesCount": "45",
+    "DateUpdated": "2020.08.09",
+    "PgnFileName": "194912hast.pgn"
+  },
+  {
+    "Year": 1949,
+    "Name": "Hastings subsidiary tournaments",
+    "Winner": "1949.12.29",
+    "StartDate": "1950.01.07",
+    "EndDate": "14^",
+    "GamesCount": "2026.02.26",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  }
+]
