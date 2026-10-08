@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="BritBase.Downloader/BritBase.Downloader.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="BritBase.Downloader/BritBase.Downloader.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="26ef93b1-59c0-4028-a1f1-5d5f55c9e336">
     <Build Project="false" />
   </Project>
   <Project Path="BritBase/BritBase.csproj" />

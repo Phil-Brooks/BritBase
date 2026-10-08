@@ -5,9 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - BritBase</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <!-- Chessboard CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     @Html.AntiForgeryToken()
@@ -24,7 +22,7 @@
             }
 
             .sidebar-brand-img {
-                max-width: 190px;
+                max-width: 170px;
                 border-radius: 8px;
                 box-shadow: 0 4px 10px rgba(0,0,0,0.5);
             }
@@ -34,13 +32,13 @@
                 text-transform: uppercase;
                 letter-spacing: 0.08rem;
                 color: #8c98a4;
-                margin-top: 1.2rem;
-                margin-bottom: 0.4rem;
+                margin-top: 1.1rem;
+                margin-bottom: 0.35rem;
                 padding-left: 0.75rem;
                 font-weight: bold;
             }
 
-            .sidebar .nav-link {
+            .sidebar .nav-link, .offcanvas .nav-link {
                 color: #ced4da;
                 padding: 0.45rem 0.75rem;
                 border-radius: 6px;
@@ -52,7 +50,7 @@
                 cursor: pointer;
             }
 
-                .sidebar .nav-link:hover, .sidebar .nav-link.active {
+                .sidebar .nav-link:hover, .offcanvas .nav-link:hover {
                     background-color: #343a40;
                     color: #ffffff;
                     transform: translateX(2px);
@@ -70,124 +68,74 @@
                 transition: all 0.15s;
             }
 
-                .decade-badge:hover, .decade-badge.active {
+                .decade-badge:hover {
                     background-color: #0d6efd;
                     color: #fff;
                 }
     </style>
 </head>
 <body>
+    <!-- Mobile-Only Top Navigation Bar -->
+    <header class="d-md-none bg-dark text-white px-3 py-2 d-flex justify-content-between align-items-center shadow-sm">
+        <a href="/" class="d-flex align-items-center gap-2 text-white text-decoration-none">
+            <img src="~/images/cat.jpg"
+                 alt="BritBase"
+                 style="height: 42px; width: 42px; border-radius: 6px; object-fit: cover; border: 1px solid rgba(255,255,255,0.2);"
+                 onerror="this.style.display='none'" />
+            <div class="lh-sm">
+                <span class="fw-bold fs-6 d-block">BritBase</span>
+                <span class="text-secondary" style="font-size: 0.7rem;">British Chess Archive</span>
+            </div>
+        </a>
+        <button class="btn btn-outline-light btn-sm d-flex align-items-center gap-1" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobileSidebar" aria-controls="mobileSidebar">
+            <i class="bi bi-list fs-5"></i> <span>Menu</span>
+        </button>
+    </header>
+
     <div class="d-flex">
-        <!-- Sidebar Navigation -->
+        <!-- Desktop Sidebar Navigation -->
         <aside class="sidebar p-3 d-none d-md-flex flex-column flex-shrink-0">
-            <!-- Brand / Cat Banner -->
             <div class="text-center mb-3">
                 <a href="/" class="d-inline-block text-decoration-none">
-                    <img src="https://www.saund.co.uk/britbase/img/britcat190.jpg"
+                    <img src="~/images/cat.jpg"
                          alt="BritBase Cat"
                          class="img-fluid sidebar-brand-img mb-2"
                          onerror="this.src='https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=200&auto=format&fit=crop&q=80'" />
-                    <h4 class="text-white fw-bold mb-0" style="letter-spacing: 0.05rem;">BritBase</h4>
+                    <h4 class="text-white fw-bold mb-0">BritBase</h4>
                     <span class="badge bg-secondary">British Chess Archive</span>
                 </a>
             </div>
 
             <hr class="border-secondary my-2">
 
-            <!-- Navigation Links -->
             <div class="overflow-auto flex-grow-1 pe-1" style="max-height: calc(100vh - 250px);">
-                <!-- Main -->
-                <div class="nav-section-title">Overview</div>
-                <nav class="nav flex-column">
-                    <a class="nav-link" href="/"
-                       hx-get="/Index?handler=Search"
-                       hx-target="#game-list-container"
-                       hx-push-url="true">
-                        <i class="bi bi-house"></i> Home
-                    </a>
-                </nav>
-
-                <!-- Tournaments Hubs -->
-                <div class="nav-section-title">Major Fixtures</div>
-                <nav class="nav flex-column">
-                    <a class="nav-link"
-                       hx-get="/Index?handler=FilterCategory&category=British Championship"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-trophy"></i> British Champions
-                    </a>
-                    <a class="nav-link"
-                       hx-get="/Index?handler=FilterCategory&category=Hastings"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-flag"></i> Hastings Premier
-                    </a>
-                    <a class="nav-link"
-                       hx-get="/Index?handler=FilterCategory&category=Varsity"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-mortarboard"></i> Varsity Matches
-                    </a>
-                    <a class="nav-link"
-                       hx-get="/Index?handler=FilterCategory&category=Gibraltar"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-geo-alt"></i> Gibraltar Masters
-                    </a>
-                    <a class="nav-link"
-                       hx-get="/Index?handler=FilterCategory&category=Isle of Man"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-water"></i> Isle of Man
-                    </a>
-                </nav>
-
-                <!-- Decades Filter -->
-                <div class="nav-section-title">Decades</div>
-                <div class="px-2 pt-1 pb-2">
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=202" hx-target="#game-list-container">2020+</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=201" hx-target="#game-list-container">2010s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=200" hx-target="#game-list-container">2000s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=199" hx-target="#game-list-container">1990s</a>
-                    <a href="/Decade1980" class="decade-badge">1980s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=197" hx-target="#game-list-container">1970s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=196" hx-target="#game-list-container">1960s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=195" hx-target="#game-list-container">1950s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=194" hx-target="#game-list-container">1940s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=193" hx-target="#game-list-container">1930s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=192" hx-target="#game-list-container">1920s</a>
-                    <a href="javascript:void(0)" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=18" hx-target="#game-list-container">Pre-1920s</a>
-                </div>
-
-                <!-- Special Collections -->
-                <div class="nav-section-title">Special Collections</div>
-                <nav class="nav flex-column">
-                    <a class="nav-link"
-                       hx-get="/Index?handler=Search&query=Sultan Khan"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-person"></i> Sultan Khan
-                    </a>
-                    <a class="nav-link"
-                       hx-get="/Index?handler=Search&query=Penrose"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-person"></i> Jonathan Penrose
-                    </a>
-                    <a class="nav-link"
-                       hx-get="/Index?handler=Search&query=Chandler"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-person"></i> Murray Chandler
-                    </a>
-                    <a class="nav-link"
-                       hx-get="/Index?handler=Search&query=Cafferty"
-                       hx-target="#game-list-container">
-                        <i class="bi bi-person"></i> Bernard Cafferty
-                    </a>
-                </nav>
+                @await Html.PartialAsync("_NavigationMenuPartial")
             </div>
 
-            <!-- Footer note -->
             <div class="small text-muted text-center pt-2 border-top border-secondary mt-auto">
-                &copy; 1997-2026 BritBase Archive
+                &copy; 1997-2026 BritBase
             </div>
         </aside>
 
+        <!-- Mobile Drawer (Offcanvas Sidebar) -->
+        <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="mobileSidebar" aria-labelledby="mobileSidebarLabel" style="width: 280px;">
+            <div class="offcanvas-header border-bottom border-secondary d-flex justify-content-between align-items-center pb-3">
+                <div class="d-flex align-items-center gap-2">
+                    <img src="~/images/cat.jpg" alt="Logo" style="height: 38px; width: 38px; border-radius: 6px; object-fit: cover;" />
+                    <div>
+                        <h6 class="mb-0 fw-bold text-white">BritBase</h6>
+                        <small class="text-muted" style="font-size: 0.72rem;">British Chess Archive</small>
+                    </div>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body p-3">
+                @await Html.PartialAsync("_NavigationMenuPartial")
+            </div>
+        </div>
+
         <!-- Main Content Area -->
-        <main class="flex-grow-1 p-3 p-md-4 overflow-auto" style="height: 100vh;">
+        <main class="flex-grow-1 p-3 p-md-4 overflow-auto" style="min-height: 100vh;">
             @RenderBody()
         </main>
     </div>

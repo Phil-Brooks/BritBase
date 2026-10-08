@@ -1,0 +1,82 @@
+﻿<!-- Main -->
+<div class="nav-section-title">Overview</div>
+<nav class="nav flex-column">
+    <a class="nav-link" href="/" data-bs-dismiss="offcanvas">
+        <i class="bi bi-house"></i> Home
+    </a>
+</nav>
+
+<!-- Tournaments Hubs -->
+<div class="nav-section-title">Major Fixtures</div>
+<nav class="nav flex-column">
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=FilterCategory&category=British Championship"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-trophy"></i> British Champions
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=FilterCategory&category=Hastings"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-flag"></i> Hastings Premier
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=FilterCategory&category=Varsity"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-mortarboard"></i> Varsity Matches
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=FilterCategory&category=Gibraltar"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-geo-alt"></i> Gibraltar Masters
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=FilterCategory&category=Isle of Man"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-water"></i> Isle of Man
+    </a>
+</nav>
+
+<!-- Decades Filter -->
+<div class="nav-section-title">Decades</div>
+<div class="px-2 pt-1 pb-2">
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=202" hx-target="#game-list-container" data-bs-dismiss="offcanvas">2020+</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=201" hx-target="#game-list-container" data-bs-dismiss="offcanvas">2010s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=200" hx-target="#game-list-container" data-bs-dismiss="offcanvas">2000s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=199" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1990s</a>
+    <a href="/Decade1980" class="decade-badge bg-primary text-white" data-bs-dismiss="offcanvas">1980s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=197" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1970s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=196" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1960s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=195" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1950s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=194" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1940s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=193" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1930s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=192" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1920s</a>
+    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=18" hx-target="#game-list-container" data-bs-dismiss="offcanvas">Pre-1920s</a>
+</div>
+
+<!-- Special Collections -->
+<div class="nav-section-title">Special Collections</div>
+<nav class="nav flex-column">
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=Search&query=Sultan Khan"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-person"></i> Sultan Khan
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=Search&query=Penrose"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-person"></i> Jonathan Penrose
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=Search&query=Chandler"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-person"></i> Murray Chandler
+    </a>
+</nav>
