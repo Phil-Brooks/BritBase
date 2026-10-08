@@ -1,0 +1,2709 @@
+﻿[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.1"]
+[White "Benaddi, Mouhcine"]
+[Black "Kuenitz, Klaus"]
+[Result "0-1"]
+[ECO "C13"]
+[WhiteElo "1817"]
+[BlackElo "2005"]
+[PlyCount "78"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 Be7 7. Bxf6 Nxf6
+8. Nxf6+ Bxf6 9. Qd2 c5 10. O-O-O cxd4 11. Nxd4 O-O 12. f4 e5 13. Ne2 Qb6 14.
+Qd6 Qxd6 15. Rxd6 exf4 16. Rd3 Bf5 17. Rb3 Rac8 18. c3 Be4 19. Rb4 Rfe8 20. Rg1
+a5 21. Ra4 b5 22. Rxa5 b4 23. Ra4 bxc3 24. b3 Bd3 25. Kd1 c2+ 26. Kd2 Bxe2 27.
+Bxe2 Bb2 28. Bc4 c1=Q+ 29. Rxc1 Bxc1+ 30. Kxc1 Re2 31. Kd1 Rxg2 32. Ra7 Rxh2
+33. Bxf7+ Kh8 34. Bc4 Rf8 35. a4 f3 36. Ke1 f2+ 37. Kf1 Rh1+ 38. Kg2 Rg1+ 39.
+Kh2 f1=Q 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.2"]
+[White "Sbia, Bachir"]
+[Black "Gravett, Alan D"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "1960"]
+[BlackElo "1750"]
+[PlyCount "49"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. c4 c5 3. Nc3 Bg7 4. g3 b6 5. Bg2 Bb7 6. O-O e5 7. d3 Ne7 8. Bd2
+O-O 9. Qc1 d5 10. cxd5 Nxd5 11. Bh6 Nxc3 12. bxc3 e4 13. dxe4 Bxe4 14. Bxg7
+Kxg7 15. Qf4 Qe8 16. Rfd1 Nc6 17. Rd6 Rd8 18. Rxd8 Nxd8 19. Rd1 Qa4 20. Qc1 Nc6
+21. Qa1 Na5 22. c4+ Kg8 23. Ne5 Bf5 24. Bd5 Bc2 25. Nxf7 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.3"]
+[White "Slimani, Abderezzak"]
+[Black "Dickens, Rupert"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1802"]
+[BlackElo "1938"]
+[PlyCount "68"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. Bd3 c5 6. e5 Nfd7 7. c3 Nc6 8. O-O
+f6 9. exf6 Nxf6 10. Re1 Qb6 11. dxc5 Bxc5 12. Re2 O-O 13. h3 e5 14. Nxe5 Nxe5
+15. Rxe5 Bxf2+ 16. Kh1 Bg3 17. Nf3 Bxe5 18. Nxe5 Ne4 19. Bxe4 dxe4 20. Be3 Qb5
+21. Qd4 Be6 22. c4 Qa6 23. Qxe4 Rfe8 24. Qf4 Rad8 25. a3 Qa4 26. Rf1 Qc2 27.
+Rf2 Qb3 28. Qg5 Bxc4 29. Nxc4 Qxc4 30. Bxa7 Qd5 31. Kh2 Qxg5 32. Bb6 Rd7 33.
+Kg1 Rd1+ 34. Kh2 Qd8 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.4"]
+[White "Elamri, Khaled"]
+[Black "Hurn, Robert"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "1922"]
+[BlackElo "1682"]
+[PlyCount "99"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nc6 4. Nf3 e4 5. Nd4 Nxd4 6. Bxd4 c5 7. Bb2 Nf6 8. d4
+exd3 9. cxd3 g6 10. d4 Bg7 11. dxc5 Qa5+ 12. Bc3 Qxc5 13. Bd3 O-O 14. O-O Bg4
+15. Qd2 Rfd8 16. Qb2 Ne8 17. Rc1 Bxc3 18. Nxc3 Qe5 19. Qd2 Rac8 20. Nb5 a6 21.
+Nd4 Nf6 22. h3 Bd7 23. Rxc8 Rxc8 24. Rc1 Rxc1+ 25. Qxc1 Qc5 26. Qd2 d5 27. Ne2
+Bc6 28. f3 Nd7 29. b4 Qe7 30. Nd4 Ba4 31. Bf1 Nf6 32. g4 Qc7 33. Kg2 Bd7 34.
+Qc2 Qe5 35. Qc3 Qe7 36. Kf2 Qd6 37. Kg2 Qe5 38. Ne2 Qd6 39. Nf4 Bc6 40. Qd4 Qe7
+41. a3 Qd6 42. Bd3 Qe7 43. Bc2 Qd6 44. Bb3 g5 45. Ne2 h5 46. Ng3 h4 47. Nf5 Qe6
+48. e4 Bb5 49. Bxd5 Qc8 50. Ne7+ 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.5"]
+[White "Taylor, Robert P"]
+[Black "Biletska, Iryna"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "1675"]
+[BlackElo "1915"]
+[PlyCount "52"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 e6 2. Nf3 c5 3. c3 h6 4. Bf4 Qb6 5. Qc1 Nf6 6. Nbd2 Nc6 7. e3 cxd4 8.
+exd4 d5 9. Bd3 Nh5 10. Be3 Bd6 11. O-O Qc7 12. Re1 Bf4 13. Qd1 Bxe3 14. Rxe3
+Nf4 15. Bc2 g5 16. Ne5 Nxe5 17. Rxe5 Bd7 18. Nb3 O-O-O 19. Nc5 Rdg8 20. Nxd7
+Qxd7 21. Ba4 Qd6 22. c4 dxc4 23. Rc5+ Kb8 24. Rxc4 Rc8 25. Rac1 Rxc4 26. Rxc4
+Rc8 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.6"]
+[White "Hamer, Martyn"]
+[Black "Garcia Lechugo, Francisco"]
+[Result "1-0"]
+[ECO "A42"]
+[WhiteElo "1915"]
+[BlackElo "1712"]
+[PlyCount "77"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nc3 Nc6 5. Be3 e5 6. d5 Nce7 7. f3 f5 8. Bd3 f4
+9. Bf2 Nf6 10. Nge2 g5 11. Nc1 h5 12. b4 g4 13. Nb3 Ng6 14. c5 Bf8 15. a4 Be7
+16. a5 gxf3 17. gxf3 Rg8 18. Bc4 Bh3 19. c6 b6 20. Ba6 Bc8 21. Bf1 Nh7 22. axb6
+cxb6 23. Rg1 Kf7 24. Qc2 Bh4 25. Nb5 Bxf2+ 26. Qxf2 a6 27. Nd2 Rg7 28. Nc3 a5
+29. b5 Ng5 30. Nc4 Nh3 31. Bxh3 Bxh3 32. Qxb6 Nh4 33. Rxg7+ Kxg7 34. Qxd8 Rxd8
+35. Kf2 Rg8 36. Rg1+ Kf7 37. Rxg8 Kxg8 38. b6 Bg2 39. Nd2 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.7"]
+[White "Roberts, Malcolm"]
+[Black "Gonzalez Amaya, Millan"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1652"]
+[BlackElo "1705"]
+[PlyCount "49"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Bd7 7. O-O cxd4 8. cxd4
+Nge7 9. Nc3 Nf5 10. Be3 Nxe3 11. fxe3 Qxb2 12. Nb5 Rc8 13. Ng5 Nd8 14. Bh5 g6
+15. Rb1 Qc2 16. Qf3 Bxb5 17. Rxb5 Rc7 18. e4 gxh5 19. exd5 Qd2 20. Ne4 Qxd4+
+21. Kh1 Qc4 22. d6 Bxd6 23. exd6 Qxb5 24. dxc7 Qc6 25. Nf6+ 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.8"]
+[White "Garcia Silva, Angel"]
+[Black "Ince, Darren"]
+[Result "1/2-1/2"]
+[ECO "C20"]
+[WhiteElo "1877"]
+[BlackElo "1585"]
+[PlyCount "43"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. c3 Nf6 3. d3 d5 4. exd5 Qxd5 5. c4 Qc6 6. Nc3 Bc5 7. Nf3 Ng4 8. Ne4
+Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Be2 b6 12. h3 Nf6 13. Nxe5 Nxe4 14. Nxc6
+Nxd2 15. Ne7+ Kh8 16. Kxd2 Bb7 17. Rhg1 c5 18. Nf5 Na6 19. Rae1 Rad8 20. Kc3 g6
+21. Ne3 Nc7 22. g3 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.9"]
+[White "Culverhouse, Brian"]
+[Black "Judd, Ian"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1420"]
+[BlackElo "1847"]
+[PlyCount "82"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Qxd5 4. Nc3 Qa5 5. Be2 e5 6. d3 c6 7. Bd2 Qc7 8. h3
+Be7 9. O-O O-O 10. Bg5 h6 11. Bh4 Nd5 12. Ne4 f5 13. Bxe7 Qxe7 14. Ng3 f4 15.
+Ne4 Bf5 16. Re1 Nd7 17. Bf1 N5f6 18. Ned2 b5 19. Nxe5 Nxe5 20. d4 Nfd7 21. dxe5
+Nxe5 22. c4 Qf6 23. cxb5 Rad8 24. Qb3+ Kh8 25. Ne4 Qg6 26. Nc5 Rd5 27. Rac1
+Rfd8 28. bxc6 Nxc6 29. Qc3 Nd4 30. Qa3 Nc2 31. Rxc2 Bxc2 32. Qxa7 Bf5 33. Qa3
+Qb6 34. Nb3 Qg6 35. Nc5 Qd6 36. b4 Rd1 37. Qc3 Rxe1 38. Qxe1 Qg6 39. Qc3 Rd1
+40. b5 Qe8 41. a4 Qe2 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.25"]
+[Round "1.10"]
+[White "Garriga Marrodan, Enrique"]
+[Black "Feeney, James"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1915"]
+[BlackElo "1525"]
+[PlyCount "88"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 O-O 5. Nbd2 d6 6. e3 Nbd7 7. Be2 Rb8 8. c4
+c5 9. O-O b6 10. d5 e6 11. e4 e5 12. h3 Ne8 13. Nh2 f5 14. exf5 gxf5 15. Qc2
+Ndf6 16. a3 Qe7 17. b4 Qf7 18. Rab1 Nh5 19. bxc5 Nf4 20. Ndf3 e4 21. Nd4 dxc5
+22. Nc6 Rb7 23. Nd8 Qg6 24. g4 Rc7 25. Bxg7 Rxg7 26. Ne6 Bxe6 27. dxe6 Qxe6 28.
+Qd2 Nxh3+ 29. Kg2 Ng5 30. Qd5 f4 31. Qxe6+ Nxe6 32. f3 exf3+ 33. Bxf3 Nd4 34.
+Bd5+ Kh8 35. Rbe1 h5 36. Re5 f3+ 37. Bxf3 Nf6 38. Bd5 Re8 39. Rxe8+ Nxe8 40.
+Rf8+ Kh7 41. Rxe8 hxg4 42. Be4+ Kh6 43. Kg3 Ne2+ 44. Kh4 Rg5 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.1"]
+[White "Kuenitz, Klaus"]
+[Black "Garriga Marrodan, Enrique"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2005"]
+[BlackElo "1915"]
+[PlyCount "135"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Bd6 6. Qc2 Nbd7 7. e4 dxe4 8. Nxe4
+Nxe4 9. Qxe4 Nf6 10. Qc2 O-O 11. Bd3 Qc7 12. O-O Bf4 13. Re1 g6 14. Ne5 Bxe5
+15. dxe5 Nd7 16. Bh6 Re8 17. Qe2 f5 18. exf6 Nxf6 19. Qf3 Qf7 20. Qg3 e5 21.
+Rxe5 Rxe5 22. Qxe5 Be6 23. h3 Re8 24. Qf4 Rd8 25. Qf3 Nh5 26. Qxf7+ Kxf7 27.
+Rd1 Bf5 28. Be2 Rxd1+ 29. Bxd1 Nf6 30. Be3 a6 31. Be2 Ke6 32. Bd4 Nd7 33. b4 b5
+34. f4 Kd6 35. Kf2 Bb1 36. a3 Ba2 37. cxb5 axb5 38. Bd3 Bc4 39. Bxc4 bxc4 40.
+Ke3 Kd5 41. a4 Nb8 42. g4 Na6 43. Bc3 c5 44. bxc5 Kxc5 45. f5 gxf5 46. gxf5 Nc7
+47. f6 Nd5+ 48. Kd2 Kd6 49. a5 Ke6 50. a6 Nb6 51. a7 Kf7 52. Ke3 Ke6 53. Kd2
+Kf7 54. Bd4 Na8 55. Kc3 Ke6 56. Kxc4 Kf7 57. Kd5 Nc7+ 58. Kc6 Ne6 59. Bb6 Kxf6
+60. a8=Q h5 61. Qh8+ Ng7 62. Bd4+ Kf5 63. Qxg7 Kf4 64. Qe5+ Kf3 65. Bc5 h4 66.
+Qd4 Ke2 67. Qxh4 Kf3 68. Qg4# 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.2"]
+[White "Hamer, Martyn"]
+[Black "Sbia, Bachir"]
+[Result "0-1"]
+[ECO "E30"]
+[WhiteElo "1915"]
+[BlackElo "1960"]
+[PlyCount "96"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 g5 7. Bg3 Ne4 8. dxe6
+Nxc3 9. exf7+ Kxf7 10. Qd3 Qf6 11. a3 Ba5 12. Nf3 Na4+ 13. Nd2 d5 14. e4 Bxd2+
+15. Qxd2 dxe4 16. Be2 Nc6 17. O-O Nd4 18. Bh5+ Kg7 19. Qa5 Bd7 20. Qc7 Qc6 21.
+Be5+ Kh7 22. Qxc6 Bxc6 23. Bxh8 Rxh8 24. b4 b6 25. Rab1 Rg8 26. h3 Nc3 27. Rb2
+Na4 28. Rbb1 Rf8 29. Rfc1 a6 30. Bd1 Kg6 31. Bxa4 Bxa4 32. bxc5 bxc5 33. Rb6+
+Rf6 34. Rcb1 Rc6 35. Kf1 Kf5 36. Rxc6 Nxc6 37. Rb7 h5 38. Ke2 Bb3 39. Ke3 Bxc4
+40. g4+ hxg4 41. hxg4+ Ke5 42. Rg7 Kf6 43. Rc7 Bd5 44. Rd7 Ke6 45. Rg7 Ne5 46.
+Rxg5 c4 47. Rg7 c3 48. Rc7 Nc4+ 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.3"]
+[White "Dickens, Rupert"]
+[Black "Garcia Silva, Angel"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "1938"]
+[BlackElo "1877"]
+[PlyCount "63"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Be2 O-O 7. O-O a6 8. a4
+Nbd7 9. Nd2 e6 10. f4 Ne8 11. Nf3 Nc7 12. dxe6 Nxe6 13. Qxd6 Nd4 14. Bd3 Nxf3+
+15. Rxf3 Bxc3 16. bxc3 b6 17. c4 Qf6 18. Qxf6 Nxf6 19. Bb2 Ne8 20. f5 Bb7 21.
+fxg6 fxg6 22. Rxf8+ Kxf8 23. a5 Nd6 24. e5 Nc8 25. axb6 a5 26. Ba3 Ke7 27.
+Bxc5+ Ke6 28. Bd4 Nxb6 29. Bxb6 Kxe5 30. Rxa5+ Rxa5 31. Bxa5 Bc6 32. Kf2 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.4"]
+[White "Judd, Ian"]
+[Black "Elamri, Khaled"]
+[Result "0-1"]
+[ECO "A39"]
+[WhiteElo "1847"]
+[BlackElo "1922"]
+[PlyCount "82"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 Nf6 4. Nc3 g6 5. Nf3 Bg7 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 d6 10. Qd3 Rb8 11. Be3 Bf5 12. Qd2 a6 13. Rac1 Qd7 14. c5
+dxc5 15. Qxd7 Nxd7 16. Nd5 Bxb2 17. Nxe7+ Kh8 18. Nxf5 Bxc1 19. Rxc1 gxf5 20.
+Bf4 Kg7 21. Bh3 Kg6 22. e4 Rbd8 23. Bxf5+ Kg7 24. Bc7 Rc8 25. Bd6 Rc6 26. e5
+Nb8 27. Rc4 Rxd6 28. exd6 b6 29. Rc2 Nc6 30. Be4 Nd4 31. Rb2 b5 32. Bb7 a5 33.
+d7 Rd8 34. Bc8 c4 35. Kg2 c3 36. Rb1 Ne2 37. Rxb5 c2 38. Re5 c1=Q 39. Rxe2 Qc6+
+40. f3 Qc4 41. Re8 Qxa2+ 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.5"]
+[White "Biletska, Iryna"]
+[Black "Roberts, Malcolm"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "1915"]
+[BlackElo "1652"]
+[PlyCount "37"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. c4 c6 5. Nc3 Nbd7 6. Qb3 Qb6 7. Qxb6 Nxb6 8.
+c5 Nbd7 9. Nf3 e6 10. Nh4 Bg6 11. Nxg6 hxg6 12. O-O-O Be7 13. Bg3 Nh5 14. Bd3
+Nxg3 15. hxg3 O-O-O 16. f4 Nf6 17. Be2 Nh5 18. Bxh5 gxh5 19. e4 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.6"]
+[White "Gonzalez Amaya, Millan"]
+[Black "Taylor, Robert P"]
+[Result "0-1"]
+[ECO "C93"]
+[WhiteElo "1705"]
+[BlackElo "1675"]
+[PlyCount "60"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8. h3
+O-O 9. c3 Bb7 10. d4 h6 11. Nbd2 Re8 12. Nf1 Bf8 13. Ng3 Bc8 14. Nh4 Ne7 15.
+Qe2 Bd7 16. dxe5 dxe5 17. Be3 Qc8 18. Rad1 c5 19. Qf3 c4 20. Bc2 Qc6 21. Rd2
+Kh7 22. Red1 Neg8 23. Nhf5 Re6 24. Nh5 Be8 25. Nhg3 g6 26. Nh4 Be7 27. Qe2 Rc8
+28. Nf3 Nd7 29. Nh2 Ngf6 30. Ng4 Nxg4 {White Lost On Time} 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.7"]
+[White "Garcia Lechugo, Francisco"]
+[Black "Benaddi, Mouhcine"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "1712"]
+[BlackElo "1817"]
+[PlyCount "60"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. d3 e6 5. e4 d5 6. e5 Nfd7 7. d4 c5 8. c3 Ba6
+9. Bf1 Qc8 10. Be3 Be7 11. Na3 Bxf1 12. Kxf1 O-O 13. Nc2 Nc6 14. Ng5 h6 15. h4
+hxg5 16. hxg5 g6 17. Kg2 Kg7 18. Rh6 Rh8 19. Qh1 Ndxe5 20. Qh4 Nc4 21. Rh1 Qg8
+22. dxc5 bxc5 23. b4 Nd6 24. g4 f6 25. f4 Nf7 26. Rxg6+ Kxg6 27. f5+ Kg7 28.
+Qxh8+ Qxh8 29. Rxh8 Nxh8 30. g6 Nxg6 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.8"]
+[White "Ince, Darren"]
+[Black "Slimani, Abderezzak"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "1585"]
+[BlackElo "1802"]
+[PlyCount "119"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. Bd3 h6 7. Bh4 c5 8. c3
+Bd7 9. O-O Qc7 10. Qe2 e5 11. Bxf6 Bxf6 12. d5 Bg7 13. Nh4 Qd8 14. Nhf3 f5 15.
+e4 f4 16. Nc4 Bg4 17. h3 Bc8 18. a4 Rf7 19. b4 cxb4 20. cxb4 Qe7 21. Rfc1 Nd7
+22. Na5 Nf6 23. Rc2 g5 24. Rac1 Qd8 25. Nc4 Bf8 26. Na3 g4 27. hxg4 Bxg4 28.
+Nb5 Ne8 29. Qd1 Rg7 30. Be2 Bh3 31. Bf1 Bg4 32. Be2 a6 33. Na3 Qf6 34. Nc4 h5
+35. Nh2 Bh3 36. Bf1 Qg6 37. Qf3 Bg4 38. Qd3 Rc8 39. Nb6 Rxc2 40. Rxc2 h4 41.
+Nxg4 Qxg4 42. Rc3 Nf6 43. Na8 h3 44. Qxh3 Qxh3 45. Rxh3 Nxe4 46. Bd3 Ng5 47.
+Rh5 e4 48. Be2 Kf7 49. Nb6 Kf6 50. Bg4 Be7 51. Nd7+ Kg6 52. Rh8 Nh7 53. Rb8 Nf6
+54. Nxf6 Bxf6 55. Bc8 Bc3 56. Rxb7 Rxb7 57. Bxb7 Bxb4 58. Bxa6 Kf5 59. Kf1 Ke5
+60. Bb7 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.9"]
+[White "Gravett, Alan D"]
+[Black "Culverhouse, Brian"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "1750"]
+[BlackElo "1420"]
+[PlyCount "109"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. g3 d5 2. Nf3 Bg4 3. Bg2 Nc6 4. c4 d4 5. d3 e5 6. O-O Qd7 7. a3 Bh3 8. b4 a6
+9. b5 Bxg2 10. bxc6 Qh3 11. cxb7 Bxf3 12. bxa8=Q+ Bxa8 13. f3 Bc6 14. e3 Bc5
+15. Qe2 Nf6 16. Bd2 h5 17. Bb4 h4 18. Bxc5 hxg3 19. Qg2 gxh2+ 20. Kh1 Qh5 21.
+e4 Bd7 22. Rf2 g5 23. Qxh2 g4 24. Qxh5 Rxh5+ 25. Rh2 gxf3 26. Rxh5 Nxh5 27. Nd2
+f2 28. Kg2 Nf4+ 29. Kf3 Nxd3 30. Bb4 Bh3 31. Ke2 Nf4+ 32. Kxf2 Be6 33. Ba5 Kd7
+34. Rb1 Kc6 35. Kf3 Nd3 36. Bb4 Nf4 37. Be7 Nd3 38. Bf6 Kd6 39. a4 Nc5 40. a5
+Nd7 41. Bh4 Nc5 42. Bd8 Kd7 43. Bg5 Kd6 44. Rb8 Kc6 45. Bh4 Nb7 46. Ra8 Nc5 47.
+Bg3 Kb7 48. Rh8 Kc6 49. Bxe5 Nb7 50. Bxd4 Nxa5 51. Rh5 f5 52. Rh6 fxe4+ 53.
+Nxe4 Kd7 54. Nc5+ Kc8 55. Rh8+ 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.26"]
+[Round "2.10"]
+[White "Hurn, Robert"]
+[Black "Reid, John"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1682"]
+[BlackElo "1195"]
+[PlyCount "111"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Bd7 3. Nc3 e6 4. Nf3 Ne7 5. Bg5 h6 6. Be3 a6 7. a4 Ng6 8. g3 Be7
+9. Bg2 Nf8 10. Qd2 a5 11. Rd1 Na6 12. O-O g5 13. b3 g4 14. Ne1 Nh7 15. Nd3 Nb4
+16. e5 d5 17. f4 h5 18. Bf2 h4 19. Qe2 hxg3 20. hxg3 Bc6 21. Be3 Kd7 22. Kf2
+Bh4 23. Nc5+ Kc8 24. Rh1 Nf8 25. Rc1 Ng6 26. Qxg4 Kb8 27. Ke2 Be8 28. Bf2 f6
+29. gxh4 Nxe5 30. Qxe6 Nec6 31. Kd2 b6 32. Nd3 Bg6 33. Rce1 Nxd3 34. cxd3 Nb4
+35. Bf1 Qf8 36. Qh3 Na2 37. Nxa2 Qa3 38. Nc1 Qb2+ 39. Ke3 Bh5 40. Qe6 Ka7 41.
+f5 Rhe8 42. Bg3 Rxe6+ 43. fxe6 Re8 44. Bh3 c5 45. dxc5 bxc5 46. Kf4 Bg6 47. e7
+Qd4+ 48. Kf3 Rg8 49. Bf2 Qb4 50. Be6 Re8 51. Bxd5 Bh5+ 52. Kg2 Qa3 53. Bc6 Rg8+
+54. Kf1 Kb6 55. e8=Q Bxe8 56. Bxe8 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.1"]
+[White "Elamri, Khaled"]
+[Black "Kuenitz, Klaus"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "1922"]
+[BlackElo "2005"]
+[PlyCount "75"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. b3 Nf6 2. Bb2 d6 3. d4 g6 4. Nf3 Bg7 5. c4 O-O 6. Nbd2 Bf5 7. e3 Nc6 8. a3
+Re8 9. d5 Nb8 10. Nd4 Bd7 11. Be2 e5 12. dxe6 fxe6 13. O-O e5 14. N4f3 a5 15.
+b4 Na6 16. Qb3 a4 17. Qc2 b6 18. c5 Bc8 19. cxb6 cxb6 20. Qxa4 Bd7 21. Qd1 Qb8
+22. Rc1 d5 23. Qb3 Kf8 24. Rfd1 Qd6 25. Bxa6 Rxa6 26. Qd3 Raa8 27. Nc4 Qb8 28.
+Ncxe5 Bf5 29. Qb3 Be4 30. Nc6 Qd6 31. Ncd4 Ng4 32. Rc6 Qb8 33. h3 Ne5 34. Nxe5
+Bxe5 35. Nb5 Bh2+ 36. Kh1 Qb7 37. Rf6+ Kg8 38. Kxh2 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.2"]
+[White "Sbia, Bachir"]
+[Black "Dickens, Rupert"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteElo "1960"]
+[BlackElo "1938"]
+[PlyCount "64"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 b6 7. Bxf6 Bxf6 8.
+cxd5 exd5 9. Bd3 Bb7 10. Qc2 h6 11. h4 c5 12. dxc5 bxc5 13. O-O-O Qa5 14. Kb1
+Rd8 15. Bh7+ Kf8 16. Na4 Na6 17. Rc1 Rac8 18. a3 c4 19. Nd4 Bc6 20. Nc3 Nc5 21.
+Bf5 Rc7 22. Rcd1 Rb8 23. Ka2 Ba4 24. Nxa4 Nxa4 25. Rb1 Bxd4 26. exd4 Rcb7 27.
+Rhd1 Rxb2+ 28. Rxb2 Rxb2+ 29. Qxb2 Nxb2 30. Kxb2 Qb6+ 31. Kc1 c3 32. Rh1 Ke8
+0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.3"]
+[White "Taylor, Robert P"]
+[Black "Judd, Ian"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "1675"]
+[BlackElo "1847"]
+[PlyCount "104"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 h6 2. Nf3 g5 3. e4 Bg7 4. c3 d6 5. Be3 f5 6. exf5 Bxf5 7. Bd3 Qd7 8. Qc2
+e6 9. Na3 Ne7 10. O-O Nbc6 11. Rad1 O-O-O 12. b4 Bxd3 13. Rxd3 Nd5 14. Qd2 Rdf8
+15. b5 Nce7 16. c4 Nf4 17. Rb3 b6 18. Nc2 Nh3+ 19. Kh1 Rxf3 20. gxf3 Ng6 21.
+Nb4 Qf7 22. Qd1 Nh4 23. Bc1 Rf8 24. f4 Nxf4 25. Nc6 h5 26. c5 g4 27. Nxa7+ Kd7
+28. cxb6 Qf5 29. Bxf4 Qxf4 30. Qc2 cxb6 31. Qc6+ Ke7 32. Re3 Bxd4 33. Nc8+ Rxc8
+34. Rxe6+ Kxe6 35. Qxc8+ Kf7 36. Qd7+ Kg6 37. Qe8+ Kh6 38. Qe6+ Bf6 39. Qe3 Be5
+40. a4 Nf5 41. Qxf4+ Bxf4 42. Rd1 Ne7 43. Rd4 Kg5 44. Kg2 Kf5 45. h3 Ke5 46.
+Rd1 Nd5 47. hxg4 hxg4 48. Kf1 Nc3 49. Ra1 Kd5 50. a5 Nxb5 51. axb6 Kc6 52. Ra4
+Be5 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.4"]
+[White "Benaddi, Mouhcine"]
+[Black "Biletska, Iryna"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "1817"]
+[BlackElo "1915"]
+[PlyCount "29"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 e6 2. g3 c5 3. Bg2 Nc6 4. O-O h6 5. e4 Nf6 6. d3 Be7 7. Nc3 a6 8. Re1
+O-O 9. e5 Nh7 10. Ne4 Nd4 11. c3 Nxf3+ 12. Qxf3 Ng5 13. Qg4 f5 14. exf6 Nxe4
+15. Qxg7# 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.5"]
+[White "Garriga Marrodan, Enrique"]
+[Black "Gravett, Alan D"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1915"]
+[BlackElo "1750"]
+[PlyCount "80"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. e3 O-O 6. Be2 Nbd7 7. c3 a5 8. h4
+a4 9. h5 Nxh5 10. Rxh5 gxh5 11. Nh2 Ra5 12. Bh4 Bf6 13. Nc4 Ra8 14. Bxf6 Nxf6
+15. Bxh5 Kh8 16. Qf3 Be6 17. Nd2 Rg8 18. c4 Rg5 19. d5 Rxh5 20. dxe6 Rxh2 21.
+exf7 Qf8 22. O-O-O a3 23. b3 Qxf7 24. Qxb7 Qg8 25. Rg1 Rb8 26. Qxc7 Nd5 27. Qa7
+Nc3 28. Qd4+ Qg7 29. Kc2 Nxa2 30. Nf3 Nb4+ 31. Kc3 Rh6 32. Ng5 Qxd4+ 33. exd4
+Rg6 34. f4 h6 35. Nf3 Rg3 36. d5 a2 37. Kb2 Rbg8 38. Nh4 R8g4 39. Nf5 Rxg2+ 40.
+Rxg2 Rxg2+ 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.6"]
+[White "Roberts, Malcolm"]
+[Black "Hamer, Martyn"]
+[Result "0-1"]
+[ECO "A51"]
+[WhiteElo "1652"]
+[BlackElo "1915"]
+[PlyCount "76"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. e3 Bb4+ 6. Bd2 Nxd2 7. Nbxd2 Qe7
+8. a3 Bxd2+ 9. Qxd2 Nxe5 10. Nxe5 Qxe5 11. Be2 O-O 12. O-O d6 13. Bf3 Bd7 14.
+b4 Bc6 15. Bxc6 bxc6 16. Qd4 Rfe8 17. Rfd1 f5 18. Qxe5 Rxe5 19. g3 g5 20. Rd4
+a5 21. Rdd1 Re4 22. c5 axb4 23. cxd6 cxd6 24. Rxd6 Rc4 25. Rd3 Rc2 26. Rb3 c5
+27. Kf1 g4 28. Ke1 Kf7 29. a4 Ke6 30. Rd3 c4 31. Rd2 Rxd2 32. Kxd2 Kd5 33. a5
+Ra6 34. Ra4 Kc5 35. Ra1 Kb5 36. Rc1 Rxa5 37. Rc2 b3 38. Rc1 Kb4 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.7"]
+[White "Garcia Silva, Angel"]
+[Black "Hurn, Robert"]
+[Result "1/2-1/2"]
+[ECO "E43"]
+[WhiteElo "1877"]
+[BlackElo "1682"]
+[PlyCount "64"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne4 6. Qc2 f5 7. Nf3 O-O 8.
+e3 b6 9. Bd3 Bb7 10. Bb2 d6 11. Rg1 Nd7 12. Nd2 Nef6 13. O-O-O d5 14. h4 c5 15.
+h5 Rc8 16. Kb1 Qc7 17. g4 Nxg4 18. Rxg4 fxg4 19. Bxh7+ Kh8 20. h6 Nf6 21. hxg7+
+Qxg7 22. Bd3 Kg8 23. e4 Kf7 24. e5 Ne4 25. Nxe4 dxe4 26. Bxe4 Bxe4 27. Qxe4 Qg6
+28. Qxg6+ Kxg6 29. Rg1 Kf5 30. Rc1 Rh8 31. Rc2 Rh2 32. Bc1 Rg8 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.8"]
+[White "Elamri, Sanae"]
+[Black "Gonzalez Amaya, Millan"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "1675"]
+[BlackElo "1705"]
+[PlyCount "116"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bf4 Be7 7. Nbd2 f5 8.
+Ne5 O-O 9. f3 Nf6 10. Bd3 Nc6 11. c3 Nh5 12. Nxc6 bxc6 13. Be5 Bd6 14. O-O Nf4
+15. Nb3 a5 16. Nc1 Qg5 17. Qc2 c5 18. Bxf4 Qxf4 19. g3 Qe3+ 20. Qf2 cxd4 21.
+cxd4 f4 22. Re1 Qxf2+ 23. Kxf2 fxg3+ 24. hxg3 Rb8 25. Rb1 Bg4 26. Be2 Bf5 27.
+Bd3 Bg4 28. Be2 Bd7 29. Nb3 Bf5 30. Rbc1 a4 31. Nc5 Rxb2 32. Nxa4 Rxa2 33. Nc3
+Ra5 34. Nb5 Bb4 35. Red1 c6 36. Rxc6 Bd7 37. Rb6 Re8 38. Nc7 Rc8 39. Rxb4 Rxc7
+40. Rb2 Kf7 41. f4 Bf5 42. Bf3 Rc2+ 43. Rd2 Rxd2+ 44. Rxd2 Ke7 45. Re2+ Kd6 46.
+g4 Bd3 47. Re5 Bc4 48. f5 Ra2+ 49. Be2 Rd2 50. Re6+ Kd7 51. g5 Rxd4 52. Ke3 Rh4
+53. Bxc4 dxc4 54. Re4 Rxe4+ 55. Kxe4 Kd6 56. Kd4 c3 57. f6 gxf6 58. gxf6 c2 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "3.9"]
+[White "Slimani, Abderezzak"]
+[Black "Elamri, Laila"]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "1802"]
+[BlackElo "1532"]
+[PlyCount "45"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. b3 Nf6 2. Bb2 g6 3. c4 Bg7 4. g3 d6 5. Bg2 c5 6. d3 Nc6 7. Nc3 Bd7 8. e3 O-O
+9. Nge2 Qc8 10. h3 a6 11. g4 Rb8 12. Qd2 b5 13. Nf4 b4 14. Ncd5 g5 15. Nxf6+
+Bxf6 16. Bxf6 exf6 17. Nh5 Qd8 18. Qb2 Ne5 19. Kd2 Bc8 20. f4 gxf4 21. exf4 Nd7
+22. Bc6 Bb7 23. Bxd7 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.10"]
+[White "Culverhouse, Brian"]
+[Black "Ince, Darren"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1420"]
+[BlackElo "1585"]
+[PlyCount "72"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bg4 5. Be2 Nf6 6. O-O Bd6 7. Bg5 O-O 8.
+Nc3 c6 9. Re1 Nbd7 10. h3 Bh5 11. Nh4 Bxe2 12. Rxe2 h6 13. Nf5 hxg5 14. Nxd6
+Qc7 15. Nf5 Rfe8 16. Re7 Rxe7 17. Nxe7+ Kf8 18. Nf5 Qf4 19. Ne3 Ne4 20. Nxe4
+Qxe4 21. Qh5 Qh4 22. Qg4 Nf6 23. Qxh4 gxh4 24. Nf5 g5 25. Nd6 b6 26. Re1 Rd8
+27. Nf5 Re8 28. Rxe8+ Nxe8 29. f3 f6 30. Kf2 Kf7 31. Ke3 Ke6 32. g4 hxg3 33.
+Nxg3 Ng7 34. f4 Nf5+ 35. Nxf5 Kxf5 36. fxg5 fxg5 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.27"]
+[Round "3.11"]
+[White "Kekki, Kristina"]
+[Black "Garcia Lechugo, Francisco"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "1112"]
+[BlackElo "1712"]
+[PlyCount "20"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 Bd7 5. O-O Qc8 6. h3 Bxh3 7. Bxh3 Qxh3 8.
+Nh2 h5 9. c3 Nf6 10. Nd2 h4 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.1"]
+[White "Dickens, Rupert"]
+[Black "Elamri, Khaled"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "1938"]
+[BlackElo "1922"]
+[PlyCount "92"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Be7 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O b5 10. Bd3 Bb7 11. e4 h6 12. e5 Nd5 13. Nxd5 exd5 14. Re1 a6
+15. e6 fxe6 16. Rxe6 Rf6 17. Qe2 Kf7 18. Re3 Bd6 19. Ne5+ Kg8 20. Qh5 Nf8 21.
+Bd2 c5 22. Rg3 Qe8 23. Qh4 Bxe5 24. dxe5 Qxe5 25. Re1 Qd6 26. Qg4 Qd7 27. Qxd7
+Nxd7 28. Re7 Rf7 29. Rge3 Kf8 30. R7e6 d4 31. Re1 Bd5 32. Rd6 Bxa2 33. Bg6 Re7
+34. Ra1 Bf7 35. Bf5 Nf6 36. Rdxa6 Rxa6 37. Rxa6 Re2 38. Ba5 Rxb2 39. Bc7 g6 40.
+Bd6+ Kg7 41. Bd3 Kg8 42. Bxc5 Rd2 43. Ra8+ Kg7 44. Bxb5 Rd1+ 45. Bf1 Bc4 46.
+Ra7+ Kg8 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.2"]
+[White "Kuenitz, Klaus"]
+[Black "Sbia, Bachir"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2005"]
+[BlackElo "1960"]
+[PlyCount "101"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 c6 6. e3 Nbd7 7. Bd3 O-O 8. h3
+a6 9. c5 b6 10. b4 bxc5 11. bxc5 Qa5 12. Qd2 Re8 13. O-O Qd8 14. Rab1 Bf8 15.
+Na4 Ne4 16. Qc2 f5 17. Nb6 Nxb6 18. Rxb6 g5 19. Bh2 Bg7 20. Rxc6 Bd7 21. Rb6
+Bb5 22. Bxb5 axb5 23. Rxb5 g4 24. hxg4 fxg4 25. Ne5 g3 26. Bxg3 Nxg3 27. fxg3
+Qg5 28. Nf3 Qxe3+ 29. Qf2 Qa3 30. c6 Rac8 31. Qc2 Qe3+ 32. Rf2 Bxd4 33. Nxd4
+Qxd4 34. Rb7 Qe4 35. Qxe4 dxe4 36. c7 Re7 37. Rc2 Kf7 38. Kf2 Kf6 39. Ke3 Kf5
+40. g4+ Kxg4 41. Kxe4 e5 42. a4 Rd7 43. a5 Rd4+ 44. Kxe5 Rd7 45. Ke6 Rg7 46. a6
+Rg6+ 47. Kd7 Rcg8 48. Rb4+ Kg3 49. Rb3+ Kg4 50. Rc4+ Kf5 51. Rb5+ 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.3"]
+[White "Hamer, Martyn"]
+[Black "Taylor, Robert P"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "1915"]
+[BlackElo "1675"]
+[PlyCount "88"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Bg4 4. Ne5 Bf5 5. Nc3 e6 6. e3 Nd7 7. Nxd7 Qxd7 8. Bd2
+Nf6 9. f3 Be7 10. g4 Nxg4 11. Rg1 Bh4+ 12. Ke2 Nf2 13. Qa4 Bd3+ 14. Ke1 Nh3+
+15. Kd1 Nxg1 16. Bxd3 Nxf3 17. Ke2 Nxd2 18. Kxd2 O-O 19. Qd1 f5 20. Qh5 Bf6 21.
+Rg1 Qf7 22. Qh3 Rac8 23. Ne2 g6 24. Nf4 Bg7 25. cxd5 cxd5 26. Qg2 Rc7 27. h4
+Bh6 28. Nh3 Qe7 29. Qg3 Rfc8 30. a3 Qf6 31. Nf4 Bxf4 32. Qxf4 Rg7 33. Qd6 Qe7
+34. Qe5 Kf7 35. h5 Qc7 36. Qxc7+ Rxc7 37. h6 Rg8 38. Bb1 g5 39. Bd3 g4 40. Ke2
+Rg5 41. Rh1 Kg6 42. Kf2 Rh5 43. Rg1 Kxh6 44. Kg3 Kg5 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.4"]
+[White "Gravett, Alan D"]
+[Black "Benaddi, Mouhcine"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1750"]
+[BlackElo "1817"]
+[PlyCount "82"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. g3 g6 2. Bg2 Bg7 3. d4 Nf6 4. e4 d6 5. Ne2 O-O 6. O-O Nbd7 7. Nbc3 c6 8. a4
+e5 9. h3 Re8 10. Kh2 exd4 11. Nxd4 Nc5 12. f3 a5 13. Bg5 h6 14. Be3 Nfd7 15.
+Qd2 Kh7 16. Rad1 Qe7 17. Bf4 Ne5 18. b3 Bd7 19. Be3 f5 20. f4 Nf7 21. Rfe1 fxe4
+22. Nde2 d5 23. Nxd5 cxd5 24. Qxd5 Nd3 25. cxd3 Bc6 26. Qc4 Nd6 27. Qc5 exd3
+28. Bxc6 Qxe3 29. Qxd6 dxe2 30. Bxe8 exd1=Q 31. Bxg6+ Kh8 32. Qxd1 Qf2+ 33. Kh1
+Qxg3 34. f5 Be5 35. Qd2 Qf3+ 36. Kg1 Qg3+ 37. Kh1 Qxh3+ 38. Kg1 Qg4+ 39. Qg2
+Qd4+ 40. Kh1 Qh4+ 41. Kg1 Qxe1+ 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.5"]
+[White "Gonzalez Amaya, Millan"]
+[Black "Garcia Silva, Angel"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "1705"]
+[BlackElo "1877"]
+[PlyCount "80"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. Nf3 Nc6 5. e5 a6 6. Ne2 Qb6 7. c3 Nge7 8. dxc5
+Qxc5 9. Be3 Qa5 10. Ned4 Ng6 11. Be2 Ngxe5 12. Nxe5 Nxe5 13. O-O Be7 14. Bf4
+Ng6 15. Bg3 O-O 16. f4 Bd6 17. f5 Bxg3 18. fxg6 Bd6 19. gxf7+ Rxf7 20. Rxf7
+Kxf7 21. Bh5+ Kg8 22. Qf3 Qc7 23. Rf1 e5 24. Qxd5+ Kh8 25. Rf7 Qc5 26. Qxc5
+Bxc5 27. b4 Be6 28. Rxb7 exd4 29. bxc5 dxc3 30. Bd1 Bxa2 31. Bc2 Bd5 32. Rd7
+Be6 33. Rd3 Ba2 34. Rd7 Rc8 35. Ra7 Bc4 36. Kf2 g6 37. Rb7 Ba2 38. Ke3 Kg8 39.
+Kd4 Ra8 40. c6 Be6 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.6"]
+[White "Hurn, Robert"]
+[Black "Slimani, Abderezzak"]
+[Result "0-1"]
+[ECO "B44"]
+[WhiteElo "1682"]
+[BlackElo "1802"]
+[PlyCount "96"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 a6 7. N5c3 Nf6 8. Be2
+Be7 9. Be3 O-O 10. O-O Nd7 11. f4 Qc7 12. Nd2 b6 13. Nf3 Bb7 14. Rc1 Qb8 15.
+Qc2 Qa7 16. Rfd1 Rfd8 17. Kh1 Rac8 18. Qb1 Na5 19. Nd2 Nc6 20. Nf3 Bf8 21. Ng5
+h6 22. Nf3 Qb8 23. a3 Ba8 24. b4 Ne7 25. Nd2 Ng6 26. Nf3 Qb7 27. Bd3 Nf6 28.
+Kg1 Ng4 29. Bd2 b5 30. Rf1 bxc4 31. Bc2 Qb6+ 32. Kh1 Nf2+ 33. Rxf2 Qxf2 34. Rf1
+Qb6 35. Qe1 d5 36. exd5 exd5 37. f5 Re8 38. Qg3 Bd6 39. Qg4 Ne5 40. Nxe5 Bxe5
+41. Ne2 Qf6 42. Ba4 Red8 43. Nf4 Bxf4 44. Bxf4 d4 45. Re1 d3 46. Be5 d2 47. Re3
+Qg5 48. Qxg5 d1=Q+ 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.7"]
+[White "Judd, Ian"]
+[Black "Garriga Marrodan, Enrique"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "1847"]
+[BlackElo "1915"]
+[PlyCount "84"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 c6 4. Nf3 d5 5. b3 Bd6 6. Bb2 Nbd7 7. O-O O-O 8. d4
+Ne4 9. Qd3 f5 10. Nbd2 Ndf6 11. Ne5 Nd7 12. Ndf3 Nxe5 13. Nxe5 Qe7 14. f3 Ng5
+15. e4 fxe4 16. fxe4 dxe4 17. Bxe4 Bxe5 18. Rxf8+ Qxf8 19. dxe5 Nxe4 20. Qxe4
+Bd7 21. Rd1 Rd8 22. Rd6 Bc8 23. c5 Rxd6 24. exd6 Qf5 25. Qd4 Qb1+ 26. Kf2 Qc2+
+27. Ke3 Qg6 28. d7 Qh6+ 29. Kd3 Qg6+ 30. Kc3 Bxd7 31. Qxd7 Qf6+ 32. Kb4 a5+ 33.
+Kxa5 Qf8 34. Qxe6+ Kh8 35. Bxg7+ Qxg7 36. Qe8+ Qf8 37. Qe4 Kg8 38. Qd4 Qf5 39.
+Qe4 Qf8 40. Qe5 Qe8 41. b4 Qg6 42. h3 Qf5 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.8"]
+[White "Biletska, Iryna"]
+[Black "Ince, Darren"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "1915"]
+[BlackElo "1585"]
+[PlyCount "79"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. c4 e6 5. a3 c6 6. Qb3 Qc8 7. Nd2 Be7 8. Ngf3
+Nbd7 9. Bd3 Bxd3 10. Qxd3 O-O 11. Ne5 Nxe5 12. Bxe5 Nd7 13. Bg3 Qd8 14. h4 Nf6
+15. h5 h6 16. f3 c5 17. dxc5 Bxc5 18. b4 Be7 19. c5 a5 20. Be5 axb4 21. axb4
+Nd7 22. Bc3 Bf6 23. O-O Qc7 24. Rxa8 Rxa8 25. Nb1 Qg3 26. Be1 Qe5 27. g4 Ra2
+28. f4 Qc7 29. Qb3 Rb2 30. Qd1 e5 31. Bc3 exf4 32. Bxb2 fxe3 33. Qf3 Bxb2 34.
+Qxe3 Bd4 35. Qxd4 Qg3+ 36. Kh1 Qh3+ 37. Kg1 Kh7 38. Rf3 Kg8 39. Rxf7 Qg3+ 40.
+Kf1 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.9"]
+[White "Garcia Lechugo, Francisco"]
+[Black "Elamri, Sanae"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "1712"]
+[BlackElo "1675"]
+[PlyCount "49"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. b4 Bg7 4. Bb2 d6 5. Bg2 O-O 6. O-O a6 7. c4 Nc6 8. a3
+Be6 9. d3 Qd7 10. Ng5 Bf5 11. e4 Bg4 12. f3 Be6 13. Nxe6 Qxe6 14. Nc3 a5 15.
+Nd5 Qd7 16. Nxf6+ Bxf6 17. Bxf6 exf6 18. b5 Nd4 19. a4 Rfe8 20. Ra2 Re7 21. Rb2
+b6 22. Qa1 Qe6 23. Rbf2 Nb3 24. Qb2 Nc5 25. Qc2 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.10"]
+[White "Culverhouse, Brian"]
+[Black "Elamri, Laila"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1420"]
+[BlackElo "1532"]
+[PlyCount "91"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Be7 5. d3 O-O 6. Nc3 c5 7. g3 Re8 8. Bg2
+Bg4 9. h3 Be6 10. O-O Qd7 11. Kh2 Nc6 12. Ng1 Rad8 13. f4 Qc7 14. f5 Bc8 15. g4
+d5+ 16. Bf4 Bd6 17. Bxd6 Qxd6+ 18. Kh1 dxe4 19. Nxe4 Nxe4 20. Bxe4 Qg3 21. Bxc6
+bxc6 22. Qf3 Qd6 23. Qf4 Qd5+ 24. Qf3 Bb7 25. Qxd5 cxd5 26. Rae1 d4+ 27. Kh2 f6
+28. Kg3 Re3+ 29. Rxe3 dxe3 30. Re1 Re8 31. Kf4 c4 32. Rxe3 Rd8 33. Nf3 cxd3 34.
+Rxd3 Rc8 35. c3 Re8 36. Re3 Rd8 37. Nd4 Kf7 38. Re6 a6 39. Rb6 Rd7 40. Ne6 Bg2
+41. h4 Rd3 42. Nd4 h6 43. Rxa6 g5+ 44. fxg6+ Kg7 45. Kf5 Bh1 46. Ne6+ 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.28"]
+[Round "4.11"]
+[White "Hewitt, Sean D"]
+[Black "Sampere, Damian"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "1615"]
+[PlyCount "57"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nb8 5. Be3 Nf6 6. Nc3 Bg4 7. h3 Bh5 8. Bd3
+Nbd7 9. Qe2 a6 10. g4 Bg6 11. O-O-O Be7 12. h4 Nxg4 13. h5 Nxe3 14. Qxe3 Bxe4
+15. Nxe4 h6 16. Rdg1 Bf6 17. Nd4 Qe7 18. Nf5 Qf8 19. Nxf6+ Nxf6 20. Rxg7 Ng8
+21. Rhg1 Nf6 22. Nxh6 Ke7 23. Rxf7+ Qxf7 24. Nxf7 Rhg8 25. Rxg8 Rxg8 26. Nxe5
+Nxd5 27. Ng6+ Kd8 28. Qg5+ Ne7 29. Qxe7+ 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.1"]
+[White "Elamri, Khaled"]
+[Black "Benaddi, Mouhcine"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[WhiteElo "1922"]
+[BlackElo "1817"]
+[PlyCount "37"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. g3 Be7 5. Bg2 Bb7 6. d3 O-O 7. O-O d6 8. Qc2
+Na6 9. a3 c5 10. Rb1 d5 11. cxd5 exd5 12. d4 Ne4 13. dxc5 Naxc5 14. Nxe4 Nxe4
+15. Nd2 Qc8 16. Qxc8 Raxc8 17. Nxe4 dxe4 18. Bd2 Rc2 19. Rfd1 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.2"]
+[White "Taylor, Robert P"]
+[Black "Kuenitz, Klaus"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "1675"]
+[BlackElo "2005"]
+[PlyCount "55"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Bg5 g6 3. e3 Bg7 4. c3 Nf6 5. Nd2 O-O 6. Ngf3 d6 7. Bc4+ Kh8 8. Qe2
+Nc6 9. Rd1 Qe8 10. O-O e5 11. dxe5 dxe5 12. a3 Nh5 13. h3 h6 14. Bh4 f4 15.
+exf4 exf4 16. Qxe8 Rxe8 17. Bf7 Bf5 18. Bxe8 Rxe8 19. Rfe1 Rxe1+ 20. Rxe1 g5
+21. g4 fxg3 22. Bxg3 Nxg3 23. fxg3 Bxh3 24. Kf2 Kh7 25. Rh1 Bf5 26. Nxg5+ Kg6
+27. Ngf3 h5 28. Nh4+ 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.3"]
+[White "Judd, Ian"]
+[Black "Dickens, Rupert"]
+[Result "1/2-1/2"]
+[ECO "A86"]
+[WhiteElo "1847"]
+[BlackElo "1938"]
+[PlyCount "81"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 d6 4. f4 g6 5. Nf3 Bg7 6. d4 O-O 7. Nc3 e6 8. O-O
+Nbd7 9. Qc2 Qe7 10. e4 fxe4 11. Nxe4 Re8 12. Nxf6+ Qxf6 13. Bd2 Nf8 14. Rae1
+Bd7 15. Bc3 Qf5 16. Qd2 Bc6 17. Re3 Rad8 18. Rfe1 e5 19. fxe5 dxe5 20. Nh4 Qh5
+21. Bxc6 bxc6 22. Qg2 exd4 23. Rxe8 Rxe8 24. Rxe8 dxc3 25. bxc3 Qc5+ 26. Qf2
+Qxc4 27. Nf3 Qxc3 28. Kg2 h6 29. Qxa7 c5 30. Qxc7 Qc2+ 31. Kf1 Qb1+ 32. Ne1
+Qxa2 33. Re2 Qd5 34. Ng2 Qd1+ 35. Re1 Qf3+ 36. Kg1 Bd4+ 37. Kh1 Qf2 38. Qc6 Qf6
+39. Qd5+ Kg7 40. Qb7+ Kg8 41. Qd5+ 1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.4"]
+[White "Slimani, Abderezzak"]
+[Black "Gravett, Alan D"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1802"]
+[BlackElo "1750"]
+[PlyCount "77"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 d6 3. Bc4 Nf6 4. d3 g6 5. f4 Nc6 6. Nf3 Bg7 7. O-O O-O 8. Qe1
+a6 9. Qh4 b5 10. Bb3 e6 11. f5 c4 12. dxc4 b4 13. Na4 exf5 14. exf5 Bxf5 15.
+Bg5 Ne5 16. Nd4 Qe7 17. Nb6 Neg4 18. Nxa8 Qa7 19. c3 bxc3 20. bxc3 h6 21. Bf4
+Ne4 22. h3 Bxd4+ 23. Kh1 Bf6 24. Qe1 Nef2+ 25. Rxf2 Nxf2+ 26. Kh2 Nd3 27. Qe3
+Qxa8 28. Bxd6 Re8 29. Qd2 Qc6 30. Bg3 Bg5 31. Qd1 h5 32. Ba4 Qe4 33. Bxe8 h4
+34. Bb8 Bf4+ 35. Bxf4 Qxf4+ 36. Kg1 Qf2+ 37. Kh2 Qg3+ 38. Kg1 Qf2+ 39. Kh2 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.5"]
+[White "Sbia, Bachir"]
+[Black "Gonzalez Amaya, Millan"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1960"]
+[BlackElo "1705"]
+[PlyCount "40"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Bg4 7. h3 Bh5 8.
+Qd5 Bxf3 9. Qxf3 Nc6 10. Bb5 Qd7 11. O-O O-O-O 12. Be3 Kb8 13. Qd5 Ne7 14.
+Bxa7+ Ka8 15. Qb3 c6 16. Bb6 Nc8 17. Bxd8 Qxd8 18. Bd3 Qf6 19. Qa4+ Kb8 20. Qd4
+Qd8 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.6"]
+[White "Garcia Silva, Angel"]
+[Black "Hamer, Martyn"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1877"]
+[BlackElo "1915"]
+[PlyCount "36"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. Nf3 e5 3. Nc3 Nc6 4. Bc4 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Neg5+
+Kg8 8. d3 h6 9. Nh3 Bd6 10. Bd2 Bg4 11. Nhg1 Be6 12. a3 e4 13. dxe4 dxe4 14.
+Qe2 Qf6 15. Bc3 exf3 16. Nxf3 Qf7 17. O-O-O Bc4 18. Qe1 Re8 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.7"]
+[White "Elamri, Laila"]
+[Black "Biletska, Iryna"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "1532"]
+[BlackElo "1915"]
+[PlyCount "81"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 c5 3. Nf3 Qa5+ 4. c3 Nf6 5. Bd3 c4 6. e5 Ng8 7. Bxc4 h6 8. Nbd2
+f6 9. Bb3 Nc6 10. Nc4 Qc7 11. Bf4 f5 12. Nh4 d5 13. exd6 Qf7 14. Nf3 g5 15. Bd2
+Nf6 16. Nfe5 Qh5 17. Qxh5+ Nxh5 18. Ba4 Bd7 19. Nxd7 Kxd7 20. Ne5+ Kc8 21. Bxc6
+bxc6 22. d7+ Kc7 23. Nf7 Rh7 24. d8=Q+ Rxd8 25. Nxd8 Kxd8 26. O-O-O Nf6 27.
+Rhe1 Ne4 28. Re2 Nxd2 29. Kxd2 Re7 30. Rde1 Kd7 31. Re5 Kd6 32. Kd3 Bg7 33.
+R5e2 e5 34. dxe5+ Rxe5 35. Rxe5 Bxe5 36. h3 h5 37. Kc4 f4 38. f3 h4 39. Rxe5
+Kxe5 40. Kc5 Ke6 41. Kxc6 1-0
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.8"]
+[White "Ince, Darren"]
+[Black "Hurn, Robert"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "1585"]
+[BlackElo "1682"]
+[PlyCount "52"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 e6 4. Bg5 d5 5. e3 Nbd7 6. Nbd2 Be7 7. Bd3 b6 8. O-O
+Bb7 9. Qe2 O-O 10. Rac1 c4 11. Bc2 b5 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe7 Qxe7
+15. Bxe4 Nf6 16. Bxb7 Qxb7 17. Rce1 Rfd8 18. Ne5 Rac8 19. f4 Ne8 20. f5 exf5
+21. Rxf5 Nd6 22. Rf3 Re8 23. Re3 Rf8 24. Ng4 h6 25. Re7 Qb8 26. Qf3 Rce8
+1/2-1/2
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.9"]
+[White "Garcia Lechugo, Francisco"]
+[Black "Roberts, Malcolm"]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "1712"]
+[BlackElo "1652"]
+[PlyCount "84"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. c4 c6 3. g3 Nf6 4. Bg2 e6 5. O-O Bd6 6. b3 Nbd7 7. Bb2 e5 8. Nh4
+O-O 9. cxd5 cxd5 10. d4 e4 11. Nc3 Nb6 12. f3 g5 13. Qd2 gxh4 14. Qg5+ Kh8 15.
+Qxh4 Be7 16. Qh6 e3 17. Qxe3 Rg8 18. Rac1 Be6 19. Rc2 Qd7 20. Qd3 Bh3 21. Rfc1
+Bxg2 22. Kxg2 Nh5 23. Kf2 Qh3 24. Ke1 Qxh2 25. Kd2 Qxg3 26. Rh1 Bg5+ 27. Kd1
+Qg2 28. Re1 Qh3 29. Rc1 Ng7 30. Ra1 Nf5 31. Bc1 Bxc1 32. Kxc1 Rae8 33. Kb2 Ne3
+34. Rh1 Qf5 35. Qxf5 Nxf5 36. Rh2 Nxd4 37. Rah1 Rg7 38. Kc1 Rc8 39. Kd2 Rc6 40.
+Rc1 Kg8 41. Kd3 Ne6 42. Rh4 d4 0-1
+
+[Event "Gibtelecom ChallWk1 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.29"]
+[Round "5.10"]
+[White "Garriga Marrodan, Enrique"]
+[Black "Elamri, Sanae"]
+[Result "1/2-1/2"]
+[ECO "D04"]
+[WhiteElo "1915"]
+[BlackElo "1675"]
+[PlyCount "102"]
+[EventDate "2005.01.25"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. Nbd2 e6 5. Bd3 Nbd7 6. O-O Bd6 7. h3 Bh5 8.
+Re1 O-O 9. e4 dxe4 10. Nxe4 Nxe4 11. Bxe4 c6 12. Bg5 Qb6 13. Be3 Qc7 14. Bxh7+
+Kxh7 15. Ng5+ Kg6 16. g4 Rh8 17. gxh5+ Rxh5 18. Qg4 f5 19. Qg2 Kf6 20. Bf4 e5
+21. dxe5+ Nxe5 22. Bxe5+ Bxe5 23. f4 Re8 24. Nh7+ Rxh7 25. Qg5+ Kf7 26. Qxf5+
+Kg8 27. Rxe5 Rxe5 28. fxe5 Rh6 29. Rf1 Qb6+ 30. Kh2 Qxb2 31. Rd1 Qb6 32. Rd2
+Qa5 33. Rf2 Qc7 34. Kg2 c5 35. Qe4 Qd7 36. Qc4+ Kh7 37. Qd3+ Qxd3 38. cxd3 Re6
+39. Rf7 Rxe5 40. Rxb7 Re2+ 41. Kf3 Rxa2 42. Rb5 Rc2 43. Ra5 c4 44. dxc4 Rxc4
+45. Rxa7 Kh6 46. Kg3 g5 47. Ra6+ Kh5 48. Ra3 Rf4 49. Ra8 Rb4 50. Rh8+ Kg6 51.
+Rg8+ Kh5 1/2-1/2
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Garcia Lechugo, Francisco"]
+[Black "Garriga Marrodan, Enrique"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "1712"]
+[BlackElo "1915"]
+[PlyCount "108"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 e6 2. c4 Nf6 3. g3 c6 4. Bg2 d5 5. O-O Be7 6. b3 Nbd7 7. Bb2 O-O 8. d3
+Re8 9. Nbd2 Bf8 10. Rc1 c5 11. Re1 d4 12. e4 e5 13. Rc2 Bd6 14. Bc1 Nf8 15. Ng5
+h6 16. Nh3 Bd7 17. f4 Bxh3 18. Bxh3 exf4 19. gxf4 Bxf4 20. Rf1 Be3+ 21. Kh1 Ng6
+22. Nf3 Bxc1 23. Qxc1 a5 24. Re2 Qd6 25. Rfe1 Ne5 26. Nxe5 Qxe5 27. Bf5 Nh7 28.
+Rf2 Ra6 29. Bxh7+ Kxh7 30. Rf5 Qe7 31. e5 Rg6 32. Qf4 Qe6 33. Re4 Rf8 34. Qf3
+Qe7 35. Rg4 Rxg4 36. Qxg4 Qd7 37. Qe4 g6 38. Rf6 Kg7 39. Rd6 Qh3 40. Kg1 Qh5
+41. Rd5 Qd1+ 42. Kg2 Qd2+ 43. Kh1 Qd1+ 44. Kg2 Qd2+ 45. Kh1 Qc1+ 46. Kg2 Qg5+
+47. Kh1 Qc1+ 48. Kg2 Qd2+ 49. Kh1 Qg5 50. e6 Qe7 51. Rd7 fxe6 52. Qe5+ Kg8 53.
+Rd5 Re8 54. Qe4 Kg7 1/2-1/2
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Gonzalez Amaya, Millan"]
+[Black "Hewitt, Sean D"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "1705"]
+[BlackElo "1615"]
+[PlyCount "77"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Be6 10. Bc2 Nd7 11. d4 d5 12. exd5 Bxd5 13. Nxe5 Ndxe5 14. dxe5 Bc5
+15. Be3 Bxe3 16. Rxe3 Re8 17. f4 Bc4 18. Qe1 Rb8 19. Nd2 Be6 20. Nf3 h6 21. f5
+Bc8 22. Rd1 Qe7 23. Qg3 Qc5 24. Rde1 Kf8 25. Kh1 Ke7 26. f6+ Kd8 27. fxg7 Ne7
+28. Rd1+ Bd7 29. Red3 Qc6 30. Rxd7+ Qxd7 31. Rxd7+ Kxd7 32. Qg4+ Kc6 33. Nd4+
+Kb6 34. Qh5 Ng8 35. Qxf7 Rxe5 36. Qg6+ Kb7 37. Qc6+ Kc8 38. Qxa6+ Kd7 39. Qc6+
+1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Gravett, Alan D"]
+[Black "Sbia, Bachir"]
+[Result "1/2-1/2"]
+[ECO "D78"]
+[WhiteElo "1750"]
+[BlackElo "1960"]
+[PlyCount "151"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. g3 g6 2. Bg2 Bg7 3. d4 d5 4. Nf3 Nf6 5. O-O O-O 6. Nbd2 Nbd7 7. c4 c6 8. Re1
+a5 9. b3 a4 10. cxd5 cxd5 11. b4 Qb6 12. Ba3 Ne4 13. Rc1 Ndf6 14. e3 Bg4 15. h3
+Be6 16. Ne5 Nxd2 17. Qxd2 Ne4 18. Bxe4 dxe4 19. Kg2 Rfd8 20. Qb2 Bd5 21. b5 Qe6
+22. Rc7 Re8 23. Qb4 Bf8 24. Nd7 Bg7 25. Rec1 Qf5 26. Nb6 Qf3+ 27. Kg1 Be6 28.
+g4 Qxh3 29. Nxa8 Bxg4 30. Rxe7 Rxa8 31. Qc4 Rf8 32. Qc7 Bf3 33. Qh2 Qg4+ 34.
+Kf1 Be2+ 35. Ke1 Bxb5 36. f4 exf3 37. Rxb7 Bd3 38. Bxf8 Bxf8 39. Rb8 Kg7 40.
+Kd2 Qf5 41. Qe5+ Qxe5 42. dxe5 Ba6 43. Ke1 Be7 44. Kf2 Be2 45. Kg3 h5 46. Rb7
+h4+ 47. Kf2 Ba3 48. Rcc7 g5 49. Rxf7+ Kg6 50. Rf6+ Kh5 51. e6 Bd6 52. Rxf3 Bxf3
+53. Kxf3 g4+ 54. Kf2 Kg6 55. Rd7 Bc5 56. Rc7 Bd6 57. Rd7 Bg3+ 58. Kg2 Be5 59.
+Rf7 h3+ 60. Kg1 g3 61. Rf3 h2+ 62. Kg2 Bd6 63. e7 Bxe7 64. Rxg3+ Kf5 65. e4+
+Kf4 66. Rg7 Bd6 67. Ra7 a3 68. Ra4 Ke3 69. e5 Bxe5 70. Rxa3+ Kd4 71. Rb3 Kc4
+72. Rb7 Kc5 73. a4 Kc6 74. Rb1 Bc7 75. a5 Bxa5 76. Kxh2 1/2-1/2
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Hamer, Martyn"]
+[Black "Slimani, Abderezzak"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "1915"]
+[BlackElo "1802"]
+[PlyCount "79"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. f4 d5 2. b3 g6 3. Bb2 Nf6 4. e3 Bg7 5. Nf3 O-O 6. Be2 c5 7. O-O Nc6 8. Ne5
+Qc7 9. Nxc6 Qxc6 10. a4 b6 11. Bf3 Ba6 12. d3 Rad8 13. Nd2 Qd7 14. Qe1 d4 15.
+e4 Ne8 16. g4 e5 17. f5 Bh6 18. Rd1 Be3+ 19. Kh1 g5 20. h4 gxh4 21. Qxh4 f6 22.
+Kg2 Qg7 23. Rh1 Nd6 24. Nf1 Bg5 25. Qh3 Nf7 26. Bc1 Bxc1 27. Rxc1 Ng5 28. Qg3
+Kf7 29. Nd2 Rh8 30. Rh5 Rdg8 31. Be2 Ke7 32. Qe1 Qf7 33. c4 Nxe4 34. Kh2 Nxd2
+35. Qxd2 Bb7 36. b4 Rc8 37. Rb1 Qe8 38. g5 Qf7 39. Rh6 Ke8 40. Bh5 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Hurn, Robert"]
+[Black "Elamri, Khaled"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "1682"]
+[BlackElo "1922"]
+[PlyCount "108"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 c6 6. Bd3 Be7 7. O-O O-O 8.
+Qe2 b5 9. Bf4 a6 10. Nf5 Bxf5 11. exf5 b4 12. Ne4 d5 13. Ng3 c5 14. Qf3 Nbd7
+15. Rfe1 Re8 16. h4 c4 17. Bf1 Nc5 18. Red1 Qc8 19. Bg5 Ncd7 20. b3 a5 21. bxc4
+dxc4 22. h5 h6 23. Be3 Bc5 24. Bf4 Nb6 25. Re1 a4 26. Rad1 Rxe1 27. Rxe1 Qd7
+28. Bxc4 Bxf2+ 29. Kxf2 Qd4+ 30. Be3 Ng4+ 31. Kg1 Nxe3 32. Bxf7+ Kxf7 33. Qxe3
+Qxe3+ 34. Rxe3 Nd5 35. Re4 Kf6 36. Rc4 Nc3 37. Rxb4 Nxa2 38. Rb1 Nc3 39. Re1 a3
+40. Re6+ Kf7 41. Re1 a2 42. Ra1 Rb8 43. Kf2 Rb1 44. Rxa2 Nxa2 45. Ne4 Rb2 46.
+g4 Rxc2+ 47. Ke3 Nb4 48. Kf4 Rc4 49. Ke5 Nc6+ 50. Kd5 Rd4+ 51. Kxc6 Rxe4 52.
+Kd5 Rxg4 53. Ke5 Ke7 54. Kd5 Kf6 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Kuenitz, Klaus"]
+[Black "Benaddi, Mouhcine"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2005"]
+[BlackElo "1817"]
+[PlyCount "88"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. a3 Bb7 5. Nc3 Ne4 6. Nxe4 Bxe4 7. Bf4 Be7 8. e3
+O-O 9. Bd3 f5 10. h3 Bxd3 11. Qxd3 d6 12. O-O Nd7 13. Rad1 g5 14. Bh2 Qe8 15.
+e4 g4 16. hxg4 fxg4 17. Nd2 Qg6 18. Qe2 Nf6 19. e5 Nh5 20. exd6 Bxd6 21. Bxd6
+cxd6 22. Rde1 Nf4 23. Qe4 Qg5 24. Re3 Rae8 25. Qc6 Qh5 26. Ne4 e5 27. Qxd6 Re6
+28. Ng3 Qh4 29. dxe5 Rxd6 30. exd6 Qd8 31. Rd1 Rf6 32. d7 Re6 33. Ne4 Re7 34.
+c5 bxc5 35. Nxc5 Rxe3 36. fxe3 Nh3+ 37. gxh3 gxh3 38. Kh2 Kf7 39. Nb7 Qb8+ 40.
+Kxh3 Qd8 41. Nc5 Qg5 42. Kh2 Qd8 43. Nb7 Qc7+ 44. Kh3 Qe5 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Manetto, Luis"]
+[Black "Mihajlova, Diana"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1585"]
+[BlackElo "1217"]
+[PlyCount "41"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 d6 4. dxe5 Nc6 5. exf6 Qxf6 6. h3 Qe7 7. Nc3 f5 8.
+Bb5 Bd7 9. O-O fxe4 10. Bg5 Qf7 11. Nxe4 Qg6 12. Re1 Be7 13. Bxc6 bxc6 14. Nc5
+Bf5 15. Rxe7+ Kf8 16. Nd3 Be4 17. Nf4 Qf5 18. Nd4 Bxc2 19. Nxf5 Bxd1 20. Ne6+
+Kg8 21. Rxg7# 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.1"]
+[White "Gonzalez Amaya, Millan"]
+[Black "Kuenitz, Klaus"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "1705"]
+[BlackElo "2005"]
+[PlyCount "118"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3 Be7 7. O-O b6 8. Re1
+Bb7 9. c3 Qc7 10. e5 Nd7 11. d4 g5 12. Nf1 g4 13. Ng5 h6 14. Nxf7 Kxf7 15. Qxg4
+h5 16. Qf4+ Kg7 17. Bh3 Raf8 18. Qd2 Nd8 19. Ne3 Bg5 20. f4 Bh6 21. Qe2 Kf7 22.
+Qxh5+ Ke7 23. Qh4+ Ke8 24. Qh5+ Rf7 25. Kh1 Bg7 26. Qg4 Bf8 27. Bg2 Rg7 28. Qf3
+Nf7 29. Ng4 Be7 30. f5 Ng5 31. Bxg5 Bxg5 32. fxe6 Nf8 33. Nf6+ Ke7 34. c4 dxc4
+35. Qxb7 Qxb7 36. Bxb7 cxd4 37. Bd5 b5 38. Kg2 Nxe6 39. Bc6 Nc7 40. Rad1 d3 41.
+h4 Bxh4 42. Ne4 Rhg8 43. Re3 Bg5 44. Nxg5 Rxg5 45. b3 Ke6 46. bxc4 bxc4 47. Re4
+Rxg3+ 48. Kf2 c3 49. Rc4 c2 50. Rd2 Nd5 51. Bxd5+ Kxd5 52. Rcxc2 Rg2+ 53. Kf3
+Rxd2 54. Rxd2 Kd4 55. Rh2 Rf8+ 56. Kg4 Kxe5 57. Rh7 Rd8 58. Kf3 d2 59. Rh5+ Kf6
+0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.2"]
+[White "Elamri, Khaled"]
+[Black "Manetto, Luis"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "1922"]
+[BlackElo "1585"]
+[PlyCount "69"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Nf3 Nf6 5. d4 e4 6. Nfd2 d5 7. c4 Bg4 8. Qc1
+Bb4 9. a3 Be7 10. Nc3 Be6 11. cxd5 Bxd5 12. Qc2 O-O 13. Ncxe4 Nxe4 14. Nxe4 Qd7
+15. Nc3 Na5 16. Nxd5 Qxd5 17. b4 Nb3 18. Rd1 a5 19. e4 Qe6 20. Bc4 Qg4 21. f3
+Bh4+ 22. Kf1 Qf4 23. Qxb3 a4 24. Qc2 c6 25. Ke2 Qg5 26. g3 Qg6 27. gxh4 Qg2+
+28. Kd3 Qxf3+ 29. Kd2 Qf4+ 30. Kc3 Rfe8 31. Rdf1 Qe3+ 32. Qd3 Rxe4 33. Bxf7+
+Kh8 34. Qxe3 Rxe3+ 35. Kd2 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.3"]
+[White "Garriga Marrodan, Enrique"]
+[Black "Hamer, Martyn"]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "1915"]
+[BlackElo "1915"]
+[PlyCount "118"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. Nbd2 b6 6. Bd3 Bb7 7. O-O Nc6 8. c3
+Nd5 9. Bxe7 Qxe7 10. e4 Nf4 11. Bc2 d6 12. d5 Nd8 13. Ba4+ Kf8 14. c4 e5 15.
+Bc2 g5 16. g3 Ng6 17. Qe2 h5 18. Qe3 f6 19. Kg2 g4 20. Nh4 Nxh4+ 21. gxh4 Nf7
+22. f4 Kg7 23. f5 Kh7 24. Kf2 Rhg8 25. Rg1 Nh6 26. Rg3 Rg7 27. Rag1 Rag8 28.
+Ke1 Qe8 29. Bd1 b5 30. h3 bxc4 31. Nxc4 Qd7 32. hxg4 Nxg4 33. Bxg4 hxg4 34. Qe2
+Ba6 35. b3 Bxc4 36. bxc4 Qb7 37. Kf2 Kh6 38. Qd2+ Kh5 39. Qe2 Qa6 40. Rb1 Rb7
+41. Rbg1 Rbg7 42. Kg2 Qb7 43. Rb3 Qa6 44. Kg3 Rb7 45. Rgb1 Rxb3+ 46. Rxb3 Kh6
+47. Qd2+ Kh7 48. Qb2 Rg7 49. Rb5 Qa4 50. Qb3 Qa6 51. a4 Kh6 52. Rb8 Qa5 53.
+Qe3+ Kh7 54. Rf8 Qxa4 55. Rxf6 Qxc4 56. Rxd6 Kg8 57. Rd8+ Kh7 58. f6 Rb7 59.
+Kxg4 Qf1 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.4"]
+[White "Sbia, Bachir"]
+[Black "Garcia Lechugo, Francisco"]
+[Result "1-0"]
+[ECO "B05"]
+[WhiteElo "1960"]
+[BlackElo "1712"]
+[PlyCount "57"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Bc4 dxe5 6. dxe5 e6 7. O-O Be7 8.
+Qe2 O-O 9. Rd1 c6 10. Bd3 f5 11. c4 Bxf3 12. Qxf3 Nc7 13. Qe2 Qe8 14. Nc3 Nd7
+15. a3 Rd8 16. b4 Rf7 17. f4 Kh8 18. Be3 Qg8 19. Qh5 g6 20. Qf3 Rg7 21. Kh1 Nb6
+22. Ne2 g5 23. fxg5 Nd7 24. Bf4 Bxg5 25. g3 Rg6 26. Qe3 b6 27. Bc2 Qg7 28. Rd6
+Nxe5 29. Rxd8+ 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.5"]
+[White "O'Rourke, William"]
+[Black "Gravett, Alan D"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1758"]
+[BlackElo "1750"]
+[PlyCount "36"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Bc4 Nf6 5. d3 e6 6. Nf3 Be7 7. O-O O-O 8. Qe1
+d5 9. Bb3 dxe4 10. dxe4 Nd4 11. Be3 Ng4 12. Bxd4 cxd4 13. Rd1 b5 14. Kh1 Qb6
+15. Nxd4 Bc5 16. h3 Bxd4 17. hxg4 e5 18. f5 Qh6+ 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.6"]
+[White "Benaddi, Mouhcine"]
+[Black "Hurn, Robert"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "1817"]
+[BlackElo "1682"]
+[PlyCount "55"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Nge2 e6 8. Qd2
+b5 9. O-O b4 10. Nd1 a5 11. f4 Nge7 12. f5 exf5 13. exf5 Bxf5 14. Bh6 Bxh6 15.
+Qxh6 Kd7 16. Ne3 Qf8 17. Qf4 Kc7 18. Rad1 Qg7 19. d4 cxd4 20. Nxd4 Nxd4 21.
+Rxd4 Qe5 22. Rc4+ Kb6 23. Qf2 Ka6 24. Nxf5 Nxf5 25. Re1 Qxb2 26. Bf1 Kb7 27.
+Qf3+ Ka7 28. Rc7+ 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.7"]
+[White "Slimani, Abderezzak"]
+[Black "Hewitt, Sean D"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "1802"]
+[BlackElo "1615"]
+[PlyCount "121"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. O-O Nf6 5. d3 h6 6. c3 O-O 7. Nbd2 a6 8. Bb3
+d6 9. h3 b5 10. Re1 Kh8 11. Nf1 Ne7 12. Ng3 a5 13. Bc2 Bb6 14. Nh4 Ng6 15. Nhf5
+Ne7 16. Qf3 Nxf5 17. Nxf5 Bxf5 18. Qxf5 Qd7 19. Qf3 Ng8 20. g4 Qe6 21. Be3 Rab8
+22. Kg2 Ne7 23. Bb3 Qg6 24. Kh2 a4 25. Bc2 c5 26. Rg1 f6 27. Rg2 Qe8 28. h4 Bd8
+29. Qh3 Qd7 30. Qg3 g5 31. Qh3 Kg7 32. h5 Qc6 33. Rgg1 d5 34. Rac1 Qd6 35. Qg3
+Bc7 36. a3 Qb6 37. Kh3 Rfc8 38. Bb1 d4 39. Bd2 Bd6 40. Ba2 b4 41. Be6 Rc7 42.
+cxb4 cxb4 43. Rxc7 Bxc7 44. Bc4 bxa3 45. bxa3 Bd6 46. Bc1 Nc6 47. Qf3 Na5 48.
+Bd5 Nb3 49. Qf5 Qc7 50. Qg6+ Kf8 51. Qxf6+ Ke8 52. Qg6+ Kd8 53. Qxh6 Nxc1 54.
+Qxg5+ Be7 55. Qxc1 Qxc1 56. Rxc1 Bxa3 57. Ra1 Bf8 58. Rxa4 Ke7 59. g5 Bg7 60.
+Ra7+ Kf8 61. Rf7+ 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.01.31"]
+[Round "2.8"]
+[White "Mihajlova, Diana"]
+[Black "Kekki, Kristina"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "1217"]
+[BlackElo "1112"]
+[PlyCount "46"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Qd3 Nd7 7. c4 Bxe4 8.
+Qxe4 c6 9. Bg5 Bb4+ 10. Bd2 Bxd2+ 11. Nxd2 Ngf6 12. Qf3 O-O 13. Bd3 Re8 14. O-O
+Qb6 15. Nb3 e5 16. Qd1 exd4 17. a4 c5 18. Ra3 Qc7 19. Bc2 Re5 20. Qd2 Rh5 21.
+f4 Re8 22. Nc1 b6 23. Rg3 Rh6 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.1"]
+[White "Kuenitz, Klaus"]
+[Black "Hamer, Martyn"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2005"]
+[BlackElo "1915"]
+[PlyCount "44"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be3 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Nd5 Nxd5 10. cxd5 c6 11. Bc4 cxd5 12. Bxd5 h6 13. Rc1 Nc6 14. Bxc6
+bxc6 15. Rxc6 Bb7 16. Rc7 Bxe4 17. Rxa7 Rxa7 18. Bxa7 Ra8 19. Be3 Rxa2 20. Bc1
+Bd3 21. Nd2 e4 22. b4 Bc3 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.2"]
+[White "Gravett, Alan D"]
+[Black "Elamri, Khaled"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1750"]
+[BlackElo "1922"]
+[PlyCount "94"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. g3 Nf6 2. Bg2 g6 3. e4 d6 4. d4 Bg7 5. Ne2 O-O 6. O-O c6 7. Nbc3 e5 8. h3 a5
+9. a4 Na6 10. Kh2 Qc7 11. Be3 Nb4 12. Qd2 b6 13. Rad1 Ba6 14. f4 h5 15. Rf2
+Bxe2 16. Qxe2 exd4 17. Bxd4 Rfe8 18. Qf3 Rad8 19. Rfd2 Nh7 20. Ne2 Bxd4 21.
+Nxd4 d5 22. exd5 Nxd5 23. Re2 Rxe2 24. Nxe2 Re8 25. Rd3 Nhf6 26. Nc3 h4 27.
+Nxd5 Nxd5 28. f5 hxg3+ 29. Qxg3 Qxg3+ 30. Kxg3 Nb4 31. Rb3 gxf5 32. c3 Re3+ 33.
+Kf4 Rd3 34. Kxf5 c5 35. Ke4 c4 36. Bf1 f5+ 37. Kxf5 Rf3+ 38. Ke4 Rxf1 39. Rxb4
+axb4 40. cxb4 Rd1 41. a5 bxa5 42. bxa5 Kf7 43. a6 Ra1 44. Kd4 Rxa6 45. Kxc4 Ke7
+46. Kb5 Rh6 47. b4 Kd7 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.3"]
+[White "Manetto, Luis"]
+[Black "Sbia, Bachir"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "1585"]
+[BlackElo "1960"]
+[PlyCount "52"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Be7 8.
+Bg5 d6 9. Qe2 Nbd7 10. f4 Qc5 11. Qf2 Ng4 12. Nxe6 Qxf2+ 13. Rxf2 fxe6 14. Rf3
+Bxg5 15. fxg5 Nge5 16. Rf2 Rf8 17. Rxf8+ Kxf8 18. Rf1+ Ke7 19. Be2 b5 20. a3
+Bb7 21. Bf3 Rc8 22. Rf2 Nxf3+ 23. gxf3 Ne5 24. Nd1 Rf8 25. Kg2 Nxf3 26. Nc3
+Nxg5 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.4"]
+[White "Slimani, Abderezzak"]
+[Black "Gonzalez Amaya, Millan"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1802"]
+[BlackElo "1705"]
+[PlyCount "79"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 d6 5. Ng5 d5 6. exd5 Na5 7. Qf3 Nxc4 8.
+dxc4 Bg4 9. Qe3 Bd6 10. Nc3 O-O 11. c5 Be7 12. Qd3 Bxc5 13. Be3 Bxe3 14. fxe3
+Bh5 15. h3 Bg6 16. e4 Nxd5 17. Nxd5 Qxg5 18. O-O c6 19. Qe3 Qxe3+ 20. Nxe3 Bxe4
+21. c3 Rfd8 22. Rf2 Rd3 23. Re1 Rad8 24. Kh2 Rd2 25. Ng4 Rxf2 26. Nxf2 f5 27.
+Nxe4 fxe4 28. Rxe4 Re8 29. Kg3 Kf7 30. Kf3 Ke6 31. Rb4 Rf8+ 32. Ke3 b5 33. g3
+Rf1 34. Rh4 h6 35. a4 a5 36. axb5 cxb5 37. Kd3 Rf3+ 38. Kc2 Rxg3 39. b3 Rf3 40.
+c4 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.5"]
+[White "Benaddi, Mouhcine"]
+[Black "O'Rourke, William"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1817"]
+[BlackElo "1758"]
+[PlyCount "99"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 b6 2. d4 e6 3. Be3 Bb7 4. Nd2 Nf6 5. Bd3 c5 6. c3 Nc6 7. Ngf3 cxd4 8.
+cxd4 Nb4 9. Bb1 Rc8 10. a3 Nc6 11. O-O Na5 12. Qe2 Qc7 13. Bd3 Ng4 14. b4 Nc6
+15. h3 Nxe3 16. fxe3 Be7 17. Rac1 Qb8 18. e5 O-O 19. Ne4 h6 20. Nfd2 f5 21.
+exf6 Bxf6 22. Nxf6+ Rxf6 23. Rxf6 gxf6 24. Qh5 Qg3 25. Qxh6 Ne7 26. Rxc8+ Bxc8
+27. Ne4 Qg7 28. Nxf6+ Kf7 29. Qxg7+ Kxg7 30. Ne8+ Kh6 31. Nd6 Kg5 32. e4 Kf4
+33. Kf2 e5 34. g3+ Kg5 35. h4+ Kf6 36. d5 Kg6 37. Kf3 Kh7 38. Kg4 Kg6 39. h5+
+Kh7 40. Kg5 Kg8 41. b5 Kh7 42. Kf6 Ng8+ 43. Kg5 Ne7 44. Be2 Kg7 45. Bg4 a5 46.
+h6+ Kh7 47. Bf5+ Kg8 48. g4 Kh8 49. Bg6 Kg8 50. Kf6 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.6"]
+[White "Elamri, Sanae"]
+[Black "Garriga Marrodan, Enrique"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1675"]
+[BlackElo "1915"]
+[PlyCount "83"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bc4 O-O 7. O-O c6 8.
+Bf4 Kh8 9. Bb3 b5 10. a3 a5 11. Re1 Bd7 12. Qd2 Nxe4 13. Rxe4 d5 14. Ree1 Na6
+15. Rad1 b4 16. axb4 Bxb4 17. Ba4 Rc8 18. Nb3 Be6 19. Qd3 Qb6 20. Bd2 Rfd8 21.
+Ne2 c5 22. Qb5 Qxb5 23. Bxb5 Nc7 24. Ba4 c4 25. Nbd4 Bxd2 26. Rxd2 Rd6 27. Nc3
+Rb6 28. b3 Na6 29. Ndb5 cxb3 30. Bxb3 Nc5 31. Bxd5 h6 32. Bxe6 Nxe6 33. Ra1 Kh7
+34. Rxa5 Nf4 35. g3 Nh3+ 36. Kg2 Ng5 37. Nd5 Rg6 38. Ne7 Rcc6 39. Nxg6 fxg6 40.
+Nd4 Rc4 41. Nf3 Ne6 42. Ra6 {at this point black played the illegal move ...
+Ng8. The game then continued 43.Ne5 Rc5 44.Nxg6 Nf6 45.Nf4 Rc8 46.Nd5 Ne4 47.
+Rd4 Ng5 48.c4 Nf7 49.Ra7 Ne5 50.Rc7 Rf8 51.c5 Nf3 52.Rf4 Rxf4 53.Nxf4 Ne5 54.
+c6 h5 55.Nxh5 Kg6 56.Rxg7+ Kxh5 57.c7 Kh6 58.Rg8 1-0} 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.7"]
+[White "Garcia Lechugo, Francisco"]
+[Black "Elamri, Laila"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "1712"]
+[BlackElo "1532"]
+[PlyCount "45"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 d6 2. d3 e5 3. g3 Be6 4. Bg2 Be7 5. O-O Qd7 6. c4 Bh3 7. b4 h5 8. Nc3 h4
+9. Qa4 c6 10. b5 hxg3 11. fxg3 Bxg2 12. Kxg2 Qh3+ 13. Kg1 Nf6 14. Rf2 Ng4 15.
+Rg2 d5 16. cxd5 Bc5+ 17. e3 Bxe3+ 18. Bxe3 Nxe3 19. Re2 Qh6 20. Rae1 cxd5 21.
+Nxd5 Nxd5 22. Rxe5+ Kf8 23. Re8# 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.8"]
+[White "Hurn, Robert"]
+[Black "Mihajlova, Diana"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "1682"]
+[BlackElo "1217"]
+[PlyCount "69"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 Nf6 4. Nc3 e6 5. Nf3 Bb4 6. Qe2 d5 7. e5 Bxc3+ 8.
+bxc3 Ne4 9. Bxe4 dxe4 10. Ng5 O-O 11. O-O h6 12. Nxe4 f5 13. Nd2 Qd5 14. Qf3
+Nd7 15. Qxd5 Bxd5 16. c4 Bc6 17. f3 g6 18. Re1 Ba4 19. Nb3 Rac8 20. Bxh6 Rf7
+21. Rad1 f4 22. Re4 Kh7 23. Bxf4 Rcf8 24. Bc1 Rf5 25. Rh4+ Rh5 26. Rxh5+ gxh5
+27. Bg5 c5 28. c3 Rf5 29. f4 Bc6 30. d5 exd5 31. cxd5 Bb7 32. e6 Rxd5 33. Rxd5
+Nb8 34. Rd7+ Nxd7 35. exd7 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.01"]
+[Round "3.9"]
+[White "Hewitt, Sean D"]
+[Black "White, George"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1615"]
+[BlackElo "1337"]
+[PlyCount "33"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. d4 cxd4 3. f4 d6 4. Nf3 Nf6 5. Bd3 Qc7 6. O-O Nbd7 7. h3 e6 8. a3
+Be7 9. b4 a6 10. Qe1 b5 11. Bb2 Bb7 12. Nbd2 O-O 13. g4 e5 14. f5 d5 15. g5
+dxe4 16. gxf6 Bxf6 17. Nxe4 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.1"]
+[White "Hamer, Martyn"]
+[Black "Elamri, Khaled"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "1915"]
+[BlackElo "1922"]
+[PlyCount "82"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. f4 Nf6 2. b3 e6 3. e3 d5 4. Nf3 Be7 5. Bb2 O-O 6. Bd3 c5 7. O-O Nc6 8. a3 a6
+9. Qe1 Ne4 10. Ne5 f5 11. Nxc6 bxc6 12. Be2 Bf6 13. Qc1 a5 14. d3 Bxb2 15. Qxb2
+Nf6 16. Nd2 Qd6 17. c4 Re8 18. Nf3 Ng4 19. Ne5 Nxe3 20. Rf2 d4 21. Bf3 Bd7 22.
+Rb1 Rab8 23. Qa1 Rb6 24. Rfb2 Reb8 25. h3 h6 26. g3 Be8 27. Kh2 R8b7 28. Qa2
+Qb8 29. a4 g5 30. Be2 Rg7 31. Rg1 gxf4 32. gxf4 Rxg1 33. Kxg1 Qb7 34. Bf3 Qg7+
+35. Kh2 Qf6 36. Qa3 Rb4 37. Kg3 Rb7 38. Qxc5 Rg7+ 39. Kh2 Qh4 40. Bg2 Qxf4+ 41.
+Kh1 Nxg2 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.2"]
+[White "Sbia, Bachir"]
+[Black "Kuenitz, Klaus"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "1960"]
+[BlackElo "2005"]
+[PlyCount "141"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5 Be7
+8. Bd3 O-O 9. Qe2 Qd5 10. O-O Qa5 11. c3 c5 12. Qe5 Qb6 13. dxc5 Qxb2 14. a4
+Ng4 15. Qd4 Bxg5 16. Nxg5 f5 17. Nf3 Qb3 18. Bc4 Qc2 19. Nd2 f4 20. Ne4 Nf6 21.
+Bd3 Qb3 22. Nxf6+ Rxf6 23. Be4 e5 24. Qd8+ Rf8 25. Bd5+ Be6 26. Qxf8+ Kxf8 27.
+Bxb3 Bxb3 28. Rfe1 Re8 29. f3 Kf7 30. a5 a6 31. Rab1 Bd5 32. Rb4 g5 33. Kf2 h5
+34. Rb6 Bc6 35. c4 Kf6 36. Rd1 e4 37. Rd6+ Kf5 38. fxe4+ Rxe4 39. Rd5+ Kf6 40.
+Rd6+ Ke5 41. Rb4 Re3 42. Rb2 Ra3 43. Re2+ Kf5 44. h3 f3 45. gxf3 Rxf3+ 46. Ke1
+Rxh3 47. Rf2+ Bf3 48. Kd2 g4 49. Ke3 Ke5 50. Kd2 Rh1 51. Rxf3 gxf3 52. Ke3 Rh4
+53. Rd5+ Ke6 54. Kxf3 Rxc4 55. Rxh5 Rb4 56. Ke3 Rb5 57. Kd4 Rxa5 58. Rh6+ Kd7
+59. Kd5 Ra1 60. Rh7+ Kc8 61. c6 Rd1+ 62. Ke6 bxc6 63. Ra7 Kb8 64. Rxa6 Kb7 65.
+Ra2 c5 66. Ke5 Kb6 67. Ke4 c4 68. Ke3 Kb5 69. Ke2 Rd8 70. Rb2+ Kc5 71. Rd2 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.3"]
+[White "Gonzalez Amaya, Millan"]
+[Black "Benaddi, Mouhcine"]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "1705"]
+[BlackElo "1817"]
+[PlyCount "58"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. h3 Bh5 6. Ng3 Bg6 7. Bc4 Nd7 8.
+O-O e6 9. d4 Qc7 10. Qe1 O-O-O 11. b4 Ngf6 12. b5 c5 13. Bd3 cxd4 14. Bxg6 hxg6
+15. Nxd4 Bc5 16. Nb3 Bd6 17. Qe3 Kb8 18. Bd2 Nd5 19. Qf3 Ne5 20. Qe2 Qxc2 21.
+Rac1 Qd3 22. Qe1 Rc8 23. Nc5 Nf3+ 24. gxf3 Rxc5 25. Rxc5 Bxc5 26. Qe5+ Ka8 27.
+Bf4 Qxf3 28. Qxg7 Rd8 29. Qh6 Nxf4 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.4"]
+[White "Garcia Lechugo, Francisco"]
+[Black "Gravett, Alan D"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1712"]
+[BlackElo "1750"]
+[PlyCount "36"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 O-O 5. Nbd2 d6 6. O-O Nbd7 7. c3 Re8 8.
+Qb3 e6 9. Bc4 d5 10. Bd3 c5 11. Qd1 b6 12. e4 Bb7 13. Re1 cxd4 14. Nxd4 Nc5 15.
+Bb5 dxe4 16. Bxe8 Qxe8 17. Nf1 e5 18. Nb5 Qxb5 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.5"]
+[White "Hewitt, Sean D"]
+[Black "Elamri, Sanae"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1615"]
+[BlackElo "1675"]
+[PlyCount "126"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. c3 Nbd7 6. Nbd2 Be7 7. Be2 O-O 8.
+O-O h6 9. h3 Nb6 10. g4 Bh7 11. Bg3 Ne4 12. Nxe4 Bxe4 13. Nd2 Bh7 14. f4 Bh4
+15. Qe1 Bxg3 16. Qxg3 Nd7 17. Rf2 Qe7 18. Raf1 f6 19. h4 Kf7 20. g5 hxg5 21.
+fxg5 Qd6 22. g6+ Bxg6 23. Qg5 Rh8 24. h5 Bf5 25. Rxf5 exf5 26. Qg6+ Kf8 27.
+Rxf5 Rh6 28. Qg2 c6 29. Rf4 Re8 30. Kf2 Qe6 31. Nf1 Nb6 32. b3 Nc8 33. Bg4 Qe7
+34. Bf5 Rxh5 35. Qg4 Rg5 36. Qh3 Nd6 37. Bg4 Qf7 38. Qh8+ Ke7 39. Qh3 Kd8 40.
+Ke2 Re4 41. Rxe4 Nxe4 42. Ke1 Nxc3 43. Be6 Qh5 44. Qxh5 Rxh5 45. a4 Ke7 46. Bc8
+b5 47. axb5 cxb5 48. Ba6 g5 49. b4 g4 50. Ng3 Rh8 51. Kd2 Ne4+ 52. Nxe4 dxe4
+53. Bxb5 g3 54. Ke2 Rh2+ 55. Kf1 Rf2+ 56. Kg1 Rf3 57. Kg2 Rxe3 58. Bc6 f5 59.
+b5 Kd6 60. d5 f4 61. Bb7 Re2+ 62. Kg1 f3 63. Bc6 Re1# 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.6"]
+[White "Manetto, Luis"]
+[Black "Slimani, Abderezzak"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[WhiteElo "1585"]
+[BlackElo "1802"]
+[PlyCount "22"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Bc4 Qc7 7. Nxc6 bxc6 8.
+O-O d5 9. exd5 cxd5 10. Bb3 Nf6 11. Re1 Be7 1/2-1/2
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.7"]
+[White "Elamri, Laila"]
+[Black "Hurn, Robert"]
+[Result "1-0"]
+[ECO "B25"]
+[WhiteElo "1532"]
+[BlackElo "1682"]
+[PlyCount "59"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6 7. O-O Nge7 8. Bd2
+O-O 9. Qc1 Rb8 10. Bh6 b5 11. h4 b4 12. Nd1 Bxh6 13. Qxh6 f5 14. h5 Ne5 15.
+hxg6 N7xg6 16. exf5 Rxf5 17. Ne3 Rf7 18. f4 Nd7 19. f5 Ngf8 20. fxe6 Rf6 21.
+Qg5+ Ng6 22. Rf5 Rf8 23. Qxd8 Rxd8 24. exd7 Bxd7 25. Rf2 Ne5 26. Nf4 Re8 27.
+Nfd5 Kg7 28. Nf6 Re7 29. Nxd7 Nxd7 30. Nf5+ 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.02"]
+[Round "4.8"]
+[White "Mihajlova, Diana"]
+[Black "O'Rourke, William"]
+[Result "0-1"]
+[ECO "C40"]
+[WhiteElo "1217"]
+[BlackElo "1758"]
+[PlyCount "47"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 f5 3. Nf3 fxe4 4. Nxe4 Nf6 5. Nc3 Nc6 6. Qe2 d6 7. d4 Qe7 8. d5
+Nd4 9. Nxd4 exd4 10. Nd1 Nxd5 11. Qxe7+ Bxe7 12. g3 Nb4 13. Bd3 Bh3 14. Rb1 Bg2
+15. Rg1 Bf3 16. a3 Nxd3+ 17. cxd3 O-O 18. Bd2 Rae8 19. Kf1 Bg4 20. Rc1 Bh3+ 21.
+Ke1 Bg5+ 22. Be3 dxe3 23. fxe3 c6 24. Nf2 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.1"]
+[White "Elamri, Khaled"]
+[Black "Kuenitz, Klaus"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "1922"]
+[BlackElo "2005"]
+[PlyCount "27"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nc6 4. d4 exd4 5. exd4 d5 6. Bd3 Nf6 7. Nf3 Be7 8. O-O
+Bg4 9. Nbd2 O-O 10. a3 Bd6 11. c4 dxc4 12. bxc4 h6 13. h3 Bh5 14. Qc2 1/2-1/2
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.2"]
+[White "Benaddi, Mouhcine"]
+[Black "Hamer, Martyn"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1817"]
+[BlackElo "1915"]
+[PlyCount "60"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 Nc6 2. d4 d5 3. e3 Bg4 4. Be2 Nf6 5. O-O e6 6. c4 Ne7 7. h3 Bxf3 8. Bxf3
+c6 9. Nc3 Ng6 10. e4 Nh4 11. e5 Nxf3+ 12. Qxf3 Nd7 13. cxd5 cxd5 14. Qg4 Qb6
+15. Re1 h5 16. Qd1 Be7 17. b3 Rc8 18. Na4 Qa6 19. Be3 b5 20. Qe2 Qb7 21. Nb2 g6
+22. Nd3 Kf8 23. Qd2 Kg7 24. Bg5 Bxg5 25. Qxg5 Rc3 26. Rad1 Qc7 27. Rc1 Rxc1 28.
+Rxc1 Qb6 29. Nc5 Nxc5 30. Qf6+ Kh6 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.3"]
+[White "Elamri, Sanae"]
+[Black "Sbia, Bachir"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1675"]
+[BlackElo "1960"]
+[PlyCount "53"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. Nf3 c6 2. d4 d5 3. g3 Nf6 4. Bg2 Bg4 5. O-O Qd7 6. Ne5 Qc7 7. Nxg4 Nxg4 8.
+e4 Nf6 9. e5 Nfd7 10. c4 dxc4 11. e6 fxe6 12. Bf4 Qb6 13. Na3 Qa6 14. Rc1 Nb6
+15. Qh5+ Kd8 16. Qe5 N8d7 17. Qxe6 h6 18. Bh3 g5 19. Be5 Nxe5 20. dxe5 Kc7 21.
+Rfd1 Rd8 22. Rxd8 Kxd8 23. Nxc4 Qxa2 24. Rd1+ Kc7 25. Nxb6 Qxe6 26. Na8+ Kb8
+27. Rd8+ 1-0
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.4"]
+[White "Gravett, Alan D"]
+[Black "Gonzalez Amaya, Millan"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "1750"]
+[BlackElo "1705"]
+[PlyCount "65"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. g3 Nf6 2. Bg2 g6 3. e4 d6 4. d4 Bg7 5. Ne2 O-O 6. O-O Nbd7 7. a4 c5 8. Nbc3
+cxd4 9. Nxd4 a6 10. a5 Ne5 11. b3 Bd7 12. Bb2 Rc8 13. Qd2 Rc5 14. Rfd1 Rxa5 15.
+Rxa5 Qxa5 16. Nd5 Qd8 17. f4 Nxd5 18. fxe5 dxe5 19. exd5 exd4 20. Bxd4 Bxd4+
+21. Qxd4 Bc8 22. Qc5 Qd6 23. Qd4 b6 24. c4 Rd8 25. Bf3 Qc5 26. Qxc5 bxc5 27.
+Re1 Kf8 28. Kf2 Rd6 29. Ra1 Rb6 30. Bd1 e6 31. Ra5 exd5 32. Rxc5 Bb7 33. cxd5
+1/2-1/2
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.5"]
+[White "Garriga Marrodan, Enrique"]
+[Black "Slimani, Abderezzak"]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "1915"]
+[BlackElo "1802"]
+[PlyCount "42"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. d4 c5 2. e3 cxd4 3. exd4 e6 4. Nf3 Nf6 5. c3 b6 6. Nbd2 Bb7 7. Bd3 Be7 8.
+O-O O-O 9. Re1 d6 10. Nf1 Nbd7 11. Bg5 Qc7 12. Ng3 h6 13. Bd2 Rad8 14. Nf5 Rfe8
+15. Nxe7+ Rxe7 16. Bc2 e5 17. dxe5 dxe5 18. Nd4 Nf8 19. Nf5 Red7 20. Re2 Ba6
+21. c4 Bxc4 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.6"]
+[White "Elamri, Laila"]
+[Black "Manetto, Luis"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "1532"]
+[BlackElo "1585"]
+[PlyCount "82"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nf6 4. Bg2 e5 5. d3 Be7 6. Nf3 O-O 7. O-O Nc6 8. Nh4
+Bg4 9. f3 Be6 10. Qe1 Nd4 11. Qf2 Nh5 12. Nf5 Bxf5 13. exf5 Nf6 14. g4 h6 15.
+Ne4 Nxe4 16. fxe4 Bh4 17. Qd2 Rc8 18. c3 Nc6 19. Qe2 b5 20. Qf3 b4 21. f6 g5
+22. Be3 a5 23. Bf2 bxc3 24. bxc3 Bxf2+ 25. Qxf2 Kh8 26. h4 Rg8 27. Qg3 Rg6 28.
+hxg5 Rxg5 29. Qh4 Kh7 30. Rf3 Qg8 31. Rg3 Qg6 32. Rf1 Rg8 33. Bh3 Nd8 34. Rf5
+Ne6 35. Kh2 Nf4 36. c4 Ne2 37. Rg2 Nd4 38. Rb2 Nxf5 39. exf5 Qxf6 40. Rb5 e4
+41. dxe4 Qd4 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.7"]
+[White "O'Rourke, William"]
+[Black "Hewitt, Sean D"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[WhiteElo "1758"]
+[BlackElo "1615"]
+[PlyCount "21"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nf3 Nf6 7. O-O O-O 8. a3 a5
+9. e3 e6 10. Re1 Re8 11. Bd2 1/2-1/2
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.8"]
+[White "Mihajlova, Diana"]
+[Black "Garcia Lechugo, Francisco"]
+[Result "0-1"]
+[ECO "C40"]
+[WhiteElo "1217"]
+[BlackElo "1712"]
+[PlyCount "40"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 f5 3. Nf3 Nf6 4. Bc4 fxe4 5. Nxe5 d5 6. Nxd5 Bc5 7. O-O Be6 8.
+Nxf6+ Qxf6 9. Qh5+ g6 10. Nxg6 hxg6 11. Qxc5 Qf4 12. g3 Qf6 13. Bxe6 Qxe6 14.
+Qb5+ Nc6 15. Qxb7 Rb8 16. Qxc7 Rc8 17. Qg7 Qh3 18. Re1 Qxh2+ 19. Kf1 Qh1+ 20.
+Ke2 Qf3+ 0-1
+
+[Event "Gibtelecom ChallWk2 3rd"]
+[Site "Gibraltar"]
+[Date "2005.02.03"]
+[Round "5.9"]
+[White "Hurn, Robert"]
+[Black "Beadle, John R"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "1682"]
+[BlackElo "1442"]
+[PlyCount "35"]
+[EventDate "2005.01.30"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "GGB"]
+[SourceTitle "BritBase"]
+[Source "www.saund.co.uk"]
+[SourceDate "2018.02.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2018.02.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Be7 5. Bxc6 bxc6 6. d3 Nf6 7. Nbd2 O-O 8.
+b3 d5 9. Re1 Qc7 10. Bb2 Nd7 11. c4 d4 12. Nf1 e5 13. Ng3 Nf6 14. h3 g6 15. Bc1
+Ne8 16. Bh6 Ng7 17. Qd2 Be6 18. Nh2 1/2-1/2
+

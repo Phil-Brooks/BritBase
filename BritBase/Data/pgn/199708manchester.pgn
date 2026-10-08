@@ -1,0 +1,2283 @@
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Brooke, John"]
+[Black "Okosieme, Iozeph"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2175"]
+[BlackElo "2040"]
+[PlyCount "130"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. Nc3 c6 2. e4 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. Bc4 e6 6. d3 Nd7 7. h3 Bh5 8. Ng3
+Bg6 9. a3 Be7 10. Qe2 Qc7 11. Bd2 h6 12. Bc3 Ngf6 13. O-O O-O 14. Rfe1 Bc5 15.
+b4 Bb6 16. Ne4 Nd5 17. Bd2 Bh5 18. a4 a6 19. a5 Ba7 20. g4 Bg6 21. Kg2 Rad8 22.
+Nh4 Bh7 23. c3 f5 24. Nc5 Nxc5 25. bxc5 Bxc5 26. d4 Ba7 27. g5 f4 28. Qg4 hxg5
+29. Qxg5 Rf6 30. f3 Bb8 31. Kf2 Qf7 32. Ba2 Bc7 33. c4 Ne3 34. Bxe3 fxe3+ 35.
+Qxe3 Qh5 36. Ng2 Qxh3 37. f4 Qg4 38. Bb1 Bxb1 39. Raxb1 Bxf4 40. Qe4 Bh2+ 41.
+Ke3 Qg3+ 42. Kd2 Qa3 43. Re2 Qxa5+ 44. Kc2 Qc7 45. Ne3 Bd6 46. Rh1 Bf8 47. Ng4
+Rf5 48. Rg2 Kf7 49. Rh7 Qf4 50. Nh6+ Kf6 51. Ng8+ Kf7 52. Nh6+ Ke7 53. Nxf5+
+Qxf5 54. Qxf5 exf5 55. Rgxg7+ Bxg7 56. Rxg7+ Kf6 57. Rxb7 f4 58. Rb6 f3 59. Rb1
+Kf5 60. d5 cxd5 61. cxd5 Kf4 62. d6 f2 63. Kd2 Kf3 64. Rf1 Rxd6+ 65. Kc3 Ke2
+0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Goodger, Martyn"]
+[Black "Beckett, Chris"]
+[Result "0-1"]
+[ECO "C02"]
+[BlackElo "2110"]
+[PlyCount "38"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Be2 cxd4 7. cxd4 Nh6 8. b3
+Nf5 9. Bb2 Bd7 10. Kf1 Be7 11. Nc3 O-O 12. Bd3 Ncxd4 13. Nxd5 exd5 14. Nxd4
+Nxd4 15. Bxd4 Qh6 16. h4 Rac8 17. g3 Bc5 18. Be2 Bf5 19. Bf3 Bc2 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Gormally, Daniel"]
+[Black "Dhar Barua, Saheli"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "2425"]
+[BlackElo "2235"]
+[PlyCount "43"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Bg5 g6 3. Nc3 Bg7 4. h4 Nf6 5. h5 Nxh5 6. Rxh5 gxh5 7. e4 O-O 8.
+Bc4+ Kh8 9. Qxh5 c6 10. O-O-O Qe8 11. Qh4 e6 12. exf5 exf5 13. Nge2 d5 14. Rh1
+h5 15. Nf4 dxc4 16. Nxh5 Kg8 17. Nxg7 Qg6 18. Nh5 Na6 19. Nf4 Qg7 20. Bh6 Qh7
+21. Qg5+ Kf7 22. Re1 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Leal, Paulo"]
+[Black "Jones, Rupert"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[PlyCount "65"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 Bg4 5. Be2 e6 6. O-O c5 7. c4 Nb6 8.
+dxc5 Qxd1 9. Rxd1 Bxc5 10. Nc3 Nc6 11. Ne4 Be7 12. b3 O-O 13. Bb2 Rad8 14. Ng3
+f6 15. h3 Bxf3 16. Bxf3 e5 17. Nf5 Bc5 18. Rab1 Rfe8 19. Ng3 Nc8 20. Bd5+ Kf8
+21. a3 a5 22. Ne4 Bd4 23. Bxc6 bxc6 24. Bxd4 exd4 25. Re1 Nb6 26. Kf1 a4 27. c5
+Nd5 28. bxa4 Ra8 29. Nd6 Red8 30. a5 Rd7 31. Rbd1 Rda7 32. Rxd4 Rxa5 33. Rd3
+1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "McKenna, Jason P"]
+[Black "Tippleston, Charles"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2120"]
+[PlyCount "55"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. exf5 Bxf5 12. c3 Bg7 13. Qf3 Be6 14. Nf6+
+Bxf6 15. Qxc6+ Ke7 16. Nc2 Qd7 17. Qxd7+ Kxd7 18. Bd3 d5 19. Rd1 Ke7 20. f3
+Bh4+ 21. g3 Bg5 22. Kf2 f5 23. Rhe1 Bf6 24. f4 e4 25. Bf1 Kf7 26. Rd2 Rhd8 27.
+Red1 Rd6 28. Nd4 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Njobvu, Ignatius"]
+[Black "Norris, Alan"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2200"]
+[BlackElo "2285"]
+[PlyCount "116"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+Bc7 9. c3 d4 10. Nf1 b6 11. h4 e5 12. c4 a6 13. N1h2 b5 14. b3 Ba5 15. Re2 Bc3
+16. Rb1 b4 17. Ng5 f6 18. Nh3 a5 19. h5 a4 20. f4 axb3 21. axb3 h6 22. f5 Kf7
+23. Rf2 Ke8 24. Qg4 Rf7 25. Nf3 Ra3 26. Nh4 Qa5 27. Rf1 Ra2 28. Qf3 Ng8 29. g4
+Bd2 30. Bxd2 Rxd2 31. Qg3 Ra2 32. Ng6 Ra7 33. Rfc1 Qc7 34. Qe1 R7a3 35. Qd1 Qa7
+36. Kf1 Bd7 37. Nh4 Nge7 38. Nf3 Na5 39. Nf2 Nac6 40. Ke1 Nd8 41. Nd2 Nf7 42.
+Nh3 Nc6 43. Bf3 Na5 44. Be2 Bc6 45. Bf3 Nd6 46. Ng1 Nf7 47. Nh3 Ke7 48. Be2 Qa8
+49. Bf3 Nd6 50. Nf2 Nc8 51. Rc2 Rxc2 52. Qxc2 Nb7 53. Rb2 Ncd6 54. Bd1 Nf7 55.
+Nh3 Nbd6 56. Bf3 Qa5 57. Ke2 Nc8 58. Ng1 Ra1 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Roktim, Bandopadha"]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2275"]
+[BlackElo "2515"]
+[PlyCount "64"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 c6 3. Bf4 Bf5 4. e3 e6 5. Be2 Nf6 6. O-O h6 7. c4 Nbd7 8. Nc3
+Be7 9. a3 O-O 10. h3 Bh7 11. Ne5 Nxe5 12. Bxe5 Rc8 13. b4 dxc4 14. Bxc4 a5 15.
+Qb3 axb4 16. axb4 Nd5 17. Na2 Ra8 18. Rfe1 Nb6 19. e4 Nxc4 20. Qxc4 Qb6 21. Re3
+Qa6 22. Rg3 g5 23. Qc2 Rfd8 24. h4 f6 25. Qb3 Kf7 26. Qf3 Rg8 27. hxg5 hxg5 28.
+Rh3 Bg6 29. Bxf6 Bxf6 30. e5 Bf5 31. Rh7+ Rg7 32. Rxg7+ Bxg7 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Shaw, John Kerr"]
+[Black "Dearing, Eddie"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2390"]
+[BlackElo "2210"]
+[PlyCount "86"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. a4 a6 5. Bd3 d6 6. Nge2 Nc6 7. Bc4 g6 8. O-O
+Bg7 9. d3 Nf6 10. Bg5 h6 11. Bh4 g5 12. Bg3 e5 13. Nd5 Nh5 14. f3 f5 15. exf5
+Bxf5 16. Bf2 Nf4 17. Ng3 Bg6 18. Re1 Ne7 19. Nxe7 Qxe7 20. Ne2 Nxe2+ 21. Qxe2
+Bf7 22. Qe4 O-O 23. Bd5 Rad8 24. a5 Bxd5 25. Qxd5+ Qf7 26. Qxf7+ Rxf7 27. c4
+Rb8 28. Reb1 b5 29. axb6 Rxb6 30. Be1 e4 (30... g4 {Gormally}) 31. dxe4 Bxb2
+32. Kf1 Rfb7 33. Ra2 Bd4 34. Rxb6 Rxb6 35. Ke2 Kf7 36. Bd2 Ke6 37. h4 gxh4 38.
+Bxh6 Rb1 39. Bg5 Rg1 40. Kd3 h3 41. g4 Rg2 42. Rxa6 h2 43. Ra7 Bf6 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.25"]
+[Round "1"]
+[White "Smith, Alan A"]
+[Black "Bosch, Jeroen"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2235"]
+[BlackElo "2405"]
+[PlyCount "44"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 Nh6 4. e3 Nf5 5. Bd3 Nxh4 6. Qh5+ g6 7. Qxh4 Bg7 8.
+c4 Nc6 9. a3 e5 10. Nc3 exd4 11. Nxd5 Ne5 12. Bf1 dxe3 13. O-O-O exf2 14. Qxf2
+O-O 15. Qc5 Bh6+ 16. Kb1 Bf5+ 17. Ka2 Rf7 18. Be2 Bc2 19. Rf1 c6 20. Nc3 Nd3
+21. Bxd3 Qxd3 22. Nf3 Be3 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Barua, Dibyendu"]
+[Black "Dearing, Eddie"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[WhiteElo "2515"]
+[BlackElo "2210"]
+[PlyCount "33"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Nb3 Nc6 9. Kh1 a6 10. a4 Be6 11. f4 Na5 12. f5 Bc4 13. Bd3 Nxb3 14. cxb3 Bxd3
+15. Qxd3 Qb6 16. fxg6 hxg6 17. Qc2 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Beckett, Chris"]
+[Black "Gormally, Daniel"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2110"]
+[BlackElo "2425"]
+[PlyCount "111"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 Qa5 8. Qd2
+Nbd7 9. Nh3 Ne5 10. Nf2 Qb4 11. Ncd1 Qxd2+ 12. Bxd2 a6 13. a4 Bd7 14. Be2 Rab8
+15. Nc3 h5 16. Bg5 e6 17. f4 Neg4 18. Nxg4 Nxg4 19. Bxg4 hxg4 20. Be7 Rfe8 21.
+Bxd6 Rbc8 22. e5 exd5 23. Nxd5 Kh7 24. O-O Rc6 25. a5 Bf5 26. Be7 Bd3 27. Rfc1
+Rb8 28. Ra3 Bf5 29. Rd1 Be6 30. Rb3 Bf5 31. Rb6 Bh6 32. Nf6+ Kg7 33. g3 g5 34.
+Kf2 gxf4 35. gxf4 Kg6 36. Kg3 Be6 37. b3 Kf5 38. Rf1 Rxb6 39. axb6 Bf8 40. Bxf8
+Rxf8 41. Nxg4 Rd8 42. Nh6+ Kg6 43. f5+ Kxh6 44. fxe6 fxe6 45. Rf6+ Kh5 46. Rf7
+Kg6 47. Rxb7 Kf5 48. Rf7+ Kxe5 49. b7 Rb8 50. h4 Rg8+ 51. Kf3 Kd4 52. h5 e5 53.
+Rd7+ Kc3 54. h6 Kxb3 55. h7 Rf8+ 56. Ke4 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Bosch, Jeroen"]
+[Black "Njobvu, Ignatius"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2405"]
+[BlackElo "2200"]
+[PlyCount "43"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 f6 7. Bd3 f5 8. dxc5 Bxc5
+9. O-O Qd8 10. b4 Bb6 11. Bb2 Nge7 12. c4 O-O 13. cxd5 Nxd5 14. Bc4 Nf4 15. Nc3
+Qe7 16. Nb5 a6 17. Nd6 Bc7 18. Qd2 Ng6 19. Rad1 b5 20. Bb3 Rd8 21. Nxf5 Qf8 22.
+Qe2 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Dhar Barua, Saheli"]
+[Black "Shaw, John Kerr"]
+[Result "0-1"]
+[ECO "B76"]
+[WhiteElo "2235"]
+[BlackElo "2390"]
+[PlyCount "80"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. Nd5 Bxd5 12. exd5 Qc7 13. Kb1 Rac8 14. c4 b5
+15. b3 bxc4 16. bxc4 Rb8+ 17. Ka1 Rb6 18. Be2 Rfb8 19. Rb1 Nd7 20. Bxg7 Kxg7
+21. Qd4+ Kg8 22. Rxb6 Rxb6 23. Rb1 Rxb1+ 24. Kxb1 Qa5 25. Bd1 Qe1 26. Kb2 Nc5
+27. Bc2 Qe2 28. h4 Qxg2 29. Qe3 Qh2 30. Qxe7 a5 31. Qd8+ Kg7 32. Qxa5 Qxh4 33.
+Qc3+ Qf6 34. f4 h5 35. a4 h4 36. a5 h3 37. Qxf6+ Kxf6 38. Bd1 Kf5 39. Bf3 Kxf4
+40. Bh1 g5 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Leal, Paulo"]
+[Black "Brooke, John"]
+[Result "1-0"]
+[ECO "B25"]
+[BlackElo "2175"]
+[PlyCount "85"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Bf2 Nec6 11. Nxd4 Nxd4 12. Re1 Rb8 13. e5 b5 14. exd6 Qxd6
+15. Ne4 Qc7 16. c3 f5 17. Nd2 Nc6 18. Bxc5 Rd8 19. Nf3 b4 20. d4 bxc3 21. bxc3
+Bf8 22. Bxf8 Kxf8 23. Ng5 Rd6 24. Rb1 h6 25. Nf3 Qa5 26. Qc2 Ba6 27. Rxb8+ Nxb8
+28. Ne5 Rxd4 29. Rb1 Rd8 30. Nxg6+ Kg7 31. Ne5 Qc5+ 32. Qf2 Qxc3 33. Qxa7+ Rd7
+34. Nxd7 Nxd7 35. Qxd7+ Kf6 36. Rd1 Qe3+ 37. Kh1 Qe2 38. Qd8+ Kg6 39. Qd2 Qb5
+40. Qe3 Qc4 41. Re1 Kf7 42. Qb3 Qd4 43. Qxe6+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Norris, Alan"]
+[Black "Roktim, Bandopadha"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2285"]
+[BlackElo "2275"]
+[PlyCount "86"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 c6 5. Qd2 Qa5 6. Nge2 b5 7. f3 Nd7 8. g3
+Ngf6 9. Bg2 O-O 10. O-O Qc7 11. h3 Bb7 12. f4 Rad8 13. Qe1 b4 14. Nd1 c5 15. c3
+Bxe4 16. Bxe4 Nxe4 17. cxb4 cxb4 18. Qxb4 Rb8 19. Qe1 Nb6 20. Rc1 Qd7 21. Kh2
+Nd5 22. Nec3 Ndxc3 23. bxc3 d5 24. Rg1 Rb5 25. Rg2 Rfb8 26. Rgc2 Rc8 27. Nf2
+Nxf2 28. Bxf2 Rc4 29. Qe2 Qb7 30. Be1 Bf8 31. g4 Rb6 32. Bg3 e6 33. f5 exf5 34.
+gxf5 Qc8 35. fxg6 hxg6 36. Qf3 Qd7 37. Re1 Bd6 38. Be5 Bxe5+ 39. Rxe5 Rbc6 40.
+Qxd5 Qxd5 41. Rxd5 Rxc3 42. Rxc3 Rxc3 43. Ra5 Rd3 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Okosieme, Iozeph"]
+[Black "McKenna, Jason P"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2040"]
+[BlackElo "2120"]
+[PlyCount "59"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c4 cxd4 5. exd4 Bb4+ 6. Bd2 Qe7 7. Bd3 b6 8.
+O-O Bxd2 9. Nbxd2 Bb7 10. Qc2 d6 11. b4 Nbd7 12. Rab1 O-O 13. Rfe1 Rac8 14. Qa4
+a6 15. d5 b5 16. Qa5 bxc4 17. Bxc4 e5 18. Nd4 Ng4 19. h3 Qh4 20. hxg4 exd4 21.
+Re4 Nf6 22. Nf3 Qxf2+ 23. Kxf2 Nxe4+ 24. Ke2 Nc3+ 25. Kd3 Nxb1 26. Nxd4 Rfe8
+27. Nf5 Nd2 28. Bxa6 Bxa6+ 29. Qxa6 Ne4 30. Ne7+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Raoof, Adam"]
+[Black "Goodger, Martyn"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2050"]
+[PlyCount "52"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. b3 Qe8 8. Bb2
+Na6 9. Nc3 c6 10. e3 Bd7 11. Qe2 h6 12. Rae1 g5 13. e4 fxe4 14. Nxe4 Qg6 15.
+Nfd2 Nc7 16. Nxf6+ Bxf6 17. Ne4 Bg7 18. Rd1 Rae8 19. Rfe1 Bf5 20. d5 c5 21.
+Bxg7 Qxg7 22. Qd2 Qf7 23. Re3 b5 24. Rde1 b4 25. Qe2 Qg7 26. Rf1 Bd7 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.26"]
+[Round "2"]
+[White "Tippleston, Charles"]
+[Black "Smith, Alan A"]
+[Result "0-1"]
+[ECO "B22"]
+[BlackElo "2235"]
+[PlyCount "78"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 b6 3. d4 Bb7 4. d5 Nf6 5. f3 e6 6. c4 Bd6 7. Nc3 exd5 8. cxd5
+O-O 9. Bg5 Re8 10. Bc4 Nxe4 11. Nxe4 Qxg5 12. Kf2 Qe5 13. Nxd6 Qxd6 14. Ne2 Qf6
+15. b3 a6 16. a4 d6 17. Qd2 Nd7 18. Rhe1 Ne5 19. Ng3 Bc8 20. Kg1 Bd7 21. Ne4
+Qg6 22. Kh1 h6 23. Nc3 Bf5 24. Be2 Bc2 25. Bd1 Bxd1 26. Raxd1 c4 27. f4 Nd3 28.
+Rxe8+ Rxe8 29. bxc4 Nc5 30. h3 Qg3 31. Rf1 f5 32. Ne2 Qb3 33. Rc1 Ne4 34. Qc2
+Qe3 35. Kh2 g6 36. Rf1 Nd2 37. Re1 Nf3+ 38. gxf3 Qf2+ 39. Kh1 Qxe1+ 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Barua, Dibyendu"]
+[Black "Leal, Paulo"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2515"]
+[PlyCount "69"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. h3 O-O 10. Re1 Be6 11. Bf1 Nbd7 12. b3 b5 13. a3 Qc7 14. Bb2 Qb7 15. g3
+Rfe8 16. Bg2 Nb6 17. Qe2 Qc7 18. Nd2 Bf8 19. Nf1 Rad8 20. Ne3 Bc8 21. Red1 Bb7
+22. Rd2 Bc6 23. Rad1 g6 24. g4 Qb7 25. Qf3 Be7 26. h4 Qc8 27. Qg3 Bd7 28. Rxd6
+Bxg4 29. Rxb6 Bxd1 30. Ncxd1 Nd7 31. Bh3 Qc5 32. Rxg6+ fxg6 33. Qxg6+ Kh8 34.
+Qxh6+ Kg8 35. Be6# 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Dearing, Eddie"]
+[Black "Beckett, Chris"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "2210"]
+[BlackElo "2110"]
+[PlyCount "93"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d6 4. Nc3 g6 5. d5 Nb8 6. e4 Bg7 7. Be2 O-O 8. O-O
+Nbd7 9. Be3 c5 10. Ne1 a6 11. a4 Rb8 12. f4 Ne8 13. Qc2 Nc7 14. Nf3 b6 15. Rae1
+Bb7 16. Bf2 b5 17. axb5 axb5 18. cxb5 f5 19. exf5 Rxf5 20. Bd3 Rxf4 21. Bh4 Nf6
+22. Bg5 Rb4 23. Na2 Ncxd5 24. Bc4 Rxc4 25. Qxc4 Kh8 26. Nc3 Nxc3 27. bxc3 Bd5
+28. Qe2 h6 29. Bxf6 Bxf6 30. Qd2 Qg8 31. Qxh6+ Qh7 32. Qe3 Bc4 33. Rf2 Rxb5 34.
+Ng5 Qh4 35. Rxf6 exf6 36. Qe8+ Bg8 37. Nf3 Qc4 38. Nd2 Qd3 39. Re3 Qxd2 40.
+Rh3+ Kg7 41. Qxb5 Qe1+ 42. Qf1 Qe4 43. Qc1 Bd5 44. Qh6+ Kf7 45. Qd2 Qb1+ 46.
+Kf2 Qf5+ 47. Kg1 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Goodger, Martyn"]
+[Black "Brooke, John"]
+[Result "1-0"]
+[ECO "B90"]
+[BlackElo "2175"]
+[PlyCount "91"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. Qd2 h5 11. h4 gxh4 12. Bxh4 Nc6 13. Nb3 Be6 14. f3 Nge5 15.
+O-O-O Nc4 16. Bxc4 Bxc4 17. Nd5 Rc8 18. Kb1 a5 19. Qg5 Rg8 20. Qxh5 a4 21. Qh7
+Kf8 22. Nd2 Bxd5 23. exd5 Qb6 24. Nc4 Qb4 25. dxc6 Bxb2 26. Nxb2 a3 27. Bxe7+
+Kxe7 28. Rde1+ Kf8 29. Qh6+ Rg7 30. Qh8+ Rg8 31. cxb7 Qxb7 32. Qh6+ Rg7 33.
+Qxd6+ Kg8 34. Qxa3 Rxg2 35. Rhg1 Rcxc2 36. Rxg2+ Rxg2 37. Re8+ Kg7 38. Qc3+ f6
+39. Re1 Kg6 40. Qb3 Qc8 41. Nd3 Kg7 42. Nf4 Qf5+ 43. Qd3 Qxf4 44. Re7+ Kh6 45.
+Qh7+ Kg5 46. Rg7# 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Gormally, Daniel"]
+[Black "Norris, Alan"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2425"]
+[BlackElo "2285"]
+[PlyCount "51"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e3 b6 7. Bd3 Bb7 8. e4
+d5 9. cxd5 exd5 10. e5 Nfd7 11. h4 h6 12. g4 c5 13. g5 cxd4 14. gxh6 Nc5 15.
+Nb3 g6 16. Nxc5 bxc5 17. e6 Nc6 18. Rg1 Kh8 19. h5 g5 20. Nxg5 fxe6 21. Nxe6
+Qd7 22. Qg4 Rg8 23. Qf5 Rxg1+ 24. Ke2 Bh4 25. Bf4 Rg5 26. Qf6+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "McKenna, Jason P"]
+[Black "Dhar Barua, Saheli"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2120"]
+[BlackElo "2235"]
+[PlyCount "86"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Bg5 Be6 7. Qf3 Nbd7 8.
+Nge2 c6 9. O-O Qb6 10. Bf5 O-O 11. Rad1 Rfe8 12. Ng3 Bd6 13. Na4 Qa5 14. b3 Qc7
+15. Nc5 b6 16. Nd3 Bxf5 17. Nxf5 Bxh2+ 18. Kh1 Bd6 19. g3 Ne4 20. Bh6 g6 21.
+Ne3 f5 22. g4 Qd8 23. Kg2 Ng5 24. Bxg5 Qxg5 25. Qh3 h5 26. f4 fxg4 27. fxg5
+gxh3+ 28. Kf3 Rf8+ 29. Ke2 Rxf1 30. Rxf1 Rf8 31. Rh1 h2 32. c4 dxc4 33. bxc4 c5
+34. dxc5 Nxc5 35. Nf2 Bg3 36. Nh3 Ne4 37. Nf1 Bd6 38. Ke3 Ng3 39. Nxg3 Bxg3 40.
+Rd1 h4 41. a4 Rf7 42. Ke4 Rc7 43. Rc1 Rxc4+ 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Okosieme, Iozeph"]
+[Black "Bosch, Jeroen"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2040"]
+[BlackElo "2405"]
+[PlyCount "52"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 d6 2. Nf3 Bg4 3. e3 Nd7 4. Be2 Ngf6 5. c4 e5 6. Nc3 Be7 7. O-O O-O 8. Qc2
+c6 9. Rd1 Qc7 10. b3 Rfe8 11. Bb2 Bf8 12. h3 Bh5 13. d5 Rac8 14. Rd2 cxd5 15.
+Nxd5 Nxd5 16. Rxd5 Nf6 17. Rdd1 d5 18. Qf5 Bg6 19. Qg5 Ne4 20. Bxe5 Nxg5 21.
+Bxc7 Nxf3+ 22. Bxf3 Rxc7 23. cxd5 Bd6 24. g4 Kf8 25. a4 Bc2 26. Rdc1 Rec8 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Raoof, Adam"]
+[Black "Tippleston, Charles"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[WhiteElo "2050"]
+[PlyCount "103"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. f4 d6 8. Nf3
+Bg7 9. e4 Bxf1 10. Rxf1 Qb6 11. e5 dxe5 12. fxe5 Ng4 13. Qe2 Qa6 14. Qe4 f5 15.
+exf6 Nxf6 16. Qh4 Nbd7 17. Bh6 Bxh6 18. Qxh6 Qc4 19. O-O-O Rxa2 20. Kb1 Ra6 21.
+Rfe1 Kd8 22. Qe3 Re8 23. Ng5 Kc7 24. Ne6+ Kb7 25. Qf3 Qg4 26. Qxg4 Nxg4 27. Ng7
+Rh8 28. Rxe7 Kc8 29. Ne6 Ngf6 30. Nb5 Re8 31. Rxe8+ Nxe8 32. Rc1 Ra5 33. Nbd4
+Kb7 34. Nb3 Rb5 35. Nbxc5+ Nxc5 36. Rxc5 Rb4 37. Kc2 Rg4 38. g3 h5 39. b3 Nf6
+40. d6 h4 41. Rg5 hxg3 42. hxg3 Kc6 43. Rxg4 Nxg4 44. Nf8 Kxd6 45. Nxg6 Ne3+
+46. Kd3 Nf1 47. g4 Nh2 48. g5 Nf3 49. Kc4 Nxg5 50. Kb5 Ne6 51. Ka5 Nd4 52. b4
+1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Roktim, Bandopadha"]
+[Black "Njobvu, Ignatius"]
+[Result "1-0"]
+[ECO "E65"]
+[WhiteElo "2275"]
+[BlackElo "2200"]
+[PlyCount "53"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d6 4. g3 g6 5. Bg2 Bg7 6. d4 cxd4 7. Nxd4 O-O 8. O-O
+a6 9. b3 Qd7 10. Nd5 Nxd5 11. cxd5 e5 12. dxe6 fxe6 13. Ba3 Nc6 14. Nxe6 Bxa1
+15. Nxf8 Qg7 16. Qxa1 Qxa1 17. Rxa1 Kxf8 18. Rd1 Bg4 19. Rxd6 Kf7 20. Bd5+ Kg7
+21. f3 Bh3 22. Kf2 Rc8 23. g4 Rc7 24. Bb2+ Kf8 25. Bf6 h5 26. Be6 hxg4 27. fxg4
+1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.27"]
+[Round "3"]
+[White "Shaw, John Kerr"]
+[Black "Smith, Alan A"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2390"]
+[BlackElo "2225"]
+[PlyCount "116"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. c3 Nf6 6. e5 Nd5 7. O-O Qc7 8. a3 c4
+9. Bc2 Nc6 10. Ng5 d6 11. f4 O-O-O 12. Qe2 h6 13. Ne4 Na5 14. Nbd2 Kb8 15. Rb1
+Be7 16. exd6 Bxd6 17. Nxd6 Rxd6 18. Ne4 Rd7 19. f5 exf5 20. Rxf5 g6 21. Rf1 f5
+22. Ng3 Re7 23. Qf2 Ka8 24. Bf4 Nxf4 25. Qxf4 Qc6 26. Qf3 Qxf3 27. gxf3 h5 28.
+h4 Re3 29. Kg2 Rhe8 30. Rbd1 Bd5 31. Rf2 Nb7 32. Rdd2 Nd8 33. Nf1 Re1 34. Kg3
+Kb7 35. Bd1 Kc7 36. Rde2 R8xe2 37. Bxe2 Ne6 38. Nd2 b5 39. Bf1 Rc1 40. Bg2 Rc2
+41. f4 Bxg2 42. Rxg2 Rxb2 43. Nf3 Rxg2+ 44. Kxg2 Nxf4+ 45. Kf2 Nd3+ 46. Ke3 Kd6
+47. Ng5 a5 48. Nf7+ Ke7 49. Ng5 Ne1 50. Kd2 Ng2 51. Nf3 Ke6 52. Ke2 f4 53. Kf2
+Ne3 54. Ke2 Kf5 55. Ne5 Ke4 56. Nxg6 f3+ 57. Ke1 Nd5 58. Kd2 Nxc3 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Bosch, Jeroen"]
+[Black "Barua, Dibyendu"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2405"]
+[BlackElo "2515"]
+[PlyCount "29"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. Nc3 Nf6 7. d4 Qxe2+ 8.
+Bxe2 Bf5 9. Bg5 Be7 10. O-O-O h6 11. Bxf6 Bxf6 12. Bd3 Bxd3 13. Rxd3 Nc6 14.
+Nd5 Bd8 15. Re1+ 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Brooke, John"]
+[Black "Raoof, Adam"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2175"]
+[BlackElo "2050"]
+[PlyCount "114"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. Nc3 Nc6 2. Nf3 d6 3. g3 g6 4. Bg2 Bg7 5. O-O e5 6. a3 Nge7 7. e4 O-O 8. Rb1
+f5 9. d3 f4 10. Nd5 h6 11. c3 Be6 12. Nh4 g5 13. Nf3 Nxd5 14. Nxg5 hxg5 15.
+exd5 Bd7 16. dxc6 Bxc6 17. Bxc6 bxc6 18. Qg4 Qf6 19. f3 Rae8 20. Bd2 d5 21.
+Rbd1 Rf7 22. h4 gxh4 23. Qxh4 Qxh4 24. gxh4 Bf6 25. Be1 Rg7+ 26. Kh2 Kf7 27.
+Bf2 Rh8 28. Rg1 Bxh4 29. Rxg7+ Kxg7 30. Bxh4 Rxh4+ 31. Kg2 Kf6 32. Re1 Kf5 33.
+b4 Rh8 34. Re2 a5 35. Re1 axb4 36. cxb4 Ra8 37. Ra1 Ra4 38. Kf2 Ke6 39. Ke2 c5
+40. bxc5 Kd7 41. Kd2 Kc6 42. Kc3 Kxc5 43. Kb3 Ra6 44. Rc1+ Kd4 45. Rxc7 Kxd3
+46. Rc5 Kd4 47. Rb5 e4 48. fxe4 dxe4 49. Rb4+ Kd3 50. Kb2 f3 51. Rb3+ Kd2 52.
+Ka2 e3 53. Rb2+ Ke1 54. Rc2 f2 55. Rc1+ Ke2 56. Rc2+ Kd3 57. Rc1 e2 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Dearing, Eddie"]
+[Black "Gormally, Daniel"]
+[Result "0-1"]
+[ECO "A68"]
+[WhiteElo "2210"]
+[BlackElo "2425"]
+[PlyCount "64"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Bg4 10. O-O Re8 11. h3 Bxf3 12. Bxf3 Nfd7 13. Re1 Na6 14. Be3 Nc7 15.
+a4 a6 16. Re2 Rb8 17. a5 b5 18. axb6 Rxb6 19. Qe1 Bd4 20. Bxd4 cxd4 21. Na4 Rb3
+22. Rd1 d3 23. Re3 Qf6 24. Rdxd3 Rxd3 25. Rxd3 Qxf4 26. Qa5 Ne5 27. Rb3 Nb5 28.
+Qxa6 Nd4 29. Ra3 Nexf3+ 30. gxf3 Nxf3+ 31. Kg2 Nh4+ 32. Kg1 Qg5+ 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Dhar Barua, Saheli"]
+[Black "Tippleston, Charles"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2235"]
+[PlyCount "50"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Bg5 Qa5+ 12. Bd2 Qd8 13. Nxf6+ Qxf6 14. c4
+Qg6 15. f3 Be7 16. cxb5 Nd4 17. Be3 O-O 18. Bxd4 exd4 19. Qxd4 d5 20. Bd3 Qxg2
+21. Rg1 Bb4+ 22. Qxb4 Qxg1+ 23. Bf1 Bh3 24. O-O-O Bxf1 25. Qe1 Rfc8+ 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Leal, Paulo"]
+[Black "Goodger, Martyn"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[PlyCount "77"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Nc3 d6 8. h3
+O-O 9. a3 Nd4 10. Bc4+ Kh8 11. Ng5 Qe8 12. Nd5 Nxd5 13. exd5 h6 14. c3 hxg5 15.
+cxd4 Bxd4 16. Qe2 Qg6 17. Be3 Bxe3 18. Qxe3 Rf4 19. b3 g4 20. Qg3 Qh6 21. h4 g5
+22. hxg5 Qxg5 23. Rfc1 Bf5 24. Be2 Rc8 25. Rc3 c5 26. dxc6 Rxc6 27. Rac1 Bd7
+28. b4 Rxc3 29. Qxc3 Rd4 30. Rd1 Rxd1+ 31. Bxd1 Bc6 32. Qg3 Bd7 33. Qd3 Qc1 34.
+Qxd6 Ba4 35. Qxe5+ Kg8 36. Qe6+ Kh8 37. Qf6+ Kg8 38. Qe6+ Kh8 39. Qf6+ 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Njobvu, Ignatius"]
+[Black "McKenna, Jason P"]
+[Result "1-0"]
+[ECO "C04"]
+[WhiteElo "2200"]
+[BlackElo "2120"]
+[PlyCount "71"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. e5 Nd7 6. d4 f6 7. Bb5 fxe5 8. dxe5
+Be7 9. O-O O-O 10. Qe2 Nc5 11. Nb3 a6 12. Bxc6 bxc6 13. Nfd4 Bd7 14. Qg4 Rf7
+15. Be3 Nxb3 16. axb3 c5 17. Nf3 Qf8 18. Nh4 d4 19. Bd2 Bb5 20. Rfd1 Rxf2 21.
+Qxe6+ Kh8 22. Nf3 Re2 23. c4 dxc3 24. Bxc3 Bg5 25. Qg4 Be3+ 26. Kh1 Rf2 27. Qe4
+Bh6 28. Re1 Rd8 29. e6 Qd6 30. Qh4 Rxf3 31. gxf3 Bf4 32. Rad1 Qxd1 33. Rxd1
+Rxd1+ 34. Kg2 Be3 35. Be1 Rd5 36. Qe4 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Norris, Alan"]
+[Black "Shaw, John Kerr"]
+[Result "0-1"]
+[ECO "C27"]
+[WhiteElo "2285"]
+[BlackElo "2390"]
+[PlyCount "110"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Be7 6. Nf3 Nc6 7. Nxe5 g6 8.
+Nxc6 dxc6 9. Qf3 O-O 10. d3 Nf5 11. O-O Nd4 12. Qd1 a5 13. Be3 Bf5 14. Re1 Bf6
+15. Qd2 Re8 16. Bxd4 Qxd4 17. Rxe8+ Rxe8 18. Re1 Rxe1+ 19. Qxe1 Qe5 20. Qxe5
+Bxe5 21. Ne4 Bxe4 22. dxe4 Bxb2 23. f4 Kf8 24. Kf2 b5 25. c4 a4 26. Bc2 f6 27.
+Bd3 b4 28. Bc2 b3 29. axb3 a3 30. Bb1 c5 31. Ba2 Ke7 32. Ke2 Kd6 33. g3 Bd4 34.
+h3 Kc6 35. g4 Bb2 36. Kd3 Kd6 37. Ke3 Ke6 38. b4 Bc1+ 39. Kf3 g5 40. fxg5 fxg5
+41. bxc5 Ke5 42. c6 Kd4 43. c5 Bf4 44. h4 Be5 45. hxg5 Kc3 46. Kg2 Kb2 47. Bd5
+a2 48. Bxa2 Kxa2 49. Kh3 Kb3 50. Kh4 Kc4 51. Kh5 Bg7 52. g6 h6 53. g5 hxg5 54.
+Kxg5 Kxc5 55. Kf5 Kd6 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Roktim, Bandopadha"]
+[Black "Okosieme, Iozeph"]
+[Result "1-0"]
+[ECO "A12"]
+[WhiteElo "2275"]
+[BlackElo "2040"]
+[PlyCount "77"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Bf5 4. Bb2 Nd7 5. g3 Ngf6 6. Bg2 e6 7. O-O Bd6 8. d4
+O-O 9. Nbd2 Re8 10. Re1 Bg6 11. Nh4 Bh5 12. Qc1 Rc8 13. e4 dxe4 14. Nxe4 Nxe4
+15. Rxe4 Nf6 16. Re1 Bb4 17. Re5 Bd6 18. Re1 Bb4 19. Re5 Bd6 20. Re3 Ng4 21.
+Rd3 Nxh2 22. c5 Bc7 23. d5 Ng4 24. d6 Rf8 25. Qc3 Qg5 26. dxc7 Rxc7 27. f3 Nh6
+28. Qe5 Qxe5 29. Bxe5 Rcc8 30. g4 Bg6 31. Nxg6 hxg6 32. Rd7 f6 33. Bg3 Rf7 34.
+Rad1 Rcf8 35. Bf1 Re8 36. Bc4 Rfe7 37. Rxe7 Rxe7 38. Rd8+ Kf7 39. Bd6 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.28"]
+[Round "4"]
+[White "Smith, Alan A"]
+[Black "Beckett, Chris"]
+[Result "1/2-1/2"]
+[ECO "A27"]
+[WhiteElo "2225"]
+[BlackElo "2110"]
+[PlyCount "43"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Bg5 Be7 6. Bxe7 Ncxe7 7. Nd2 Nf6 8.
+e3 O-O 9. Be2 d6 10. O-O c6 11. Rc1 Qe8 12. f3 Qg6 13. f4 Be6 14. Qb3 Rab8 15.
+Qa3 Nc8 16. d5 cxd5 17. cxd5 Nxd5 18. Nxd5 Bxd5 19. Rc7 Kh8 20. Rfc1 Qf6 21.
+Bc4 Bc6 22. Nb3 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Beckett, Chris"]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "2110"]
+[BlackElo "2515"]
+[PlyCount "84"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Bg5 h6 3. Bh4 c6 4. e3 g6 5. Bd3 d6 6. g4 g5 7. Bg3 Nf6 8. gxf5
+Bxf5 9. e4 Qa5+ 10. b4 Qxb4+ 11. c3 Qb2 12. exf5 Qxa1 13. Qb3 Nbd7 14. Ne2 a5
+15. O-O a4 16. Qa3 d5 17. Nd2 e5 18. Qxf8+ Rxf8 19. Rxa1 e4 20. Bc2 Nh5 21. f3
+exf3 22. Nxf3 O-O-O 23. Bd6 Rfe8 24. Ne5 Ndf6 25. Bc5 Kc7 26. Rb1 b5 27. Ng3
+Nf4 28. Bxa4 Ra8 29. Bb3 h5 30. Nf7 h4 31. Bd6+ Kd7 32. Bxf4 gxf4 33. Ne5+ Kd6
+34. Ne2 Rg8+ 35. Ng6 f3 36. Nef4 Ne4 37. Rf1 Raf8 38. Kh1 Rxf5 39. Bd1 f2 40.
+Bg4 Rxf4 41. Nxf4 Rxg4 42. Nd3 Nxc3 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Dhar Barua, Saheli"]
+[Black "Norris, Alan"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2235"]
+[BlackElo "2285"]
+[PlyCount "55"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Qxf6 10. Nf3 h6 11. O-O Bd6 12. Bc2 O-O 13. Qd3 Rd8 14. Qh7+ Kf7 15.
+a3 Nf8 16. Qd3 Kg8 17. Ng3 Bd7 18. Re1 Be8 19. Qe3 Rac8 20. Bd2 Bg6 21. Bxg6
+Qxg6 22. Rac1 a6 23. Ne2 Qf6 24. Nf4 Bxf4 25. Qxf4 Qxf4 26. Bxf4 Ng6 27. Bd2
+Nf8 28. Re2 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Goodger, Martyn"]
+[Black "Dearing, Eddie"]
+[Result "0-1"]
+[ECO "B70"]
+[BlackElo "2210"]
+[PlyCount "74"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. g3 Nc6 7. Nde2 b6 8. Bg2
+Ba6 9. O-O Rc8 10. Re1 Bg7 11. Nd5 O-O 12. Bg5 Nd7 13. Nec3 h6 14. Bd2 e6 15.
+Ne3 b5 16. Rb1 b4 17. Ne2 Nc5 18. h4 Na4 19. Bc1 Qa5 20. Ng4 Kh7 21. h5 Qxh5
+22. Bf3 Qa5 23. Kg2 h5 24. Rh1 Bxe2 25. Bxe2 Nd4 26. Bd3 f5 27. Ne3 Nc5 28.
+exf5 exf5 29. Rxh5+ gxh5 30. Qxh5+ Kg8 31. Nxf5 Rxf5 32. Bxf5 Nxf5 33. Qxf5 Qc7
+34. Bf4 Qc6+ 35. f3 Rf8 36. Qh5 Ne6 37. Rf1 Rxf4 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Gormally, Daniel"]
+[Black "Bosch, Jeroen"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2425"]
+[BlackElo "2405"]
+[PlyCount "39"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. Be3 Nf6 5. Nc3 e5 6. d5 Na5 7. Nf3 Bd6 8. Bxc4
+Nxc4 9. Qa4+ Bd7 10. Qxc4 a6 11. a3 h6 12. O-O O-O 13. Qd3 Nh5 14. Nd2 Qf6 15.
+Nc4 Qg6 16. f3 f5 17. Nxd6 cxd6 18. Rac1 Rac8 19. Kh1 Nf6 20. a4 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "McKenna, Jason P"]
+[Black "Brooke, John"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2120"]
+[BlackElo "2175"]
+[PlyCount "41"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. Qd2 Nc6 11. Nb3 b5 12. f3 Nge5 13. Bf2 Na5 14. Nxa5 Qxa5 15.
+Bd4 e6 16. h4 Qb4 17. O-O-O gxh4 18. f4 Nc4 19. Bxc4 Bxd4 20. Qxd4 e5 21. Bxf7+
+1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Raoof, Adam"]
+[Black "Leal, Paulo"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "2050"]
+[PlyCount "53"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 d5 6. Ne5 Be7 7. f4 O-O 8. Qf3
+Nfd7 9. Qh3 f5 10. Ndf3 c5 11. c3 Nc6 12. Bd2 Rb8 13. g4 Ndxe5 14. fxe5 c4 15.
+Bc2 Bc8 16. Rg1 b5 17. gxf5 exf5 18. Qh6 g6 19. Rxg6+ hxg6 20. Qxg6+ Kh8 21.
+O-O-O Bg5 22. Qh5+ Kg8 23. Qg6+ Kh8 24. Nxg5 Rb7 25. Rg1 Rg7 26. Qxc6 Rxg5 27.
+Qh6+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Shaw, John Kerr"]
+[Black "Njobvu, Ignatius"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2390"]
+[BlackElo "2200"]
+[PlyCount "129"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Be2 Bd7 7. O-O cxd4 8. cxd4
+Nge7 9. Nc3 Ng6 10. Na4 Qc7 11. Be3 Be7 12. Rc1 Rc8 13. a3 O-O 14. b4 Qd8 15.
+Nc5 Bxc5 16. Rxc5 b6 17. Rc1 Nce7 18. Rxc8 Qxc8 19. Qb3 Qb7 20. h4 Nf5 21. h5
+Nge7 22. Bf4 Nc6 23. Qd3 f6 24. exf6 gxf6 25. Rc1 Rc8 26. Bd1 Be8 27. g4 Qg7
+28. Nh2 Rd8 29. Kh1 Nd6 30. Bf3 Nc4 31. Nf1 f5 32. gxf5 Qxd4 33. Qxd4 Nxd4 34.
+Nh2 Nxf5 35. Rg1+ Kf8 36. Bg4 Nxa3 37. Bxf5 exf5 38. Bh6+ Kf7 39. Rg7+ Kf6 40.
+Rg3 Rd7 41. Rxa3 Bxh5 42. Nf1 d4 43. Nd2 Be2 44. Kg2 Ke5 45. Kg3 Bb5 46. Nf3+
+Ke4 47. Nd2+ Ke5 48. f3 a6 49. Ra1 Rf7 50. Re1+ Kd5 51. Kf4 d3 52. Rc1 Rf6 53.
+Bg5 Rc6 54. Rh1 Kd4 55. Kxf5 Kc3 56. Rc1+ Kb2 57. Rh1 Kc3 58. Rh4 a5 59. bxa5
+bxa5 60. Ne4+ Kb3 61. Rxh7 a4 62. Rb7 Kc4 63. Be7 Ra6 64. Nd2+ Kc3 65. Nb1+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Smith, Alan A"]
+[Black "Roktim, Bandopadha"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2225"]
+[BlackElo "2275"]
+[PlyCount "68"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nge2 c6 5. g3 Nf6 6. Bg2 O-O 7. O-O Nbd7 8. a4
+a5 9. h3 e5 10. Be3 Qc7 11. Qd2 Re8 12. Rad1 Nf8 13. f4 exf4 14. Nxf4 Ne6 15.
+Nfe2 Bd7 16. Rf2 Rf8 17. Rdf1 Ne8 18. d5 Nc5 19. Bg5 Be5 20. Be7 Ng7 21. Bxf8
+Rxf8 22. Qh6 Qb6 23. b3 Na6 24. Qh4 Nb4 25. Qe7 Be8 26. Nb1 f6 27. Kh2 Rf7 28.
+Rxf6 Bxf6 29. Qxd6 Be7 30. Qe5 Rxf1 31. Bxf1 Qf2+ 32. Bg2 Bf6 33. Qb8 Qxe2 34.
+d6 Qd1 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.29"]
+[Round "5"]
+[White "Tippleston, Charles"]
+[Black "Okosieme, Iozeph"]
+[Result "1-0"]
+[ECO "B17"]
+[BlackElo "2040"]
+[PlyCount "93"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 e6 6. Nf3 Ngf6 7. Nxf6+ Nxf6
+8. O-O Be7 9. Qe2 O-O 10. c3 b6 11. Re1 Bb7 12. Bxe6 c5 13. Bb3 Bd6 14. Bg5 h6
+15. Bh4 g5 16. Bg3 Bxg3 17. hxg3 Bxf3 18. Qxf3 cxd4 19. Rad1 Kg7 20. Rxd4 Qc7
+21. Rc4 Qd7 22. Rd1 Qe7 23. Rcd4 Rad8 24. Rxd8 Rxd8 25. Rxd8 Qxd8 26. Qe3 Qe8
+27. Qxe8 Nxe8 28. Kf1 Kf6 29. Ke2 Nd6 30. Kd3 Ke5 31. Bc2 b5 32. Bb3 f5 33. Ke3
+a5 34. f4+ Kf6 35. Bd5 Ke7 36. Kd4 Kf6 37. b4 axb4 38. cxb4 h5 39. fxg5+ Kxg5
+40. Kc5 Ne4+ 41. Kxb5 Kf6 42. Bxe4 fxe4 43. Kc4 Ke5 44. b5 h4 45. b6 Kd6 46. b7
+Kc7 47. gxh4 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Barua, Dibyendu"]
+[Black "Gormally, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2515"]
+[BlackElo "2425"]
+[PlyCount "96"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Qc7 8. Bg5
+Nbd7 9. a4 Be7 10. O-O h6 11. Bxf6 Nxf6 12. Qd3 Be6 13. Nd2 Rc8 14. Rfc1 O-O
+15. a5 Rfd8 16. Bf3 Qc5 17. Nb3 Qc4 18. Rd1 Qxd3 19. Rxd3 Rc6 20. Nd2 b5 21.
+axb6 Rxb6 22. b3 Rc6 23. Bd1 d5 24. exd5 Nxd5 25. Nxd5 Rxd5 26. Rxd5 Bxd5 27.
+Nf1 Bc5 28. Ne3 Be6 29. Bf3 Rd6 30. Bb7 Rd2 31. Rxa6 Kf8 32. Be4 Ke7 33. Kf1 g6
+34. Rc6 Bd6 35. Bd3 f5 36. Nc4 Bxc4 37. Rxc4 Rd1+ 38. Ke2 Rg1 39. Rh4 e4 40.
+Bxe4 g5 41. Rxh6 fxe4 42. h4 Rxg2 43. hxg5 Bc5 44. Rf6 e3 45. Rf5 Kd6 46. b4
+Bd4 47. c3 Ke6 48. Rf4 Be5 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Beckett, Chris"]
+[Black "Shaw, John Kerr"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2110"]
+[BlackElo "2390"]
+[PlyCount "94"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bg5 f6 3. Bf4 c5 4. e3 Nc6 5. Bb5 e6 6. Nf3 Nge7 7. O-O Ng6 8. Bg3
+Be7 9. c4 a6 10. Ba4 dxc4 11. Bxc6+ bxc6 12. Qa4 O-O 13. Nc3 Bd7 14. Qxc4 Qa5
+15. Rfd1 Ra7 16. dxc5 Qxc5 17. Qxc5 Bxc5 18. Bd6 Bxd6 19. Rxd6 Kf7 20. Rad1 Ke7
+21. Ne4 Rb8 22. Nc5 Nf8 23. b3 Rb5 24. Na4 Rd5 25. R6xd5 cxd5 26. Nc5 Bc8 27.
+Kf1 Rc7 28. Rc1 a5 29. Nd4 e5 30. Ne2 Kd6 31. Nd3 Rxc1+ 32. Ndxc1 Ne6 33. Ke1
+Ba6 34. Kd2 Nc5 35. f3 g5 36. Kc3 h5 37. g3 h4 38. gxh4 gxh4 39. f4 Ne4+ 40.
+Kb2 Nf2 41. Ng1 e4 42. Kc3 Ng4 43. Kd2 Nxh2 44. Ke1 Ng4 45. Kd2 Bf1 46. Nge2 h3
+47. Ng3 h2 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Bosch, Jeroen"]
+[Black "Roktim, Bandopadha"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2405"]
+[BlackElo "2275"]
+[PlyCount "58"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. h3 O-O 6. Be3 c6 7. a4 Nbd7 8. a5
+Qc7 9. Qb1 Rb8 10. Bd3 b5 11. axb6 axb6 12. O-O e5 13. dxe5 dxe5 14. b4 b5 15.
+Ra7 Rb7 16. Rxb7 Bxb7 17. Qb3 Ne8 18. Nb1 Nd6 19. Na3 Nb6 20. Nd2 Bc8 21. c4
+Be6 22. Qc2 Nbxc4 23. Naxc4 Nxc4 24. Nxc4 bxc4 25. Bxc4 Bxc4 26. Qxc4 Rb8 27.
+Rc1 Qb7 28. Qxc6 Qxb4 29. Qd5 Qe7 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Brooke, John"]
+[Black "Njobvu, Ignatius"]
+[Result "0-1"]
+[ECO "E83"]
+[WhiteElo "2175"]
+[BlackElo "2200"]
+[PlyCount "80"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Bd3 e5 8. d5 Ne7
+9. Nge2 Ne8 10. Qd2 a6 11. g4 c6 12. h4 cxd5 13. cxd5 b5 14. h5 b4 15. Na4 a5
+16. Bh6 Ba6 17. Bxa6 Rxa6 18. Bxg7 Nxg7 19. hxg6 fxg6 20. Qh6 Rxf3 21. Qxh7+
+Kf7 22. O-O-O Qc8+ 23. Kb1 Qxg4 24. Rh4 Qg5 25. Rhh1 Qe3 26. Nac3 bxc3 27. Nxc3
+Rb6 28. Ka1 Rxb2 29. Rdf1 Rbf2 30. Rxf2 Rxf2 31. Nb5 Qc5 32. Rb1 Rf4 33. Qh3
+Rxe4 34. Qd7 Ngf5 35. Rh1 Qxd5 36. Qd8 Qxb5 37. Rh7+ Kf6 38. Qf8+ Kg5 39. Rh5+
+gxh5 40. Qxf5+ Nxf5 {Stalemate! - claimed John with a sigh of relief. Igi
+responded by pointing to the a-pawn. Not to worry, John, it's happened to all
+of us.} 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Dearing, Eddie"]
+[Black "Smith, Alan A"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2210"]
+[BlackElo "2225"]
+[PlyCount "97"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 b6 2. c4 e6 3. a3 Bb7 4. Nc3 f5 5. d5 Nf6 6. Nf3 Bd6 7. g3 O-O 8. Bg2 a5
+9. O-O Na6 10. Rb1 Nc5 11. Nd4 a4 12. Ndb5 e5 13. Be3 Ng4 14. Bxc5 Bxc5 15. h3
+f4 16. e3 Nf6 17. Nxa4 fxg3 18. Nxc5 gxf2+ 19. Rxf2 bxc5 20. b4 cxb4 21. axb4
+d6 22. e4 Ba6 23. Na3 Bc8 24. Rb3 Bd7 25. Rc3 Qe8 26. c5 Qg6 27. Qe1 Ba4 28.
+cxd6 cxd6 29. b5 Rab8 30. Rb2 Nh5 31. Kh2 Nf4 32. Rg3 Qe8 33. Qb4 Bd1 34. Qxd6
+Qh5 35. Qe7 Ng6 36. Qg5 Qxg5 37. Rxg5 Rfc8 38. Rg3 Nf4 39. Bf1 Rc1 40. Bc4 h5
+41. Rb1 Rxb1 42. Nxb1 Bc2 43. Nd2 h4 44. d6+ Kf8 45. Rg5 g6 46. Rxe5 Rd8 47.
+Bd5 Rxd6 48. Nc4 Rf6 49. b6 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Goodger, Martyn"]
+[Black "Dhar Barua, Saheli"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[BlackElo "2235"]
+[PlyCount "88"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 c6 5. Nf3 d6 6. Be3 Bb4 7. O-O O-O 8. Bg5
+Be6 9. Bb3 Nbd7 10. Qe2 Qa5 11. Bd2 Qc7 12. Nd5 cxd5 13. exd5 Nxd5 14. Bxd5
+Bxd5 15. Bxb4 a5 16. Bc3 b5 17. Rfc1 Qb7 18. Ne1 f5 19. Bd2 Nc5 20. c4 Bc6 21.
+b4 Ne6 22. bxa5 Nd4 23. Qf1 Bxg2 24. Qxg2 Ne2+ 25. Kf1 Qxg2+ 26. Nxg2 Nxc1 27.
+Rxc1 bxc4 28. Rxc4 f4 29. Bb4 Ra6 30. Rc7 Rf7 31. Rc8+ Rf8 32. Rc7 Rf7 33. Rc8+
+Rf8 34. Rc2 g5 35. f3 h5 36. Ne1 Kf7 37. Rg2 Rg8 38. h3 Kf6 39. Nc2 Kf5 40. Ke1
+Rb8 41. a3 Rc8 42. Kd2 Rac6 43. Kd1 Rb8 44. Kd2 Rbc8 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Leal, Paulo"]
+[Black "McKenna, Jason P"]
+[Result "0-1"]
+[ECO "C00"]
+[BlackElo "2120"]
+[PlyCount "64"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Qe2 Nf6 4. Nf3 Nc6 5. g3 dxe4 6. dxe4 Bc5 7. Bg2 e5 8. h3
+O-O 9. O-O h6 10. c3 a5 11. a4 b6 12. Nbd2 Ba6 13. Nc4 Qe7 14. Nh4 Qe6 15. b3
+Rad8 16. Nf5 Ne7 17. g4 Ng6 18. Kh1 Rd7 19. f4 exf4 20. Bxf4 Nxf4 21. Rxf4 Rfd8
+22. Re1 Bxc4 23. Qxc4 Rd1 24. Ref1 Qe5 25. Nxh6+ gxh6 26. Rf5 Rxf1+ 27. Qxf1
+Nxe4 28. Rxe5 Ng3+ 29. Kh2 Nxf1+ 30. Kh1 Rd1 31. Bxf1 Rxf1+ 32. Kg2 Rf2+ 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.30"]
+[Round "6"]
+[White "Norris, Alan"]
+[Black "Tippleston, Charles"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "2285"]
+[PlyCount "88"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 a6 6. Ba4 Nf6 7. Re1 b5 8. Bc2
+e5 9. d4 Qc7 10. Nbd2 cxd4 11. cxd4 Be7 12. a3 O-O 13. d5 Na5 14. b4 Nc4 15.
+Nxc4 Qxc4 16. Bb2 Rfc8 17. Bd3 Qc7 18. Nd2 Qa7 19. h3 g6 20. Nb3 Nh5 21. Bc1
+Bd8 22. Be3 Bb6 23. Qd2 Bxe3 24. Rxe3 Rc7 25. Bf1 Rac8 26. Rc1 Rxc1 27. Nxc1
+Qc7 28. Ne2 Qc2 29. Qxc2 Rxc2 30. Rc3 Ra2 31. g4 Nf6 32. f3 Ne8 33. Nc1 Rb2 34.
+Be2 Kf8 35. Kf2 h6 36. Ke3 f5 37. Kd3 fxe4+ 38. fxe4 Ke7 39. Rb3 Rxb3+ 40. Nxb3
+Nf6 41. Ke3 g5 42. Nd2 Be8 43. Nf1 Kd8 44. Ng3 Bd7 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Dearing, Eddie"]
+[Black "Bosch, Jeroen"]
+[Result "0-1"]
+[ECO "A53"]
+[WhiteElo "2210"]
+[BlackElo "2405"]
+[PlyCount "60"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. Nf3 g6 5. g3 Ne4 6. Nd2 Nxc3 7. bxc3 c5 8. Bg2
+Qc7 9. O-O Bg7 10. e4 Bd7 11. Bb2 Nc6 12. Nb3 O-O 13. f4 Na5 14. Nxa5 Qxa5 15.
+e5 Rac8 16. Qe2 cxd4 17. cxd4 Qb4 18. Rfc1 Bg4 19. Qxg4 Qxb2 20. Qd1 dxe5 21.
+dxe5 Rfd8 22. Qb3 Qd4+ 23. Kh1 b6 24. a4 e6 25. a5 bxa5 26. Rxa5 Rb8 27. Rb5
+Rxb5 28. cxb5 Bf8 29. Bf3 Qf2 30. Rd1 Rd2 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Dhar Barua, Saheli"]
+[Black "Brooke, John"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2235"]
+[BlackElo "2175"]
+[PlyCount "0"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "McKenna, Jason P"]
+[Black "Goodger, Martyn"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2120"]
+[PlyCount "29"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6 Qg5
+8. Qe2 Nf6 9. f4 Qxf4 10. d4 Qh4+ 11. g3 Qh3 12. Ne5+ c6 13. Bc4 Be6 14. Bg5
+O-O-O 15. O-O-O 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Njobvu, Ignatius"]
+[Black "Smith, Alan A"]
+[Result "1/2-1/2"]
+[ECO "B24"]
+[WhiteElo "2200"]
+[BlackElo "2225"]
+[PlyCount "88"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 d6 6. d3 e5 7. O-O Nge7 8. Be3
+O-O 9. Qd2 Be6 10. Bh6 Qd7 11. Bxg7 Kxg7 12. f4 f5 13. Rae1 Rf7 14. Nd5 fxe4
+15. dxe4 Raf8 16. c3 exf4 17. gxf4 Nd8 18. Ng3 Nxd5 19. exd5 Bf5 20. c4 Re8 21.
+Nxf5+ gxf5 22. Re3 Rxe3 23. Qxe3 Qe7 24. Qg3+ Kf8 25. Re1 Qf6 26. b3 Re7 27.
+Rxe7 Kxe7 28. Qe3+ Kd7 29. h3 b6 30. Kh2 Nf7 31. Qe1 Nh8 32. b4 Ng6 33. Qd1 Qh4
+34. Qa4+ Ke7 35. Qxa7+ Kf6 36. Qxb6 Qxf4+ 37. Kh1 cxb4 38. Qxb4 Qc1+ 39. Kh2
+Ke5 40. Qb3 Nf4 41. Qg3 Kd4 42. Qg7+ Ke3 43. Qe7+ Kf2 44. Qh4+ Ke3 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Norris, Alan"]
+[Black "Leal, Paulo"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[WhiteElo "2285"]
+[PlyCount "52"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 Be7 5. Nbd2 Nbd7 6. Bd3 h6 7. Bf4 b6 8. h3
+Bb7 9. Ne5 O-O 10. Qf3 c5 11. c3 Rc8 12. g4 Nh7 13. O-O-O Nxe5 14. Bxe5 cxd4
+15. exd4 b5 16. Bxh7+ Kxh7 17. Qd3+ Kg8 18. Qxb5 Bc6 19. Qa6 Qd7 20. Nb3 Bb5
+21. Qa5 Rc4 22. Nc5 Bxc5 23. dxc5 Rc8 24. b3 R4xc5 25. Bd4 R5c7 26. Rhe1 Rb7
+1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Okosieme, Iozeph"]
+[Black "Raoof, Adam"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2040"]
+[BlackElo "2040"]
+[PlyCount "172"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 d6 2. Nf3 Bg4 3. e3 Nd7 4. c4 e5 5. Nc3 Ngf6 6. Be2 Be7 7. O-O O-O 8. Qc2
+Re8 9. Rd1 exd4 10. exd4 d5 11. c5 Nf8 12. h3 Bh5 13. Bf4 Ne6 14. Bh2 c6 15. b4
+Bg6 16. Qb3 Ne4 17. b5 Bf6 18. Rac1 N6xc5 19. Qa3 Nxc3 20. Qxc3 Rxe2 21. Qxc5
+Be7 22. Qc3 cxb5 23. Qb3 Rc8 24. Qxb5 Rxa2 25. Qxb7 Rac2 26. Ra1 a5 27. Bf4 Bf5
+28. Bd2 Rb8 29. Qa7 Bb4 30. Ne5 Be6 31. Bf4 Ra8 32. Qb7 Qc8 33. Qb5 Rb8 34. Qf1
+Rb6 35. Rdb1 h6 36. Qd3 Rc3 37. Qe2 Rb7 38. Rb2 Bf5 39. Qa6 Rb8 40. Qe2 Rb7 41.
+g4 Be6 42. Kg2 f6 43. Nd3 Rc4 44. Nc5 Re7 45. Rxa5 Rxd4 46. Qe3 Bxc5 47. Rb8
+Qxb8 48. Bxb8 Rxg4+ 49. hxg4 Bxe3 50. fxe3 Bxg4 51. Kf2 Rd7 52. Ba7 Kf7 53. Bd4
+Kg6 54. Kg3 Bf5 55. Kh4 Be4 56. Ra6 Rc7 57. Ra1 Kf5 58. Rf1+ Ke6 59. Kg3 Rc2
+60. Rf2 Rc1 61. Rh2 Rh1 62. Rxh1 Bxh1 63. Ba7 Kf5 64. Bc5 g5 65. Bd6 h5 66. Kh3
+Be4 67. Be7 Bd3 68. Kg2 Kg6 69. Bd8 f5 70. Bc7 h4 71. Bd6 Kh5 72. Be5 Kg4 73.
+Bd6 Be4+ 74. Kh2 h3 75. Be5 Bg2 76. Kg1 Kf3 77. Bd4 f4 78. exf4 Kxf4 79. Bc5
+Kf3 80. Bb4 g4 81. Be1 d4 82. Kh2 d3 83. Kg1 g3 84. Bxg3 d2 85. Be1 dxe1=Q+ 86.
+Kh2 Qh1# 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Roktim, Bandopadha"]
+[Black "Gormally, Daniel"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2275"]
+[BlackElo "2425"]
+[PlyCount "51"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. Nf3 d6 2. c4 f5 3. Nc3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d3 e5 8. Rb1 a5
+9. a3 Nc6 10. b4 axb4 11. axb4 h6 12. b5 Ne7 13. Bb2 g5 14. Ra1 Rb8 15. Nd2 f4
+16. Nde4 Nxe4 17. Nxe4 Bg4 18. Ba3 Qe8 19. b6 cxb6 20. Bxd6 Rc8 21. Ra2 f3 22.
+Bxf3 Bxf3 23. exf3 Rf7 24. Bxe7 Qxe7 25. Rb2 Qe6 26. Re1 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Shaw, John Kerr"]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2390"]
+[BlackElo "2515"]
+[PlyCount "62"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Nh6 7. b3 cxd4 8. cxd4
+Nf5 9. Bb2 Bb4+ 10. Kf1 Qd8 11. g3 O-O 12. Kg2 f6 13. Na3 fxe5 14. dxe5 Qc7 15.
+Nc2 Bc5 16. Rf1 Bd7 17. Qd2 Be8 18. Bd3 Bg6 19. Rae1 a5 20. Bc3 d4 21. Ba1 Nb4
+22. Be4 Rad8 23. Kg1 Ne3 24. Bxg6 hxg6 25. fxe3 dxe3 26. Qe2 Nxc2 27. Qxc2 e2+
+28. Kg2 exf1=Q+ 29. Rxf1 Qc6 30. Bc3 Bb4 31. Qxg6 Bxc3 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.08.31"]
+[Round "7"]
+[White "Tippleston, Charles"]
+[Black "Beckett, Chris"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[BlackElo "2110"]
+[PlyCount "82"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 cxd4 7. cxd4 Nc6 8. Ndf3
+f5 9. Bd3 Be7 10. Ne2 O-O 11. a3 a5 12. b3 Nb6 13. O-O Bd7 14. h3 Qe8 15. g4
+Nd8 16. Ra2 a4 17. Nc3 Rc8 18. Bd2 g6 19. g5 axb3 20. Qxb3 Nc4 21. a4 Nc6 22.
+Nb5 Nxd2 23. Rxd2 Na5 24. Qb1 Nc4 25. Ra2 Qd8 26. h4 Qa5 27. h5 Bxb5 28. axb5
+Qb6 29. Rff2 Ne3 30. Qe1 Ng4 31. Rg2 Kg7 32. h6+ Kg8 33. Rgc2 Rxc2 34. Rxc2 Ra8
+35. Qc1 Ra4 36. Rc8+ Bf8 37. Kg2 Rxd4 38. Nxd4 Qxd4 39. Rxf8+ Kxf8 40. Qc8+ Ke7
+41. Qxb7+ Kd8 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Barua, Dibyendu"]
+[Black "Tippleston, Charles"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2515"]
+[PlyCount "115"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. a4 a6 10. Na3 Be7 11. Nc4 Nd7 12. a5 O-O 13. Be2 f5 14. f4 Kh8 15.
+O-O e4 16. Be3 Qe8 17. b4 Qg6 18. Ra3 Nf6 19. Nb6 Rb8 20. Kh1 Nd7 21. Nc4 Qf7
+22. Ba7 Ra8 23. Bg1 Rb8 24. Rg3 Nf6 25. Ba7 Ra8 26. Bd4 Kg8 27. Nb6 Rb8 28. c4
+Rd8 29. Qb3 g6 30. c5 Ne8 31. Bc4 Nc7 32. Bb2 Kf8 33. Qc3 Ne8 34. c6 Bf6 35.
+Qc2 Bxb2 36. Qxb2 Qg7 37. Qxg7+ Kxg7 38. Rc3 bxc6 39. dxc6 Nc7 40. Rd1 Kf6 41.
+Kg1 Ke7 42. b5 d5 43. bxa6 dxc4 44. Rxd8 Kxd8 45. a7 Ra8 46. Nxa8 Nxa8 47. Rxc4
+Kc7 48. Kf2 Be6 49. Rb4 Bd5 50. Rb7+ Kxc6 51. Rxh7 Kc5 52. Ke3 Bb3 53. Rg7 Ba4
+54. h4 Be8 55. Rg8 Bc6 56. Rxg6 Nc7 57. Rg7 Na8 58. h5 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Beckett, Chris"]
+[Black "Dhar Barua, Saheli"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[WhiteElo "2110"]
+[BlackElo "2235"]
+[PlyCount "46"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nh3 Bg7 5. Nc3 O-O 6. Nf4 d6 7. d5 Qe8 8. h4 h6
+9. h5 g5 10. Ng6 Rf7 11. Be3 e5 12. dxe6 Qxe6 13. Qd2 Nc6 14. O-O-O Ne4 15.
+Bxe4 fxe4 16. Nd5 Ne5 17. Nxe5 Qxe5 18. Nc3 Be6 19. Bd4 Qxd4 20. Qxd4 Bxd4 21.
+Rxd4 Rxf2 22. Rxe4 Rf6 23. Rd1 a6 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Bosch, Jeroen"]
+[Black "Shaw, John Kerr"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2405"]
+[BlackElo "2390"]
+[PlyCount "99"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Nf6 3. f3 e5 4. d5 Be7 5. c4 O-O 6. Be3 c6 7. Nc3 cxd5 8. cxd5
+a6 9. Bd3 Nbd7 10. Nge2 b5 11. b4 Nb6 12. a4 Nc4 13. Bxc4 bxc4 14. O-O Bd7 15.
+Qd2 Qc7 16. Rfb1 Rfb8 17. a5 Rb7 18. Bb6 Qc8 19. Qa2 g6 20. Na4 Bb5 21. Nec3
+Nd7 22. Be3 h5 23. Nxb5 axb5 24. Nc3 Nb8 25. Rf1 Na6 26. Qb2 Qd8 27. g3 Bg5 28.
+Bb6 Qd7 29. Rae1 Re8 30. Kh1 Kh7 31. Ne2 Bh6 32. Nc3 Rbb8 33. Qb1 Bg7 34. Be3
+Bh6 35. f4 exf4 36. gxf4 Bg7 37. Bd2 f5 38. exf5 gxf5 39. Re6 Rxe6 40. Qxf5+
+Kg8 41. Qxe6+ Qxe6 42. dxe6 Nxb4 43. f5 Bxc3 44. Bxc3 Na2 45. Rg1+ Kf8 46. Bg7+
+Ke7 47. Bd4 c3 48. Rg7+ Kf8 49. e7+ Ke8 50. Rg8+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Brooke, John"]
+[Black "Norris, Alan"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2175"]
+[BlackElo "2285"]
+[PlyCount "0"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+ 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Gormally, Daniel"]
+[Black "McKenna, Jason P"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2425"]
+[BlackElo "2120"]
+[PlyCount "0"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Leal, Paulo"]
+[Black "Okosieme, Iozeph"]
+[Result "1-0"]
+[ECO "B13"]
+[BlackElo "2040"]
+[PlyCount "91"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Nc6 6. Bf4 a6 7. Nf3 Bg4 8.
+Nbd2 e6 9. Qb3 Qc8 10. Qc2 Be7 11. Ne5 Bh5 12. Ndf3 b5 13. O-O Na5 14. h3 Qb7
+15. g4 Bg6 16. Nxg6 hxg6 17. Kg2 Rc8 18. Ne5 Nc4 19. Rae1 Nxe5 20. Bxe5 Kf8 21.
+Qe2 Nd7 22. Bg3 Rh6 23. a4 Rc6 24. axb5 axb5 25. Ra1 Kg8 26. Bxb5 Rb6 27. Bxd7
+Qxd7 28. Ra8+ Kh7 29. Rfa1 Rb7 30. b4 g5 31. Qc2+ Rg6 32. Qa4 f5 33. Qxd7 Rxd7
+34. Be5 Rh6 35. R1a7 Rxa7 36. Rxa7 Bf6 37. b5 Kg6 38. Ra8 Rh4 39. gxf5+ Kxf5
+40. b6 g4 41. hxg4+ Rxg4+ 42. Kf1 Ke4 43. b7 Kf3 44. Bg3 e5 45. b8=Q e4 46. Qb1
+1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Raoof, Adam"]
+[Black "Njobvu, Ignatius"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2050"]
+[BlackElo "2200"]
+[PlyCount "149"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Nbd7 8.
+Nf3 Nf8 9. Qc2 Be6 10. Ne5 h6 11. Bh4 Bb4 12. a3 Qa5 13. Rc1 Bxc3+ 14. Qxc3
+Qxc3+ 15. Rxc3 g5 16. Bg3 Rg8 17. h3 Ne4 18. Rc2 Nxg3 19. fxg3 f6 20. Ng4 Bxg4
+21. hxg4 Rh8 22. O-O Ke7 23. b4 a6 24. a4 Nd7 25. Rb1 Kd6 26. Rf1 Rhf8 27. Rf3
+Nb6 28. a5 Nd7 29. Rcf2 Rae8 30. Rf1 Re7 31. Kf2 Rh8 32. Rh1 Rf7 33. Ke2 Ke7
+34. Bf5 Nb8 35. Kd3 Rff8 36. Re1 Kf7 37. e4 dxe4+ 38. Rxe4 Re8 39. Rfe3 Rxe4
+40. Rxe4 Rd8 41. Kc4 Nd7 42. Kc3 Nf8 43. Re3 Ng6 44. Be6+ Kf8 45. Bc4 Re8 46.
+Re6 Re7 47. Rxf6+ Kg7 48. Re6 Rd7 49. Kd3 Nf8 50. Re8 Ng6 51. Ke4 Kf6 52. Re6+
+Kg7 53. d5 cxd5+ 54. Bxd5 Ne7 55. Re5 Kf6 56. Re6+ Kg7 57. Bb3 Nc6 58. Ba4 Rd4+
+59. Ke3 Rxg4 60. Bxc6 bxc6 61. Kf3 Rxb4 62. Rxc6 Rb3+ 63. Kg4 Rb2 64. Kh3 g4+
+65. Kxg4 Rxg2 66. Rxa6 Ra2 67. Ra7+ Kg8 68. Kh5 Ra3 69. Kg4 Ra4+ 70. Kf5 Ra3
+71. g4 Ra4 72. a6 Ra5+ 73. Kg6 Rg5+ 74. Kxh6 Rxg4 75. Rb7 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Roktim, Bandopadha"]
+[Black "Dearing, Eddie"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[WhiteElo "2275"]
+[BlackElo "2210"]
+[PlyCount "39"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 d5 5. Nf3 e6 6. Nc3 Bb4 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O a6 10. Re1 b5 11. Bb3 h6 12. Bf4 Bb7 13. Qd3 Nbd7 14. Rad1 Rc8
+15. Ne5 Nb6 16. Bxh6 gxh6 17. Qg3+ Kh8 18. Qf4 Kg7 19. Qg3+ Kh8 20. Qf4 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.01"]
+[Round "8"]
+[White "Smith, Alan A"]
+[Black "Goodger, Martyn"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[WhiteElo "2225"]
+[PlyCount "19"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. b3 d6 6. Bb2 O-O 7. Nbd2 Nc6 8. Nc4
+e6 9. O-O Qe8 10. a4 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Beckett, Chris"]
+[Black "Bosch, Jeroen"]
+[Result "0-1"]
+[ECO "E25"]
+[WhiteElo "2110"]
+[BlackElo "2405"]
+[PlyCount "72"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. e3 O-O 8. cxd5
+exd5 9. Bd3 b6 10. Ne2 Ba6 11. Bxa6 Nxa6 12. Qd3 Nc7 13. O-O Re8 14. Ng3 Ne6
+15. Ra2 Rc8 16. Nf5 g6 17. Nh6+ Kg7 18. e4 cxd4 19. e5 Ng8 20. Ng4 Rxc3 21. Qd2
+Qc7 22. f4 Rc8 23. Ra1 Rc2 24. Qe1 Qc3 25. f5 Qxe1 26. f6+ Kf8 27. Rxe1 Nc5 28.
+a4 Ke8 29. Ba3 h5 30. Bxc5 bxc5 31. Nf2 c4 32. Rab1 d3 33. Red1 Nh6 34. Rb7 d2
+35. Kf1 Rc1 36. Re7+ Kf8 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Dearing, Eddie"]
+[Black "Dhar Barua, Saheli"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[WhiteElo "2210"]
+[BlackElo "2235"]
+[PlyCount "63"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Bg5 c6 3. e3 g6 4. Nf3 Bg7 5. Nbd2 Nf6 6. Bd3 d6 7. Qe2 Qa5 8. O-O
+O-O 9. Rab1 Nbd7 10. b4 Qc7 11. c4 e5 12. dxe5 dxe5 13. e4 f4 14. c5 Kh8 15.
+Nc4 Ng8 16. Nd6 h6 17. Bc4 hxg5 18. Bxg8 Kxg8 19. Qc4+ Kh8 20. Nf7+ Rxf7 21.
+Qxf7 Qd8 22. Qxg6 Bf6 23. Qh6+ Kg8 24. Rfd1 Qf8 25. Qg6+ Qg7 26. Qe8+ Nf8 27.
+Nd2 Qf7 28. Qxf7+ Kxf7 29. Nc4 Ne6 30. Nd6+ Ke7 31. Nf5+ Kf7 32. Nd6+ 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Goodger, Martyn"]
+[Black "Okosieme, Iozeph"]
+[Result "1-0"]
+[ECO "B12"]
+[BlackElo "2040"]
+[PlyCount "53"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Nf6 7. O-O Bc5 8.
+Ng5 O-O 9. Nxf7 Rxf7 10. Bxf7+ Kh8 11. Bg5 Nbd7 12. Nd2 Qb6 13. Nc4 Qa6 14. Kh1
+Nxe4 15. Bh4 Ndf6 16. Bxf6 Nxf6 17. Ne5 Bd7 18. Rxf6 gxf6 19. Nxd7 Qb5 20. Nxc5
+Qxc5 21. Qf3 Kg7 22. Bb3 Re8 23. Rf1 Rf8 24. Qg4+ Kh8 25. Rxf6 Re8 26. Rf1 Qb5
+27. Qxd4+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "McKenna, Jason P"]
+[Black "Raoof, Adam"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2120"]
+[BlackElo "2050"]
+[PlyCount "12"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d5 5. h3 Nf6 6. Bd3 dxe4 1/2-1/2
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Njobvu, Ignatius"]
+[Black "Leal, Paulo"]
+[Result "1-0"]
+[ECO "B24"]
+[WhiteElo "2200"]
+[PlyCount "85"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. Nge2 Nc6 6. d3 e5 7. Be3 Nge7 8. O-O
+O-O 9. Qd2 Nd4 10. Rac1 Be6 11. Bh6 Bxh6 12. Qxh6 Rb8 13. f4 f5 14. Nxd4 cxd4
+15. Nd5 Bxd5 16. exd5 Kh8 17. Qg5 Ng8 18. Qxd8 Rfxd8 19. c3 exf4 20. Rxf4 dxc3
+21. Rxc3 Rd7 22. Ra4 a6 23. Rac4 Kg7 24. g4 Re8 25. g5 Rde7 26. Bf3 Re5 27. Kf2
+h6 28. h4 hxg5 29. hxg5 f4 30. Rc7+ R8e7 31. Rxe7+ Nxe7 32. Rc7 Kf8 33. Rd7
+Rxg5 34. Rxd6 Ke8 35. Be4 a5 36. Kf3 Rg1 37. Kxf4 Rb1 38. Rb6 Rf1+ 39. Ke5 g5
+40. Rxb7 Kd8 41. d6 Nc8 42. Ke6 Rf8 43. Rd7+ 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Norris, Alan"]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2285"]
+[BlackElo "2515"]
+[PlyCount "0"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+ 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Shaw, John Kerr"]
+[Black "Gormally, Daniel"]
+[Result "0-1"]
+[ECO "B26"]
+[WhiteElo "2390"]
+[BlackElo "2425"]
+[PlyCount "78"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Qd2 b5 8. f4 b4
+9. Nd1 e6 10. e5 Nge7 11. Nf3 Nf5 12. Bf2 O-O 13. Ng5 Bb7 14. O-O dxe5 15. Bxc5
+Re8 16. Ne4 exf4 17. Qxf4 Ncd4 18. Bxd4 Qxd4+ 19. Kh1 h5 20. Qf2 Qxf2 21. Rxf2
+Red8 22. Nd2 Bd5 23. Bxd5 exd5 24. Nb3 Re8 25. Kg2 Re1 26. Kf3 Rbe8 27. c3 a5
+28. cxb4 axb4 29. Rc1 Bh6 30. Ra1 Rg1 31. Re2 Rxe2 32. Kxe2 Rg2+ 33. Kf3 Rxh2
+34. Nf2 Be3 35. Rf1 Bb6 36. a4 bxa3 37. bxa3 g5 38. a4 g4+ 39. Kf4 Ne3 0-1
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Smith, Alan A"]
+[Black "Brooke, John"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2225"]
+[BlackElo "2175"]
+[PlyCount "59"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Ngf6 5. O-O cxd4 6. Qxd4 e6 7. c4 Be7 8.
+Bxd7+ Bxd7 9. Nc3 O-O 10. Bg5 Qc7 11. Rac1 a6 12. Rfd1 Rfd8 13. b3 Be8 14. Qd2
+Kh8 15. Be3 Ng4 16. Bf4 Qc5 17. h3 Ne5 18. Nd4 Ng6 19. Be3 Qh5 20. f4 Bf6 21.
+Rf1 Bc6 22. f5 Nf8 23. Rf3 Be5 24. Nxc6 bxc6 25. g4 Qh4 26. Bg5 Bd4+ 27. Kg2
+Bxc3 28. Rfxc3 Qxg5 29. Qxg5 f6 30. Qd2 1-0
+
+[Event "Manchester Int"]
+[Site "Manchester"]
+[Date "1997.09.02"]
+[Round "9"]
+[White "Tippleston, Charles"]
+[Black "Roktim, Bandopadha"]
+[Result "0-1"]
+[ECO "B06"]
+[BlackElo "2275"]
+[PlyCount "90"]
+[EventDate "1997.08.25"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.info"]
+[SourceDate "2021.07.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.07.30"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 c6 5. Qd2 Qa5 6. h4 Nf6 7. f3 h5 8. Bd3
+Nbd7 9. Nge2 e5 10. O-O O-O 11. Kh1 Kh7 12. Ng1 d5 13. exd5 Nxd5 14. Nxd5 Qxd2
+15. Bxd2 cxd5 16. dxe5 Nxe5 17. Bc3 Nxd3 18. Bxg7 Kxg7 19. cxd3 Bf5 20. d4 Rac8
+21. Rac1 Rc4 22. Rxc4 dxc4 23. Rd1 Rd8 24. Ne2 Bd3 25. Nc1 Rxd4 26. Kg1 Kf6 27.
+Nxd3 Rxd3 28. Rc1 b5 29. a4 a6 30. axb5 axb5 31. Rc2 Ke5 32. Kf2 Kd5 33. Kg3 b4
+34. Kf4 b3 35. Re2 c3 36. bxc3 Rxc3 37. Re7 Rc4+ 38. Kg5 Rb4 39. Rxf7 Ke6 40.
+Kxg6 b2 41. Rf6+ Kd7 42. Kxh5 b1=Q 43. g4 Qh7+ 44. Kg5 Qg7+ 45. Rg6 Rb5+ 0-1
+

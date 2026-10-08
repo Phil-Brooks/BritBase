@@ -1,0 +1,2762 @@
+[
+  {
+    "Year": 1990,
+    "Name": "Hastings Masters",
+    "Winner": "(scheveningen)",
+    "StartDate": "1990.01.09",
+    "EndDate": "1990.01.18",
+    "GamesCount": "see the 1989/90 Hastings file",
+    "DateUpdated": "",
+    "PgnFileName": "198912hast.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "Midland Championship",
+    "Winner": "Mark Hebden",
+    "StartDate": "1990.03.23",
+    "EndDate": "1990.03.25",
+    "GamesCount": "75",
+    "DateUpdated": "2022.11.28",
+    "PgnFileName": "199003mccu.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "Oakham Young Masters",
+    "Winner": "Ilan Manor",
+    "StartDate": "1990.03.28",
+    "EndDate": "1990.04.05",
+    "GamesCount": "215",
+    "DateUpdated": "2023.07.03",
+    "PgnFileName": "199003oakham.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "Watson, Farley & Williams",
+    "Winner": "Bent Larsen",
+    "StartDate": "1990.04.18",
+    "EndDate": "1990.05.03",
+    "GamesCount": "91",
+    "DateUpdated": "2023.07.03",
+    "PgnFileName": "199004londonwfw.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "GBR/IRL Zonal Blackpool",
+    "Winner": "Murray Chandler",
+    "StartDate": "1990.05.09",
+    "EndDate": "1990.05.20",
+    "GamesCount": "57",
+    "DateUpdated": "2025.10.02",
+    "PgnFileName": "199005blackpoolzt.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "GBR/IRL Women's Zonal",
+    "Winner": "Cathy Forbes",
+    "StartDate": "1990.05.13",
+    "EndDate": "1990.05.20",
+    "GamesCount": "28^",
+    "DateUpdated": "2025.10.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1990,
+    "Name": "Scottish Championship, Troon",
+    "Winner": "Steve R Mannion",
+    "StartDate": "1990.07.12",
+    "EndDate": "1990.07.20",
+    "GamesCount": "63",
+    "DateUpdated": "2025.10.06",
+    "PgnFileName": "199007scoch.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "GBR-ch 77th Eastbourne",
+    "Winner": "H Jim Plaskett",
+    "StartDate": "1990.07.30",
+    "EndDate": "1990.08.10",
+    "GamesCount": "300",
+    "DateUpdated": "2024.08.29",
+    "PgnFileName": "199007bcf.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "GBR-ch 77th other sections",
+    "Winner": "",
+    "StartDate": "1990.07.30",
+    "EndDate": "1990.08.10",
+    "GamesCount": "12^",
+    "DateUpdated": "2024.11.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1990,
+    "Name": "14th Lloyds Bank Masters",
+    "Winner": "Conquest, Adams, Sturua",
+    "StartDate": "1990.08.18",
+    "EndDate": "1990.08.27",
+    "GamesCount": "255+1",
+    "DateUpdated": "2023.05.28",
+    "PgnFileName": "199008lloyds.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "NatWest Young Masters",
+    "Winner": "Ravikumar",
+    "StartDate": "1990.08.29",
+    "EndDate": "1990.09.07",
+    "GamesCount": "45",
+    "DateUpdated": "2020.12.13",
+    "PgnFileName": "199008natwest.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "Isle of Man op (1990 & 1991)",
+    "Winner": "",
+    "StartDate": "1990 and 1991",
+    "EndDate": "16+1",
+    "GamesCount": "2024.12.20",
+    "DateUpdated": "",
+    "PgnFileName": "199008iom.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "40th Paignton Premier",
+    "Winner": "Keith Arkell",
+    "StartDate": "1990.09.02",
+    "EndDate": "1990.09.08",
+    "GamesCount": "19+3",
+    "DateUpdated": "2025.03.20",
+    "PgnFileName": "199009paignton.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "16th Guernsey Open",
+    "Winner": "Mark Hebden",
+    "StartDate": "1990.10.14",
+    "EndDate": "1990.10.20",
+    "GamesCount": "149",
+    "DateUpdated": "2026.09.15",
+    "PgnFileName": "199010guernsey.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "Guernsey Holiday Open",
+    "Winner": "A D Brown",
+    "StartDate": "1990.10.14",
+    "EndDate": "1990.10.19",
+    "GamesCount": "22^",
+    "DateUpdated": "2026.09.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1990,
+    "Name": "Hastings Premier",
+    "Winner": "Evgeny Bareev",
+    "StartDate": "1990.12.28",
+    "EndDate": "1991.01.13",
+    "GamesCount": "56",
+    "DateUpdated": "2024.07.22",
+    "PgnFileName": "199012hast.pgn"
+  },
+  {
+    "Year": 1990,
+    "Name": "Hastings Challengers",
+    "Winner": "Alexey Suetin",
+    "StartDate": "1990.12.28",
+    "EndDate": "1991.01.06",
+    "GamesCount": "102+2^",
+    "DateUpdated": "2024.07.22",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1990,
+    "Name": "Hastings other",
+    "Winner": "Hastings Index",
+    "StartDate": "1990.12",
+    "EndDate": "1991.01",
+    "GamesCount": "24^",
+    "DateUpdated": "2024.07.22",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1991,
+    "Name": "Midland Championship",
+    "Winner": "Mark Hebden",
+    "StartDate": "1991.03.22",
+    "EndDate": "1991.03.24",
+    "GamesCount": "81",
+    "DateUpdated": "2022.11.29",
+    "PgnFileName": "199103mccu.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "Dublin Open",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1991.03.23",
+    "EndDate": "1991.04.01",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1991,
+    "Name": "Civil Service Championship",
+    "Winner": "Charles Storey",
+    "StartDate": "1991.04",
+    "EndDate": "1991.04",
+    "GamesCount": "40",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199104civilservice.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "Watson, Farley & Williams",
+    "Winner": "Khalifman, Watson",
+    "StartDate": "1991.05.03",
+    "EndDate": "1991.05.17",
+    "GamesCount": "91",
+    "DateUpdated": "2026.01.26",
+    "PgnFileName": "199105londonwfw.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "British Women's Sub-Zonal",
+    "Winner": "Susan Arkell",
+    "StartDate": "1991.05.23",
+    "EndDate": "1991.05.27",
+    "GamesCount": "1+1",
+    "DateUpdated": "2026.04.23",
+    "PgnFileName": "199105womenzonal.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "Smith & W'n Young Masters",
+    "Winner": "Chris Ward",
+    "StartDate": "1991.07.15",
+    "EndDate": "1991.07.21",
+    "GamesCount": "66",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1991,
+    "Name": "GBR-ch 78th Eastbourne",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1991.07.29",
+    "EndDate": "1991.08.09",
+    "GamesCount": "267",
+    "DateUpdated": "2024.09.27",
+    "PgnFileName": "199107bcf.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "GBR-ch subsidiary events",
+    "Winner": "",
+    "StartDate": "1991.07.29",
+    "EndDate": "",
+    "GamesCount": "23^",
+    "DateUpdated": "2020.10.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1991,
+    "Name": "15th Lloyds Bank Masters",
+    "Winner": "Alexei Shirov",
+    "StartDate": "1991.08.17",
+    "EndDate": "1991.08.26",
+    "GamesCount": "206",
+    "DateUpdated": "2026.01.18",
+    "PgnFileName": "199108lloyds.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "41st Paignton Premier",
+    "Winner": "K Arkell, CW Baker",
+    "StartDate": "1991.09.01",
+    "EndDate": "1991.09.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1991,
+    "Name": "Greater Manchester Autumn",
+    "Winner": "five-way tie",
+    "StartDate": "1991.09.27",
+    "EndDate": "1991.09.29",
+    "GamesCount": "42",
+    "DateUpdated": "2024.04.05",
+    "PgnFileName": "199109manchester.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "17th Guernsey Open",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1991.10.13",
+    "EndDate": "1991.10.19",
+    "GamesCount": "171",
+    "DateUpdated": "2026.09.30",
+    "PgnFileName": "199110guernsey.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "20th Rochdale Open",
+    "Winner": "Jeff Horner",
+    "StartDate": "1991.10.19",
+    "EndDate": "1991.10.20",
+    "GamesCount": "84",
+    "DateUpdated": "2026.10.04",
+    "PgnFileName": "199110rochdale.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "Duncan Lawrie ENG-ch K.O.",
+    "Winner": "Nigel Short",
+    "StartDate": "1991.12.10",
+    "EndDate": "1991.12.19",
+    "GamesCount": "16+10",
+    "DateUpdated": "2026.01.26",
+    "PgnFileName": "199112engko.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "Hastings Premier",
+    "Winner": "Evgeny Bareev",
+    "StartDate": "1991.12.28",
+    "EndDate": "1992.01.13",
+    "GamesCount": "56",
+    "DateUpdated": "2025.01.20",
+    "PgnFileName": "199112hast.pgn"
+  },
+  {
+    "Year": 1991,
+    "Name": "Hastings Challengers",
+    "Winner": "Colin Crouch",
+    "StartDate": "1991.12.28",
+    "EndDate": "1992.01.05",
+    "GamesCount": "134^",
+    "DateUpdated": "2026.04.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1991,
+    "Name": "Hastings other",
+    "Winner": "Hastings Index",
+    "StartDate": "1991.12.28",
+    "EndDate": "1992.01",
+    "GamesCount": "25^",
+    "DateUpdated": "2026.04.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1992,
+    "Name": "Midland Championship",
+    "Winner": "Andrew Ledger",
+    "StartDate": "1992.03.20",
+    "EndDate": "1992.03.22",
+    "GamesCount": "81",
+    "DateUpdated": "2022.11.29",
+    "PgnFileName": "199203mccu.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Lancashire (Blackpool) Cong.",
+    "Winner": "Michael Adams",
+    "StartDate": "1992.03.20",
+    "EndDate": "1992.03.22",
+    "GamesCount": "81",
+    "DateUpdated": "2026.08.02",
+    "PgnFileName": "199203blackpool.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Oakham Young Masters",
+    "Winner": "Alexei Shirov",
+    "StartDate": "1992.03.24",
+    "EndDate": "1992.04.01",
+    "GamesCount": "233+1",
+    "DateUpdated": "2025.01.21",
+    "PgnFileName": "199203oakham.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Civil Service Championship",
+    "Winner": "Andrew Dunn",
+    "StartDate": "1992.04",
+    "EndDate": "1992.04",
+    "GamesCount": "45",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199204civilservice.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Welsh Championship",
+    "Winner": "John G Cooper",
+    "StartDate": "1992.04.17",
+    "EndDate": "1992.04.21",
+    "GamesCount": "144",
+    "DateUpdated": "2024.05.18",
+    "PgnFileName": "199204wls.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Walsall Kipping Jubilee Open",
+    "Winner": "Murray Chandler",
+    "StartDate": "1992.04.17",
+    "EndDate": "1992.04.20",
+    "GamesCount": "57",
+    "DateUpdated": "2026.03.29",
+    "PgnFileName": "199204walsall.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Bolton Easter Congress",
+    "Winner": "",
+    "StartDate": "1992.04.17",
+    "EndDate": "1992.04.19",
+    "GamesCount": "71",
+    "DateUpdated": "2026.03.29",
+    "PgnFileName": "199204bolton.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Gtr Manchester Open",
+    "Winner": "",
+    "StartDate": "1992.06.26",
+    "EndDate": "1992.06.28",
+    "GamesCount": "42",
+    "DateUpdated": "2026.06.03",
+    "PgnFileName": "199206manchester.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Gtr Manchester Major",
+    "Winner": "",
+    "StartDate": "1992.06.26",
+    "EndDate": "1992.06.28",
+    "GamesCount": "24^",
+    "DateUpdated": "2026.06.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1992,
+    "Name": "GBR-ch 79th Plymouth",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1992.08.03",
+    "EndDate": "1992.08.14",
+    "GamesCount": "222",
+    "DateUpdated": "2020.10.09",
+    "PgnFileName": "199208bcf.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "GBR-ch Major Open",
+    "Winner": "Lawrence Cooper",
+    "StartDate": "1992.08.03",
+    "EndDate": "1992.02.14",
+    "GamesCount": "11^",
+    "DateUpdated": "2020.10.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1992,
+    "Name": "16th Lloyds Bank Masters",
+    "Winner": "J Speelman, G Timoshchenko",
+    "StartDate": "1992.08.22",
+    "EndDate": "1992.08.31",
+    "GamesCount": "209",
+    "DateUpdated": "2023.12.28",
+    "PgnFileName": "199208lloyds.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "42nd Paignton Premier",
+    "Winner": "Keith Arkell",
+    "StartDate": "1992.09",
+    "EndDate": "1992.09",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1992,
+    "Name": "Isle of Man",
+    "Winner": "Colin McNab",
+    "StartDate": "1992.09",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2017.08.23",
+    "PgnFileName": "199209iom.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Guernsey Open 18th",
+    "Winner": "six-way tie",
+    "StartDate": "1992.10.18",
+    "EndDate": "1992.10.24",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1992,
+    "Name": "Hastings Premier",
+    "Winner": "J Polgar, E Bareev",
+    "StartDate": "1992.12.28",
+    "EndDate": "1993.01.13",
+    "GamesCount": "56",
+    "DateUpdated": "2026.03.24",
+    "PgnFileName": "199212hast.pgn"
+  },
+  {
+    "Year": 1992,
+    "Name": "Hastings Challengers",
+    "Winner": "R Sherbakov",
+    "StartDate": "1992.12.28",
+    "EndDate": "1993.01.07",
+    "GamesCount": "148^",
+    "DateUpdated": "2026.03.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1992,
+    "Name": "Hastings other",
+    "Winner": "Hastings Index",
+    "StartDate": "1992.12.28",
+    "EndDate": "1993.01.13",
+    "GamesCount": "38^",
+    "DateUpdated": "2026.09.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "Rolls Royce Crewe Open",
+    "Winner": "Matthew Sadler",
+    "StartDate": "1993.02.12",
+    "EndDate": "1993.02.14",
+    "GamesCount": "43",
+    "DateUpdated": "2023.10.02",
+    "PgnFileName": "199302crewe.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Midland Championship",
+    "Winner": "Arkell, Flear, A Ledger",
+    "StartDate": "1993.03.19",
+    "EndDate": "1993.03.21",
+    "GamesCount": "97",
+    "DateUpdated": "2022.11.29",
+    "PgnFileName": "199303mccu.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Dublin Zonal",
+    "Winner": "Michael Adams",
+    "StartDate": "1993.04.01",
+    "EndDate": "1993.04.12",
+    "GamesCount": "308",
+    "DateUpdated": "2023.10.12",
+    "PgnFileName": "199304dublinzt.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Welsh Championship",
+    "Winner": "John Cooper, Howard Williams",
+    "StartDate": "1993.04.09",
+    "EndDate": "1993.04.13",
+    "GamesCount": "10",
+    "DateUpdated": "2026.09.20",
+    "PgnFileName": "199304wlsch.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Civil Service Championship",
+    "Winner": "John Tolan",
+    "StartDate": "1993.04",
+    "EndDate": "1993.04",
+    "GamesCount": "50",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199304civilservice.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Oakham Masters",
+    "Winner": "Vlad Tkachiev",
+    "StartDate": "1993.04",
+    "EndDate": "",
+    "GamesCount": "45",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "Morecambe Open",
+    "Winner": "James C Howell",
+    "StartDate": "1993.05.29",
+    "EndDate": "1993.05.31",
+    "GamesCount": "117",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": "199305morecambe.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Morecambe Major",
+    "Winner": "Jeff Glass",
+    "StartDate": "1993.05.29",
+    "EndDate": "1993.05.31",
+    "GamesCount": "45^",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "GBR-ch 80th Dundee",
+    "Winner": "Hennigan, Kumaran",
+    "StartDate": "1993.08.02",
+    "EndDate": "1993.08.13",
+    "GamesCount": "230",
+    "DateUpdated": "2022.07.14",
+    "PgnFileName": "199308bcf.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "GBR-ch play-off",
+    "Winner": "Michael Hennigan",
+    "StartDate": "1993.09.08",
+    "EndDate": "1993.09.13",
+    "GamesCount": "4^",
+    "DateUpdated": "2021.07.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "GBR Major Open",
+    "Winner": "Matthew Piper",
+    "StartDate": "1993.08.02",
+    "EndDate": "1993.08.13",
+    "GamesCount": "204+224^",
+    "DateUpdated": "2026.09.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "GBR other",
+    "Winner": "",
+    "StartDate": "1993.08.02",
+    "EndDate": "1993.08.13",
+    "GamesCount": "58^",
+    "DateUpdated": "2026.09.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "1st London SCCU Int'l",
+    "Winner": "Varugeese Koshy",
+    "StartDate": "1993.08.16",
+    "EndDate": "1994.08.19",
+    "GamesCount": "160",
+    "DateUpdated": "2026.07.26",
+    "PgnFileName": "199308sccu.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "17th Lloyds Bank Masters",
+    "Winner": "Jon Speelman",
+    "StartDate": "1993.08.21",
+    "EndDate": "1993.08.30",
+    "GamesCount": "530+2",
+    "DateUpdated": "2025.11.11",
+    "PgnFileName": "199308lloyds.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "43rd Paignton Premier",
+    "Winner": "Gary W Lane",
+    "StartDate": "1993.09.06",
+    "EndDate": "1993.09.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "Isle of Man",
+    "Winner": "D Kumaran",
+    "StartDate": "1993.09.18",
+    "EndDate": "1993.09.26",
+    "GamesCount": "175",
+    "DateUpdated": "2017.08.23",
+    "PgnFileName": "199309iom.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "4NCL 1993/94 (see May 1994)",
+    "Winner": "",
+    "StartDate": "1993.10.02",
+    "EndDate": "1994.05.08",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "19th Guernsey Open",
+    "Winner": "Robert Bellin",
+    "StartDate": "1993.10.17",
+    "EndDate": "1993.10.23",
+    "GamesCount": "88",
+    "DateUpdated": "2026.09.09",
+    "PgnFileName": "199310guernsey.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Guernsey other",
+    "Winner": "",
+    "StartDate": "1993.10.17",
+    "EndDate": "1993.10.23",
+    "GamesCount": "22^",
+    "DateUpdated": "2026.09.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1993,
+    "Name": "Hastings Premier",
+    "Winner": "John Nunn",
+    "StartDate": "1993.12.29",
+    "EndDate": "1994.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2025.11.19",
+    "PgnFileName": "199312hast.pgn"
+  },
+  {
+    "Year": 1993,
+    "Name": "Hastings Challengers",
+    "Winner": "Miron Sher",
+    "StartDate": "1993.12.29",
+    "EndDate": "1994.01.06",
+    "GamesCount": "131^",
+    "DateUpdated": "Hastings",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "Oakham Masters",
+    "Winner": "(Scheveningen)",
+    "StartDate": "1994.02",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "1st CafÃ© Baroque, Simpsons",
+    "Winner": "Neil McDonald",
+    "StartDate": "1994.02.12",
+    "EndDate": "1994.02.20",
+    "GamesCount": "45/45",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199402cafebaroque.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "2nd CafÃ© Baroque",
+    "Winner": "Neil McDonald",
+    "StartDate": "1994.03.09",
+    "EndDate": "1994.03.13",
+    "GamesCount": "45/45",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199403cafebaroque.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Midland Championship",
+    "Winner": "Mark Hebden",
+    "StartDate": "1994.03.18",
+    "EndDate": "1994.03.20",
+    "GamesCount": "102",
+    "DateUpdated": "2022.12.10",
+    "PgnFileName": "199403mccu.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Civil Service Championship",
+    "Winner": "John Tolan",
+    "StartDate": "1994.04",
+    "EndDate": "1994.04",
+    "GamesCount": "45",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199404civilservice.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "20th Surrey Open",
+    "Winner": "Mike Basman",
+    "StartDate": "1994.04.01",
+    "EndDate": "1994.04.04",
+    "GamesCount": "63",
+    "DateUpdated": "2025.11.09",
+    "PgnFileName": "199404surrey.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Surrey other",
+    "Winner": "",
+    "StartDate": "1994.04.01",
+    "EndDate": "1994.04.04",
+    "GamesCount": "41^",
+    "DateUpdated": "2025.11.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "Welsh Championship",
+    "Winner": "John G Cooper, AH Williams",
+    "StartDate": "1994.04.01",
+    "EndDate": "1994.04.04",
+    "GamesCount": "62",
+    "DateUpdated": "2024.05.17",
+    "PgnFileName": "199404wls.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "4NCL League, 1993/4",
+    "Winner": "Invicta Knights",
+    "StartDate": "1993.10.02",
+    "EndDate": "1994.05.08",
+    "GamesCount": "208/240",
+    "DateUpdated": "2021.08.19",
+    "PgnFileName": "199394-4ncl.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Morecambe Open",
+    "Winner": "Mike Surtees",
+    "StartDate": "1994.05.28",
+    "EndDate": "1994.05.30",
+    "GamesCount": "103",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": "199405morecambe.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Morecambe Major",
+    "Winner": "Paul Kelly",
+    "StartDate": "1994.05.28",
+    "EndDate": "1994.05.30",
+    "GamesCount": "53^",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "3rd CafÃ© Baroque",
+    "Winner": "Neil McDonald",
+    "StartDate": "1994.06.30",
+    "EndDate": "1994.07.05",
+    "GamesCount": "9/45",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199406cafebaroque.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "GBR-ch 81st Norwich",
+    "Winner": "William Watson",
+    "StartDate": "1994.08.01",
+    "EndDate": "1994.08.12",
+    "GamesCount": "236",
+    "DateUpdated": "2023.02.25",
+    "PgnFileName": "199408bcf.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "GBR-ch subsidiary sections",
+    "Winner": "",
+    "StartDate": "1994.08.01",
+    "EndDate": "1994.08.12",
+    "GamesCount": "131^",
+    "DateUpdated": "2021.07.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "Lloyds Bank Masters 18th",
+    "Winner": "Alex'r Morozevich",
+    "StartDate": "1994.08.20",
+    "EndDate": "1994.08.29",
+    "GamesCount": "781",
+    "DateUpdated": "2023.02.25",
+    "PgnFileName": "199408lloyds.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "44th Paignton Premier",
+    "Winner": "Keith Arkell",
+    "StartDate": "1994.09.04",
+    "EndDate": "1994.09.10",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "Isle of Man",
+    "Winner": "Bogdan Lalic",
+    "StartDate": "1994.09.17",
+    "EndDate": "1994.09.25",
+    "GamesCount": "260",
+    "DateUpdated": "2017.08.23",
+    "PgnFileName": "199409iom.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "4NCL 1994/95 (See May 1995)",
+    "Winner": "",
+    "StartDate": "1994.10",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "Burlington Staunton Int",
+    "Winner": "Neil McDonald",
+    "StartDate": "1994.10",
+    "EndDate": "1994.10",
+    "GamesCount": "102/115",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199410burlington.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "20th Guernsey Open",
+    "Winner": "J Hodgson, J Howell, B Lalic",
+    "StartDate": "1994.10.16",
+    "EndDate": "1994.10.22",
+    "GamesCount": "315?",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1994,
+    "Name": "1st Owens Corning, Wrexham",
+    "Winner": "Nigel Davies",
+    "StartDate": "1994.10.18",
+    "EndDate": "1994.10.26",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.23",
+    "PgnFileName": "199410wrexham.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Richmond Chess Initiative",
+    "Winner": "K Berg, D Agnos",
+    "StartDate": "1994.10.23",
+    "EndDate": "1994.10.24",
+    "GamesCount": "45",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199410richmond.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Vera Menchik Memorial, Maidstone",
+    "Winner": "Jonathan Levitt",
+    "StartDate": "1994.10.24",
+    "EndDate": "1994.10.30",
+    "GamesCount": "99",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199410maidstonemenchik.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "4th CafÃ© Baroque",
+    "Winner": "Neil McDonald",
+    "StartDate": "1994.11.18",
+    "EndDate": "1994.11.22",
+    "GamesCount": "45",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199411cafebaroque.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "1st St Peters de Beauvoir",
+    "Winner": "Benjamin Martin",
+    "StartDate": "1994.12",
+    "EndDate": "1994.12",
+    "GamesCount": "45",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199412stpeters.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Hastings Premier",
+    "Winner": "Thomas Luther",
+    "StartDate": "1994.12.28",
+    "EndDate": "1995.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2026.03.24",
+    "PgnFileName": "199412hast.pgn"
+  },
+  {
+    "Year": 1994,
+    "Name": "Hastings Challengers",
+    "Winner": "Conquest, Bronstein, Sherbakov, Yakovich",
+    "StartDate": "1994.12.28",
+    "EndDate": "1995.01.05",
+    "GamesCount": "120+7^",
+    "DateUpdated": "2026.03.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Midland Championship",
+    "Winner": "C Duncan, A Ledger",
+    "StartDate": "1995.03.24",
+    "EndDate": "1995.03.26",
+    "GamesCount": "95",
+    "DateUpdated": "2022.12.10",
+    "PgnFileName": "199503mccu.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Welsh Championship",
+    "Winner": "John G Cooper",
+    "StartDate": "1995.04",
+    "EndDate": "",
+    "GamesCount": "85",
+    "DateUpdated": "1998.09.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "4NCL League, 1994/5",
+    "Winner": "Midland Monarchs",
+    "StartDate": "1994.10.01",
+    "EndDate": "1995.05.20",
+    "GamesCount": "445/528",
+    "DateUpdated": "2022.12.23",
+    "PgnFileName": "199495-4ncl.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Civil Service Championship",
+    "Winner": "Tony Ashby",
+    "StartDate": "1995.04",
+    "EndDate": "1995.04",
+    "GamesCount": "50",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199504civilservice.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "5th CafÃ© Baroque",
+    "Winner": "Andrew Whiteley",
+    "StartDate": "1995.04.18",
+    "EndDate": "1995.04.22",
+    "GamesCount": "45/45",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199504cafebaroque.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "2nd St Peters de Beauvoir",
+    "Winner": "Neil McDonald",
+    "StartDate": "1995.04.30",
+    "EndDate": "1995.05.14",
+    "GamesCount": "18+2/120",
+    "DateUpdated": "2023.06.04",
+    "PgnFileName": "199504stpeters.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Tyneside International",
+    "Winner": "Jonathan Rowson",
+    "StartDate": "1995.05",
+    "EndDate": "",
+    "GamesCount": "45",
+    "DateUpdated": "1998.10.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Morecambe Open",
+    "Winner": "M Hebden, K Arkell",
+    "StartDate": "1995.05.27",
+    "EndDate": "1995.05.29",
+    "GamesCount": "94",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": "199505morecambe.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Morecambe Major",
+    "Winner": "five-way tie",
+    "StartDate": "1995.05.27",
+    "EndDate": "1995.05.29",
+    "GamesCount": "124^",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Hastings Centenary Masters",
+    "Winner": "Suat Atalik",
+    "StartDate": "1995.08.20",
+    "EndDate": "1995.08.27",
+    "GamesCount": "387+6",
+    "DateUpdated": "2025.01.28",
+    "PgnFileName": "199508hastcent.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Hastings Centenary other",
+    "Winner": "",
+    "StartDate": "1995.08.20",
+    "EndDate": "1995.08.27",
+    "GamesCount": "12^",
+    "DateUpdated": "2025.01.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Hastings Intel GP Qualifier",
+    "Winner": "Eric Lobron",
+    "StartDate": "1995.08.28",
+    "EndDate": "1995.08.29",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "GBR-ch 82nd Swansea",
+    "Winner": "Matthew Sadler",
+    "StartDate": "1995.07.31",
+    "EndDate": "1995.08.11",
+    "GamesCount": "229",
+    "DateUpdated": "2021.08.03",
+    "PgnFileName": "199508bcf.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "GBR-ch subsidiary events",
+    "Winner": "",
+    "StartDate": "1995.07.31",
+    "EndDate": "1995.08.11",
+    "GamesCount": "21^",
+    "DateUpdated": "2024.07.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "3rd London SCCU Int'l",
+    "Winner": "Russell Dive",
+    "StartDate": "1995.08.14",
+    "EndDate": "1995.08.19",
+    "GamesCount": "139",
+    "DateUpdated": "1998.09.05",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Intel World GP Rapid",
+    "Winner": "Michael Adams",
+    "StartDate": "1995.08.31",
+    "EndDate": "1995.09.04",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Tyneside Int'l, Newcastle",
+    "Winner": "(scheveningen)",
+    "StartDate": "1995.09.01",
+    "EndDate": "1995.09.05",
+    "GamesCount": "81",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "45th Paignton Premier",
+    "Winner": "Graeme Buckley, Keith Arkell",
+    "StartDate": "1995.09.03",
+    "EndDate": "1995.09.09",
+    "GamesCount": "111",
+    "DateUpdated": "2023.06.09",
+    "PgnFileName": "199509paignton.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Richmond Chess Initiative",
+    "Winner": "Simon Williams",
+    "StartDate": "1995.10.21",
+    "EndDate": "1995.10.29",
+    "GamesCount": "45",
+    "DateUpdated": "1999.01.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Monarch Assurance Isle of Man",
+    "Winner": "Baburin, Hodgson, Miles, Milov, Sadler",
+    "StartDate": "1995.10.07",
+    "EndDate": "1995.10.15",
+    "GamesCount": "248",
+    "DateUpdated": "2017.08.23",
+    "PgnFileName": "199510iom.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "21st Guernsey Open",
+    "Winner": "Baum, Botham, Gregg, Lieb, Lyell",
+    "StartDate": "1995.10.15",
+    "EndDate": "1995.10.21",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "2nd Owens Corning",
+    "Winner": "James C Howell",
+    "StartDate": "1995.10.18",
+    "EndDate": "1995.10.26",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.24",
+    "PgnFileName": "199510wrexham.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "3rd Tyneside International",
+    "Winner": "N McDonald, T Wall",
+    "StartDate": "1995.12.16",
+    "EndDate": "1995.12.22",
+    "GamesCount": "45",
+    "DateUpdated": "2020.09.27",
+    "PgnFileName": "199512tyneside.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Hastings Premier",
+    "Winner": "Conquest, Khalifman, B Lalic",
+    "StartDate": "1995.12.28",
+    "EndDate": "1996.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2025.02.05",
+    "PgnFileName": "199512hast.pgn"
+  },
+  {
+    "Year": 1995,
+    "Name": "Hastings Challengers",
+    "Winner": "Mark Hebden",
+    "StartDate": "1995.12.28",
+    "EndDate": "1996.01.07",
+    "GamesCount": "356^",
+    "DateUpdated": "2025.02.05",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1995,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1995.12.28",
+    "EndDate": "1996.01.07",
+    "GamesCount": "1^",
+    "DateUpdated": "Hastings",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1996,
+    "Name": "Civil Service Championship",
+    "Winner": "D Wolstencroft",
+    "StartDate": "1996.04",
+    "EndDate": "1996.04",
+    "GamesCount": "45",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199604civilservice.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Welsh Championship",
+    "Winner": "David Cummings",
+    "StartDate": "1996.04.05",
+    "EndDate": "1996.04.08",
+    "GamesCount": "85",
+    "DateUpdated": "2026.06.21",
+    "PgnFileName": "199604wls.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "7th East Kilbride Open",
+    "Winner": "J Rowson, J Hodgson",
+    "StartDate": "1996.04.26",
+    "EndDate": "1996.04.26",
+    "GamesCount": "63+1",
+    "DateUpdated": "2026.09.28",
+    "PgnFileName": "199604eastkilbride.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "4NCL, 1995/96",
+    "Winner": "Slough",
+    "StartDate": "1995.11.25",
+    "EndDate": "1996.05.27",
+    "GamesCount": "278+2/728",
+    "DateUpdated": "2024.09.17",
+    "PgnFileName": "199596-4ncl.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Morecambe Open",
+    "Winner": "Keith Arkell",
+    "StartDate": "1996.05.25",
+    "EndDate": "1996.05.27",
+    "GamesCount": "86",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": "199605morecambe.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Morecambe Major",
+    "Winner": "Mike Kobylka",
+    "StartDate": "1996.05.25",
+    "EndDate": "1996.05.27",
+    "GamesCount": "99^",
+    "DateUpdated": "2026.02.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1996,
+    "Name": "1st Sheffield International",
+    "Winner": "Ben Martin",
+    "StartDate": "1996.06.17",
+    "EndDate": "1996.06.21",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.22",
+    "PgnFileName": "199606sheffield.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Chess Events 1st London",
+    "Winner": "John Richardson",
+    "StartDate": "1996.06.24",
+    "EndDate": "1996.07.04",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.22",
+    "PgnFileName": "199606chessevents.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "103rd SCO-ch Oban",
+    "Winner": "Douglas Bryson",
+    "StartDate": "1996.07.06",
+    "EndDate": "1996.07.14",
+    "GamesCount": "63",
+    "DateUpdated": "2026.09.22",
+    "PgnFileName": "199607scoch.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "6th Smith & Williamson YM",
+    "Winner": "Matthew Turner",
+    "StartDate": "1996.07.19",
+    "EndDate": "1996.07.29",
+    "GamesCount": "66",
+    "DateUpdated": "2026.09.24",
+    "PgnFileName": "199607swym.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "GBR-ch 83rd Nottingham",
+    "Winner": "Chris Ward",
+    "StartDate": "1996.08.05",
+    "EndDate": "1996.08.16",
+    "GamesCount": "213",
+    "DateUpdated": "2021.08.18",
+    "PgnFileName": "199608bcf.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "GBR-ch subsidiary events",
+    "Winner": "",
+    "StartDate": "1996.08.05",
+    "EndDate": "1996.08.16",
+    "GamesCount": "44^",
+    "DateUpdated": "2024.07.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1996,
+    "Name": "4th London SCCU Int'l",
+    "Winner": "Richard Bates",
+    "StartDate": "1996.08.19",
+    "EndDate": "1996.08.27",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1996,
+    "Name": "1st Northumbrian Masters",
+    "Winner": "Leon Pliester",
+    "StartDate": "1996.08.28",
+    "EndDate": "1996.09.01",
+    "GamesCount": "99+1",
+    "DateUpdated": "2020.09.27",
+    "PgnFileName": "199608northumbrian.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "46th Paignton Premier",
+    "Winner": "Gary Lane",
+    "StartDate": "1996.09.01",
+    "EndDate": "1996.09.07",
+    "GamesCount": "106+1",
+    "DateUpdated": "2023.06.22",
+    "PgnFileName": "199609paignton.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "33rd Hull Open",
+    "Winner": "A Summerscale",
+    "StartDate": "1996.09.13",
+    "EndDate": "1996.09.15",
+    "GamesCount": "53",
+    "DateUpdated": "2026.09.23",
+    "PgnFileName": "199609hull.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Isle of Man",
+    "Winner": "V Tkachiev",
+    "StartDate": "1996.10.05",
+    "EndDate": "1996.10.13",
+    "GamesCount": "101",
+    "DateUpdated": "2017.08.22",
+    "PgnFileName": "199610iom.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "3rd Owens Corning",
+    "Winner": "Chris Ward",
+    "StartDate": "1996.10.16",
+    "EndDate": "1996.10.24",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.24",
+    "PgnFileName": "199610wrexham.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "22nd Guernsey Open",
+    "Winner": "Denis Paillard (t/b)",
+    "StartDate": "1996.10.20",
+    "EndDate": "1996.10.26",
+    "GamesCount": "136",
+    "DateUpdated": "2026.09.26",
+    "PgnFileName": "199610guernsey.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Coulsdon International",
+    "Winner": "Naylor, Van Mil",
+    "StartDate": "1996.10.21",
+    "EndDate": "1996.10.27",
+    "GamesCount": "0",
+    "DateUpdated": "2026.09.27",
+    "PgnFileName": "199610coulsdon.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Rowson v Arkell, London",
+    "Winner": "Rowson 4-2",
+    "StartDate": "1996.12.14",
+    "EndDate": "1996.12.19",
+    "GamesCount": "6",
+    "DateUpdated": "2024.07.05",
+    "PgnFileName": "199612edinburgh.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "1st Caledonian Masters, Edinburgh",
+    "Winner": "Mark Ferguson",
+    "StartDate": "1996.12.15",
+    "EndDate": "1996.12.19",
+    "GamesCount": "45^",
+    "DateUpdated": "2024.07.05",
+    "PgnFileName": "199612edinburgh.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Hastings Premier",
+    "Winner": "Rozentalis, Hebden, Nunn",
+    "StartDate": "1996.12.28",
+    "EndDate": "1997.01.12",
+    "GamesCount": "45",
+    "DateUpdated": "2026.03.04",
+    "PgnFileName": "199612hast.pgn"
+  },
+  {
+    "Year": 1996,
+    "Name": "Hastings Challengers",
+    "Winner": "Igor Rausis",
+    "StartDate": "1996.12.28",
+    "EndDate": "1997.01.05",
+    "GamesCount": "122^",
+    "DateUpdated": "2026.07.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1996,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1996.12.28",
+    "EndDate": "",
+    "GamesCount": "9^",
+    "DateUpdated": "2026.03.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Jersey Open",
+    "Winner": "Webster",
+    "StartDate": "1997.02.16",
+    "EndDate": "1997.02.22",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Cardiff Masters",
+    "Winner": "James Cobb",
+    "StartDate": "1997.02.17",
+    "EndDate": "1997.02.21",
+    "GamesCount": "45",
+    "DateUpdated": "2022.12.27",
+    "PgnFileName": "199702cardiff.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "Hodgson-Rowson Match, Rotherham",
+    "Winner": "Hodgson 3Â½-2Â½",
+    "StartDate": "1997.03.17",
+    "EndDate": "1997.03.23",
+    "GamesCount": "6",
+    "DateUpdated": "2024.07.06",
+    "PgnFileName": "199703carlton.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "Carlton Park Rotherham",
+    "Winner": "J Aagaard, J Shaw",
+    "StartDate": "1997.03.17",
+    "EndDate": "1997.03.21",
+    "GamesCount": "45^",
+    "DateUpdated": "2024.07.06",
+    "PgnFileName": "199703carlton.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "Staffs Centenary Walsall",
+    "Winner": "(Scheveningen)",
+    "StartDate": "1997.03.28",
+    "EndDate": "1997.04.05",
+    "GamesCount": "81",
+    "DateUpdated": "2024.01.02",
+    "PgnFileName": "199703staffs.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "Welsh Championship",
+    "Winner": "David H Cummings",
+    "StartDate": "1997.03.28",
+    "EndDate": "",
+    "GamesCount": "79",
+    "DateUpdated": "1998.09.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Civil Service Championship",
+    "Winner": "Andrew Ledger",
+    "StartDate": "1997.04",
+    "EndDate": "1997.04",
+    "GamesCount": "50",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199704civilservice.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "4NCL League, 1996/7",
+    "Winner": "Midland Monarchs",
+    "StartDate": "1996.10.19",
+    "EndDate": "1997.04.27",
+    "GamesCount": "865",
+    "DateUpdated": "2024.09.19",
+    "PgnFileName": "199697-4ncl.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "8th East Kilbride Open",
+    "Winner": "Fritz4",
+    "StartDate": "1997.05.02",
+    "EndDate": "1997.05.04",
+    "GamesCount": "63",
+    "DateUpdated": "2026.09.28",
+    "PgnFileName": "199705eastkilbride.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "South Wales Invitation",
+    "Winner": "Leighton Williams",
+    "StartDate": "1997.05.10",
+    "EndDate": "1997.05.18",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.28",
+    "PgnFileName": "199705southwales.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "Coulsdon International",
+    "Winner": "Neil McDonald",
+    "StartDate": "1997.05.24",
+    "EndDate": "1997.05.24",
+    "GamesCount": "45",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Agency Int'l, London",
+    "Winner": "McShane, Dunnington, Kachiani",
+    "StartDate": "1997.05.26",
+    "EndDate": "1997.06.01",
+    "GamesCount": "45",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Drury Lane GM, London",
+    "Winner": "John Emms",
+    "StartDate": "1997.06.16",
+    "EndDate": "1996.06.24",
+    "GamesCount": "45",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "SCA-ch Aviemore",
+    "Winner": "Douglas Bryson",
+    "StartDate": "1997.07",
+    "EndDate": "",
+    "GamesCount": "63",
+    "DateUpdated": "1997.08.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Newport Masters",
+    "Winner": "Jacob Aagaard",
+    "StartDate": "1997.07.07",
+    "EndDate": "",
+    "GamesCount": "45",
+    "DateUpdated": "1997.12.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Newport Rating Tourn",
+    "Winner": "DO Vaughan",
+    "StartDate": "1997.07.07",
+    "EndDate": "",
+    "GamesCount": "45^",
+    "DateUpdated": "1997.12.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Highgate Masters",
+    "Winner": "J Aagaard",
+    "StartDate": "1997.07.29",
+    "EndDate": "1997.08.02",
+    "GamesCount": "45",
+    "DateUpdated": "1997.12.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "2nd Northumbrian Masters",
+    "Winner": "Dibyendu Barua",
+    "StartDate": "1997.08.18",
+    "EndDate": "1997.08.23",
+    "GamesCount": "45",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Manchester International",
+    "Winner": "Barua, Bosch",
+    "StartDate": "1997.08.25",
+    "EndDate": "1997.09.02",
+    "GamesCount": "76+4",
+    "DateUpdated": "2022.12.27",
+    "PgnFileName": "199708manchester.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "GBR-ch 84th Hove",
+    "Winner": "Sadler, Adams, Emms",
+    "StartDate": "1997.08.04",
+    "EndDate": "1997.08.15",
+    "GamesCount": "251",
+    "DateUpdated": "2025.12.07",
+    "PgnFileName": "199708bcf.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "GBR-ch 84th play-off etc",
+    "Winner": "Sadler, Adams",
+    "StartDate": "1997.08.16",
+    "EndDate": "1997.08.16",
+    "GamesCount": "6^",
+    "DateUpdated": "2021.08.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "GBR-ch Major Open / U18 Ch",
+    "Winner": "R Rizouk / A Dyce",
+    "StartDate": "1997.08.04",
+    "EndDate": "1997.08.15",
+    "GamesCount": "171^",
+    "DateUpdated": "2024.08.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "GBR-ch other",
+    "Winner": "",
+    "StartDate": "1997.08.04",
+    "EndDate": "1997.08.15",
+    "GamesCount": "6^",
+    "DateUpdated": "2024.07.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "MCCU Centenary, Stoke",
+    "Winner": "Mark Hebden",
+    "StartDate": "1997.08.29",
+    "EndDate": "1997.09.06",
+    "GamesCount": "13+32",
+    "DateUpdated": "2026.09.22",
+    "PgnFileName": "199708mccu.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "47th Paignton Premier",
+    "Winner": "Chris W Baker",
+    "StartDate": "1997.08.31",
+    "EndDate": "1997.09.06",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Euro Team Cup Slough",
+    "Winner": "",
+    "StartDate": "1997.09.22",
+    "EndDate": "1997.09.24",
+    "GamesCount": "72",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Isle of Man",
+    "Winner": "Alex Baburin",
+    "StartDate": "1997.10.04",
+    "EndDate": "",
+    "GamesCount": "100",
+    "DateUpdated": "2017.08.22",
+    "PgnFileName": "199710iom.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "4th Owens Corning",
+    "Winner": "Andrew Kinsman",
+    "StartDate": "1997.10.14",
+    "EndDate": "1997.10.22",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.24",
+    "PgnFileName": "199710wrexham.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "23rd Guernsey Int'l",
+    "Winner": "Crouch, van Voorthuysen",
+    "StartDate": "1997.10.19",
+    "EndDate": "1997.10.25",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "1st Hampstead GM",
+    "Winner": "Jonathan Rowson",
+    "StartDate": "1997.10.18",
+    "EndDate": "1997.10.24",
+    "GamesCount": "45",
+    "DateUpdated": "1997.10.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "1st Hampstead IM",
+    "Winner": "Krzysztof Panczyk",
+    "StartDate": "1997.10.20",
+    "EndDate": "1997.10.24",
+    "GamesCount": "54",
+    "DateUpdated": "1997.10.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Manchester League Int'l",
+    "Winner": "Ovidiu-Doru Foisor",
+    "StartDate": "1997.11.03",
+    "EndDate": "1997.11.07",
+    "GamesCount": "2+3",
+    "DateUpdated": "2026.10.01",
+    "PgnFileName": "199711oldham.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "2nd Caledonian Masters",
+    "Winner": "Danny Gormally",
+    "StartDate": "1997.12.15",
+    "EndDate": "1997.12.19",
+    "GamesCount": "114",
+    "DateUpdated": "2000.02.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Rowson-Hillarp Persson",
+    "Winner": "Jonathan Rowson",
+    "StartDate": "1997.12.14",
+    "EndDate": "1997.12.18",
+    "GamesCount": "6^",
+    "DateUpdated": "2000.02.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Hastings Premier",
+    "Winner": "Matthew Sadler",
+    "StartDate": "1997.12.29",
+    "EndDate": "1998.01.07",
+    "GamesCount": "45",
+    "DateUpdated": "2026.03.15",
+    "PgnFileName": "199712hast.pgn"
+  },
+  {
+    "Year": 1997,
+    "Name": "Hastings Challengers",
+    "Winner": "Saltaev, Shipov",
+    "StartDate": "1997.12.29",
+    "EndDate": "1998.01.08",
+    "GamesCount": "103^",
+    "DateUpdated": "2026.03.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1997,
+    "Name": "Hastings other",
+    "Winner": "Hastings",
+    "StartDate": "1997.12.29",
+    "EndDate": "1998.01.11",
+    "GamesCount": "13^",
+    "DateUpdated": "2026.07.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Bunratty Masters",
+    "Winner": "McShane, Nunn",
+    "StartDate": "1998.02",
+    "EndDate": "",
+    "GamesCount": "96",
+    "DateUpdated": "1998.03.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Jersey Open",
+    "Winner": "Chris Ward",
+    "StartDate": "1998.02.22",
+    "EndDate": "1998.02.28",
+    "GamesCount": "135",
+    "DateUpdated": "2023.12.28",
+    "PgnFileName": "199802jersey.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Oxford",
+    "StartDate": "1998.03.07",
+    "EndDate": "1998.03.07",
+    "GamesCount": "8",
+    "DateUpdated": "Varsity matches",
+    "PgnFileName": "199803vars.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "2nd Hampstead GM",
+    "Winner": "Neil McDonald",
+    "StartDate": "1998.03.25",
+    "EndDate": "1998.03.29",
+    "GamesCount": "45",
+    "DateUpdated": "1998.03.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "2nd Hampstead IM",
+    "Winner": "Jacob Aagaard",
+    "StartDate": "1998.03.25",
+    "EndDate": "1998.03.29",
+    "GamesCount": "45^",
+    "DateUpdated": "1998.03.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "2nd Hampstead Rating",
+    "Winner": "Raoof, Lim",
+    "StartDate": "1998.03.25",
+    "EndDate": "1998.03.29",
+    "GamesCount": "45^",
+    "DateUpdated": "1998.03.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "24th Surrey Open (Sutton)",
+    "Winner": "Mark Hebden",
+    "StartDate": "1998.04.10",
+    "EndDate": "1998.04.13",
+    "GamesCount": "15",
+    "DateUpdated": "2026.02.04",
+    "PgnFileName": "199804surrey.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "Adams v Rowson match",
+    "Winner": "Adams 5-1",
+    "StartDate": "1998.04.16",
+    "EndDate": "1998.04.21",
+    "GamesCount": "6",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Welsh Championship",
+    "Winner": "Cummings, Dyce, Zeidler, G Morris",
+    "StartDate": "1998.04",
+    "EndDate": "",
+    "GamesCount": "75",
+    "DateUpdated": "1998.09.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Southend Open",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1998.04",
+    "EndDate": "",
+    "GamesCount": "251",
+    "DateUpdated": "2000.05.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "9th East Kilbride Open",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1998.05.01",
+    "EndDate": "1998.05.03",
+    "GamesCount": "73",
+    "DateUpdated": "2026.09.28",
+    "PgnFileName": "199805eastkilbride.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "1st South Wales Masters",
+    "Winner": "Andrew Webster",
+    "StartDate": "1998.05.02",
+    "EndDate": "1998.05.06",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.14",
+    "PgnFileName": "199805southwales.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "4NCL, Div.1 1997/8",
+    "Winner": "Midland Monarchs",
+    "StartDate": "1997.10",
+    "EndDate": "1998.05",
+    "GamesCount": "528",
+    "DateUpdated": "1998.06.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "4NCL, Div.2 1997/8",
+    "Winner": "Barbican II",
+    "StartDate": "1997.10",
+    "EndDate": "1998.05",
+    "GamesCount": "528",
+    "DateUpdated": "1998.06.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "2nd Agency Inter'l London",
+    "Winner": "Erik van den Doel",
+    "StartDate": "1998.06.15",
+    "EndDate": "1998.06.23",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.27",
+    "PgnFileName": "199806agency.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "Aintree Open (inc '97)",
+    "Winner": "Mark Hebden",
+    "StartDate": "1998.06",
+    "EndDate": "",
+    "GamesCount": "45",
+    "DateUpdated": "2006.05.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Scottish Ch Largs",
+    "Winner": "John Shaw",
+    "StartDate": "1998.07",
+    "EndDate": "",
+    "GamesCount": "63",
+    "DateUpdated": "1998.07.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Civil Service Championship",
+    "Winner": "Martin Walker",
+    "StartDate": "1998.07",
+    "EndDate": "1998.07",
+    "GamesCount": "50",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199804civilservice.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "2nd Newport Masters",
+    "Winner": "S Williams, R Bates",
+    "StartDate": "1998.07.06",
+    "EndDate": "1998.07.10",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.29",
+    "PgnFileName": "199807newport.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "Newport FIDE Rated",
+    "Winner": "Leighton Williams",
+    "StartDate": "1998.07.06",
+    "EndDate": "1998.07.10",
+    "GamesCount": "29+1^",
+    "DateUpdated": "2026.09.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Smith & W'son Young Masters",
+    "Winner": "Simon Ansell",
+    "StartDate": "1998.07.17",
+    "EndDate": "1998.07.25",
+    "GamesCount": "99",
+    "DateUpdated": "1998.07.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Smith & W'son FIDE Rated",
+    "Winner": "Justin Sarkar",
+    "StartDate": "1998.07.17",
+    "EndDate": "1998.07.25",
+    "GamesCount": "198",
+    "DateUpdated": "1998.09.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Irish Championship",
+    "Winner": "Colm Daly",
+    "StartDate": "1998.07",
+    "EndDate": "",
+    "GamesCount": "90",
+    "DateUpdated": "1998.08.06",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "GBR-ch 85th Torquay",
+    "Winner": "N Short, M Sadler",
+    "StartDate": "1998.07.27",
+    "EndDate": "1998.08.07",
+    "GamesCount": "287",
+    "DateUpdated": "2021.08.19",
+    "PgnFileName": "199808bcf.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "GBR-ch Play-Off",
+    "Winner": "Nigel Short",
+    "StartDate": "1998.08.08",
+    "EndDate": "1998.08.08",
+    "GamesCount": "2^",
+    "DateUpdated": "2021.08.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "GBR-ch Major Open",
+    "Winner": "R McFarland, M Simons",
+    "StartDate": "1998.07.27",
+    "EndDate": "1998.08.07",
+    "GamesCount": "205^",
+    "DateUpdated": "2026.10.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "GBR-ch Rapidplay 1",
+    "Winner": "Gavin Wall",
+    "StartDate": "1998.07.26",
+    "EndDate": "",
+    "GamesCount": "1^",
+    "DateUpdated": "2026.09.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "GBR-ch Junior Ch'ships",
+    "Winner": "various",
+    "StartDate": "1998.07.27",
+    "EndDate": "1998.08.07",
+    "GamesCount": "148",
+    "DateUpdated": "2026.10.03",
+    "PgnFileName": "199807bcfjunior.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "3rd Hampstead GM",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1998.08",
+    "EndDate": "",
+    "GamesCount": "120",
+    "DateUpdated": "1998.08.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "3rd Hampstead IM",
+    "Winner": "S Knott",
+    "StartDate": "1998.08",
+    "EndDate": "",
+    "GamesCount": "66^",
+    "DateUpdated": "1998.08.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "3rd Hampstead Rated",
+    "Winner": "Shevelev",
+    "StartDate": "1998.08",
+    "EndDate": "",
+    "GamesCount": "97^",
+    "DateUpdated": "1998.08.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "48th Paignton Premier",
+    "Winner": "Keith Arkell",
+    "StartDate": "1998.09.06",
+    "EndDate": "1998.09.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "3rd Holy City Int'l Newcastle",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1998.09.25",
+    "EndDate": "1998.10.02",
+    "GamesCount": "36",
+    "DateUpdated": "2026.09.27",
+    "PgnFileName": "199809newcastle.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "4th Hampstead GM",
+    "Winner": "Groszpeter, Pedersen",
+    "StartDate": "1998.10",
+    "EndDate": "",
+    "GamesCount": "45",
+    "DateUpdated": "1998.11.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "4th Hampstead IM",
+    "Winner": "Videki",
+    "StartDate": "1998.10",
+    "EndDate": "",
+    "GamesCount": "45^",
+    "DateUpdated": "1998.11.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "4th Hampstead Open",
+    "Winner": "A Summerscale",
+    "StartDate": "1998.10",
+    "EndDate": "",
+    "GamesCount": "42^",
+    "DateUpdated": "1998.11.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Southport",
+    "Winner": "Plaskett, J Littlewood",
+    "StartDate": "1998.10",
+    "EndDate": "",
+    "GamesCount": "45",
+    "DateUpdated": "2006.05.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "24th Guernsey International",
+    "Winner": "Krays, Plaskett",
+    "StartDate": "1998.10.18",
+    "EndDate": "1998.10.24",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Isle of Man",
+    "Winner": "N Short, E Sutovsky",
+    "StartDate": "1998.11.07",
+    "EndDate": "1998.11.15",
+    "GamesCount": "217",
+    "DateUpdated": "2017.08.22 web",
+    "PgnFileName": "199811iom.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "5th Owens Corning",
+    "Winner": "S Brynell, T Thorhallsson",
+    "StartDate": "1998.11.18",
+    "EndDate": "1998.11.26",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.24",
+    "PgnFileName": "199811wrexham.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "Kilkenny",
+    "Winner": "Conquest, McShane, B.Lalic",
+    "StartDate": "1998.11.27",
+    "EndDate": "1998.11.29",
+    "GamesCount": "105",
+    "DateUpdated": "1998.12.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Herts Open, Hitchin",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1998.12.05",
+    "EndDate": "1998.12.06",
+    "GamesCount": "38",
+    "DateUpdated": "2026.02.05",
+    "PgnFileName": "199812herts.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "Oxford GM-A",
+    "Winner": "Hodgson, Hector",
+    "StartDate": "1998.12.14",
+    "EndDate": "1998.12.23",
+    "GamesCount": "45",
+    "DateUpdated": "1998.12.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Oxford GM-B",
+    "Winner": "Barsov, Crouch",
+    "StartDate": "1998.12.14",
+    "EndDate": "1998.12.23",
+    "GamesCount": "45^",
+    "DateUpdated": "1998.12.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Oxford IM",
+    "Winner": "Harriet Hunt",
+    "StartDate": "1998.12.14",
+    "EndDate": "1998.12.23",
+    "GamesCount": "45^",
+    "DateUpdated": "1998.12.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Oxford Open",
+    "Winner": "Devereaux, Nyander, Rose",
+    "StartDate": "1998.12.14",
+    "EndDate": "1998.12.23",
+    "GamesCount": "73^",
+    "DateUpdated": "1998.12.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Hastings Premier",
+    "Winner": "Ivan Sokolov",
+    "StartDate": "1998.12.29",
+    "EndDate": "1999.01.07",
+    "GamesCount": "45",
+    "DateUpdated": "2026.03.24",
+    "PgnFileName": "199812hast.pgn"
+  },
+  {
+    "Year": 1998,
+    "Name": "Hastings Challengers",
+    "Winner": "Bischoff, B Lalic, Iuldachev",
+    "StartDate": "1998.12.29",
+    "EndDate": "1999.01.07",
+    "GamesCount": "124^",
+    "DateUpdated": "2026.03.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1998,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1998.12.29",
+    "EndDate": "1999.01.10",
+    "GamesCount": "24^",
+    "DateUpdated": "2026.07.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "12th Fulprint York Open",
+    "Winner": "Matthew Turner",
+    "StartDate": "1999.01.08",
+    "EndDate": "1999.01.10",
+    "GamesCount": "7",
+    "DateUpdated": "2026.09.27",
+    "PgnFileName": "199901york.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "2nd South Wales Masters",
+    "Winner": "Colin Crouch",
+    "StartDate": "1999.01.11",
+    "EndDate": "1999.01.15",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.14",
+    "PgnFileName": "199901southwales.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "Jersey Open",
+    "Winner": "T Hillarp Persson",
+    "StartDate": "1999.02.14",
+    "EndDate": "1999.02.20",
+    "GamesCount": "203",
+    "DateUpdated": "2026.09.29",
+    "PgnFileName": "199902jersey.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Cambridge",
+    "StartDate": "1999.03",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "Varsity matches",
+    "PgnFileName": "199903vars.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "Redbus KO Southend",
+    "Winner": "B Lalic, Plaskett",
+    "StartDate": "1999.04",
+    "EndDate": "",
+    "GamesCount": "30",
+    "DateUpdated": "1999.04.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Welsh Championship",
+    "Winner": "James Cobb",
+    "StartDate": "1999.04",
+    "EndDate": "",
+    "GamesCount": "49+7",
+    "DateUpdated": "1999.04.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "25th Surrey Open (Sutton)",
+    "Winner": "Andrew Webster",
+    "StartDate": "1999.04.02",
+    "EndDate": "1999.04.05",
+    "GamesCount": "77",
+    "DateUpdated": "2026.02.05",
+    "PgnFileName": "199904surrey.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "Sheffield Easter",
+    "Winner": "Stephen Bell",
+    "StartDate": "1999.04",
+    "EndDate": "",
+    "GamesCount": "76",
+    "DateUpdated": "1999.04.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Southend Open",
+    "Winner": "J Sugden, A Jackson, Sharp",
+    "StartDate": "1999.04",
+    "EndDate": "",
+    "GamesCount": "252",
+    "DateUpdated": "2000.05.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Hampstead - Arkell v Hebden",
+    "Winner": "",
+    "StartDate": "1999.04.07",
+    "EndDate": "1999.04.15",
+    "GamesCount": "6",
+    "DateUpdated": "1999.04.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "5th Hampstead GM",
+    "Winner": "McNab",
+    "StartDate": "1999.04.07",
+    "EndDate": "1999.04.15",
+    "GamesCount": "54^",
+    "DateUpdated": "1999.04.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "5th Hampstead IM-A",
+    "Winner": "L Cooper, A Dunnington",
+    "StartDate": "1999.04.07",
+    "EndDate": "1999.04.15",
+    "GamesCount": "45^",
+    "DateUpdated": "1999.04.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "5th Hampstead IM-B",
+    "Winner": "B Kelly, S Williams",
+    "StartDate": "1999.04.07",
+    "EndDate": "1999.04.15",
+    "GamesCount": "45^",
+    "DateUpdated": "1999.04.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Irish Championship",
+    "Winner": "Colm Daly",
+    "StartDate": "1999.04",
+    "EndDate": "",
+    "GamesCount": "82",
+    "DateUpdated": "1999.07.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "4NCL, Division 1, 1998/9",
+    "Winner": "",
+    "StartDate": "1998.10",
+    "EndDate": "1999.05",
+    "GamesCount": "528",
+    "DateUpdated": "1999.05.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "4NCL, Division 2, 1998/9",
+    "Winner": "",
+    "StartDate": "1998.10",
+    "EndDate": "1999.05",
+    "GamesCount": "616",
+    "DateUpdated": "1999.05.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "White Rose 1st, Wakefield",
+    "Winner": "Keith Arkell",
+    "StartDate": "1999.07.17",
+    "EndDate": "1999.07.25",
+    "GamesCount": "45",
+    "DateUpdated": "1999.07.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Civil Service Championship",
+    "Winner": "Kevin Thurlow",
+    "StartDate": "1999.07.28",
+    "EndDate": "1999.07.29",
+    "GamesCount": "45",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "199907civilservice.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "3rd South Wales Masters",
+    "Winner": "James Cobb",
+    "StartDate": "1999.07.19",
+    "EndDate": "1999.07.23",
+    "GamesCount": "45",
+    "DateUpdated": "2026.09.14",
+    "PgnFileName": "199907southwales.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "Scottish Championship",
+    "Winner": "Jonathan Rowson",
+    "StartDate": "1999.07",
+    "EndDate": "",
+    "GamesCount": "90+10",
+    "DateUpdated": "1999.07.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Redbus Knock-Out Final",
+    "Winner": "Jim Plaskett",
+    "StartDate": "1999.07",
+    "EndDate": "",
+    "GamesCount": "2",
+    "DateUpdated": "1999.07.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Smith & Wil'son YM",
+    "Winner": "K Mah, S Williams",
+    "StartDate": "1999.07",
+    "EndDate": "",
+    "GamesCount": "90+3",
+    "DateUpdated": "1999.08.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Glorney & Faber Cups",
+    "Winner": "",
+    "StartDate": "1999.07",
+    "EndDate": "",
+    "GamesCount": "159",
+    "DateUpdated": "1999.08.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "GBR-ch 86th Scarborough",
+    "Winner": "Julian Hodgson",
+    "StartDate": "1999.08.02",
+    "EndDate": "1999.08.13",
+    "GamesCount": "471",
+    "DateUpdated": "2021.08.20",
+    "PgnFileName": "199908bcf.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "GBR-ch subsidiary events",
+    "Winner": "",
+    "StartDate": "1999.08.02",
+    "EndDate": "1999.08.03",
+    "GamesCount": "12^",
+    "DateUpdated": "2021.08.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Mind Sports Masters",
+    "Winner": "Baburin, Psakhis, Speelman",
+    "StartDate": "1999.08",
+    "EndDate": "",
+    "GamesCount": "115",
+    "DateUpdated": "1999.09.05",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Coulsdon Int'l",
+    "Winner": "Bogdan Lalic",
+    "StartDate": "1999.08.28",
+    "EndDate": "1999.09.03",
+    "GamesCount": "89",
+    "DateUpdated": "1999.09.05",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Northumberland Open",
+    "Winner": "Waters, Bell",
+    "StartDate": "1999.09",
+    "EndDate": "",
+    "GamesCount": "50",
+    "DateUpdated": "1999.09.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "49th Paignton Premier",
+    "Winner": "Ian Thompson",
+    "StartDate": "1999.09.05",
+    "EndDate": "1999.09.11",
+    "GamesCount": "14",
+    "DateUpdated": "2025.07.04",
+    "PgnFileName": "199909paignton.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "25th Guernsey Open",
+    "Winner": "Andrew Webster",
+    "StartDate": "1999.10.17",
+    "EndDate": "1999.10.23",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Monarch Isle of Man",
+    "Winner": "Shipov, Sutovsky",
+    "StartDate": "1999.11.06",
+    "EndDate": "1999.11.14",
+    "GamesCount": "243",
+    "DateUpdated": "2024.08.29",
+    "PgnFileName": "199911iom.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "York Vikings",
+    "Winner": "T Hillarp Persson",
+    "StartDate": "1999.12",
+    "EndDate": "",
+    "GamesCount": "30",
+    "DateUpdated": "1999.12.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "York Challengers",
+    "Winner": "Danny Gormally",
+    "StartDate": "1999.12",
+    "EndDate": "",
+    "GamesCount": "45^",
+    "DateUpdated": "1999.12.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "York IM",
+    "Winner": "V Krutti",
+    "StartDate": "1999.12",
+    "EndDate": "",
+    "GamesCount": "45^",
+    "DateUpdated": "1999.12.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Hastings Premier",
+    "Winner": "Emil Sutovsky",
+    "StartDate": "2000.01.04",
+    "EndDate": "2000.01.12",
+    "GamesCount": "45",
+    "DateUpdated": "2026.03.24",
+    "PgnFileName": "199912hast.pgn"
+  },
+  {
+    "Year": 1999,
+    "Name": "Hastings Challengers",
+    "Winner": "Beshukov/Plaskett",
+    "StartDate": "1999.12.29",
+    "EndDate": "2000.01.06",
+    "GamesCount": "100^",
+    "DateUpdated": "2026.03.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "World Amateur Ch",
+    "Winner": "Sven Muehlenhaus",
+    "StartDate": "1999.12.29",
+    "EndDate": "2000.01.06",
+    "GamesCount": "16^",
+    "DateUpdated": "2026.07.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1999,
+    "Name": "Hastings other",
+    "Winner": "W Watson",
+    "StartDate": "1999.12.29",
+    "EndDate": "2000.01.06",
+    "GamesCount": "11^",
+    "DateUpdated": "2026.03.24",
+    "PgnFileName": ""
+  }
+]

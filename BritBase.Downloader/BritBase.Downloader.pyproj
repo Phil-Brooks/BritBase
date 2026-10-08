@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BritBase.Downloader.py" />
+    <Compile Include="process_exact_00s.py" />
     <Compile Include="process_exact_10s.py" />
     <Compile Include="process_exact_20s.py" />
     <Compile Include="process_exact_30s.py" />
@@ -30,6 +31,7 @@
     <Compile Include="process_exact_60s.py" />
     <Compile Include="process_exact_70s.py" />
     <Compile Include="process_exact_80s.py" />
+    <Compile Include="process_exact_90s.py" />
     <Compile Include="process_exact_pre1920.py" />
     <Compile Include="scrape_decade80.py" />
     <Compile Include="test.py" />

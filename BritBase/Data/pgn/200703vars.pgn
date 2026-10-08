@@ -1,0 +1,206 @@
+﻿[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "1"]
+[White "McShane, Luke"]
+[Black "Hodge, David"]
+[Result "1-0"]
+[ECO "D36"]
+[WhiteElo "2615"]
+[BlackElo "2183"]
+[PlyCount "111"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 O-O 8. Qc2
+Nbd7 9. Nf3 Re8 10. O-O h6 11. Bh4 Ne4 12. Bxe4 Bxh4 13. Bh7+ Kh8 14. Bd3 Be7
+15. Rae1 Bd6 16. e4 dxe4 17. Nxe4 Be7 18. Bc4 Rf8 19. Bb3 Nf6 20. Ne5 Nd5 21.
+Nc3 Be6 22. Ng6+ fxg6 23. Rxe6 Nf4 24. Ree1 Bb4 25. g3 Bxc3 26. bxc3 Qg5 27.
+Re5 Rf5 28. Qe4 Qg4 29. Kh1 Qh3 30. Re1 Nd5 31. f4 Nf6 32. Qg2 Qxg2+ 33. Kxg2
+Nd5 34. c4 Nb6 35. Re8+ Rf8 36. Rxa8 Rxa8 37. Re7 Rd8 38. c5 Nd5 39. Rxb7 Ne3+
+40. Kf2 Ng4+ 41. Ke2 a5 42. d5 a4 43. Bxa4 Rxd5 44. Rb8+ Kh7 45. Bb3 Rxc5 46.
+Bg8+ Kh8 47. Be6+ Kh7 48. Bxg4 Rc2+ 49. Kf3 Rxa2 50. h3 Ra3+ 51. Kf2 c5 52. Rc8
+Rc3 53. Rc6 h5 54. Bf3 Rc2+ 55. Be2 Rc3 56. h4 1-0
+
+[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "2"]
+[White "Rowe, Duane"]
+[Black "Boytsun, Olena"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2203"]
+[BlackElo "2281"]
+[PlyCount "35"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. h3 Nbd7 6. Nf3 e6 7. Qd2 b6 8. e5
+dxe5 9. dxe5 Ng8 10. Bb5 Bb7 11. O-O-O c6 12. Ne4 Nxe5 13. Qc3 Qb8 14. Nd6+ Ke7
+15. Nxe5 cxb5 16. Nxg6+ hxg6 17. Qxg7 Bd5 18. Qxf7+ 1-0
+
+[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "3"]
+[White "Kangur, Alvar"]
+[Black "Nixon, Thomas"]
+[Result "0-1"]
+[ECO "C29"]
+[WhiteElo "2231"]
+[BlackElo "2189"]
+[PlyCount "78"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6 8.
+cxd4 Nxd4 9. c3 Nxf3+ 10. Qxf3 c6 11. d4 Be6 12. Bd3 Bd5 13. Qg3 Qd7 14. O-O
+O-O-O 15. Be3 g6 16. c4 Be6 17. d5 cxd5 18. Bxa7 dxc4 19. Be4 Qc7 20. Qe3 Bd5
+21. Bb6 Qc6 22. Rf6 Qb5 23. Rb1 Bb4 24. a3 Bxe4 25. Qxe4 Bc5+ 26. Kh1 Bxb6 27.
+h3 Qd5 28. Qg4+ Rd7 29. Rfxb6 h5 30. Qe2 Re8 31. R6b5 Qd3 32. Qf2 Rxe5 33. Rxe5
+Qxb1+ 34. Kh2 Qd3 35. Qc5+ Kb8 36. Re8+ Rd8 37. Rxd8+ Qxd8 38. Qxc4 Qc7+ 39.
+Kh1 Qxc4 0-1
+
+[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "4"]
+[White "Mycroft, Richard"]
+[Black "Eckersley-Waites, Thomas"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2141"]
+[BlackElo "2159"]
+[PlyCount "66"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 c5 2. a3 b6 3. b4 Bb7 4. Nc3 Nc6 5. bxc5 bxc5 6. Rb1 Rb8 7. Nf3 g6 8. d4
+Bg7 9. Bf4 d6 10. Bb5 Kf8 11. e5 Nxd4 12. Nxd4 cxd4 13. Qxd4 dxe5 14. Qxd8+
+Rxd8 15. Be3 Bxg2 16. Rg1 Bf3 17. Bxa7 e4 18. Ne2 Be5 19. Rg5 Bxh2 20. Rc5 Bd6
+21. Rc3 h5 22. Nd4 Be5 23. Rxf3 exf3 24. Nc6 Bc3+ 25. Kf1 Rd6 26. a4 h4 27. a5
+Rh5 28. Kg1 Nh6 29. a6 Rxb5 30. Rxb5 Ng4 31. Bd4 Bxd4 32. Rb4 Bxf2+ 33. Kh1
+Rd1# 0-1
+
+[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "5"]
+[White "Heaton, Robert"]
+[Black "Eckersley-Waites, Adam"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2095"]
+[BlackElo "2167"]
+[PlyCount "74"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. d4 g6 2. g3 Bg7 3. Bg2 Nf6 4. e4 d6 5. Ne2 O-O 6. O-O Nbd7 7. c3 c5 8. h3
+Rb8 9. a4 b6 10. Be3 Qc7 11. Na3 a6 12. Qd3 e6 13. f4 d5 14. e5 Ne4 15. Bxe4
+dxe4 16. Qc2 c4 17. Rf2 f5 18. g4 b5 19. gxf5 gxf5 20. Rg2 Nb6 21. Ng3 Nd5 22.
+Qe2 Kh8 23. axb5 axb5 24. Nc2 Bb7 25. Nh5 Rf7 26. Kh2 Bh6 27. Rag1 Qe7 28. Qf2
+Rff8 29. Nb4 Nxe3 30. Qxe3 Qh4 31. Qe2 Bxf4+ 32. Nxf4 Qxf4+ 33. Rg3 Rg8 34. Qe3
+Qxe3 35. Rxe3 Rxg1 36. Kxg1 Rg8+ 37. Kf2 f4 0-1
+
+[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "6"]
+[White "Holzegel, Gustav"]
+[Black "Schaper, Steffen"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2180"]
+[BlackElo "2159"]
+[PlyCount "77"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nf6 6. Be2 cxd4 7. cxd4 e6 8.
+O-O Be7 9. Nc3 Qd8 10. Be3 O-O 11. Rc1 Qa5 12. a3 Rd8 13. Qb3 Nd5 14. Rfd1 Nxc3
+15. Rxc3 Qd5 16. Qc2 Bd7 17. Bc4 Qh5 18. d5 Ne5 19. Nxe5 Qxe5 20. Bd4 Qf5 21.
+Qxf5 exf5 22. Be5 Rac8 23. Bb3 Rxc3 24. Bxc3 Bd6 25. Re1 Re8 26. Rxe8+ Bxe8 27.
+Bd4 b6 28. a4 Kf8 29. h3 f6 30. Kf1 Ke7 31. Ke2 Bf7 32. a5 bxa5 33. Bxa7 Bb4
+34. Kd3 Be8 35. Kd4 Bb5 36. Bc4 Ba4 37. Bc5+ Bxc5+ 38. Kxc5 Kd7 39. b3 1-0
+
+[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "7"]
+[White "Rawlinson, Chris"]
+[Black "Werner, Andreas"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2053"]
+[BlackElo "2074"]
+[PlyCount "91"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Bg5 Qb6 5. Rb1 Nbd7 6. Nf3 g6 7. Bc4 Bg7 8. O-O
+Qc7 9. Re1 e5 10. b4 O-O 11. Qd2 Nb6 12. Bb3 Bg4 13. Re3 h6 14. Bxf6 Bxf6 15.
+d5 Kg7 16. Rd3 Be7 17. h3 Bxf3 18. Rxf3 c5 {(=)} 19. bxc5 Qxc5 20. Na4 Nxa4 21.
+Bxa4 Bg5 22. Qc3 b6 23. Qxc5 dxc5 24. Bc6 Rac8 25. a4 Bd2 26. c3 Bg5 27. a5 Bd8
+28. axb6 Bxb6 29. c4 Rfd8 30. Rfb3 Rb8 31. f4 f6 32. fxe5 fxe5 33. Ra1 Kf6 34.
+Rf3+ Kg7 35. Rfa3 a5 36. Rxa5 Bxa5 37. Rxa5 Rb1+ 38. Kh2 Re1 39. Rxc5 Rd6 40.
+Ra5 Rf6 41. Ra7+ Kf8 42. Ra8+ Kg7 43. c5 Re2 44. Bb5 Rc2 45. d6 Rff2 46. Bf1
+1/2-1/2
+
+[Event "Varsity Oxford-Cambridge 125th"]
+[Site "RAC Club, London"]
+[Date "2007.03.10"]
+[Round "8"]
+[White "Roberts, Elizabeth"]
+[Black "Stembridge, Edward"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[WhiteElo "1500"]
+[BlackElo "2002"]
+[PlyCount "109"]
+[EventDate "2007.03.10"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nge7 8. Bh6
+O-O 9. h4 Bxh6 10. Qxh6 f6 11. Nge2 Nd4 12. Qd2 Bg4 13. Nxd4 cxd4 14. Ne2 Qb6
+15. Rb1 Be6 16. c4 dxc3 17. Nxc3 Nc6 18. O-O Nd4 19. b3 Qb4 20. Rb2 Rac8 21.
+Ne2 Nxe2+ 22. Qxe2 Qd4 23. Rd2 b5 24. Rb1 b4 25. Kh2 Rc3 26. Rbd1 a5 27. Rc2 a4
+28. bxa4 Ra8 29. Rdc1 Rxa4 30. Bf1 Raa3 31. Rxc3 bxc3 32. Rc2 Bd7 33. Qe1 Ba4
+34. Rc1 Rxa2 35. Rxc3 Rxf2+ 36. Bg2 Qa7 37. Ra3 Rb2 38. Qa1 Qf2 39. Qg1 Qc2 40.
+Ra1 Bd7 41. Ra8+ Kf7 42. Ra7 Ke7 43. Qf1 f5 44. exf5 gxf5 45. Rxd7+ Kxd7 46.
+Qxf5+ Kc7 47. Qxh7+ Kb6 48. Qb7+ Ka5 49. Qd5+ Ka4 50. Kh3 Qf2 51. Qc4+ Ka3 52.
+Qa6+ Kb3 53. Qc4+ Ka3 54. Qa6+ Kb3 55. Qc4+ 1/2-1/2
+

@@ -46,13 +46,21 @@
 <div class="px-2 pt-1 pb-2">
     <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=202" hx-target="#game-list-container" data-bs-dismiss="offcanvas">2020+</a>
     <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=201" hx-target="#game-list-container" data-bs-dismiss="offcanvas">2010s</a>
-    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=200" hx-target="#game-list-container" data-bs-dismiss="offcanvas">2000s</a>
-    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=199" hx-target="#game-list-container" data-bs-dismiss="offcanvas">1990s</a>
+    <a href="/Decade2000"
+        class="decade-badge bg-primary text-white"
+        data-bs-dismiss="offcanvas"
+        onclick="window.location.href='/Decade2000'; return false;"
+        aria-label="Open 2000s tournaments page">2000s</a>
+    <a href="/Decade1990"
+        class="decade-badge bg-primary text-white"
+        data-bs-dismiss="offcanvas"
+        onclick="window.location.href='/Decade1990'; return false;"
+        aria-label="Open 1990s tournaments page">1990s</a>
     <a href="/Decade1980"
-       class="decade-badge bg-primary text-white"
-       data-bs-dismiss="offcanvas"
-       onclick="window.location.href='/Decade1980'; return false;"
-       aria-label="Open 1980s tournaments page">1980s</a>
+        class="decade-badge bg-primary text-white"
+        data-bs-dismiss="offcanvas"
+        onclick="window.location.href='/Decade1980'; return false;"
+        aria-label="Open 1980s tournaments page">1980s</a>
     <a href="/Decade1970"
        class="decade-badge bg-primary text-white"
        data-bs-dismiss="offcanvas"

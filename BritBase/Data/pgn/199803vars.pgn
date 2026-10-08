@@ -1,0 +1,192 @@
+﻿[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "1"]
+[White "Ferguson, Mark"]
+[Black "Kumaran, Dharshan"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2410"]
+[BlackElo "2505"]
+[PlyCount "84"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Be3 Nh6 6. c3 Nc6 7. Bb5 Bd7 8. Bxc6
+Bxc6 9. Nf3 Nf5 10. Bd4 a5 11. O-O a4 12. Nbd2 g5 13. g4 Nxd4 14. cxd4 h5 15.
+h3 hxg4 16. hxg4 Qc7 17. Kg2 O-O-O 18. b4 f5 19. Rh1 Be7 20. Qe2 fxg4 21. Nh2
+Rh4 22. Nxg4 Bb5 23. Qd1 Rf8 24. f3 Bd8 25. Nf1 Qf7 26. Nfh2 Qf4 27. a3 Rfh8
+28. Qg1 Bd3 29. Qf2 Bf5 30. Qg3 Qxd4 31. Rad1 Qb2+ 32. Qf2 Qxf2+ 33. Nxf2 Rc4
+34. Nhg4 Rxh1 35. Rxh1 Rc3 36. Ra1 b6 37. cxb6 Bxb6 38. Kg3 Bd4 39. Rd1 Bb6 40.
+Ra1 Bd4 41. Rd1 Bxf2+ 42. Nxf2 Rxa3 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "2"]
+[White "Rowson, Jonathan"]
+[Black "Kelly, Brian"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "2485"]
+[BlackElo "2390"]
+[PlyCount "79"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f4 O-O 10. Be2 Bd7 11. g4 Nxd4 12. Qxd4 Bc6 13. g5 Nd7 14. Rhg1 e5
+15. fxe5 Nxe5 16. Rg3 Rc8 17. Bc4 Nxc4 18. Qxc4 b5 19. Qb3 Qd7 20. g6 Qe6 21.
+gxh7+ Kh8 22. Bd4 Qh6+ 23. Kb1 Bf6 24. Bxf6 Qxf6 25. Qb4 Rfd8 26. Rgd3 Qh4 27.
+Rg3 Qf6 28. Rdg1 g6 29. h4 Kxh7 30. h5 Rg8 31. Rg5 Kh6 32. e5 dxe5 33. Qh4 Kg7
+34. hxg6 fxg6 35. Ne4 Bxe4 36. Qxe4 Kf8 37. Rxe5 Rd8 38. Qb4+ Qd6 39. Rf1+ Kg7
+40. Re7+ 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "3"]
+[White "Hunt, Harriet"]
+[Black "Tonkov, Bojan"]
+[Result "1-0"]
+[ECO "C82"]
+[WhiteElo "2390"]
+[BlackElo "2320"]
+[PlyCount "79"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 Qd7 12. Re1 Bg4 13. Nf1 Bh5 14. Ng3 Bg6 15.
+Be3 Ne6 16. a4 O-O 17. Nf5 Rfd8 18. Qe2 Bf8 19. h3 b4 20. Rad1 Na5 21. cxb4 Nc4
+22. Bc1 Bxb4 23. Rf1 c6 24. N3h4 Qa7 25. Kh1 Bf8 26. f4 Rab8 27. Bd3 Nb6 28. a5
+Na4 29. Nxg6 hxg6 30. Nh4 Nec5 31. f5 Nxd3 32. Rxd3 gxf5 33. Nxf5 Nc5 34. Rg3
+Ne4 35. Rg4 Rd7 36. Bh6 g6 37. e6 Rdb7 38. exf7+ Kh7 39. Bxf8 Rxf8 40. Rh4# 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "4"]
+[White "Devereaux, Maxim"]
+[Black "Cohen, Aron"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[BlackElo "2265"]
+[PlyCount "34"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 d6 2. d4 Nf6 3. f3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Ke8 7. Be3 c6 8.
+Nd2 Nbd7 9. Ne2 Bc5 10. Kf2 Ke7 11. Nc1 Ne8 12. a4 a5 13. Nd3 Bxe3+ 14. Kxe3
+Nd6 15. Bb3 b6 16. Nc4 Nxc4+ 17. Bxc4 f6 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "5"]
+[White "Moskovic, David"]
+[Black "Trifunovic, Aleks"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[WhiteElo "2220"]
+[BlackElo "2260"]
+[PlyCount "52"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Be7 7. Be2 O-O 8. h3
+Bf5 9. Nf3 Nc6 10. d5 Ne5 11. Nd4 Bd7 12. b3 c5 13. dxc6 Nxc6 14. O-O Nxd4 15.
+Qxd4 Bf6 16. Qd2 Bc6 17. Bb2 d5 18. c5 d4 19. Nb5 Qd5 20. Bf3 Qxc5 21. Bxc6
+bxc6 22. Nxd4 Rad8 23. Rfd1 Qh5 24. Qc2 c5 25. Nf3 Bxb2 26. Qxb2 c4 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "6"]
+[White "Rosten, Oliver"]
+[Black "Rudd, Jack"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2240"]
+[BlackElo "2165"]
+[PlyCount "85"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Bd7 10. Kb1 Rc8 11. h4 Ne5 12. g4 b5 13. h5 Nxf3 14. Nxf3 Bxg4 15.
+Be2 b4 16. Nb5 Qa5 17. Ng5 h6 18. Nxf7 Be6 19. a3 Nxe4 20. Nxh6+ Bxh6 21. Qd4
+Bxe3 22. Qxe4 Bf5 23. Bc4+ Rxc4 24. Qxc4+ Kg7 25. axb4 Qa4 26. Qc3+ Rf6 27. Nc7
+Bf4 28. b3 Qa3 29. Rhe1 Be5 30. Rxe5 dxe5 31. Ne8+ Kh6 32. Nxf6 exf6 33. hxg6
+Bxg6 34. Rh1+ Kg7 35. Qc7+ Kg8 36. Qd8+ Kg7 37. Qe7+ Kg8 38. Qe6+ Kg7 39. Rg1
+Qxb4 40. Qd7+ Kh6 41. Qh3+ Kg7 42. Qd3 f5 43. Qd7+ 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "7"]
+[White "Morgan, Ben"]
+[Black "Ouaknine, Joel"]
+[Result "0-1"]
+[ECO "B14"]
+[PlyCount "60"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. exd5 Nf6 6. Nc3 Bg7 7. Nf3 O-O 8.
+Bc4 Nbd7 9. O-O Nb6 10. Bb3 Nbxd5 11. Be3 b6 12. Qd2 Bb7 13. Ne5 a6 14. Rac1
+Qd6 15. Rfd1 Rac8 16. Bh6 Rc7 17. Bxg7 Kxg7 18. Nc4 Qb4 19. Ne3 Rfc8 20. Nc2
+Qa5 21. Bxd5 Nxd5 22. Qe2 Nxc3 23. bxc3 Rxc3 24. Qxe7 Qd5 25. f3 Rxc2 26. Rxc2
+Rxc2 27. a3 Rxg2+ 28. Kh1 Qxf3 29. Qe5+ Kh6 30. d5 Rg3# 0-1
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "RAC Club, London"]
+[Date "1998.03.07"]
+[Round "8"]
+[White "Howard, Emily"]
+[Black "White, Stuart"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2045"]
+[BlackElo "2020"]
+[PlyCount "45"]
+[EventDate "1998.03.07"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 b6 7. g3 Bb7 8. Bg2
+d6 9. exd6 Bxd6 10. O-O Nd7 11. Bd2 O-O 12. Nc3 N7f6 13. Re1 Rc8 14. Qe2 Nb4
+15. Bg5 h6 16. Bxf6 Qxf6 17. Ne5 Ba6 18. Qd2 Rfd8 19. a3 Bxe5 20. Rxe5 Qxe5 21.
+dxe5 Rxd2 22. axb4 Bd3 23. Be4 0-1
+

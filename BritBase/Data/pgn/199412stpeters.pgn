@@ -1,0 +1,1342 @@
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "1"]
+[White "Carton, Niall"]
+[Black "Olesen, Martin"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2260"]
+[BlackElo "2320"]
+[PlyCount "48"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 e6 6. Nf3 b6 7. Be2 Bb4+ 8. Bd2
+Bxd2+ 9. Qxd2 Ba6 10. O-O Bxe2 11. Qxe2 O-O 12. Nbd2 Nc6 13. Rac1 f6 14. Ne4
+fxe5 15. dxe5 Qe8 16. Nc3 Nf4 17. Qe4 Qh5 18. Ne2 Qg6 19. Ng3 Qxe4 20. Nxe4
+Ne2+ 21. Kh1 Nxc1 22. Rxc1 Rf4 23. Nd6 Raf8 24. Rc3 Nd4 0-1
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "1"]
+[White "Dunworth, Christopher N"]
+[Black "McDonald, Neil R"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2220"]
+[BlackElo "2420"]
+[PlyCount "47"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. Na3 cxd4 8. cxd4
+Nf5 9. Nc2 Qa5+ 10. Kf1 Rc8 11. g4 Nfe7 12. Kg2 Ng6 13. Bd3 Nb4 14. Nxb4 Bxb4
+15. h4 Ba4 16. b3 Bb5 17. h5 Bxd3 18. Qxd3 Ne7 19. h6 gxh6 20. Bxh6 Ng6 21. a3
+Be7 22. b4 Qa4 23. Rac1 Kd7 24. Rxc8 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "1"]
+[White "Harley, Andrew D"]
+[Black "Martin, Benjamin"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2255"]
+[BlackElo "2355"]
+[PlyCount "72"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh4 h6 12. Bxe7 Rxe7 13. Ne2 Nc6 14. f4 Bd7 15.
+O-O Qa5 16. Qf2 c4 17. Bg6 Rf8 18. Qe3 Nd8 19. Ng3 Be8 20. Bxe8 Rexe8 21. Rf3
+Nf7 22. Nh5 Re7 23. g4 Qa4 24. f5 Ng5 25. Rff1 Qxc2 26. f6 Ref7 27. fxg7 Rxf1+
+28. Rxf1 Rxf1+ 29. Kxf1 Qd1+ 30. Qe1 Qf3+ 31. Qf2 Qh3+ 32. Qg2 Qxc3 33. h4 Qc1+
+34. Ke2 Qc2+ 35. Kf1 Qd1+ 36. Kf2 Qxd4+ 0-1
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "1"]
+[White "McFarland, Robert S"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2290"]
+[BlackElo "2305"]
+[PlyCount "6"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "1"]
+[White "Pigott, John C"]
+[Black "Fatin, Tarek"]
+[Result "1-0"]
+[ECO "E38"]
+[WhiteElo "2385"]
+[BlackElo "2385"]
+[PlyCount "63"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+f3 d6 9. e4 O-O 10. Be3 Qc7 11. b4 Na4 12. Qb3 Bd7 13. Rc1 Rac8 14. Bd3 d5 15.
+exd5 exd5 16. Ne2 Rfe8 17. Bf2 Bb5 18. c5 Qd7 19. Rc2 Bc4 20. Bxc4 dxc4 21.
+Qxc4 b5 22. Qb3 a6 23. O-O Qf5 24. Rd1 Qg6 25. Rcd2 h6 26. Ng3 Kh7 27. Rd6 h5
+28. Ne4 Rxe4 29. fxe4 Qxe4 30. Rxf6 gxf6 31. Qxf7+ Kh6 32. Qxf6+ 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "2"]
+[White "Martin, Benjamin"]
+[Black "Pigott, John C"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2355"]
+[BlackElo "2385"]
+[PlyCount "79"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Be2 Bg7 8. Be3
+O-O 9. O-O Nbd7 10. Nb3 b6 11. f4 Bb7 12. Bf3 Qc7 13. Qe2 Nc5 14. Nxc5 bxc5 15.
+Rad1 Nd7 16. Qd2 Rfe8 17. b3 Rad8 18. Nd5 Qc8 19. Rfe1 e6 20. Nc3 Nb8 21. Bf2
+Nc6 22. Ne2 Ne7 23. Qe3 Rd7 24. Rd2 f5 25. Ng3 fxe4 26. Bxe4 Nc6 27. c3 Rf8 28.
+Bc2 Nd8 29. Ne4 Qc6 30. Red1 Nf7 31. Bh4 Kh8 32. Nf6 Rc7 33. Qxe6 Bh6 34. Nxh7
+Nd8 35. Qxg6 Rg7 36. Bf6 Rxf6 37. Qxf6 Nf7 38. Ng5 Bxg5 39. fxg5 Nxg5 40. Qf8+
+1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "2"]
+[White "McDonald, Neil R"]
+[Black "Carton, Niall"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2420"]
+[BlackElo "2260"]
+[PlyCount "81"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 Bd7 13. Rb1 O-O-O 14.
+Nxc3 Na5 15. Nb5 Bxb5 16. Rxb5 Kb8 17. Qd2 Nc4 18. Qf2 Rc8 19. Bd3 Qc6 20. Rb4
+Nxa3 21. Bxa3 Qc3+ 22. Ke2 Qxa3 23. Rhb1 Rc7 24. Kf1 Nc6 25. R4b3 Qe7 26. Ra1
+b6 27. Ra4 Nd8 28. Rba3 Rh8 29. g3 Qc5 30. h4 Qxf2+ 31. Kxf2 a5 32. Ke3 Nb7 33.
+f5 Nc5 34. Rf4 Rg8 35. g4 f6 36. exf6 e5 37. g5 exf4+ 38. Kxf4 Ne4 39. Bxe4 Rc4
+40. g6 Rxe4+ 41. Kg5 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "2"]
+[White "McFarland, Robert S"]
+[Black "Dunworth, Christopher N"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2290"]
+[BlackElo "2220"]
+[PlyCount "74"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. Nf3 d6 2. g3 e5 3. d3 g6 4. Bg2 Bg7 5. c4 f5 6. Nc3 Nf6 7. c5 Nc6 8. cxd6
+cxd6 9. O-O O-O 10. e4 Kh8 11. b3 f4 12. Bb2 Nh5 13. d4 exd4 14. Ne2 Bg4 15. h3
+Bxf3 16. Bxf3 fxg3 17. fxg3 Qg5 18. Kg2 Be5 19. h4 Qe7 20. Qd2 Qg7 21. Rf2 d3
+22. Nf4 Nxf4+ 23. gxf4 Bxb2 24. Qxb2 Qxb2 25. Rxb2 Rxf4 26. Kg3 Raf8 27. Bg2
+Ne5 28. Rc1 Rg4+ 29. Kh3 Rff4 30. Rc8+ Kg7 31. Rc7+ Kh6 32. Rxb7 Rxh4+ 33. Kg3
+Rfg4+ 34. Kf2 Rh2 35. Kg1 Rhxg2+ 36. Rxg2 Rxg2+ 37. Kxg2 d2 0-1
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "2"]
+[White "Olesen, Martin"]
+[Black "Harley, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2320"]
+[BlackElo "2255"]
+[PlyCount "50"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. a3 c4 7. Nbd2 f6 8. Be2 fxe5
+9. Nxe5 Nxe5 10. dxe5 Bc5 11. O-O Ne7 12. b4 cxb3 13. Nxb3 O-O 14. Nxc5 Qxc5
+15. Qb3 Nc6 16. a4 Na5 17. Qc2 Nc4 18. Bd3 h6 19. Qe2 Qc7 20. f4 Bd7 21. Qg4
+Qb6+ 22. Kh1 Be8 23. a5 Qc6 24. Bxc4 Qxc4 25. Bd2 Rf5 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "2"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Fatin, Tarek"]
+[Result "1-0"]
+[ECO "E38"]
+[WhiteElo "2305"]
+[BlackElo "2385"]
+[PlyCount "81"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+f3 d6 9. e4 O-O 10. Be3 Qc7 11. Ne2 Bd7 12. Nd4 a6 13. Be2 Rac8 14. O-O e5 15.
+Nb3 Nxb3 16. Qxb3 Be6 17. Rfd1 Bxc4 18. Bxc4 Qxc4 19. Qxc4 Rxc4 20. Rxd6 Rfc8
+21. Bd2 Rd4 22. Rxd4 exd4 23. Rc1 Rxc1+ 24. Bxc1 Nd7 25. Kf2 Ne5 26. Ke2 g6 27.
+f4 Nd7 28. b4 f5 29. exf5 gxf5 30. Kd3 Kf7 31. Kxd4 Ke6 32. Be3 h5 33. Bf2 Kd6
+34. Bh4 Nb8 35. Bf6 Nc6+ 36. Ke3 Kd5 37. Kf3 Kc4 38. Kg3 Kb3 39. Kh4 Kxa3 40.
+Kxh5 Kxb4 41. Kg6 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "3"]
+[White "Carton, Niall"]
+[Black "McFarland, Robert S"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2260"]
+[BlackElo "2290"]
+[PlyCount "105"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 c6 6. O-O O-O 7. h3 Qc7 8. Be3
+Nbd7 9. a4 e5 10. dxe5 dxe5 11. Qd2 Nh5 12. Rad1 Nf4 13. Bc4 Nb6 14. Bb3 Be6
+15. Qd6 Qxd6 16. Rxd6 Nc4 17. Bxc4 Bxc4 18. Rfd1 Be6 19. Ng5 Bc8 20. a5 h6 21.
+Nf3 Ne6 22. Na4 Re8 23. R6d3 f5 24. Nd2 f4 25. Bc5 Nxc5 26. Nxc5 b6 27. Na4
+bxa5 28. Rd6 g5 29. Nb3 Bf8 30. Rd8 Ba6 31. Rxa8 Rxa8 32. Rd7 Bb5 33. Nbc5 Rb8
+34. b3 Bxa4 35. Nxa4 Bb4 36. Kf1 a6 37. Ke2 h5 38. Rc7 Rd8 39. c3 Bf8 40. Rxc6
+Rb8 41. Nb6 Rd8 42. Nd5 Rb8 43. Nb6 Kf7 44. Kd3 g4 45. Nc4 gxh3 46. gxh3 Rxb3
+47. Rxa6 Bb4 48. Nxe5+ Ke7 49. Rc6 a4 50. Kc2 Ba3 51. Nc4 Kd7 52. Ra6 Bc5 53.
+Ne5+ 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "3"]
+[White "Dunworth, Christopher N"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2220"]
+[BlackElo "2305"]
+[PlyCount "50"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 Nd7 4. Nf3 Ngf6 5. e3 e6 6. c4 Bb4+ 7. Nbd2 O-O 8.
+Bd3 b6 9. cxd5 exd5 10. O-O Bb7 11. Rc1 Be7 12. Bb1 Re8 13. Qc2 Bd6 14. Bg3
+Bxg3 15. hxg3 Rc8 16. b4 c6 17. Qf5 Qe7 18. a3 Ra8 19. Qd3 a5 20. Qb3 axb4 21.
+axb4 b5 22. Bf5 Ra4 23. Bxd7 Nxd7 24. Rb1 Rea8 25. Rfe1 Ra3 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "3"]
+[White "Fatin, Tarek"]
+[Black "Martin, Benjamin"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2385"]
+[BlackElo "2355"]
+[PlyCount "93"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 Bf5 4. O-O e6 5. d3 Nbd7 6. Nh4 Bg6 7. e4 c6 8. Nxg6
+hxg6 9. Qe2 Qc7 10. exd5 Nxd5 11. c4 N5f6 12. d4 Be7 13. Nc3 O-O 14. d5 e5 15.
+Be3 Bc5 16. Bxc5 Nxc5 17. b4 Ncd7 18. dxc6 bxc6 19. b5 e4 20. Nxe4 Nxe4 21.
+Qxe4 cxb5 22. cxb5 Rac8 23. Qb4 Qb6 24. Rad1 Nc5 25. a4 a5 26. Qf4 Rfd8 27. Qc4
+Rd6 28. Rxd6 Qxd6 29. Rc1 Kf8 30. Bf3 Rc7 31. Rd1 Qb6 32. Bc6 Ne6 33. Kg2 Kg8
+34. Rd6 Re7 35. Qd5 Qc7 36. h4 Kf8 37. Bd7 Nd8 38. b6 Qb8 39. Bc6 Ne6 40. Bb5
+Rb7 41. Qc6 Kg8 42. Bc4 Nf8 43. Bd5 Re7 44. Bf3 Kh7 45. Qd5 Ne6 46. b7 Re8 47.
+Rd7 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "3"]
+[White "Harley, Andrew D"]
+[Black "McDonald, Neil R"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2255"]
+[BlackElo "2420"]
+[PlyCount "38"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+f5 9. exf6 Rxf6 10. Bg5 Qa5 11. Bxf6 Qxc3+ 12. Ke2 Qxc2+ 13. Nd2 Ng6 14. Be5 c4
+15. Ke1 Nxe5 16. dxe5 c3 17. Qd1 cxd2+ 18. Qxd2 Qe4+ 19. Qe3 Qa4 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "3"]
+[White "Pigott, John C"]
+[Black "Olesen, Martin"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[WhiteElo "2385"]
+[BlackElo "2320"]
+[PlyCount "34"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c5 7. Be3 Nc6 8. d5
+Ne5 9. Ng3 e6 10. Be2 exd5 11. cxd5 h5 12. O-O a6 13. Qd2 Nh7 14. Bh6 h4 15.
+Nh1 g5 16. Bxg7 Kxg7 17. Nf2 Qf6 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "4"]
+[White "Dunworth, Christopher N"]
+[Black "Carton, Niall"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2220"]
+[BlackElo "2260"]
+[PlyCount "46"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+h5 9. gxh5 Nxh5 10. Bg5 Nf6 11. Be2 a6 12. Qd2 Bd7 13. O-O-O b5 14. Nxc6 Bxc6
+15. Qe3 Qc7 16. Nd5 Bxd5 17. exd5 e5 18. Kb1 Nh7 19. f4 Nxg5 20. Rxg5 Rc8 21.
+c3 Qc5 22. Qg3 exf4 23. Qxf4 Rc7 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "4"]
+[White "McDonald, Neil R"]
+[Black "Pigott, John C"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[WhiteElo "2420"]
+[BlackElo "2385"]
+[PlyCount "87"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Qf3
+Nc6 9. O-O-O Qc7 10. Kb1 Be7 11. Nb3 h6 12. Bh4 g5 13. fxg5 Ne5 14. Qe3 hxg5
+15. Bxg5 O-O-O 16. Qa7 Bc6 17. Nd4 Rdg8 18. Bf4 Nxe4 19. Bxe5 Nxc3+ 20. bxc3
+dxe5 21. Qa8+ Qb8 22. Qxb8+ Kxb8 23. Nxc6+ bxc6 24. Rd7 Ba3 25. Bxa6 Rxg2 26.
+Ka1 Rgxh2 27. Rb1+ Ka8 28. Bb7+ Ka7 29. Bxc6+ Ka6 30. Be4 Bc5 31. Rc7 Be3 32.
+Rxf7 R8h4 33. Bd3+ Ka5 34. Rf8 Rh8 35. Rf3 Bd2 36. a3 Bxc3+ 37. Ka2 Bd4 38.
+Rb5+ Ka4 39. Rb3 Rc8 40. Rb4+ Ka5 41. Rf7 Rh1 42. Rb5+ Ka4 43. Rb4+ Ka5 44.
+Rb5+ 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "4"]
+[White "McFarland, Robert S"]
+[Black "Harley, Andrew D"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2290"]
+[BlackElo "2255"]
+[PlyCount "132"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. g3 dxe4 6. dxe4 Bc5 7. Bg2 O-O 8.
+O-O e5 9. Qe2 b6 10. c3 a5 11. a4 Ba6 12. Nc4 Ne8 13. Nfd2 Nd6 14. b3 Qe7 15.
+Bh3 f6 16. Bb2 Rad8 17. Rfe1 Na7 18. Kh1 Nac8 19. f3 Nxc4 20. Nxc4 Nd6 21. Bf1
+Qe6 22. Rad1 Rd7 23. Rd5 Nxc4 24. bxc4 Rfd8 25. Red1 Bb7 26. Qc2 Bc6 27. Be2
+Qe8 28. Rxd7 Rxd7 29. Rxd7 Qxd7 30. Bd1 Qh3 31. Qg2 Bd7 32. g4 Qh6 33. Qe2 Kf7
+34. Kg2 Ke7 35. Bc2 Be6 36. Bd3 Kd7 37. Qe1 Be3 38. h3 Kc6 39. Qd1 Bf4 40. Qe1
+Be3 41. Qd1 Kb7 42. Qe1 Qg5 43. Qd1 h5 44. Qe1 hxg4 45. hxg4 Bd7 46. Qd1 Qh4
+47. Qe2 Bf4 48. Bc2 Qh2+ 49. Kf1 Qh1+ 50. Kf2 Be6 51. Bd3 Bc1 52. Bxc1 Qxc1 53.
+Bc2 Kc6 54. c5 Kxc5 55. Qb5+ Kd6 56. Qd3+ Kc6 57. Kg3 Qg1+ 58. Kh3 Qc5 59. Bd1
+Bc4 60. Qd2 Qg1 61. Kh4 Qh1+ 62. Kg3 g5 63. Be2 Qg1+ 64. Kh3 Qf2 65. Qd8 Qxe2
+66. Qxf6+ Kb7 0-1
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "4"]
+[White "Olesen, Martin"]
+[Black "Fatin, Tarek"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2320"]
+[BlackElo "2385"]
+[PlyCount "67"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. c4 e6 6. Nc3 Qc7 7. Nc2 Nf6 8. Be2
+Bd6 9. h3 Be5 10. Qd3 O-O 11. O-O Rd8 12. f4 Bxc3 13. bxc3 d5 14. cxd5 exd5 15.
+e5 Ne4 16. Bf3 Ng3 17. Re1 Bf5 18. Qd1 Bxc2 19. Qxc2 Nd4 20. Qd3 Nxf3+ 21. Qxf3
+Ne4 22. Be3 Qxc3 23. Rac1 Qa5 24. f5 Rac8 25. f6 Rc6 26. fxg7 Qc7 27. e6 f6 28.
+Bh6 Qe5 29. Rxc6 bxc6 30. Qa3 Qd6 31. Qxd6 Nxd6 32. g4 Rc8 33. g5 Nf5 34. Rf1
+1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "4"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Martin, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[WhiteElo "2305"]
+[BlackElo "2355"]
+[PlyCount "86"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 Nc6 8.
+Bf4 b6 9. e3 Bb7 10. Be2 Rc8 11. O-O Be7 12. Rfd1 Na5 13. Ne5 d6 14. b4 Nc6 15.
+Bf3 Qe8 16. Nxc6 Bxc6 17. e4 Qd7 18. Bxd6 Bxd6 19. c5 Bxh2+ 20. Kxh2 Qc7+ 21.
+Kg1 bxc5 22. bxc5 Qe5 23. Rac1 Rfd8 24. Rxd8+ Rxd8 25. Na2 Bxe4 26. Bxe4 Qxe4
+27. Qxe4 Nxe4 28. Rc4 f5 29. c6 Rc8 30. c7 Kf7 31. Nb4 Ke8 32. Na6 Kd7 33. Rb4
+Nd6 34. f4 g6 35. Kf2 h6 36. Ke3 g5 37. g3 Ne8 38. fxg5 hxg5 39. Rb7 Kc6 40.
+Rb8 Kd7 41. Nc5+ Kxc7 42. Rxc8+ Kxc8 43. Nxe6 f4+ 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "5"]
+[White "Carton, Niall"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2260"]
+[BlackElo "2305"]
+[PlyCount "68"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5 Nge7 7. fxe6 fxe6 8.
+O-O O-O 9. d3 d5 10. Bb3 h6 11. Qe1 Nd4 12. Kh1 Nxb3 13. axb3 Nc6 14. Qg3 g5
+15. Bd2 d4 16. Nd1 e5 17. Nf2 Qd7 18. h3 Qe6 19. Ng4 Bd7 20. Nfh2 Kh7 21. Nf3
+Qg6 22. Kh2 Rae8 23. Ra4 b6 24. Raa1 a5 25. Rh1 Kg8 26. Rhf1 Re7 27. Rad1 Qd6
+28. Kg1 Ref7 29. Ngh2 Qe6 30. Rf2 Qg6 31. Rdf1 Kh7 32. Ng4 Kg8 33. Ngh2 Kh7 34.
+Ng4 Kg8 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "5"]
+[White "Fatin, Tarek"]
+[Black "McDonald, Neil R"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2385"]
+[BlackElo "2420"]
+[PlyCount "91"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 d6 6. Nge2 c5 7. O-O Nc6 8. d3
+Ne8 9. Be3 Nd4 10. Rb1 Nc7 11. b4 b6 12. Bxd4 cxd4 13. Nd5 Rb8 14. Nxc7 Qxc7
+15. b5 e6 16. f4 f5 17. Qb3 Kh8 18. Kh1 Bb7 19. Rfe1 fxe4 20. Bxe4 Bxe4+ 21.
+dxe4 Rbc8 22. Rbc1 e5 23. Qd3 Bh6 24. Rc2 Rce8 25. Ng1 Rf7 26. Nf3 Qb7 27. Kg2
+Qc7 28. h3 Qc5 29. fxe5 dxe5 30. Nh2 Ref8 31. Rf1 Rxf1 32. Nxf1 Qb4 33. Nh2 Qb1
+34. Nf3 Be3 35. h4 Kg7 36. Nxe5 Qg1+ 37. Kh3 Re8 38. Rg2 Qe1 39. Nf3 Qh1+ 40.
+Nh2 Rf8 41. e5 Re8 42. Qe4 Re7 43. e6 Qc1 44. Qe5+ Kg8 45. Qb8+ Kg7 46. Qd6 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "5"]
+[White "Harley, Andrew D"]
+[Black "Dunworth, Christopher N"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2255"]
+[BlackElo "2220"]
+[PlyCount "64"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 d6 3. Nc3 c6 4. Nf3 Bg7 5. Be2 Nf6 6. O-O O-O 7. Re1 Nbd7 8. Bf4
+Nh5 9. Be3 e5 10. Qd2 exd4 11. Nxd4 Nhf6 12. Bh6 Nc5 13. Bxg7 Kxg7 14. Qf4 Qe7
+15. Bc4 Re8 16. f3 Bd7 17. a4 Nh5 18. Qd2 Qf6 19. Rad1 Rad8 20. Nde2 Be6 21.
+Qd4 Qe5 22. Bxe6 Qxd4+ 23. Nxd4 fxe6 24. Kf2 e5 25. Nde2 Kf7 26. Rd2 Ke7 27.
+Red1 Rf8 28. Ke3 Ne6 29. Nb1 Nhf4 30. Nxf4 Nxf4 31. c4 Ne6 32. b4 a5 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "5"]
+[White "Martin, Benjamin"]
+[Black "Olesen, Martin"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2355"]
+[BlackElo "2320"]
+[PlyCount "81"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. Nf3 c5 2. b3 Nf6 3. Bb2 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. c4 O-O 8. e3
+Nc6 9. Nc3 a6 10. Qe2 d5 11. d3 Rc8 12. Rfd1 Rc7 13. d4 cxd4 14. Nxd4 Nxd4 15.
+Rxd4 Qc8 16. cxd5 Rxc3 17. d6 Bxg2 18. dxe7 Re8 19. Kxg2 Rc2 20. Rd2 Rxd2 21.
+Qxd2 Rxe7 22. Bxf6 gxf6 23. Rd1 Qc6+ 24. Kg1 Re8 25. Rc1 Qb7 26. Qd6 Kg7 27.
+Rc7 Qe4 28. Rc4 Qb1+ 29. Kg2 h5 30. Qxb6 Qxa2 31. h4 Qd2 32. Qxa6 Rd8 33. Qb7
+Rd7 34. Qf3 Qe1 35. Qxh5 Rd1 36. Rg4+ Kf8 37. Qc5+ Ke8 38. Rg8+ Kd7 39. Qc8+
+Kd6 40. Rd8+ Ke5 41. Qc7+ 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "5"]
+[White "Pigott, John C"]
+[Black "McFarland, Robert S"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2385"]
+[BlackElo "2290"]
+[PlyCount "86"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 12. bxc5 bxc5 13. Nb3 f5 14. Bg5 Bf6 15.
+Bd2 Bg7 16. f3 Nf6 17. Rb2 Kh8 18. Qc2 Neg8 19. Nc1 Bh6 20. Nd3 Bxd2 21. Qxd2
+fxe4 22. fxe4 Ba6 23. Ne1 Rb8 24. Rb3 Rxb3 25. axb3 Bc8 26. Nd3 Kg7 27. Ra1 Rf7
+28. Ra3 Ne8 29. Nb5 a6 30. Nc3 h5 31. Qe3 Qh4 32. Ra1 Nef6 33. Rb1 Nh6 34. h3
+Nd7 35. Nd1 Qd8 36. N1f2 Ng8 37. b4 cxb4 38. Rxb4 Qa5 39. Rb1 Ngf6 40. Rc1 Qa3
+41. Bf3 Nc5 42. Rb1 Nfd7 43. Kh2 Qc3 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "6"]
+[White "Carton, Niall"]
+[Black "Harley, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2260"]
+[BlackElo "2255"]
+[PlyCount "22"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Nf3 Bg4 7. O-O Nge7 8.
+Re1 Qd7 9. Nbd2 O-O 10. h3 Bf5 11. Nf1 Rae8 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "6"]
+[White "Dunworth, Christopher N"]
+[Black "Pigott, John C"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2220"]
+[BlackElo "2385"]
+[PlyCount "47"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 c5 2. d5 Nf6 3. Nc3 d6 4. e4 g6 5. f4 Bg7 6. Bb5+ Nfd7 7. a4 Na6 8. Nf3
+Nc7 9. O-O O-O 10. Kh1 Nxb5 11. axb5 Nb6 12. f5 gxf5 13. Nh4 fxe4 14. Nxe4 Qe8
+15. Ra3 f5 16. Rg3 Kh8 17. Ng5 Bf6 18. Nxh7 Kxh7 19. Nxf5 Bxf5 20. Rxf5 Bg7 21.
+Rxg7+ Kxg7 22. Rg5+ Kh8 23. Qd3 Rf7 24. Qh3+ 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "6"]
+[White "McDonald, Neil R"]
+[Black "Martin, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[WhiteElo "2420"]
+[BlackElo "2355"]
+[PlyCount "79"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 Nc6 5. a3 Ba5 6. Be3 Nf6 7. e5 Ng4 8. Bc1
+O-O 9. h3 Nh6 10. Bxh6 gxh6 11. b4 Bb6 12. Na4 f6 13. Nxb6 axb6 14. exf6 Qxf6
+15. f4 Bd7 16. g3 Ne7 17. Qd3 c5 18. bxc5 bxc5 19. Rb1 c4 20. Qc3 b5 21. Bg2
+Ra7 22. O-O Rfa8 23. Rf3 Bc6 24. f5 Nxf5 25. g4 Rxa3 26. Qxa3 Rxa3 27. Rxa3
+Nxd4 28. Ng3 Nxc2 29. Rf3 Qd4+ 30. Kh1 Ne3 31. Re1 Nxg2 32. Kxg2 Bd7 33. Ref1
+Qb2+ 34. R1f2 Qg7 35. Nh5 Qe7 36. Nf6+ Kg7 37. Nh5+ Kg8 38. Nf6+ Kg7 39. Nh5+
+Kg8 40. Nf6+ 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "6"]
+[White "McFarland, Robert S"]
+[Black "Fatin, Tarek"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "2290"]
+[BlackElo "2385"]
+[PlyCount "79"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O d5 5. d3 Bg4 6. h3 Bf5 7. Na3 h6 8. c4 e6
+9. Qa4 Qd7 10. Nc2 Be7 11. a3 O-O 12. Kh2 a6 13. Ne3 Bh7 14. Qd1 b5 15. b3 Rab8
+16. cxd5 exd5 17. Bb2 d4 18. Nc2 a5 19. b4 Rfd8 20. Rc1 Rbc8 21. bxc5 Bxc5 22.
+Na1 Qe7 23. Qb3 b4 24. axb4 axb4 25. Rc2 Nd5 26. Nxd4 Bxd4 27. Bxd5 Na5 28. Qa2
+Rxc2 29. Nxc2 Bxb2 30. Qxa5 Bc3 31. e4 Rc8 32. Qa6 Qc7 33. Bb3 Rd8 34. Ne3 Rd6
+35. Qa8+ Rd8 36. Qa6 Kh8 37. Nd5 Bg6 38. Kg2 Qe5 39. Qb6 Rb8 40. Qa7 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "6"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Olesen, Martin"]
+[Result "1-0"]
+[ECO "E68"]
+[WhiteElo "2305"]
+[BlackElo "2320"]
+[PlyCount "69"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 a6 11. Be3 Rb8 12. a4 Nc5 13. Qc2 a5 14. Rad1 Bd7 15.
+Ndb5 Qc8 16. Na7 Qd8 17. Nab5 b6 18. Rfe1 Qc8 19. Kh2 Re5 20. g4 Qd8 21. f4 Re8
+22. Kg3 Ne6 23. e5 dxe5 24. fxe5 Nxg4 25. hxg4 Bxe5+ 26. Kf2 Qh4+ 27. Kf1 Rbd8
+28. Bf2 Qh2 29. Nd5 Bc8 30. Bg1 Qg3 31. Re3 Qh4 32. Rxe5 c6 33. Bf2 Qh2 34.
+Nf6+ Kf8 35. Ree1 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "7"]
+[White "Fatin, Tarek"]
+[Black "Dunworth, Christopher N"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "2385"]
+[BlackElo "2220"]
+[PlyCount "83"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. Nf3 d6 2. c4 g6 3. Nc3 Bg7 4. d3 e5 5. Bg5 f6 6. Bd2 f5 7. Qc1 Nd7 8. g3 c6
+9. Bg2 a5 10. O-O Ngf6 11. Bh6 O-O 12. Bxg7 Kxg7 13. Qc2 Rb8 14. a3 h6 15. b4
+b5 16. Nd2 Bb7 17. Nb3 axb4 18. axb4 bxc4 19. dxc4 Ba8 20. b5 cxb5 21. cxb5
+Bxg2 22. Kxg2 Qc7 23. Qd3 Rfc8 24. Rfc1 Nc5 25. Nxc5 Qxc5 26. Ra6 e4 27. Qd1
+Ng4 28. Nxe4 Qxc1 29. Ra7+ Rc7 30. Qxc1 Rxa7 31. Nxd6 Rd8 32. b6 Rad7 33. Nc4
+Rc8 34. Qb2+ Nf6 35. Na5 Rb8 36. b7 Re7 37. Qb6 Rf7 38. Qa7 Rff8 39. Nc6 Nd7
+40. Qd4+ Nf6 41. Nxb8 Rxb8 42. Qb6 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "7"]
+[White "Harley, Andrew D"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2255"]
+[BlackElo "2305"]
+[PlyCount "43"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4
+Rc8 9. Bb2 Nh6 10. Bd3 Na5 11. Nc3 Nc4 12. Qb3 a5 13. b5 a4 14. Nxa4 Qa5+ 15.
+Bc3 Qxb5 16. Qxb5 Bxb5 17. Nb6 Rc6 18. Nxc4 Bxc4 19. Kd2 Bxd3 20. Kxd3 Kd7 21.
+Rhb1 b6 22. a4 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "7"]
+[White "Martin, Benjamin"]
+[Black "McFarland, Robert S"]
+[Result "1-0"]
+[ECO "B15"]
+[WhiteElo "2355"]
+[BlackElo "2290"]
+[PlyCount "79"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d5 5. h3 Nf6 6. e5 Ne4 7. Bd3 Nxc3 8. bxc3
+c5 9. O-O Nc6 10. Re1 O-O 11. Be3 Qa5 12. Qd2 cxd4 13. cxd4 Qxd2 14. Bxd2 Bf5
+15. Bxf5 gxf5 16. c4 Rfd8 17. c5 e6 18. Rab1 Rd7 19. Rb5 a6 20. Rb6 Rc8 21.
+Reb1 Rcc7 22. Bf4 Bf8 23. R6b2 Kg7 24. Kf1 Kg6 25. Bd2 Bh6 26. Bc3 Bg5 27. Ke2
+Bh6 28. Kd3 Bg5 29. Rg1 h5 30. g4 hxg4 31. hxg4 f4 32. Rh1 f6 33. exf6 Bxf6 34.
+Re2 Re7 35. Rh5 Rc8 36. Bd2 Nxd4 37. Nxd4 e5 38. Nf5 e4+ 39. Kc2 Rxc5+ 40. Kd1
+1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "7"]
+[White "Olesen, Martin"]
+[Black "McDonald, Neil R"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2320"]
+[BlackElo "2420"]
+[PlyCount "33"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. dxc5 Bxc5 7. Bd3 Nge7 8. b4
+Bb6 9. b5 Na5 10. a4 Rc8 11. O-O Nc4 12. Nbd2 Nxd2 13. Bxd2 Ng6 14. Re1 Bc5 15.
+Ng5 Qe7 16. Qh5 Kd8 17. Qf3 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "7"]
+[White "Pigott, John C"]
+[Black "Carton, Niall"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[WhiteElo "2385"]
+[BlackElo "2260"]
+[PlyCount "57"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. Nf3 Nxc5 7. Bd2 b6 8. e3
+Bb7 9. Be2 O-O 10. O-O Rc8 11. Nb5 Bxd2 12. Nxd2 a6 13. Nd6 Rc6 14. Nxb7 Nxb7
+15. b4 d5 16. Qa4 Qc7 17. Qxa6 dxc4 18. Bf3 Nd5 19. b5 Rd6 20. Nxc4 Qxc4 21.
+Rfc1 Qb4 22. a3 Qa5 23. Qxb7 Qxb5 24. e4 Nf4 25. Rab1 Qg5 26. Rc8 Ng6 27. g3
+Qa5 28. Kg2 Qxa3 29. Rxf8+ 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "8"]
+[White "Carton, Niall"]
+[Black "Fatin, Tarek"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2260"]
+[BlackElo "2385"]
+[PlyCount "85"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 e6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+Be7 9. Be3 O-O 10. Qe2 d6 11. Rad1 Rb8 12. h3 Ne5 13. g4 Nc4 14. Bc1 b5 15. g5
+Ne8 16. Rd3 b4 17. Nd1 g6 18. b3 Ne5 19. Rg3 Ng7 20. f4 Nh5 21. Re3 Qb6 22. Bb2
+Nd7 23. h4 e5 24. Nf5 Bd8 25. Kh2 f6 26. Nh6+ Kg7 27. f5 fxg5 28. fxg6 Rxf1 29.
+Qxf1 Nf4 30. gxh7 Kxh7 31. hxg5 Nf8 32. Rg3 Rb7 33. Bc1 N8g6 34. Nf5 Kh8 35.
+Be3 Qc6 36. Qf2 Rc7 37. Qd2 Nxg2 38. Rxg2 Rh7+ 39. Kg1 Bxf5 40. exf5 Nh4 41.
+Qe2 Nxg2 42. Qxg2 Qxg2+ 43. Kxg2 0-1
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "8"]
+[White "Dunworth, Christopher N"]
+[Black "Martin, Benjamin"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2220"]
+[BlackElo "2355"]
+[PlyCount "79"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. dxc5 Bxc5 7. b4 Bb6 8. b5
+Na5 9. Bd3 Ne7 10. O-O Ng6 11. a4 Qc7 12. Re1 O-O 13. Ba3 Bc5 14. Bxc5 Qxc5 15.
+h4 Rac8 16. Ra2 Nc4 17. Ng5 Qe7 18. g3 h6 19. Nf3 f5 20. Nbd2 Na5 21. Nb3 Nc4
+22. Nbd4 Rc5 23. Qb3 Rfc8 24. Qb4 Qd8 25. Nc6 Qf8 26. Nxa7 Ra8 27. b6 Na5 28.
+Nd4 Nh8 29. Bb5 Bxb5 30. axb5 Nc4 31. Nxe6 Qe7 32. Nxc5 Nxe5 33. Kg2 Qd6 34.
+Nd3 Qxb6 35. Rxe5 Rxa7 36. Rxa7 Qxa7 37. Re8+ Kh7 38. Qf8 f4 39. Qxh8+ Kg6 40.
+Nxf4+ 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "8"]
+[White "Harley, Andrew D"]
+[Black "Pigott, John C"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2255"]
+[BlackElo "2385"]
+[PlyCount "49"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 b6 7. Bd3 Bb4+ 8. Bd2
+Bxd2+ 9. Qxd2 Ba6 10. Be4 Nc6 11. Bxd5 exd5 12. Nc3 Nb4 13. a3 Nd3+ 14. Kd1 d6
+15. Ne1 Nxe1 16. Rxe1 O-O 17. Kc2 Rc8 18. Qf4 Rc6 19. exd6 Rxd6 20. Re5 Bc8 21.
+Rae1 Be6 22. R1e3 Qd7 23. Rg3 f6 24. Rh5 Bf7 25. Rxg7+ 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "8"]
+[White "McFarland, Robert S"]
+[Black "Olesen, Martin"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2290"]
+[BlackElo "2320"]
+[PlyCount "131"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 d6 5. e3 f5 6. Nge2 Nf6 7. d3 O-O 8. O-O
+Nc6 9. Rb1 Be6 10. Nd5 Rb8 11. b4 e4 12. Nef4 Bf7 13. Nxf6+ Bxf6 14. Nd5 Bg7
+15. d4 b5 16. Qc2 bxc4 17. Qxc4 Nxb4 18. Rxb4 Rxb4 19. Qxb4 Bxd5 20. Qa5 c5 21.
+Qxa7 cxd4 22. exd4 Qb8 23. Qa5 Qb7 24. Bf4 Ra8 25. Qc3 Qb6 26. Be3 Qa5 27. Qc2
+Qa4 28. Qc7 Qc6 29. Qe7 Bf8 30. Qg5 Qd7 31. h4 Be7 32. Qh6 Bf8 33. Qg5 Bf7 34.
+Ra1 h6 35. Qf4 Rxa2 36. Rxa2 Bxa2 37. Bh3 h5 38. Qg5 Bf7 39. Bf1 Qe6 40. Qd8
+Qe7 41. Qb8 Qe8 42. Qb7 Bg7 43. Bb5 Qe6 44. Bc6 d5 45. Kf1 Bf6 46. Qb8+ Kg7 47.
+Bb5 Qe7 48. Bc6 Qd8 49. Qa7 Qd6 50. Qb7 Qe6 51. Qc7 f4 52. gxf4 Bxh4 53. Bd7
+Qe7 54. Qc8 Bf6 55. f5 g5 56. Qc6 Qb4 57. Kg2 Be7 58. Be6 Qd6 59. Qxd6 Bxd6 60.
+Bxg5 Bxe6 61. fxe6 Kf8 62. Kh3 Be7 63. Kh4 Bb4 64. Kxh5 Be1 65. Bh4 Bc3 66. Bf6
+1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "8"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "McDonald, Neil R"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2305"]
+[BlackElo "2420"]
+[PlyCount "81"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 c5 6. dxc5 Bxc5 7. e3 Nc6 8. a3
+a6 9. Qc2 dxc4 10. Rd1 Qa5 11. Bxc4 Be7 12. O-O O-O 13. Ne4 Nxe4 14. Qxe4 Qf5
+15. Qxf5 exf5 16. Rd2 Be6 17. Bxe6 fxe6 18. Rd7 Bf6 19. Rxb7 Na5 20. Rb4 Rfc8
+21. Bg5 Kf7 22. Rd1 Bxg5 23. Nxg5+ Kf6 24. h4 h6 25. Nf3 Rab8 26. Ra4 Nc4 27.
+Rxa6 Rxb2 28. Rd7 g5 29. Rh7 g4 30. Nd4 Kg6 31. Re7 Nd2 32. Rexe6+ Kf7 33. Rf6+
+Kg8 34. Rg6+ Kh7 35. Rxh6+ Kg8 36. g3 Rc1+ 37. Kg2 Ne4 38. Ra8+ Kf7 39. Ra7+
+Kg8 40. Ra8+ Kf7 41. Ra7+ 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "9"]
+[White "Fatin, Tarek"]
+[Black "Harley, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2385"]
+[BlackElo "2255"]
+[PlyCount "100"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. g3 e6 3. Nf3 d5 4. b3 Be7 5. Bg2 O-O 6. Bb2 b6 7. O-O Bb7 8. d3
+Nbd7 9. Qc2 c5 10. e3 Qc7 11. Nbd2 Rac8 12. Rac1 Qb8 13. Qb1 Rfd8 14. Rfd1 Qa8
+15. cxd5 Nxd5 16. e4 Nb4 17. Nc4 Nf6 18. Nfe5 Nc6 19. Nxc6 Bxc6 20. Ne5 Bb7 21.
+Qc2 Nd7 22. Nc4 Nb8 23. f4 Nc6 24. Qf2 Nd4 25. g4 f5 26. gxf5 exf5 27. Re1 Rc7
+28. Kh1 Qc8 29. Ne3 g6 30. Nd5 Bxd5 31. exd5 Bf6 32. Re3 Qd7 33. Rce1 Qf7 34.
+Re5 Rcd7 35. Bxd4 cxd4 36. Re6 Rd6 37. R6e2 Qd7 38. Rc2 Rc8 39. Rec1 Rxc2 40.
+Rxc2 Kf7 41. a4 Qe7 42. Kg1 Rd7 43. Rc6 Qe3 44. Qxe3 dxe3 45. Kf1 Be7 46. Ke2
+Bc5 47. a5 Ke7 48. b4 Bxb4 49. axb6 axb6 50. Rxb6 Bd6 1/2-1/2
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "9"]
+[White "Martin, Benjamin"]
+[Black "Carton, Niall"]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "2355"]
+[BlackElo "2260"]
+[PlyCount "79"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d6 5. Bg2 O-O 6. O-O e5 7. c4 Nc6 8. d3
+Nh5 9. Nc3 f5 10. Qd2 Bd7 11. Rac1 f4 12. Nd5 g5 13. c5 g4 14. Ne1 Bh6 15. Be4
+Bg5 16. gxf4 Nxf4 17. e3 Nh3+ 18. Kh1 Qe8 19. f4 Qh5 20. Qg2 Bd8 21. Nf3 Be6
+22. cxd6 cxd6 23. fxe5 dxe5 24. b4 a6 25. a4 Kh8 26. Nxe5 Rxf1+ 27. Rxf1 Nxe5
+28. Qg3 Kg8 29. Bxe5 Rc8 30. Nf6+ Bxf6 31. Bxf6 Bd5 32. Bxd5+ Qxd5+ 33. e4 Qe6
+34. Qg2 h5 35. d4 Qb3 36. Qg3 Qc2 37. Qe5 Qc4 38. Qf5 Qxf1+ 39. Qxf1 Rc2 40.
+Bh4 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "9"]
+[White "McDonald, Neil R"]
+[Black "McFarland, Robert S"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2420"]
+[BlackElo "2290"]
+[PlyCount "49"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 g6 2. Nc3 Bg7 3. f4 c5 4. Nf3 Nc6 5. Bb5 Nd4 6. O-O a6 7. Bd3 d6 8. Nxd4
+cxd4 9. Ne2 Nf6 10. Kh1 O-O 11. Nxd4 Nxe4 12. Bxe4 Bxd4 13. Qf3 Qd7 14. f5 Bg7
+15. g4 Rb8 16. d3 b5 17. Bg5 Bxb2 18. Rae1 Bf6 19. Bxf6 exf6 20. Qh3 Kg7 21. g5
+fxg5 22. f6+ Kh8 23. Qh6 Rg8 24. Re3 g4 25. Rf4 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "9"]
+[White "Olesen, Martin"]
+[Black "Dunworth, Christopher N"]
+[Result "1-0"]
+[ECO "B70"]
+[WhiteElo "2320"]
+[BlackElo "2220"]
+[PlyCount "99"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 d6 3. Bg5 Bg7 4. Nf3 c5 5. Nc3 cxd4 6. Nxd4 Nc6 7. Nb3 Nf6 8.
+Be2 O-O 9. O-O Be6 10. Kh1 Rc8 11. f4 a6 12. Bf3 Qc7 13. Qe1 b5 14. Nd5 Bxd5
+15. exd5 Nb8 16. c3 Rfe8 17. Qh4 Nbd7 18. Rfe1 Nc5 19. Re2 b4 20. cxb4 Nxb3 21.
+axb3 Rb8 22. f5 Qb7 23. Bd2 Rec8 24. Rae1 Rc7 25. Bc3 Qb5 26. h3 Re8 27. Qf4
+Qd3 28. fxg6 hxg6 29. Rd2 Qb5 30. Be2 Qb7 31. Bc4 Rcc8 32. Rde2 Ra8 33. Qf3
+Rab8 34. Qd3 Ra8 35. b5 axb5 36. Bxb5 Qxd5 37. Qxd5 Nxd5 38. Bxg7 Kxg7 39. Bc6
+Nf4 40. Re4 Ne6 41. Bxe8 Rxe8 42. Rb4 Nc5 43. Rb6 Kf8 44. Re2 Rd8 45. b4 Nd3
+46. Rb7 e6 47. Rd2 Ne5 48. b5 d5 49. b6 d4 50. Rc7 1-0
+
+[Event "St Peters de Beauvoir 1st"]
+[Site "London, Islington"]
+[Date "1994.12.??"]
+[Round "9"]
+[White "Pigott, John C"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2385"]
+[BlackElo "2305"]
+[PlyCount "23"]
+[EventDate "1994.12.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "4"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.06.01"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.06.01"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 Nf6 4. e3 Bg4 5. Nf3 e6 6. c4 c6 7. Qb3 Qa5+ 8. Nc3
+Qb4 9. Ne5 Bf5 10. c5 Qxb3 11. axb3 Nbd7 12. Nxd7 1/2-1/2
+
