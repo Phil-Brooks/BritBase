@@ -1,4 +1,4 @@
-import json
+﻿import json
 import os
 import re
 
@@ -8,11 +8,11 @@ from bs4 import BeautifulSoup
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 JSON_OUT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "BritBase", "Data", "brit10.json"))
 PGN_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "BritBase", "Data", "pgn"))
-PAGE_URL = "https://www.saund.co.uk/britbase/britpre1920.html"
-BASE_URL = "https://www.saund.co.uk/britbase/"
+PAGE_URL = "https://www.saund.org.uk/britbase/brit2010.htm"
+BASE_URL = "https://www.saund.org.uk/britbase/"
 
 
-def download_pgn(filename: str):
+def download_pgn(filename: str, viewer_hint: str = ""):
     if not filename:
         return
 
@@ -21,7 +21,7 @@ def download_pgn(filename: str):
     if os.path.exists(dest) and os.path.getsize(dest) > 0:
         return
 
-    viewer_file = filename.replace(".pgn", "-viewer.html")
+    viewer_file = viewer_hint or filename.replace(".pgn", "-viewer.html")
     url = f"{BASE_URL}pgn/{filename}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
@@ -42,29 +42,35 @@ def parse_page():
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
 
-    table = soup.select("table")[-1] if soup.select("table") else None
+    table = None
+    for candidate in soup.select("table"):
+        row_count = len(candidate.find_all("tr"))
+        if row_count > 20:
+            table = candidate
+            break
+
     if table is None:
-        raise RuntimeError("Could not find any tournament tables on britpre1920.html")
+        raise RuntimeError("Could not find the 2010s tournament table")
 
     current_year = None
     tournaments = []
 
     for row in table.find_all("tr"):
         cells = row.find_all(["td", "th"])
-        if len(cells) < 5:
+        if len(cells) < 4:
             continue
 
         texts = [c.get_text(" ", strip=True) for c in cells]
         first = texts[0].strip() if texts else ""
 
-        if re.fullmatch(r"191\d", first):
+        if re.fullmatch(r"201[0-9]", first):
             current_year = int(first)
             continue
 
         if not first or "winner" in first.lower() or "date posted" in first.lower():
             continue
 
-        if not (1910 <= (current_year or 0) <= 1919):
+        if current_year is None:
             continue
 
         name = texts[0].strip()
@@ -75,6 +81,7 @@ def parse_page():
         date_updated = texts[5].strip() if len(texts) > 5 else ""
 
         pgn_file = ""
+        viewer_hint = ""
         for link in row.select("a[href]"):
             href = link.get("href", "").strip()
             if not href:
@@ -83,7 +90,8 @@ def parse_page():
                 pgn_file = os.path.basename(href)
                 break
             if href.lower().endswith("-viewer.html"):
-                pgn_file = os.path.basename(href.replace("-viewer.html", ".pgn"))
+                viewer_hint = os.path.basename(href)
+                pgn_file = os.path.basename(href).replace("-viewer.html", ".pgn")
                 break
 
         tournaments.append({

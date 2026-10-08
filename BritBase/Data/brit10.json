@@ -1,52 +1,1132 @@
 [
   {
-    "Year": 1910,
-    "Name": "BCF-ch 7th",
-    "Winner": "",
-    "StartDate": "1910.08.15",
-    "EndDate": "1910.08.15",
-    "GamesCount": "97",
-    "DateUpdated": "2026.10.08",
-    "PgnFileName": "191008bcf.pgn"
+    "Year": 2010,
+    "Name": "Uxbridge Internationals",
+    "Winner": "Various",
+    "StartDate": "2010.02.13",
+    "EndDate": "2010.02.17",
+    "GamesCount": "225",
+    "DateUpdated": "2010.03.30",
+    "PgnFileName": "201002uxbridge.pgn"
   },
   {
-    "Year": 1911,
-    "Name": "BCF-ch 8th",
-    "Winner": "",
-    "StartDate": "1911.08.14",
-    "EndDate": "1911.08.14",
-    "GamesCount": "78",
-    "DateUpdated": "2026.10.08",
-    "PgnFileName": "191108bcf.pgn"
+    "Year": 2010,
+    "Name": "BUCA (Univ Team Champ)",
+    "Winner": "Bath University",
+    "StartDate": "2010.02.27",
+    "EndDate": "2010.02.28",
+    "GamesCount": "132",
+    "DateUpdated": "2010.03.29",
+    "PgnFileName": "201002buca.pgn"
   },
   {
-    "Year": 1912,
-    "Name": "BCF-ch 9th",
-    "Winner": "",
-    "StartDate": "1912.08.12",
-    "EndDate": "1912.08.12",
-    "GamesCount": "103",
-    "DateUpdated": "2026.10.08",
-    "PgnFileName": "191208bcf.pgn"
+    "Year": 2010,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Drawn",
+    "StartDate": "2010.03.06",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2010.03.07",
+    "PgnFileName": "201003vars.pgn"
   },
   {
-    "Year": 1913,
-    "Name": "BCF-ch 10th",
-    "Winner": "",
-    "StartDate": "1913.08.11",
-    "EndDate": "1913.08.11",
-    "GamesCount": "64",
-    "DateUpdated": "2026.10.08",
-    "PgnFileName": "191308bcf.pgn"
+    "Year": 2010,
+    "Name": "Uxbridge Open",
+    "Winner": "Jovanka Houska",
+    "StartDate": "2010.03.19",
+    "EndDate": "2010.03.21",
+    "GamesCount": "96",
+    "DateUpdated": "2010.03.30",
+    "PgnFileName": "201003uxbridge.pgn"
   },
   {
-    "Year": 1914,
-    "Name": "BCF-ch 11th",
+    "Year": 2010,
+    "Name": "Uxbridge Major",
+    "Winner": "N Savage",
+    "StartDate": "2010.03.19",
+    "EndDate": "2010.03.21",
+    "GamesCount": "95^",
+    "DateUpdated": "2010.03.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2010,
+    "Name": "Leics County Champ",
+    "Winner": "Alan Byron",
+    "StartDate": "2010.05.27",
+    "EndDate": "2010.09.09",
+    "GamesCount": "47",
+    "DateUpdated": "2022.12.14",
+    "PgnFileName": "201005leics.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "GBR-ch97 Canterbury",
+    "Winner": "Michael Adams",
+    "StartDate": "2010.07.06",
+    "EndDate": "2010.08.06",
+    "GamesCount": "428",
+    "DateUpdated": "2017.08.09",
+    "PgnFileName": "201007britchamp.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "Civil Service Championship",
+    "Winner": "John Wager",
+    "StartDate": "2010.07.21",
+    "EndDate": "2010.07.23",
+    "GamesCount": "35",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "201007civilservice.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "Paignton Premier",
+    "Winner": "Keith Arkell",
+    "StartDate": "2010.09.05",
+    "EndDate": "2010.09.11",
+    "GamesCount": "159",
+    "DateUpdated": "2022.12.14",
+    "PgnFileName": "201009paignton.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "HE Atkins Leicester",
+    "Winner": "Mark Hebden",
+    "StartDate": "2010.10.01",
+    "EndDate": "2010.10.03",
+    "GamesCount": "91",
+    "DateUpdated": "2012.12.15",
+    "PgnFileName": "201010atkins.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "Guernsey Open",
+    "Winner": "Nicholas Pert",
+    "StartDate": "2010.10.17",
+    "EndDate": "2010.10.23",
+    "GamesCount": "207",
+    "DateUpdated": "2024.12.19",
+    "PgnFileName": "201010guernsey.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "Guernsey Holiday",
+    "Winner": "Pieter Sandijck",
+    "StartDate": "2010.10.17",
+    "EndDate": "2010.10.23",
+    "GamesCount": "163^",
+    "DateUpdated": "2024.12.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2010,
+    "Name": "Hampshire Championship",
+    "Winner": "Michael Yeo",
+    "StartDate": "2010.11.12",
+    "EndDate": "2010.11.14",
+    "GamesCount": "45",
+    "DateUpdated": "2022.12.15",
+    "PgnFileName": "201011hampshire.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "Hampshire Major",
+    "Winner": "Tom Slater",
+    "StartDate": "2010.11.12",
+    "EndDate": "2010.11.14",
+    "GamesCount": "40^",
+    "DateUpdated": "2022.12.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2010,
+    "Name": "Brighton Open",
+    "Winner": "Keith Arkell",
+    "StartDate": "2010.11.12",
+    "EndDate": "2010.11.14",
+    "GamesCount": "108",
+    "DateUpdated": "2024.12.19",
+    "PgnFileName": "201011brighton.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "Brighton Major",
+    "Winner": "Sydney Jacob",
+    "StartDate": "2010.11.12",
+    "EndDate": "2010.11.14",
+    "GamesCount": "96^",
+    "DateUpdated": "2024.12.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2010,
+    "Name": "Viktor Korchnoi Simul 1",
+    "Winner": "+20, =4, -1",
+    "StartDate": "2010.12.14",
+    "EndDate": "",
+    "GamesCount": "11",
+    "DateUpdated": "2010.12.20",
+    "PgnFileName": "201012korchnoisimuls.pgn"
+  },
+  {
+    "Year": 2010,
+    "Name": "Viktor Korchnoi Simul 2",
+    "Winner": "+23, =3, -3",
+    "StartDate": "2010.12.15",
+    "EndDate": "",
+    "GamesCount": "29^",
+    "DateUpdated": "2010.12.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2010,
+    "Name": "Hastings Masters",
+    "Winner": "D Sengupta, A Das",
+    "StartDate": "2010.12.28",
+    "EndDate": "2011.01.05",
+    "GamesCount": "448",
+    "DateUpdated": "2026.03.31",
+    "PgnFileName": "201012hast.pgn"
+  },
+  {
+    "Year": 2011,
+    "Name": "County Ch'ship Final",
+    "Winner": "Surrey",
+    "StartDate": "2011.07.07",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201107countyfinal.pgn"
+  },
+  {
+    "Year": 2011,
+    "Name": "Civil Service Championship",
+    "Winner": "Tony Ashby",
+    "StartDate": "2011.07.20",
+    "EndDate": "2011.07.22",
+    "GamesCount": "26",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "201107civilservice.pgn"
+  },
+  {
+    "Year": 2011,
+    "Name": "GBR-ch98 Sheffield",
+    "Winner": "Michael Adams",
+    "StartDate": "2011.07.24",
+    "EndDate": "2011.08.05",
+    "GamesCount": "469+4",
+    "DateUpdated": "2026.09.20",
+    "PgnFileName": "201107britchamp.pgn"
+  },
+  {
+    "Year": 2011,
+    "Name": "GBR-ch98 Play-Off",
+    "Winner": "Michael Adams",
+    "StartDate": "2011.08.06",
+    "EndDate": "",
+    "GamesCount": "2^",
+    "DateUpdated": "2026.09.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2011,
+    "Name": "Hampshire Championship",
+    "Winner": "Craig Hanley",
+    "StartDate": "2011.11.04",
+    "EndDate": "2011.11.06",
+    "GamesCount": "42",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": "201111hampshire.pgn"
+  },
+  {
+    "Year": 2011,
+    "Name": "Hampshire Major",
+    "Winner": "Ian Matthew",
+    "StartDate": "2011.11.04",
+    "EndDate": "2011.11.06",
+    "GamesCount": "60^",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2011,
+    "Name": "Hastings Masters",
+    "Winner": "Wang Yue",
+    "StartDate": "2011.12.28",
+    "EndDate": "2012.01.05",
+    "GamesCount": "499",
+    "DateUpdated": "2026.02.26",
+    "PgnFileName": "201112hast.pgn"
+  },
+  {
+    "Year": 2012,
+    "Name": "County Ch'ship Final",
+    "Winner": "Middlesex",
+    "StartDate": "2012.07.07",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201207countyfinal.pgn"
+  },
+  {
+    "Year": 2012,
+    "Name": "Civil Service Championship",
+    "Winner": "Francis Bowers",
+    "StartDate": "2012.07.18",
+    "EndDate": "2012.07.20",
+    "GamesCount": "30",
+    "DateUpdated": "2024.12.29",
+    "PgnFileName": "201207civilservice.pgn"
+  },
+  {
+    "Year": 2012,
+    "Name": "GBR-ch99 North Shields",
+    "Winner": "Gawain Jones",
+    "StartDate": "2012.07.23",
+    "EndDate": "2012.08.04",
+    "GamesCount": "374",
+    "DateUpdated": "2015.10.15",
+    "PgnFileName": "201207britchamp.pgn"
+  },
+  {
+    "Year": 2012,
+    "Name": "Thanet Open",
+    "Winner": "Martin Taylor",
+    "StartDate": "2012.08.17",
+    "EndDate": "2012.08.19",
+    "GamesCount": "55",
+    "DateUpdated": "2015.10.15",
+    "PgnFileName": "201208thanet.pgn"
+  },
+  {
+    "Year": 2012,
+    "Name": "Hampshire Championship",
+    "Winner": "Dominic Tunks",
+    "StartDate": "2012.11.16",
+    "EndDate": "2012.11.18",
+    "GamesCount": "41",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": "201211hampshire.pgn"
+  },
+  {
+    "Year": 2012,
+    "Name": "Hampshire Major",
+    "Winner": "Qinke Wang",
+    "StartDate": "2012.11.16",
+    "EndDate": "2012.11.18",
+    "GamesCount": "62^",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2012,
+    "Name": "Hastings Masters",
+    "Winner": "Gawain Jones",
+    "StartDate": "2012.12.28",
+    "EndDate": "2013.01.06",
+    "GamesCount": "403",
+    "DateUpdated": "2026.02.21",
+    "PgnFileName": "201212hast.pgn"
+  },
+  {
+    "Year": 2013,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Cambridge",
+    "StartDate": "2013.03.09",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2013.03.09",
+    "PgnFileName": "201303vars.pgn"
+  },
+  {
+    "Year": 2013,
+    "Name": "County Ch'ship Final",
+    "Winner": "Surrey",
+    "StartDate": "2013.07.13",
+    "EndDate": "",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2013,
+    "Name": "GBR-ch100 Torquay",
+    "Winner": "David Howell",
+    "StartDate": "2013.07.29",
+    "EndDate": "2013.08.09",
+    "GamesCount": "579",
+    "DateUpdated": "2015.09.06",
+    "PgnFileName": "201307britchamp.pgn"
+  },
+  {
+    "Year": 2013,
+    "Name": "GBR-ch100 - Other Events",
     "Winner": "",
-    "StartDate": "1914.08.10",
-    "EndDate": "1914.08.10",
-    "GamesCount": "88",
-    "DateUpdated": "2026.10.08",
-    "PgnFileName": "191408bcf.pgn"
+    "StartDate": "2013.07.29",
+    "EndDate": "2013.08.09",
+    "GamesCount": "1,715",
+    "DateUpdated": "2015.09.06",
+    "PgnFileName": "201307britsubsid.pgn"
+  },
+  {
+    "Year": 2013,
+    "Name": "Thanet Open",
+    "Winner": "Martin Taylor",
+    "StartDate": "2013.08.16",
+    "EndDate": "2013.08.18",
+    "GamesCount": "49",
+    "DateUpdated": "2016.02.16",
+    "PgnFileName": "201308thanet.pgn"
+  },
+  {
+    "Year": 2013,
+    "Name": "Hampshire Championship",
+    "Winner": "A Ruiz, D Tunks",
+    "StartDate": "2013.11.08",
+    "EndDate": "2013.11.10",
+    "GamesCount": "40",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": "201311hampshire.pgn"
+  },
+  {
+    "Year": 2013,
+    "Name": "Hampshire Major",
+    "Winner": "(shared)",
+    "StartDate": "2013.11.08",
+    "EndDate": "2013.11.10",
+    "GamesCount": "72^",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2013,
+    "Name": "Tradewise Hastings Masters",
+    "Winner": "Qun Ma, M Mchedlishvili, I Khenkin, J Vakhidov, J Sarkar, M Hebden, J Radovanovic",
+    "StartDate": "2013.12.28",
+    "EndDate": "2014.01.05",
+    "GamesCount": "404",
+    "DateUpdated": "2026.02.21",
+    "PgnFileName": "201312hast.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Drawn",
+    "StartDate": "2014.03.08",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2014.03.08",
+    "PgnFileName": "201403vars.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "County Ch'ship Final",
+    "Winner": "Yorkshire",
+    "StartDate": "2014.07.12",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201407countyfinal.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "GBR-ch101 Aberystwyth",
+    "Winner": "D Howell / J Hawkins",
+    "StartDate": "2014.07.19",
+    "EndDate": "2014.07.30",
+    "GamesCount": "308",
+    "DateUpdated": "2015.07.24",
+    "PgnFileName": "201407britchamp.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "GBR-ch101 - Other Events",
+    "Winner": "",
+    "StartDate": "2014.07.19",
+    "EndDate": "2014.08.02",
+    "GamesCount": "2,013",
+    "DateUpdated": "2015.07.24",
+    "PgnFileName": "201407britother.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "Thanet Open",
+    "Winner": "G Scott, A Merry",
+    "StartDate": "2014.08.15",
+    "EndDate": "2014.08.17",
+    "GamesCount": "45",
+    "DateUpdated": "2016.02.16",
+    "PgnFileName": "201408thanet.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "Isle of Man International",
+    "Winner": "Nigel Short",
+    "StartDate": "2014.10.04",
+    "EndDate": "2014.10.12",
+    "GamesCount": "324",
+    "DateUpdated": "2018.01.09",
+    "PgnFileName": "201410iom.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "Hampshire Championship",
+    "Winner": "Tony Corkett",
+    "StartDate": "2014.11.07",
+    "EndDate": "2014.11.09",
+    "GamesCount": "33",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": "201411hampshire.pgn"
+  },
+  {
+    "Year": 2014,
+    "Name": "Hampshire Major",
+    "Winner": "Matthew Wilson",
+    "StartDate": "2014.11.07",
+    "EndDate": "2014.11.09",
+    "GamesCount": "65^",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2014,
+    "Name": "Tradewise Hastings Masters",
+    "Winner": "Zhao Jun",
+    "StartDate": "2014.12.29",
+    "EndDate": "2015.01.06",
+    "GamesCount": "438",
+    "DateUpdated": "2026.02.21",
+    "PgnFileName": "201412hast.pgn"
+  },
+  {
+    "Year": 2015,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Drawn",
+    "StartDate": "2015.03.07",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2015.03.07",
+    "PgnFileName": "201503vars.pgn"
+  },
+  {
+    "Year": 2015,
+    "Name": "County Ch'ship Final",
+    "Winner": "Yorkshire",
+    "StartDate": "2015.07.04",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201507countyfinal.pgn"
+  },
+  {
+    "Year": 2015,
+    "Name": "GBR-ch102 Coventry",
+    "Winner": "Jonathan Hawkins",
+    "StartDate": "2015.07.27",
+    "EndDate": "2015.08.07",
+    "GamesCount": "405",
+    "DateUpdated": "2015.08.09",
+    "PgnFileName": "201507britchamp.pgn"
+  },
+  {
+    "Year": 2015,
+    "Name": "GBR-ch102 - Other Events",
+    "Winner": "",
+    "StartDate": "2015.07.27",
+    "EndDate": "2015.08.07",
+    "GamesCount": "2,314",
+    "DateUpdated": "2015.08.09",
+    "PgnFileName": "201507britother.pgn"
+  },
+  {
+    "Year": 2015,
+    "Name": "Isle of Man International",
+    "Winner": "Pentala Harikrishna",
+    "StartDate": "2015.10.03",
+    "EndDate": "2015.10.11",
+    "GamesCount": "393",
+    "DateUpdated": "2018.01.09",
+    "PgnFileName": "201510iom.pgn"
+  },
+  {
+    "Year": 2015,
+    "Name": "Hampshire Championship",
+    "Winner": "Rowan Brown",
+    "StartDate": "2015.11.06",
+    "EndDate": "2015.11.08",
+    "GamesCount": "34",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": "201511hampshire.pgn"
+  },
+  {
+    "Year": 2015,
+    "Name": "Hampshire Major",
+    "Winner": "Matthew Wilson",
+    "StartDate": "2015.11.06",
+    "EndDate": "2015.11.08",
+    "GamesCount": "53^",
+    "DateUpdated": "2025.02.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2015,
+    "Name": "Tradewise Hastings Masters",
+    "Winner": "J Vakhidov, A Mista",
+    "StartDate": "2015.12.28",
+    "EndDate": "2016.01.05",
+    "GamesCount": "358",
+    "DateUpdated": "2016.01.16",
+    "PgnFileName": "201512hast.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Cambridge",
+    "StartDate": "2016.03.05",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2016.03.05",
+    "PgnFileName": "201603vars.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "Colin Crouch Masters",
+    "Winner": "Jakhongir Vakhidov",
+    "StartDate": "2016.04.02",
+    "EndDate": "2016.04.10",
+    "GamesCount": "183",
+    "DateUpdated": "2016.04.28",
+    "PgnFileName": "201604crouch.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "Colin Crouch Intermediate",
+    "Winner": "Tim Spanton",
+    "StartDate": "2016.04.04",
+    "EndDate": "2016.04.08",
+    "GamesCount": "40^",
+    "DateUpdated": "2016.04.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2016,
+    "Name": "English Senior Ch",
+    "Winner": "Oliver Jackson / Cliff Chandler",
+    "StartDate": "2016.04.04",
+    "EndDate": "2016.04.08",
+    "GamesCount": "53^",
+    "DateUpdated": "2016.04.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2016,
+    "Name": "County Ch'ship Final",
+    "Winner": "Yorkshire",
+    "StartDate": "2016.07.02",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201607countyfinal.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "GBR-ch103 Bournemouth",
+    "Winner": "Michael Adams",
+    "StartDate": "2016.07.25",
+    "EndDate": "2016.08.05",
+    "GamesCount": "471",
+    "DateUpdated": "2017.08.09",
+    "PgnFileName": "201607britchamp.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "GBR-ch103 - Other Events",
+    "Winner": "",
+    "StartDate": "2016.07.24",
+    "EndDate": "2016.08.05",
+    "GamesCount": "2,693",
+    "DateUpdated": "2017.08.09",
+    "PgnFileName": "201607britother.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "Isle of Man International",
+    "Winner": "Pavel Eljanov",
+    "StartDate": "2016.10.01",
+    "EndDate": "2016.10.09",
+    "GamesCount": "583",
+    "DateUpdated": "2018.01.09",
+    "PgnFileName": "201610iom.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "Hampshire Championship",
+    "Winner": "Tony Corkett",
+    "StartDate": "2016.11.04",
+    "EndDate": "2016.11.06",
+    "GamesCount": "32",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": "201611hampshire.pgn"
+  },
+  {
+    "Year": 2016,
+    "Name": "Hampshire Major",
+    "Winner": "Joe Coburn",
+    "StartDate": "2016.11.04",
+    "EndDate": "2016.11.06",
+    "GamesCount": "34^",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2016,
+    "Name": "Hastings Masters",
+    "Winner": "Deep Sengupta",
+    "StartDate": "2016.12.28",
+    "EndDate": "2017.01.05",
+    "GamesCount": "405",
+    "DateUpdated": "2026.02.21",
+    "PgnFileName": "201612hast.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Oxford",
+    "StartDate": "2017.03.11",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2017.03.11",
+    "PgnFileName": "201703vars.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "County Ch'ship Final",
+    "Winner": "Lancashire (t/b)",
+    "StartDate": "2017.07.01",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201707countyfinal.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "King's Place Rapidplay",
+    "Winner": "Luke McShane (t/b)",
+    "StartDate": "2017.07.08",
+    "EndDate": "",
+    "GamesCount": "30",
+    "DateUpdated": "2017.07.09",
+    "PgnFileName": "201707kingsplace.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "GBR-ch104 Llandudno",
+    "Winner": "Gawain Jones",
+    "StartDate": "2017.07.28",
+    "EndDate": "2017.08.06",
+    "GamesCount": "461",
+    "DateUpdated": "2017.08.09",
+    "PgnFileName": "201707britchamp.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "GBR-ch104 - Other Events",
+    "Winner": "",
+    "StartDate": "2017.07.28",
+    "EndDate": "2017.08.06",
+    "GamesCount": "2,435",
+    "DateUpdated": "2017.08.09",
+    "PgnFileName": "201707britother.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "Thanet Open",
+    "Winner": "Alan Merry",
+    "StartDate": "2017.08.18",
+    "EndDate": "2017.08.20",
+    "GamesCount": "30",
+    "DateUpdated": "2017.09.13",
+    "PgnFileName": "201708thanet.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "Isle of Man International",
+    "Winner": "Magnus Carlsen",
+    "StartDate": "2017.09.23",
+    "EndDate": "2017.10.01",
+    "GamesCount": "727",
+    "DateUpdated": "2018.01.09",
+    "PgnFileName": "201709iom.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "Isle of Man Major",
+    "Winner": "Allor Chukwuka",
+    "StartDate": "2017.09.25",
+    "EndDate": "2017.10.01",
+    "GamesCount": "125^",
+    "DateUpdated": "2018.01.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2017,
+    "Name": "Isle of Man Minor",
+    "Winner": "Ioan-Dan Gaspar",
+    "StartDate": "2017.09.25",
+    "EndDate": "2017.10.01",
+    "GamesCount": "102^",
+    "DateUpdated": "2018.01.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2017,
+    "Name": "Hampshire Championship",
+    "Winner": "Mike Waddington",
+    "StartDate": "2017.11.03",
+    "EndDate": "2017.11.05",
+    "GamesCount": "36",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": "201711hampshire.pgn"
+  },
+  {
+    "Year": 2017,
+    "Name": "Hampshire Major",
+    "Winner": "Geoffrey M Brown",
+    "StartDate": "2017.11.03",
+    "EndDate": "2017.11.05",
+    "GamesCount": "57^",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2017,
+    "Name": "Hastings Masters",
+    "Winner": "L Yiping, D Sengupta",
+    "StartDate": "2017.12.28",
+    "EndDate": "2018.01.05",
+    "GamesCount": "354",
+    "DateUpdated": "2026.01.22",
+    "PgnFileName": "201712hast.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Tradewise Gibraltar",
+    "Winner": "Levon Aronian",
+    "StartDate": "2018.01.23",
+    "EndDate": "2018.02.01",
+    "GamesCount": "1,388",
+    "DateUpdated": "2018.02.10",
+    "PgnFileName": "201801gibmast.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Tradewise Challengers",
+    "Winner": "",
+    "StartDate": "2018.01.22",
+    "EndDate": "2018.01.31",
+    "GamesCount": "344",
+    "DateUpdated": "2018.02.10",
+    "PgnFileName": "201801gibchal.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Tradewise Amateurs",
+    "Winner": "",
+    "StartDate": "2018.01.22",
+    "EndDate": "2018.01.31",
+    "GamesCount": "370",
+    "DateUpdated": "2018.02.10",
+    "PgnFileName": "201801gibamat.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Oxford",
+    "StartDate": "2018.03.03",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2018.03.03",
+    "PgnFileName": "201803vars.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Jersey Open",
+    "Winner": "T Hillarp P'n, A Merry",
+    "StartDate": "2018.03.31",
+    "EndDate": "2018.04.01",
+    "GamesCount": "177",
+    "DateUpdated": "2018.04.08",
+    "PgnFileName": "201803jers.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Bolton Easter Open",
+    "Winner": "three-way",
+    "StartDate": "2018.03.30",
+    "EndDate": "2018.04.01",
+    "GamesCount": "47",
+    "DateUpdated": "2018.04.16",
+    "PgnFileName": "201804bolton.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Alexander Cup Final",
+    "Winner": "Surbiton",
+    "StartDate": "2018.05.22",
+    "EndDate": "",
+    "GamesCount": "7/10",
+    "DateUpdated": "2018.05.23",
+    "PgnFileName": "201805alexcup.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "County Ch'ship Final",
+    "Winner": "Lancashire (t/b)",
+    "StartDate": "2018.07.07",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201807countyfinal.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "GBR-ch105 Hull",
+    "Winner": "Michael Adams",
+    "StartDate": "2018.07.28",
+    "EndDate": "2018.05.05",
+    "GamesCount": "893",
+    "DateUpdated": "2021.08.23",
+    "PgnFileName": "201807britchamp.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "GBR-ch105 - Other Events",
+    "Winner": "",
+    "StartDate": "2018.07.28",
+    "EndDate": "2018.05.05",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2018,
+    "Name": "Isle of Man Masters",
+    "Winner": "Radek Wojtaszek",
+    "StartDate": "2018.10.20",
+    "EndDate": "2018.10.28",
+    "GamesCount": "723",
+    "DateUpdated": "2018.12.01",
+    "PgnFileName": "201810iom.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Isle of Man Major",
+    "Winner": "triple tie",
+    "StartDate": "2018.10.22",
+    "EndDate": "2018.10.28",
+    "GamesCount": "118^",
+    "DateUpdated": "2018.12.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2018,
+    "Name": "Isle of Man Minor",
+    "Winner": "P Deus, G White",
+    "StartDate": "2018.10.22",
+    "EndDate": "2018.10.28",
+    "GamesCount": "92^",
+    "DateUpdated": "2018.12.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2018,
+    "Name": "Hampshire Championship",
+    "Winner": "Matt Chapman",
+    "StartDate": "2018.11.02",
+    "EndDate": "2018.11.04",
+    "GamesCount": "43",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": "201811hampshire.pgn"
+  },
+  {
+    "Year": 2018,
+    "Name": "Hampshire Major",
+    "Winner": "R Page, B O'Gorman",
+    "StartDate": "2018.11.01",
+    "EndDate": "2018.11.04",
+    "GamesCount": "46^",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2018,
+    "Name": "Hastings Masters",
+    "Winner": "six-way tie",
+    "StartDate": "2018.12.28",
+    "EndDate": "2019.01.06",
+    "GamesCount": "380",
+    "DateUpdated": "2026.01.21",
+    "PgnFileName": "201812hast.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "Gibraltar Masters",
+    "Winner": "Vladislav Artemiev",
+    "StartDate": "2019.01.22",
+    "EndDate": "2019.01.31",
+    "GamesCount": "1,260",
+    "DateUpdated": "2019.03.27",
+    "PgnFileName": "201901gibmast.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "Gibraltar Challengers",
+    "Winner": "",
+    "StartDate": "2019.01.21",
+    "EndDate": "2019.01.30",
+    "GamesCount": "330",
+    "DateUpdated": "2019.03.27",
+    "PgnFileName": "201901gibchal.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "Gibraltar Amateurs",
+    "Winner": "",
+    "StartDate": "2019.01.21",
+    "EndDate": "2019.01.30",
+    "GamesCount": "409",
+    "DateUpdated": "2019.03.27",
+    "PgnFileName": "201901gibamat.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Oxford",
+    "StartDate": "2019.03.02",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2019.03.02",
+    "PgnFileName": "201903vars.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "County Ch'ship Final",
+    "Winner": "Yorkshire",
+    "StartDate": "2019.07.13",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "201907countyfinal.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "GBR-ch106 Torquay",
+    "Winner": "Michael Adams",
+    "StartDate": "2019.07.27",
+    "EndDate": "2019.05.04",
+    "GamesCount": "881",
+    "DateUpdated": "2021.08.24",
+    "PgnFileName": "201907britchamp.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "GBR-ch106 - Other Events",
+    "Winner": "",
+    "StartDate": "2019.07.27",
+    "EndDate": "2019.05.04",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2019,
+    "Name": "Thanet Open",
+    "Winner": "Alan Merry",
+    "StartDate": "2019.08.16",
+    "EndDate": "2019.08.18",
+    "GamesCount": "52",
+    "DateUpdated": "2020.02.25",
+    "PgnFileName": "201908thanet.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "Thanet Challengers",
+    "Winner": "Martin Taylor",
+    "StartDate": "2019.08.16",
+    "EndDate": "2019.08.18",
+    "GamesCount": "43^",
+    "DateUpdated": "2020.02.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2019,
+    "Name": "Northumbria Masters",
+    "Winner": "Roeland Pruijssers",
+    "StartDate": "2019.08.23",
+    "EndDate": "2019.08.28",
+    "GamesCount": "224",
+    "DateUpdated": "2021.08.31",
+    "PgnFileName": "201908northumbria.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "FIDE Grand Swiss (IOM)",
+    "Winner": "Wang Hao",
+    "StartDate": "2019.10.10",
+    "EndDate": "2019.10.21",
+    "GamesCount": "840",
+    "DateUpdated": "2023.09.23",
+    "PgnFileName": "201910iom.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "Hampshire Championship",
+    "Winner": "Cliff Chandler",
+    "StartDate": "2019.11.01",
+    "EndDate": "2019.11.03",
+    "GamesCount": "33",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": "201911hampshire.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "Hampshire Major",
+    "Winner": "Matthew Wilson",
+    "StartDate": "2019.11.01",
+    "EndDate": "2019.11.03",
+    "GamesCount": "58^",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2019,
+    "Name": "British Blitz Championship",
+    "Winner": "Justin Tan",
+    "StartDate": "2019.11.16",
+    "EndDate": "",
+    "GamesCount": "120",
+    "DateUpdated": "2024.07.03",
+    "PgnFileName": "201911gbrblitz.pgn"
+  },
+  {
+    "Year": 2019,
+    "Name": "British Women's Blitz Ch",
+    "Winner": "Ketevan Arakhamia-Grant",
+    "StartDate": "2019.11.16",
+    "EndDate": "",
+    "GamesCount": "120^",
+    "DateUpdated": "2024.07.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2019,
+    "Name": "Hastings Masters",
+    "Winner": "Panchanathan Magesh Chandran",
+    "StartDate": "2019.12.28",
+    "EndDate": "2020.01.05",
+    "GamesCount": "521",
+    "DateUpdated": "2022.12.08",
+    "PgnFileName": "201912hast.pgn"
   }
 ]

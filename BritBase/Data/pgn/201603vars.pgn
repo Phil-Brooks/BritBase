@@ -1,0 +1,239 @@
+﻿[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "1"]
+[White "Fernandez, Daniel Howard"]
+[Black "Martins, David Pires Tavares"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "2472"]
+[BlackElo "2407"]
+[PlyCount "133"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. Nf3 f5 2. d3 Nc6 3. e4 e5 4. Bg5 Be7 5. h4 Nf6 6. Nc3 O-O 7. Bxf6 Bxf6 8.
+Nd5 d6 9. c3 Ne7 10. Nxf6+ Rxf6 11. d4 fxe4 12. dxe5 Rf8 13. Ng5 d5 14. Qh5 Bf5
+15. O-O-O c6 16. f3 exf3 17. Bd3 Qe8 18. Qxf3 Qg6 19. Bxf5 Nxf5 20. Qh3 h6 21.
+Nf3 Rae8 22. Rde1 Qg3 23. Kb1 Re7 24. Qxg3 Nxg3 25. Rh3 Nh5 26. Re3 Rfe8 27.
+Rh1 Nf4 28. g3 Nh5 29. Rg1 Nf6 30. g4 Nd7 31. Rge1 Nc5 32. h5 Ne4 33. c4 Nf6
+34. cxd5 Nxg4 35. Ra3 cxd5 36. Rxa7 Rf8 37. Nd4 Nxe5 38. Ra5 Nc6 39. Rxe7 Nxe7
+40. Rb5 Nc6 41. Nxc6 bxc6 42. Rb6 Rc8 43. Rb7 c5 44. Kc2 Rf8 45. a4 Rf2+ 46.
+Kd3 Rf3+ 47. Kd2 Rf1 48. a5 Ra1 49. Rb5 Kf7 50. Rxc5 Ke6 51. b4 Ke5 52. Rc1 Ra3
+53. Kc2 Re3 54. Ra1 Kd6 55. a6 Re8 56. Kd3 Kc6 57. a7 Ra8 58. Kd4 Kb7 59. Ra2
+Kc6 60. Ra5 Kb7 61. Kxd5 Rd8+ 62. Ke6 Ka8 63. Kf7 Rd7+ 64. Kg8 Rb7 65. Rf5 Rxb4
+66. Kxg7 Kxa7 67. Kxh6 1-0
+
+[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "2"]
+[White "Foo Zhi Rong, Benjamin"]
+[Black "Zhou, Yang-Fan"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "2244"]
+[BlackElo "2465"]
+[PlyCount "99"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8.
+Re1 O-O 9. c4 a6 10. Nc3 Ne5 11. d3 Nc6 12. h3 Ne8 13. Be3 b5 14. cxb5 axb5 15.
+d4 b4 16. Ne2 Nf6 17. dxc5 dxc5 18. Qc2 Rc8 19. Red1 Qc7 20. Qxc5 Nxe4 21. Qc2
+Nd6 22. Rac1 Qb7 23. Qb1 Qa6 24. Ned4 Nxd4 25. Bxd4 Rxc1 26. Rxc1 Ra8 27. Bxg7
+Kxg7 28. a3 bxa3 29. bxa3 Qxa3 30. Re1 Qc3 31. Rc1 Qf6 32. Qd3 Qb2 33. Rb1 Qf6
+34. Re1 Ra2 35. Re2 Ra1+ 36. Re1 Ra5 37. Rxe7 Nf5 38. Re1 Ra2 39. Re2 Qa1+ 40.
+Kh2 Ra3 41. Qc2 h5 42. Qc7 Ra7 43. Qb8 Ra8 44. Qb7 Ra7 45. Qb8 Rd7 46. g4 hxg4
+47. hxg4 Nd4 48. Nxd4 Qxd4 49. Qe5+ Qxe5+ 50. Rxe5 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "3"]
+[White "Franklin, Samuel"]
+[Black "Aguiar, Henrique Rui Neves"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[WhiteElo "2300"]
+[BlackElo "2186"]
+[PlyCount "83"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 Qa5 11. f3 Be6 12. Rc1 Rfc8 13. b3 a6 14. Na4 Qxd2+
+15. Kxd2 Nd7 16. g4 Rf8 17. h3 f5 18. exf5 gxf5 19. f4 Rad8 20. Nc3 Nf6 21. g5
+Ne4+ 22. Nxe4 fxe4 23. Bb6 Rd7 24. Ke3 Bf5 25. Bg4 e6 26. Bxf5 exf5 27. Rhd1
+Kf7 28. Rd5 Ke6 29. Rcd1 Rc8 30. a4 Bc3 31. h4 Rc6 32. Bd4 Bxd4+ 33. Kxd4 Rc5
+34. h5 Rdc7 35. Kc3 Rxd5 36. Rxd5 Rc5 37. Rxc5 dxc5 38. Kd2 Kf7 39. Ke2 Kg7 40.
+Ke3 Kf7 41. a5 Kg7 42. Kf2 1/2-1/2
+
+[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "4"]
+[White "Monev, Aleksandar"]
+[Black "Young, Gregory"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2167"]
+[BlackElo "2386"]
+[PlyCount "104"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Bc4 Nf6 6. h3 Bf5 7. Nge2 e6 8.
+O-O Bd6 9. Bf4 Bxf4 10. Nxf4 Qb4 11. Bb3 O-O 12. Nce2 Rd8 13. c3 Qb5 14. Ng3
+Bg6 15. Nxg6 hxg6 16. Qf3 a5 17. Rab1 c5 18. dxc5 Na6 19. c4 Qc6 20. Qxc6 bxc6
+21. Ba4 Rdc8 22. Rfd1 Nxc5 23. Bc2 a4 24. Rd2 Rab8 25. Nf1 Kf8 26. f3 Ke7 27.
+Ne3 Ne8 28. Bd1 Nd6 29. Be2 Nf5 30. Kf2 e5 31. Nxf5+ gxf5 32. g4 f4 33. Kg2 g6
+34. Bf1 f5 35. Re1 e4 36. Rc2 e3 37. Be2 Ne6 38. Rd1 c5 39. Kf1 Rh8 40. Kg2 Rb6
+41. b3 Rhb8 42. Kf1 axb3 43. axb3 Rxb3 44. Ra2 fxg4 45. hxg4 Rb1 46. Ra7+ Kf6
+47. Ra6 Rxd1+ 48. Bxd1 Rb1 49. Ke2 Ke5 50. Rxe6+ Kxe6 51. Ba4 Rb2+ 52. Ke1 g5
+0-1
+
+[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "5"]
+[White "Martyn, Rafe"]
+[Black "Scott, Gordon"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2247"]
+[BlackElo "2163"]
+[PlyCount "107"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 a6 7. Qd2 c5 8. d5 b5
+9. cxb5 axb5 10. Bxb5 Ba6 11. Nge2 Qa5 12. a4 Bxb5 13. Nxb5 Qxd2+ 14. Bxd2 Na6
+15. O-O Rfb8 16. Bc3 Ne8 17. b3 Nec7 18. Bxg7 Kxg7 19. Nec3 Rb7 20. Rfd1 Rab8
+21. Rac1 Nxb5 22. Nxb5 Nc7 23. Nxc7 Rxc7 24. Rd3 Rb4 25. Kf2 Rcb7 26. Rcc3 f5
+27. exf5 gxf5 28. g3 h5 29. f4 h4 30. Kf3 hxg3 31. hxg3 Ra7 32. g4 c4 33. bxc4
+fxg4+ 34. Kxg4 Raxa4 35. Re3 Kf7 36. Re4 Ra7 37. Kf5 Rc7 38. Rh3 Rbxc4 39. Rh7+
+Kf8 40. Rhxe7 Rxe4 41. Rxc7 Rd4 42. Ke6 Rxf4 43. Rc8+ Kg7 44. Kxd6 Kf7 45. Kd7
+Ra4 46. d6 Ra6 47. Rc1 Ra7+ 48. Kc8 Ra8+ 49. Kb7 Ra2 50. Re1 Rd2 51. Kc7 Rc2+
+52. Kd8 Ra2 53. d7 Rd2 54. Rc1 1-0
+
+[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "6"]
+[White "Cumming, Rhys"]
+[Black "Weller, Jean-Luc"]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2173"]
+[BlackElo "2249"]
+[PlyCount "78"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 Nbd7 7. Bd3 c6 8.
+Qc2 Nh5 9. Bxe7 Qxe7 10. Nge2 g6 11. O-O-O Nb6 12. Kb1 Ng7 13. Rhe1 O-O 14. Ng3
+Be6 15. f3 Rfd8 16. Qf2 Qb4 17. Nge2 Nc4 18. Nf4 a5 19. Rc1 b5 20. g4 Qe7 21.
+e4 Qf6 22. Nxe6 fxe6 23. Bxc4 bxc4 24. Na4 Ne8 25. e5 Qf4 26. Qe3 Qxe3 27. Rxe3
+Nc7 28. Nc5 a4 29. Rd1 Rf8 30. b3 axb3 31. axb3 Ra3 32. Rde1 Rfa8 33. bxc4 Rb8+
+34. Kc1 Ra1+ 35. Kc2 Ra2+ 36. Kc3 Rbb2 37. Nd3 Rc2+ 38. Kb4 Na6+ 39. Kb3 dxc4#
+0-1
+
+[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "7"]
+[White "Van der Velden, Bram"]
+[Black "Horton, Jamie"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2170"]
+[BlackElo "2100"]
+[PlyCount "137"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Bf5 7. Qb3 Qb6 8.
+Qxb6 axb6 9. Bxf6 gxf6 10. f3 Nd7 11. Nge2 Bd6 12. Kf2 b5 13. Ng3 Bg6 14. Nce2
+Ke7 15. f4 Ke6 16. Nc1 Nb6 17. Bd3 Bxd3 18. Nxd3 f5 19. a3 Nc4 20. Nh5 Rhg8 21.
+h3 Nd2 22. Rhg1 Ne4+ 23. Kf3 h6 24. g4 Nd2+ 25. Ke2 Ne4 26. Ne5 Bxe5 27. dxe5
+fxg4 28. hxg4 Rae8 29. Ng3 Nxg3+ 30. Rxg3 h5 31. g5 Kf5 32. Rh1 Kg6 33. Rgh3
+Rh8 34. Kf3 Ra8 35. Rd1 Ra4 36. Rd4 Rxd4 37. exd4 Kf5 38. Rg3 h4 39. Rg1 Rg8
+40. Rh1 Rh8 41. Rg1 Rg8 42. Rg4 Rh8 43. g6 fxg6 44. Rg5+ Ke6 45. Rxg6+ Kf7 46.
+Rf6+ Ke7 47. Rg6 h3 48. Rg7+ Kf8 49. Rg1 Kf7 50. f5 h2 51. Rh1 Rh4 52. Kg3 Rxd4
+53. Rxh2 Re4 54. Rh7+ Ke8 55. e6 b6 56. Kf3 Kd8 57. Rd7+ Kc8 58. Re7 Kd8 59. f6
+c5 60. Rd7+ Kc8 61. Rd6 Kc7 62. f7 Kxd6 63. f8=Q+ Kxe6 64. Qh6+ Kd7 65. Qxb6 b4
+66. a4 Rc4 67. a5 Rc1 68. a6 Ra1 69. a7 1-0
+
+[Event "Varsity Oxford-Cambridge 134th"]
+[Site "RAC Club, London"]
+[Date "2016.03.05"]
+[Round "8"]
+[White "Kozera, Alexandra"]
+[Black "Wang, Maria"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "1876"]
+[BlackElo "1831"]
+[PlyCount "105"]
+[EventDate "2016.03.05"]
+[EventType "team-match"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Be7 8. Nf3
+Nb6 9. O-O cxd4 10. cxd4 f6 11. exf6 Bxf6 12. Re1 Qd6 13. a3 Bd7 14. Bf4 Qe7
+15. Rc1 O-O 16. Qd2 a5 17. Ng3 g6 18. Be3 a4 19. Ne5 Be8 20. Qe2 Nc8 21. Bh6
+Bg7 22. Bxg7 Qxg7 23. Qg4 Nxe5 24. Rxe5 Bf7 25. Rc7 Kh8 26. Ne2 Nd6 27. Nf4 Qf6
+28. f3 Rfe8 29. h4 Rac8 30. Rxc8 Nxc8 31. h5 gxh5 32. Nxh5 Bxh5 33. Qxh5 Re7
+34. Bxh7 Rxh7 35. Qe8+ Kg7 36. Qxc8 Qf4 37. Qd7+ Kh8 38. Qd8+ Kg7 39. Qe7+ Kh8
+40. Qe8+ Kg7 41. Qxe6 Qxd4+ 42. Re3 Qd1+ 43. Kf2 Qd2+ 44. Re2 Qd4+ 45. Qe3 Qh4+
+46. Kf1 Qh1+ 47. Qg1 Qxg1+ 48. Kxg1 Kf6 49. Kf2 Rd7 50. f4 Kf5 51. Kf3 d4 52.
+g4+ Kf6 53. Rd2 1-0
+
