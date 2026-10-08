@@ -1,0 +1,433 @@
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.07.28"]
+[Round "1.27"]
+[White "Van Seelen, Svend Ove"]
+[Black "Coop, Brian H"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "39"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. d3 Bg7 5. Bg2 Nf6 6. Bd2 O-O 7. Qc1 Re8 8. Nf3
+Nc6 9. Bh6 Bh8 10. h4 Nd4 11. h5 Nxf3+ 12. Bxf3 e6 13. Bg5 Bg7 14. hxg6 hxg6
+15. Qf4 e5 16. Qh4 Be6 17. Nb5 Qa5+ 18. c3 Bg4 19. Bxf6 Bxf3 20. Qh8+ {Source:
+BCM, Sept 1969, p265} 1-0
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.07.29"]
+[Round "2"]
+[White "Rhodes, L"]
+[Black "Formanek, Edward W"]
+[Result "0-1"]
+[ECO "A21"]
+[PlyCount "32"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 d6 3. g3 Be7 4. Bg2 Nc6 5. e3 f5 6. Nge2 Nf6 7. O-O O-O 8. d3
+Qe8 9. Rb1 g5 10. f4 gxf4 11. gxf4 Kh8 12. Kh1 Rg8 13. Nd5 Qg6 14. Rg1 Ng4 15.
+Qe1 Bh4 $3 16. Ng3 (16. Qxh4 Qh6 17. Qg3 Qxh2+ 18. Qxh2 Nf2#) 16... Nxh2 $1 {
+Sources: CHESS Vol.35 no.587-8, 27 Aug 1969, p9; BCM, Sept 1969, p265} 0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.07.30"]
+[Round "3.2"]
+[White "Lachmann, Helmut"]
+[Black "Burger, Karl"]
+[Result "0-1"]
+[ECO "A45"]
+[PlyCount "56"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bg5 g6 3. Nd2 Bg7 4. c3 d6 5. e4 Nbd7 6. Bd3 c6 7. f3 h6 8. Be3
+Nb6 9. Ne2 e5 10. a4 O-O 11. a5 Nbd7 12. Nc4 Qe7 13. Qd2 exd4 14. cxd4 d5 15.
+e5 dxc4 16. exf6 Nxf6 17. Bxc4 Re8 18. Kf2 Be6 19. Bxe6 Qxe6 20. Rhe1 Kh7 21.
+Nc3 Qf5 22. Bf4 g5 23. Bg3 Rad8 24. Bc7 Rd7 25. Rxe8 Nxe8 26. g4 Rxd4 27. Qe2
+Qc5 28. Qc2+ Kg8 {Source: BCM, Sept 1969, p265} 0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.07.30"]
+[Round "3.4"]
+[White "Hershman, Paul"]
+[Black "Gasic, Bozidar"]
+[Result "0-1"]
+[ECO "B15"]
+[PlyCount "50"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 h5 6. Nf3 Bg4 7. Be2 Bxf3 8. Bxf3
+Nh6 9. e6 fxe6 10. Be3 Nf5 11. Qd3 Nd7 12. g3 Qb6 13. O-O-O e5 14. Bxh5 Rxh5
+15. g4 e4 16. Nxe4 dxe4 17. Qxe4 Nc5 18. Qf3 Nh4 19. Qe2 Rh8 20. c3 Qa6 21. Qc2
+Nd7 22. Bf2 Qxa2 23. Bxh4 Rxh4 24. Qxg6+ Qf7 25. Qg5 Qf6 {Source: CHESS Vol.35
+no.587-8, 27 Aug 1969, p9} 0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.07.31"]
+[Round "4"]
+[White "Bimpson, Tom"]
+[Black "Ballard, John Peter"]
+[Result "0-1"]
+[ECO "B55"]
+[PlyCount "70"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceVersion "1"]
+[SourceVersionDate "2025.05.21"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bb5+ Bd7 6. O-O Bxb5 7. Nxb5 Nxe4 8. Re1 Qb6 9. Rxe4 Qxb5 10. Nc3 Qc6 11. Bf4 Na6 12. Qd2 e6 13. Rae1 O-O-O 14. Qe2 d5 15. Nb5 Bc5 16. Ra4 Rhe8 17. b4 Bb6 18. Nd6+ Rxd6 19. b5 Bxf2+ 20. Qxf2 Qxb5 21. Bxd6 Qxa4 22. Qxa7 Qc6 23. Rb1 Qxd6 24. Qxb7+ Kd8 25. Rb6 Qc5+ 26. Kh1 Qa3 27. h4 Qc1+ 28. Kh2 Qf4+ 29. g3 Qc7 30. Qxa6 Qxc2+ 31. Kh3 Ke7 32. Qa3+ Kf6 33. Rb2 Qf5+ 34. Kh2 Rc8 35. Qd6 Rc2+ {Source: Yorkshire Chess History website} 0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.07.31"]
+[Round "4"]
+[White "Golombek, Harry"]
+[Black "Ripley, John M"]
+[Result "1/2-1/2"]
+[ECO "D95"]
+[PlyCount "81"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. d4 O-O 6. Qb3 dxc4 7. Bxc4 Nfd7 8.
+O-O Nb6 9. Be2 Be6 10. Qc2 Nc6 11. Rd1 Nb4 12. Qb1 Bc4 13. Bxc4 Nxc4 14. b3 Nd6
+15. Bb2 Qc8 16. a3 Na6 17. Qc2 c5 18. Rac1 cxd4 19. Nxd4 e6 20. Qe2 Rd8 21.
+Ncb5 Qb8 22. h3 Nxb5 23. Nxb5 Rxd1+ 24. Rxd1 Bxb2 25. Qxb2 Nc7 26. Nd6 Ne8 27.
+Nc4 Qc7 28. Qd4 b5 29. Ne5 Rc8 30. Qd7 Nf6 31. Qd4 Nd5 32. Kh1 Qc3 33. e4 Nf6
+34. Nd7 Nxd7 35. Qxd7 Qc6 36. b4 h5 37. e5 Rc7 38. Qd8+ Kh7 39. Qg5 Rd7 40. Rc1
+Qb7 41. Qf6 {Source: CHESS Vol.35 no.587-8, 27 Aug 1969, p10} 1/2-1/2
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.07.31"]
+[Round "4.3"]
+[White "Schmidt, W (FRG)."]
+[Black "Parr, David"]
+[Result "0-1"]
+[ECO "A26"]
+[PlyCount "60"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 Nc6 5. Nf3 e5 6. d3 Nf6 7. O-O O-O 8. Bd2
+Nh5 9. Nd5 Ne7 10. Rc1 c6 11. Nxe7+ Qxe7 12. Bc3 f5 13. e3 Bd7 14. Re1 Rae8 15.
+d4 e4 16. Nd2 Nf6 17. Nb3 Be6 18. d5 cxd5 19. Bxf6 Bxf6 20. cxd5 Bf7 21. Rc2
+Rc8 22. Ree2 Qe5 23. Rxc8 Rxc8 24. Rd2 h5 25. h4 Kg7 26. Nd4 Qxd5 27. a4 Qa2
+28. b4 Qa3 29. Nb5 Qc1 30. Rxd6 a6 {Source: BCM, Sept 1969, p265} 0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.01"]
+[Round "5.2"]
+[White "Parr, David"]
+[Black "Van Seelen, Svend Ove"]
+[Result "1-0"]
+[ECO "A38"]
+[PlyCount "73"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 c5 5. d4 cxd4 6. Nxd4 Nc6 7. Nc3 Qb6 8.
+Nc2 Ng4 9. O-O Bxc3 10. bxc3 h5 11. h3 Nge5 12. Ne3 d6 13. Kh2 Qa5 14. f4 h4
+15. g4 Nd7 16. Qc2 Nf6 17. Nd5 Bd7 18. Rb1 Nxd5 19. cxd5 Nd8 20. Be3 Qa4 21.
+Qd2 b6 22. Bd4 Rh7 23. f5 gxf5 24. Qg5 Kf8 25. gxf5 Qxa2 26. Qg4 f6 27. Be4 Qd2
+28. Rg1 Qg5 29. Qxg5 fxg5 30. Rxg5 Nf7 31. Rg2 Ne5 32. Bxe5 dxe5 33. f6 Rh6 34.
+d6 Rc8 35. fxe7+ Kf7 36. Bd5+ Be6 {BCM gives the resignation as coming here.}
+37. d7 {Sources: CHESS Vol.35 no.587-8, 27 Aug 1969, p11; BCM, Sept 1969, p266}
+1-0
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.01"]
+[Round "5.3"]
+[White "Formanek, Edward W"]
+[Black "Karmaz, Peter"]
+[Result "0-1"]
+[ECO "A87"]
+[PlyCount "72"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 f5 4. d4 Nf6 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. d5
+Na6 9. Nd4 Bd7 10. Rb1 Nc5 11. b4 Nce4 12. Bb2 c6 13. Nxe4 fxe4 14. Ne6 Bxe6
+15. dxe6 Qc8 16. Bh3 Nh5 17. Bxg7 Nxg7 18. Qd4 Nxe6 19. Qxe4 Ng5 20. Bxc8 Nxe4
+21. Bxb7 Rab8 22. Bxc6 Nd2 23. b5 Nxb1 24. Rxb1 e6 25. Rd1 Rfd8 26. a4 Kf7 27.
+a5 Ke7 28. a6 Rb6 29. f4 Rc8 30. c5 dxc5 31. Rd7+ Kf6 32. Rxa7 c4 33. Kf2 c3
+34. Ke1 c2 35. Kd2 c1=Q+ 36. Kxc1 Rxb5 {Source: BCM, Sept 1969, p266} 0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.02"]
+[Round "6"]
+[White "Kraayenbrink, RJ"]
+[Black "Juehe, Heinrich"]
+[Result "0-1"]
+[ECO "B07"]
+[PlyCount "70"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.08.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.08.22"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Bc4 Nf6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 c6 8. O-O-O b5 9. Bb3 a5 10. a4 bxa4 11. Nxa4 Ba6 12. Ne2 Bxe2 13. Qxe2 Nb6 14. Qd2 Nxa4 15. Bxa4 Qb6 16. Bh6 Rfb8 17. b3 Bh8 18. Qc3 Rc8 19. Be3 Qb7 20. Kd2 c5 21. Qd3 c4 22. Qc3 Qxe4 23. Qxc4 Qh4 24. Qe2 Nd5 25. Qf2 Qf6 26. c4 Nxe3 27. Kxe3 d5 28. Bb5 a4 29. bxa4 e5 30. Qd2 exd4+ 31. Kf2 dxc4 32. Rc1 d3 33. Rhe1 Qd4+ 34. Qe3 Qb2+ 35. Kf1 d2 {Source: Schach Echo 1969, p364. Contributed by Ulrich Tamm, 13 August 2024.} 0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.04"]
+[Round "7.1"]
+[White "Burger, Karl"]
+[Black "Fuller, Maxwell L"]
+[Result "0-1"]
+[ECO "A36"]
+[PlyCount "76"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 c5 4. Bg2 Nc6 5. Rb1 e5 6. a3 a5 7. d3 Nge7 8. h4 d6
+9. Bd2 Be6 10. Nd5 O-O 11. e3 Rb8 12. Qa4 Bd7 13. Qb3 Nxd5 14. cxd5 Ne7 15. Ne2
+b5 16. Qc2 b4 17. a4 Bc8 18. b3 Bb7 19. e4 f5 20. h5 Qb6 21. Be3 Rf7 22. Qd2
+Rbf8 23. f4 fxe4 24. dxe4 Bc8 25. hxg6 hxg6 26. Bf3 Qc7 27. Rc1 Bd7 28. O-O Qc8
+29. Rf2 Bg4 30. Kg2 Bxf3+ 31. Rxf3 Qg4 32. Rc4 exf4 33. Rxf4 Rxf4 34. Nxf4 Be5
+35. Kh2 g5 36. Qe2 Rxf4 37. Qxg4 Rxg4 38. Bf2 Nxd5 {Sources: CHESS Vol.35 no.
+587-8, 27 Aug 1969, p11; BCM, Sept 1969, p266 & p273 (annotated by Golombek)}
+0-1
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.05"]
+[Round "8"]
+[White "Grahn, Lars"]
+[Black "Bimpson, Tom"]
+[Result "1-0"]
+[ECO "A69"]
+[PlyCount "37"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritVase"]
+[Source "John Saunders"]
+[SourceDate "2026.03.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2026.03.18"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Be2 e6 8. Nf3 exd5 9. cxd5 Re8 10. e5 Nfd7 11. Nb5 dxe5 12. d6 Na6 13. O-O e4 14. Ng5 Nb6 15. a4 Bd7 16. a5 Bd4+ 17. Nxd4 cxd4 18. Qxd4 Nc8 19. b4 {Source: Winsford Chronicle, 14 August 1969} 1-0
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.06"]
+[Round "9"]
+[White "O'Connell, Michael T"]
+[Black "Norton, Philip J"]
+[Result "1-0"]
+[ECO "D20"]
+[PlyCount "18"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. Nf3 cxd4 5. Qxd4 Qxd4 6. Nxd4 e5 7. Nb5 Na6 8.
+Bxc4 Bd7 9. a3 Ne7 $4 {"and, realising the enormity of his error, Black
+resigned without awaiting his opponent's reply." Source: Illustrated London
+News, 16 August 1969} 1-0
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.06"]
+[Round "9.2"]
+[White "Parr, David"]
+[Black "Horner, Jeff"]
+[Result "1-0"]
+[ECO "A26"]
+[PlyCount "85"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 d6 5. Nc3 O-O 6. O-O Nc6 7. d3 e5 8. Rb1
+Bg4 9. b4 Qd7 10. b5 Ne7 11. Re1 Nh5 12. Qc2 Rad8 13. Bd2 h6 14. Rb4 Bh3 15.
+Bh1 f5 16. Nd5 c5 17. bxc6 Nxc6 18. Rb5 e4 19. dxe4 fxe4 20. Qxe4 Bf5 21. Qe3
+a6 22. Rb6 Rde8 23. Qb3 Nd4 24. Nxd4 Bxd4 25. Be3 Bxb6 26. Nxb6 Qf7 27. Rd1 Kh7
+28. Rxd6 Nf6 29. Nd5 Ng4 30. Bf3 Re6 31. Rxe6 Bxe6 32. Bd4 Qd7 33. h3 Bxd5 34.
+Bxd5 Nf6 35. Qxb7 Qxb7 36. Bxb7 a5 37. c5 Ne8 38. Be5 Rf7 39. c6 Nc7 40. f4 Kg8
+41. Kf2 Kf8 42. Ke3 Ke8 43. Kd4 {Source: BCM, Sept 1969, p267} 1-0
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.07"]
+[Round "10.1"]
+[White "Fuller, Maxwell L"]
+[Black "Karmaz, Peter"]
+[Result "1-0"]
+[ECO "A42"]
+[PlyCount "81"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nc3 Nc6 5. Be3 e5 6. d5 Nd4 7. Nge2 Nxe2 8. Bxe2
+f5 9. exf5 gxf5 10. Bh5+ Kf8 11. f4 e4 12. Be2 Nf6 13. Qd2 Qe7 14. O-O-O Kf7
+15. h3 h5 16. Rdg1 Bd7 17. Bd4 Rag8 18. g3 Ne8 19. Nd1 Bxd4 20. Qxd4 Nf6 21.
+Ne3 b6 22. Rh2 Qf8 23. Rhg2 Qh6 24. Kb1 Qg6 25. a3 Qg7 26. Ka2 Rh6 27. Qd1 Rg6
+28. Bxh5 Nxh5 29. Qxh5 Rh8 30. Qe2 Rxh3 31. Rh2 Rgxg3 32. Rxh3 Rxg1 33. Qh2 Kg8
+34. Rh5 Rg6 35. Qh4 Qf6 36. Qh3 Qd4 37. Rh7 Rg2 38. Nxg2 Qxc4+ 39. Kb1 Qf1+ 40.
+Ne1 Qxe1+ 41. Ka2 {Source: BCM, Sept 1969, p267} 1-0
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.07"]
+[Round "10"]
+[White "Bimpson, Tom"]
+[Black "Chesters, Geoffrey"]
+[Result "1-0"]
+[ECO "C06"]
+[PlyCount "53"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritVase"]
+[Source "John Saunders"]
+[SourceDate "2026.03.18"]
+[SourceVersion "1"]
+[SourceVersionDate "2026.03.18"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6 7. Bd3 Qb6 8. O-O cxd4 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nf3 Qb6 12. Qa4 Qb4 13. Qc2 Qc5 14. Qe2 Nb8 15. Bd2 Nc6 16. a3 Bd7 17. Rfc1 Qb6 18. b4 Nd4 19. Nxd4 Qxd4 20. Bb5 a6 21. Bxd7+ Kxd7 22. Be3 Qxe5 23. b5 Bd6 24. g3 d4 25. Qf3 dxe3 26. Qxb7+ Bc7 27. Rxc7+ {Source: Winsford Chronicle, 14 August 1969} 1-0
+
+[Event "Northern Open 14th"]
+[Site "Whitby"]
+[Date "1969.08.08"]
+[Round "11.3"]
+[White "Formanek, Edward W"]
+[Black "Parr, David"]
+[Result "1-0"]
+[ECO "B93"]
+[PlyCount "51"]
+[EventDate "1969.07.28"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.07.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.07.22"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. O-O g6 8. f4
+Bg7 9. Kh1 O-O 10. Be3 Qc7 11. a4 e5 12. fxe5 Nxe5 13. Bg5 Ned7 14. Qd2 b6 15.
+Bxf6 Nxf6 16. Rxf6 Bxf6 17. Nd5 Qd8 18. Nc6 Bg5 19. Nde7+ Bxe7 20. Nxd8 Rxd8
+21. Bc4 Be6 22. Bd5 Rac8 23. Bb7 Rc4 24. b3 Bf6 25. bxc4 Bxa1 26. c3 {Source:
+BCM, Sept 1969, p268} 1-0
+

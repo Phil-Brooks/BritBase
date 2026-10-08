@@ -1,0 +1,419 @@
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.07"]
+[Round "1"]
+[White "Aitken, James Macrae"]
+[Black "Garside, Rolf"]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[PlyCount "64"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 27"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.06.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.06.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Nb3 O-O 8.
+Be2 d6 9. O-O a5 10. a4 Be6 11. Nd4 Nxd4 12. Bxd4 d5 13. exd5 Nxd5 14. Bxg7
+Kxg7 15. Nxd5 Qxd5 16. Bf3 Qxd1 17. Rfxd1 Rab8 18. Rd4 Rfc8 19. c3 Rd8 20. Rad1
+Rxd4 21. Rxd4 b6 22. Be2 Rc8 23. Bb5 Rc5 24. f4 Rd5 25. Rxd5 Bxd5 26. Kf2 Kf6
+27. g3 e5 28. fxe5+ Kxe5 29. Ke3 f5 30. h4 h6 31. b4 g5 32. hxg5 hxg5 {Source:
+Aitken Book 27} 1/2-1/2
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.08"]
+[Round "2"]
+[White "Cock, John Crowle"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[ECO "C40"]
+[PlyCount "59"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Bc5 6. dxe4 O-O 7. Bg5 c6 8. Nc3
+Qb6 9. O-O-O Bxf2 10. Na4 Qb4 11. Bxf6 gxf6 12. Qxf2 Qxa4 13. Kb1 Qxe4 14. Rd4
+Qg6 15. Bd3 f5 16. Nh4 Qf6 17. Nxf5 Bxf5 18. Bxf5 Nd7 19. Rg4+ Kh8 20. Rh4 Ne5
+21. Rxh7+ Kg8 22. Rh4 Ng6 23. Rg4 Rae8 24. Rf1 Re5 25. Bxg6 Qxf2 26. Be4+ Kh8
+27. Rxf2 f5 28. c4 fxg4 29. Rxf8+ Kg7 30. Rf4 {Sources: David LeMoir,
+contributed 31 January 2018; (move 25-end) BCM, May 1966, p127} 1-0
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.08"]
+[Round "2"]
+[White "Mardle, Denis Victor"]
+[Black "Richards, David John"]
+[Result "1-0"]
+[ECO "C18"]
+[PlyCount "85"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 Qa5 10. Bd2 Nc6 11. Ne2 Qa4 12. g4 Nfe7 13. Nf4 c4 14. Be2 Qxc2 15.
+Nxh5 Qh7 16. Bg5 Bd7 17. Qh4 Ng6 18. Qg3 Nge7 19. Bf6 O-O-O 20. Bxg7 Rhg8 21.
+Bf6 Qc2 22. Qe3 Kb8 23. a4 Rc8 24. Qd2 Qxd2+ 25. Kxd2 Ng6 26. a5 Nce7 27. h4
+Rc6 28. Bg5 Kc7 29. Nf6 Ra8 30. Rhb1 Bc8 31. h5 Nf8 32. Ne8+ Kd7 33. Nd6 Rxd6
+34. Bxe7 Kxe7 35. exd6+ Kxd6 36. f4 Kc6 37. g5 Bd7 38. Bd1 Kc7 39. Bc2 Be8 40.
+Rh1 Bc6 41. Rae1 b6 42. axb6+ axb6 43. g6 {Source: David LeMoir, contributed
+31 January 2018.} 1-0
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.08"]
+[Round "2"]
+[White "Poolake, Maximilian Ernst"]
+[Black "Aitken, James Macrae"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[PlyCount "35"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 27"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.06.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.06.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. e5 Ne4 7. O-O Nc5 8. Bb3
+Nxb3 9. axb3 Be7 10. Bf4 O-O 11. Nxd4 Nxd4 12. Qxd4 f6 13. Nc3 fxe5 14. Bxe5 d6
+15. Bg3 Kh8 16. Nd5 Bf6 17. Nxf6 Qxf6 18. Qxf6 {Source: Aitken Book 27} 1/2-1/2
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.09"]
+[Round "3"]
+[White "Aitken, James Macrae"]
+[Black "Flood, Joseph Andrew"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[PlyCount "69"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 27"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.06.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.06.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bd3 Nc6 8.
+Qf4 Be6 9. Bd2 Be7 10. Bc3 Bf6 11. Bxf6 Qxf6 12. Qxf6 gxf6 13. Nc3 Ne5 14. Be2
+O-O-O 15. O-O-O Rhg8 16. Ne1 Ng4 17. Nd3 Bf5 18. h3 Bxd3 19. Bxg4+ f5 20. Rxd3
+fxg4 21. hxg4 Rxg4 22. g3 Rg7 23. Nd5 f5 24. Rhd1 Rf7 25. Nf4 Re8 26. Rc3 Ne4
+27. Re3 Rd8 28. Red3 Rxd3 29. Nxd3 Rd7 30. Rg1 c6 31. f3 Ng5 32. Ne5 Re7 33. f4
+Ne4 34. g4 fxg4 35. Rxg4 {Source: Aitken Book 27} 1/2-1/2
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.09"]
+[Round "3"]
+[White "Wise, Derek Maurice"]
+[Black "Coast, Peter"]
+[Result "0-1"]
+[ECO "C77"]
+[PlyCount "84"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Nd7 7. Nbd2 Bd6 8.
+b3 O-O 9. Bb2 Re8 10. Nc4 f6 11. Qe2 b5 12. Ne3 Nf8 13. g4 Ne6 14. Rg1 Nd4 15.
+Qd1 c5 16. c3 Ne6 17. h4 Nf4 18. Qd2 Be6 19. g5 c6 20. O-O-O Ra7 21. Ng4 Bxg4
+22. Rxg4 Be7 23. gxf6 Bxf6 24. Qe3 Rd7 25. Kc2 c4 26. d4 Nd3 27. bxc4 bxc4 28.
+Rxd3 cxd3+ 29. Qxd3 Qa5 30. Qc4+ Kh8 31. dxe5 Bxe5 32. Ng5 Qc7 33. f4 Bxf4 34.
+Ne6 Rd2+ 35. Kb1 Qb7 36. Qb3 Qxb3 37. axb3 Rxe6 38. Rxf4 h6 39. c4 Rg2 40. Ka2
+Kg8 41. Ka3 g5 42. hxg5 hxg5 {Source: David LeMoir, contributed 31 January
+2018.} 0-1
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.09"]
+[Round "4"]
+[White "Ansell, Jeffrey"]
+[Black "Aitken, James Macrae"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[PlyCount "39"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 27"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.06.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.06.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Bd3 Be7 8.
+Qc2 O-O 9. Nge2 Re8 10. f3 h6 11. Bh4 c5 12. O-O Nf8 13. Bf2 Ne6 14. Rfe1 cxd4
+15. Nxd4 Nxd4 16. exd4 Bd7 17. Qb3 Bc6 18. Bf5 Bd6 19. Rxe8+ Qxe8 20. Re1 {
+Source: Aitken Book 27} 1/2-1/2
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.09"]
+[Round "4"]
+[White "Cock, John Crowle"]
+[Black "Anderson, J"]
+[Result "1-0"]
+[ECO "B59"]
+[PlyCount "81"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 h6 8. O-O
+Be7 9. Be3 O-O 10. f3 a6 11. a4 Nb4 12. Nd5 Nbxd5 13. exd5 b6 14. c4 a5 15. Bd3
+Ne8 16. Qc2 f5 17. f4 e4 18. Be2 Nf6 19. Nd4 Bd7 20. b3 Re8 21. Qd1 Kh8 22. h3
+Qc8 23. Kh2 Rb8 24. Rg1 g6 25. g3 Rg8 26. Qd2 Kh7 27. Rg2 h5 28. Rag1 Kg7 29.
+Rh1 Kf7 30. Kg1 Rh8 31. Kf2 Rh7 32. Qd1 Qc7 33. Nb5 Bxb5 34. axb5 Qd7 35. Rhg1
+Qc7 36. g4 hxg4 37. hxg4 Rbh8 38. Bd4 Re8 39. gxf5 gxf5 40. Bh5+ Nxh5 41. Qxh5+
+{Source: David LeMoir, contributed 31 January 2018.} 1-0
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.09"]
+[Round "4"]
+[White "Garside, Rolf"]
+[Black "Mann, Richard HK"]
+[Result "0-1"]
+[ECO "C17"]
+[PlyCount "76"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Bc5 7. b4 a6 8. bxc5
+axb5 9. Qg4 Ne7 10. Qxg7 Rg8 11. Qxh7 Qc7 12. Nf3 Bd7 13. g3 Nbc6 14. Bxb5 Nxe5
+15. Bxd7+ Kxd7 16. Nxe5+ Qxe5+ 17. Kd1 d3 18. c3 Qe2+ 19. Kc1 Qf3 20. Re1 Rh8
+21. Qg7 Rxh2 22. Rb1 Ra7 23. Qe5 Qxf2 24. Qd6+ Kc8 25. Rb2 Nc6 26. Qf8+ Kd7 27.
+Qd6+ Ke8 28. Kb1 Qf6 29. g4 Re2 30. Rh1 Qe5 31. Qxe5 Nxe5 32. Rh8+ Kd7 33. Rh7
+Nc4 34. Rxf7+ Ke8 35. Rfxb7 Rxb7 36. Rxb7 Nxd2+ 37. Kc1 Nc4 38. c6 Re1# {
+Source: David LeMoir, contributed 31 January 2018.} 0-1
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.09"]
+[Round "4"]
+[White "Northage, Robert H"]
+[Black "Wise, Derek Maurice"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "41"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bg4 5. c4 Bb4+ 6. Nc3 Qe7+ 7. Be3 Nf6 8.
+Be2 Ne4 9. Qc2 c6 10. O-O Bxc3 11. bxc3 dxc4 12. Bxc4 Bxf3 13. gxf3 Nd6 14.
+Rae1 O-O 15. Bd3 Qh4 16. Kh1 f5 17. Rg1 f4 18. Bc1 Qh3 19. Ba3 Qxf3+ 20. Rg2
+Re8 21. Reg1 {Source: David LeMoir, contributed 31 January 2018.} 1-0
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.09"]
+[Round "4"]
+[White "Poolake, Maximilian Ernst"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "0-1"]
+[ECO "C78"]
+[PlyCount "108"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8. Bc2
+c5 9. a4 b4 10. d3 g6 11. h3 Nh5 12. Bg5 f6 13. Be3 Be6 14. Nbd2 Bg7 15. Rc1
+bxc3 16. bxc3 Rb8 17. Rb1 O-O 18. Rxb8 Qxb8 19. Qa1 Rf7 20. Rb1 Rb7 21. Rxb7
+Qxb7 22. Qb1 Qxb1+ 23. Bxb1 Nf4 24. Bxf4 exf4 25. Bc2 f5 26. c4 Nc6 27. Kf1 Nb4
+28. Bb1 Bd7 29. a5 Nc6 30. Nb3 fxe4 31. dxe4 Bc3 32. Ke2 Nxa5 33. Nxa5 Bxa5 34.
+e5 Bc7 35. exd6 Bxd6 36. Nd2 Bf5 37. Ne4 Be7 38. Kf3 Be6 39. Ba2 g5 40. h4 h6
+41. hxg5 hxg5 42. g3 fxg3 43. Nxg3 Kg7 44. Ke4 Kf6 45. f4 g4 46. f5 Bf7 47. Kf4
+Bd6+ 48. Kxg4 Bxg3 49. Kxg3 Ke5 50. Kg4 a5 51. Kg5 a4 52. f6 a3 53. Kg4 Kd4 54.
+Kf5 Kc3 {Source: David LeMoir, contributed 31 January 2018.} 0-1
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.10"]
+[Round "5"]
+[White "Aitken, James Macrae"]
+[Black "Northage, Robert H"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[PlyCount "37"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 27"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.06.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.06.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qb6 8. Bc4
+Be7 9. Qe2 Nc6 10. Bb3 Be6 11. Be3 Nd4 12. Qd3 Bxb3 13. cxb3 Nc2+ 14. Kd2 Qxe3+
+15. Qxe3 Nxe3 16. Kxe3 O-O-O 17. fxe5 dxe5 18. Rac1 Kb8 19. Rhd1 {Source:
+Aitken Book 27} 1/2-1/2
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.10"]
+[Round "5"]
+[White "Mardle, Denis Victor"]
+[Black "Bonner, Denys Pepperell"]
+[Result "1-0"]
+[ECO "C61"]
+[PlyCount "65"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. d3 c6 7. Bc4 d6 8.
+Re1 Ne7 9. Qh5 Ng6 10. Bg5 Qc7 11. Bd2 Be6 12. b4 Bb6 13. Na3 O-O 14. f4 d5 15.
+exd5 cxd5 16. Bxd5 Bxd5 17. Qxd5 Nxf4 18. Qf5 Ng6 19. Nc4 Qc6 20. Re4 Rad8 21.
+a4 Rd5 22. Qh3 f5 23. b5 Qf6 24. Rf1 Bc7 25. Bb4 Rfd8 26. g3 Qf7 27. Bd2 Qd7
+28. Re2 Rf8 29. Bb4 Rf6 30. Rfe1 f4 31. Re8+ Kf7 32. Qxh7 fxg3 33. Qg8# {
+Source: David LeMoir, contributed 31 January 2018.} 1-0
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.10"]
+[Round "5"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Walker, Philip E"]
+[Result "1-0"]
+[ECO "C19"]
+[PlyCount "53"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8. Bd3
+b6 9. O-O Ba6 10. Bxa6 Nxa6 11. Qe2 Nb8 12. a4 Nbc6 13. Ba3 cxd4 14. cxd4 Na5
+15. Qb5+ Qd7 16. Nd2 Nf5 17. h3 Qxb5 18. axb5 Kd7 19. Bb4 Nc4 20. Nxc4 dxc4 21.
+Ra6 Kc8 22. g4 Nh4 23. f4 h5 24. f5 hxg4 25. fxe6 Nf3+ 26. Rxf3 gxf3 27. exf7 {
+Sources: David LeMoir, contributed 31 January 2018; (move 19-end) BCM, May
+1966, p127} 1-0
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.11"]
+[Round "6"]
+[White "Cock, John Crowle"]
+[Black "Ellis, David"]
+[Result "0-1"]
+[ECO "C03"]
+[PlyCount "104"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. e5 c5 5. c3 Nc6 6. Ndf3 Bd7 7. Bd3 cxd4 8. cxd4
+Qb6 9. Ne2 Nge7 10. O-O Nf5 11. Bb1 Be7 12. b3 h6 13. Bb2 Rc8 14. g4 Nh4 15.
+Nxh4 Bxh4 16. Kg2 h5 17. h3 hxg4 18. hxg4 Kd8 19. f4 Kc7 20. Ng1 Kb8 21. Nf3
+Be7 22. Kg3 f6 23. Bd3 Nb4 24. Bb1 Nc6 25. Bd3 Nb4 26. Bb1 Rh6 27. a3 Nc6 28.
+Bc2 Rch8 29. Qd3 Be8 30. Qe2 Na5 31. Qd1 Nc6 32. Kg2 Bg6 33. Bxg6 Rxg6 34. Kg3
+Na5 35. Bc3 Rgh6 36. Bxa5 Qxa5 37. b4 Qd8 38. Rc1 Rh3+ 39. Kg2 Qe8 40. Qc2 f5
+41. Qc7+ Ka7 42. b5 fxg4 43. Rc6 gxf3+ 44. Kf2 Ka8 45. Rfc1 Rh2+ 46. Ke3 Re2+
+47. Kd3 Qg6+ 48. Kc3 Re3+ 49. Kb2 Rh2+ 50. R1c2 Bxa3+ 51. Ka1 Re1+ 52. Ka2
+Qxc2+ {Source: David LeMoir, contributed 31 January 2018.} 0-1
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.11"]
+[Round "6"]
+[White "Mann, Richard HK"]
+[Black "Aitken, James Macrae"]
+[Result "0-1"]
+[ECO "C78"]
+[PlyCount "98"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[SourceTitle "Aitken Book 27"]
+[Source "Geoff Chandler"]
+[SourceDate "2021.06.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.06.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8. Bc2
+c5 9. Qe2 Qc7 10. d3 g6 11. Bg5 Bg7 12. Bxf6 Bxf6 13. Nbd2 O-O 14. Rfe1 Bg7 15.
+Nf1 Nc6 16. Ne3 Ne7 17. Bb3 h6 18. Rad1 Be6 19. Nd5 Nxd5 20. exd5 Bd7 21. h3
+Rae8 22. Bc2 Qd8 23. Qd2 f5 24. Re2 Kh7 25. Rde1 Bf6 26. g3 g5 27. g4 Rg8 28.
+Nh2 Kh8 29. gxf5 Bxf5 30. Ng4 Bg7 31. d4 Qd7 32. Bxf5 Qxf5 33. dxc5 h5 34. Nh2
+e4 {First Time Control.} 35. f3 Be5 36. Rxe4 Qxh3 37. Rxe5 Rxe5 38. Rxe5 Qg3+
+39. Kf1 Qxe5 40. Qd4 Re8 41. b4 Kg8 42. Qxe5 Rxe5 43. c6 Re3 44. Kf2 Rxc3 45.
+Nf1 Kf7 46. Ng3 Rc2+ 47. Ke3 Kf6 48. Ne4+ Ke5 49. Nc5 dxc5 {Source: Aitken
+Book 27} 0-1
+
+[Event "WECU-ch21"]
+[Site "Cheltenham"]
+[Date "1966.04.11"]
+[Round "6"]
+[White "Wise, Derek Maurice"]
+[Black "Napier, Ivan Robert"]
+[Result "1-0"]
+[ECO "B33"]
+[PlyCount "45"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qc7 6. Be2 a6 7. f4 e5 8.
+fxe5 Qxe5 9. Nxc6 dxc6 10. O-O Bc5+ 11. Kh1 Nxe4 12. Nxe4 Qxe4 13. Bd3 Qd5 14.
+c4 Qd8 15. Qh5 Be6 16. Qxc5 Qxd3 17. Bg5 Qd7 18. Rad1 Qc7 19. Bf4 Qc8 20. Bd6
+h5 21. Qg5 Qd7 22. Bb4 f6 23. Rxd7 {Source: David LeMoir, contributed 31
+January 2018.} 1-0
+
+[Event "WECU-ch21 Reserves"]
+[Site "Cheltenham"]
+[Date "1966.04.??"]
+[Round "?"]
+[White "Barton, R Alan"]
+[Black "Young, Geoffrey A"]
+[Result "0-1"]
+[ECO "C55"]
+[PlyCount "28"]
+[EventDate "1966.04.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman/Gillam Collection"]
+[SourceDate "2023.02.09"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.02.09"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8. fxg7 Rg8 9. Re1+ Be6 10. Ng5 Qd5 11. Rxe6+ fxe6 12. Qh5+ Kd7 13. Qf7+ Be7 14. Nxh7 Qe5 {"If White avoids mate he loses the Knight..." Source: Bristol Evening Post, 7 May 1966 (Brian Denman Collection)} 0-1
+

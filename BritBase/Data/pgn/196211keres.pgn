@@ -1,0 +1,364 @@
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Harman, Kenneth B"]
+[Result "0-1"]
+[ECO "B37"]
+[PlyCount "116"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nc2 d6 7. e4 f5 8. Bd3
+fxe4 9. Nxe4 Nf6 10. O-O O-O 11. Re1 Ne5 12. Nxf6+ Rxf6 13. Bf1 Bg4 14. Be2
+Bxe2 15. Qxe2 Qc7 16. Ne3 Rf7 17. Bd2 Raf8 18. f3 Qc6 19. Rac1 e6 20. Bc3 a5
+21. b3 Kh8 22. Nd1 a4 23. Nf2 Rxf3 24. Bxe5 Rxf2 25. Bxg7+ Kxg7 26. Qxf2 Rxf2
+27. Kxf2 Kf7 28. Rc3 Qc5+ 29. Kf1 b5 30. Rf3+ Ke7 31. cxb5 Qxb5+ 32. Kg1 Qc5+
+33. Kh1 Qc2 34. bxa4 Qxa4 35. a3 e5 36. Ref1 Qc4 37. Rb1 Ke6 38. h3 e4 39. Rf8
+Qc2 40. Rbf1 Ke5 41. R1f7 Qc1+ 42. Kh2 Qxa3 43. Rxh7 d5 44. Re8+ Kd4 45. Rd7 e3
+46. Rde7 Qd6+ 47. g3 Qf6 48. h4 Qf2+ 49. Kh3 Qf1+ 50. Kh2 Qf2+ 51. Kh3 Kd3 52.
+g4 Qf3+ 53. Kh2 d4 54. g5 Qg4 55. Rh8 e2 56. Rh6 Qf4+ 57. Kh1 Qe3 58. Rxe3+
+dxe3 {Source: I can't remember but I think it was an Islington club bulletin 
+(JS)} 0-1
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Parr, David"]
+[Result "1-0"]
+[ECO "A69"]
+[Annotator "Barden, Leonard"]
+[PlyCount "55"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase 09May2020"]
+[SourceDate "2020.05.09"]
+[SourceVersionDate "2020.05.09"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5 9. cxd5 Re8 10. e5 $5 dxe5 11. fxe5 Ng4 12. Bg5 (12. e6 $5 {Niemala-Tal, Riga 1959}) 12... Qb6 13. O-O c4+ $2 ({"He ought to play} 13... Nxe5 14. Nxe5 Bxe5 15. Bc4 Bf5 {as in Mikenas-Damjanovic, Sofia 1962, after which the critical line is} 16. g4 Qxb2 17. Bb5 {with wild complications" (Barden in CHESS)... well... not really...} Qxh2#) 14. Kh1 Nd7 15. e6 fxe6 16. Bxc4 Nf2+ 17. Rxf2 Qxf2 18. Ne4 Qxb2 19. Rb1 Qa3 20. Bb5 e5 21. Rb3 Qf8 22. d6 a6 23. Bc4+ Kh8 24. Be7 Rxe7 25. dxe7 Qxe7 26. Qd5 Qf8 27. Nfg5 h6 28. Rh3 {Sources: Manchester Guardian, 6 December 1962; CHESS, Xmas 1962 Vol.28, No.422, p54} 1-0
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Sheldrick, George M"]
+[Result "0-1"]
+[ECO "C18"]
+[PlyCount "58"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 b6 8. Bd3
+$2 {Barden} (8. a4 Ba6 9. Bb5+) 8... Ba6 9. O-O Bxd3 10. cxd3 cxd4 11. cxd4 Nc6
+12. Bg5 $2 (12. Qe2 {Barden}) 12... h6 13. Bh4 g5 14. Bg3 Nge7 15. Rc1 Qd7 16.
+h4 g4 17. Nh2 h5 18. Bf4 Nf5 19. Bg5 Ncxd4 20. Bf6 Rg8 21. Re1 Rc8 22. Rxc8+
+Qxc8 23. Qa4+ Qd7 24. Qa6 Qc7 25. Nf1 Kd7 26. Ne3 g3 $1 27. Nxf5 gxf2+ 28. Kxf2
+Qc2+ 29. Ke3 Nxf5+ {Source: Manchester Guardian, 6 December 1962, p12 (Leonard
+Barden column); CHESS, Vol.28 No.422, 20 December 1962} 0-1
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Levy, David Neil Lawrence"]
+[Result "0-1"]
+[ECO "A21"]
+[PlyCount "50"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. Bg2 Nf6 5. d4 e4 6. f3 exf3 7. Nxf3 Be7 8. O-O
+O-O 9. d5 Nbd7 10. Nd4 Ne5 11. Nxf5 Nxc4 12. e4 Ne5 13. Bh3 Kh8 14. Qe2 g6 15.
+Bh6 Rf7 16. Rf4 gxf5 17. exf5 Ng8 18. f6 Bxf6 19. Bxc8 Rxc8 20. Qh5 Nxh6 21.
+Re4 Bg7 22. Ne2 Nf3+ 23. Kg2 Rf5 24. Qxf3 Rxf3 25. Kxf3 Qf6+ {Source: CHESS,
+Vol.28 No.422, 20 December 1962} 0-1
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Gillman, Brian C"]
+[Result "1-0"]
+[ECO "C11"]
+[PlyCount "57"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Bb5
+a6 9. Bxc6 bxc6 10. Qd2 cxd4 11. Nxd4 c5 12. Na4 Qc7 13. Nf3 Qc6 14. b3 d4 15.
+Bf2 Bb7 16. O-O Rd8 17. Nb2 Nb6 18. Bh4 Be7 19. Bxe7 Kxe7 20. Rae1 f6 21. f5
+Bc8 22. exf6+ gxf6 23. fxe6 Rdg8 24. Nh4 Bb7 25. Rf2 Rg5 26. Qf4 Nd5 27. Nf5+
+Kf8 28. Qb8+ Bc8 29. e7+ {Source: CHESS, Vol.28 No.422, 20 December 1962, p54}
+1-0
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Smart, Ian Christopher"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[PlyCount "20"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "britbase.co.uk"]
+[SourceDate "2013.08.23"]
+[SourceVersion "1"]
+[SourceVersionDate "2013.08.23"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. Bg5 Qd7 7. O-O-O h6 8. Bh4
+$4 g5 9. Bg3 (9. Bxg5 hxg5 10. Kb1 Be7 11. Nf3 Nh6 12. Qh5 g4 13. Ng5 Ba6 14.
+Bxa6 Nxa6 15. h3 gxh3 16. Rxh3 O-O-O 17. Rdh1 Rhg8 18. Nf3 Ng4 19. Rf1 Rdf8 20.
+Nh2 Nxh2 21. Rxh2 c5 22. Qe2 Nb4 23. dxc5 Bxc5 24. g4 d4 25. Qf3 Kb8 26. Rd1
+Qc6 27. Ne4 Qd5 28. b3 Qxe5 29. Rh7 Nd5 30. Nxc5 bxc5 31. Rdh1 Rg7 32. Rxg7
+Qxg7 33. Qg3+ Ka8 34. Qd6 Rc8 35. Qd7 Nb6 36. Qe7 d3 37. cxd3 Na4 38. bxa4 Qc3
+{was the continuation in Padevsky-Portisch, Varna Olympiad 1962. Keres had
+played in this event but forgotten about this trap - Barden, CHESS}) 9... h5
+10. Qf3 h4 {"and wins the B for a pawn" but "Keres wriggled so ingeniously
+that he managed to salvage a draw" Source: CHESS, Vol.28 No.422, 20 December
+1962} 1/2-1/2
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Lambshire, Michael V"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1k2r2/1pp1nBbp/p1n5/4P3/4RB1q/1QP4P/PP4P1/5RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+{From a King's Gambit:} 1. g3 Qxh3 2. Be6+ {and White won. Source: CHESS, Vol.
+28 No.422, 20 December 1962, p55} 1-0
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Floyer, David A"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6kr/5pp1/pq1Bp2p/3pP2P/2r5/3R4/4KPP1/2QN4 w - - 0 1"]
+[PlyCount "2"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. Qe3 $4 Re4 {and Black won. Source: CHESS, Vol.28 No.422, 20 December 1962,
+p56} 0-1
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Lee, Peter Nicholas"]
+[Result "0-1"]
+[ECO "C86"]
+[PlyCount "44"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+{Opening moves not given but I (JS) am speculating they were as follows:} 1. e4
+e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3 d6 9.
+d4 Bg4 10. Rd1 Qc8 11. Bg5 Na5 12. Bc2 c5 13. dxc5 dxc5 {(To this point, the
+moves given follow Keres-Turn, Tallinn 1943, hence my theory as to the opening
+sequence - JS)} 14. Nbd2 Re8 15. h3 Bh5 16. Nf1 Nc4 17. b3 Na3 {[#]This is the
+starting position given in CHESS...} 18. g4 $4 (18. Rac1 $11) 18... Bxg4 19.
+hxg4 Nxc2 20. Bxf6 Bxf6 21. g5 Bd8 22. Rac1 Na3 {and Black won. Source (moves
+18w-22b - the rest of the moves are speculation): Chess, Vol.28, No.422, 20
+December 1962} 0-1
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Logsdon, Anthony Peter"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r2rk1/pp1b1ppp/3Pp3/8/q2bN3/BR6/P1B1QPPP/6K1 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. Nf6+ $5 Bxf6 2. Bxh7+ Kxh7 3. Qh5+ Kg8 4. Rh3 Bh4 $3 5. Rxh4 Qxh4 6. Qxh4
+Rc3 7. Bb2 Rd3 $1 {and Black won. Source: Chess, Vol.28, No.422, 20 December
+1962, p56} (7... Rd3 8. h3 $5 (8. Qg4 $2 e5 $1 $17) 8... f6 $13) 0-1
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Havard, G"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qk2r/4bp1p/p3b1p1/1p4B1/3p2Q1/3B4/PP3PPP/R3R1K1 w kq - 0 1"]
+[PlyCount "11"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. Rxe6 $1 fxe6 2. Qxe6 Qd6 3. Qe4 Kd7 4. Qb7+ Qc7 5. Qxc7+ Kxc7 6. Bxe7 {
+and White won. Source: Chess, Vol.28, No.422, 20 December 1962, p56} 1-0
+
+[Event "Simul - Keres 30 bds"]
+[Site "London"]
+[Date "1962.11.25"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Sage, Richard E"]
+[Result "0-1"]
+[ECO "D31"]
+[PlyCount "24"]
+[EventDate "1962.11.25"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+{N.b. not known how this game began... here's one possibility of which I (JS)
+am not at all confident...} 1. d4 e6 2. c4 d5 3. Nc3 Bb4 4. e4 Nf6 5. e5 Ne4 6.
+Qd3 Nxc3 7. bxc3 Be7 8. Qg3 g6 9. h4 Nc6 10. h5 {reaching the (very unusual)
+position [#] given in the magazine: now} dxc4 11. Bxc4 Nxd4 $1 12. cxd4 Qxd4 {
+and Black won. Source (moves 10b-end): CHESS, Vol.28 no.422, 20 December 1962,
+p56} 0-1
+
+[Event "Simul - Keres 25 bds"]
+[Site "London"]
+[Date "1962.11.26"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Footner, Andrew Frank"]
+[Result "1-0"]
+[ECO "C36"]
+[PlyCount "43"]
+[EventDate "1962.11.26"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 cxd5 7. Bxf4 Bb4+ 8.
+Nc3 O-O 9. Be2 dxc4 10. O-O Be6 11. Ng5 Bd5 12. Nxd5 Qxd5 13. Bf3 Qd7 14. Be5
+Be7 15. Qc2 g6 16. Qxc4 Kg7 17. Bd5 Rc8 18. Bc6 Qe8 19. Rxf6 Bxf6 20. Bxf6+
+Kxf6 21. Rf1+ Kxg5 22. Qc1+ {Source: Manchester Guardian, 6 December 1962, p12
+(Leonard Barden column). Not clear which of the two London-based Keres simuls
+this game was played in. I have assumed it was the second - JS} 1-0
+
+[Event "Simul - Keres 25 bds"]
+[Site "London"]
+[Date "1962.11.26"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Wolfensberger, Wolf (Dr)"]
+[Result "0-1"]
+[ECO "C74"]
+[PlyCount "36"]
+[EventDate "1962.11.26"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8. Ng5
+Be7 9. Qb3 $2 (9. O-O $1 {Barden}) 9... Bxg5 10. Bxg5 Qxg5 11. Qxb7 Qc1+ 12.
+Ke2 Qxh1 13. Qxa8+ Kf7 14. Bb3+ $2 (14. Qxc6 {Barden}) 14... Kg6 15. Qxc6 Nf6
+16. Qxc7 Bg4+ 17. Kd2 e3+ 18. Kxe3 Qe1+ {Source: Manchester Guardian, 6
+December 1962, p12 (Leonard Barden column). Biographical note: there is a
+Wikipedia page for Wolf Wolfensberger (1934-2011) which says he was a
+German-American academic who did a one-year National Institute of Health
+research fellowship at Maudsley Hospital, London during 1962-1963.} 0-1
+
+[Event "Simul - Keres 25 bds"]
+[Site "Nottingham"]
+[Date "1962.11.27"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Whyld, Kenneth"]
+[Result "0-1"]
+[ECO "C83"]
+[Annotator "CHESS 1998/11"]
+[PlyCount "98"]
+[EventDate "1962.11.27"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Nc5 12. Bc2 Qc8 $5 13. Re1 Bf5 14. Bxf5 Qxf5
+15. Nd4 Qg6 16. Nxc6 Qxc6 17. Nf3 Rad8 18. Nd4 Qg6 19. f4 f5 20. exf6 Qxf6 21.
+f5 Rd7 22. Qf3 Bd6 $2 23. Bf4 $4 (23. Qxd5+ Kh8 24. Qc6) 23... Bxf4 24. Qxf4
+Nd3 25. Qg3 Nxe1 26. Rxe1 Re7 27. Rxe7 Qxe7 28. h3 c5 29. Ne6 Rxf5 30. Qb8+ Kf7
+31. Nd8+ Kg6 32. Nc6 Qe3+ 33. Kh1 d4 34. cxd4 cxd4 35. Qc7 $2 Rf1+ 36. Kh2 Qf4+
+37. Qxf4 Rxf4 38. Kg3 Kg5 39. Ne5 Re4 40. Nf3+ Kf5 41. Kf2 h6 42. Nd2 Re7 43.
+Kf3 Ke5 44. Ke2 Kd5+ 45. Kd1 d3 46. Nb1 Kd4 47. a3 Rf7 48. Ke1 Ke3 49. Nd2 Rf2
+{Source: CHESS, November 1998. Score in simul: Keres +20 =4 -1 according to
+CHESS 1962/12 & CHESS 1998/11, but +19, =5 (IW Sharpe, G Allcock, H Brookes, B
+Ewart, J Shipton), -1 according to BCM, Jan 1963, p13} 0-1
+
+[Event "Simul - Keres 28 bds"]
+[Site "York"]
+[Date "1962.11.28"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Toothill, Andrew"]
+[Result "0-1"]
+[ECO "D87"]
+[PlyCount "68"]
+[EventDate "1962.11.28"]
+[EventType "simul"]
+[EventCountry "ENG"]
+[SourceTitle "Ronald Ives column"]
+[SourceDate "2023.05.01"]
+[SourceVersionDate "2023.05.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 Nc6 9. Be3 Qa5 10. O-O O-O 11. dxc5 Ne5 12. Bd5 Rd8 13. Qc2 Bd7 14. Bd4 e6
+15. Bb3 Bc6 16. Rad1 Nd7 17. Bxg7 Kxg7 18. Nd4 Nxc5 19. Nxc6 bxc6 20. Bc4 Rab8
+21. Qc1 Nxe4 22. Qe3 Nxc3 23. Rxd8 Rxd8 24. h4 h5 25. Rc1 Nd1 26. Qe2 Rd2 27.
+Qe1 Nxf2 28. Bxe6 Nd3 29. Qf1 fxe6 30. Rxc6 Qe5 31. Rc8 Nf4 32. Qb1 Qd4+ 33.
+Kh2 Rxg2+ 34. Kh1 Rh2+ {Source: RW Ives column, Yorkshire Evening Post 
+(undated). Keres scored +17, =5 (JW Atkinson, MG Binks, RJ Still, R Thomas, JL
+Seppings), -3 (AP Borwell, S Wilkinson, A Toothill) - see BCM, January 1963,
+p13} 0-1
+
+[Event "Simul - Keres 25 bds"]
+[Site "Dublin"]
+[Date "1962.12.02"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Dennehy, Anthony"]
+[Result "0-1"]
+[ECO "E60"]
+[PlyCount "54"]
+[EventDate "1962.12.02"]
+[EventType "simul"]
+[EventCountry "IRL"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 d6 6. Ne2 c5 7. O-O Nc6 8. d5 Na5
+9. Qc2 a6 10. a4 Rb8 11. Bd2 b6 12. f4 e6 13. e5 dxe5 14. fxe5 Ng4 15. Nf4 Nxe5
+16. dxe6 fxe6 17. Bxa5 bxa5 18. Nc3 Nxc4 19. Qe2 Ne3 20. Rfe1 Bd4 21. Kh1 g5
+22. Nh5 Nxg2 23. Qxg2 Rf2 24. Qh3 Rbxb2 25. Rad1 e5 26. g4 Bxg4 27. Rxd4 Qa8+ {
+Source: http://www.irlchess.com/2012/06/29/keres-dennehy-simul-trinity-1962/.
+Played at Trinity College, Dublin, in a hall where Capablanca, Lilienthal and
+Alekhine had played previously. Scores +22, =2 (E. Keogh, F.McMahon), L1. Time:
+3 hours 15 mins (acc. CHESS, 15 Dec 1962 - Barden gives Black's forename as
+'Arthur' but the online source says 'Tony')} 0-1
+

@@ -1,0 +1,94 @@
+[Event "Varsity Oxford-Cambridge"]
+[Site "Univ of London Union"]
+[Date "1962.03.24"]
+[Round "3"]
+[White "Footner, John Kenneth"]
+[Black "Sunderland, Leonard Samuel"]
+[Result "1-0"]
+[ECO "E17"]
+[Annotator "Barden, Leonard The Guardian"]
+[PlyCount "81"]
+[EventDate "1962.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "Guardian-2018-03"]
+[SourceDate "2018.03.26"]
+[SourceVersionDate "2018.03.26"]
+[WhiteTeam "Oxford University"]
+[BlackTeam "Cambridge University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. d4 e6 5. Bg2 Be7 6. O-O O-O 7. d5 ({This
+enterprising pawn sacrifice (an idea of the Spanish master Pomar) is an
+attempt to escape from the drawing rut of the main line} 7. Nc3 Ne4 8. Qc2 ({
+A similar idea which merits further tests is} 8. d5 $5 Nxc3 9. bxc3 {, though
+here the sacrifice is of White's pawn structure and not of material}) 8... Nxc3
+9. Qxc3 {.}) 7... a5 $2 ({Declining the sacrifice may avoid a prepared line
+but it commits Black to a cramped and futureless game with his QB permanently
+on the side lines. A characteristic continuation after} 7... exd5 {is} 8. Nd4
+c6 9. cxd5 Nxd5 10. e4 Nc7 11. Nc3 Bf6 12. Nf5 Ne8 13. Bf4 Bg5 14. Be5 Bf6 15.
+f4 {(Pomar-Golombek, Hastings 1959/60) White has play for the pawn - probably
+not [illegible] enough but sufficient in practice to make most players feel
+uncomfortable with Black.}) 8. Nc3 Na6 9. e4 Nc5 10. Nd4 ({Also strong is} 10.
+e5 Nfe4 11. Nxe4 Nxe4 12. Ne1 Nc5 {(else d6 wins material)} 13. Be3) 10... e5 (
+{If} 10... d6 {then simply} 11. f4 {with good prospects of a king's side
+attack.} ({Not} 11. Nc6 Bxc6 12. dxc6 Qe8 {when the c6 pawn becomes weak})) 11.
+Nf5 d6 12. Be3 Re8 13. a3 Bf8 ({The right plan at the moment, since Black
+cannot blockade by} 13... a4 {because of} 14. Bxc5 {, winning a pawn. During
+the next few moves, White makes good progress on the queen's side, while Black
+cannot regroup his queen's bishop quickly enough to counter on the other wing.}
+) 14. b4 axb4 15. axb4 Rxa1 16. Qxa1 Na6 17. Qb2 Ng4 ({Slightly better is} 
+17... g6 {where White would maintain his advantage by} 18. Nh4 ({if} 18. Nh6+
+Kg7 {and the knight lacks a retreat square.}) 18... Ng4 19. Bd2 Be7 20. Nf3 {
+. Black's chances are greater than in the actual game, since he can prepare
+the thematic ...f5 by ...Bc8 or ...Rf8.}) 18. Bd2 g6 19. Ne3 {An exception to
+the rule that exchanges help to relieve a cramped position. White's advantage
+here lies less in the extra space than in his chances of outflanking the black
+pawns via the a-file: so that his prospects remain markedly better unless the
+queens and rooks disappear.} Nxe3 20. Bxe3 Qd7 21. Ra1 Ra8 22. Bf1 $1 f5 ({
+Kereping Black on the defensive, for if the rook moves from the a-file, then
+23.c5!, while if here} 22... Nb8 23. Rxa8 Bxa8 24. Qa3 Bb7 25. Qa7 Qc8 26. Nb5
+{with continuing pressure.}) ({This advance is normally successful only when
+supported by pieces; here it creates a further weakness, which White
+immediately exploits. The waiting} 22... Be7 {is preferable.}) 23. Bh3 Qf7 24.
+Qb1 Re8 ({If} 24... fxe4 $2 25. Be6) ({or} 24... Bc8 $2 25. b5 {- so Black has
+to lose a pawn.}) 25. exf5 Bg7 26. fxg6 hxg6 $2 ({Hastening defeat as he gets
+no real play for the exchange sacrifice. Better is} 26... Qxg6 {although with
+a sound extra pawn and the stronger position White still wins.}) 27. Be6 Rxe6
+28. dxe6 Qxe6 29. Nd5 Qg4 30. Qb3 Kh7 31. b5 Nc5 32. Bxc5 bxc5 33. Ra7 {
+The finishing touch to the plan begun on move 13. The flank attack wins
+another pawn, and exposes the black king within a few moves. The rest is
+straightforward: a sound and instructive game by White.} Bxd5 34. cxd5 c4 35.
+Qc2 Qd4 36. Rxc7 Qxd5 37. Qxc4 Qd1+ 38. Kg2 d5 39. Qh4+ Qh5 40. Qxh5+ gxh5 41.
+b6 {Source: The Guardian, 6 April 1962, p7} 1-0
+
+[Event "Varsity Oxford-Cambridge"]
+[Site "Univ of London Union"]
+[Date "1962.03.24"]
+[Round "6"]
+[White "Meade, Philip James"]
+[Black "Morgan, Roger W"]
+[Result "1/2-1/2"]
+[ECO "E02"]
+[PlyCount "80"]
+[EventDate "1962.03.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[SourceTitle "Meade, PJ"]
+[WhiteTeam "Cambridge University"]
+[BlackTeam "Oxford University"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. g3 dxc4 5. Bg2 Be7 6. Qa4+ Nbd7 7. Qxc4 a6 8.
+Nf3 b5 9. Qc6 Ra7 10. Nd1 Bb4+ 11. Kf1 Bb7 12. Qc2 c5 13. a3 Ba5 14. Bg5 c4 15.
+Nc3 Qa8 16. Rd1 O-O 17. h3 Nd5 18. Kg1 h6 19. Nxd5 Bxd5 20. Bd2 Bb6 21. Bc3 Nf6
+22. Kh2 Rd8 23. Ne1 Bxg2 24. Nxg2 Ne4 25. e3 Rad7 26. Ra1 a5 27. Rhf1 e5 28.
+dxe5 Nxc3 29. bxc3 Rd2 30. Qb1 Qf3 31. Ra2 {[This move asterisked for some
+reason]} Bxe3 32. Nxe3 Qxe3 33. Qc1 Qe2 34. Rxd2 Rxd2 35. Kg1 Rc2 36. Qb1 Rb2
+37. Qc1 Ra2 38. Qb1 Qb2 39. Qxb2 Rxb2 40. Rd1 Kf8 {Source: original scoresheet
+of PJ Meade} 1/2-1/2
+

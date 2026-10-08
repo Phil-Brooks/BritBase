@@ -1,0 +1,1155 @@
+﻿[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.1"]
+[White "Byrne, Ray"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[PlyCount "75"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "ENG"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 cxd5 6. Bf4 Nc6 7. e3 Nh5 8. Bg3
+Nxg3 9. hxg3 g6 10. Bd3 Bg7 11. Rc1 O-O 12. O-O Bd7 13. Re1 Rc8 14. Na4 Nb4 15.
+Rxc8 Qxc8 16. Nc5 Nxd3 17. Qxd3 Bc6 18. Rc1 b6 19. Na6 Bb5 20. Rxc8 Bxd3 21.
+Rxf8+ Bxf8 22. Nc7 Bd6 23. Ne8 Be7 24. Ne5 Be2 25. Nc6 Kf8 26. Nc7 Bd6 27. Na8
+Ba6 28. Nxa7 b5 29. Nb6 Ke8 30. a4 bxa4 31. Nxa4 Bb8 32. Nc5 Be2 33. Nc6 Bc7
+34. b4 h5 35. Ne5 Ke7 36. f3 g5 37. Kf2 Bb5 38. f4 {Source: tournament book 
+(via Chess Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.1"]
+[White "Hay, G."]
+[Black "Sully, David John"]
+[Result "1-0"]
+[ECO "C57"]
+[PlyCount "119"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "WLS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Bf1 Bc5 8.
+d3 Bg4 9. f3 Qd4 10. Qe2 Bf5 11. Ne4 Bxe4 12. fxe4 Qd7 13. h3 Nd4 14. Qd1 Qa4
+15. b3 Qc6 16. c3 Ne6 17. Nd2 Be7 18. Bb2 Nd7 19. Rc1 Bh4+ 20. Ke2 Qb6 21. d4
+exd4 22. Nc4 d3+ 23. Kxd3 Qf2 24. Qd2 Ndc5+ 25. Kc2 Nxe4 26. Qxf2 Nxf2 27. Rg1
+Bg3 28. Ne3 O-O 29. Bc4 Ne4 30. Bd5 Bf2 31. Nf5 Bxg1 32. Bxe4 Bc5 33. Bxa8 Rxa8
+34. Rd1 Rd8 35. c4 Rxd1 36. Kxd1 g6 37. Nh6+ Kf8 38. Ng4 Be7 39. Ne5 Nd8 40.
+Bd4 a6 41. Nd7+ Ke8 42. Nb8 Ne6 43. Bc3 Nf4 44. Be5 Nxg2 45. Bxc7 a5 46. Bxa5
+Nf4 47. b4 Nd3 48. c5 Nxc5 49. bxc5 Bxc5 50. a4 f5 51. Bc7 g5 52. a5 h5 53. Ke2
+h4 54. Kf3 g4+ 55. hxg4 fxg4+ 56. Kxg4 Ke7 57. Na6 Bf2 58. Bb6 Be1 59. Nb4 Bxb4
+60. a6 {Source: tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.2"]
+[White "Davies, William Vivian"]
+[Black "Glendinning, John M"]
+[Result "0-1"]
+[ECO "C17"]
+[PlyCount "88"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "SCO"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Qg4 Ne7 7. Qxg7 Rg8 8. Qxh7
+cxd4 9. b4 Bc7 10. Nb5 a6 11. Nxc7+ Qxc7 12. Qd3 Qxe5+ 13. Ne2 Nbc6 14. Bb2 Nf5
+15. O-O-O Bd7 16. Nxd4 Qf4+ 17. Qd2 Qxd2+ 18. Rxd2 Nd6 19. f3 Nxd4 20. Bxd4 Bb5
+21. Bc5 Bxf1 22. Bxd6 Bxg2 23. Rg1 Kd7 24. Rdxg2 Rxg2 25. Rxg2 Kxd6 26. Kd2 Rh8
+27. Ke3 Rh4 {The tournament book gives Rh3.} 28. Kf2 Kc6 29. Kg3 Rh7 30. a4 d4
+31. h4 Kd5 32. f4 Kc4 33. Rd2 f6 34. Kg4 e5 35. fxe5 fxe5 36. Kg5 e4 37. h5 Kc3
+38. Rh2 d3 39. cxd3 exd3 40. Rh3 Kc2 41. Kg6 Rh8 42. Kg7 Rd8 43. h6 d2 44. Rh2
+Kc1 {Source: tournament book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.2"]
+[White "Denman, Brian John"]
+[Black "Moles, John L"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[PlyCount "64"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IRL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 cxd4 10. Bxf5 exf5 11. Qg3 g6 12. cxd4 Nc6 13. Ne2 h4 14. Qd3 Be6 {
+'with a good game for Black', Moles, The French Defence Main Line Winawer 
+(Batsford, 1975), p. 65.} 15. Bd2 Qe7 16. Nc3 a6 17. Ne2 Rc8 18. Nf4 g5 19.
+Nxe6 fxe6 20. Rb1 Kf7 21. O-O Rc7 22. Rb2 Ke8 23. Rfb1 Rh6 24. Bb4 Nxb4 25.
+Rxb4 Rh7 26. Rb6 Qd7 27. Rd6 Qc8 28. Qd2 Rhg7 29. Rb2 Rc6 30. h3 Rxd6 31. exd6
+Qc6 32. Qb4 Rd7 {Source: tournament book (via Chess Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.3"]
+[White "Cafferky, Tony"]
+[Black "Fox, Terry C"]
+[Result "0-1"]
+[ECO "C15"]
+[PlyCount "112"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Nc6 5. Nf3 Bxc3 6. Bxc3 Nf6 7. e5 Ne4 8.
+Bb5 O-O 9. Nd2 Nxc3 10. bxc3 Ne7 11. Bd3 Nf5 12. Nf3 Nh4 13. O-O Bd7 14. Kh1 c5
+15. dxc5 Nxf3 16. Qxf3 Qe7 17. Qe3 Rfc8 18. Rab1 Rab8 19. c6 Bxc6 20. c4 dxc4
+21. Bxc4 Bxg2+ 22. Kxg2 Rxc4 23. Qxa7 Qg5+ 24. Kh1 Qxe5 25. Qe3 Qxe3 26. fxe3
+Rxc2 27. a4 g6 28. Kg1 Ra2 29. Rb4 Kg7 30. Rf2 Rxf2 31. Kxf2 Kf6 32. a5 Ke7 33.
+Kf3 f5 34. Ke2 Kd7 35. Rb6 e5 36. Kd3 Kc7 37. Rb5 Rd8+ 38. Ke2 e4 39. h4 Rd7
+40. Kf2 Kd6 41. Kg3 Ke6 42. Kf4 Re7 43. Kg5 Rf7 44. Kf4 Kf6 45. Rb6+ Kg7 46.
+Kg5 f4 47. exf4 Re7 48. f5 gxf5 49. Kxf5 e3 50. Rb1 e2 51. Re1 Kf7 52. Kf4 Ke8
+53. Kf3 Kd7 54. Kf2 Kc6 55. Rxe2 Rxe2+ 56. Kxe2 Kb5 {Source: tournament book 
+(via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.3"]
+[White "Watson, W Peter"]
+[Black "Hughes, Alan J"]
+[Result "0-1"]
+[ECO "E50"]
+[PlyCount "64"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "WLS"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Nf3 O-O 5. e3 c5 6. Qc2 d5 7. a3 cxd4 8. axb4
+dxc3 9. bxc3 Qc7 10. c5 b6 11. cxb6 Qxb6 12. Bd3 Bb7 13. O-O h6 14. Bb2 Nbd7
+15. Ra5 e5 16. Bb5 Rfc8 17. Bxd7 Nxd7 18. Qf5 Qe6 19. Qxe6 fxe6 20. Rd1 d4 21.
+exd4 Bxf3 22. gxf3 Nb6 23. Ba1 exd4 24. Rxd4 Nd5 25. Ra3 Rf8 26. Rd3 Nf4 27.
+Re3 Rad8 28. Kf1 Rf5 29. c4 Rg5 30. Re1 Rd2 31. Bc3 Rc2 32. Bd4 Nh3 {Source:
+tournament book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.4"]
+[White "Lee, PT."]
+[Black "McCallion, J."]
+[Result "1-0"]
+[ECO "A67"]
+[PlyCount "51"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IRL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 O-O 10. Qf3 Na6 11. Nge2 Nc7 12. O-O Rb8 13. a4 b6 14. Nb5 Nxb5 15.
+axb5 Qc7 16. Nc3 Ra8 17. e5 Bb7 18. e6 fxe6 19. Qg3 exd5 20. f5 gxf5 21. Bxf5
+Kh8 22. Bg5 Ne5 23. Qh4 h6 24. Bxh6 Rf7 25. Bg5+ Kg8 26. Be6 {Source:
+tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.4"]
+[White "Thomas, PA."]
+[Black "Pritchett, Craig William"]
+[Result "0-1"]
+[ECO "C03"]
+[PlyCount "84"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "SCO"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. e5 c5 5. c3 Nc6 6. Ndf3 f6 7. exf6 Nxf6 8. Bd3
+O-O 9. Ne2 Bd6 10. O-O e5 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. f4 Bc7 14. c4 Be6 15.
+b3 Qd6 16. Qc2 Rad8 17. Bd2 dxc4 18. Bxc4 Bxc4 19. Qxc4+ Qd5 20. Qxd5+ Rxd5 21.
+Bc3 Ne4 22. g3 Rfd8 23. Rfe1 Rd3 24. Be5 Ba5 25. Nc1 Rd1 26. Rxd1 Rxd1+ 27. Kg2
+Bc3 28. Bxc3 Nxc3 29. Kf2 Kf7 30. a4 Ke6 31. Ke3 Kd6 32. Kf3 Kd5 33. Ke3 a5 34.
+Kf3 c4 35. bxc4+ Kxc4 36. Ke3 Nd5+ 37. Ke2 Nc3+ 38. Ke3 b6 39. Kf3 g6 40. Ke3
+Nd5+ 41. Ke2 Nc3+ 42. Ke3 Kd5 {Source: tournament book (via Chess Scotland)}
+0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.5"]
+[White "Batchelor, RA."]
+[Black "Williams, Arthur Howard"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[PlyCount "48"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "WLS"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. Nf3 Nbd7 8.
+Bg2 Nb6 9. Qd3 Bb4 10. O-O h6 11. a3 Bxc3 12. bxc3 Be4 13. Qd1 O-O 14. Ne5 Bxg2
+15. Kxg2 Qd5+ 16. f3 Nfd7 17. e4 Qb5 18. Nxd7 Qxd7 19. Qb3 Rfd8 20. Be3 Qc6 21.
+Rfd1 Qc4 22. Qxc4 Nxc4 23. Kf2 Rac8 24. Rab1 b6 {Source: tournament book (via
+Chess Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.5"]
+[White "Gibson, John F"]
+[Black "Thomson, Terence Audley K"]
+[Result "0-1"]
+[ECO "E94"]
+[PlyCount "58"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nbd7 7. O-O e5 8. d5
+Nc5 9. Qc2 a5 10. b3 Ne8 11. Be3 f5 12. Bxc5 dxc5 13. Rae1 f4 14. h3 g5 15. Nh2
+Nf6 16. f3 Nh5 17. Bd3 Ng3 18. Rf2 h5 19. Nf1 Ra6 20. Nxg3 fxg3 21. Rff1 g4 22.
+fxg4 hxg4 23. Rxf8+ Kxf8 24. Bf1 Qh4 25. Nb5 gxh3 26. gxh3 g2 27. Qf2+ Qxf2+
+28. Kxf2 gxf1=Q+ 29. Kxf1 Bxh3+ {and Black won in 8 more moves. Source:
+tournament book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.6"]
+[White "Holmes, Roger de Lacy"]
+[Black "Clarke, Ken"]
+[Result "1-0"]
+[ECO "B30"]
+[PlyCount "63"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IRL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 e6 4. g3 Qc7 5. Bg2 g6 6. c3 Bg7 7. Bf4 e5 8. Bd2 d6
+9. Na3 a6 10. Nc4 Be6 11. Ne3 Nf6 12. O-O O-O 13. Ng5 Rad8 14. Nxe6 fxe6 15.
+Bh3 Rfe8 16. Ng4 Nxg4 17. Qxg4 Qf7 18. f4 h5 19. Qe2 Qd7 20. f5 exf5 21. Bg5
+Rb8 22. exf5 Rf8 23. Rf2 Bf6 24. Bxf6 Rxf6 25. fxg6 Rxf2 26. Qxf2 Qg7 27. Be6+
+Kh8 28. Qf5 Qh6 29. Qf6+ Qg7 30. Qg5 Qf8 31. Qxh5+ Kg7 32. Qh7+ {Source:
+tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "1.6"]
+[White "Wood, RE."]
+[Black "McKenna, Frank"]
+[Result "0-1"]
+[ECO "A90"]
+[PlyCount "52"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "SCO"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 g6 5. Nc3 Nc6 6. e4 d6 7. Nge2 Bg7 8. O-O
+O-O 9. Be3 Qe8 10. Qd2 Ng4 11. h3 Nxe3 12. Qxe3 a6 13. Rac1 Bd7 14. f4 fxe4 15.
+Nxe4 Ne7 16. Qd2 d5 17. Nc5 b6 18. cxd5 bxc5 19. dxe6 Bc6 20. d5 Bxd5 21. Bxd5
+Rd8 22. Rxc5 c6 23. Bxc6 Rxd2 24. Bxe8 Rxe8 25. Re1 Rxe2 26. Rxe2 Bd4+ {
+Source: tournament book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.1"]
+[White "Glendinning, John M"]
+[Black "Byrne, Ray"]
+[Result "1-0"]
+[ECO "A05"]
+[PlyCount "92"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "IRL"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 dxe4 8.
+dxe4 Nc6 9. c3 Qc7 10. Qe2 e5 11. Re1 Re8 12. Nf1 Be6 13. Ng5 Bf8 14. Nxe6 Rxe6
+15. Be3 Rd8 16. Bh3 Ree8 17. f3 Nb8 18. g4 Nbd7 19. Ng3 g6 20. g5 Nh5 21. Nxh5
+gxh5 22. Qf2 Bg7 23. Qh4 Nf8 24. Qxh5 Ng6 25. Bf5 Rd3 26. Rad1 Red8 27. Rxd3
+Rxd3 28. Bxg6 hxg6 29. Qh4 b6 30. Qf2 Qd7 31. Re2 Qh3 32. Rd2 Qd7 33. Qe2 Rxd2
+34. Qxd2 Qh3 35. Qe2 Qd7 36. Kg2 Bf8 37. b3 Be7 38. Qd2 Qxd2+ 39. Bxd2 f6 40.
+gxf6 Bxf6 41. c4 g5 42. Kg3 Kg7 43. Kg4 Kg6 44. Be1 Be7 45. h4 gxh4 46. Bxh4
+Bd6 {Source: tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.1"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Sully, David John"]
+[Result "1-0"]
+[ECO "E38"]
+[PlyCount "69"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "WLS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 Nc6 7. Bf4 d6 8. e3
+e5 9. Bg5 Be6 10. Rd1 h6 11. Bh4 g5 12. Bg3 Qc8 13. a3 a5 14. Be2 Bf5 15. Qa4
+O-O 16. h4 g4 17. Nd2 Nb4 18. e4 Bd7 19. Nb5 Bxb5 20. cxb5 Nc2+ 21. Kf1 Nd4 22.
+Rc1 Qd7 23. Bd3 Rfc8 24. Kg1 Nh5 25. Kh2 Nf4 26. Bc4 Nfe6 27. Nf1 Bb6 28. Ne3
+Nc5 29. Qd1 h5 30. Nd5 Bd8 31. Re1 Nxb5 32. Qd2 Kg7 33. Bxb5 Qxb5 34. Ne3 Nd3
+35. Nf5+ {Source: tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.2"]
+[White "Davies, William Vivian"]
+[Black "Denman, Brian John"]
+[Result "1-0"]
+[ECO "B90"]
+[PlyCount "81"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "England"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+Qc7 9. a4 Nc6 10. f4 h5 11. h3 Bd7 12. Qf3 Na5 13. O-O O-O-O 14. Rfd1 Rh7 15.
+Rd3 Rdh8 16. Nd5 exd5 17. Rc3 Nc6 18. exd5 Bg4 19. Qf1 Ne4 20. Rc4 Nc5 21. dxc6
+bxc6 22. Ba2 a5 23. b4 axb4 24. Rxb4 g5 25. Rab1 Kd7 26. fxg5 d5 27. hxg4 hxg4
+28. Qf5+ Ke8 29. Bf4 Qd7 30. Rb8+ Bd8 31. Rxd8+ Qxd8 32. Rb8 Qxb8 33. Bxb8 Ne4
+34. Qe5+ Kd7 35. Qc7+ Ke8 36. Qxc6+ Ke7 37. Qc7+ Kf8 38. Qd8+ Kg7 39. Be5+ Kg6
+40. Bxh8 g3 41. Qb6+ {Source: tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.2"]
+[White "Moles, John L"]
+[Black "Watson, W Peter"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[PlyCount "66"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "SCO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4
+Bd7 9. Qd2 O-O 10. O-O-O Rc8 11. Bb3 Na5 12. h4 Nxb3+ 13. axb3 Qa5 14. Kb1 b5
+15. Nd5 Qd8 16. Bh6 e6 17. Nxf6+ Qxf6 18. h5 Rc5 19. hxg6 fxg6 20. Bxg7 Qxg7
+21. b4 Rc7 22. Nb3 Rc6 23. Na5 Rb6 24. c3 Rd8 25. Rh6 Be8 26. Rdh1 Rd7 27. Qg5
+d5 28. e5 Qe7 29. Qxe7 Rxe7 30. Nb3 g5 31. Nd4 Bg6+ 32. Kc1 Kg7 33. Kd2 Ra6 {
+Source: tournament book (via Chess Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.3"]
+[White "Fox, Terry C"]
+[Black "Hughes, Alan J"]
+[Result "1-0"]
+[ECO "E10"]
+[PlyCount "41"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "WLS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 Be7 7. e4 Nbd7 8. Be2
+O-O 9. O-O a6 10. a4 Qc7 11. Nd2 Rb8 12. f4 Ne8 13. Nf3 Bf6 14. Kh1 Bxc3 15.
+bxc3 f6 16. c4 Ra8 17. Bb2 Rf7 18. Qc2 Re7 19. Bd3 h6 20. Rae1 Ne5 $4 21. fxe5
+{and White won. Source: tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.3"]
+[White "Pritchett, Craig William"]
+[Black "Cafferky, Tony"]
+[Result "1-0"]
+[ECO "C62"]
+[PlyCount "41"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "IRL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 a6 6. Bxc6 bxc6 7. dxe5 dxe5 8.
+Nxe5 Nf6 9. Nxd7 Qxd7 10. Qxd7+ Nxd7 11. Bf4 Bd6 12. Bxd6 cxd6 13. O-O-O Ke7
+14. Rhe1 Rhd8 15. Ne2 Nf6 16. Nd4 Kd7 17. Nf5 Ne8 18. Nxd6 Nxd6 19. e5 Kc7 20.
+exd6+ Rxd6 21. Re7+ {Source: tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.4"]
+[White "McCallion, J."]
+[Black "Batchelor, RA."]
+[Result "0-1"]
+[ECO "E82"]
+[PlyCount "58"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "SCO"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 O-O 6. Be3 b6 7. Bd3 Bb7 8. Nge2
+c5 9. d5 e6 10. Qd2 exd5 11. Nxd5 Nxd5 12. exd5 Nd7 13. Nc3 Ne5 14. Be2 Nxc4
+15. Bxc4 Qh4+ 16. g3 Qxc4 17. Rd1 Bxc3 18. bxc3 Rfe8 19. f4 Bxd5 20. Qxd5 Rxe3+
+21. Kf2 Qe2+ 22. Kg1 Rf3 23. Qxa8+ Kg7 24. Qxf3 Qxf3 25. Rxd6 Qxc3 26. Kf2 Qc2+
+27. Ke3 Qxa2 28. h4 c4 29. h5 Qa3+ {Source: tournament book (via Chess
+Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.4"]
+[White "Thomas, PA."]
+[Black "Lee, PT."]
+[Result "0-1"]
+[ECO "C66"]
+[PlyCount "64"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "England"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Re1 Be7 8.
+c3 O-O 9. Nxc6 bxc6 10. Bd3 Ng4 11. Nd2 Ne5 12. Be2 Bf6 13. f4 Ng6 14. Nf3 Re8
+15. Qc2 Re7 16. Bd2 Qb8 17. Bd3 Qb6+ 18. Kf1 Rae8 19. Re2 c5 20. Rae1 Bc6 21.
+h3 Qb7 22. b3 Nh4 23. Nh2 h5 24. g4 g6 25. g5 Bg7 26. c4 Bd4 27. Bc3 Bxe4 28.
+Bxd4 Bxd3 29. Qxd3 Qh1+ 30. Bg1 Re3 31. Qd2 Nf3 32. Nxf3 Rxf3+ {Source:
+tournament book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.5"]
+[White "Holmes, Roger de Lacy"]
+[Black "Williams, Arthur Howard"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[PlyCount "46"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "WLS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 b5 8. e5
+Nxe5 9. Rxe5 bxa4 10. Nxd4 O-O 11. Nf5 Re8 12. Bg5 d6 13. Nxe7+ Rxe7 14. Rxe7
+Qxe7 15. Nc3 Bb7 16. Bxf6 Qxf6 17. Qe2 Qe6 18. Qxe6 fxe6 19. Nxa4 Bc6 20. Nc3
+Rb8 21. b3 Rb4 22. Rd1 Rg4 23. g3 Rg5 {Source: tournament book (via Chess
+Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.5"]
+[White "McKenna, Frank"]
+[Black "Gibson, John F"]
+[Result "1-0"]
+[ECO "B32"]
+[PlyCount "120"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "IRL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 g6 7. O-O Bg7 8. a3
+Nf6 9. Qc2 a6 10. Bf4 Qc7 11. Rac1 O-O 12. Ba2 e6 13. Rfd1 Rd8 14. b4 b5 15.
+Nd5 exd5 16. exd5 Bg4 17. Qxc6 Qxc6 18. dxc6 Ne8 19. c7 Rdc8 20. Bg3 Ra7 21.
+Bxd6 Nxc7 22. Bxc7 Raxc7 23. Rxc7 Rxc7 24. h3 Bxf3 25. gxf3 Rc3 26. Rd7 Rxf3
+27. Kg2 Rxa3 28. Bxf7+ Kf8 29. Bd5 Bc3 30. Rf7+ Ke8 31. Rxh7 Bxb4 32. Bf7+ Kf8
+33. Bxg6 Bc5 34. h4 Ra2 35. Rf7+ Kg8 36. h5 Bf8 $6 (36... Rxf2+ 37. Rxf2 Bxf2
+38. Kxf2 {draws immediately.}) 37. Rb7 Ra4 38. Rb8 Kg7 39. Rb7+ Kh6 40. Rh7+
+Kg5 41. Rf7 Ba3 42. Rf5+ Kh6 43. f4 Bc1 44. Kg3 Kg7 45. Rf7+ Kh8 46. Rf8+ Kg7
+47. Rf7+ Kh8 48. f5 Bg5 49. h6 Bxh6 50. Rh7+ Kg8 51. Rxh6 Kg7 52. Rh7+ Kf6 53.
+Rb7 Kg5 54. Rb6 Ra1 55. Bh7 Ra3+ 56. Kg2 Ra4 57. Kf3 Rf4+ 58. Ke3 Ra4 59. Kd3
+Rh4 60. Bg6 Ra4 {White won on adjudication (W. A. Fairhurst). Source:
+tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.6"]
+[White "Henry, Paul Gerard"]
+[Black "Jardine, Ian"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[PlyCount "40"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "SCO"]
+
+1. Nf3 f5 2. g3 e6 3. Bg2 Nf6 4. d3 Be7 5. O-O O-O 6. Nbd2 d6 7. Re1 Nbd7 8. b3
+Qe8 9. e4 f4 10. Bh3 e5 11. d4 fxg3 12. hxg3 exd4 13. Nxd4 Ne5 14. Be6+ Kh8 15.
+Kg2 Nfg4 16. f3 Qh5 17. fxg4 Rf2+ 18. Kxf2 Qh2+ 19. Kf1 Qh1+ 20. Kf2 Qh2+ {
+Source: tournament book (via Chess Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.03"]
+[Round "2.6"]
+[White "Wood, RE."]
+[Black "Wise, Derek Maurice"]
+[Result "0-1"]
+[ECO "C19"]
+[PlyCount "60"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "England"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
+Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Bd2 dxc3 13. Nxc3 a6 14. h3
+Na5 15. Kd1 Nc4 16. Bxc4 Qxc4 17. g4 Rc8 18. Qd3 Qc7 19. Rh2 Nc6 20. Ne2 Nxe5
+21. Qc3 Nc4 22. Nd4 Qb6 23. Ke1 Ne5 24. Qb4 Qxd4 25. Qxd4 Nf3+ 26. Kd1 Nxd4 27.
+Bb4 Ba4 28. Ra2 Kd7 29. Rf2 Nxc2 30. Raxc2 {The source gives the ambiguous
+"Rxc2".} Rxc2 {Source: tournament book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.1"]
+[White "Byrne, Ray"]
+[Black "Sully, David John"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[PlyCount "108"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "WLS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ng3 Rd8 12. Bb2 e5 13. d5 e4 14. Ba2 Ne5 15.
+c4 Qd6 16. Qc2 Neg4 17. Bxf6 Nxf6 18. Nxe4 Nxe4 19. Qxe4 f5 20. Qf4 Qxf4 21.
+exf4 Rb8 22. a4 Bd7 23. Bb1 a6 24. a5 b5 25. axb6 Rxb6 26. Ra5 Rc8 27. Re1 Kf7
+28. g3 Re8 29. Rd1 Reb8 30. Bd3 Rc8 31. Bf1 Rc7 32. Rda1 Bc8 33. Rd1 Rd6 34.
+Rb1 g6 35. Bd3 Bd7 36. Bc2 Kf6 37. Ba4 Bxa4 38. Rxa4 g5 39. fxg5+ Kxg5 40. Ra5
+f4 41. gxf4+ Kxf4 42. Rba1 Rg7+ 43. Kf1 Rdg6 44. Rxa6 Rg2 45. R1a2 Ke4 46. Rd2
+Rxh2 47. d6 Rh1+ 48. Ke2 Rd7 49. Rc6 Rh6 50. Rd5 Re6 51. f3+ Kf4+ 52. Kf2 Rb7
+53. Rcxc5 Rb2+ 54. Kf1 Rb1+ {Source: tournament book (via Chess Scotland)}
+1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.1"]
+[White "Hay, G."]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B75"]
+[PlyCount "84"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 Nc6 8. Qd2
+O-O 9. g4 Be6 10. Nxe6 fxe6 11. Bc4 Qc8 12. h4 d5 13. exd5 exd5 14. Nxd5 Nxd5
+15. Qxd5+ e6 16. Qxe6+ Qxe6 17. Bxe6+ Kh8 18. Bd5 Rae8 19. Bxc6 Rxe3+ 20. Kd2
+Re7 21. Be4 Bxb2 22. Rab1 Rd8+ 23. Ke3 Bc3 24. Rhd1 Rxd1 25. Rxd1 Kg7 26. Rd5
+Bf6 27. h5 Be5 28. hxg6 hxg6 29. Kd3 Kf6 30. a4 b6 31. Kc4 a6 32. Kb4 Rc7 33.
+c4 Rc5 34. Rxc5 Bd6 35. a5 Bxc5+ 36. Ka4 g5 37. Bb7 bxa5 38. Kxa5 Be3 39. Kxa6
+Ke6 40. Kb5 Kd6 41. Be4 Kc7 42. c5 Bc1 {Source: tournament book (via Chess
+Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.2"]
+[White "Davies, William Vivian"]
+[Black "Moles, John L"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[PlyCount "125"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "IRL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 cxd4 10. g4 Ne7 11. cxd4 Qc7 12. Bd2 Nbc6 13. Nf3 Bd7 14. gxh5 O-O-O
+15. Rb1 f6 16. Qg3 Rxh5 17. exf6 gxf6 18. Qxc7+ Kxc7 19. Be2 Rhh8 20. Bf4+ Kc8
+21. Bd3 Be8 {'with good play for Black: White's passed KRP is of no
+significance and Black has a compact, fluid position', Moles, The French
+Defence Main Line Winawer (Batsford, 1975), p. 82.} 22. Kd2 Bh5 23. Ne1 Nxd4
+24. Be3 Nf3+ 25. Nxf3 Bxf3 26. Rhg1 d4 27. Bf4 e5 28. Bg3 Rh5 29. Rb2 Nd5 30.
+Rgb1 Nc3 31. Re1 Kc7 32. h4 b6 33. Bg6 Rh6 34. Bf5 Re8 35. Rb4 Rd8 36. Rc4+ Bc6
+37. Be4 Nxe4+ 38. Rxe4 Kb7 39. Rg4 b5 40. Rg7+ Kb6 41. Rb4 Rd7 42. Rxd7 Bxd7
+43. Rb1 a5 44. Kd3 Bf5+ 45. Kd2 Rh8 46. Rb2 Rc8 47. Bh2 Rc3 48. Ra2 Kc5 49. Bg3
+Bg6 50. Kd1 Kd5 51. Kd2 f5 52. h5 Bxh5 53. Rb2 Rc5 54. Bh4 Ke4 55. Be7 Rd5 56.
+Rb3 Bg4 57. Bg5 f4 58. Bh4 Bd7 59. Be7 Be8 60. Rh3 Rd7 61. Bf8 Rf7 62. Bd6 Kd5
+63. Rh6 {Source: tournament book (via Chess Scotland)} (63. Rh6 e4 $19) 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.2"]
+[White "Fox, Terry C"]
+[Black "Glendinning, John M"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[PlyCount "128"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SCO"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 c6 5. cxd5 exd5 6. Nf3 Bf5 7. O-O Nbd7 8.
+Nbd2 Be7 9. b3 O-O 10. Bb2 Bg6 11. Nh4 Ne8 12. Nxg6 hxg6 13. Nf3 Nd6 14. Qc2
+Re8 15. Ne5 Bf6 16. f4 g5 17. e3 Rc8 18. Rac1 Nf8 19. Kh1 g6 20. Bh3 Rc7 21. a4
+Bg7 22. Ba3 Ne4 23. Bg2 f5 24. Bxe4 Bxe5 25. Bxf8 fxe4 26. Bc5 Bf6 27. Bxa7 Rh7
+28. Bc5 Qd7 29. f5 gxf5 30. Qf2 Rf7 31. Qxf5 Qxf5 32. Rxf5 Bd8 33. Rcf1 Rxf5
+34. Rxf5 Kg7 35. Bd6 Kg6 36. Rf1 Re6 37. Be5 Ba5 38. Kg2 Bd2 39. Kf2 Bb4 40.
+Ke2 Re7 41. Rf6+ Kg7 $2 42. h4 $2 (42. Rxc6+ Rxe5 43. Rb6 $18) 42... gxh4 43.
+gxh4 Ba5 44. Kf2 Rf7 45. Rf4+ Kg8 46. Kg3 Rxf4 47. Kxf4 Bd2 48. Bf6 Kf7 49. Bg5
+Kg6 50. Kg4 b6 51. h5+ Kh7 52. Kf5 Bb4 53. Ke5 Bf8 54. Ke6 Bb4 55. Bf4 Bf8 56.
+Bg5 Bb4 57. Bd8 Bd2 58. Bxb6 Bxe3 59. Ke5 $2 (59. a5 $18) (59. Kf5 $18) 59...
+Bd2 $10 60. Bd8 e3 $2 (60... Kh6 $1 $10) 61. Bh4 $2 (61. Bg5 $18) 61... e2 $10
+62. Kd6 Kh6 63. Kxc6 Kxh5 64. Bf2 Kg4 {Source: tournament book (via Chess
+Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.3"]
+[White "Cafferky, Tony"]
+[Black "Hughes, Alan J"]
+[Result "0-1"]
+[ECO "B90"]
+[PlyCount "74"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "WLS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. Bg5 Be7 8. Bc4
+Nc6 9. Nxc6 bxc6 10. Bxf6 Bxf6 11. Qf3 d5 12. exd5 cxd5 13. Rd1 Qe7 14. O-O
+Bxc3 15. bxc3 Bb7 16. Rb1 O-O 17. Rfe1 Qc7 18. Bd3 Rab8 19. Rb4 d4 20. Be4 Bxe4
+21. Rxe4 Rxb4 22. cxb4 Qxc2 23. Rxd4 Qxa2 24. Qd1 Qb2 25. Qd3 g6 26. Re4 Rc8
+27. f3 Rc2 28. Qf1 Rc1 29. Re1 Rc2 30. Rb1 Rxg2+ 31. Kh1 Rh2+ 32. Kg1 Qe5 33.
+f4 Qe2 34. Qxe2 Rxe2 35. Ra1 Re4 36. Ra4 a5 37. Rxa5 Rxb4 {Source: tournament
+book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.3"]
+[White "Pritchett, Craig William"]
+[Black "Denman, Brian John"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[PlyCount "110"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+Nc6 9. Be3 O-O 10. f4 e5 11. Nf5 Bxf5 12. exf5 exf4 13. Bxf4 Ne5 14. Nd5 Nxd5
+15. Qxd5 Qc7 16. Rfe1 Bf6 17. Rad1 Rad8 18. Kh1 Qc8 19. Bg3 b5 20. Rf1 Qc7 21.
+c3 Rfe8 22. Rfe1 Qd7 23. Rf1 Qc7 24. h3 Re7 25. Bf4 Red7 26. a4 Nc4 27. Bxc4
+Qxc4 28. Qxc4 bxc4 29. Rd5 Rb7 30. Rf2 Rdb8 31. Rxd6 Rxb2 32. Rxb2 Rxb2 33.
+Rxa6 h5 34. Ra8+ Kh7 35. Rc8 Bxc3 36. Rxc4 Be1 37. Rc1 Rf2 38. Rxe1 Rxf4 39.
+Ra1 Rxf5 40. a5 Rb5 41. a6 Rb8 42. Kh2 Kg6 43. Kg3 Kf5 44. Ra5+ Ke6 45. Kh4 Kd6
+46. a7 Ra8 47. Kxh5 Kc6 48. g4 Kb6 49. Ra1 Rxa7 50. Rxa7 Kxa7 51. g5 Kb6 52. g6
+f6 53. Kg4 Kc6 54. h4 Kd6 55. Kf5 Kd7 {Source: tournament book (via Chess
+Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.4"]
+[White "Lee, PT."]
+[Black "Batchelor, RA."]
+[Result "0-1"]
+[ECO "E93"]
+[PlyCount "92"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SCO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. Be2 Nbd7 6. Nf3 e5 7. d5 O-O 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. O-O Nf4 12. Nd2 Nxe2+ 13. Qxe2 f5 14. exf5 Nf6 15.
+Nde4 Bxf5 16. Nxf6+ Qxf6 17. Ne4 Qg6 18. Rae1 c6 19. f3 cxd5 20. cxd5 Rac8 21.
+Rc1 g4 22. Rxc8 Rxc8 23. Re1 h5 24. fxg4 Bxg4 25. Qf2 Rc4 26. Nc3 e4 27. Kh1 a6
+28. Rf1 Rc8 29. Qb6 Rf8 30. Rxf8+ Bxf8 31. Qe3 Bf5 32. Qf4 Qh6 33. Qxh6 Bxh6
+34. Bxd6 Bc1 35. Ba3 Bg5 36. Na4 e3 37. Bb4 Be4 38. Nc3 Bd3 39. Na4 Be4 40. Nb6
+Bh4 41. Kg1 $4 (41. d6) 41... Bf2+ 42. Kh1 e2 43. Nd7 Kf7 44. Ne5+ Ke8 45. Nc4
+Bxd5 46. Nd6+ Kd7 {Source: tournament book (via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.4"]
+[White "Thomas, PA."]
+[Black "McCallion, J."]
+[Result "1-0"]
+[ECO "B04"]
+[PlyCount "49"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "IRL"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. exd6 cxd6 6. Bd3 g6 7. O-O Bg7 8.
+Re1 O-O 9. c3 Nc6 10. Bg5 Qc7 11. Nbd2 Re8 12. Nf1 Be6 13. Ne3 Nd5 14. Nd2 Nb6
+15. f4 Bd7 16. f5 h6 17. fxg6 hxg5 18. gxf7+ Kxf7 19. Qh5+ Kf8 20. Rf1+ Bf6 21.
+Qh6+ Kg8 22. Qh7+ Kf8 23. Bg6 Be6 24. Qh8+ Bg8 25. Qh6# {Source: tournament
+book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.5"]
+[White "Henry, Paul Gerard"]
+[Black "Williams, Arthur Howard"]
+[Result "0-1"]
+[ECO "A07"]
+[PlyCount "88"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Ireland"]
+[BlackTeam "Wales"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "WLS"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. d3 Bg7 5. O-O O-O 6. Nbd2 Re8 7. Re1 e5 8. e4
+d4 9. Nc4 Nbd7 10. a4 c5 11. Bd2 Qc7 12. Qb1 b6 13. b4 Ba6 14. b5 Bb7 15. a5
+Nh5 16. Qb3 h6 17. Ra4 Kh7 18. Rea1 Rf8 19. R1a3 f5 20. Ne1 f4 21. g4 f3 22.
+Nxf3 Nf4 23. Bxf4 Rxf4 24. h3 Raf8 25. Ncd2 R8f7 26. axb6 axb6 27. Ra7 g5 28.
+Ra1 Nf8 29. Rf1 Ng6 30. Qb1 R4f6 31. Qd1 Qb8 32. Ra3 Bc8 33. Qa1 Bb7 34. Qd1
+Qe8 35. Rb3 Bc8 36. Qe2 Nf4 37. Qd1 Bd7 38. Qb1 Qf8 39. Nxe5 Ne2+ 40. Kh1 Rxf2
+41. Rxf2 Rxf2 42. Nef3 Qf4 43. Ne1 Qxd2 44. Nf3 Qf4 {Source: tournament book 
+(via Chess Scotland)} 0-1
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.5"]
+[White "McKenna, Frank"]
+[Black "Thomson, Terence Audley K"]
+[Result "1-0"]
+[ECO "B32"]
+[PlyCount "39"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Scotland"]
+[BlackTeam "England"]
+[WhiteTeamCountry "SCO"]
+[BlackTeamCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 e6 7. Bf4 Nf6 8. a3
+Be7 9. Qc2 a6 10. O-O Qc7 11. Rac1 Ne5 12. Nxe5 dxe5 13. Nb5 Qb8 14. Nc7+ Qxc7
+15. Bb5+ axb5 16. Qxc7 exf4 17. Rfd1 Nd7 18. Rc2 Bd8 $2 (18... O-O $1 {and if}
+19. Rxd7 Bxd7 20. Qxd7 Rad8) (18... g5 $1 $10) 19. Qd6 Be7 $4 20. Rxc8+ {
+Source: tournament book (via Chess Scotland)} 1-0
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.6"]
+[White "O'Brien, HJ."]
+[Black "Clarke, Ken"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[PlyCount "50"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "Wales"]
+[BlackTeam "Ireland"]
+[WhiteTeamCountry "WLS"]
+[BlackTeamCountry "IRL"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 h6 5. g3 Bb4 6. Bd2 Bxc3 7. Bxc3 d5 8.
+cxd5 Nxd5 9. Nxe5 Qf6 10. Nxc6 Nxc3 11. Qc2 Qxc6 12. e4 Nb5 13. Qxc6+ bxc6 14.
+Bg2 Ba6 15. O-O O-O 16. Rac1 Bb7 17. Rc4 Nd6 18. Rb4 Rab8 19. Rc1 Rfe8 20. e5
+Rxe5 21. Bxc6 Kh7 22. Bxb7 Rxb7 23. Rxb7 Nxb7 24. Rxc7 Rb5 25. Rxf7 Rxb2 $19 {
+Source: tournament book (via Chess Scotland)} 1/2-1/2
+
+[Event "Glorney Cup"]
+[Site "Glasgow"]
+[Date "1965.08.04"]
+[Round "3.6"]
+[White "Wise, Derek Maurice"]
+[Black "Jardine, Ian"]
+[Result "1-0"]
+[ECO "B90"]
+[PlyCount "57"]
+[EventDate "1965.08.03"]
+[EventType "team-tourn"]
+[EventRounds "3"]
+[EventCountry "SCO"]
+[SourceTitle "Chess Scotland"]
+[Source "Tournament book"]
+[SourceDate "2021.05.02"]
+[SourceVersion "1"]
+[SourceVersionDate "2021.05.02"]
+[SourceQuality "1"]
+[WhiteTeam "England"]
+[BlackTeam "Scotland"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "SCO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+Qc7 9. Be3 Nc6 10. f4 Bd7 11. f5 e5 12. Nde2 Rc8 13. Ng3 Na5 14. Nh5 Rg8 15.
+Nxf6+ Bxf6 16. Nd5 Qc6 17. Qh5 Nxb3 18. Qxh7 Rf8 19. cxb3 Qc2 20. Rac1 Qxe4 21.
+Rxc8+ Bxc8 22. Nxf6+ gxf6 23. Bh6 Qg4 24. Bxf8 Kxf8 25. Qh8+ Qg8 26. Qxf6 Qg4
+27. Qxd6+ Kg7 28. Qxe5+ Kh7 29. Qf6 {Source: tournament book (via Chess
+Scotland)} 1-0
+

@@ -1,0 +1,660 @@
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.05"]
+[Round "1"]
+[White "Kirtlan, Patric"]
+[Black "Darga, Klaus"]
+[Result "0-1"]
+[ECO "E63"]
+[PlyCount "66"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d6 6. d4 Nc6 7. Nc3 a6 8. a3
+Bg4 9. b4 Nd7 10. e3 e5 11. Ne2 Qf6 12. dxe5 Ndxe5 13. Nxe5 Nxe5 14. Bb2 Qf5
+15. Bxe5 Qxe5 16. Qd2 c6 17. Rac1 a5 18. Nd4 axb4 19. axb4 Ra4 20. Ra1 Rfa8 21.
+Rxa4 Rxa4 22. Rb1 Qe8 23. h3 Bd7 24. Ne2 Bf5 25. Qd1 c5 26. Rb3 Ra1 27. Nc1 Qa4
+28. e4 Be6 29. Rd3 Qxd1+ 30. Rxd1 cxb4 31. Bf3 Bxc4 32. e5 Bxe5 33. Bxb7 b3 {
+Source: Brighton and Hove Gazette, 19 January 1974. Contributed by Brian
+Denman, 18 January 2023.} 0-1
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.05"]
+[Round "1"]
+[White "Fuller, Ronald A"]
+[Black "Northage, Robert H"]
+[Result "0-1"]
+[ECO "B25"]
+[PlyCount "32"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 d6 5. d3 Nc6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 b6 10. Qd2 Bb7 11. d4 d5 12. exd5 exd5 13. dxc5 d4 14. Nxd4 Bxd4 15.
+Bxd4 Nxd4 16. Bxb7 Nf3+ {Sources: BCM, June 1961, p173; Illustrated London
+News - Saturday 13 May 1961} 0-1
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.05"]
+[Round "1"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Exell, Ernest George"]
+[Result "1-0"]
+[ECO "C35"]
+[PlyCount "25"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Ne5 Bh4+ 7. g3 fxg3 8.
+Bxf7+ Kf8 9. O-O gxh2+ 10. Kxh2 Bg3+ 11. Kg2 Nxc3 (11... Nf6 $5) 12. Qh5 Qe7
+13. Ng6+ {Sources: BCM, June 1961, p172; CHESS, Vol.26, no.383-4, April 1961,
+p252} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.05"]
+[Round "1"]
+[White "Pratten, Wilfred Henry"]
+[Black "Brierley, William Leonard"]
+[Result "1-0"]
+[ECO "C29"]
+[PlyCount "35"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. Nc3 e5 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 6. bxc3 Be6 7. d4 Nd7 8.
+Ne2 Nb6 9. Nf4 Bf5 10. Bd3 Bxd3 11. cxd3 Be7 12. Nh5 O-O 13. Qg4 g6 14. Bh6 Re8
+15. O-O Qd7 16. Qf3 Qe6 17. Ng7 Qc6 18. Qxf7+ {Source: WH Pratten book by RL
+Paige (2004)} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.06"]
+[Round "2"]
+[White "Darga, Klaus"]
+[Black "Wood, Christopher Baruch"]
+[Result "1-0"]
+[ECO "C19"]
+[PlyCount "57"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8. Qd2
+Nbc6 9. Nf3 b6 10. Bb5 Bd7 11. Bd3 cxd4 12. cxd4 Nb4 13. O-O Bxa4 14. Be2 b5
+15. c3 Nbc6 16. Ba3 Qc7 17. Bd6 Qd7 18. Rfb1 a6 19. Ne1 Na5 20. Nd3 Nc4 21. Qa2
+Nxd6 22. Nc5 Qc6 23. exd6 Qxd6 24. Nxa4 bxa4 25. Qxa4+ Kf8 26. Rb7 Qc6 27. Qb4
+Qe8 28. Rxa6 Rc8 29. Bb5 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.07"]
+[Round "3"]
+[White "Fuller, Ronald A"]
+[Black "Brierley, William Leonard"]
+[Result "1-0"]
+[ECO "B18"]
+[PlyCount "35"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. N1e2 h6 7. Nf4 Bh7 8.
+Bc4 e6 9. O-O Nf6 10. Re1 Nd5 11. Qh5 g6 12. Qe5 Rg8 13. Nxe6 fxe6 14. Qxe6+
+Be7 15. Ne4 Rg7 16. Bxh6 Kf8 17. Re3 Nd7 18. Bxd5 {Source: Illustrated London
+News - Saturday 13 May 1961} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.07"]
+[Round "3"]
+[White "Wood, Baruch Harold"]
+[Black "Tadiello, Charles L"]
+[Result "1-0"]
+[ECO "B21"]
+[PlyCount "61"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. f4 c5 2. Nf3 d6 3. e4 Nc6 4. Bb5 Bd7 5. c4 g6 6. Nc3 Bg7 7. d3 Nf6 8. Be3
+Ng4 9. Bg1 Nf6 10. h3 Nh5 11. Qd2 Qa5 12. Be3 Ng3 13. Rg1 a6 14. Bxc6 bxc6 15.
+Kf2 Nh5 16. g4 Nf6 17. e5 Ng8 18. Ne4 Qc7 19. Rae1 O-O-O 20. b4 cxb4 21. Qxb4
+c5 22. Qa3 Bc6 23. Rb1 Kd7 24. Bd2 Qa7 25. Bc3 f6 26. Rge1 Rf8 27. e6+ Kc8 28.
+Qa5 Bb7 29. Rb6 Kb8 30. Reb1 Ka8 31. Rxb7 {Source: Birmingham Daily Post -
+Wednesday 12 April 1961} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.08"]
+[Round "4"]
+[White "Mackay, Donald G"]
+[Black "Lloyd, David Edward"]
+[Result "1-0"]
+[ECO "A21"]
+[PlyCount "33"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+{"Here is a weird game won by D. G. Mackay, of Balham, an irrepressible
+character who could seriously claim to be the strongest player never to take
+part in the British Championship. He seems to alternate between the Civil
+Service and professional boxing, finding the latter both more enjoyable and
+more lucrative. Every now and again he turns up at Bognor where his past
+victims include O’Kelly de Galway, the Belgian who has won the event more
+often than anybody else."} 1. c4 e5 2. Nf3 d6 3. d4 e4 4. Ng5 f5 5. h4 Be7 6.
+Nc3 h6 7. Nh3 Bxh4 8. e3 g6 9. Nf4 Kf7 10. c5 Bf6 11. Bc4+ Kg7 12. Nxg6 Rh7 13.
+Nf4 Kh8 14. cxd6 Qxd6 15. Qh5 c6 16. Qg6 Rg7 17. Rxh6+ {Source: Illustrated
+London News, 22 April 1961 (BH Wood column); CHESS, Vol.26, no.383-4, April
+1961, p251} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.08"]
+[Round "4"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Pritchard, David Brine"]
+[Result "1-0"]
+[ECO "C73"]
+[PlyCount "91"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Nc3 g6 8. Qd3
+Bh6 9. Be3 Qe7 10. O-O-O Bxe3+ 11. Qxe3 Qg7 12. Kb1 Ne7 13. h4 exd4 14. Nxd4
+O-O 15. h5 c5 16. Nde2 g5 17. h6 Qg6 18. f3 Be6 19. g4 Rab8 20. f4 Bxg4 21.
+Rdg1 Bxe2 22. fxg5 Kh8 23. Nxe2 fxg5 24. Rxg5 Qf6 25. e5 Nd5 26. Qg3 dxe5 27.
+Rf5 Rg8 28. Qxe5 Qxe5 29. Rxe5 c6 30. c4 Nb4 31. Nc1 Rg2 32. Rhe1 Kg8 33. R5e2
+Rg3 34. Rd2 a5 35. a3 Na6 36. Re7 Rf8 37. Rdd7 Nb8 38. Rg7+ Rxg7 39. Rxg7+ Kh8
+40. Nd3 Rf6 41. Rb7 Rf8 42. Ne5 Re8 43. Nf7+ Kg8 44. Nd6 Rd8 45. Nf5 Nd7 46.
+Ne7+ {Source: CHESS, Vol.26, no.383-4, April 1961, p253} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.09"]
+[Round "5"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Darga, Klaus"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5p2/2n3p1/1pk4p/8/2K5/1PN2PPP/8 b - - 0 32"]
+[PlyCount "22"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+{Opening: 1 e4 c5 2 c3...} 32... b4+ 33. Kd3 Ne5+ 34. Ke4 Ng4 35. f3 (35. h3
+Nxf2+ 36. Ke5 b3 37. Na1 $11) 35... Nxh2 36. Ke5 Kc4 37. Kf6 Nxf3 38. Kxf7 Ne5+
+$2 (38... Nh4 $1 $19 {Stockfish 10 (2019)}) 39. Kf6 b3 40. Na1 Nd3 41. Kxg6 h4
+42. Kg5 Nxb2 43. Nxb3 {Source: BCM, August 1961, p221} 1/2-1/2
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.10"]
+[Round "6"]
+[White "Darga, Klaus"]
+[Black "Lehmann, Heinz"]
+[Result "1-0"]
+[ECO "D91"]
+[PlyCount "49"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Qd2 exd5 9. Qe3+ Kf8 10. Nf3 Nc6 11. Qd2 Bg4 12. e3 Bxf3 13. gxf3 Qf6 14. f4
+Rd8 15. O-O-O Ne7 16. Kb1 Kg8 17. Qc2 Bf8 18. Na4 Nc6 19. a3 Bd6 20. Nc5 Bxc5
+21. Qxc5 Qh4 22. Bg2 Qxf2 23. Bxd5 Qxe3 24. f5 Qe7 25. Bxc6 {Source: CHESS,
+Vol.26, no.383-4, April 1961, p252} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.11"]
+[Round "7"]
+[White "James, Rodney E"]
+[Black "Tranmer, Eileen Betsy"]
+[Result "0-1"]
+[ECO "C22"]
+[PlyCount "36"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Bd3 d5 6. Qe2 Nd4 7. Qe3 dxe4 8.
+Bxe4 Nxe4 9. Qxe4+ Qe7 10. Qxe7+ Bxe7 11. Kd1 Bf5 12. a3 O-O-O 13. Bd2 Bxc2+
+14. Kc1 Bf5 15. b4 Nb3+ 16. Kb2 Nxa1 17. Nf3 Nc2 18. Rc1 Bf6+ {"and White
+resigned after a few more moves." Source: Illustrated London News - Saturday
+13 May 1961} 0-1
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.11"]
+[Round "7"]
+[White "Tadiello, Charles L"]
+[Black "Pratten, Wilfred Henry"]
+[Result "0-1"]
+[ECO "D32"]
+[PlyCount "58"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 d4 6. Na4 b5 7. cxb6 axb6 8.
+b3 Nc6 9. Nf3 Bf5 10. a3 b5 11. Nb2 Bxa3 12. Nd3 Be7 13. Bd2 Nf6 14. g3 O-O 15.
+Bg2 Ne4 16. O-O Rc8 17. Rc1 Bf6 18. b4 Nc3 19. Bxc3 dxc3 20. Qb3 Be6 21. Qb1
+Bf5 22. Qb3 Re8 23. Rfd1 Qe7 24. Re1 Bxd3 25. exd3 Qxb4 26. Rxe8+ Rxe8 27. Qxb4
+Nxb4 28. d4 Na2 29. Rc2 b4 {Source: WH Pratten book by RL Paige (2004)} 0-1
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.11"]
+[Round "7"]
+[White "Wade, Robert Graham"]
+[Black "Thomson, Derek Ross"]
+[Result "1-0"]
+[ECO "A67"]
+[PlyCount "57"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 Na6 10. Nf3 O-O 11. O-O Nc7 12. a4 b6 13. Kh1 Rb8 14. Nb5 Nxb5 15.
+axb5 Qc7 16. f5 Rb7 17. Nd2 Ne5 18. Nc4 Nxc4 19. Bxc4 Be5 20. Ra3 Qe7 21. Rh3
+g5 22. f6 Bxf6 23. Rh5 Kg7 24. Bd2 Rg8 25. Rxf6 Kxf6 26. Rxh7 Qxe4 27. Bd3 Qxd5
+28. Qf1+ Bf5 29. Bc3+ {Source: CHESS, Vol.26, no.383-4, April 1961, p253} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.12"]
+[Round "8"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Lehmann, Heinz"]
+[Result "1-0"]
+[ECO "B12"]
+[PlyCount "113"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 Nf6 5. Be3 Qb6 6. Qd2 Qxb2 7. Rb1 Qa3 8. Bd3
+Na6 9. Nge2 Nb4 10. O-O Nxd3 11. cxd3 Bb4 12. Rb3 Bxc3 13. Nxc3 Qe7 14. e5 Nd7
+15. Qf2 f6 16. f4 O-O 17. Bc1 fxe5 18. Ba3 c5 19. dxe5 b6 20. d4 Ba6 21. Nb5
+Bxb5 22. Rxb5 Rac8 23. Rb3 h5 24. Qe2 Rf5 25. g4 hxg4 26. Qxg4 Nf8 27. Rg3 Rc7
+28. Rh3 Qd8 29. Rh6 Qe8 30. dxc5 bxc5 31. Rf3 Qa4 32. Kg2 Qe4 33. Kg3 d4 34.
+Kh3 d3 35. Bxc5 Rxc5 36. Rg3 Rc7 37. Qh4 Qxf4 38. Rh8+ Kf7 39. Rxf8+ Kxf8 40.
+Qd8+ Kf7 41. Qxc7+ Ke8 42. Qc8+ Ke7 43. Rxg7+ Rf7 44. Qc5+ Ke8 45. Rg8+ Rf8 46.
+Qc8+ Ke7 47. Qb7+ Ke8 48. Qb8+ Ke7 49. Qxa7+ Ke8 50. Qb8+ Ke7 51. Qd6+ Ke8 52.
+Qxe6+ Kd8 53. Qd6+ Ke8 54. Rxf8+ Qxf8 55. Qxd3 Qh8+ 56. Kg4 Qxe5 57. Qg6+ {
+Source: CHESS, Vol.26, no.383-4, April 1961, p252; (move 35-end) BCM, June
+1961, p173} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.12"]
+[Round "8"]
+[White "Pratten, Wilfred Henry"]
+[Black "Rosse, Jack Dennis"]
+[Result "1-0"]
+[ECO "E72"]
+[PlyCount "69"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 h6 7. Nge2 e5 8. d5 Nh5
+9. O-O f5 10. exf5 Bxf5 11. Be3 Qd7 12. Qd2 Kh7 13. f4 exf4 14. Nxf4 Nxf4 15.
+Rxf4 Na6 16. Raf1 Rae8 17. Bd4 h5 18. Ne4 Bxe4 19. Bxe4 Rxf4 20. Rxf4 Bxd4+ 21.
+Qxd4 Qg7 22. Qf2 Kg8 23. Bc2 Nb4 24. Bb1 Qe5 25. Bxg6 Re7 26. Bf7+ Kg7 27. Be6
+Nd3 28. Rf7+ Kg6 29. Rxe7 Nxf2 30. Bf7+ Kf6 31. Rxe5 dxe5 32. Kxf2 Kxf7 33. Kf3
+Kf6 34. Ke4 Kg5 35. c5 {Source: WH Pratten book by RL Paige (2004)} 1-0
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.13"]
+[Round "9"]
+[White "Hindle, Owen Mark"]
+[Black "Hall, Arthur"]
+[Result "0-1"]
+[ECO "C89"]
+[PlyCount "38"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 e4 10. dxc6 exf3 11. Qxf3 Bg4 12. Qg3 Bd6 13. Qh4 Re8 14. f3 Bf5 15.
+Rxe8+ Qxe8 16. d4 Qe2 17. Nd2 Bd3 18. g3 Qe1+ 19. Kg2 Re8 {Sources: BCM, June
+1961, p174; Hastings and St Leonards Observer, 6 May 1961; 'Chess', March 1970}
+0-1
+
+[Event "Stevenson Memorial 9th"]
+[Site "Bognor Regis"]
+[Date "1961.04.14"]
+[Round "10"]
+[White "Pratten, Wilfred Henry"]
+[Black "Howson, James B"]
+[Result "1-0"]
+[ECO "B07"]
+[PlyCount "91"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 Bg7 4. e4 d6 5. Bd3 O-O 6. O-O Nc6 7. c3 Bg4 8. h3
+Bc8 9. a4 Nd7 10. Nc4 e5 11. d5 Ne7 12. b4 h6 13. g4 f5 14. gxf5 gxf5 15. Nh4
+f4 16. Nf3 Nb6 17. Kh2 Nxc4 18. Bxc4 Qd7 19. Ng1 f3 20. Re1 Ng6 21. Re3 Nh4 22.
+Bf1 Qf7 23. c4 h5 24. Rd3 Qg6 25. Nxf3 Qxe4 26. Raa3 Qxc4 27. Ng5 Rxf2+ 28. Kg3
+Rf4 29. Rac3 Qxb4 30. Rxc7 Qb6 31. Rxg7+ Kxg7 32. Bxf4 exf4+ 33. Kxh4 Qf2+ 34.
+Kxh5 Bd7 35. Qa1+ Kg8 36. Rf3 Be8+ 37. Kg4 Bd7+ 38. Ne6 Bxe6+ 39. dxe6 Qg1+ 40.
+Kh5 Rf8 41. Qb1 Kg7 $2 (41... Qc5+ $5 42. Kh4 Rf6 $13) 42. Qxb7+ Kg8 43. Bd3
+Qc5+ 44. Kg4 Qg1+ 45. Kh5 Qc5+ 46. Kh4 {Source: WH Pratten book by RL Paige 
+(2004)} 1-0
+
+[Event "SCCU U18 Championship"]
+[Site "Bognor Regis"]
+[Date "1961.04.05"]
+[Round "1"]
+[White "James, Geoffrey H"]
+[Black "Wilson, Peter JB"]
+[Result "1-0"]
+[ECO "B45"]
+[PlyCount "17"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Nxc6 bxc6 7. e5 Nd5 8. Ne4 Ne7 $4 9. Nd6# {Source: G H James (Brian Denman Collection)} 1-0
+
+[Event "SCCU U18 Championship"]
+[Site "Bognor Regis"]
+[Date "1961.04.06"]
+[Round "2"]
+[White "Dowsett, Hugh"]
+[Black "James, Geoffrey H"]
+[Result "0-1"]
+[ECO "A17"]
+[PlyCount "46"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. e3 Nbd7 5. cxd5 exd5 6. Bg2 c6 7. Nge2 Bd6 8. d4 O-O 9. O-O Re8 10. Qc2 Qe7 11. Re1 Nb6 12. b3 g6 13. f3 Bf5 14. Qd1 Rac8 15. Kh1 Qd7 16. g4 Bxg4 $1 17. fxg4 Nxg4 18. Bh3 $4 Nf2+ 19. Kg2 Nxh3 20. Ng3 Ng5 21. e4 Qh3+ 22. Kg1 Bxg3 23. hxg3 Qxg3+ {Source: G H James (Brian Denman Collection)} 0-1
+
+[Event "SCCU U18 Championship"]
+[Site "Bognor Regis"]
+[Date "1961.04.06"]
+[Round "3"]
+[White "James, Geoffrey H"]
+[Black "Miller, JA"]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[PlyCount "60"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8. O-O d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. Bf3 Qa5 12. c3 Rd8 13. Qb3 Qa6 14. Rad1 Bxd4 15. Bxd4 Nc6 16. Bd5 Nxd4 17. Rxd4 e6 18. Bc4 Qa5 19. Qb5 Qc7 20. Rfd1 Rxd4 21. Qe8+ Kg7 22. Rxd4 b6 23. Qb5 (23. Rd8 $3 Qxc4 24. Qh8+ Kh6 25. Rd4 Qe2 (25... Qc5 26. Qf6 $18) 26. Rh4+ Kg5 27. f4+ Kxh4 28. Qf6+ $18) 23... a6 24. Qg5 Bb7 25. Rh4 h5 26. Bb3 Rh8 27. Rf4 Rd8 28. Qf6+ Kg8 29. h3 Bd5 30. Rd4 Rd7 {Source: G H James (Brian Denman Collection)} 1/2-1/2
+
+[Event "SCCU U18 Championship"]
+[Site "Bognor Regis"]
+[Date "1961.04.07"]
+[Round "4"]
+[White "Harris, Ronald Arthur"]
+[Black "James, Geoffrey H"]
+[Result "0-1"]
+[ECO "C02"]
+[PlyCount "62"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Ne7 12. Kh1 Nc6 13. f4 Bc5 14. a3 Rc8 15. Bd2 Ba7 16. Rf3 Qb6 17. Rg3 Nd4 18. Qg4 Qxb2 19. Ra2 Qb6 20. Qxg7 Rf8 21. Ra1 Qb2 22. Ra2 Qb6 23. Ra1 Qb2 24. Ra2 Qb3 25. Bf1 (25. Bxh7 Rxc3 $19) 25... Nf5 26. Qf6 Nxg3+ 27. hxg3 Rxc3 28. Bxc3 Qb6 $1 29. Kh2 Qg1+ 30. Kh3 Qh1+ 31. Kg4 Rg8+ {Source: G H James (Brian Denman Collection)} 0-1
+
+[Event "SCCU U18 Championship"]
+[Site "Bognor Regis"]
+[Date "1961.04.07"]
+[Round "5"]
+[White "James, Geoffrey H"]
+[Black "Taylor, MJ"]
+[Result "1-0"]
+[ECO "B72"]
+[PlyCount "51"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8. O-O d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. Bf3 Qa5 12. c3 Rd8 13. Qe2 Qa6 14. Nb5 Nc6 15. Bf4 Bd7 16. a4 Rac8 17. Qe3 e5 18. Bg5 f6 19. Bd5+ Kf8 20. Qf3 Na5 21. Be3 Bxb5 22. axb5 Qxb5 23. Rfd1 f5 24. Be6 e4 $2 25. Qf4 $1 Ra8 $2 (25... Be5 26. Qh6+ Bg7 27. Qxh7 $18) 26. Qc7 {Source: G H James (Brian Denman Collection)} 1-0
+
+[Event "SCCU U18 Championship"]
+[Site "Bognor Regis"]
+[Date "1961.04.08"]
+[Round "6"]
+[White "Wilmers, George M"]
+[Black "James, Geoffrey H"]
+[Result "0-1"]
+[ECO "C13"]
+[PlyCount "46"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Qg4 O-O 8. Bd3 f5 9. Qh3 c5 10. dxc5 Nc6 11. Nf3 Qa5 12. a3 $2 d4 13. b4 Nxb4 $1 14. Nxd4 Nd5 15. Bc4 Qxc3+ 16. Qxc3 Nxc3 17. Nxe6 Bxe6 18. Bxe6+ Kh8 19. Bb3 Bxc5 20. O-O Rfe8 21. e6 Rad8 22. a4 Ne2+ 23. Kh1 Nd4 {Source: G H James (Brian Denman Collection)} 0-1
+
+[Event "SCCU U18 Championship"]
+[Site "Bognor Regis"]
+[Date "1961.04.09"]
+[Round "7"]
+[White "James, Geoffrey H"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[PlyCount "43"]
+[EventDate "1961.04.05"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[SourceTitle "Denman Collection"]
+[Source "Brian Denman"]
+[SourceDate "2023.11.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.11.29"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8. O-O Nc6 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. Nxa5 Bxe2 13. Qxe2 Qxa5 14. g4 Rfc8 15. g5 Rxc3 $1 16. gxf6 Rxe3 17. Qxe3 Bxf6 18. c3 Qb5 19. Rf2 a5 20. Rd1 Kg7 21. Rd5 Qc4 22. b3 {Source: G H James (Brian Denman Collection)} 1/2-1/2
+
+[Event "Bognor Simul v 20 Girls U16"]
+[Site "Bognor Regis"]
+[Date "1961.04.??"]
+[Round "?"]
+[White "Bott, Linda"]
+[Black "Wann, Peter G"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "53"]
+[EventDate "1961.04.??"]
+[EventType "simul"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. O-O d6 6. h3 Be6 7. d3 Qd7 8. b4
+Bxb4 9. Bxe6 Qxe6 10. Nb5 O-O-O 11. a3 Bc5 12. c3 h6 13. d4 a6 14. d5 Qe7 15.
+dxc6 axb5 16. a4 bxc6 17. axb5 cxb5 18. Qe2 c6 19. Qa2 Kc7 20. Qa7+ Bxa7 21.
+Rxa7+ Kc8 22. Rxe7 Rdf8 23. Ba3 c5 24. Ra1 Nd7 25. Nxe5 dxe5 26. Bxc5 Nxc5 27.
+Ra8# {Source: CHESS, Vol.26, no.385-6, May 1961, p290. Linda Bott was aged 8
+at the time. (Note: the simul-giver played Black)} 1-0

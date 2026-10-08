@@ -1,0 +1,81 @@
+[Event "Northern Open 5th"]
+[Site "Whitby"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hempson, Peter W"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r1r2k1/4b2p/p1q1bpp1/4p3/PPp2P2/2P1B1N1/1R3QPP/R5K1 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1960.08.29"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1... Rd3 2. Bd2 $2 Bc5 3. Qxc5 Qxc5+ 4. bxc5 Rxb2 5. Be1 Bd5 6. Bf2 exf4 {
+Source: Illustrated London News - Saturday 17 September 1960} 0-1
+
+[Event "Northern Open 5th"]
+[Site "Whitby"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "O'Kelly de Galway, Alberic"]
+[Black "Ellison, Derek George"]
+[Result "1-0"]
+[ECO "C82"]
+[PlyCount "91"]
+[EventDate "1960.08.29"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qe2 O-O 11. Be3 Qe7 12. Nbd2 Nxd2 13. Qxd2 Bxe3 14. Qxe3 Na5
+15. Bc2 Nc4 16. Qf4 $1 f5 17. exf6 Rxf6 18. Qh4 h6 19. Rae1 Re8 20. Re2 $1 Qf8
+21. Rfe1 Bf7 22. Rxe8 Bxe8 23. Qd4 $1 c6 24. Qd3 Bg6 25. Qxg6 $3 Rxg6 26. Bxg6
+Nd6 27. Re6 $1 c5 (27... Qf4 28. g3 $1) 28. g3 $1 a5 29. Ne5 $1 Qd8 30. Nd3 c4
+31. Nf4 Qd7 32. Re5 Kf8 33. Nxd5 Qg4 34. Nf4 $1 Qd7 35. h4 Qc8 36. h5 $1 Qd7
+37. Ne6+ Kg8 38. Nd4 Kf8 39. Nf5 $1 Nf7 40. Re7 $1 Qxe7 (40... Qd1+ 41. Kh2 Nd6
+42. Rd7 $1) 41. Nxe7 Kxe7 42. Bxf7 Kxf7 43. Kg2 b4 44. Kf3 Kf6 45. Kf4 Ke6 46.
+Ke4 {Source: Gerald Hartmann, 22 January 2023} 1-0
+
+[Event "Northern Open 5th"]
+[Site "Whitby"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hempson, Peter W"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "E81"]
+[PlyCount "64"]
+[EventDate "1960.08.29"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.13"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.13"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c6 7. Be3 a6 8. g4 b5
+$1 9. Ng3 bxc4 10. Bxc4 d5 $1 11. Bb3 dxe4 12. Ncxe4 Nd5 $1 13. Bxd5 cxd5 14.
+Nc5 e5 $1 15. O-O Nc6 16. Ne2 Qd6 17. Rc1 Re8 18. Qa4 Ra7 19. Ne4 dxe4 20. dxe5
+Qxe5 21. Qxc6 Bd7 $3 22. Qc2 exf3 $1 23. Bxa7 fxe2 24. Rfe1 Bxg4 25. Qc6 Bh6 $1
+26. Rc4 Be3+ $1 27. Bxe3 Qxe3+ 28. Kg2 Qh3+ 29. Kg1 Rc8 $1 30. Qe4 Rxc4 31.
+Qxc4 Qe3+ 32. Kg2 Bh3+ {Source: Gerald Hartmann, 22 January 2023} 0-1
+

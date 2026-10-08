@@ -1,0 +1,2172 @@
+[
+  {
+    "Year": 1960,
+    "Name": "British Univ. Team Ch",
+    "Winner": "London Univ",
+    "StartDate": "1960.02.06",
+    "EndDate": "1960.02.07",
+    "GamesCount": "5",
+    "DateUpdated": "2023.01.12",
+    "PgnFileName": "196002bucateam.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1960.03.19",
+    "EndDate": "",
+    "GamesCount": "1",
+    "DateUpdated": "2018",
+    "PgnFileName": "196003vars.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "WECU-ch Bristol",
+    "Winner": "Andrew R B Thomas",
+    "StartDate": "1960.04.14",
+    "EndDate": "1960.04.18",
+    "GamesCount": "23",
+    "DateUpdated": "2026.01.22",
+    "PgnFileName": "196004wecu.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "8th Bognor Regis",
+    "Winner": "O'Kelly/Darga",
+    "StartDate": "1960.04.20",
+    "EndDate": "1960.04.30",
+    "GamesCount": "35+6",
+    "DateUpdated": "2023.02.04",
+    "PgnFileName": "196004bognor.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "Bognor other",
+    "Winner": "",
+    "StartDate": "1960.04.20",
+    "EndDate": "1960.04.30",
+    "GamesCount": "8^",
+    "DateUpdated": "2025.02.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1960,
+    "Name": "11th Ilford Premier",
+    "Winner": "Denis V Mardle",
+    "StartDate": "1960.06.03",
+    "EndDate": "1960.06.06",
+    "GamesCount": "5+3",
+    "DateUpdated": "2023.01.15",
+    "PgnFileName": "196006ilford.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "Ilford lower sections",
+    "Winner": "",
+    "StartDate": "1960.06.03",
+    "EndDate": "1960.06.06",
+    "GamesCount": "1^",
+    "DateUpdated": "2023.01.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1960,
+    "Name": "Coventry Premier",
+    "Winner": "John E Littlewood",
+    "StartDate": "1960.06.04",
+    "EndDate": "1960.06.07",
+    "GamesCount": "7/15",
+    "DateUpdated": "2023.01.14",
+    "PgnFileName": "196006coventry.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "IRL-ch Dublin",
+    "Winner": "Brian Reilly",
+    "StartDate": "1960.07",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1960,
+    "Name": "SCA-ch Aberdeen",
+    "Winner": "James M Aitken",
+    "StartDate": "1960.07.16",
+    "EndDate": "1960.07.22",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1960,
+    "Name": "GBR-ch Leicester",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1960.08.15",
+    "EndDate": "1960.08.26",
+    "GamesCount": "198/198",
+    "DateUpdated": "2024.02.03",
+    "PgnFileName": "196008bcf.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1960.08.15",
+    "EndDate": "1960.08.26",
+    "GamesCount": "18+2^",
+    "DateUpdated": "2024.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1960,
+    "Name": "10th Paignton Premier",
+    "Winner": "threefold tie",
+    "StartDate": "1960.09.05",
+    "EndDate": "1960.09.10",
+    "GamesCount": "70+2",
+    "DateUpdated": "2026.09.27",
+    "PgnFileName": "196009paignton.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "Northern Open, Whitby",
+    "Winner": "Alberic O'Kelly",
+    "StartDate": "1960.09.28",
+    "EndDate": "1960.09.09",
+    "GamesCount": "2+1",
+    "DateUpdated": "2023.01.22",
+    "PgnFileName": "196008whitby.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "8th Chess F, Eastbourne",
+    "Winner": "Donner/O'Kelly",
+    "StartDate": "1960.09.12",
+    "EndDate": "1960.09.23",
+    "GamesCount": "20",
+    "DateUpdated": "2023.01.17",
+    "PgnFileName": "196009chessfest.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "NED-GBR Vlissingen",
+    "Winner": "Netherlands 10Â½-9Â½",
+    "StartDate": "1960.10.08",
+    "EndDate": "1960.10.09",
+    "GamesCount": "7+3+10",
+    "DateUpdated": "2025.09.26",
+    "PgnFileName": "196010nedgbr.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "Hastings Premier",
+    "Winner": "Svetozar Gligoric",
+    "StartDate": "1960.12.28",
+    "EndDate": "1961.01.06",
+    "GamesCount": "45/45",
+    "DateUpdated": "2023.01.14",
+    "PgnFileName": "196012hast.pgn"
+  },
+  {
+    "Year": 1960,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1960.12.28",
+    "EndDate": "1961.01.06",
+    "GamesCount": "8+1^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "Leicestershire Centenary",
+    "Winner": "Svetozar Gligoric",
+    "StartDate": "1961.01.09",
+    "EndDate": "1961.01.13",
+    "GamesCount": "15",
+    "DateUpdated": "2023.01.17",
+    "PgnFileName": "196101leicester.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1961.03.18",
+    "EndDate": "",
+    "GamesCount": "1",
+    "DateUpdated": "2018",
+    "PgnFileName": "196103vars.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "Southend Premier",
+    "Winner": "James B Hawson",
+    "StartDate": "1961.03.31",
+    "EndDate": "1961.04.03",
+    "GamesCount": "5",
+    "DateUpdated": "2026.01.12",
+    "PgnFileName": "196103southend.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "9th Bognor Regis",
+    "Winner": "Alberic O'Kelly",
+    "StartDate": "1961.04.05",
+    "EndDate": "1961.04.15",
+    "GamesCount": "17+1",
+    "DateUpdated": "2023.01.18",
+    "PgnFileName": "196104bognor.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "Bognor other",
+    "Winner": "",
+    "StartDate": "1961.04.05",
+    "EndDate": "1961.04.15",
+    "GamesCount": "8^",
+    "DateUpdated": "2025.02.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "WLS-ch Cardiff",
+    "Winner": "Bennett/Mills",
+    "StartDate": "1961.04",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "12th Ilford Premier",
+    "Winner": "Cenek Kottnauer",
+    "StartDate": "1961.05.19",
+    "EndDate": "1961.05.22",
+    "GamesCount": "15/15",
+    "DateUpdated": "2023.04.26",
+    "PgnFileName": "196105ilford.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "12th Ilford-B",
+    "Winner": "Michael Franklin",
+    "StartDate": "1961.05.19",
+    "EndDate": "1961.05.22",
+    "GamesCount": "2+1^",
+    "DateUpdated": "2023.04.26",
+    "PgnFileName": "franklinm.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "Appleby-Frodingham",
+    "Winner": "Bob Wade",
+    "StartDate": "1961.05.19",
+    "EndDate": "1961.05.22",
+    "GamesCount": "18",
+    "DateUpdated": "2023.01.17",
+    "PgnFileName": "196105appleby.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "SCA-ch Edinburgh",
+    "Winner": "James M Aitken",
+    "StartDate": "1961.07.08",
+    "EndDate": "1961.08.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "aitkenj.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "IRL-ch Galway",
+    "Winner": "John Reid",
+    "StartDate": "1961.07.15",
+    "EndDate": "1961.07.22",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "Glorney Cup",
+    "Winner": "England",
+    "StartDate": "1961.07.25",
+    "EndDate": "1961.07.26",
+    "GamesCount": "7",
+    "DateUpdated": "2024.12.22",
+    "PgnFileName": "196107glorney.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "Northern Open, Whitby",
+    "Winner": "Alberic O'Kelly",
+    "StartDate": "1961.07.31",
+    "EndDate": "1961.08.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "GBR-ch Aberystwyth",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1961.08.14",
+    "EndDate": "1961.08.25",
+    "GamesCount": "184+1/187",
+    "DateUpdated": "2023.05.19",
+    "PgnFileName": "196108bcf.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1961.08.14",
+    "EndDate": "1961.08.25",
+    "GamesCount": "42+7^",
+    "DateUpdated": "2026.01.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "9th Chess F. Eastbourne",
+    "Winner": "Alberic O'Kelly",
+    "StartDate": "1961.08.28",
+    "EndDate": "1961.09.09",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "11th Paignton Premier",
+    "Winner": "C Hugh O'D Alexander",
+    "StartDate": "1961.09.11",
+    "EndDate": "1961.09.17",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1961,
+    "Name": "ENG-GBR m Cheltenham",
+    "Winner": "Gt Britain 13-7",
+    "StartDate": "1961.10.07",
+    "EndDate": "1961.10.08",
+    "GamesCount": "22",
+    "DateUpdated": "2023.01.17",
+    "PgnFileName": "196110engned.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "Hastings Premier",
+    "Winner": "Mikhail Botvinnik",
+    "StartDate": "1961.12.27",
+    "EndDate": "1962.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2024.09.09",
+    "PgnFileName": "196112hast.pgn"
+  },
+  {
+    "Year": 1961,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1961.12.27",
+    "EndDate": "1962.01.05",
+    "GamesCount": "22^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Oxford University",
+    "StartDate": "1962.03.24",
+    "EndDate": "",
+    "GamesCount": "2",
+    "DateUpdated": "2018",
+    "PgnFileName": "196203vars.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "BCF-SCA m Edinburgh",
+    "Winner": "",
+    "StartDate": "1962.04.06",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "6th Southend Premier",
+    "Winner": "James B Howson",
+    "StartDate": "1962.04.15",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "Derby Premier",
+    "Winner": "Hindle/Hilton",
+    "StartDate": "1962.04.20",
+    "EndDate": "1962.04.23",
+    "GamesCount": "24+2",
+    "DateUpdated": "2021.05.03",
+    "PgnFileName": "196204derby.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "WECU-ch Weston-s-Mare",
+    "Winner": "Denis V Mardle",
+    "StartDate": "1962.04.21",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "10th Bognor Regis",
+    "Winner": "Nikola Karaklajic",
+    "StartDate": "1962.04.25",
+    "EndDate": "1962.05.05",
+    "GamesCount": "128/198",
+    "DateUpdated": "2022.05.26",
+    "PgnFileName": "196204bognor.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "Bognor  other events",
+    "Winner": "",
+    "StartDate": "1962.04.25",
+    "EndDate": "1962.05.05",
+    "GamesCount": "8^",
+    "DateUpdated": "2024.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "13th Ilford Premier",
+    "Winner": "Cenek Kottnauer",
+    "StartDate": "1962.06.08",
+    "EndDate": "1962.06.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "Appleby-Frodingham",
+    "Winner": "John E Littlewood",
+    "StartDate": "1962.06.08",
+    "EndDate": "1962.06.11",
+    "GamesCount": "15",
+    "DateUpdated": "2023.09.12",
+    "PgnFileName": "196206appleby.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "SCA-ch Dundee",
+    "Winner": "William A Fairhurst",
+    "StartDate": "1962.07",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "IRL-ch Derry",
+    "Winner": "John Reid / M Littleton",
+    "StartDate": "1962.07.14",
+    "EndDate": "1962.07.21",
+    "GamesCount": "",
+    "DateUpdated": "[ irlchess.com ]",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "GBR-ch Whitby",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1962.08.13",
+    "EndDate": "1962.08.24",
+    "GamesCount": "176",
+    "DateUpdated": "2018.05.07",
+    "PgnFileName": "196208bcf.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "GBR-ch subsidiary events",
+    "Winner": "",
+    "StartDate": "1962.08.13",
+    "EndDate": "1962.08.24",
+    "GamesCount": "55^",
+    "DateUpdated": "2022.11.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "10th Chess F. Eastbourne",
+    "Winner": "Alberic O'Kelly",
+    "StartDate": "1962.08.27",
+    "EndDate": "1962.09.08",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "12th Paignton Premier",
+    "Winner": "Bowen/Holmes",
+    "StartDate": "1962.09.10",
+    "EndDate": "1962.09.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "Dublin",
+    "Winner": "Bob Wade",
+    "StartDate": "1962.10",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "NED-GBR m Vlissingen",
+    "Winner": "Gt Britain 11Â½-8Â½",
+    "StartDate": "1962.11.03",
+    "EndDate": "1962.11.04",
+    "GamesCount": "12/22",
+    "DateUpdated": "2019.04.10",
+    "PgnFileName": "196211nedeng.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "Paul Keres Simuls",
+    "Winner": "ENG/IRL/WLS",
+    "StartDate": "1962.11",
+    "EndDate": "",
+    "GamesCount": "17",
+    "DateUpdated": "2023.05.01",
+    "PgnFileName": "196211keres.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "Hastings Premier",
+    "Winner": "Gligoric, Kotov",
+    "StartDate": "1962.12.27",
+    "EndDate": "1963.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2023.01.06",
+    "PgnFileName": "196212hast.pgn"
+  },
+  {
+    "Year": 1962,
+    "Name": "Hastings Challengers",
+    "Winner": "Brinck Claussen",
+    "StartDate": "1962.12.27",
+    "EndDate": "1963.01.05",
+    "GamesCount": "45^",
+    "DateUpdated": "2024.01.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1962,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1962.12.27",
+    "EndDate": "1963.01.05",
+    "GamesCount": "6",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Oxford University",
+    "StartDate": "1963.03.23",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2018",
+    "PgnFileName": "196303vars.pgn"
+  },
+  {
+    "Year": 1963,
+    "Name": "WECU-ch Falmouth",
+    "Winner": "Philip E Walker",
+    "StartDate": "1963.04.11",
+    "EndDate": "1963.04.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "7th Southend Premier",
+    "Winner": "William A Fairhurst",
+    "StartDate": "1963.04.12",
+    "EndDate": "1963.04.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "11th Bognor Regis",
+    "Winner": "Nikola Karaklajic",
+    "StartDate": "1963.04.17",
+    "EndDate": "1963.04.27",
+    "GamesCount": "50+2",
+    "DateUpdated": "2025.02.04",
+    "PgnFileName": "196304bognor.pgn"
+  },
+  {
+    "Year": 1963,
+    "Name": "Bognor Regis other",
+    "Winner": "",
+    "StartDate": "1963.04.17",
+    "EndDate": "1963.04.27",
+    "GamesCount": "17^",
+    "DateUpdated": "2024.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "14th Ilford Premier",
+    "Winner": "Michael J Franklin",
+    "StartDate": "1963.05.31",
+    "EndDate": "1963.06.03",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "franklinm.pgn"
+  },
+  {
+    "Year": 1963,
+    "Name": "IRL-ch Cork",
+    "Winner": "Wolfgang Heidenfeld",
+    "StartDate": "1963.07.13",
+    "EndDate": "1963.07.20",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "8th Northern op Whitby",
+    "Winner": "Baruch H Wood",
+    "StartDate": "1963.07.29",
+    "EndDate": "1963.08.09",
+    "GamesCount": "32+2",
+    "DateUpdated": "2025.10.29",
+    "PgnFileName": "196307whitby.pgn"
+  },
+  {
+    "Year": 1963,
+    "Name": "SCA-ch Glasgow",
+    "Winner": "Michael Fallone",
+    "StartDate": "1963.08.03",
+    "EndDate": "1963.08.10",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "GBR-ch Bath",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1963.08.12",
+    "EndDate": "1963.08.23",
+    "GamesCount": "154",
+    "DateUpdated": "2021.05.09",
+    "PgnFileName": "196308bcf.pgn"
+  },
+  {
+    "Year": 1963,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1963.08.12",
+    "EndDate": "1963.08.23",
+    "GamesCount": "83^",
+    "DateUpdated": "2025.09.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "11th Chess F.Eastbourne",
+    "Winner": "Owen Hindle",
+    "StartDate": "1963.08.26",
+    "EndDate": "1963.09.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "13th Paignton Premier",
+    "Winner": "Peter H Clarke",
+    "StartDate": "1963.09.02",
+    "EndDate": "1963.09.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "British Team Lightning Ch",
+    "Winner": "Birmingham",
+    "StartDate": "1963.11.09",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "GBR-NED m Birmingham",
+    "Winner": "Netherlands 12Â½-7Â½",
+    "StartDate": "1963.11.23",
+    "EndDate": "1963.11.24",
+    "GamesCount": "22",
+    "DateUpdated": "2023.09.12",
+    "PgnFileName": "196311engned.pgn"
+  },
+  {
+    "Year": 1963,
+    "Name": "Hastings Premier",
+    "Winner": "Mikhail Tal",
+    "StartDate": "1963.12.30",
+    "EndDate": "1964.01.08",
+    "GamesCount": "45",
+    "DateUpdated": "2022.09.05",
+    "PgnFileName": "196312hast.pgn"
+  },
+  {
+    "Year": 1963,
+    "Name": "Hastings Challengers",
+    "Winner": "Gaprind'li/Kinnmark",
+    "StartDate": "1963.12.30",
+    "EndDate": "1964.01.08",
+    "GamesCount": "45^",
+    "DateUpdated": "2022.09.05",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1963,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1963.12.30",
+    "EndDate": "1964.01.08",
+    "GamesCount": "11^",
+    "DateUpdated": "2024.01.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "Tal UK Simul Games",
+    "Winner": "",
+    "StartDate": "1964.01",
+    "EndDate": "",
+    "GamesCount": "37",
+    "DateUpdated": "2023.09.13",
+    "PgnFileName": "196401talsimul.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "WLS-ch Aberystwyth",
+    "Winner": "Graham Chesters",
+    "StartDate": "1964.03",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1964.03.21",
+    "EndDate": "",
+    "GamesCount": "4",
+    "DateUpdated": "2024.01.03",
+    "PgnFileName": "196403vars.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "WECU-ch Torquay",
+    "Winner": "J Ansell (on tie-break)",
+    "StartDate": "1964.03.26",
+    "EndDate": "1964.03.30",
+    "GamesCount": "16+5",
+    "DateUpdated": "2025.10.07",
+    "PgnFileName": "196403wecu.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "12th Bognor Regis",
+    "Winner": "Denis Mardle",
+    "StartDate": "1964.04.01",
+    "EndDate": "1964.04.11",
+    "GamesCount": "61+6",
+    "DateUpdated": "2022.12.03",
+    "PgnFileName": "196404bognor.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "Bognor other events",
+    "Winner": "",
+    "StartDate": "1964.04.01",
+    "EndDate": "1964.04.11",
+    "GamesCount": "34^",
+    "DateUpdated": "2022.12.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "15th Ilford Premier",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1964.05.15",
+    "EndDate": "1964.05.18",
+    "GamesCount": "15",
+    "DateUpdated": "2023.05.29",
+    "PgnFileName": "196405ilford.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "BCF Selection (Part 1)",
+    "Winner": "Owen Hindle",
+    "StartDate": "1964.05.15",
+    "EndDate": "1964.05.18",
+    "GamesCount": "10^",
+    "DateUpdated": "2023.05.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "IRL-ch Dublin",
+    "Winner": "Wolfgang Heidenfeld",
+    "StartDate": "1964.07.11",
+    "EndDate": "1964.07.19",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "SCA-ch Edinburgh",
+    "Winner": "Alexander M Davie",
+    "StartDate": "1964.07.11",
+    "EndDate": "1964.07.18",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "Northern op Whitby",
+    "Winner": "Baruch H Wood",
+    "StartDate": "1964.07",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "BCF Selection (Part 2)",
+    "Winner": "Owen Hindle",
+    "StartDate": "1964.07.31",
+    "EndDate": "1964.08.03",
+    "GamesCount": "10",
+    "DateUpdated": "2023.05.29",
+    "PgnFileName": "196405ilford.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "GBR-ch Whitby",
+    "Winner": "Michael J Haygarth",
+    "StartDate": "1964.08.17",
+    "EndDate": "1964.08.28",
+    "GamesCount": "49/176",
+    "DateUpdated": "2022.11.15",
+    "PgnFileName": "196408bcf.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1964.08.17",
+    "EndDate": "1964.08.28",
+    "GamesCount": "49+1^",
+    "DateUpdated": "2024.12.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "12th CHESS Festival, Eastbourne",
+    "Winner": "Hindle, Rumens, Reefschlaeger",
+    "StartDate": "1964.08.31",
+    "EndDate": "1964.09.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "14th Paignton Premier",
+    "Winner": "Peter H Clarke",
+    "StartDate": "1964.09.07",
+    "EndDate": "1964.09.12",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "NED-GBR Vlissingen",
+    "Winner": "Gt Britain 11Â½-8Â½",
+    "StartDate": "1964.09.19",
+    "EndDate": "1964.09.20",
+    "GamesCount": "7+15",
+    "DateUpdated": "2026.04.27",
+    "PgnFileName": "196409nedgbr.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "Hastings Premier",
+    "Winner": "Paul Keres",
+    "StartDate": "1964.12.28",
+    "EndDate": "1965.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2023.12.19",
+    "PgnFileName": "196412hast.pgn"
+  },
+  {
+    "Year": 1964,
+    "Name": "Hastings Challengers",
+    "Winner": "W Nicolai / Y Razuvaev",
+    "StartDate": "1964.12.28",
+    "EndDate": "1965.01.06",
+    "GamesCount": "8^",
+    "DateUpdated": "2025.10.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1964,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1964.12.28",
+    "EndDate": "1965.01.06",
+    "GamesCount": "29^",
+    "DateUpdated": "2024.07.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "Croydon Junior Training",
+    "Winner": "",
+    "StartDate": "1965.??",
+    "EndDate": "",
+    "GamesCount": "20",
+    "DateUpdated": "2007.08.19",
+    "PgnFileName": "196500croydon.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Oxford University",
+    "StartDate": "1965.03.20",
+    "EndDate": "",
+    "GamesCount": "2",
+    "DateUpdated": "2018",
+    "PgnFileName": "196503vars.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Southend Premier",
+    "Winner": "Wade, Howson, Clarke",
+    "StartDate": "1965.04.16",
+    "EndDate": "1965.04.19",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "WECU-ch Weymouth",
+    "Winner": "Denis V Mardle",
+    "StartDate": "1965.04.15",
+    "EndDate": "1965.04.19",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "WLS-ch Swansea",
+    "Winner": "D Ian W Reynolds",
+    "StartDate": "1965.04.15",
+    "EndDate": "1965.04.19",
+    "GamesCount": "7",
+    "DateUpdated": "2025.11.03",
+    "PgnFileName": "196504wls.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "13th Bognor Regis",
+    "Winner": "A O'Kelly de Galway",
+    "StartDate": "1965.04.21",
+    "EndDate": "1965.05.01",
+    "GamesCount": "85",
+    "DateUpdated": "2025.02.01",
+    "PgnFileName": "196504bognor.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Bognor - other events",
+    "Winner": "",
+    "StartDate": "1965.04.21",
+    "EndDate": "1965.05.01",
+    "GamesCount": "50^",
+    "DateUpdated": "2025.02.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "16th Ilford Premier",
+    "Winner": "Hartston, Fazekas, N Littlewood",
+    "StartDate": "1965.06.04",
+    "EndDate": "1965.06.07",
+    "GamesCount": "15",
+    "DateUpdated": "2024.02.02",
+    "PgnFileName": "196506ilford.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Ilford other events",
+    "Winner": "",
+    "StartDate": "1965.06.04",
+    "EndDate": "1965.06.07",
+    "GamesCount": "6^",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "1st Staffordshire Open",
+    "Winner": "Peter C Griffiths",
+    "StartDate": "1965.06.05",
+    "EndDate": "1965.06.08",
+    "GamesCount": "18",
+    "DateUpdated": "2025.06.04",
+    "PgnFileName": "griffithspc.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "London Training",
+    "Winner": "Michael J Basman",
+    "StartDate": "1965.06",
+    "EndDate": "1965.06.27",
+    "GamesCount": "14",
+    "DateUpdated": "2015.08.10",
+    "PgnFileName": "196506londontraining.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "IRL-ch Galway",
+    "Winner": "Michael F Littleton",
+    "StartDate": "1965.07.10",
+    "EndDate": "1965.07.17",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "SCA-ch Aberdeen",
+    "Winner": "3-way tie",
+    "StartDate": "1965.07.10",
+    "EndDate": "1965.07.16",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "Northern op Whitby",
+    "Winner": "Brinck Claussen",
+    "StartDate": "1965.07.26",
+    "EndDate": "1965.08.06",
+    "GamesCount": "38",
+    "DateUpdated": "2024.10.12",
+    "PgnFileName": "196507whitby.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Glorney Cup",
+    "Winner": "Scotland",
+    "StartDate": "1965.08.03",
+    "EndDate": "1965.08.04",
+    "GamesCount": "36",
+    "DateUpdated": "2021.05.03",
+    "PgnFileName": "196508glorney.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "GBR-ch Hastings",
+    "Winner": "Peter N Lee",
+    "StartDate": "1965.08.09",
+    "EndDate": "1965.08.20",
+    "GamesCount": "184",
+    "DateUpdated": "2017.09.18",
+    "PgnFileName": "196508bcf.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1965.08.09",
+    "EndDate": "1965.08.20",
+    "GamesCount": "25^",
+    "DateUpdated": "2026.01.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "13th CHESS F. Eastbourne",
+    "Winner": "Roos, Reefschlaeger",
+    "StartDate": "1965.08.23",
+    "EndDate": "1965.09.03",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "15th Paignton Premier",
+    "Winner": "William Hartston",
+    "StartDate": "1965.09.06",
+    "EndDate": "1965.09.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "GBR-NED m London",
+    "Winner": "Netherlands 11Â½-8Â½",
+    "StartDate": "1965.10.16",
+    "EndDate": "1965.10.17",
+    "GamesCount": "6+16",
+    "DateUpdated": "2025.10.02",
+    "PgnFileName": "196510gbrned.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Islington Open 1st",
+    "Winner": "Barry N Green",
+    "StartDate": "1965.12.03",
+    "EndDate": "1965.12.05",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "SCA-ch play-off",
+    "Winner": "Aitken /Jamieson",
+    "StartDate": "1965.12.28",
+    "EndDate": "1966.01.03",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "aitkenj.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Hastings Premier",
+    "Winner": "Spassky, Uhlmann",
+    "StartDate": "1965.12.29",
+    "EndDate": "1966.01.07",
+    "GamesCount": "45",
+    "DateUpdated": "2024.04.06",
+    "PgnFileName": "196512hast.pgn"
+  },
+  {
+    "Year": 1965,
+    "Name": "Hastings Challengers",
+    "Winner": "Yuri Balashov",
+    "StartDate": "1965.12.29",
+    "EndDate": "1966.01.08",
+    "GamesCount": "43+23^",
+    "DateUpdated": "2025.10.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1965,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1965.12.29",
+    "EndDate": "1966.01.08",
+    "GamesCount": "4^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Drawn",
+    "StartDate": "1966.03.19",
+    "EndDate": "",
+    "GamesCount": "2",
+    "DateUpdated": "2018",
+    "PgnFileName": "196603vars.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "14th Bognor Regis",
+    "Winner": "Nikola Karaklajic",
+    "StartDate": "1966.04.13",
+    "EndDate": "1966.04.23",
+    "GamesCount": "35+4",
+    "DateUpdated": "2023.06.28",
+    "PgnFileName": "196604bognor.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "Bognor other events",
+    "Winner": "",
+    "StartDate": "1966.04.13",
+    "EndDate": "1966.04.23",
+    "GamesCount": "5^",
+    "DateUpdated": "2022.01.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "21st WECU Cheltenham",
+    "Winner": "P Coast, D Ellis",
+    "StartDate": "1966.04.07",
+    "EndDate": "1966.04.11",
+    "GamesCount": "17+1",
+    "DateUpdated": "2026.01.27",
+    "PgnFileName": "196604wecu.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "Southend Premier",
+    "Winner": "David B Pritchard",
+    "StartDate": "1966.04.08",
+    "EndDate": "1966.04.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "12th Welsh ch Rhyl",
+    "Winner": "David J Sully",
+    "StartDate": "1966.04.07",
+    "EndDate": "1966.04.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "17th Ilford Premier",
+    "Winner": "Peter N Lee",
+    "StartDate": "1966.05.27",
+    "EndDate": "1966.05.30",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "2nd Staffordshire Open",
+    "Winner": "Michael A Stevenson",
+    "StartDate": "1966.05.28",
+    "EndDate": "1966.05.31",
+    "GamesCount": "15+3",
+    "DateUpdated": "2025.06.04",
+    "PgnFileName": "196605staffs.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "IRL-ch Belfast",
+    "Winner": "John L Moles",
+    "StartDate": "1966.07.09",
+    "EndDate": "1966.07.16",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "SCA-ch Falkirk",
+    "Winner": "Alexander M Davie",
+    "StartDate": "1966.07.09",
+    "EndDate": "1966.07.16",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "Northern op Whitby",
+    "Winner": "3-way tie",
+    "StartDate": "1966.07.25",
+    "EndDate": "1966.08.05",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "Glorney Cup, Paris",
+    "Winner": "England",
+    "StartDate": "1966.08.01",
+    "EndDate": "1966.08.05",
+    "GamesCount": "22+10",
+    "DateUpdated": "2025.10.05",
+    "PgnFileName": "196608glorney.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "GBR-ch Sunderland",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1966.08.08",
+    "EndDate": "1966.08.19",
+    "GamesCount": "165",
+    "DateUpdated": "2017.09.18",
+    "PgnFileName": "196608bcf.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "GBR-ch other events",
+    "Winner": "",
+    "StartDate": "1966.08.08",
+    "EndDate": "1966.08.19",
+    "GamesCount": "183^",
+    "DateUpdated": "2025.04.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "14th CHESS F. Eastbourne",
+    "Winner": "Owen Hindle",
+    "StartDate": "1966.08.22",
+    "EndDate": "1966.09.03",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "16th Paignton Premier",
+    "Winner": "3-way tie",
+    "StartDate": "1966.09.04",
+    "EndDate": "1966.09.10",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "Islington Open 2nd",
+    "Winner": "David Lees",
+    "StartDate": "1966.11.25",
+    "EndDate": "1966.12.27",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "NED-GBR m Vlissingen",
+    "Winner": "Netherlands 11-9",
+    "StartDate": "1966.12.17",
+    "EndDate": "1966.12.18",
+    "GamesCount": "9+1/22",
+    "DateUpdated": "2025.10.03",
+    "PgnFileName": "196612nedgbr.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "Hastings Premier",
+    "Winner": "Mikhail Botvinnik",
+    "StartDate": "1966.12.28",
+    "EndDate": "1967.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2024.07.14",
+    "PgnFileName": "196612hast.pgn"
+  },
+  {
+    "Year": 1966,
+    "Name": "Hastings Challengers",
+    "Winner": "Predrag Ostojic",
+    "StartDate": "1966.12.28",
+    "EndDate": "1967.01.06",
+    "GamesCount": "35^",
+    "DateUpdated": "2024.07.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1966,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1966.12.28",
+    "EndDate": "1967.01.06",
+    "GamesCount": "8^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "Dublin Open",
+    "Winner": "Kurajica, O'Leary",
+    "StartDate": "1967.03",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Cambridge University",
+    "StartDate": "1967.03.18",
+    "EndDate": "",
+    "GamesCount": "2",
+    "DateUpdated": "2022.04.14",
+    "PgnFileName": "196703vars.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "22nd WECU Weston",
+    "Winner": "Leon P Burnett",
+    "StartDate": "1967.03.23",
+    "EndDate": "1967.03.27",
+    "GamesCount": "15",
+    "DateUpdated": "2023.07.09",
+    "PgnFileName": "196703wecu.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "15th Bognor Regis",
+    "Winner": "Drimer, etc",
+    "StartDate": "1967.03.29",
+    "EndDate": "1967.04.08",
+    "GamesCount": "35+6",
+    "DateUpdated": "2025.06.01",
+    "PgnFileName": "196703bognor.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "Bognor other events",
+    "Winner": "",
+    "StartDate": "1967.03.29",
+    "EndDate": "1967.04.08",
+    "GamesCount": "10^",
+    "DateUpdated": "2022.12.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "18th Ilford Premier",
+    "Winner": "Kottnauer, Clarke, Persitz",
+    "StartDate": "1967.05.26",
+    "EndDate": "1967.05.29",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "IRL-ch Cork",
+    "Winner": "Wolfgang Heidenfeld",
+    "StartDate": "1967.07.08",
+    "EndDate": "1967.07.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "Dundee Centenary",
+    "Winner": "Svetozar Gligoric",
+    "StartDate": "1967.07.12",
+    "EndDate": "1967.07.25",
+    "GamesCount": "38",
+    "DateUpdated": "2025.09.22",
+    "PgnFileName": "196707dundee.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "SCA-ch Dundee",
+    "Winner": "Gerald Bonner",
+    "StartDate": "1967.07.22",
+    "EndDate": "1967.07.29",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "12th Northern op Whitby",
+    "Winner": "Dolfi Drimer",
+    "StartDate": "1967.07.24",
+    "EndDate": "1967.08.04",
+    "GamesCount": "31+5",
+    "DateUpdated": "2025.06.03",
+    "PgnFileName": "196707whitby.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "Whitby other events",
+    "Winner": "",
+    "StartDate": "1967.07.24",
+    "EndDate": "1967.08.04",
+    "GamesCount": "2^",
+    "DateUpdated": "2025.06.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "GBR-ch Oxford",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1967.08.07",
+    "EndDate": "1967.08.18",
+    "GamesCount": "198",
+    "DateUpdated": "2015.01.12",
+    "PgnFileName": "196708bcf.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "GBR-ch other",
+    "Winner": "",
+    "StartDate": "1967.08.07",
+    "EndDate": "1967.08.18",
+    "GamesCount": "168^",
+    "DateUpdated": "2026.01.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "15th CHESS F, Eastbourne",
+    "Winner": "Karlheinz Bachmann",
+    "StartDate": "1967.08.21",
+    "EndDate": "1967.09.01",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "Havering Women Int'l",
+    "Winner": "Nona Gaprindashvili",
+    "StartDate": "1967.08.25",
+    "EndDate": "1967.09.01",
+    "GamesCount": "28",
+    "DateUpdated": "2025.09.21",
+    "PgnFileName": "196708havering.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "Paignton Women Int'l",
+    "Winner": "Nona Gaprindashvili",
+    "StartDate": "1967.09.03",
+    "EndDate": "1967.09.09",
+    "GamesCount": "28",
+    "DateUpdated": "2025.09.22",
+    "PgnFileName": "196709paignton.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "17th Paignton Premier",
+    "Winner": "N Patterson, R Wade",
+    "StartDate": "1967.09.03",
+    "EndDate": "1967.09.09",
+    "GamesCount": "13+2^",
+    "DateUpdated": "2025.09.22",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "Glasgow op",
+    "Winner": "Raymond Keene",
+    "StartDate": "1967.09.23",
+    "EndDate": "1967.09.25",
+    "GamesCount": "60",
+    "DateUpdated": "2021.05.03",
+    "PgnFileName": "196709glasgow.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "Islington Open 3rd",
+    "Winner": "Bojan Kurajica",
+    "StartDate": "1967.11.03",
+    "EndDate": "1967.11.05",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "GBR-NED m Harrogate",
+    "Winner": "Gt Britain 11-9",
+    "StartDate": "1967.12.02",
+    "EndDate": "1967.12.03",
+    "GamesCount": "9+2/20",
+    "DateUpdated": "2026.04.28",
+    "PgnFileName": "196712gbrned.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "Hastings Premier",
+    "Winner": "4-way tie",
+    "StartDate": "1967.12.27",
+    "EndDate": "1968.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2024.11.18",
+    "PgnFileName": "196712hast.pgn"
+  },
+  {
+    "Year": 1967,
+    "Name": "Hastings Challengers",
+    "Winner": "Daniel Wright",
+    "StartDate": "1967.12.27",
+    "EndDate": "1968.01.05",
+    "GamesCount": "36^",
+    "DateUpdated": "2025.05.29",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1967,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1967.12.27",
+    "EndDate": "1968.01.05",
+    "GamesCount": "5^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Cambridge University",
+    "StartDate": "1968.03.23",
+    "EndDate": "",
+    "GamesCount": "7",
+    "DateUpdated": "2018",
+    "PgnFileName": "196803vars.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "3rd IBCA Euro Team ch",
+    "Winner": "USSR",
+    "StartDate": "1968.03.28",
+    "EndDate": "1968.04.11",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "BUCA Individ ch",
+    "Winner": "Graham Chesters, John Carleton",
+    "StartDate": "1968.04",
+    "EndDate": "",
+    "GamesCount": "180+4",
+    "DateUpdated": "2020.09.20",
+    "PgnFileName": "196804buca.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "WECU-ch Penzance",
+    "Winner": "J Aitken , A R B Thomas",
+    "StartDate": "1968.04.11",
+    "EndDate": "1968.04.15",
+    "GamesCount": "21",
+    "DateUpdated": "2023.07.09",
+    "PgnFileName": "196804wecu.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "Southend Open",
+    "Winner": "Michael J Basman",
+    "StartDate": "1968.04.12",
+    "EndDate": "1968.04.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "basmanm.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "SCCU-ch Southend",
+    "Winner": "W Hartston, A Whiteley",
+    "StartDate": "1968.04.12",
+    "EndDate": "1968.04.15",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "16th Bognor Regis",
+    "Winner": "Zbigniew Doda",
+    "StartDate": "1968.04.20",
+    "EndDate": "1968.04.27",
+    "GamesCount": "38+3",
+    "DateUpdated": "2024.08.03",
+    "PgnFileName": "196804bognor.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "MCCU-ch Birmingham",
+    "Winner": "Bojan Kurajica",
+    "StartDate": "1968.04.11",
+    "EndDate": "1968.04.16",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "19th Ilford Premier",
+    "Winner": "3-way tie",
+    "StartDate": "1968.05.31",
+    "EndDate": "1968.06.03",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "IRL-ch Dublin",
+    "Winner": "Wolfgang Heidenfeld",
+    "StartDate": "1968.07.06",
+    "EndDate": "1968.07.14",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "13th Northern op Whitby",
+    "Winner": "Karlheinz Bachmann",
+    "StartDate": "1968.07.22",
+    "EndDate": "1968.08.02",
+    "GamesCount": "42+3",
+    "DateUpdated": "2025.06.02",
+    "PgnFileName": "196807northern.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "Whitby Simul (Morry)",
+    "Winner": "",
+    "StartDate": "1968.07",
+    "EndDate": "",
+    "GamesCount": "1^",
+    "DateUpdated": "2025.06.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "SCA-ch Ayr",
+    "Winner": "David N L Levy",
+    "StartDate": "1968.07.06",
+    "EndDate": "1968.07.13",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "Glorney Cup Plymouth",
+    "Winner": "England",
+    "StartDate": "1968.07.29",
+    "EndDate": "1968.08.03",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "GBR-ch Bristol",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1968.08.05",
+    "EndDate": "1968.08.16",
+    "GamesCount": "198",
+    "DateUpdated": "2022.10.25",
+    "PgnFileName": "196808bcf.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "GBR-ch other",
+    "Winner": "",
+    "StartDate": "1968.08.05",
+    "EndDate": "1968.08.16",
+    "GamesCount": "108^",
+    "DateUpdated": "2025.09.05",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "16th CHESS F, Southport",
+    "Winner": "John E Littlewood",
+    "StartDate": "1968.08.26",
+    "EndDate": "1968.09.06",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "Southend Young Masters",
+    "Winner": "Raymond Keene",
+    "StartDate": "1968.09.08",
+    "EndDate": "1968.09.20",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "18th Paignton Premier",
+    "Winner": "M Macdonald-Ross",
+    "StartDate": "1968.09.08",
+    "EndDate": "1968.09.14",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "Glasgow Invitation",
+    "Winner": "Michael J Basman",
+    "StartDate": "1968.09.28",
+    "EndDate": "1968.09.30",
+    "GamesCount": "47",
+    "DateUpdated": "2021.10.11",
+    "PgnFileName": "196809glasgow.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "Islington Open 4th",
+    "Winner": "Kurajica, Pfleger",
+    "StartDate": "1968.11.22",
+    "EndDate": "1968.11.24",
+    "GamesCount": "60",
+    "DateUpdated": "2023.07.24",
+    "PgnFileName": "196811islington.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "GBR-NED m Vlissingen",
+    "Winner": "Netherlands 12-8",
+    "StartDate": "1968.11.30",
+    "EndDate": "1968.12.01",
+    "GamesCount": "13/22",
+    "DateUpdated": "2026.04.27",
+    "PgnFileName": "196811engned.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "Hastings Premier",
+    "Winner": "Vassily Smyslov",
+    "StartDate": "1968.12.28",
+    "EndDate": "1969.01.08",
+    "GamesCount": "66",
+    "DateUpdated": "2023.11.22",
+    "PgnFileName": "196812hast.pgn"
+  },
+  {
+    "Year": 1968,
+    "Name": "Hastings Challengers",
+    "Winner": "Martyn J Corden",
+    "StartDate": "1968.12.30",
+    "EndDate": "1969.01.08",
+    "GamesCount": "34+2^",
+    "DateUpdated": "2023.11.22",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1968,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1968.12.30",
+    "EndDate": "1969.01.08",
+    "GamesCount": "9^",
+    "DateUpdated": "2025.03.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "Middlesex County Ch",
+    "Winner": "Ken Rogoff",
+    "StartDate": "1969.03",
+    "EndDate": "1969.09",
+    "GamesCount": "45",
+    "DateUpdated": "2016.04.06",
+    "PgnFileName": "196903middx.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "Varsity Oxford-Cambridge",
+    "Winner": "Oxford University",
+    "StartDate": "1969.03.22",
+    "EndDate": "",
+    "GamesCount": "3",
+    "DateUpdated": "2018",
+    "PgnFileName": "196903vars.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "WECU-ch Torquay",
+    "Winner": "P H Clarke, L P Burnett",
+    "StartDate": "1969.04.03",
+    "EndDate": "1969.04.07",
+    "GamesCount": "25",
+    "DateUpdated": "2023.07.10",
+    "PgnFileName": "196904wecu.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "Southend Open",
+    "Winner": "Julian T Farrand",
+    "StartDate": "1969.04.04",
+    "EndDate": "1969.04.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "SCCU-ch Southend",
+    "Winner": "Simon Webb, Keith Oliff",
+    "StartDate": "1969.04.04",
+    "EndDate": "1969.04.07",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "17th Bognor Regis",
+    "Winner": "David B Pritchard",
+    "StartDate": "1969.04.04",
+    "EndDate": "1969.04.12",
+    "GamesCount": "22+2",
+    "DateUpdated": "2025.05.14",
+    "PgnFileName": "196904bognor.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "20th Ilford Premier",
+    "Winner": "Michael J Franklin",
+    "StartDate": "1969.05.23",
+    "EndDate": "1969.05.26",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": "franklinm.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "Staffordshire Open",
+    "Winner": "D W Anderton, P C Griffiths, A J Miles",
+    "StartDate": "1969.05.24",
+    "EndDate": "1969.05.27",
+    "GamesCount": "8",
+    "DateUpdated": "2026.01.21",
+    "PgnFileName": "196905staffs.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "Scottish Junior Internat'l",
+    "Winner": "Roderick McKay",
+    "StartDate": "1969.06.13",
+    "EndDate": "1969.06.22",
+    "GamesCount": "45",
+    "DateUpdated": "2024.08.05",
+    "PgnFileName": "196906scojunint.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "IRL-ch Dublin",
+    "Winner": "Nicholas J Patterson",
+    "StartDate": "1969.07.05",
+    "EndDate": "1969.07.13",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "SCA-ch Glasgow",
+    "Winner": "Alexander M Davie",
+    "StartDate": "1969.07.28",
+    "EndDate": "1969.08.02",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "14th Northern op, Whitby",
+    "Winner": "Max Fuller",
+    "StartDate": "1969.07.28",
+    "EndDate": "1969.08.05",
+    "GamesCount": "17",
+    "DateUpdated": "2026.03.21",
+    "PgnFileName": "196907whitby.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "Glorney Cup, Dublin",
+    "Winner": "England",
+    "StartDate": "1969.07.29",
+    "EndDate": "1969.07.31",
+    "GamesCount": "6/36",
+    "DateUpdated": "2024.08.05",
+    "PgnFileName": "196907glorney.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "GBR-ch Rhyl",
+    "Winner": "Jonathan Penrose",
+    "StartDate": "1969.08.11",
+    "EndDate": "1969.08.22",
+    "GamesCount": "176",
+    "DateUpdated": "2020.10.21",
+    "PgnFileName": "196908bcf.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "GBR-ch other",
+    "Winner": "",
+    "StartDate": "1969.08.11",
+    "EndDate": "1969.08.22",
+    "GamesCount": "174^",
+    "DateUpdated": "2026.03.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "Castlebar",
+    "Winner": "Robert HÃ¼bner",
+    "StartDate": "1969.08.24",
+    "EndDate": "1969.08.31",
+    "GamesCount": "61+2",
+    "DateUpdated": "2025.09.22",
+    "PgnFileName": "196908castlebar.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "17th CHESS F, Southport",
+    "Winner": "Daniel Wright",
+    "StartDate": "1969.08.25",
+    "EndDate": "1969.09.05",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "19th Paignton Premier",
+    "Winner": "Raymond Keene",
+    "StartDate": "1969.09.07",
+    "EndDate": "1969.09.13",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "Glasgow Invitation",
+    "Winner": "R Keene, D Levy, R McKay",
+    "StartDate": "1969.09.27",
+    "EndDate": "1969.09.29",
+    "GamesCount": "30",
+    "DateUpdated": "2016.03.24",
+    "PgnFileName": "196909glasgow.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "Glasgow Candidates",
+    "Winner": "A J Booth",
+    "StartDate": "1969.09.27",
+    "EndDate": "1969.09.29",
+    "GamesCount": "30^",
+    "DateUpdated": "2016.03.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "Spalding Open",
+    "Winner": "Max Fuller",
+    "StartDate": "1969.10.17",
+    "EndDate": "1969.10.19",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "GBR-NED m London",
+    "Winner": "Drawn 10-10",
+    "StartDate": "1969.10.25",
+    "EndDate": "1969.10.26",
+    "GamesCount": "11/22",
+    "DateUpdated": "2019.04.20",
+    "PgnFileName": "196910engned.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "islington Open 5th",
+    "Winner": "Hans Ree",
+    "StartDate": "1969.11.21",
+    "EndDate": "1969.11.23",
+    "GamesCount": "",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "Hastings Premier",
+    "Winner": "Lajos Portisch",
+    "StartDate": "1969.12.29",
+    "EndDate": "1970.01.07",
+    "GamesCount": "45",
+    "DateUpdated": "2025.06.06",
+    "PgnFileName": "196912hast.pgn"
+  },
+  {
+    "Year": 1969,
+    "Name": "Hastings Challengers",
+    "Winner": "Peter Markland",
+    "StartDate": "1969.12.29",
+    "EndDate": "1970.01.07",
+    "GamesCount": "18+4^",
+    "DateUpdated": "2025.06.06",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1969,
+    "Name": "Hastings others",
+    "Winner": "",
+    "StartDate": "1969.12.29",
+    "EndDate": "1970.01.07",
+    "GamesCount": "18^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  }
+]

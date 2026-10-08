@@ -1,0 +1,156 @@
+[Event "British Universities (BUCA) Team Ch"]
+[Site "Calday Grange"]
+[Date "1960.02.06"]
+[Round "1.1"]
+[White "Bailey, John Maxwell"]
+[Black "Littleton, Michael Flannan"]
+[Result "1-0"]
+[ECO "E01"]
+[PlyCount "55"]
+[EventDate "1960.02.06"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.11"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.11"]
+[SourceQuality "1"]
+[WhiteTeam "Oxford Univ"]
+[BlackTeam "Univ College Dublin"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IRL"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nf3 Bd6 6. Nbd2 Nbd7 7. O-O O-O 8. Qc2
+Qe7 9. b3 a5 10. Bb2 Ba3 11. Bxa3 Qxa3 12. e4 dxe4 13. Ng5 a4 14. Ngxe4 Rd8 15.
+Qc3 Qe7 16. Rfe1 axb3 17. axb3 Rxa1 18. Rxa1 e5 19. dxe5 Nxe5 20. Nxf6+ Qxf6
+21. Ra8 Qd6 22. c5 Qe7 23. Ne4 f6 24. Nd6 Be6 25. Qa5 Rxa8 26. Qxa8+ Qf8 27.
+Qxb7 h6 28. b4 {Black lost on time. Source: CHESS, Vol.25, No.357-8, March
+1960, p167} 1-0
+
+[Event "British Universities (BUCA) Team Ch"]
+[Site "Calday Grange"]
+[Date "1960.02.07"]
+[Round "2.2"]
+[White "Gray, Denis John Pereira"]
+[Black "Barrett, DG."]
+[Result "1-0"]
+[ECO "C29"]
+[PlyCount "51"]
+[EventDate "1960.02.06"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.11"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.11"]
+[SourceQuality "1"]
+[WhiteTeam "London Univ"]
+[BlackTeam "Sheffield Univ"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 Be7 7. d4 Bf5 8.
+Nf3 O-O 9. Be2 c5 10. O-O Nc6 11. Be3 Qa5 12. Bd3 Bxd3 13. Qxd3 Rac8 14. Ng5
+Bxg5 15. Bxg5 Rc7 16. Rf4 Nd8 17. Rh4 g6 18. Rxh7 f5 19. Rh6 Rc6 20. Qh3 Nf7
+21. Bf6 Nxh6 22. Qxh6 Rfxf6 23. exf6 Rxf6 24. Re1 Qb5 25. h4 Qb6 $2 26. Re8+ {
+Source: CHESS, Vol.25, No.357-8, March 1960, p167} 1-0
+
+[Event "British Universities (BUCA) Team Ch"]
+[Site "Calday Grange"]
+[Date "1960.02.06"]
+[Round "1.2"]
+[White "Hilton, K."]
+[Black "Hollis, Adrian Swayne"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[PlyCount "55"]
+[EventDate "1960.02.06"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.11"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.11"]
+[SourceQuality "1"]
+[WhiteTeam "Liverpool Univ"]
+[BlackTeam "Oxford Univ"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 O-O 9. Be3 cxd4 10. cxd4 Nc6 11. O-O b6 12. Qd2 Bb7 13. Bh6 $2 Nxd4 $19 14.
+Bxg7 Nf3+ 15. gxf3 Qxd2 16. Bxf8 Rxf8 17. Rad1 Qg5+ 18. Ng3 h5 19. Kh1 h4 20.
+Ne2 h3 21. Rg1 Qh4 $6 22. Rxg6+ Kh7 23. Rg4 Qxf2 24. Rg3 Bc8 25. Rd5 Kh6 26.
+Nf4 Bg4 27. Rxh3+ Bxh3 28. Rh5+ {Source: CHESS, Vol.25, No.357-8, March 1960,
+p167} (28. Rh5+ Kg7 29. Rg5+ Kf6 30. e5+ Kxg5 31. Nxh3+ Kf5 32. Nxf2 Kxe5 $17)
+1/2-1/2
+
+[Event "British Universities (BUCA) Team Ch"]
+[Site "Calday Grange"]
+[Date "1960.02.07"]
+[Round "2.1"]
+[White "Richardson, Harry Ward"]
+[Black "Bailey, John Maxwell"]
+[Result "0-1"]
+[ECO "D01"]
+[PlyCount "68"]
+[EventDate "1960.02.06"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.11"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.11"]
+[SourceQuality "1"]
+[WhiteTeam "Manchester Univ"]
+[BlackTeam "Oxford Univ"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4 4. Nxe4 dxe4 5. f3 Bf5 6. Qd2 Nc6 7. d5 Ne5 8.
+O-O-O f6 9. Bh4 Qd7 10. e3 Qa4 11. Kb1 O-O-O 12. Bg3 e6 13. Bxe5 fxe5 14. Qc3
+Bb4 15. Qxe5 exf3 16. e4 fxg2 17. Bxg2 Bg4 18. Nf3 exd5 19. Rxd5 Rde8 20. Qd4
+Be6 21. a3 Bxd5 22. exd5 a5 23. axb4 Re2 24. Bh3+ Kb8 25. b3 Qxb4 26. Qxb4 axb4
+27. Rd1 Rf8 28. Rd3 h5 29. Be6 Ka7 30. h3 Rf4 31. Nd4 Re1+ 32. Kb2 Rff1 33. c4
+Rf2+ 34. Nc2 Ree2 {Source: CHESS, Vol.25, No.357-8, March 1960, p167} 0-1
+
+[Event "British Universities (BUCA) Team Ch"]
+[Site "Calday Grange"]
+[Date "1960.02.07"]
+[Round "2.1"]
+[White "Sales, Keith Donald"]
+[Black "Lloyd, Kenneth William"]
+[Result "1-0"]
+[ECO "E72"]
+[PlyCount "71"]
+[EventDate "1960.02.06"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "GBR"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2023.01.11"]
+[SourceVersion "1"]
+[SourceVersionDate "2023.01.11"]
+[SourceQuality "1"]
+[WhiteTeam "London Univ"]
+[BlackTeam "Cambridge Univ"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. g3 d6 6. Bg2 O-O 7. e4 Nbd7 8. Nf3 b5
+9. cxb5 a6 10. b6 Nxb6 11. O-O Nfd7 12. Qc2 Ne5 13. Nxe5 Bxe5 14. Bh6 Bg7 15.
+Bxg7 Kxg7 16. Rad1 Rb8 17. Rfe1 Nd7 18. Kh1 h5 19. f4 f6 20. Bf3 Rh8 21. Rg1
+Qf8 22. g4 h4 23. Qd2 Nb6 24. b3 Nd7 25. g5 fxg5 26. Rxg5 Qf6 27. Qe3 Rh6 28.
+e5 dxe5 29. fxe5 Qb6 30. d6 exd6 31. exd6 Qd8 32. Nd5 Bb7 33. Ne7 Bxf3+ 34.
+Qxf3 Nf8 35. Qc3+ Kf7 36. Qe5 {Source: CHESS, Vol.25, No.357-8, March 1960,
+p167} 1-0
+
