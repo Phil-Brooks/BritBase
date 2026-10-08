@@ -1,0 +1,982 @@
+[
+  {
+    "Year": 1920,
+    "Name": "1920s Photos",
+    "Winner": "",
+    "StartDate": "",
+    "EndDate": "",
+    "GamesCount": "",
+    "DateUpdated": "2000.04.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1920,
+    "Name": "BCF-ch Edinburgh",
+    "Winner": "Roland H V Scott",
+    "StartDate": "1920.08.09",
+    "EndDate": "1920.08.20",
+    "GamesCount": "36/66",
+    "DateUpdated": "2026.05.17",
+    "PgnFileName": "192008bcf.pgn"
+  },
+  {
+    "Year": 1920,
+    "Name": "BCF Major Open",
+    "Winner": "Abraham Speijer",
+    "StartDate": "1920.08.09",
+    "EndDate": "1920.08.20",
+    "GamesCount": "14/66^",
+    "DateUpdated": "2024.01.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1920,
+    "Name": "BCF Women's Ch",
+    "Winner": "Agnes Stevenson",
+    "StartDate": "1920.08.09",
+    "EndDate": "1920.08.20",
+    "GamesCount": "6^",
+    "DateUpdated": "2016.03.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1920,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1920.08.09",
+    "EndDate": "1920.08.20",
+    "GamesCount": "12^",
+    "DateUpdated": "2026.01.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1920,
+    "Name": "Hastings 1920/21 Premier",
+    "Winner": "Fred D Yates",
+    "StartDate": "1920.12.30",
+    "EndDate": "1921.01.05",
+    "GamesCount": "12+2",
+    "DateUpdated": "2020.08.10",
+    "PgnFileName": "192012hast.pgn"
+  },
+  {
+    "Year": 1920,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1920.12.30",
+    "EndDate": "1921.01.05",
+    "GamesCount": "0",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1921,
+    "Name": "BCF-ch Malvern",
+    "Winner": "Fred D Yates",
+    "StartDate": "1921.08.08",
+    "EndDate": "1921.08.19",
+    "GamesCount": "29/66",
+    "DateUpdated": "2023.09.09",
+    "PgnFileName": "192108bcf.pgn"
+  },
+  {
+    "Year": 1921,
+    "Name": "BCF Major Open",
+    "Winner": "Hersch Lazar Fraenkel",
+    "StartDate": "1921.08.08",
+    "EndDate": "1921.08.19",
+    "GamesCount": "9^",
+    "DateUpdated": "2023.09.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1921,
+    "Name": "BCF Women's Ch",
+    "Winner": "Gertrude A Anderson",
+    "StartDate": "1921.08.08",
+    "EndDate": "1921.08.19",
+    "GamesCount": "10^",
+    "DateUpdated": "2020.05.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1921,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1921.08.08",
+    "EndDate": "1921.08.19",
+    "GamesCount": "11^",
+    "DateUpdated": "2023.09.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1921,
+    "Name": "Hastings 1921/22 Premier",
+    "Winner": "Boris Kostich",
+    "StartDate": "1921.12.26",
+    "EndDate": "1921.12.31",
+    "GamesCount": "28",
+    "DateUpdated": "2024.03.26",
+    "PgnFileName": "192112hast.pgn"
+  },
+  {
+    "Year": 1921,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1921.12.26",
+    "EndDate": "1921.12.31",
+    "GamesCount": "4^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1922,
+    "Name": "1st West of England Ch'p",
+    "Winner": "Joseph H Blake",
+    "StartDate": "1922.04.15",
+    "EndDate": "1922.04.21",
+    "GamesCount": "30+1/45",
+    "DateUpdated": "2024.03.27",
+    "PgnFileName": "192204wecu.pgn"
+  },
+  {
+    "Year": 1922,
+    "Name": "West of England other",
+    "Winner": "",
+    "StartDate": "1922.04.15",
+    "EndDate": "1922.04.21",
+    "GamesCount": "9^",
+    "DateUpdated": "2025.07.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1922,
+    "Name": "BCF London",
+    "Winner": "JosÃ© R Capablanca",
+    "StartDate": "1922.07.31",
+    "EndDate": "1922.08.18",
+    "GamesCount": "120",
+    "DateUpdated": "2022.01.12",
+    "PgnFileName": "192207bcf.pgn"
+  },
+  {
+    "Year": 1922,
+    "Name": "BCF others",
+    "Winner": "",
+    "StartDate": "1922.07.31",
+    "EndDate": "1922.08.18",
+    "GamesCount": "41^",
+    "DateUpdated": "2025.11.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1922,
+    "Name": "Hastings Six Masters",
+    "Winner": "Alexander Alekhine",
+    "StartDate": "1922.09.09",
+    "EndDate": "1922.09.21",
+    "GamesCount": "30",
+    "DateUpdated": "2022.01.12",
+    "PgnFileName": "192209hastsixmasters.pgn"
+  },
+  {
+    "Year": 1922,
+    "Name": "Hastings 1922/23 Premier",
+    "Winner": "Akiba Rubinstein",
+    "StartDate": "1922.12.27",
+    "EndDate": "1923.01.04",
+    "GamesCount": "29/45",
+    "DateUpdated": "2023.09.09",
+    "PgnFileName": "192212hast.pgn"
+  },
+  {
+    "Year": 1922,
+    "Name": "Hastings others",
+    "Winner": "",
+    "StartDate": "1922.12.27",
+    "EndDate": "1923.01.04",
+    "GamesCount": "12+1^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1923,
+    "Name": "Margate Masters",
+    "Winner": "Ernst GrÃ¼nfeld",
+    "StartDate": "1923.03.31",
+    "EndDate": "1923.04.07",
+    "GamesCount": "22+6",
+    "DateUpdated": "2024.02.15",
+    "PgnFileName": "192303margate.pgn"
+  },
+  {
+    "Year": 1923,
+    "Name": "Margate other",
+    "Winner": "",
+    "StartDate": "1923.03.31",
+    "EndDate": "1923.04.07",
+    "GamesCount": "7^",
+    "DateUpdated": "2025.07.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1923,
+    "Name": "NCCU Premier, Liverpool",
+    "Winner": "Jacques Mieses",
+    "StartDate": "1923.03.31",
+    "EndDate": "1923.04.06",
+    "GamesCount": "30+7",
+    "DateUpdated": "2024.03.14",
+    "PgnFileName": "192303liverpool.pgn"
+  },
+  {
+    "Year": 1923,
+    "Name": "BCF-ch Southsea",
+    "Winner": "Sir George Thomas",
+    "StartDate": "1923.08.13",
+    "EndDate": "1923.08.24",
+    "GamesCount": "51/66",
+    "DateUpdated": "2023.09.10",
+    "PgnFileName": "192308bcf.pgn"
+  },
+  {
+    "Year": 1923,
+    "Name": "BCF Major Open",
+    "Winner": "A Alekhine",
+    "StartDate": "1923.08.13",
+    "EndDate": "1923.08.24",
+    "GamesCount": "15^",
+    "DateUpdated": "2016.04.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1923,
+    "Name": "BCF Women's Ch",
+    "Winner": "Edith Price",
+    "StartDate": "1923.08.13",
+    "EndDate": "1923.08.24",
+    "GamesCount": "3^",
+    "DateUpdated": "2016.04.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1923,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1923.08.13",
+    "EndDate": "1923.08.24",
+    "GamesCount": "20^",
+    "DateUpdated": "2025.11.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1923,
+    "Name": "BCF Boys Under 18 Ch",
+    "Winner": "P Stuart Milner-Barry",
+    "StartDate": "1923.04.06",
+    "EndDate": "1923.04.12",
+    "GamesCount": "1^",
+    "DateUpdated": "2024.05.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1923,
+    "Name": "Hastings 1923/24 Premier",
+    "Winner": "Max Euwe",
+    "StartDate": "1923.12.28",
+    "EndDate": "1924.01.04",
+    "GamesCount": "45",
+    "DateUpdated": "2023.11.27",
+    "PgnFileName": "192312hast.pgn"
+  },
+  {
+    "Year": 1923,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1923.12.28",
+    "EndDate": "1924.01.04",
+    "GamesCount": "10^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1924,
+    "Name": "2nd West of England Ch'p",
+    "Winner": "Max Euwe",
+    "StartDate": "1924.04.19",
+    "EndDate": "1924.04.25",
+    "GamesCount": "45/45",
+    "DateUpdated": "2024.01.01",
+    "PgnFileName": "192404wecu.pgn"
+  },
+  {
+    "Year": 1924,
+    "Name": "WECU other",
+    "Winner": "",
+    "StartDate": "1924.04.19",
+    "EndDate": "1924.04.25",
+    "GamesCount": "12^",
+    "DateUpdated": "2025.01.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1924,
+    "Name": "BCF-ch Southport",
+    "Winner": "H E Atkins",
+    "StartDate": "1924.08.11",
+    "EndDate": "1924.08.23",
+    "GamesCount": "66/66",
+    "DateUpdated": "2016.03.07",
+    "PgnFileName": "192408bcf.pgn"
+  },
+  {
+    "Year": 1924,
+    "Name": "BCF Major Open etc",
+    "Winner": "Akiba Rubinstein",
+    "StartDate": "1924.08.11",
+    "EndDate": "1924.08.23",
+    "GamesCount": "61^",
+    "DateUpdated": "2024.10.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1924,
+    "Name": "British Boys U18",
+    "Winner": "Wilfred H Pratten",
+    "StartDate": "1924.04.21",
+    "EndDate": "1924.04.26",
+    "GamesCount": "7^",
+    "DateUpdated": "2025.07.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1924,
+    "Name": "Hastings Premier A",
+    "Winner": "Geza Maroczy",
+    "StartDate": "1924.12.27",
+    "EndDate": "1925.01.03",
+    "GamesCount": "28",
+    "DateUpdated": "2024.10.12",
+    "PgnFileName": "192412hast.pgn"
+  },
+  {
+    "Year": 1924,
+    "Name": "Hastings Premier B",
+    "Winner": "Saviely Tartakower",
+    "StartDate": "1924.12.27",
+    "EndDate": "1925.01.03",
+    "GamesCount": "28^",
+    "DateUpdated": "2023.02.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1924,
+    "Name": "Hastings Premier Play-Off",
+    "Winner": "",
+    "StartDate": "1924.12.27",
+    "EndDate": "1925.01.03",
+    "GamesCount": "3^",
+    "DateUpdated": "2023.09.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1924,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1924.12.27",
+    "EndDate": "1925.01.03",
+    "GamesCount": "7^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1925,
+    "Name": "Kent CCA Bromley",
+    "Winner": "H Matisons",
+    "StartDate": "1925.04.11",
+    "EndDate": "1925.04.18",
+    "GamesCount": "46",
+    "DateUpdated": "2025.09.11",
+    "PgnFileName": "192504bromley.pgn"
+  },
+  {
+    "Year": 1925,
+    "Name": "Scarborough",
+    "Winner": "M Romi",
+    "StartDate": "1925.05.30",
+    "EndDate": "1925.06.05",
+    "GamesCount": "37",
+    "DateUpdated": "2023.11.29",
+    "PgnFileName": "192505scar.pgn"
+  },
+  {
+    "Year": 1925,
+    "Name": "BCF-ch Stratford",
+    "Winner": "H E Atkins",
+    "StartDate": "1925.08.17",
+    "EndDate": "1925.08.28",
+    "GamesCount": "56/66",
+    "DateUpdated": "2016.04.26",
+    "PgnFileName": "192508bcf.pgn"
+  },
+  {
+    "Year": 1925,
+    "Name": "BCF Major Open",
+    "Winner": "J Drewitt, E Znosko-B'y",
+    "StartDate": "1925.08.17",
+    "EndDate": "1925.08.28",
+    "GamesCount": "15^",
+    "DateUpdated": "2023.01.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1925,
+    "Name": "BCF Women's Ch",
+    "Winner": "Agnes Stevenson",
+    "StartDate": "1925.08.17",
+    "EndDate": "1925.08.28",
+    "GamesCount": "4^",
+    "DateUpdated": "2016.03.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1925,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1925.08.17",
+    "EndDate": "1925.08.28",
+    "GamesCount": "10^",
+    "DateUpdated": "2023.01.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1925,
+    "Name": "British Boys U18",
+    "Winner": "Wilfred H Pratten",
+    "StartDate": "1925.04.20",
+    "EndDate": "1925.04.25",
+    "GamesCount": "13^",
+    "DateUpdated": "2025.07.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1925,
+    "Name": "Hastings 1925/26 Premier",
+    "Winner": "Alekhine, Vidmar",
+    "StartDate": "1925.12.28",
+    "EndDate": "1926.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2025.07.15",
+    "PgnFileName": "192512hast.pgn"
+  },
+  {
+    "Year": 1925,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1925.12.28",
+    "EndDate": "1926.01.05",
+    "GamesCount": "9+1^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "WECU Weston-super-Mare",
+    "Winner": "Max Euwe",
+    "StartDate": "1926.04.03",
+    "EndDate": "1926.04.09",
+    "GamesCount": "37/45",
+    "DateUpdated": "2022.03.07",
+    "PgnFileName": "192604wecu.pgn"
+  },
+  {
+    "Year": 1926,
+    "Name": "WECU other",
+    "Winner": "",
+    "StartDate": "1926.04.03",
+    "EndDate": "1926.04.09",
+    "GamesCount": "17^",
+    "DateUpdated": "2026.08.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "Scarborough Premier A",
+    "Winner": "A Alekhine",
+    "StartDate": "1926.05.22",
+    "EndDate": "1926.05.29",
+    "GamesCount": "21+4",
+    "DateUpdated": "2024.03.01",
+    "PgnFileName": "192605scarborough.pgn"
+  },
+  {
+    "Year": 1926,
+    "Name": "Scarborough Premier B",
+    "Winner": "Edgar Colle",
+    "StartDate": "1926.05.22",
+    "EndDate": "1926.05.29",
+    "GamesCount": "21^",
+    "DateUpdated": "2024.03.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "Scarborough other",
+    "Winner": "",
+    "StartDate": "1926.05.22",
+    "EndDate": "1926.05.29",
+    "GamesCount": "4^",
+    "DateUpdated": "2024.03.01",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "Birmingham",
+    "Winner": "Alexander Alekhine",
+    "StartDate": "1926.06.03",
+    "EndDate": "1926.06.09",
+    "GamesCount": "15",
+    "DateUpdated": "2024.03.01",
+    "PgnFileName": "192606birmingham.pgn"
+  },
+  {
+    "Year": 1926,
+    "Name": "BCF-ch Edinburgh",
+    "Winner": "Fred D Yates",
+    "StartDate": "1926.08.02",
+    "EndDate": "1926.08.13",
+    "GamesCount": "53/66",
+    "DateUpdated": "2022.06.01",
+    "PgnFileName": "192608bcf.pgn"
+  },
+  {
+    "Year": 1926,
+    "Name": "BCF Major Open",
+    "Winner": "three-way tie",
+    "StartDate": "1926.08.02",
+    "EndDate": "1926.08.13",
+    "GamesCount": "14^",
+    "DateUpdated": "2025.11.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "BCF Women's Ch",
+    "Winner": "Agnes Stevenson",
+    "StartDate": "1926.08.02",
+    "EndDate": "1926.08.13",
+    "GamesCount": "8^",
+    "DateUpdated": "2016.04.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1926.08.02",
+    "EndDate": "1926.08.13",
+    "GamesCount": "12^",
+    "DateUpdated": "2025.11.17",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "British Boys Ch'ship",
+    "Winner": "C Hugh O'D Alexander",
+    "StartDate": "1926.04.12",
+    "EndDate": "1926.04.17",
+    "GamesCount": "13^",
+    "DateUpdated": "2025.03.04",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "City of London Invitation",
+    "Winner": "Victor Buerger 6/6",
+    "StartDate": "1926.09",
+    "EndDate": "",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "City of London Invitation",
+    "Winner": "V Buerger, F Yates",
+    "StartDate": "1926.10",
+    "EndDate": "",
+    "GamesCount": "0",
+    "DateUpdated": "",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1926,
+    "Name": "London/Chicago Cable",
+    "Winner": "",
+    "StartDate": "1926.11.06",
+    "EndDate": "",
+    "GamesCount": "6",
+    "DateUpdated": "2020.02.12",
+    "PgnFileName": "192611cable-chic-lond.pgn"
+  },
+  {
+    "Year": 1926,
+    "Name": "Hastings 1926/27 Premier",
+    "Winner": "Saviely Tartakower",
+    "StartDate": "1926.12.28",
+    "EndDate": "1927.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2025.09.12",
+    "PgnFileName": "192612hast.pgn"
+  },
+  {
+    "Year": 1926,
+    "Name": "Hastings other",
+    "Winner": "Hastings Page",
+    "StartDate": "1926.12.28",
+    "EndDate": "1927.01.06",
+    "GamesCount": "29^",
+    "DateUpdated": "2026.07.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1927,
+    "Name": "Kent Premier",
+    "Winner": "G A Thomas, F D Yates",
+    "StartDate": "1927.04.16",
+    "EndDate": "1927.04.23",
+    "GamesCount": "23/28",
+    "DateUpdated": "2022.07.15",
+    "PgnFileName": "192704kent.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "Kent other",
+    "Winner": "",
+    "StartDate": "1927.04.16",
+    "EndDate": "1927.04.23",
+    "GamesCount": "2^",
+    "DateUpdated": "2022.07.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1927,
+    "Name": "Scarborough Premier",
+    "Winner": "Edgar Colle",
+    "StartDate": "1927.06.04",
+    "EndDate": "1927.06.11",
+    "GamesCount": "33/45",
+    "DateUpdated": "2025.08.31",
+    "PgnFileName": "192706scarborough.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "Scarborough other",
+    "Winner": "",
+    "StartDate": "1927.06.04",
+    "EndDate": "1927.06.11",
+    "GamesCount": "2^",
+    "DateUpdated": "2022.07.15",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1927,
+    "Name": "London Olympiad",
+    "Winner": "Hungary",
+    "StartDate": "1927.07.18",
+    "EndDate": "1927.07.29",
+    "GamesCount": "280/480+1",
+    "DateUpdated": "2023.12.21",
+    "PgnFileName": "192707olympiad.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "Women's World Ch etc",
+    "Winner": "Vera Menchik",
+    "StartDate": "1927.07.18",
+    "EndDate": "1927.07.29",
+    "GamesCount": "4/66",
+    "DateUpdated": "2022.07.08",
+    "PgnFileName": "192707bcf.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "BCF Premier",
+    "Winner": "J Drewitt, W Winter",
+    "StartDate": "1927.07.18",
+    "EndDate": "1927.07.29",
+    "GamesCount": "8/66^",
+    "DateUpdated": "2022.07.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1927,
+    "Name": "BCF Major",
+    "Winner": "Josef Rejfir",
+    "StartDate": "1927.07.18",
+    "EndDate": "1927.07.29",
+    "GamesCount": "6+1/66^",
+    "DateUpdated": "2022.07.14",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1927,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1927.07.18",
+    "EndDate": "1927.07.29",
+    "GamesCount": "5^",
+    "DateUpdated": "2024.12.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1927,
+    "Name": "St Brides Tournament",
+    "Winner": "M E Goldstein, M Romi",
+    "StartDate": "1927.08.29",
+    "EndDate": "1927.09.13",
+    "GamesCount": "8/45",
+    "DateUpdated": "2023.12.21",
+    "PgnFileName": "192709stbrides.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "London British Empire Club",
+    "Winner": "Nimzowitsch, Tart'wer",
+    "StartDate": "1927.10.10",
+    "EndDate": "1927.10.24",
+    "GamesCount": "66/66",
+    "DateUpdated": "2022.07.05",
+    "PgnFileName": "192710londonbec.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "London/New York Cable",
+    "Winner": "",
+    "StartDate": "1927.11.05",
+    "EndDate": "",
+    "GamesCount": "6",
+    "DateUpdated": "2020.02.12",
+    "PgnFileName": "192711cable-wash-lond.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "London Imperial CC",
+    "Winner": "Aron Nimzowitsch",
+    "StartDate": "1927.11.07",
+    "EndDate": "1927.11.19",
+    "GamesCount": "8/30",
+    "DateUpdated": "2022.07.07",
+    "PgnFileName": "192711londonicc.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "Nimzowitsch v Romi",
+    "Winner": "Aron Nimzowitsch",
+    "StartDate": "1927.11.28",
+    "EndDate": "",
+    "GamesCount": "1^",
+    "DateUpdated": "2022.07.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1927,
+    "Name": "Hastings 1927/28 Premier",
+    "Winner": "Saviely Tartakower",
+    "StartDate": "1927.12.28",
+    "EndDate": "1928.01.06",
+    "GamesCount": "45",
+    "DateUpdated": "2023.09.10",
+    "PgnFileName": "192712hast.pgn"
+  },
+  {
+    "Year": 1927,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1927.12.28",
+    "EndDate": "1928.01.06",
+    "GamesCount": "27^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1928,
+    "Name": "WECU Cheltenham",
+    "Winner": "Victor Buerger",
+    "StartDate": "1928.04.07",
+    "EndDate": "1928.04.13",
+    "GamesCount": "14+2/28",
+    "DateUpdated": "2022.12.16",
+    "PgnFileName": "192804wecu.pgn"
+  },
+  {
+    "Year": 1928,
+    "Name": "WECU others",
+    "Winner": "",
+    "StartDate": "1928.04.07",
+    "EndDate": "1928.04.13",
+    "GamesCount": "13+1^",
+    "DateUpdated": "2022.12.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1928,
+    "Name": "BCF-ch Tenby",
+    "Winner": "Fred D Yates",
+    "StartDate": "1928.07.02",
+    "EndDate": "1928.07.13",
+    "GamesCount": "39+1/66",
+    "DateUpdated": "2022.08.26",
+    "PgnFileName": "192807bcf.pgn"
+  },
+  {
+    "Year": 1928,
+    "Name": "BCF Major Open",
+    "Winner": "G Koltanowski, Dr Seitz",
+    "StartDate": "1928.07.02",
+    "EndDate": "1928.07.13",
+    "GamesCount": "16^",
+    "DateUpdated": "2025.09.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1928,
+    "Name": "BCF Women's Ch",
+    "Winner": "Edith C Price",
+    "StartDate": "1928.07.02",
+    "EndDate": "1928.07.13",
+    "GamesCount": "3^",
+    "DateUpdated": "2023.09.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1928,
+    "Name": "BCF other",
+    "Winner": "",
+    "StartDate": "1928.07.02",
+    "EndDate": "1928.07.13",
+    "GamesCount": "4^",
+    "DateUpdated": "2024.12.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1928,
+    "Name": "London/Washington Cable",
+    "Winner": "",
+    "StartDate": "1928.11.10",
+    "EndDate": "",
+    "GamesCount": "6",
+    "DateUpdated": "2020.02.12",
+    "PgnFileName": "192811cable-wash-lond.pgn"
+  },
+  {
+    "Year": 1928,
+    "Name": "Hastings 1928/29 Premier",
+    "Winner": "Edgar Colle etc",
+    "StartDate": "1928.12.27",
+    "EndDate": "1929.01.05",
+    "GamesCount": "45",
+    "DateUpdated": "2023.01.03",
+    "PgnFileName": "192812hast.pgn"
+  },
+  {
+    "Year": 1928,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1928.12.27",
+    "EndDate": "1929.01.05",
+    "GamesCount": "37+1^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1929,
+    "Name": "Winter v Colle Match",
+    "Winner": "Drawn 5-5",
+    "StartDate": "1929.01.10",
+    "EndDate": "1929.01.22",
+    "GamesCount": "6",
+    "DateUpdated": "2025.09.12",
+    "PgnFileName": "192901wintercolle.pgn"
+  },
+  {
+    "Year": 1929,
+    "Name": "Kent Congress, Ramsgate",
+    "Winner": "(Capablanca took part)",
+    "StartDate": "1929.03.30",
+    "EndDate": "1929.04.06",
+    "GamesCount": "63",
+    "DateUpdated": "2025.01.11",
+    "PgnFileName": "192903kent.pgn"
+  },
+  {
+    "Year": 1929,
+    "Name": "Scarborough Premier",
+    "Winner": "H Saunders, S Tartakower",
+    "StartDate": "1929.05.18",
+    "EndDate": "1929.05.25",
+    "GamesCount": "28/28",
+    "DateUpdated": "2024.08.11",
+    "PgnFileName": "192905scar.pgn"
+  },
+  {
+    "Year": 1929,
+    "Name": "Scarborough other",
+    "Winner": "",
+    "StartDate": "1929.05.18",
+    "EndDate": "1929.05.25",
+    "GamesCount": "2^",
+    "DateUpdated": "2024.08.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1929,
+    "Name": "London Quadrangular",
+    "Winner": "F D Yates, W Winter",
+    "StartDate": "1929.06.03",
+    "EndDate": "1929.06.11",
+    "GamesCount": "9+3",
+    "DateUpdated": "2024.01.12",
+    "PgnFileName": "192906london.pgn"
+  },
+  {
+    "Year": 1929,
+    "Name": "GBR-ch Ramsgate",
+    "Winner": "Sultan Khan",
+    "StartDate": "1929.07.29",
+    "EndDate": "1929.08.09",
+    "GamesCount": "36+1/66",
+    "DateUpdated": "2025.02.20",
+    "PgnFileName": "192907bcf.pgn"
+  },
+  {
+    "Year": 1929,
+    "Name": "GBR-ch other",
+    "Winner": "",
+    "StartDate": "1929.07.29",
+    "EndDate": "1929.08.09",
+    "GamesCount": "16^",
+    "DateUpdated": "2024.12.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 1929,
+    "Name": "Hastings 1929/30 Premier",
+    "Winner": "JosÃ© R Capabanca",
+    "StartDate": "1929.12.27",
+    "EndDate": "1929.01.04",
+    "GamesCount": "45",
+    "DateUpdated": "2026.01.18",
+    "PgnFileName": "192912hast.pgn"
+  },
+  {
+    "Year": 1929,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "1929.12.27",
+    "EndDate": "1929.01.04",
+    "GamesCount": "27+3^",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  }
+]

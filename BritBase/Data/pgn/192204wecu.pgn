@@ -1,0 +1,1469 @@
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "1"]
+[White "Kostic, Boris"]
+[Black "Louis, Allan William E"]
+[Result "1-0"]
+[ECO "D64"]
+[PlyCount "84"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Rc1 c6 8. Qc2
+dxc4 9. Bxc4 Nd5 10. Bf4 N7f6 11. Bg3 Nxc3 12. bxc3 b6 13. O-O Bb7 14. Rcd1 Bd6
+15. e4 Bxg3 16. hxg3 c5 17. e5 Nd5 18. Bd3 h6 19. dxc5 Qc7 20. cxb6 axb6 21. c4
+Nb4 22. Bh7+ Kh8 23. Qb3 Bxf3 24. gxf3 Kxh7 25. Qxb4 Qxe5 26. Qxb6 Rfb8 27. Qc6
+Rxa2 28. Rd7 Rbb2 29. f4 Qf5 30. c5 Rc2 31. Rc7 h5 32. Qb7 Rab2 33. Qf3 e5 34.
+Qd5 h4 35. Rxf7 Qg6 36. f5 Qa6 37. Qxe5 Qh6 38. f6 hxg3 39. Qxg3 Rxc5 40. Rxg7+
+Kh8 41. Rg8+ Kh7 42. f7 Rb6 {Sources: Yorkshire Post, 19 April 1922; BCM, May
+1922, p170} (42... Rb6 43. Rh8+ Kxh8 44. Qg8# {is the finish according to the
+Northern Whig, 3 June 1922}) 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "1"]
+[White "Maroczy, Geza"]
+[Black "Blake, Joseph Henry"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[PlyCount "92"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Nbd2 Nc5 12. Nf1 Nxb3 13. axb3 Qd7 14. Nd4 Nxd4
+15. cxd4 c5 16. Be3 Rfc8 17. Ng3 c4 18. Rf1 a5 19. f4 Bg4 20. Qc2 cxb3 21. Qxb3
+Bh4 22. Bf2 a4 23. Qb4 Rc2 24. Rfc1 Rac8 25. Be3 Be7 26. Qa5 Rxb2 27. h3 Bd8
+28. Qa6 Bxh3 29. gxh3 Qxh3 30. Bf2 Rb8 31. Qd6 Rb3 32. Rc2 Rxg3+ 33. Bxg3 Qxg3+
+34. Rg2 Qe3+ 35. Rf2 Qg3+ 36. Kf1 Qh3+ 37. Ke2 Rc8 38. Rc1 Qg4+ 39. Rf3 Ba5 40.
+Rxc8+ Qxc8 41. Qxd5 Qc2+ 42. Kf1 Qb1+ 43. Kg2 Qg6+ 44. Kf2 Qc2+ 45. Kg1 Qg6+
+46. Kf2 Qc2+ {Sources: Western Daily Press, 17 April 1922; Falkirk Herald, 26
+April 1922; Linlithgowshire Gazette, 28 April 1922; BCM, June 1922, p241}
+1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "1"]
+[White "Spencer, Edmund"]
+[Black "Yates, Fred Dewhirst"]
+[Result "1-0"]
+[PlyCount "5"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {Not available} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "C83"]
+[PlyCount "55"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 Nxd2 11. Qxd2 Na5 12. Bc2 O-O 13. Qd3 g6 14. Qe3 c5 15.
+Qh6 f5 16. Ng5 Bxg5 17. Bxg5 Qe8 18. Rad1 Nc6 19. Bf6 Rf7 20. Rd3 Qf8 21. Qg5
+Rd7 22. Rg3 Ne7 23. h4 Kf7 24. h5 Qg8 25. hxg6+ hxg6 26. Rh3 Qe8 27. Rh7+ Kf8
+28. Qh6+ {Sources: Manchester Guardian, 17 April 1922; BCM, May 1922, p171;
+Staffordshire Advertiser, 20 May 1922 and 14 February 1925; The Field, 10 June
+1922; Cheltenham Chronicle, 24 June 1922; 'English Tournaments 1920-22' - A J
+Gillam - The Chess Player (1997)} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "1"]
+[White "Tregaskis, George"]
+[Black "Price, Hubert Ernest"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{Not available}  0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "2"]
+[White "Louis, Allan William E"]
+[Black "Spencer, Edmund"]
+[Result "1/2-1/2"]
+[PlyCount "5"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 {Not available} 1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "2"]
+[White "Mackenzie, Arthur John"]
+[Black "Tregaskis, George"]
+[Result "1/2-1/2"]
+[PlyCount "0"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{Not available}  1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "2"]
+[White "Maroczy, Geza"]
+[Black "Yates, Fred Dewhirst"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "48"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. c3 Nc6 5. Bd3 Nf6 6. Nbd2 Bd6 7. O-O O-O 8. Qe2
+e5 9. dxc5 Bxc5 10. e4 Be6 11. h3 Qe7 12. Ng5 Rad8 13. exd5 Bxd5 14. Nde4 Bxe4
+15. Nxe4 Nxe4 16. Bxe4 f5 17. Bxc6 bxc6 18. Qc4+ Kh8 19. Bg5 Bxf2+ 20. Rxf2
+Qxg5 21. Qxc6 e4 22. Qc5 Rf7 23. Raf1 e3 24. Rxf5 e2 {Sources: Yorkshire Post,
+19 April 1922; Belfast News-Letter, 27 April 1922; Daily News (London), 29
+April 1922 (wrongly gives "Black resigns"); Western Morning News, 6 May 1922;
+Sunday Times, 7 May 1922; Exeter and Plymouth Gazette, 11 May 1922; BCM, May
+1922, p171; Linlithgowshire Gazette, 19 May 1922; Staffordshire Advertiser, 24
+June 1922} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "2"]
+[White "Price, Hubert Ernest"]
+[Black "Blake, Joseph Henry"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "44"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. Nbd2 Nc6 5. b3 e6 6. Bb2 Bd6 7. Bd3 cxd4 8.
+exd4 O-O 9. O-O Qc7 10. c4 b6 11. Rc1 Bb7 12. Qe2 Rac8 13. Ne5 Qe7 14. cxd5
+Nxd5 15. f4 f5 16. Ndc4 Bxe5 17. fxe5 Ncb4 18. Ba3 Qg5 19. Nd6 Nxd3 20. Nxb7
+N5f4 21. Qf3 Nxc1 22. Bxf8 Rc3 {Sources: Sunday Times, 23 April 1922; Falkirk
+Herald, 24 May 1922; Linlithgowshire Gazette, 26 May 1922} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "2"]
+[White "Thomas, George Alan"]
+[Black "Kostic, Boris"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[PlyCount "77"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 e5 7. Nde2 d5 8.
+exd5 Nxd5 9. Bd2 Nc6 10. O-O O-O 11. Nxd5 Qxd5 12. Nc3 Bxc3 13. Bxc3 e4 14. Be2
+Qc5 15. Qd2 Be6 16. Qf4 Nd4 17. Qxe4 Nxe2+ 18. Qxe2 Rad8 19. Rfd1 Rd5 20. Rxd5
+Qxd5 21. a3 Rd8 22. Re1 h6 23. Qe3 a6 24. Qg3 Qg5 25. Qxg5 hxg5 26. f3 Rd6 27.
+Kf2 f6 28. Re2 Kf7 29. b3 g4 30. Bb4 gxf3 31. Kxf3 Rd1 32. h3 g5 33. c4 g4+ 34.
+hxg4 Rd3+ 35. Re3 Bxg4+ 36. Kf2 Rxe3 37. Kxe3 Bd1 38. Kd4 Bxb3 39. Kc5 1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "3"]
+[White "Blake, Joseph Henry"]
+[Black "Yates, Fred Dewhirst"]
+[Result "1-0"]
+[ECO "C28"]
+[PlyCount "113"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 h6 6. Bxf6 Bxc3+ 7. bxc3 Qxf6
+8. Ne2 d6 9. O-O g5 10. d4 Ne7 11. Rb1 Ng6 12. Qd3 O-O 13. f3 Kh8 14. Kh1 Rg8
+15. Rf2 Rb8 16. Qe3 b6 17. g3 Bd7 18. Rg1 Rg7 19. Rd1 Bc6 20. Bd5 Bxd5 21. exd5
+Qe7 22. c4 f5 23. Nc3 Re8 24. Re2 Qf8 25. Rde1 Kh7 26. Qd3 Rge7 27. Kg2 Qf6 28.
+a3 a5 29. Nb5 Rf8 30. Nc3 Rg7 31. Kh1 Kh8 32. Rf2 h5 33. Ne2 Rh7 34. dxe5 dxe5
+35. Rg1 Rg8 36. Qc3 Rf8 37. f4 exf4 38. Qxf6+ Rxf6 39. gxf4 g4 40. Nd4 Re7 41.
+Rd1 Re4 42. c5 Nxf4 43. d6 cxd6 44. cxb6 Nh3 45. Rff1 Re7 46. Rb1 Rb7 47. Rxf5
+Rg6 48. Rxh5+ Kg8 49. Rxa5 Rgg7 50. Nf5 Rgd7 51. Rd5 Nf2+ 52. Kg2 Ne4 53. Rb4
+Nf6 54. Rxd6 Rxd6 55. Nxd6 Rb8 56. a4 Kf8 57. a5 {Source: BCM, July 1922, p279}
+1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "3"]
+[White "Kostic, Boris"]
+[Black "Price, Hubert Ernest"]
+[Result "1-0"]
+[Annotator "Saunders, John"]
+[PlyCount "3"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 {Not available - QG Declined according to the Yorkshire Post,
+18 Apr 1922.} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "3"]
+[White "Louis, Allan William E"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[ECO "B80"]
+[PlyCount "114"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nf6 7. Bg2 Nc6 8. O-O
+Be7 9. Be3 d6 10. Qd2 Ne5 11. Rad1 Nc4 12. Qc1 O-O 13. h3 Bd7 14. Rfe1 Rac8 15.
+Re2 b5 16. a3 Nxa3 17. bxa3 Qxc3 18. Red2 Qc7 19. Ne2 Bc6 20. f3 d5 21. exd5
+Bxd5 22. Nf4 Bc4 23. Kh2 e5 24. Ne2 Rfd8 25. Nc3 Be6 26. Ne4 Nd5 27. Ng5 Nxe3
+28. Nxe6 Rxd2 29. Nxc7 Rxd1 30. Qxe3 Rxc7 31. Qxe5 Rcd7 32. h4 Bxa3 33. Qe3 Bf8
+34. f4 R7d2 35. Kh3 Rxc2 36. Be4 Rc5 37. Qb3 Rd6 38. Qa2 g6 39. Qb3 a5 40. Qe3
+Rc4 41. Qf3 a4 42. f5 a3 43. Bb1 Rd2 44. fxg6 hxg6 45. h5 a2 46. hxg6 fxg6 47.
+Bxa2 Rxa2 48. Qd5+ Kh7 49. Qxb5 Rac2 50. Qe8 Bg7 51. Qe7 R2c3 52. Qe2 Rd4 53.
+Qe6 Rcd3 54. Qe2 Rd5 55. Kg4 Be5 56. Qh2+ Kg7 57. Qf2 R5d4+ 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "3"]
+[White "Spencer, Edmund"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "D35"]
+[PlyCount "69"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 c6 6. e3 O-O 7. Bd3 Nbd7 8. cxd5
+exd5 9. Qc2 Re8 10. O-O Nf8 11. h3 Nh5 12. Bh2 Bd6 13. Bxd6 Qxd6 14. e4 Nf4 15.
+Rfe1 Bxh3 16. e5 Qh6 17. Bf1 Re6 18. Re3 Rg6 19. Ne1 Bxg2 20. Bxg2 Nh3+ 21. Kf1
+Nf4 22. Rg3 N8e6 23. Rd1 Rf8 24. Ne2 f6 25. Nxf4 Nxf4 26. Rxg6 hxg6 27. Nd3 Ne6
+28. Qc3 Qh4 29. Re1 Nxd4 30. e6 Nb5 31. Qc5 Re8 32. Re3 Qg4 33. Bxd5 cxd5 34.
+Qxb5 Rxe6 35. Qxd5 {Sources: Manchester Guardian, 30 April 1922; BCM, May 1922,
+p172; The Observer, 30 April 1922; 'English Tournaments 1920-22' - A J Gillam
+- The Chess Player (1997)} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "3"]
+[White "Tregaskis, George"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "A56"]
+[PlyCount "86"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. c4 e5 5. dxe6 Bxe6 6. Nc3 Nc6 7. e4 Be7 8. Be2
+O-O 9. O-O Qb6 10. Nd5 Qd8 11. Nxe7+ Qxe7 12. Qc2 Bg4 13. Bf4 Rad8 14. Rad1
+Nxe4 15. Ng5 Nxg5 16. Bxg4 f5 17. Qd2 Ne4 18. Qd5+ Qf7 19. Bxf5 Qxd5 20. Rxd5
+Nb4 21. Be6+ Kh8 22. Rf5 Nf6 23. Bg5 Rde8 24. Rxf6 Rxf6 25. Bxf6 Rxe6 26. Bc3
+Nxa2 27. Re1 Rxe1+ 28. Bxe1 Kg8 29. Bd2 Kf7 30. Kf1 Ke6 31. Ke2 Nb4 32. Bxb4
+cxb4 33. Kd3 Ke5 34. Ke3 a5 35. f4+ Kf5 36. b3 h5 37. h3 h4 38. Kd4 Kxf4 39.
+Kd5 a4 {Source: Staffordshire Advertiser - Saturday 17 June 1922, which
+claimed that White resigned at this point} 40. Kxd6 axb3 41. Kc7 b2 42. c5 b1=Q
+43. Kxb7 b3 {Sources: Western Daily Press, 18 April 1922; The People, 21 May
+1922; (move 23-37) BCM, May 1922, p173} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "4"]
+[White "Louis, Allan William E"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[Annotator "Saunders, John"]
+[PlyCount "5"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 (1... c5 {--> the opening was a Sicilian Defence according to the
+Yorkshire Post, 18 Apr 1922.}) 2. Nf3 Nc6 3. c3 {Not available} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "4"]
+[White "Maroczy, Geza"]
+[Black "Spencer, Edmund"]
+[Result "1-0"]
+[ECO "A54"]
+[PlyCount "87"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 d6 3. g3 Nbd7 4. c4 e5 5. Bg2 Be7 6. Nc3 O-O 7. O-O Re8 8. b3
+Nf8 9. Bb2 Ng6 10. h3 Bd7 11. Qc2 Qc8 12. Kh2 h5 13. Rad1 h4 14. Bc1 Nh7 15. e4
+f5 16. dxe5 dxe5 17. Nd5 Nf6 18. Nxe7+ Rxe7 19. Bg5 fxe4 20. Nd2 Rf7 21. Nxe4
+Bf5 22. g4 Bxe4 23. Bxe4 Nf4 24. Bf5 Ne6 25. Rfe1 Nxg5 26. Bxc8 Nf3+ 27. Kg2
+Nxe1+ 28. Rxe1 Rxc8 29. Rxe5 Rcf8 30. Rf5 c6 31. Qe2 g6 32. Re5 Kg7 33. Re7 g5
+34. Rxf7+ Rxf7 35. Qe5 Kh6 36. Qf5 Rf8 37. f4 Nh7 38. Qe6+ Kg7 39. fxg5 Nxg5
+40. Qe7+ Nf7 41. g5 Rg8 42. Qf6+ Kf8 43. g6 Rg7 44. Kh1 {Source: Western Daily
+Press, 19 April 1922} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "4"]
+[White "Price, Hubert Ernest"]
+[Black "Yates, Fred Dewhirst"]
+[Result "0-1"]
+[ECO "D05"]
+[PlyCount "62"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. Bd3 Nc6 5. O-O Nf6 6. b3 Bd6 7. Bb2 O-O 8. Nbd2
+Qe7 9. c4 b6 10. Rc1 Bb7 11. Ne5 Rac8 12. f4 Rfd8 13. Ndf3 cxd4 14. exd4 dxc4
+15. bxc4 Ba3 16. Qe2 Bxb2 17. Qxb2 Rc7 18. Rfd1 Nxe5 19. Nxe5 Nd7 20. Qe2 Nxe5
+21. Qxe5 Rcd7 22. Be2 g6 23. Rc3 Qf8 24. Bf3 Qb4 25. d5 exd5 26. cxd5 Bxd5 27.
+Bxd5 Rxd5 28. Rxd5 Qb1+ 29. Kf2 Qxa2+ 30. Qe2 Qxe2+ 31. Kxe2 Rxd5 {Sources:
+Western Daily Press, 6 May 1922; (moves 26-end) Yorkshire Post, 18 April 1922}
+0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "4"]
+[White "Thomas, George Alan"]
+[Black "Blake, Joseph Henry"]
+[Result "0-1"]
+[ECO "C84"]
+[PlyCount "80"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 d6 6. O-O Be7 7. d3 O-O 8. h3
+Nd7 9. Bb3 Nc5 10. Bd5 Ne6 11. Ne2 Bf6 12. c3 Ne7 13. Bb3 d5 14. Ng3 g6 15.
+exd5 Nxd5 16. Re1 Ndf4 17. Bc2 Qd5 18. c4 Qc6 19. Bd2 Ng5 20. Ne4 Nxe4 21. dxe4
+Rd8 22. b3 Bxh3 23. gxh3 Qe6 24. Re3 Nxh3+ 25. Kf1 Nf4 26. Ne1 h5 27. Bd3 Rd7
+28. Qf3 Rad8 29. Rd1 g5 30. Bc1 g4 31. Qh1 h4 32. Qg1 Kh8 33. c5 g3 34. fxg3
+Qh3+ 35. Ng2 hxg3 36. Rf3 Rxd3 37. Rfxd3 Rxd3 38. Rxd3 Nxd3 39. Be3 Nf4 40.
+Bxf4 exf4 {Sources: Western Daily Press, 27 April 1922; Staffordshire
+Advertiser, 29 April 1922; Illustrated London News, 6 May 1922; Sunday Times,
+7 May 1922; Falkirk Herald, 10 May 1922; Linlithgowshire Gazette, 12 May 1922;
+Cheltenham Chronicle, 20 May 1922; BCM, June 1922, p244; Northern Whig, 24
+June 1922. Awarded the brilliancy prize.} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "4"]
+[White "Tregaskis, George"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[ECO "B80"]
+[PlyCount "66"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 Nf6 6. Bg2 Qc7 7. O-O Be7 8. Nc3
+O-O 9. Re1 d6 10. Be3 Nc6 11. Nxc6 bxc6 12. Na4 Rb8 13. c4 c5 14. b3 Bb7 15.
+Nc3 Rbd8 16. Qe2 Nd7 17. f4 Bf6 18. Rac1 Nb8 19. Qf2 Nc6 20. Ne2 Nb4 21. Rcd1
+Nxa2 22. e5 Bxg2 23. Kxg2 dxe5 24. Bxc5 Rxd1 25. Rxd1 Rc8 26. fxe5 Bxe5 27. Bb6
+Qc6+ 28. Kh3 h5 29. c5 g5 30. Nd4 Qe4 31. Rf1 g4+ 32. Kh4 Qg6 33. c6 f5 {
+Sources: Cheltenham Chronicle, 20 May 1922; BCM, September 1922, p363} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.18"]
+[Round "5"]
+[White "Kostic, Boris"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[ECO "E10"]
+[PlyCount "68"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 b5 5. cxb5 Bb7 6. dxe6 fxe6 7. Nc3 d5 8. e3
+Bd6 9. Be2 O-O 10. O-O Qe7 11. Qc2 Nbd7 12. Bd3 c4 13. Be2 Nc5 14. Nd4 Nfe4 15.
+Nxe4 Nxe4 16. f4 e5 17. Nc6 Bxc6 18. bxc6 exf4 19. Bf3 Bc5 20. b4 Bxb4 21. Rb1
+Bc5 22. Rb7 fxe3 23. Qe2 Qe6 24. Bb2 c3 25. Bxe4 cxb2 26. Bf3 Qxc6 27. Rxb2 Bb6
+28. g3 Rf5 29. Kg2 Raf8 30. Rc2 (30. Qd3 Qe6 31. Rc2 Qf7 32. Qe2 d4 33. Qc4 d3
+{0-1 was the finish according to Staffordshire Advertiser, 6 May 1922}) 30...
+Qe6 31. Qd3 Qf7 32. Qe2 h5 33. h4 d4 34. Qc4 d3 {Sources: Western Daily Press,
+19 April 1922; Falkirk Herald, 3 May 1922; Linlithgowshire Gazette, 5 May 1922;
+Staffordshire Advertiser, 6 May 1922; Sunday Times, 14 May 1922; BCM, June
+1922, p242} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.18"]
+[Round "5"]
+[White "Louis, Allan William E"]
+[Black "Tregaskis, George"]
+[Result "1-0"]
+[PlyCount "5"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{Ponziani Opening:} 1. e4 e5 2. Nf3 Nc6 3. c3 {Not available} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.18"]
+[Round "5"]
+[White "Price, Hubert Ernest"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "B07"]
+[PlyCount "68"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. d4 d6 3. e4 Bg7 4. c3 Nf6 5. Bd3 Nbd7 6. Be3 e5 7. O-O O-O 8. h3
+Qe7 9. Re1 h6 10. Nbd2 Re8 11. Qc2 b6 12. Nf1 Bb7 13. d5 Nc5 14. Bxc5 bxc5 15.
+b4 c6 16. dxc6 Bxc6 17. b5 Bb7 18. c4 Nh5 19. N1d2 Nf4 20. a4 Qd7 21. a5 g5 22.
+Bf1 Bf6 23. Ra3 Kh7 24. Nh2 h5 25. Qd1 Bc8 26. g3 Nxh3+ 27. Bxh3 Qxh3 28. Rf3
+Bg4 29. Nxg4 hxg4 30. Rxf6 Kg7 31. Rf5 Rh8 32. Rxg5+ Kf8 33. f3 Qxg3+ 34. Kf1
+Rh2 {Sources: Western Daily Press, 19 April 1922; Falkirk Herald, 10 May 1922;
+Linlithgowshire Gazette, 12 May 1922; (moves 28-end) BCM, May 1922, p175} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.18"]
+[Round "5"]
+[White "Spencer, Edmund"]
+[Black "Blake, Joseph Henry"]
+[Result "1/2-1/2"]
+[PlyCount "5"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {Not available} 1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.18"]
+[Round "5"]
+[White "Yates, Fred Dewhirst"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "C82"]
+[PlyCount "55"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Re1 Nc5 12. Bc2 Bg4 13. h3 Bh5 14. Nb3 Ne6 15.
+g4 Bg6 16. Bf5 Bxf5 17. gxf5 Ng5 18. Nxg5 Bxg5 19. Qg4 Bxc1 20. Raxc1 Ne7 21.
+Nd4 c5 22. f6 Ng6 23. Nc6 Qc7 24. Ne7+ Kh8 25. Qg5 Rad8 26. fxg7+ Kxg7 27. Nf5+
+Kg8 28. Qf6 {Sources: Western Daily Press, 24 April 1922; BCM, May 1922, p175;
+Morning Post; Staffordshire Advertiser, 25 November 1922, 'English Tournaments
+1920-22' - A J Gillam - The Chess Player (1997)} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.19"]
+[Round "6"]
+[White "Blake, Joseph Henry"]
+[Black "Kostic, Boris"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[PlyCount "21"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 d6 7. exd6 Bxd6 8.
+Be2 O-O 9. O-O Nc6 10. dxc5 Bxc5 11. c3 {Not available (74 moves) Soon the
+position simplified rapidly until, after only one hour's play, it had come
+down to Q, R and B and six Ps each, with a drawish aspect . Play then
+proceeded on very cautious lines, but Kostich evolved a subtle scheme,
+ostensibly threatening mate, but with real intent to draw White's forces away
+and then to attack a backward Q side P. Blake, however, was equal to the
+occasion, and his cast-iron defence produced its reward, for on the 74th move
+Kostich was obliged to agree to a draw, though claiming that he ought to have
+won earlier. (BCM, May 1922, p175)} 1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.19"]
+[Round "6"]
+[White "Mackenzie, Arthur John"]
+[Black "Price, Hubert Ernest"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "81"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O c5 11. Qe2 a6 12. dxc5 Nxc5 13. Rfd1 Ne6 14. Bh4 Re8
+15. a3 b5 16. b4 Qb6 17. Bb1 Rad8 18. Ba2 h6 19. Bxf6 Bxf6 20. Nxd5 Bxd5 21.
+Bxd5 Nf4 22. Qa2 Rxd5 23. Rxd5 Nxd5 24. Qxd5 Bb2 25. Rd1 Bxa3 26. Qb3 Rd8 27.
+Rxd8+ Qxd8 28. Nd4 Bc1 29. Qc3 Qd6 30. h3 a5 31. Qxc1 Qxb4 32. Qc8+ Kh7 33.
+Qf5+ Kg8 34. Qxb5 Qe1+ 35. Qf1 Qc3 36. Qd1 Qb4 37. Nc6 Qc3 38. Qd8+ Kh7 39.
+Nxa5 Qe1+ 40. Kh2 Qxf2 41. Qd4 {Source: Western Daily Press, 20 April 1922} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.19"]
+[Round "6"]
+[White "Thomas, George Alan"]
+[Black "Maroczy, Geza"]
+[Result "1-0"]
+[ECO "C84"]
+[PlyCount "131"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Ne4 8.
+Nxd4 O-O 9. c4 Nc5 10. Bc2 Nxe5 11. b4 Ne6 12. Qh5 g6 13. Nxe6 fxe6 14. Qe2 Bf6
+15. Nc3 Nc6 16. Qd2 b6 17. Rb1 Bb7 18. Be4 Rb8 19. Ba3 Rf7 20. c5 bxc5 21. bxc5
+Na5 22. Bxb7 Rxb7 23. Rxb7 Nxb7 24. Ne4 Bg7 25. Rb1 Qc8 26. Qb4 Nd8 27. Qb8
+Qxb8 28. Rxb8 Rf8 29. Rc8 Nc6 30. Rxc7 Rb8 31. g3 Rb1+ 32. Kg2 Be5 33. Rxd7 Ra1
+34. Rd2 h6 35. Nd6 g5 36. Nc4 Bd4 37. Kf3 Re1 38. h3 h5 39. Ne3 Bc3 40. Rd1 Kf7
+41. Rxe1 Bxe1 42. Nc2 Bc3 43. Ke4 Ke7 44. Bc1 Bf6 45. Be3 Kd7 46. f4 gxf4 47.
+Bxf4 a5 48. Bd2 Be7 49. Be3 Bf6 50. g4 hxg4 51. hxg4 Bg7 52. g5 e5 53. Bd2 Ke6
+54. Ne3 Bf8 55. Nc4 Bxc5 56. Nxa5 Nxa5 57. Bxa5 Be7 58. g6 Kf6 59. a4 Kxg6 60.
+Kxe5 Kf7 61. Kd5 Bh4 62. Bd2 Bd8 63. Kc6 Ke6 64. Bb4 Ke5 65. Bd6+ Kd4 66. Bc5+
+{Source: Western Daily Press, 20 April 1922} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.19"]
+[Round "6"]
+[White "Tregaskis, George"]
+[Black "Spencer, Edmund"]
+[Result "1/2-1/2"]
+[PlyCount "4"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{QP, Chigorin Defence:} 1. d4 d5 2. c4 Nc6 {Not available. Tregaskis ventured
+into his opponent's camp with his Q and gave her up, remaining with two Rs and
+a P plus against Q and B. Tregaskis put up a great fight and at the
+adjournment was still keeping it going. Finally, though giving up a P and the
+Exchange, he got a P down to the 7th and a draw by perpetual check was the
+best Spencer could do.} 1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.19"]
+[Round "6"]
+[White "Yates, Fred Dewhirst"]
+[Black "Louis, Allan William E"]
+[Result "1-0"]
+[ECO "C82"]
+[PlyCount "85"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 g6 10. Nbd2 Nxd2 11. Bxd2 Bg7 12. Nd4 Ne7 13. Bg5 c5 14. Nc6 Qc7 15.
+Nxe7 c4 16. Nxd5 Qxe5 17. Bf6 Bxf6 18. Re1 Qg5 19. f4 Qh4 20. g3 Qh3 21. Nxf6+
+Kf8 22. Bc2 Kg7 23. Qd4 Rhd8 24. Qe5 Kf8 25. Rad1 h5 26. Nh7+ Kg8 27. Ng5 Qg4
+28. Nxe6 fxe6 29. Qxe6+ Qxe6 30. Rxe6 Rxd1+ 31. Bxd1 Kf7 32. Rd6 a5 33. Bf3 Rb8
+34. Kf2 b4 35. Bd5+ Ke7 36. Re6+ Kd7 37. Bxc4 bxc3 38. bxc3 Rb2+ 39. Re2 Rb6
+40. a4 Rf6 41. Re5 h4 42. Rxa5 h3 43. Ra6 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "7"]
+[White "Blake, Joseph Henry"]
+[Black "Tregaskis, George"]
+[Result "1-0"]
+[ECO "C27"]
+[PlyCount "40"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Be7 6. Qxe5 O-O 7. Nf3 Bf6 8.
+Qf4 Re8+ 9. Kf1 Qe7 10. h4 c6 11. d3 Bxc3 12. bxc3 Nb5 13. Bb2 d5 14. Re1 Be6
+15. c4 Nc7 16. Rh3 dxc4 17. Rg3 f5 18. Rxg7+ Qxg7 19. Bxg7 Nd5 20. Qg5 Nd7 {
+Sources: Western Daily Press, 21 April 1922; BCM, May 1922, p177; Sunday Times,
+28 May 1922; Cheltenham Chronicle, 3 June 1922} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "7"]
+[White "Louis, Allan William E"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "C44"]
+[PlyCount "76"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Bd7 5. exd5 Nd4 6. Qd1 Nxf3+ 7. gxf3 Qh4 8.
+d4 O-O-O 9. Be3 e4 10. Nd2 f5 11. fxe4 fxe4 12. Be2 Ne7 13. Qc2 Nxd5 14. Qxe4
+Nxe3 15. Qxe3 Re8 16. Nf3 Rxe3 17. Nxh4 Re4 18. Ng2 Bd6 19. Kd2 Rf8 20. Rhf1
+Bh3 21. Ne3 Bxf1 22. Rxf1 Bxh2 23. Bd3 Rh4 24. Ke2 g6 25. f3 Bf4 26. Ng4 Re8+
+27. Kf2 Kd8 28. a4 h5 29. Nf6 Rh2+ 30. Kg1 Rf8 31. Nd5 Rxb2 32. Bxg6 Bh2+ 33.
+Kh1 c6 34. Ne3 Bf4 35. Nc4 Rh2+ 36. Kg1 Rg8 37. Ne5 Bxe5 38. dxe5 Rd2 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "7"]
+[White "Maroczy, Geza"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "C76"]
+[PlyCount "47"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. O-O g6 7. d4 Bg7 8. Be3
+Nge7 9. dxe5 dxe5 10. Bc5 O-O 11. Bxc6 bxc6 12. Na3 Re8 13. Nc4 f6 14. Na5 Qc8
+15. Qd3 Kf7 16. Rfd1 Rd8 17. Bxe7 Kxe7 18. Qc4 Rb8 19. Rxd7+ Qxd7 20. Nxc6+ Kf8
+21. Nxd8 Qxd8 22. Qxa6 Kf7 23. Qc4+ Ke7 24. b4 {Sources: Western Daily Press,
+21 April 1922; BCM, May 1922, p177; 'English Tournaments 1920-22' - A J
+Gillam- The Chess Player (1997); Ireland's Saturday Night, 20 May 1922;
+Illustrated London News, 3 June 1922; Daily News (London), 8 July 1922;
+Coventry Evening Telegraph, 15 July 1922; 'The Chess Amateur', July 1922} (24.
+b4 {Some online databases give extra moves} Bf8 25. Qg8) 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "7"]
+[White "Spencer, Edmund"]
+[Black "Price, Hubert Ernest"]
+[Result "1-0"]
+[PlyCount "6"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 {Not available} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "7"]
+[White "Yates, Fred Dewhirst"]
+[Black "Kostic, Boris"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3q1nrk/6rp/2b1pp2/1p1n3P/p1pPB2N/P5PR/1P1N1P2/2RQ1K2 b - - 0 34"]
+[PlyCount "12"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+34... Rxg3 35. Ng6+ R8xg6 36. hxg6 Rxh3 37. g7+ Kg8 38. Qg4 Rh6 39. gxf8=Q+
+Kxf8 40. Qxe6 {Not available} 1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "8"]
+[White "Blake, Joseph Henry"]
+[Black "Louis, Allan William E"]
+[Result "1-0"]
+[ECO "C28"]
+[PlyCount "65"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Nge2 d6 8.
+O-O Bc5 9. Nd5 Qd8 10. c3 Bg4 11. b4 Bb6 12. a4 a6 13. Nxb6 cxb6 14. f3 Be6 15.
+Bxe6 fxe6 16. Qb3 Qd7 17. f4 O-O 18. f5 Rae8 19. d4 exd4 20. cxd4 d5 21. fxe6
+Qxe6 22. exd5 Qxe2 23. dxc6+ Kh8 24. c7 Qe7 25. Rxf8+ Rxf8 26. Rc1 Rc8 27. Qc4
+Qe3+ 28. Kh1 Qe7 29. d5 Kh7 30. Qd3+ g6 31. d6 Qf6 32. Qh3 Qf8 33. Qxc8 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "8"]
+[White "Mackenzie, Arthur John"]
+[Black "Kostic, Boris"]
+[Result "1-0"]
+[ECO "D58"]
+[PlyCount "59"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Bg5 Bb7 5. e3 h6 6. Bh4 Be7 7. Nc3 O-O 8. Bd3
+d5 9. cxd5 exd5 10. O-O Nbd7 11. Qe2 a6 12. Rac1 Ne4 13. Bg3 c5 14. Rfd1 Nxc3
+15. bxc3 c4 16. Bb1 Ba3 17. Qc2 Nf6 18. Bh4 g5 19. Nxg5 hxg5 20. Bxg5 Re8 21.
+Qf5 Re6 22. Qh3 Qd6 23. Bf5 Bxc1 24. Qh6 Qf8 25. Qh3 Qg7 26. Bh6 Rxe3 27. fxe3
+Bxe3+ 28. Bxe3 Ne4 29. Bh6 Qf6 30. Rf1 {Sources: Falkirk Herald, 3 May 1922;
+Linlithgowshire Gazette, 5 May 1922; The Field, 20 May 1922; Cheltenham
+Chronicle, 22 July 1922; Staffordshire Advertiser, 22 July 1922; Morning Post;
+'British Chess Masters Past and Present' - Reinfeld - G Bell and Sons Ltd,
+London (1947); English Tournaments 1920–22 - A J Gillam - The Chess Player 
+(1997) (Brian Denman Collection)} 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "8"]
+[White "Maroczy, Geza"]
+[Black "Price, Hubert Ernest"]
+[Result "1-0"]
+[ECO "C77"]
+[PlyCount "69"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Bc5 6. c3 Ba7 7. d3 d6 8. Be3
+O-O 9. h3 Bxe3 10. fxe3 Nh5 11. Rg1 f5 12. exf5 Bxf5 13. g4 e4 14. Bxc6 bxc6
+15. gxf5 exf3 16. Qxf3 Qh4+ 17. Kd1 Rab8 18. Kc2 Rb5 19. e4 d5 20. Nd2 dxe4 21.
+dxe4 Rfb8 22. b3 Nf6 23. Rg2 Re8 24. Rag1 Re7 25. Qd3 Ne8 26. Qc4+ Kh8 27. Qxc6
+Rbe5 28. Rg4 Qf6 29. Qa8 Rc5 30. Nc4 a5 31. Kb2 Rxc4 32. bxc4 Qb6+ 33. Ka1 Qe3
+34. R4g3 Qe2 35. f6 1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "8"]
+[White "Thomas, George Alan"]
+[Black "Spencer, Edmund"]
+[Result "0-1"]
+[ECO "C86"]
+[PlyCount "180"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. Qe2 Be7 7. d4 Bd7 8. O-O
+O-O 9. Bc2 Re8 10. Rd1 exd4 11. cxd4 Nb4 12. Bb3 d5 13. e5 Bb5 14. Qe3 Ng4 15.
+Qc3 a5 16. Na3 Bd7 17. Nc2 Ra6 18. a3 Rc6 19. Qd2 Nxc2 20. Bxc2 Nh6 21. Qe2 Rb6
+22. Bf4 Nf5 23. Rac1 g6 24. Bb1 Ng7 25. Rc3 Ne6 26. Bc1 Ba4 27. Bc2 Bxc2 28.
+Qxc2 Qd7 29. Rdd3 a4 30. h4 Rc8 31. Qd2 Qd8 32. g3 Qd7 33. Nh2 Rb5 34. Ng4 c5
+35. dxc5 Rcxc5 36. Rf3 Nd8 37. Nf6+ Bxf6 38. exf6 d4 39. Rfd3 Ne6 40. Rxc5 Rxc5
+41. Qd1 Rd5 42. Be3 Qd8 43. Bg5 b5 44. Qe2 Nc5 45. Rd1 h6 46. Bxh6 Qxf6 47.
+Qxb5 Kh7 48. Bf4 Qf5 49. Qe8 Ne6 50. Bd2 Qf3 51. Rc1 Rf5 52. Rf1 Qe2 53. Bc1
+Qc2 54. Qd7 d3 55. Be3 Kg7 56. Qd6 Qb3 57. Kg2 Qb7+ 58. Kg1 Rd5 59. Qb6 Qxb6
+60. Bxb6 Rb5 61. Be3 Rxb2 62. Ra1 f5 63. Kg2 Kf6 64. Kf3 Ke5 65. Re1 Rb3 66. g4
+Nd4+ 67. Kg2 Nc2 68. Rc1 Nxe3+ 69. fxe3 fxg4 70. Rc4 d2 71. Rd4 Rxe3 72. Rxd2
+Rxa3 73. Rd8 Ra1 74. Ra8 Ra3 75. Ra6 Kf5 76. Kh2 Ra1 77. Kg3 a3 78. Ra5+ Kf6
+79. Ra6+ Kf5 80. Ra5+ Ke4 81. Kxg4 a2 82. Kg5 Rg1+ 83. Kf6 a1=Q+ 84. Rxa1 Rxa1
+85. Kxg6 Ke5 86. h5 Ke6 87. h6 Rg1+ 88. Kh7 Kf7 89. Kh8 Rg8+ 90. Kh7 Rg6 {
+Source: Western Daily Press, 22 April 1922} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.20"]
+[Round "8"]
+[White "Yates, Fred Dewhirst"]
+[Black "Tregaskis, George"]
+[Result "1-0"]
+[PlyCount "0"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{Not available}  1-0
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.21"]
+[Round "9"]
+[White "Mackenzie, Arthur John"]
+[Black "Blake, Joseph Henry"]
+[Result "1/2-1/2"]
+[PlyCount "3"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 {Not available} 1/2-1/2
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.21"]
+[Round "9"]
+[White "Price, Hubert Ernest"]
+[Black "Louis, Allan William E"]
+[Result "0-1"]
+[ECO "D67"]
+[PlyCount "80"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Nbd7 5. Bg5 Be7 6. Rc1 O-O 7. e3 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. bxc3 Rd8 13. Qc2 b6 14. Bd3 h6
+15. Qe2 Bb7 16. e4 e5 17. Rfe1 Rac8 18. Ba6 Bxa6 19. Qxa6 exd4 20. cxd4 Nf6 21.
+d5 Nxe4 22. dxc6 Nc5 23. Rxe7 Nxa6 24. Rxa7 Rxc6 25. Re1 Nc5 26. g3 Nd3 27.
+Ree7 Rf6 28. Kg2 Rd5 29. h4 Rdf5 30. Re8+ Kh7 31. Raa8 Kg6 32. h5+ Kxh5 33. Nh4
+Rxf2+ 34. Kh3 Rd6 35. Ra4 Kg5 36. Ng2 Kf6 37. Ne3 h5 38. Rh8 g6 39. Nc4 Nf4+
+40. gxf4 Rd3+ {Source: BCM, July 1922, p277} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.21"]
+[Round "9"]
+[White "Spencer, Edmund"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[ECO "B49"]
+[PlyCount "120"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. Be2 Nc6 5. d4 cxd4 6. Nxd4 Qc7 7. O-O Nf6 8.
+Be3 Bb4 9. Nxc6 bxc6 10. Na4 Bd6 11. g3 Nxe4 12. Qd4 Nf6 13. Nb6 Rb8 14. Nc4
+Be7 15. Bf4 Qb7 16. Bxb8 Qxb8 17. Rad1 d5 18. Qe5 Qxe5 19. Nxe5 c5 20. a3 Bd6
+21. Nc4 Bc7 22. Ne3 Ke7 23. Bf3 Bd7 24. Rfe1 Kf8 25. b4 c4 26. c3 Ba4 27. Rc1
+g6 28. Bd1 Bd7 29. Bc2 Kg7 30. a4 Rb8 31. Rb1 Bc6 32. Nf1 Nd7 33. Ne3 Ne5 34.
+Red1 Nf3+ 35. Kf1 Be5 36. b5 axb5 37. axb5 Bb7 38. Ke2 Nxh2 39. Rh1 d4 40. Rxh2
+dxe3 41. Kxe3 Bxc3 42. Be4 Bd5 43. f4 f5 44. Bf3 Ba5 45. Ra2 Bb6+ 46. Ke2 Kf6
+47. Ra6 Ke7 48. Bh1 Kd6 49. Kd2 Kc5 50. Raa1 h5 51. Kc3 g5 52. fxg5 Rg8 53. Rf1
+Rxg5 54. Bxd5 exd5 55. Kc2 Kxb5 56. Rf3 h4 57. Rd1 hxg3 58. Rxd5+ Kc6 59. Rdxf5
+Rxf5 60. Rxf5 g2 {Source: BCM, May 1922, p178. Adjournment session played off
+on 22 April.} 0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.21"]
+[Round "9"]
+[White "Tregaskis, George"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[PlyCount "0"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{Not available. The opening was a Centre Game [Scandinavian] according to the
+Yorkshire Post, 22 April 1922, which puts Tregaskis's name first, suggesting
+that he was White (other secondary sources show Maroczy as White). It then
+says, "A Centre Gambit offered by Tregaskis was soon refuted by Maroczy, who
+won without much difficulty." Depends on the definition of 'Centre Gambit' but
+maybe this indicated the Danish Gambit (1 e4 e5 2 d4 exd4 3 c3, etc) in which
+case Tregaskis would probably have been White. JS}  0-1
+
+[Event "WECU Major Open 1st"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.21"]
+[Round "9"]
+[White "Yates, Fred Dewhirst"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[PlyCount "5"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{Ruy Lopez opening:} 1. e4 e5 2. Nf3 Nc6 3. Bb5 {Not available. Adjournment
+session played off on 22 April.} 1/2-1/2
+
+[Event "WECU First Class A"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.16"]
+[Round "2"]
+[White "Barlow, Alfred Dudley"]
+[Black "Bolland, Percivale David"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[PlyCount "132"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2025.07.03"]
+[SourceVersion "1"]
+[SourceVersionDate "2025.07.03"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Nbd2 Nc5 11. Bc2 d4 12. Ne4 dxc3 13. Nxc5 Qxd1 14. Rxd1 Bxc5 15. Be4 Rd8 16. Bxc6+ Ke7 17. Be3 Bxe3 18. fxe3 cxb2 19. Rab1 Bxa2 20. Rxd8 Rxd8 21. Rxb2 Rd1+ 22. Kf2 Bc4 23. Nd2 Bd3 24. Nb3 Rf1+ 25. Kg3 Rb1 26. Rxb1 Bxb1 27. Bb7 a5 28. Nxa5 c5 29. Bd5 Bd3 30. Kf2 c4 31. Nc6+ Ke8 32. Nb4 Bf5 33. e4 Bd7 34. Ke3 Ke7 35. Kd4 f6 36. exf6+ gxf6 37. Bc6 Bxc6 38. Nxc6+ Kd6 39. Na7 b4 40. Nb5+ Ke6 41. Kxc4 Ke5 42. Kd3 b3 43. Ke3 f5 44. exf5 b2 45. Nc3 Kxf5 46. Kf3 Ke5 47. Ke3 Kf5 48. Nb1 Kg4 49. Ke4 Kg5 50. h3 Kh4 51. Kf3 Kh5 52. g3 Kg5 53. h4+ Kf5 54. g4+ Ke5 55. Ke3 Kd5 56. g5 Ke5 57. Kf3 Kf5 58. Nc3 h6 59. gxh6 Kg6 60. Kg4 Kxh6 61. h5 Kh7 62. Kg5 Kg7 63. Nb1 Kh7 64. h6 Kh8 65. Kh4 Kh7 66. Kh5 Kh8 {Source: Weston-super-Mare Gazette, 6 May 1922. Contributed by Michael Kuehl, 23 July 2025.} 1/2-1/2
+
+[Event "WECU First Class A"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.17"]
+[Round "3"]
+[White "Wells, Harold Dotson"]
+[Black "Drewitt, John Arthur James"]
+[Result "0-1"]
+[ECO "C33"]
+[PlyCount "48"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d5 5. Bxd5 g5 6. d4 Bg7 7. Nf3 Qh5 8.
+Nc3 Ne7 9. Bc4 Nbc6 10. Nb5 O-O 11. c3 Rd8 12. Qe2 Bg4 13. Nxc7 Rxd4 14. Nxa8
+Rxc4 15. Qxc4 Bxf3 16. gxf3 Qxf3+ 17. Kg1 Qg4+ 18. Kf2 Qh4+ 19. Ke2 Ne5 20. Qb5
+Qg4+ 21. Kf2 Qf3+ 22. Ke1 Qxh1+ 23. Kd2 Qxe4 24. b4 Nf3+ {Source: Hastings and
+St Leonards Observer, 29 April 1922} 0-1
+
+[Event "WECU First Class B"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "1"]
+[White "O'Hanlon, John James"]
+[Black "Holloway, Edith Martha"]
+[Result "0-1"]
+[ECO "B09"]
+[PlyCount "76"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d6 4. Nf3 Nf6 5. Nc3 O-O 6. Bc4 Nc6 7. e5 Ng4 8. O-O
+Nh6 9. d5 Na5 10. Bd3 b6 11. Qe2 Nb7 12. Be3 e6 13. Rad1 Qe7 14. exd6 cxd6 15.
+dxe6 fxe6 16. Rfe1 Qc7 17. Nb5 Qf7 18. Ng5 Qe7 19. Nd4 Nc5 20. Bc4 d5 21. Nc6
+Qc7 22. Bxc5 bxc5 23. Nxe6 Bxe6 24. Qxe6+ Kh8 25. Bxd5 Qxf4 26. Rf1 Qg4 27. Qd6
+Nf5 28. Qxc5 Rae8 29. Qxa7 Ne3 {('Kt-Q6')} 30. h3 Qe2 31. Rfe1 Qf2+ 32. Kh1
+Nxd1 33. Rxd1 Qe2 34. Rg1 Rf1 35. Nb4 {('Kt-Kt5')} Ref8 36. Qa6 Rxg1+ 37. Kxg1
+Qe1+ 38. Kh2 Qxb4 {Sources: Western Daily Press, 22 April 1922; Bromley & West
+Kent Mercury - Friday 28 April 1922} 0-1
+
+[Event "WECU First Class B"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.??"]
+[Round "?"]
+[White "O'Hanlon, John James"]
+[Black "Hilliar, Harry William"]
+[Result "1-0"]
+[ECO "C45"]
+[PlyCount "63"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. f4 Nxd4 8.
+cxd4 Bb4+ 9. Nc3 Bxc3+ 10. bxc3 d5 11. e5 Qc6 12. Qb3 a6 13. Be2 O-O 14. O-O f5
+15. c4 Be6 16. Rfc1 Rab8 17. cxd5 Bxd5 18. Rxc6 Bxb3 19. Rxc7 Nd5 20. Rd7 Bxa2
+21. Rxa2 Nxe3 22. Ra3 Ng4 23. Rc3 Rfd8 24. Rcc7 Rxd7 25. Rxd7 b5 26. d5 b4 27.
+d6 Nh6 28. Bc4+ Kf8 29. Bb3 a5 30. e6 a4 31. e7+ Ke8 32. Bxa4 {Sources:
+Western Daily Press, 21 April 1922; Portadown News, 29 April 1922, both of
+which gives Black's identity as 'W H Hilliar' but elsewhere we're told he was
+from London and a player called Harry William Hilliar was an active member of
+Eltham CC at that time. Born 1883, died 1941.} 1-0
+
+[Event "WECU Second Class A"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.??"]
+[Round "?"]
+[White "Gooding, Annie Mabel"]
+[Black "Bermudez, Jose Manuel"]
+[Result "1-0"]
+[ECO "C30"]
+[PlyCount "43"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+{"Miss Gooding's shortest game at Weston was played with a Cuban - but he was
+not Capablanca, and he lost, as follows..."} 1. e4 e5 2. f4 d6 3. Nf3 Nc6 4.
+Bb5 Nge7 5. d3 Bd7 6. Nc3 g6 7. fxe5 Nxe5 8. Bxd7+ Qxd7 9. Bg5 Bg7 10. Bxe7
+Qxe7 11. O-O O-O-O 12. Nd5 Qd7 13. Nxe5 Bxe5 14. c3 h5 15. Qb3 c6 16. Rxf7 Qxf7
+17. Nb6+ axb6 18. Qxf7 Rhg8 19. d4 Bg7 20. Rf1 Kb8 21. Qe7 Bf8 22. Qxd8+ {
+Source: Cheltenham Chronicle, 13 May 1922} 1-0
+
+[Event "WECU Second Class A"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.??"]
+[Round "?"]
+[White "Gooding, Annie Mabel"]
+[Black "May, Edward Lupton"]
+[Result "1-0"]
+[ECO "C35"]
+[PlyCount "97"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. h4 d6 5. d4 Nc6 6. Bxf4 Bg4 7. Bb5 Bd7 8.
+Bxc6 Bxc6 9. d5 Bd7 10. Qd3 a6 11. c4 Bg4 12. Nbd2 Nf6 13. e5 Nh5 14. Qd4 Qd7
+15. Ng5 f6 16. e6 Qc8 17. Nf7 Rf8 18. Bxd6 Bxe6 19. Bxe7 Rxf7 20. Bb4 Bf5 21.
+O-O-O Qd7 22. Rde1+ Kd8 23. b3 b6 24. Qf2 Rb8 25. Qf3 g6 26. Re3 Bg4 27. Qe4
+Bf5 28. Qf3 Ng7 29. Rhe1 Bg4 30. Qf4 Qf5 31. Qh2 Kc8 32. Re7 Rxe7 33. Rxe7 Rb7
+34. Rxg7 Kb8 35. d6 Qe6 36. dxc7+ Ka7 37. Re7 Qc6 38. Bd6 Bf5 39. Rxh7 Qe8 40.
+Re7 Qc6 41. Rf7 Qe8 42. Re7 Qc6 43. Nf3 b5 44. Nd4 Qb6 45. Nxf5 Qf2 46. Ne3
+Qe1+ 47. Nd1 Qa5 48. Bc5+ Rb6 49. c8=N+ {Source: Cheltenham Chronicle, 29
+April 1922} 1-0
+
+[Event "WECU Third Class A"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.??"]
+[Round "?"]
+[White "Davies, George William"]
+[Black "Platt, Roger Oswald"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "49"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. Bg5 Bg4 7. Qd2 $2 {
+('Q-K2' but this must be wrong)} Bxf3 8. gxf3 Nd4 9. O-O-O $4 Nxf3 10. Qe2 Nxg5
+$19 11. Rdg1 {('R-Kt1')} Ne6 12. Bxe6 fxe6 13. Rxg7 Rg8 14. Rxg8+ Nxg8 15. Qh5+
+Kf8 16. Rg1 Qe7 17. Qf3+ Nf6 18. Nb5 Ke8 $4 19. Nxc7+ $18 Qxc7 20. Qxf6 Qf7 21.
+Qh8+ Ke7 22. Qxa8 Bxf2 23. Qxb7+ Ke8 24. Qxf7+ Kxf7 25. Rf1 {Source: Western
+Daily Press, 22 April 1922} 1-0
+
+[Event "WECU Third Class B"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.15"]
+[Round "1"]
+[White "Shorney, Herbert"]
+[Black "Davies, Mansel"]
+[Result "0-1"]
+[ECO "C50"]
+[PlyCount "122"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. O-O O-O 6. d3 d6 7. h3 {('P-R3')}
+h6 {('P-R3')} 8. a3 Bd7 9. Be3 Re8 10. Bxc5 {('RxB')} dxc5 11. Qe2 Nd4 12. Qd1
+Nxf3+ {('Kt-Kt')} 13. Qxf3 Be6 14. Ba2 Bxa2 15. Rxa2 Re6 16. a4 a5 17. b3 b6
+18. Ne2 Qd6 19. Raa1 {('R-R1')} Nd7 {('Kt-RQ2')} 20. Ng3 Rf6 {('R-B2')} 21. Qe3
+Nb8 22. Nf5 Qe6 {('R-K3')} 23. c4 {('QBp-B4')} Nc6 24. Rac1 {('R-B1')} Nd4 25.
+Rb1 Nxf5 26. exf5 Qxf5 27. Qe4 Rd8 {('R-R1')} 28. Qxf5 {('QxR')} Rxf5 {(RxR')}
+29. Rbd1 {('R-Q1')} Rf6 30. f3 Rfd6 {('R-Q3')} 31. Rfe1 Rxd3 32. Rxd3 Rxd3 33.
+Rb1 Re3 34. Rb2 e4 35. Kf2 Rd3 36. fxe4 Rd7 37. Ke3 Re7 38. Rd2 f5 39. h4 Rxe4+
+40. Kf3 g5 41. hxg5 hxg5 42. Rd8+ Kf7 43. Rd2 Rh4 44. Rd7+ Ke6 45. Rxc7 Kd6 46.
+Rc8 Rd4 47. Ke3 f4+ 48. Ke2 Re4+ 49. Kd2 Re3 50. Rd8+ Kc7 51. Rd3 Rxd3+ 52.
+Kxd3 Kd6 53. Ke4 {('K-K5')} Ke6 54. Kf3 Kf5 55. g4+ fxg3 56. Kxg3 g4 {('PxKt5')
+} 57. Kg2 Kf4 58. Kg1 Kg3 59. Kf1 Kh2 60. Ke2 g3 61. Ke3 g2 {Source: Western
+Daily Press, 18 April 1922. (Somewhat miraculously, given the appalling score
+and equally appalling moves played, I believe this to be an accurate
+reconstruction of the score! JS)} 0-1
+
+[Event "WECU Third Class B"]
+[Site "Weston-super-Mare"]
+[Date "1922.04.??"]
+[Round "?"]
+[White "Norman, Ronald Melville"]
+[Black "Vine, Leslie Edward"]
+[Result "1-0"]
+[ECO "D41"]
+[PlyCount "85"]
+[EventDate "1922.04.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2024.03.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2024.03.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 Nc6 8.
+Bd3 a6 9. O-O b5 10. Re1 Be7 11. e5 O-O 12. Be4 Bb7 13. a4 f5 14. Bb1 cxd4 15.
+cxd4 b4 16. Ba2 Qd7 17. d5 exd5 18. Bxd5+ Kh8 19. Bb2 Rad8 20. Bb3 Na5 21. Qxd7
+Rxd7 22. Be6 Rc7 23. Nd4 g6 24. Rac1 Bd8 25. Rxc7 Bxc7 26. Ba2 h6 27. e6 Kh7
+28. e7 Re8 29. Bf7 Rxe7 30. Rxe7 Bd8 31. Bg8+ Kxg8 32. Re8+ Kf7 33. Rxd8 Be4
+34. Rd7+ Ke8 35. Rd6 Nc4 36. Re6+ Kf7 37. Bc1 a5 38. Ra6 Bd3 39. Bxh6 Nb2 40.
+Rxa5 b3 41. Ra7+ Kf6 42. Bg7+ Kg5 43. Nf3+ {Source: Western Daily Press, 20
+April 1922. White player was a local, aged 17.} 1-0
+

@@ -39,20 +39,48 @@
         }
 
         .move-cell.active-move {
-            background-color: #0d6efd !important;
-            color: #ffffff !important;
-            font-weight: 600;
+                background-color: #0d6efd !important;
+                color: #ffffff !important;
+                font-weight: 600;
+            }
+
+                .move-cell.active-move .piece-glyph {
+                    color: #ffffff !important;
+                }
+
+                .move-cell.active-move .eval-badge {
+                    color: rgba(255, 255, 255, 0.85) !important;
+                }
+
+        .board-controls {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.65rem;
+            margin-top: 1rem;
         }
 
-            .move-cell.active-move .piece-glyph {
-                color: #ffffff !important;
+            .board-controls .btn {
+                min-width: 76px;
+                min-height: 44px;
+                padding: 0.68rem 1rem;
+                font-size: 1rem;
+                border-radius: 0.8rem;
+                font-weight: 600;
             }
 
-            .move-cell.active-move .eval-badge {
-                color: rgba(255, 255, 255, 0.85) !important;
+        @@media (max-width: 576px) {
+            .board-controls {
+                gap: 0.5rem;
             }
 
-    .piece-glyph {
+                .board-controls .btn {
+                    min-width: 68px;
+                    flex: 1 1 42%;
+                }
+        }
+
+        .piece-glyph {
         font-size: 1.05rem;
         font-weight: normal;
         margin-right: 1px;
@@ -84,7 +112,7 @@
                 <div id="board" style="width: 380px; max-width: 100%; margin: 0 auto;"></div>
 
                 <!-- Navigation Controls -->
-                <div class="btn-group mt-3" role="group">
+                <div class="board-controls" role="group" aria-label="Move controls">
                     <button id="btn-start" class="btn btn-outline-secondary" title="First move">&laquo;</button>
                     <button id="btn-prev" class="btn btn-outline-secondary" title="Previous move">&lsaquo;</button>
                     <button id="btn-flip" class="btn btn-outline-secondary" title="Flip board">&#8645;</button>
