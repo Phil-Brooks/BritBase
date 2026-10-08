@@ -41,7 +41,8 @@ else
                             <button class="btn btn-sm btn-outline-primary"
                                     hx-get="/Index?handler=LoadGame&id=@game.Id"
                                     hx-target="#game-viewer-panel"
-                                    hx-swap="innerHTML">
+                                    hx-swap="innerHTML"
+                                    data-game-id="@game.Id">
                                 Load &amp; Play
                             </button>
                         </td>

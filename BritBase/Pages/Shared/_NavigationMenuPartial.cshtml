@@ -81,11 +81,10 @@
 <!-- Tournaments Hubs -->
 <div class="nav-section-title">Major Fixtures</div>
 <nav class="nav flex-column">
-    <a class="nav-link" href="/Index"
-        hx-get="/Index?handler=FilterCategory&category=Hastings"
-        hx-target="#game-list-container"
-        data-bs-dismiss="offcanvas">
-        <i class="bi bi-flag"></i> Hastings
+    <a class="nav-link" href="/Hastings"
+         data-bs-dismiss="offcanvas"
+         onclick="window.location.href='/Hastings'; return false;">
+         <i class="bi bi-flag"></i> Hastings
     </a>
     <a class="nav-link" href="/Index"
         hx-get="/Index?handler=FilterCategory&category=Varsity"

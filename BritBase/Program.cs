@@ -13,6 +13,8 @@ if (!builder.Environment.IsDevelopment())
 builder.Services.AddRazorPages(options =>
 {
     options.Conventions.AddPageRoute("/WhatsNew", "whatsnew.html");
+    options.Conventions.AddPageRoute("/Hastings", "hastings.htm");
+    options.Conventions.AddPageRoute("/Hastings", "hastings.html");
 });
 builder.Services.AddSingleton<BritBase.Services.PgnService>();
 

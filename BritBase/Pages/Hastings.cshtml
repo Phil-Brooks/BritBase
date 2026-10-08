@@ -1,0 +1,153 @@
+@page "/Hastings"
+@model BritBase.Pages.HastingsModel
+@{
+    ViewData["Title"] = "Hastings Congress PGN Game Downloads";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-12 col-xl-11">
+            <div class="card shadow-sm border-0">
+                <div class="card-body p-4 p-md-5">
+                    <h1 class="h3 fw-bold mb-2">BritBase.info - British Chess Game Archive</h1>
+                    <h2 class="h4 mb-3">Hastings Congress PGN Game Downloads</h2>
+
+                    <p class="text-muted mb-3">
+                        <strong>Last Updated:</strong> Wednesday April 8, 2026 3:03 PM
+                    </p>
+
+                    <p class="mb-4">
+                        The following is a collection of all games played at the Hastings Xmas/New Year Congress from its beginning in 1920/1 to the present.
+                    </p>
+
+                    <p class="mb-4">
+                        <em>Hastings Congress Files, Year by Year (includes games from subsidiary sections)</em>
+                    </p>
+
+                    <div id="game-viewer-panel" class="mb-4"></div>
+                    <div id="tournament-games-container" class="mb-4"></div>
+
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover align-middle mb-4">
+                            <thead class="table-light">
+                                <tr>
+                                    <th style="width: 6%;">No.</th>
+                                    <th style="width: 18%;">Viewer</th>
+                                    <th style="width: 26%;">Winner(s)</th>
+                                    <th style="width: 12%;">Premier Games</th>
+                                    <th style="width: 20%;">Venue</th>
+                                    <th style="width: 18%;">Link to PGN</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.Tournaments)
+                                {
+                                    <tr>
+                                        <td>@(item.Number > 0 ? item.Number.ToString() : "")</td>
+                                        <td>
+                                            @if (!string.IsNullOrWhiteSpace(item.PgnFileName))
+                                            {
+                                                <button class="btn btn-link p-0 text-start fw-semibold text-decoration-none"
+                                                        hx-get="/Hastings?handler=TournamentGames&pgnFile=@Uri.EscapeDataString(item.PgnFileName)&tournamentName=@Uri.EscapeDataString(item.Year)"
+                                                        hx-target="#tournament-games-container"
+                                                        hx-swap="innerHTML"
+                                                        title="View games for @item.Year">
+                                                    @item.Year
+                                                </button>
+                                            }
+                                            else if (!string.IsNullOrWhiteSpace(item.ViewerUrl))
+                                            {
+                                                <a href="@item.ViewerUrl" target="_blank" rel="noreferrer">@item.Year</a>
+                                            }
+                                            else
+                                            {
+                                                @item.Year
+                                            }
+                                        </td>
+                                        <td>@item.Winner</td>
+                                        <td>@(string.IsNullOrWhiteSpace(item.PremierGames) ? "" : item.PremierGames)</td>
+                                        <td>@item.Venue</td>
+                                        <td>
+                                            @if (!string.IsNullOrWhiteSpace(item.PgnUrl))
+                                            {
+                                                <a href="@item.PgnUrl" target="_blank" rel="noreferrer">PGN</a>
+                                            }
+                                            else if (string.IsNullOrWhiteSpace(item.Year))
+                                            {
+                                                <span class="text-muted">&nbsp;</span>
+                                            }
+                                            else
+                                            {
+                                                <span class="text-muted">PGN</span>
+                                            }
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <p class="mt-4 mb-3">
+                        Note that this does not include the <a href="/Hastings?handler=ViewPgn&file=189508hast.pgn" target="_blank" rel="noreferrer">famous Hastings tournament of 1895</a> which is not considered to be part of this series, nor one or two other competitions which have been played in Hastings from time to time. Note also that there were no tournaments played between 1940/1 and 1944/5 inclusively. Official Hastings Congress website: <a href="http://www.hastingschess.com/" target="_blank" rel="noreferrer">www.hastingschess.com</a> and prior to that <a href="http://www.hastingschess.org.uk/" target="_blank" rel="noreferrer">www.hastingschess.org.uk</a>
+                    </p>
+
+                    <p>
+                        Though the files contain a game entry and result for every game played in the all-play-all Premier tournaments, there are still many missing and incomplete game scores. Player names and game results have been thoroughly cross-checked against printed sources and a great many corrections and additions made to results and scores as published in ChessBase's Mega/Big Databases and elsewhere.
+                    </p>
+
+                    <p class="fw-semibold">
+                        2003/04 was the last all-play-all Hastings Premier for which all games were recorded.
+                    </p>
+
+                    <hr class="my-4" />
+
+                    <h3 class="h5 fw-bold">Venues of Hastings Congresses*</h3>
+                    <p class="mb-1">1920 - Hastings Chess Club</p>
+                    <p class="mb-1">1921-29 - Hastings Town Hall</p>
+                    <p class="mb-1">1930 - Waverley Hotel</p>
+                    <p class="mb-1">1931-53 - White Rock Pavilion</p>
+                    <p class="mb-1">1954-65 - Sun Lounge, St Leonards-on-Sea</p>
+                    <p class="mb-1">1966-74 - Falaise Hall, White Rock Gardens</p>
+                    <p class="mb-1">1975-89 - White Rock Pavilion</p>
+                    <p class="mb-1">1989-2000 - Cinque Ports Hotel</p>
+                    <p class="mb-1">2000-present - Horntye Park</p>
+
+                    <hr class="my-4" />
+
+                    <h3 class="h5 fw-bold">Premier Tournaments: Missing and Incomplete Game Scores</h3>
+                    <p>
+                        Premier tournaments from 1959/60 onwards are complete in terms of game scores. However, there are significant gaps before this time. Numbers of missing/incomplete game scores are shown in brackets: 1920/1 (2), 1922/3 (16), 1925/6 (18), 1927/8 (15), 1929/30 (20), 1930/1 (12), 1931/2 (18), 1933/4 (1), 1939/40 (19), 1947/8 (32), 1958/9 (25). <strong>Anyone who can help with finding these missing scores, or who identify any inaccuracies in the downloads, should contact John Saunders via email.</strong>
+                    </p>
+
+                    <hr class="my-4" />
+
+                    <h3 class="h5 fw-bold">File Updated</h3>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-sm">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Notes</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>19 September 2003</td><td>Added Mackenzie-Morry (1939/40): many thanks to Brian Denman for supplying the score.</td></tr>
+                                <tr><td>10 October 2003</td><td>1948/9 games amended to show W Arthur Winser rather than William Winter. Name change passim to Victor Buerger. Also notes added to Norman/Tartakower from the 1924-25 Hastings, and Michell/Menchik from Hastings 1931-32.</td></tr>
+                                <tr><td>16 November 2003</td><td>Winser-Horne Hastings Premier 1949/50 Black's 14...Rb8 amended to 14..Re8 as suggested by Brian Denman. Also, Winser-Barda, Hastings Premier 1949/50 - Black lost on time. My thanks to Brian Denman.</td></tr>
+                                <tr><td>19 April 2004</td><td>Many thanks to Bernard Cafferty who has loaned me the published bulletin of Hastings 1952/3 which had all the games of the Premier. This was one of three missing post-war Hastings Premiers, so that only leaves 1947/48 and 1958/59 still to find.</td></tr>
+                                <tr><td>11 May 2004</td><td>Many thanks to Andy Ansel who has found four of the missing 1947/8 games. I've added another from the same tournament which appeared in BCM in 1948.</td></tr>
+                                <tr><td>23 July 2006</td><td>Updated to show round numbers for the 1988/89 tournament.</td></tr>
+                                <tr><td>4 December 2007</td><td>DGT viewer added, files divided into decades. The game Smejkal-Clarke (1968/69) corrected to show Smejkal winning with White.</td></tr>
+                                <tr><td>26 October 2013</td><td>Java viewers have been removed as these are incompatible with modern browsers.</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <p class="mt-4 mb-0">
+                        <a href="/Home" class="btn btn-outline-secondary btn-sm">Back to BritBase</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

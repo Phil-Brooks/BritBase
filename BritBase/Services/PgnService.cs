@@ -107,6 +107,19 @@ public class PgnService
                     if (currentGame != null)
                     {
                         currentGame.Moves = CleanMoves(movesBuilder.ToString());
+                        if (string.IsNullOrWhiteSpace(currentGame.Id))
+                        {
+                            currentGame.Id = ChessGame.CreateStableId(
+                                currentGame.SourceFile,
+                                currentGame.Event,
+                                currentGame.Site,
+                                currentGame.Date,
+                                currentGame.Round,
+                                currentGame.White,
+                                currentGame.Black,
+                                currentGame.Result,
+                                currentGame.Eco);
+                        }
                         result.Add(currentGame);
                         movesBuilder.Clear();
                     }
@@ -145,6 +158,18 @@ public class PgnService
         if (currentGame != null)
         {
             currentGame.Moves = CleanMoves(movesBuilder.ToString());
+            currentGame.Id = string.IsNullOrWhiteSpace(currentGame.Id)
+                ? ChessGame.CreateStableId(
+                    currentGame.SourceFile,
+                    currentGame.Event,
+                    currentGame.Site,
+                    currentGame.Date,
+                    currentGame.Round,
+                    currentGame.White,
+                    currentGame.Black,
+                    currentGame.Result,
+                    currentGame.Eco)
+                : currentGame.Id;
             result.Add(currentGame);
         }
 
