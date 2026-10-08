@@ -1,49 +1,21 @@
-﻿<!-- Main -->
+<!-- Main -->
 <div class="nav-section-title">Overview</div>
 <nav class="nav flex-column">
-    <a class="nav-link" href="/" data-bs-dismiss="offcanvas">
+    <a class="nav-link" href="/Home"
+       data-bs-dismiss="offcanvas"
+       onclick="window.location.href='/Home'; return false;">
         <i class="bi bi-house"></i> Home
     </a>
-</nav>
-
-<!-- Tournaments Hubs -->
-<div class="nav-section-title">Major Fixtures</div>
-<nav class="nav flex-column">
-    <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=FilterCategory&category=British Championship"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
-        <i class="bi bi-trophy"></i> British Champions
-    </a>
-    <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=FilterCategory&category=Hastings"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
-        <i class="bi bi-flag"></i> Hastings Premier
-    </a>
-    <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=FilterCategory&category=Varsity"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
-        <i class="bi bi-mortarboard"></i> Varsity Matches
-    </a>
-    <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=FilterCategory&category=Gibraltar"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
-        <i class="bi bi-geo-alt"></i> Gibraltar Masters
-    </a>
-    <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=FilterCategory&category=Isle of Man"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
-        <i class="bi bi-water"></i> Isle of Man
+    <a class="nav-link" href="/WhatsNew"
+        data-bs-dismiss="offcanvas"
+        onclick="window.location.href='/WhatsNew'; return false;">
+        <i class="bi bi-newspaper"></i> What's New
     </a>
 </nav>
 
 <!-- Decades Filter -->
 <div class="nav-section-title">Decades</div>
-<div class="px-2 pt-1 pb-2">
+<div class="px-2 pt-1 pb-2 decade-list">
     <a href="/Decade2020"
         class="decade-badge bg-primary text-white"
         data-bs-dismiss="offcanvas"
@@ -95,36 +67,85 @@
        onclick="window.location.href='/Decade1930'; return false;"
        aria-label="Open 1930s tournaments page">1930s</a>
     <a href="/Decade1920"
-        class="decade-badge bg-primary text-white"
-        data-bs-dismiss="offcanvas"
-        onclick="window.location.href='/Decade1920'; return false;"
-        aria-label="Open 1920s tournaments page">1920s</a>
+         class="decade-badge bg-primary text-white"
+         data-bs-dismiss="offcanvas"
+         onclick="window.location.href='/Decade1920'; return false;"
+         aria-label="Open 1920s tournaments page">1920s</a>
     <a href="/DecadePre1920"
-        class="decade-badge bg-primary text-white"
-        data-bs-dismiss="offcanvas"
-        onclick="window.location.href='/DecadePre1920'; return false;"
-        aria-label="Open pre-1920 tournaments page">Pre-1920s</a>
+         class="decade-badge bg-primary text-white"
+         data-bs-dismiss="offcanvas"
+         onclick="window.location.href='/DecadePre1920'; return false;"
+         aria-label="Open pre-1920 tournaments page">Pre-1920s</a>
 </div>
 
-<!-- Special Collections -->
-<div class="nav-section-title">Special Collections</div>
+<!-- Tournaments Hubs -->
+<div class="nav-section-title">Major Fixtures</div>
 <nav class="nav flex-column">
     <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=Search&query=Sultan Khan"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
-        <i class="bi bi-person"></i> Sultan Khan
+        hx-get="/Index?handler=FilterCategory&category=Hastings"
+        hx-target="#game-list-container"
+        data-bs-dismiss="offcanvas">
+        <i class="bi bi-flag"></i> Hastings
     </a>
     <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=Search&query=Penrose"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
-        <i class="bi bi-person"></i> Jonathan Penrose
+        hx-get="/Index?handler=FilterCategory&category=Varsity"
+        hx-target="#game-list-container"
+        data-bs-dismiss="offcanvas">
+        <i class="bi bi-mortarboard"></i> Varsity Matches
     </a>
     <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=Search&query=Chandler"
+        hx-get="/Index?handler=FilterCategory&category=Gibraltar"
+        hx-target="#game-list-container"
+        data-bs-dismiss="offcanvas">
+        <i class="bi bi-geo-alt"></i> Gibraltar
+    </a>
+    <a class="nav-link" href="/Index"
+        hx-get="/Index?handler=FilterCategory&category=Isle of Man"
+        hx-target="#game-list-container"
+        data-bs-dismiss="offcanvas">
+        <i class="bi bi-water"></i> Isle of Man
+    </a>
+</nav>
+
+<!-- Collections -->
+<div class="nav-section-title">Collections</div>
+<nav class="nav flex-column">
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=Search&query=Player Collections"
        hx-target="#game-list-container"
        data-bs-dismiss="offcanvas">
-        <i class="bi bi-person"></i> Murray Chandler
+        <i class="bi bi-people"></i> Player Collections
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=FilterCategory&category=British Championship"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-trophy"></i> British Champions
+    </a>
+    <a class="nav-link" href="/Index" data-bs-dismiss="offcanvas">
+        <i class="bi bi-book"></i> BritBase Library
+    </a>
+    <a class="nav-link" href="/Index"
+       hx-get="/Index?handler=Search&query=Ronnie Ives"
+       hx-target="#game-list-container"
+       data-bs-dismiss="offcanvas">
+        <i class="bi bi-person-badge"></i> Ronnie Ives
+    </a>
+</nav>
+
+<!-- Other -->
+<div class="nav-section-title">Other</div>
+<nav class="nav flex-column">
+    <a class="nav-link" href="/Index" data-bs-dismiss="offcanvas">
+        <i class="bi bi-link-45deg"></i> Links
+    </a>
+    <a class="nav-link" href="/Index" data-bs-dismiss="offcanvas">
+        <i class="bi bi-pencil-square"></i> Corrections
+    </a>
+    <a class="nav-link" href="/Index" data-bs-dismiss="offcanvas">
+        <i class="bi bi-question-circle"></i> FAQ
+    </a>
+    <a class="nav-link" href="/Index" data-bs-dismiss="offcanvas">
+        <i class="bi bi-envelope"></i> Contact
     </a>
 </nav>

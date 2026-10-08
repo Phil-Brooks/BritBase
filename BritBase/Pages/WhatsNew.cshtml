@@ -1,0 +1,88 @@
+@page "/WhatsNew"
+@model BritBase.Pages.WhatsNewModel
+@{
+    ViewData["Title"] = "What's New";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-xl-9">
+            <div class="card shadow-sm border-0">
+                <div class="card-body p-4 p-md-5">
+                    <h1 class="display-6 fw-bold mb-2">BritBase.info - British Chess Game Archive</h1>
+                    <h2 class="h4 mb-3">What's New</h2>
+                    <p class="text-muted mb-4">
+                        <em>n.b.</em> <a href="/Home">record of earlier updates here</a>
+                    </p>
+
+                    <div class="news-list">
+                        @foreach (var update in Model.Updates)
+                        {
+                            <article class="news-item border rounded-3 p-3 mb-3 bg-light-subtle">
+                                <div class="row g-3 align-items-start">
+                                    <div class="col-md-3 col-lg-2 col-xl-1-5" style="min-width: 96px;">
+                                        <div class="fw-semibold text-primary">@update.Date</div>
+                                    </div>
+                                    <div class="col-md-9 col-lg-10 col-xl-10-5">
+                                        <div class="d-flex flex-column flex-lg-row justify-content-between gap-2">
+                                            <div class="fw-semibold fs-6">
+                                                @if (!string.IsNullOrWhiteSpace(update.Link))
+                                                {
+                                                    <a href="@update.Link" target="_blank" rel="noreferrer">@update.Tournament</a>
+                                                }
+                                                else
+                                                {
+                                                    @update.Tournament
+                                                }
+                                            </div>
+                                            <div class="text-muted small text-lg-end">@update.Winner</div>
+                                        </div>
+
+                                        <div class="mt-2 text-body-secondary">
+                                            @if (!string.IsNullOrWhiteSpace(update.Notes))
+                                            {
+                                                @Html.Raw(update.Notes)
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .news-list {
+        font-size: 0.98rem;
+    }
+
+    .news-item {
+        border-color: rgba(13, 110, 253, 0.08) !important;
+    }
+
+    .news-item a {
+        text-decoration: none;
+    }
+
+    .news-item a:hover {
+        text-decoration: underline;
+    }
+
+    .col-xl-1-5 {
+        flex: 0 0 12.5%;
+        max-width: 12.5%;
+    }
+
+    .col-xl-10-5 {
+        flex: 0 0 87.5%;
+        max-width: 87.5%;
+    }
+
+    .text-body-secondary {
+        color: #495057 !important;
+    }
+</style>

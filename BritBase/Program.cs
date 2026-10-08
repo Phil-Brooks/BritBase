@@ -10,7 +10,10 @@ if (!builder.Environment.IsDevelopment())
     });
 }
 // Add services to the container.
-builder.Services.AddRazorPages();
+builder.Services.AddRazorPages(options =>
+{
+    options.Conventions.AddPageRoute("/WhatsNew", "whatsnew.html");
+});
 builder.Services.AddSingleton<BritBase.Services.PgnService>();
 
 var app = builder.Build();
@@ -29,8 +32,10 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.MapGet("/", () => Results.Redirect("/Home"));
+
 app.MapStaticAssets();
 app.MapRazorPages()
-   .WithStaticAssets();
+    .WithStaticAssets();
 
 app.Run();
