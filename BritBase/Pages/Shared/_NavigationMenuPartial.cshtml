@@ -44,7 +44,11 @@
 <!-- Decades Filter -->
 <div class="nav-section-title">Decades</div>
 <div class="px-2 pt-1 pb-2">
-    <a href="/Index" class="decade-badge" hx-get="/Index?handler=FilterDecade&decade=202" hx-target="#game-list-container" data-bs-dismiss="offcanvas">2020+</a>
+    <a href="/Decade2020"
+        class="decade-badge bg-primary text-white"
+        data-bs-dismiss="offcanvas"
+        onclick="window.location.href='/Decade2020'; return false;"
+        aria-label="Open 2020s tournaments page">2020s</a>
     <a href="/Decade2010"
         class="decade-badge bg-primary text-white"
         data-bs-dismiss="offcanvas"

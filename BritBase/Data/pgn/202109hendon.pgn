@@ -1,0 +1,452 @@
+﻿[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.17"]
+[Round "1.1"]
+[White "Aagaard, Jacob"]
+[Black "Ternault, Mathieu"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2477"]
+[BlackElo "2345"]
+[PlyCount "98"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Ne2
+Be7 9. c3 O-O 10. h4 cxd4 11. cxd4 Nb6 12. b3 Bd7 13. Kf2 Rc8 14. a3 Na7 15.
+Rh3 Nb5 16. a4 Na3 17. Ne1 Qc7 18. Ra2 f6 19. Kg1 Be8 20. h5 Bb4 21. Nd3 a5 22.
+Nc5 Qe7 23. h6 Bg6 24. hxg7 Rf7 25. exf6 Qxf6 26. Ng3 Nb1 27. Rf2 Nc3 28. Qg4
+Rxc5 29. dxc5 d4 30. Nh5 Qd8 31. Rd2 Bxc5 32. f5 Bxf5 33. Rxd4 Nbd5 34. Qg3
+Bxh3 35. Qxh3 Qb6 36. Bd3 Nxe3 37. Nf6+ Kxg7 38. Qxh7+ Kxf6 39. Qh4+ Ke5 40.
+Qh8+ Rf6 41. Rd7 Ned5+ 42. Kh1 Qxb3 43. Bf1 Qd1 44. Qh2+ Rf4 45. Qh8+ Ke4 46.
+Qh7+ Ke3 47. Qh3+ Kf2 48. Kh2 Qxf1 49. Rd8 Qg1# 0-1
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.17"]
+[Round "1.2"]
+[White "Chan, Kim Yew"]
+[Black "Kirk, Ezra"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2303"]
+[BlackElo "2426"]
+[PlyCount "119"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 Bf5 8. Ne1
+e5 9. d5 Ne7 10. e4 Bg4 11. f3 Bd7 12. Nd3 Nh5 13. g4 Nf6 14. Be3 Ne8 15. h3 f5
+16. c5 Kh8 17. Rc1 Ng8 18. Qd2 f4 19. Bf2 Bf6 20. b4 h5 21. b5 hxg4 22. hxg4
+Rf7 23. c6 bxc6 24. dxc6 Be6 25. Nb4 Rh7 26. Nbd5 Bh4 27. Qe1 Bg5 28. a4 Nef6
+29. Qe2 Qf8 30. Rfd1 Qh6 31. Nxc7 Rxc7 32. Rxd6 Bxg4 33. fxg4 f3 34. Qxf3 Bxc1
+35. Rxf6 Nxf6 36. Qxf6+ Kh7 37. Nd5 Rf8 38. Qxe5 Rcf7 39. Bc5 Bd2 40. Bxf8 Qxf8
+41. c7 Qc5+ 42. Kh1 Qc1+ 43. Kh2 Ba5 44. Nf6+ Rxf6 45. Qe7+ Kh6 46. Qxf6 Bxc7+
+47. Kh3 Qe3+ 48. Bf3 Qc5 49. g5+ Kh7 50. Qf7+ Kh8 51. Qf6+ Kh7 52. Qf7+ Kh8 53.
+Qxg6 Be5 54. Qf7 Qc8+ 55. Qf5 Qe8 56. Kg4 Qe7 57. Be2 Qc5 58. Kh5 Kg7 59. Bc4
+Qxc4 60. Qxe5+ 1-0
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.17"]
+[Round "1.3"]
+[White "Eggleston, David J"]
+[Black "Domenech, Vianney"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2381"]
+[BlackElo "2254"]
+[PlyCount "78"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4 4. Be2 Nc6 5. d4 O-O-O 6. Be3 e5 7. c4 Qa5+ 8.
+Bd2 Bb4 9. d5 Bxf3 10. Bxf3 Nd4 11. Nc3 Qa6 12. b3 Qa5 13. Rc1 Nf6 14. O-O Kb8
+15. Re1 Nd7 16. a3 Qxa3 17. Nb5 Nxb5 18. Ra1 Qxa1 19. Qxa1 Bxd2 20. cxb5 Bxe1
+21. Qxe1 f5 22. Be2 Nf6 23. Bc4 Rhe8 24. Qd2 h6 25. g3 Rd6 26. h4 f4 27. gxf4
+exf4 28. Qxf4 Re4 29. Qh2 Nxd5 30. Qg2 Nf6 31. f3 Rd1+ 32. Kh2 Rxh4+ 33. Kg3
+Rhh1 34. Qc2 Nh5+ 35. Kg4 g6 36. f4 Rd4 37. Kf3 Rh3+ 38. Kg2 Rg3+ 39. Kh2 Rxf4
+0-1
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.17"]
+[Round "1.4"]
+[White "Hill, Alistair"]
+[Black "Taylor, Adam C"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[WhiteElo "2254"]
+[BlackElo "2347"]
+[PlyCount "37"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. Be2 Be7 14. O-O O-O
+15. Rb3 Qc5+ 16. Be3 Qe5 17. Bf4 Qc5+ 18. Be3 Qe5 19. Bf4 1/2-1/2
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "2.1"]
+[White "Ternault, Mathieu"]
+[Black "Chan, Kim Yew"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "2345"]
+[BlackElo "2303"]
+[PlyCount "110"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 Nc6 5. Nbd2 d5 6. c3 Bd6 7. Bg3 O-O 8. Bd3
+b6 9. e4 Be7 10. e5 Nh5 11. Ng5 Bxg5 12. Qxh5 g6 13. Qe2 cxd4 14. h4 Bh6 15. h5
+dxc3 16. bxc3 Bg7 17. Nf3 Qe7 18. Bf4 Bb7 19. Rc1 Rac8 20. Kf1 Qa3 21. Qd2 d4
+22. Bh6 dxc3 23. Qg5 Qe7 24. Qf4 Qb4 25. Qh2 Bxh6 26. hxg6 Qf4 27. gxf7+ Rxf7
+28. Qxh6 Qxh6 29. Rxh6 Nb4 30. Bc2 Nxc2 31. Rxc2 Bxf3 32. gxf3 Rc6 33. Ke2 Rf5
+34. f4 Rxf4 35. Ke3 Rg4 36. f4 Kg7 37. Rh1 Kg6 38. Rch2 c2 39. Rh6+ Kf7 40.
+Rxh7+ Rg7 41. Rxg7+ Kxg7 42. Rg1+ Kf7 43. Rc1 Kg6 44. Rg1+ Kf7 45. Rc1 b5 46.
+Ke2 Rc7 47. Ke3 a6 48. Kf3 Rc3+ 49. Ke4 a5 50. Kd4 b4 51. f5 exf5 52. Kd5 Ke7
+53. e6 f4 54. Ke5 f3 55. Rh1 Rc5+ 0-1
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "2.2"]
+[White "Domenech, Vianney"]
+[Black "Hill, Alistair"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[WhiteElo "2254"]
+[BlackElo "2254"]
+[PlyCount "89"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bd3
+O-O 9. Nd2 Ng4 10. Be2 f5 11. exf5 gxf5 12. Bxg4 fxg4 13. Nde4 Nd7 14. Qxg4 Nf6
+15. Nxf6+ Qxf6 16. Qg3 b5 17. O-O b4 18. Ne4 Qe5 19. Re1 Bb7 20. Qxe5 Bxe5 21.
+Nxc5 Bd4 22. Nd3 Bxd5 23. Be3 Bxe3 24. Rxe3 a5 25. a3 b3 26. f3 Rac8 27. Ne1
+Bc4 28. Rd1 d5 29. Kf2 Kf7 30. Rd4 Rfe8 31. Rxe8 Rxe8 32. Nd3 Ke6 33. f4 Rc8
+34. Ne1 Kd6 35. g4 Kc5 36. Nf3 Re8 37. Rd2 Re4 38. Kg3 d4 39. f5 Bd5 40. Rf2 d3
+41. Nd2 Re3+ 42. Kf4 Re2 43. Kg3 Re3+ 44. Kf4 Re2 45. Kg3 1/2-1/2
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "2.3"]
+[White "Taylor, Adam C"]
+[Black "Aagaard, Jacob"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2347"]
+[BlackElo "2477"]
+[PlyCount "54"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 e6 5. Qc2 Nbd7 6. cxd5 exd5 7. Bd3 Bd6 8.
+Nc3 O-O 9. O-O Re8 10. h3 a6 11. Rd1 Qe7 12. Nd2 c5 13. e4 dxe4 14. Ndxe4 cxd4
+15. Nxd6 Qxd6 16. Be3 Ne5 17. Bxd4 Nxd3 18. Qxd3 Bd7 19. Qd2 Bc6 20. Qg5 h6 21.
+Qh4 Ne4 22. f3 Ng5 23. Be3 Qe5 24. Bxg5 hxg5 25. Qd4 f6 26. Qxe5 Rxe5 27. Re1
+Rxe1+ 1/2-1/2
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "2.4"]
+[White "Kirk, Ezra"]
+[Black "Eggleston, David J"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2426"]
+[BlackElo "2381"]
+[PlyCount "83"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Bh4 Be7 8.
+Nxf6+ Bxf6 9. Bxf6 Nxf6 10. Bc4 O-O 11. Qe2 b6 12. O-O-O Bb7 13. Kb1 Qd6 14.
+Rhg1 c5 15. g4 Qf4 16. Ne5 cxd4 17. h4 Ne4 18. Nd3 Qf6 19. g5 hxg5 20. hxg5
+Nxg5 21. f4 Ne4 22. Rg4 Rfc8 23. Ne5 Rc7 24. Rdg1 Kf8 25. Bd3 Nc5 26. Rxg7 Qxg7
+27. Rxg7 Kxg7 28. Qg4+ Kf8 29. Bh7 Rac8 30. f5 Ke7 31. Qxd4 Nd7 32. Qh4+ Ke8
+33. Nxf7 Kxf7 34. Bg6+ Kg7 35. Qe7+ Kh6 36. Qh4+ Kg7 37. fxe6 Rh8 38. Bh5 Rxh5
+39. Qxh5 Be4 40. exd7 Bxc2+ 41. Ka1 Bg6 42. Qe5+ 1-0
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "3.1"]
+[White "Chan, Kim Yew"]
+[Black "Domenech, Vianney"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2303"]
+[BlackElo "2254"]
+[PlyCount "109"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 e6 4. c4 Nf6 5. O-O Be7 6. Nc3 O-O 7. Re1 c5 8. e4
+d6 9. d4 cxd4 10. Nxd4 Qc8 11. Be3 Nc6 12. Nxc6 Bxc6 13. Rc1 Rd8 14. Nd5 Qb7
+15. Nxe7+ Qxe7 16. Qd3 Nd7 17. Rcd1 Nc5 18. Qb1 Qb7 19. f3 b5 20. Rc1 a5 21.
+Red1 Rab8 22. Rd2 bxc4 23. Rxc4 Na4 24. Qc2 Nc5 25. b3 Bb5 26. Rc3 Na6 27. Qd1
+Qe7 28. a3 h6 29. f4 Qf6 30. Rc1 Qe7 31. h3 d5 32. exd5 exd5 33. Bf2 Qxa3 34.
+Bxd5 Qe7 35. Bg2 Rxd2 36. Qxd2 Nb4 37. Bc5 Qe6 38. Qd6 Qxd6 39. Bxd6 Rd8 40.
+Bc7 Rc8 41. Bb7 Nd3 42. Rc2 Re8 43. Bxa5 Re3 44. Kh2 g5 45. fxg5 hxg5 46. Bg2
+Ne5 47. Bd8 g4 48. hxg4 Nxg4+ 49. Kh3 Bd7 50. Kh4 Nh6 51. Kg5 Re6 52. Bf6 Ng4
+53. Bd4 Ne3 54. Bxe3 Rxe3 55. Kf4 1/2-1/2
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "3.2"]
+[White "Hill, Alistair"]
+[Black "Kirk, Ezra"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "2254"]
+[BlackElo "2426"]
+[PlyCount "106"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 9. Bd3 Nxd5 10. exd5 Ne7 11. c4 g6 12. cxb5 Bg7 13. O-O O-O 14. bxa6 Bxa6
+15. Bc4 Qc7 16. Qe2 Bxc4 17. Qxc4 Qb6 18. Rd1 Nf5 19. Qb5 Qa7 20. Nc2 Rfc8 21.
+Nb4 Nd4 22. Qd3 e4 23. Qxe4 Re8 24. Qd3 Ne2+ 25. Kf1 Nxc1 26. Raxc1 Bxb2 27.
+Rc2 Ba3 28. Nc6 Qa4 29. g3 Bc5 30. Kg2 h5 31. Rdd2 Qg4 32. Rc4 Qd7 33. a4 Re1
+34. Re2 Rxe2 35. Qxe2 Kg7 36. Qb2+ Kh7 37. Qf6 Re8 38. Rf4 Kg8 39. Nd4 Bxd4 40.
+Rxd4 Re5 41. Qf3 Qa7 42. Qc3 Qa6 43. a5 Qb5 44. Qd2 Re2 45. Qc3 Ra2 46. Qc6
+Rxa5 47. Qxd6 Ra1 48. Qf4 Qf1+ 49. Kf3 Ra3+ 50. Ke4 Qe2+ 51. Qe3 f5+ 52. Kf4
+Rxe3 53. fxe3 Qf2+ 0-1
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "3.3"]
+[White "Ternault, Mathieu"]
+[Black "Taylor, Adam C"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2345"]
+[BlackElo "2347"]
+[PlyCount "100"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bf4 a6 8. a4
+Bg7 9. e3 Qe7 10. h3 Ne4 11. Nxe4 Qxe4 12. Bxd6 Qb4+ 13. Nd2 Bf5 14. Rc1 Qxb2
+15. g4 Bd7 16. Bxc5 Qa2 17. Bc4 Qxa4 18. Qf3 f5 19. Qf4 Qa5 20. Bd6 Qd8 21. Bd3
+Qa5 22. Ke2 Qxd5 23. Bxb8 fxg4 24. Bd6 gxh3 25. f3 Rd8 26. Rc5 g5 27. Qg3 Qe6
+28. Bc4 Bb5 29. Rxb5 Qxd6 30. Qxd6 Rxd6 31. Rxb7 Rd7 32. Bxa6 Rxb7 33. Bxb7 h5
+34. Rxh3 g4 35. fxg4 hxg4 36. Rg3 Rh2+ 37. Kd3 Rh3 38. Rxg4 Bh6 39. Nc4 Ke7 40.
+Bd5 Kf6 41. Re4 Rh5 42. Kd4 Bg7 43. Kc5 Bf8+ 44. Kc6 Rh2 45. Rf4+ Ke7 46. Rf7+
+Ke8 47. Nd6+ Bxd6 48. Kxd6 Re2 49. Rf3 Re1 50. Bc6+ Kd8 1-0
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.18"]
+[Round "3.4"]
+[White "Aagaard, Jacob"]
+[Black "Eggleston, David J"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2477"]
+[BlackElo "2381"]
+[PlyCount "33"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. g3 b6 7. Bg2 Bb7 8. O-O
+c5 9. dxc5 bxc5 10. b3 d6 11. Bb2 a5 12. Qc2 Nbd7 13. a4 Qb6 14. Rfd1 Bc6 15.
+Rab1 Qb7 16. Ne1 Bxg2 17. Nxg2 1/2-1/2
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.19"]
+[Round "4.1"]
+[White "Taylor, Adam C"]
+[Black "Chan, Kim Yew"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2347"]
+[BlackElo "2303"]
+[PlyCount "77"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 a6 5. Nf3 e6 6. Nxd4 cxd4 7. Ne2 b5 8.
+Bd3 Bc5 9. a4 Bb7 10. b4 Bxb4 11. O-O Nf6 12. Nxd4 Qb6 13. c3 Bc5 14. Nb3 Be7
+15. Qe2 O-O 16. Bc2 Rac8 17. axb5 axb5 18. Nd4 b4 19. Bb2 b3 20. Bd3 Ra8 21. c4
+Ra2 22. Bc3 Bb4 23. Nxb3 Bxc3 24. Rxa2 Qxb3 25. dxc3 Bxe4 26. Rb1 Bxd3 27. Rxb3
+Bxe2 28. Rxe2 Ra8 29. Reb2 Kf8 30. Rb8+ Rxb8 31. Rxb8+ Ke7 32. f3 h5 33. Kf2 g6
+34. Ke3 Ne8 35. c5 Nc7 36. Kd4 Nd5 37. g3 Nf6 38. Rb7 Kd8 39. Ke5 1-0
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.19"]
+[Round "4.2"]
+[White "Domenech, Vianney"]
+[Black "Ternault, Mathieu"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2254"]
+[BlackElo "2345"]
+[PlyCount "104"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. Nc3 d5 2. d4 e6 3. Bf4 Bb4 4. e3 Nf6 5. Bd3 c5 6. dxc5 Nbd7 7. Nge2 Nxc5 8.
+Bb5+ Bd7 9. O-O Qb6 10. a4 a6 11. Qd4 Bxc3 12. Bxd7+ Ncxd7 13. Qxc3 O-O 14. a5
+Qc6 15. Qxc6 bxc6 16. Bd6 Rfc8 17. Rfd1 Ne4 18. Ba3 Rab8 19. f3 Nef6 20. b3 Rb7
+21. g4 Ne8 22. Kf2 f6 23. h4 Kf7 24. g5 c5 25. gxf6 gxf6 26. e4 dxe4 27. fxe4
+c4 28. Rab1 Ne5 29. bxc4 Rxb1 30. Rxb1 Nxc4 31. Rb7+ Rc7 32. Rxc7+ Nxc7 33. Bb4
+Nb5 34. Nf4 Nd4 35. c3 Nc6 36. Nd3 N4e5 37. Nc5 Nb8 38. Ke3 Ned7 39. Nxd7 Nxd7
+40. Bd6 e5 41. c4 Ke6 42. c5 h5 43. Kd3 f5 44. exf5+ Kd5 45. Be7 Nb8 46. f6 Ke6
+47. Ke4 Nc6 48. Bd6 Kxf6 49. Kd5 Nb4+ 50. Ke4 Nc6 51. Kd5 Nb4+ 52. Ke4 Nc6
+1/2-1/2
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.19"]
+[Round "4.3"]
+[White "Kirk, Ezra"]
+[Black "Aagaard, Jacob"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2426"]
+[BlackElo "2477"]
+[PlyCount "79"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. c4
+dxc4 9. Qa4+ Nbc6 10. O-O a6 11. Rd1 Qc8 12. Qxc4 Nxd4 13. Qxd4 Nc6 14. Qb6 Be7
+15. Nc3 O-O 16. Rac1 Rd8 17. f4 Rxd1+ 18. Rxd1 Bd8 19. Qb3 b5 20. Bf3 Na5 21.
+Qb4 Nc4 22. Bxa8 Nxe3 23. Bb7 Qc7 24. Rxd8+ Qxd8 25. Qd6 Qxd6 26. exd6 Kf8 27.
+Bxa6 b4 28. Na4 Bb1 29. Nc5 Nd5 30. Nd7+ Ke8 31. Ne5 Bg6 32. a3 f6 33. Bb5+ Kd8
+34. Nc6+ Kd7 35. Nxb4+ Kxd6 36. Nxd5 exd5 37. b4 d4 38. Bc4 Bc2 39. Kf2 g5 40.
+Ke2 1-0
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.19"]
+[Round "4.4"]
+[White "Eggleston, David J"]
+[Black "Hill, Alistair"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2381"]
+[BlackElo "2254"]
+[PlyCount "75"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. Bb5 Nd4 5. O-O Nxb5 6. Nxb5 a6 7. Nc3 b5 8. d4
+cxd4 9. Qxd4 Qc7 10. a3 Ne7 11. Bg5 Nc6 12. Qd2 d6 13. Rad1 f6 14. Be3 Be7 15.
+Nd4 O-O 16. f4 Nxd4 17. Bxd4 f5 18. Qe3 fxe4 19. Nxe4 Bd7 20. Bc3 d5 21. Qg3
+Rf7 22. Ng5 Bxg5 23. Qxg5 a5 24. Rf2 Qb7 25. Rf3 b4 26. axb4 axb4 27. Bd4 Ba4
+28. Rc1 Rf5 29. Qg4 Be8 30. Re3 Qf7 31. Be5 Qg6 32. Qe2 Rf7 33. Bd6 Bd7 34. Rf3
+e5 35. Bxe5 Qb6+ 36. Kh1 Ba4 37. Rg3 Rc8 38. Bxg7 1-0
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.19"]
+[Round "5.1"]
+[White "Domenech, Vianney"]
+[Black "Kirk, Ezra"]
+[Result "0-1"]
+[ECO "A44"]
+[WhiteElo "2254"]
+[BlackElo "2426"]
+[PlyCount "72"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. c4 Be7 5. Bd3 Nf6 6. Nc3 O-O 7. Nge2 Ne8 8. O-O
+Nd7 9. Qc2 g6 10. Nd1 Ng7 11. Ne3 Nf6 12. b3 Nfh5 13. f4 exf4 14. Nxf4 Nxf4 15.
+Rxf4 Bg5 16. Rf3 Qe7 17. Bb2 f5 18. Raf1 Bd7 19. g3 fxe4 20. Bxe4 Rxf3 21. Rxf3
+Re8 22. Qc3 Bh6 23. Rf4 Bxf4 24. gxf4 Rf8 25. Ng2 Bf5 26. Bf3 h6 27. h4 h5 28.
+Kh2 Kh7 29. Kg3 Bb1 30. Ne3 Rf7 31. Nd1 Nf5+ 32. Kg2 Nd4 33. Nf2 Rxf4 34. Qc1
+Qxh4 35. Bxd4 Qg5+ 36. Kf1 cxd4 0-1
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.19"]
+[Round "5.2"]
+[White "Hill, Alistair"]
+[Black "Ternault, Mathieu"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2254"]
+[BlackElo "2345"]
+[PlyCount "60"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 e6 2. c4 b6 3. a3 Bb7 4. Nc3 Nf6 5. Qc2 c5 6. dxc5 bxc5 7. Bg5 d6 8. Nf3
+Qb6 9. e3 Nbd7 10. Be2 h6 11. Bh4 g5 12. Bg3 Nh5 13. O-O g4 14. Nd2 Nxg3 15.
+hxg3 h5 16. Bd3 h4 17. gxh4 Rxh4 18. Be4 f5 19. g3 Bxe4 20. Ndxe4 Rh5 21. Nd2
+Qb7 22. e4 Ne5 23. Kg2 f4 24. gxf4 Rh2+ 25. Kxh2 Qh7+ 26. Kg1 Nf3+ 27. Nxf3
+gxf3 28. Qa4+ Kf7 29. Nd5 Qg8+ 30. Kh2 Qg2# 0-1
+
+[Event "Hendon 2300 Plus"]
+[Site "London"]
+[Date "2021.09.19"]
+[Round "5.3"]
+[White "Eggleston, David J"]
+[Black "Taylor, Adam C"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2381"]
+[BlackElo "2347"]
+[PlyCount "53"]
+[EventDate "2021.09.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 g6 2. d4 a6 3. Nc3 b5 4. Be3 Bb7 5. f3 d6 6. Qd2 Nd7 7. h4 Ngf6 8. g4 e5
+9. dxe5 Nxe5 10. h5 b4 11. Nd5 gxh5 12. gxh5 Nxd5 13. exd5 Rg8 14. O-O-O Bg7
+15. Qxb4 Bc8 16. Bh3 Bxh3 17. Nxh3 Rb8 18. Qe4 Qd7 19. Qxh7 Kf8 20. Rdg1 Rxb2
+21. Rxg7 Rxg7 22. Qh8+ Ke7 23. Kxb2 Rg2 24. Bg5+ Rxg5 25. Nxg5 Qb5+ 26. Ka1 Qb4
+27. Ne4 1-0
+

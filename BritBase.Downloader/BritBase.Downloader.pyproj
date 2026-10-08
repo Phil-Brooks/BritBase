@@ -24,6 +24,7 @@
     <Compile Include="BritBase.Downloader.py" />
     <Compile Include="process_exact_00s.py" />
     <Compile Include="process_exact_10s.py" />
+    <Compile Include="process_exact_2020s.py" />
     <Compile Include="process_exact_20s.py" />
     <Compile Include="process_exact_30s.py" />
     <Compile Include="process_exact_40s.py" />

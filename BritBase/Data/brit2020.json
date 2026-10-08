@@ -1,0 +1,2282 @@
+[
+  {
+    "Year": 2020,
+    "Name": "Gibraltar Masters",
+    "Winner": "D Paravyan",
+    "StartDate": "2020.01.21",
+    "EndDate": "2020.01.30",
+    "GamesCount": "1,143",
+    "DateUpdated": "2021.06.05",
+    "PgnFileName": "202001gibmast.pgn"
+  },
+  {
+    "Year": 2020,
+    "Name": "Gibraltar Chall.A/B",
+    "Winner": "Piasetski/Yanev",
+    "StartDate": "2020.01.20",
+    "EndDate": "2020.01.29",
+    "GamesCount": "367",
+    "DateUpdated": "2021.06.05",
+    "PgnFileName": "202001gibchal.pgn"
+  },
+  {
+    "Year": 2020,
+    "Name": "Gibraltar Amat. A/B",
+    "Winner": "Grover/Nwachukwu",
+    "StartDate": "2020.01.20",
+    "EndDate": "2020.01.29",
+    "GamesCount": "261",
+    "DateUpdated": "2021.06.05",
+    "PgnFileName": "202001gibamat.pgn"
+  },
+  {
+    "Year": 2020,
+    "Name": "Dyfed Open, Fishguard",
+    "Winner": "Alan Young",
+    "StartDate": "2020.02.14",
+    "EndDate": "2020.01.16",
+    "GamesCount": "74",
+    "DateUpdated": "2024.03.04",
+    "PgnFileName": "202002dyfed.pgn"
+  },
+  {
+    "Year": 2020,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Cambridge",
+    "StartDate": "2020.03.07",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2020.11.15",
+    "PgnFileName": "202003vars.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "FIDE Women's GP",
+    "Winner": "Z Abdumalik",
+    "StartDate": "2021.05.22",
+    "EndDate": "2021.06.02",
+    "GamesCount": "66",
+    "DateUpdated": "2021.06.05",
+    "PgnFileName": "202106fidewgp.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "Muswell Hill IM",
+    "Winner": "Czopor / Murphy",
+    "StartDate": "2021.08.09",
+    "EndDate": "2021.08.13",
+    "GamesCount": "45",
+    "DateUpdated": "2021.08.31",
+    "PgnFileName": "202108muswellhill.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "Wood Green, Stafford",
+    "Winner": "R Haria",
+    "StartDate": "2021.08.19",
+    "EndDate": "2021.08.23",
+    "GamesCount": "45",
+    "DateUpdated": "2021.08.26",
+    "PgnFileName": "202108stafford.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "Northumbria GM",
+    "Winner": "Haria / Murphy",
+    "StartDate": "2021.08.26",
+    "EndDate": "2021.08.30",
+    "GamesCount": "45",
+    "DateUpdated": "2021.08.31",
+    "PgnFileName": "202108northumbria.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "Northumbria IM",
+    "Winner": "Zala Urh",
+    "StartDate": "2021.08.26",
+    "EndDate": "2021.08.30",
+    "GamesCount": "45^",
+    "DateUpdated": "2021.08.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2021,
+    "Name": "Northumbria Masters",
+    "Winner": "Brandon Clarke",
+    "StartDate": "2021.08.26",
+    "EndDate": "2021.08.30",
+    "GamesCount": "198^",
+    "DateUpdated": "2021.08.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2021,
+    "Name": "Hendon 2300+",
+    "Winner": "Ezra Kirk",
+    "StartDate": "2021.09.17",
+    "EndDate": "2021.09.19",
+    "GamesCount": "19",
+    "DateUpdated": "2021.10.01",
+    "PgnFileName": "202109hendon.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "Manx Liberty",
+    "Winner": "Luke McShane",
+    "StartDate": "2021.09.18",
+    "EndDate": "2021.09.26",
+    "GamesCount": "45",
+    "DateUpdated": "2021.10.01",
+    "PgnFileName": "202109manxliberty.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "GBR-ch107 Hull",
+    "Winner": "Nick Pert",
+    "StartDate": "2021.10.02",
+    "EndDate": "2021.10.10",
+    "GamesCount": "85",
+    "DateUpdated": "2021.10.18",
+    "PgnFileName": "202110britchamp.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "GBR-ch107 Women",
+    "Winner": "Harriet Hunt",
+    "StartDate": "2021.10.14",
+    "EndDate": "2021.10.17",
+    "GamesCount": "32^",
+    "DateUpdated": "2021.10.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2021,
+    "Name": "GBR-ch107 Over 50",
+    "Winner": "Mike Waddington",
+    "StartDate": "2021.10.04",
+    "EndDate": "2021.10.10",
+    "GamesCount": "55^",
+    "DateUpdated": "2021.10.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2021,
+    "Name": "GBR-ch107 Over 65",
+    "Winner": "Roger de Coverly",
+    "StartDate": "2021.10.04",
+    "EndDate": "2021.10.10",
+    "GamesCount": "61^",
+    "DateUpdated": "2021.10.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2021,
+    "Name": "GBR-ch107 Juniors",
+    "Winner": "various",
+    "StartDate": "2021.10.02",
+    "EndDate": "2021.10.03",
+    "GamesCount": "242^",
+    "DateUpdated": "2021.10.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2021,
+    "Name": "Hull 4NCL GM",
+    "Winner": "Czopor / Fodor",
+    "StartDate": "2021.10.20",
+    "EndDate": "2021.10.24",
+    "GamesCount": "45",
+    "DateUpdated": "2021.10.26",
+    "PgnFileName": "202110hull4ncl.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Oxford",
+    "StartDate": "2021.10.23",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2022.03.24",
+    "PgnFileName": "202110vars.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "1st EJCOA Forest Hall",
+    "Winner": "Tarun Kanyamarala",
+    "StartDate": "2021.10.25",
+    "EndDate": "2021.10.29",
+    "GamesCount": "45",
+    "DateUpdated": "2021.10.29",
+    "PgnFileName": "202110ejcoaforesthall.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "London Classic ENG-RoW",
+    "Winner": "Rest of World",
+    "StartDate": "2021.12.03",
+    "EndDate": "2021.12.09",
+    "GamesCount": "18",
+    "DateUpdated": "2021.12.10",
+    "PgnFileName": "202112lccengrow.pgn"
+  },
+  {
+    "Year": 2021,
+    "Name": "2nd EJCOA Forest Hall",
+    "Winner": "Matthew Wadsworth",
+    "StartDate": "2021.12.17",
+    "EndDate": "2021.12.21",
+    "GamesCount": "45",
+    "DateUpdated": "2021.12.24",
+    "PgnFileName": "202112ejcoaforesthall.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Battle of the Sexes",
+    "Winner": "Men's Team",
+    "StartDate": "2022.01.24",
+    "EndDate": "2022.02.03",
+    "GamesCount": "100",
+    "DateUpdated": "2022.02.07",
+    "PgnFileName": "202201gib.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "3rd EJCOA Ilkley",
+    "Winner": "JosÃ© Camacho Collados",
+    "StartDate": "2022.02.23",
+    "EndDate": "2022.02.27",
+    "GamesCount": "45",
+    "DateUpdated": "2022.11.25",
+    "PgnFileName": "202202ejcoa.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Oxford",
+    "StartDate": "2022.03.12",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2022.07.09",
+    "PgnFileName": "202203vars.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Mill Hill Congress",
+    "Winner": "P Koiza, M Dignam",
+    "StartDate": "2022.03.26",
+    "EndDate": "2022.03.27",
+    "GamesCount": "161",
+    "DateUpdated": "2022.04.28",
+    "PgnFileName": "202203millhill.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "ECF Women's Norm Tou't",
+    "Winner": "Lan Yao",
+    "StartDate": "2022.04.07",
+    "EndDate": "2022.04.11",
+    "GamesCount": "45",
+    "DateUpdated": "2022.04.19",
+    "PgnFileName": "202204londonwomen.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "She Plays to Win Tourn't",
+    "Winner": "Machteld v Foreest",
+    "StartDate": "2022.04.07",
+    "EndDate": "2022.04.11",
+    "GamesCount": "45^",
+    "DateUpdated": "2022.04.19",
+    "PgnFileName": "202204londonwomen.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Southend Open",
+    "Winner": "Joakim Nilsson",
+    "StartDate": "2022.04.15",
+    "EndDate": "2022.04.18",
+    "GamesCount": "232",
+    "DateUpdated": "2022.04.19",
+    "PgnFileName": "202204southend.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Central London Imperial",
+    "Winner": "Alistair Hill",
+    "StartDate": "2022.04.22",
+    "EndDate": "2022.04.26",
+    "GamesCount": "207",
+    "DateUpdated": "2022.04.28",
+    "PgnFileName": "202204centrallondon.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "1st Caplin Menchik Mem",
+    "Winner": "Joanna Dworakowska",
+    "StartDate": "2022.06.18",
+    "EndDate": "2022.06.26",
+    "GamesCount": "45",
+    "DateUpdated": "2022.11.24",
+    "PgnFileName": "202206caplinmenchik.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "County Ch'ship Final",
+    "Winner": "Northumberland",
+    "StartDate": "2022.07.02",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.02.16",
+    "PgnFileName": "202207countyfinal.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "South Wales Intern'l",
+    "Winner": "Peter Wells",
+    "StartDate": "2022.07.07",
+    "EndDate": "2022.07.12",
+    "GamesCount": "200",
+    "DateUpdated": "2022.07.14",
+    "PgnFileName": "202207southwales.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Kingston Invitational",
+    "Winner": "Peter Lalic",
+    "StartDate": "2022.07.20",
+    "EndDate": "2022.07.24",
+    "GamesCount": "45",
+    "DateUpdated": "2022.08.19",
+    "PgnFileName": "202207kingston.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "GBR-ch108 Torquay",
+    "Winner": "Harry Grieve",
+    "StartDate": "2022.08.13",
+    "EndDate": "2022.08.21",
+    "GamesCount": "261",
+    "DateUpdated": "2022.08.23",
+    "PgnFileName": "202208britchamp.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "GBR-ch108 Over 50",
+    "Winner": "3-way tie",
+    "StartDate": "2022.08.08",
+    "EndDate": "2022.08.14",
+    "GamesCount": "145^",
+    "DateUpdated": "2023.02.06",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "GBR-ch108 Over 65",
+    "Winner": "John Nunn",
+    "StartDate": "2022.08.15",
+    "EndDate": "2022.08.21",
+    "GamesCount": "211",
+    "DateUpdated": "2023.02.06",
+    "PgnFileName": "202208bcfextra.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "GBR-ch Major Open etc",
+    "Winner": "",
+    "StartDate": "2022.08.08",
+    "EndDate": "2022.08.21",
+    "GamesCount": "712^",
+    "DateUpdated": "2023.02.06",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Mindsports Masters GM",
+    "Winner": "Harry Grieve",
+    "StartDate": "2022.09.09",
+    "EndDate": "2022.09.14",
+    "GamesCount": "45",
+    "DateUpdated": "2022.11.08",
+    "PgnFileName": "202209mindsports.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Mindsports Masters IM",
+    "Winner": "Matthew Wadsworth",
+    "StartDate": "2022.09.09",
+    "EndDate": "2022.09.14",
+    "GamesCount": "45^",
+    "DateUpdated": "2022.11.08",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Mindsports FIDE Rated",
+    "Winner": "Oscar Pollack",
+    "StartDate": "2022.09.09",
+    "EndDate": "2022.09.14",
+    "GamesCount": "20^",
+    "DateUpdated": "2022.12.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "46th Guernsey Open",
+    "Winner": "Boris Chatalbashev",
+    "StartDate": "2022.10.16",
+    "EndDate": "2022.10.22",
+    "GamesCount": "377",
+    "DateUpdated": "2023.03.01",
+    "PgnFileName": "202210guernsey.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "4th EJCOA Forest Hall",
+    "Winner": "Matthew Wadsworth",
+    "StartDate": "2022.10.24",
+    "EndDate": "2022.10.28",
+    "GamesCount": "42+3",
+    "DateUpdated": "2022.11.02",
+    "PgnFileName": "202210ejcoa.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Scarborough Open",
+    "Winner": "R Makkar, L Fava",
+    "StartDate": "2022.10.28",
+    "EndDate": "2022.10.30",
+    "GamesCount": "160",
+    "DateUpdated": "2026.05.03",
+    "PgnFileName": "202210scar.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Scarborough Major",
+    "Winner": "R M Cowan",
+    "StartDate": "2022.10.28",
+    "EndDate": "2022.10.30",
+    "GamesCount": "115^",
+    "DateUpdated": "2026.07.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Scarborough Intermediate",
+    "Winner": "J Hall, A Allen, S Layhe",
+    "StartDate": "2022.10.28",
+    "EndDate": "2022.10.30",
+    "GamesCount": "183^",
+    "DateUpdated": "2026.07.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Scarborough Minor",
+    "Winner": "Daniel Turnbull",
+    "StartDate": "2022.10.28",
+    "EndDate": "2022.10.30",
+    "GamesCount": "170^",
+    "DateUpdated": "2026.08.26",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Hampshire Championship",
+    "Winner": "Oliver Gill",
+    "StartDate": "2022.11.04",
+    "EndDate": "2022.11.06",
+    "GamesCount": "21",
+    "DateUpdated": "2022.12.16",
+    "PgnFileName": "202211hampshire.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Hampshire Major",
+    "Winner": "Patrik Baron",
+    "StartDate": "2022.11.04",
+    "EndDate": "2022.11.06",
+    "GamesCount": "109^",
+    "DateUpdated": "2022.12.16",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Central London Open",
+    "Winner": "Graeme Buckley",
+    "StartDate": "2022.11.04",
+    "EndDate": "2022.11.06",
+    "GamesCount": "75",
+    "DateUpdated": "2023.06.02",
+    "PgnFileName": "202211centlond.pgn"
+  },
+  {
+    "Year": 2022,
+    "Name": "Central London Major",
+    "Winner": "Two-way tie",
+    "StartDate": "2022.11.04",
+    "EndDate": "2022.11.06",
+    "GamesCount": "78^",
+    "DateUpdated": "2023.06.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Central London Minor",
+    "Winner": "Three-way tie",
+    "StartDate": "2022.11.04",
+    "EndDate": "2022.11.06",
+    "GamesCount": "45^",
+    "DateUpdated": "2023.06.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2022,
+    "Name": "Hastings Masters",
+    "Winner": "Sarunas Sulskis",
+    "StartDate": "2022.12.28",
+    "EndDate": "2023.01.06",
+    "GamesCount": "428",
+    "DateUpdated": "2023.01.30",
+    "PgnFileName": "202212hast.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "44th Kidlington Open",
+    "Winner": "Marcus Harvey",
+    "StartDate": "2023.02.04",
+    "EndDate": "2023.02.05",
+    "GamesCount": "65",
+    "DateUpdated": "2023.11.26",
+    "PgnFileName": "202302mindsports.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "2nd She Plays to Win",
+    "Winner": "Svetlana Sucikova",
+    "StartDate": "2023.02.15",
+    "EndDate": "2023.02.19",
+    "GamesCount": "45",
+    "DateUpdated": "2023.02.21",
+    "PgnFileName": "202302sheplaystowin.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Mindsports Masters IM-A",
+    "Winner": "Jonah Willow",
+    "StartDate": "2023.02.15",
+    "EndDate": "2023.02.19",
+    "GamesCount": "45",
+    "DateUpdated": "2023.02.23",
+    "PgnFileName": "202302mindsports.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Mindsports Masters IM-B",
+    "Winner": "Alex Browning",
+    "StartDate": "2023.02.15",
+    "EndDate": "2023.02.19",
+    "GamesCount": "45^",
+    "DateUpdated": "2023.02.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "Mindsports FIDE Rated",
+    "Winner": "Abhinav R Bathula",
+    "StartDate": "2023.02.15",
+    "EndDate": "2023.02.19",
+    "GamesCount": "45^",
+    "DateUpdated": "2023.02.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Drawn",
+    "StartDate": "2023.03.04",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2023.03.28",
+    "PgnFileName": "202303vars.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Southend Masters",
+    "Winner": "Mahel Boyer",
+    "StartDate": "2023.04.06",
+    "EndDate": "2023.04.10",
+    "GamesCount": "45",
+    "DateUpdated": "2023.04.11",
+    "PgnFileName": "202304southendmasters.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Alexander Cup Final",
+    "Winner": "Kingston",
+    "StartDate": "2023.04.14",
+    "EndDate": "",
+    "GamesCount": "10",
+    "DateUpdated": "2023.04.18",
+    "PgnFileName": "202304alexcup.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "UK Armed Forces Ch'ship",
+    "Winner": "D Onley, D Wells",
+    "StartDate": "2023.04.14",
+    "EndDate": "2023.04.17",
+    "GamesCount": "283",
+    "DateUpdated": "2023.05.24",
+    "PgnFileName": "202304ukservices.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "ENG-ch Senior 50+",
+    "Winner": "K Arkell, M Hebden",
+    "StartDate": "2023.05.05",
+    "EndDate": "2023.05.08",
+    "GamesCount": "115",
+    "DateUpdated": "2023.05.10",
+    "PgnFileName": "202305engsenior.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "ENG-ch Senior 65+",
+    "Winner": "Chris W Baker",
+    "StartDate": "2023.05.05",
+    "EndDate": "2023.05.08",
+    "GamesCount": "126^",
+    "DateUpdated": "2023.05.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "32nd Frome Open",
+    "Winner": "Keith Arkell",
+    "StartDate": "2023.05.12",
+    "EndDate": "2023.05.14",
+    "GamesCount": "102",
+    "DateUpdated": "2023.05.22",
+    "PgnFileName": "202305frome.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "English Open Ch'ship",
+    "Winner": "Michael Adams",
+    "StartDate": "2023.05.26",
+    "EndDate": "2023.05.29",
+    "GamesCount": "218",
+    "DateUpdated": "2023.05.30",
+    "PgnFileName": "202305engopen.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "English Women's Open Ch'p",
+    "Winner": "Katarzyna Toma",
+    "StartDate": "2023.05.26",
+    "EndDate": "2023.05.29",
+    "GamesCount": "75^",
+    "DateUpdated": "2023.05.30",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "London Chess Lge Open",
+    "Winner": "Peter Lalic",
+    "StartDate": "2023.06.02",
+    "EndDate": "2023.06.04",
+    "GamesCount": "89",
+    "DateUpdated": "2023.12.27",
+    "PgnFileName": "202306lclopen.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "County Ch'ship Final",
+    "Winner": "Middlesex",
+    "StartDate": "2023.07.01",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2023.07.01",
+    "PgnFileName": "202307countyfinal.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Wood Green Invitational",
+    "Winner": "Ameet Ghasi",
+    "StartDate": "2023.07.14",
+    "EndDate": "2023.07.18",
+    "GamesCount": "45",
+    "DateUpdated": "2023.07.18",
+    "PgnFileName": "202307woodgreen.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "GBR-ch109 Leicester",
+    "Winner": "Michael Adams",
+    "StartDate": "2023.07.22",
+    "EndDate": "2023.07.30",
+    "GamesCount": "278",
+    "DateUpdated": "2023.07.30",
+    "PgnFileName": "202307britchamp.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "GBR-ch Major Open",
+    "Winner": "Brandon Clarke",
+    "StartDate": "2023.07.22",
+    "EndDate": "2023.07.30",
+    "GamesCount": "303",
+    "DateUpdated": "2025.02.19",
+    "PgnFileName": "202307bcfmajoropen.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "GBR-ch Senior Over 50",
+    "Winner": "Keith Arkell",
+    "StartDate": "2023.07.24",
+    "EndDate": "2023.07.30",
+    "GamesCount": "129",
+    "DateUpdated": "2025.02.19",
+    "PgnFileName": "202307bcfsenior.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "GBR-ch Senior Over 65",
+    "Winner": "Three-way tie",
+    "StartDate": "2023.07.24",
+    "EndDate": "2023.07.30",
+    "GamesCount": "163^",
+    "DateUpdated": "2025.02.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "Kingston Masters",
+    "Winner": "Conor Murphy",
+    "StartDate": "2023.07.24",
+    "EndDate": "2023.07.28",
+    "GamesCount": "45",
+    "DateUpdated": "2023.07.31",
+    "PgnFileName": "202307kingston.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Kingston FIDE",
+    "Winner": "T Seymour, A Hill",
+    "StartDate": "2023.07.24",
+    "EndDate": "2023.07.28",
+    "GamesCount": "45^",
+    "DateUpdated": "2023.07.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "47th Guernsey Open",
+    "Winner": "Grieve Arkell Gormally",
+    "StartDate": "2023.10.15",
+    "EndDate": "2023.10.21",
+    "GamesCount": "120",
+    "DateUpdated": "2023.11.13",
+    "PgnFileName": "202310guernsey.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Guernsey Challengers",
+    "Winner": "N Dennis, G Nevska",
+    "StartDate": "2023.10.15",
+    "EndDate": "2023.10.21",
+    "GamesCount": "87^",
+    "DateUpdated": "2023.11.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "FIDE Grand Swiss",
+    "Winner": "Vidit Gujrathi",
+    "StartDate": "2023.10.25",
+    "EndDate": "2023.11.05",
+    "GamesCount": "625",
+    "DateUpdated": "2023.11.13",
+    "PgnFileName": "202310iom.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "FIDE Women's Grand Swiss",
+    "Winner": "R Vaishali",
+    "StartDate": "2023.10.25",
+    "EndDate": "2023.11.05",
+    "GamesCount": "273",
+    "DateUpdated": "2023.11.13",
+    "PgnFileName": "202310iomwomen.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Isle of Man Major/Minor",
+    "Winner": "K Nicholas, T Narva",
+    "StartDate": "2023.10.28",
+    "EndDate": "2023.11.03",
+    "GamesCount": "129",
+    "DateUpdated": "2023.11.13",
+    "PgnFileName": "202310iommajorminor.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Scarborough Open",
+    "Winner": "D Gormally, S M Raju",
+    "StartDate": "2023.10.27",
+    "EndDate": "2023.10.29",
+    "GamesCount": "133",
+    "DateUpdated": "2023.11.14",
+    "PgnFileName": "202310scar.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Nottingham Centenary",
+    "Winner": "Eldar Gasanov",
+    "StartDate": "2023.10.30",
+    "EndDate": "2023.11.03",
+    "GamesCount": "45",
+    "DateUpdated": "2023.11.14",
+    "PgnFileName": "202310notts.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Hampshire Championship",
+    "Winner": "Iwan Cave, etc",
+    "StartDate": "2023.11.03",
+    "EndDate": "2023.11.05",
+    "GamesCount": "69",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": "202311hampshire.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Hampshire Major",
+    "Winner": "Brendan O'Gorman",
+    "StartDate": "2023.11.03",
+    "EndDate": "2023.11.05",
+    "GamesCount": "82^",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2023,
+    "Name": "London Chess Classic",
+    "Winner": "Michael Adams",
+    "StartDate": "2023.12.01",
+    "EndDate": "2023.12.10",
+    "GamesCount": "45",
+    "DateUpdated": "2023.12.11",
+    "PgnFileName": "202312londonclassic.pgn"
+  },
+  {
+    "Year": 2023,
+    "Name": "Hastings Masters",
+    "Winner": "Abhijeet Gupta",
+    "StartDate": "2023.12.28",
+    "EndDate": "2024.01.05",
+    "GamesCount": "424",
+    "DateUpdated": "2024.01.08",
+    "PgnFileName": "202312hast.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Hastings Weekend Open",
+    "Winner": "K Arkell, Marta Garcia",
+    "StartDate": "2024.01.06",
+    "EndDate": "2024.01.07",
+    "GamesCount": "105",
+    "DateUpdated": "2024.02.20",
+    "PgnFileName": "202401hastweekend.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Shropshire Open",
+    "Winner": "A Vaidyanathan",
+    "StartDate": "2024.01.12",
+    "EndDate": "2024.01.14",
+    "GamesCount": "74+30",
+    "DateUpdated": "2024.05.05",
+    "PgnFileName": "202401shropshire.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Cambridge International",
+    "Winner": "M Adams, etc",
+    "StartDate": "2024.02.19",
+    "EndDate": "2024.02.24",
+    "GamesCount": "483",
+    "DateUpdated": "2024.02.24",
+    "PgnFileName": "202402cambridge.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Oxford",
+    "StartDate": "2024.03.02",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2024.03.02",
+    "PgnFileName": "202403vars.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Southend Masters",
+    "Winner": "Szymon Gumularz",
+    "StartDate": "2024.03.28",
+    "EndDate": "2024.04.01",
+    "GamesCount": "121",
+    "DateUpdated": "2024.05.09",
+    "PgnFileName": "202403southendmasters.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "UK Armed Forces Ch'ship",
+    "Winner": "William Bradley",
+    "StartDate": "2024.04.05",
+    "EndDate": "2024.04.08",
+    "GamesCount": "337",
+    "DateUpdated": "2024.05.09",
+    "PgnFileName": "202404ukservices.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Alexander Cup Final",
+    "Winner": "Kingston",
+    "StartDate": "2024.05.02",
+    "EndDate": "",
+    "GamesCount": "10",
+    "DateUpdated": "2024.05.03",
+    "PgnFileName": "202405alexcup.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "ENG-ch Senior 50+",
+    "Winner": "Peter K Wells",
+    "StartDate": "2024.05.24",
+    "EndDate": "2024.05.28",
+    "GamesCount": "101",
+    "DateUpdated": "2024.05.28",
+    "PgnFileName": "202405engsenior.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "ENG-ch Senior 65+",
+    "Winner": "Paul Littlewood",
+    "StartDate": "2024.05.24",
+    "EndDate": "2024.05.28",
+    "GamesCount": "128^",
+    "DateUpdated": "2024.05.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "County Ch'ship Final",
+    "Winner": "Surrey",
+    "StartDate": "2024.06.29",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2024.06.30",
+    "PgnFileName": "202406countyfinal.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Wood Green Invitational",
+    "Winner": "M Wadsworth, S Ernst",
+    "StartDate": "2024.07.12",
+    "EndDate": "2024.07.16",
+    "GamesCount": "45",
+    "DateUpdated": "2024.07.17",
+    "PgnFileName": "202407woodgreen.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Mindsports Open",
+    "Winner": "three-way tie",
+    "StartDate": "2024.07.18",
+    "EndDate": "2024.07.23",
+    "GamesCount": "257",
+    "DateUpdated": "2025.09.22",
+    "PgnFileName": "202407mindsports.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Mindsports Rapidplay",
+    "Winner": "",
+    "StartDate": "2024.07.19",
+    "EndDate": "",
+    "GamesCount": "43^",
+    "DateUpdated": "2024.08.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Mindsports Blitz",
+    "Winner": "",
+    "StartDate": "2024.07.23",
+    "EndDate": "",
+    "GamesCount": "133^",
+    "DateUpdated": "2024.08.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "GBR-ch110 Hull",
+    "Winner": "Gawain Jones",
+    "StartDate": "2024.07.27",
+    "EndDate": "2024.08.04",
+    "GamesCount": "383",
+    "DateUpdated": "2025.02.20",
+    "PgnFileName": "202407britchamp.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "GBR-ch Major Open",
+    "Winner": "Lorenzo Fava",
+    "StartDate": "2024.07.27",
+    "EndDate": "2024.08.04",
+    "GamesCount": "498",
+    "DateUpdated": "2025.02.20",
+    "PgnFileName": "202407bcfmajoropen.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "GBR-ch Over 50",
+    "Winner": "Keith Arkell",
+    "StartDate": "2024.07.29",
+    "EndDate": "2024.08.04",
+    "GamesCount": "143",
+    "DateUpdated": "2025.02.20",
+    "PgnFileName": "202407bcfsenior.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "GBR-ch Over 65",
+    "Winner": "Andrew P Smith",
+    "StartDate": "2024.07.29",
+    "EndDate": "2024.08.04",
+    "GamesCount": "183^",
+    "DateUpdated": "2025.02.20",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Lancaster Open",
+    "Winner": "J Boswell, J Arnott",
+    "StartDate": "2024.08.09",
+    "EndDate": "2024.03.11",
+    "GamesCount": "56",
+    "DateUpdated": "2024.08.31",
+    "PgnFileName": "202408lancaster.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Lancaster Major",
+    "Winner": "Six-way tie",
+    "StartDate": "2024.08.09",
+    "EndDate": "2024.03.11",
+    "GamesCount": "52^",
+    "DateUpdated": "2024.08.31",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Kingston Invitational",
+    "Winner": "(four-way tie)",
+    "StartDate": "2024.08.12",
+    "EndDate": "2024.08.16",
+    "GamesCount": "188",
+    "DateUpdated": "2024.08.18",
+    "PgnFileName": "202408kingston.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Menchik Memorial, London",
+    "Winner": "Andreea Navrotescu",
+    "StartDate": "2024.08.30",
+    "EndDate": "2024.09.03",
+    "GamesCount": "45",
+    "DateUpdated": "2024.09.04",
+    "PgnFileName": "202408menchik.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Guernsey Open",
+    "Winner": "Arita Strade, Katarzyna Toma",
+    "StartDate": "2024.10.13",
+    "EndDate": "2024.10.19",
+    "GamesCount": "105",
+    "DateUpdated": "2024.12.27",
+    "PgnFileName": "202410guernsey.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Guernsey Challengers",
+    "Winner": "Pierre Moyroud",
+    "StartDate": "2024.10.13",
+    "EndDate": "2024.10.19",
+    "GamesCount": "98^",
+    "DateUpdated": "2024.12.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Scarborough Open",
+    "Winner": "Koby Kalavannan",
+    "StartDate": "2024.10.25",
+    "EndDate": "2024.10.27",
+    "GamesCount": "142",
+    "DateUpdated": "2024.12.27",
+    "PgnFileName": "202410scar.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Scarborough Major",
+    "Winner": "Toby Quaite",
+    "StartDate": "2024.10.25",
+    "EndDate": "2024.10.27",
+    "GamesCount": "145^",
+    "DateUpdated": "2024.12.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Scarborough Intermediate",
+    "Winner": "Utku Deniz Demir",
+    "StartDate": "2024.10.25",
+    "EndDate": "2024.10.27",
+    "GamesCount": "173^",
+    "DateUpdated": "2024.12.27",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Scarborough Foundation",
+    "Winner": "Daniel Wilson",
+    "StartDate": "2024.10.25",
+    "EndDate": "2024.10.27",
+    "GamesCount": "178^",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Hampshire Championship",
+    "Winner": "Petr Marusenko",
+    "StartDate": "2024.11.01",
+    "EndDate": "2024.11.03",
+    "GamesCount": "77",
+    "DateUpdated": "2025.02.10",
+    "PgnFileName": "202411hampshire.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Hampshire Major",
+    "Winner": "Tomasz Wilamowski",
+    "StartDate": "2024.11.01",
+    "EndDate": "2024.11.03",
+    "GamesCount": "64^",
+    "DateUpdated": "2025.03.03",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "London Chess Classic",
+    "Winner": "Gawain Maroroa Jones",
+    "StartDate": "2024.11.29",
+    "EndDate": "2024.12.06",
+    "GamesCount": "28",
+    "DateUpdated": "2025.12.08",
+    "PgnFileName": "202411londonclassic.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "XTX London Masters",
+    "Winner": "R Sadhwani, I Smirin",
+    "StartDate": "2024.11.29",
+    "EndDate": "2024.12.07",
+    "GamesCount": "344",
+    "DateUpdated": "2025.12.08",
+    "PgnFileName": "202411londonmasters.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Hastings Masters",
+    "Winner": "Haowen Xue",
+    "StartDate": "2024.12.28",
+    "EndDate": "2025.01.03",
+    "GamesCount": "473",
+    "DateUpdated": "2025.01.10",
+    "PgnFileName": "202412hast.pgn"
+  },
+  {
+    "Year": 2024,
+    "Name": "Hastings Weekend Open",
+    "Winner": "Jack Liu",
+    "StartDate": "2025.01.03",
+    "EndDate": "2025.01.05",
+    "GamesCount": "99^",
+    "DateUpdated": "2025.01.10",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2024,
+    "Name": "Hastings other",
+    "Winner": "",
+    "StartDate": "2024.12.28",
+    "EndDate": "2025.01.05",
+    "GamesCount": "0",
+    "DateUpdated": "Hastings Page",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Shropshire Open",
+    "Winner": "T Kett, S Okhai",
+    "StartDate": "2025.01.03",
+    "EndDate": "2025.01.05",
+    "GamesCount": "64",
+    "DateUpdated": "2025.02.13",
+    "PgnFileName": "202501shropshire.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Shropshire other",
+    "Winner": "",
+    "StartDate": "2025.01.03",
+    "EndDate": "2025.01.05",
+    "GamesCount": "30^",
+    "DateUpdated": "2025.02.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Huddersfield 4NCL Open",
+    "Winner": "multiple tie",
+    "StartDate": "2025.01.17",
+    "EndDate": "2025.01.19",
+    "GamesCount": "132",
+    "DateUpdated": "2025.09.17",
+    "PgnFileName": "202501huddersfield.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Cheadle Open",
+    "Winner": "Keith Arkell",
+    "StartDate": "2025.02.04",
+    "EndDate": "2025.02.06",
+    "GamesCount": "69",
+    "DateUpdated": "2025.02.07",
+    "PgnFileName": "202502cheadle.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Blackpool Open",
+    "Winner": "Siva Mahadevan",
+    "StartDate": "2025.02.07",
+    "EndDate": "2025.02.09",
+    "GamesCount": "59",
+    "DateUpdated": "2025.02.25",
+    "PgnFileName": "202502blackpool.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Isle of Wight International",
+    "Winner": "four-way tie",
+    "StartDate": "2025.02.18",
+    "EndDate": "2025.02.23",
+    "GamesCount": "528",
+    "DateUpdated": "2025.02.25",
+    "PgnFileName": "202502iow.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "British Rapidplay Ch'ship",
+    "Winner": "Nikita Vitiugov",
+    "StartDate": "2025.03.01",
+    "EndDate": "2025.03.02",
+    "GamesCount": "872",
+    "DateUpdated": "2025.09.18",
+    "PgnFileName": "202503britrapid.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Wood Green Invitational",
+    "Winner": "Dimitris Alexakis",
+    "StartDate": "2025.03.05",
+    "EndDate": "2025.03.09",
+    "GamesCount": "45",
+    "DateUpdated": "2025.03.26",
+    "PgnFileName": "202503woodgreen.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Cambridge",
+    "StartDate": "2025.03.08",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2025.03.10",
+    "PgnFileName": "202503vars.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Menchik Memorial, London",
+    "Winner": "Andreea Navrotescu",
+    "StartDate": "2025.03.20",
+    "EndDate": "2025.03.24",
+    "GamesCount": "45",
+    "DateUpdated": "2025.03.26",
+    "PgnFileName": "202503menchik.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Bristol Open 91st",
+    "Winner": "multiple tie",
+    "StartDate": "2025.03.28",
+    "EndDate": "2025.03.30",
+    "GamesCount": "124",
+    "DateUpdated": "2025.09.18",
+    "PgnFileName": "202503bristol.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Southend GM Norm",
+    "Winner": "Pawel Teclaf",
+    "StartDate": "2025.04.17",
+    "EndDate": "2025.04.21",
+    "GamesCount": "45",
+    "DateUpdated": "2025.12.12",
+    "PgnFileName": "202504southend.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Southend IM Norm",
+    "Winner": "Li Wenxiang",
+    "StartDate": "2025.04.17",
+    "EndDate": "2025.04.21",
+    "GamesCount": "45^",
+    "DateUpdated": "2025.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Southend Open 67th",
+    "Winner": "Alistair Hill",
+    "StartDate": "2025.04.18",
+    "EndDate": "2025.04.21",
+    "GamesCount": "116^",
+    "DateUpdated": "2025.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Southend U1900",
+    "Winner": "Mark Murrell",
+    "StartDate": "2025.04.18",
+    "EndDate": "2025.04.21",
+    "GamesCount": "95^",
+    "DateUpdated": "2025.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Southend Rapid Open",
+    "Winner": "R Eales, V Sajanani",
+    "StartDate": "2025.04.17",
+    "EndDate": "",
+    "GamesCount": "48^",
+    "DateUpdated": "2025.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Southend Rapid U1700",
+    "Winner": "S Saharkar",
+    "StartDate": "2025.04.17",
+    "EndDate": "",
+    "GamesCount": "77^",
+    "DateUpdated": "2025.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Southend Rapid U1400",
+    "Winner": "T Farmer, J Anto",
+    "StartDate": "2025.04.17",
+    "EndDate": "",
+    "GamesCount": "49^",
+    "DateUpdated": "2025.12.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Daventry 4NCL Open",
+    "Winner": "Mahadevan, Bin-Suhayi",
+    "StartDate": "2025.04.18",
+    "EndDate": "2025.04.21",
+    "GamesCount": "130",
+    "DateUpdated": "2025.09.18",
+    "PgnFileName": "202504daventry.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Daventry 4NCL U2000",
+    "Winner": "D Ireland, G Jackson",
+    "StartDate": "2025.04.18",
+    "EndDate": "2025.04.21",
+    "GamesCount": "100^",
+    "DateUpdated": "2025.09.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Daventry 4NCL U1700",
+    "Winner": "K Shi, W Udin",
+    "StartDate": "2025.04.18",
+    "EndDate": "2025.04.21",
+    "GamesCount": "159^",
+    "DateUpdated": "2025.09.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "ENG-ch Senior 50+",
+    "Winner": "Peter K Wells",
+    "StartDate": "2025.04.24",
+    "EndDate": "2025.04.28",
+    "GamesCount": "79",
+    "DateUpdated": "2025.10.09",
+    "PgnFileName": "202504engsenior.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "ENG-ch Senior 65+",
+    "Winner": "M Paul Townsend",
+    "StartDate": "2025.04.24",
+    "EndDate": "2025.04.28",
+    "GamesCount": "134^",
+    "DateUpdated": "2025.10.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Cambridge International",
+    "Winner": "M Adams, B Clarke",
+    "StartDate": "2025.05.26",
+    "EndDate": "2025.05.31",
+    "GamesCount": "462",
+    "DateUpdated": "2025.06.01",
+    "PgnFileName": "202505cambridge.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Nigel Short Simul, Lancaster",
+    "Winner": "+23=2-0",
+    "StartDate": "2025.06.21",
+    "EndDate": "",
+    "GamesCount": "25",
+    "DateUpdated": "2025.06.25",
+    "PgnFileName": "202506shortsimul.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Crewe Open",
+    "Winner": "Jacob Connor Boswell",
+    "StartDate": "2025.06.27",
+    "EndDate": "2025.06.29",
+    "GamesCount": "132",
+    "DateUpdated": "2025.07.10",
+    "PgnFileName": "202506crewe.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "County Ch'ship Final",
+    "Winner": "Surrey",
+    "StartDate": "2025.07.05",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2025.08.25",
+    "PgnFileName": "202507countyfinal.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "English Championship",
+    "Winner": "Michael Adams",
+    "StartDate": "2025.07.18",
+    "EndDate": "2025.07.21",
+    "GamesCount": "283+4",
+    "DateUpdated": "2025.07.21",
+    "PgnFileName": "202507engch.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "English Women's Ch'ship",
+    "Winner": "Elmira Mirzoeva",
+    "StartDate": "2025.07.18",
+    "EndDate": "2025.07.21",
+    "GamesCount": "36^",
+    "DateUpdated": "2025.07.21",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "English Women's U1700",
+    "Winner": "Swati Singha",
+    "StartDate": "2025.07.18",
+    "EndDate": "2025.07.21",
+    "GamesCount": "69^",
+    "DateUpdated": "2025.07.24",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "GBR-ch111 Liverpool",
+    "Winner": "Michael Adams",
+    "StartDate": "2025.08.02",
+    "EndDate": "2025.08.10",
+    "GamesCount": "422",
+    "DateUpdated": "2025.08.11",
+    "PgnFileName": "202508britchamp.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Championship tie-break",
+    "Winner": "Michael Adams",
+    "StartDate": "2025.08.10",
+    "EndDate": "",
+    "GamesCount": "4^",
+    "DateUpdated": "2025.08.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "GBR-ch Major Open",
+    "Winner": "Timothy P Wall",
+    "StartDate": "2025.08.02",
+    "EndDate": "2025.08.10",
+    "GamesCount": "577",
+    "DateUpdated": "2025.08.11",
+    "PgnFileName": "202508bcfmajoropen.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "GBR-ch Over 50",
+    "Winner": "K Arkell, J Merriman",
+    "StartDate": "2025.08.02",
+    "EndDate": "2025.08.10",
+    "GamesCount": "205",
+    "DateUpdated": "2025.08.11",
+    "PgnFileName": "202508bcfsenior.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "GBR-ch Over 65",
+    "Winner": "N Povah, A P Lewis",
+    "StartDate": "2025.08.02",
+    "EndDate": "2025.08.10",
+    "GamesCount": "272^",
+    "DateUpdated": "2025.08.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Kingston All-Play-All",
+    "Winner": "Jakub Kosakowski",
+    "StartDate": "2025.08.12",
+    "EndDate": "2025.08.16",
+    "GamesCount": "45",
+    "DateUpdated": "2025.08.18",
+    "PgnFileName": "202508kingston.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Kingston Open",
+    "Winner": "J T Grave, G Lund",
+    "StartDate": "2025.08.12",
+    "EndDate": "2025.08.16",
+    "GamesCount": "230^",
+    "DateUpdated": "2025.08.18",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Kingston Blitz Play-Offs",
+    "Winner": "",
+    "StartDate": "2025.08.16",
+    "EndDate": "",
+    "GamesCount": "4^",
+    "DateUpdated": "2025.08.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Mindsports Open",
+    "Winner": "I Janik, B Clarke",
+    "StartDate": "2025.08.13",
+    "EndDate": "2025.08.18",
+    "GamesCount": "429",
+    "DateUpdated": "2025.08.18",
+    "PgnFileName": "202508mindsports.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Manchester Summer Open",
+    "Winner": "Four-way tie",
+    "StartDate": "2025.08.15",
+    "EndDate": "2025.08.17",
+    "GamesCount": "80",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": "202508manchester.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Lancaster Open",
+    "Winner": "Harry Grieve",
+    "StartDate": "2025.08.15",
+    "EndDate": "2025.08.17",
+    "GamesCount": "42",
+    "DateUpdated": "2025.08.25",
+    "PgnFileName": "202508lancaster.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Lancaster Major",
+    "Winner": "George Heath",
+    "StartDate": "2025.08.15",
+    "EndDate": "2025.08.17",
+    "GamesCount": "25^",
+    "DateUpdated": "2025.08.25",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Staffordshire Open",
+    "Winner": "Jonathan Blackburn",
+    "StartDate": "2025.08.16",
+    "EndDate": "2025.08.17",
+    "GamesCount": "34",
+    "DateUpdated": "2025.08.19",
+    "PgnFileName": "202508staffs.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Staffordshire Major",
+    "Winner": "K Reed, A Singh",
+    "StartDate": "2025.08.16",
+    "EndDate": "2025.08.17",
+    "GamesCount": "14^",
+    "DateUpdated": "2025.08.19",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Swindon Open 1st",
+    "Winner": "Keith Arkell",
+    "StartDate": "2025.08.22",
+    "EndDate": "2025.08.25",
+    "GamesCount": "112",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": "202508swindon.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Swindon U1900",
+    "Winner": "Isham Ramdewar",
+    "StartDate": "2025.08.22",
+    "EndDate": "2025.08.25",
+    "GamesCount": "82^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Swindon U1600",
+    "Winner": "Carolus Tang",
+    "StartDate": "2025.08.22",
+    "EndDate": "2025.08.25",
+    "GamesCount": "24^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Sussex Univ Invitational",
+    "Winner": "AdriÃ¡n SuÃ¡rez Uriel",
+    "StartDate": "2025.08.27",
+    "EndDate": "2025.08.31",
+    "GamesCount": "45",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": "202508sussex.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Sussex Univ Open",
+    "Winner": "Roland Bezuidenhout",
+    "StartDate": "2025.08.29",
+    "EndDate": "2025.08.31",
+    "GamesCount": "96^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Hull 4NCL Open",
+    "Winner": "Rafe Martyn",
+    "StartDate": "2025.09.05",
+    "EndDate": "2025.09.07",
+    "GamesCount": "85",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": "202509hull.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Hull 4NCL U2000",
+    "Winner": "J de Sousa",
+    "StartDate": "2025.09.05",
+    "EndDate": "2025.09.07",
+    "GamesCount": "99^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Hull 4NCL U1750",
+    "Winner": "Aviraj Bhaduri",
+    "StartDate": "2025.09.05",
+    "EndDate": "2025.09.07",
+    "GamesCount": "85^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Hull 4NCL U1500",
+    "Winner": "Steve Spencer",
+    "StartDate": "2025.09.05",
+    "EndDate": "2025.09.07",
+    "GamesCount": "31^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Scarborough Open",
+    "Winner": "L Fava, S Badacsonyi",
+    "StartDate": "2025.10.24",
+    "EndDate": "2025.10.26",
+    "GamesCount": "142",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": "202510scar.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Scarborough Challengers",
+    "Winner": "J de Sousa",
+    "StartDate": "2025.10.24",
+    "EndDate": "2025.10.26",
+    "GamesCount": "79^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Coventry International",
+    "Winner": "V Plat, Wang, S Lohia",
+    "StartDate": "2025.10.26",
+    "EndDate": "2025.10.31",
+    "GamesCount": "318",
+    "DateUpdated": "2025.10.31",
+    "PgnFileName": "202510coventry.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Hampshire Championship",
+    "Winner": "Petr Marusenko",
+    "StartDate": "2025.11.07",
+    "EndDate": "2025.11.09",
+    "GamesCount": "84",
+    "DateUpdated": "2026.06.17",
+    "PgnFileName": "202511hampshire.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Witney Open 12th",
+    "Winner": "Yichen Han",
+    "StartDate": "2025.11.08",
+    "EndDate": "2025.11.09",
+    "GamesCount": "69",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": "202511witney.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Witney U2000",
+    "Winner": "J Bryant, B Lappin",
+    "StartDate": "2025.11.08",
+    "EndDate": "2025.11.09",
+    "GamesCount": "31^",
+    "DateUpdated": "2025.12.11",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "UK Blitz Championship",
+    "Winner": "Daniel Gormally",
+    "StartDate": "2025.11.22",
+    "EndDate": "",
+    "GamesCount": "120",
+    "DateUpdated": "2025.11.23",
+    "PgnFileName": "202511ukblitz.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "UK Women's Blitz Ch'ship",
+    "Winner": "Bodhana Sivanandan",
+    "StartDate": "2025.11.22",
+    "EndDate": "",
+    "GamesCount": "120^",
+    "DateUpdated": "2025.11.23",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "London Chess Classic",
+    "Winner": "N Abdusattorov",
+    "StartDate": "2025.11.26",
+    "EndDate": "2025.12.05",
+    "GamesCount": "45",
+    "DateUpdated": "2025.12.08",
+    "PgnFileName": "202511londonclassic.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "XTX London Masters",
+    "Winner": "Pragg'haa, V Ivic, A Ghasi",
+    "StartDate": "2025.11.27",
+    "EndDate": "2025.12.03",
+    "GamesCount": "495",
+    "DateUpdated": "2025.12.08",
+    "PgnFileName": "202511londonmasters.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "XTX London Round Robins",
+    "Winner": "Various",
+    "StartDate": "2025.11.27",
+    "EndDate": "2025.12.01",
+    "GamesCount": "175",
+    "DateUpdated": "2025.12.09",
+    "PgnFileName": "202511londonroundrobins.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "XTX London Super-Rapid",
+    "Winner": "Nikolas Theodorou",
+    "StartDate": "2025.12.06",
+    "EndDate": "2025.12.07",
+    "GamesCount": "676",
+    "DateUpdated": "2025.12.09",
+    "PgnFileName": "202512londonsuperrapid.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Hastings Masters",
+    "Winner": "A Kovchan, Alex Golding",
+    "StartDate": "2025.12.28",
+    "EndDate": "2026.01.02",
+    "GamesCount": "461",
+    "DateUpdated": "2026.01.09",
+    "PgnFileName": "202512hast.pgn"
+  },
+  {
+    "Year": 2025,
+    "Name": "Hastings Weekend Open",
+    "Winner": "W Wheatley, C Kim",
+    "StartDate": "2026.01.02",
+    "EndDate": "2026.01.04",
+    "GamesCount": "80^",
+    "DateUpdated": "2026.01.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Hastings Weekend Major",
+    "Winner": "L Yiyi",
+    "StartDate": "2026.01.02",
+    "EndDate": "2026.01.04",
+    "GamesCount": "58^",
+    "DateUpdated": "2026.01.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2025,
+    "Name": "Hastings Weekend Inter",
+    "Winner": "Alex Yeo",
+    "StartDate": "2026.01.02",
+    "EndDate": "2026.01.04",
+    "GamesCount": "94^",
+    "DateUpdated": "2026.01.09",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "Shropshire Open",
+    "Winner": "John Potter",
+    "StartDate": "2026.01.09",
+    "EndDate": "2026.01.11",
+    "GamesCount": "60",
+    "DateUpdated": "2026.02.13",
+    "PgnFileName": "202601shropshire.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Shropshire other",
+    "Winner": "",
+    "StartDate": "2026.01.09",
+    "EndDate": "2026.01.11",
+    "GamesCount": "34^",
+    "DateUpdated": "2026.02.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "South Wales Winter Open",
+    "Winner": "James Tapp",
+    "StartDate": "2026.01.23",
+    "EndDate": "2026.01.25",
+    "GamesCount": "84",
+    "DateUpdated": "2026.02.21",
+    "PgnFileName": "202601swales.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Kidlington Open",
+    "Winner": "M Harvey, M Fernandez",
+    "StartDate": "2026.01.31",
+    "EndDate": "2026.02.01",
+    "GamesCount": "50",
+    "DateUpdated": "2026.04.14",
+    "PgnFileName": "202601kidlington.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "2nd Cheadle Open",
+    "Winner": "Mieszko Mis",
+    "StartDate": "2026.02.03",
+    "EndDate": "2026.02.05",
+    "GamesCount": "93",
+    "DateUpdated": "2026.04.14",
+    "PgnFileName": "202602cheadle.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Blackpool Open",
+    "Winner": "Meno. Raju Sooraj",
+    "StartDate": "2026.02.13",
+    "EndDate": "2026.02.15",
+    "GamesCount": "60",
+    "DateUpdated": "2026.04.08",
+    "PgnFileName": "202602blackpool.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Isle of Wight International",
+    "Winner": "three-way tie",
+    "StartDate": "2026.02.16",
+    "EndDate": "2026.02.22",
+    "GamesCount": "467",
+    "DateUpdated": "2026.02.24",
+    "PgnFileName": "202602iow.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Isle of Wight Congress - other sections",
+    "Winner": "2026.02.16",
+    "StartDate": "2026.02.22",
+    "EndDate": "410",
+    "GamesCount": "2026.02.24",
+    "DateUpdated": "",
+    "PgnFileName": "202602iowother.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "1st Warwick Univ Open",
+    "Winner": "Arya Cont",
+    "StartDate": "2026.02.28",
+    "EndDate": "2026.03.01",
+    "GamesCount": "98",
+    "DateUpdated": "2026.04.14",
+    "PgnFileName": "202602warwick.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Varsity Match Oxf-Cam",
+    "Winner": "Drawn",
+    "StartDate": "2026.03.07",
+    "EndDate": "",
+    "GamesCount": "8",
+    "DateUpdated": "2026.03.08",
+    "PgnFileName": "202603vars.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "British Rapidplay Ch'ship",
+    "Winner": "F Waldhausen Gordon",
+    "StartDate": "2026.03.14",
+    "EndDate": "2026.03.15",
+    "GamesCount": "1100",
+    "DateUpdated": "2026.03.16",
+    "PgnFileName": "202603britrapid.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Daventry 4NCL GM",
+    "Winner": "S Gumularz, M Harvey",
+    "StartDate": "2026.04.01",
+    "EndDate": "2026.04.06",
+    "GamesCount": "45",
+    "DateUpdated": "2026.04.07",
+    "PgnFileName": "202604daventry.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Daventry 4NCL IM",
+    "Winner": "Vojtech Plat",
+    "StartDate": "2026.04.03",
+    "EndDate": "2026.04.06",
+    "GamesCount": "45^",
+    "DateUpdated": "2026.04.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "Daventry 4NCL Open",
+    "Winner": "Ieysaa Bin-Suhayl",
+    "StartDate": "2026.04.03",
+    "EndDate": "2026.04.06",
+    "GamesCount": "159^",
+    "DateUpdated": "2026.04.07",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "Guildford Open",
+    "Winner": "Adam A Taylor",
+    "StartDate": "2026.04.10",
+    "EndDate": "2026.04.12",
+    "GamesCount": "107",
+    "DateUpdated": "2026.04.14",
+    "PgnFileName": "202604guildford.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Scottish International Championship",
+    "Winner": "J C Christiansen",
+    "StartDate": "2026.07.03",
+    "EndDate": "2026.07.08",
+    "GamesCount": "204",
+    "DateUpdated": "2026.09.13",
+    "PgnFileName": "202607scoch.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "County Final Surrey-Middx",
+    "Winner": "Surrey",
+    "StartDate": "2026.07.04",
+    "EndDate": "",
+    "GamesCount": "16",
+    "DateUpdated": "2026.07.05",
+    "PgnFileName": "202607countyfinal.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Sheffield IM",
+    "Winner": "S Banerjee, S Chow",
+    "StartDate": "2026.07.06",
+    "EndDate": "2026.07.10",
+    "GamesCount": "45",
+    "DateUpdated": "2026.07.11",
+    "PgnFileName": "202607sheffield.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Wood Green Invitational",
+    "Winner": "Shreyas Royal",
+    "StartDate": "2026.07.16",
+    "EndDate": "2026.07.20",
+    "GamesCount": "45",
+    "DateUpdated": "2026.07.26",
+    "PgnFileName": "202607woodgreen.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Sussex University Masters",
+    "Winner": "Eldar Gasanov",
+    "StartDate": "2026.07.21",
+    "EndDate": "2021.07.26",
+    "GamesCount": "255",
+    "DateUpdated": "2027.07.28",
+    "PgnFileName": "202607sussex.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Sussex University other",
+    "Winner": "",
+    "StartDate": "2026.07.21",
+    "EndDate": "2021.07.26",
+    "GamesCount": "449^",
+    "DateUpdated": "2027.07.28",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "GBR-ch112 Coventry",
+    "Winner": "Shreyas Royal",
+    "StartDate": "2026.08.01",
+    "EndDate": "2026.08.09",
+    "GamesCount": "465",
+    "DateUpdated": "2026.08.12",
+    "PgnFileName": "202608britchamp.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Women's Ch tie-break",
+    "Winner": "Bodhana Sivanandan",
+    "StartDate": "2026.08.09",
+    "EndDate": "",
+    "GamesCount": "2^",
+    "DateUpdated": "2026.08.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "GBR-ch Major Open",
+    "Winner": "Lion Lebedev",
+    "StartDate": "2026.08.01",
+    "EndDate": "2026.08.09",
+    "GamesCount": "698",
+    "DateUpdated": "2026.08.12",
+    "PgnFileName": "202608bcfmajoropen.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "GBR-ch Over 50",
+    "Winner": "Stephen Dishman",
+    "StartDate": "2026.08.03",
+    "EndDate": "2026.08.09",
+    "GamesCount": "194",
+    "DateUpdated": "2026.08.12",
+    "PgnFileName": "202608bcfsenior.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "GBR-ch Over 65",
+    "Winner": "Keith Arkell",
+    "StartDate": "2026.08.03",
+    "EndDate": "2026.08.09",
+    "GamesCount": "217^",
+    "DateUpdated": "2026.08.12",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "4th Lancaster Open",
+    "Winner": "T Wall, M Mitchell",
+    "StartDate": "2026.08.14",
+    "EndDate": "2026.08.16",
+    "GamesCount": "63",
+    "DateUpdated": "2026.08.26",
+    "PgnFileName": "202608lancaster.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Kingston Invitational",
+    "Winner": "Henry Adams",
+    "StartDate": "2026.08.17",
+    "EndDate": "2026.08.21",
+    "GamesCount": "303",
+    "DateUpdated": "2026.08.23",
+    "PgnFileName": "202608kingston.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Mindsports Open",
+    "Winner": "Tarun Tanyamarala, Piotr Brodowski",
+    "StartDate": "2026.08.24",
+    "EndDate": "2026.08.29",
+    "GamesCount": "303",
+    "DateUpdated": "2026.09.13",
+    "PgnFileName": "202608mindsports.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Mindsports Rapidplay",
+    "Winner": "Joseph Girel",
+    "StartDate": "2026.08.22",
+    "EndDate": "2026.08.23",
+    "GamesCount": "515^",
+    "DateUpdated": "2026.09.13",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "Menchik Memorial, London",
+    "Winner": "Klaudia Kulon",
+    "StartDate": "2026.08.24",
+    "EndDate": "2026.08.30",
+    "GamesCount": "44+1",
+    "DateUpdated": "2026.09.13",
+    "PgnFileName": "202608menchik.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "2nd Swindon Open",
+    "Winner": "Ilia Malinovskii",
+    "StartDate": "2026.08.28",
+    "EndDate": "2026.08.31",
+    "GamesCount": "138",
+    "DateUpdated": "2026.09.14",
+    "PgnFileName": "202608swindon.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Pall Mall Open",
+    "Winner": "Praveen Balakrishnan",
+    "StartDate": "2026.09.04",
+    "EndDate": "2026.09.06",
+    "GamesCount": "40",
+    "DateUpdated": "2026.09.14",
+    "PgnFileName": "202609pallmall.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Medway Open",
+    "Winner": "Can Durak",
+    "StartDate": "2026.09.25",
+    "EndDate": "2026.09.27",
+    "GamesCount": "52",
+    "DateUpdated": "2026.10.02",
+    "PgnFileName": "202609medway.pgn"
+  },
+  {
+    "Year": 2026,
+    "Name": "Medway U1800",
+    "Winner": "Gesneria-Codruta Cepoi",
+    "StartDate": "2026.09.25",
+    "EndDate": "2026.09.27",
+    "GamesCount": "62^",
+    "DateUpdated": "2026.10.02",
+    "PgnFileName": ""
+  },
+  {
+    "Year": 2026,
+    "Name": "Medway U1400",
+    "Winner": "(three-way tie)",
+    "StartDate": "2026.09.25",
+    "EndDate": "2026.09.27",
+    "GamesCount": "52",
+    "DateUpdated": "2026.10.02",
+    "PgnFileName": ""
+  }
+]

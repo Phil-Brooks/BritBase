@@ -1,0 +1,3262 @@
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.1"]
+[White "Grieve, Harry"]
+[Black "Czopor, Maciej"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2418"]
+[BlackElo "2415"]
+[PlyCount "113"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Qf3 Nf6 8.
+O-O-O Ne5 9. Qg3 b5 10. Bf4 d6 11. Bxb5+ axb5 12. Bxe5 dxe5 13. Ncxb5 Qc5 14.
+b4 Qb6 15. Qxe5 Bxb4 16. Nc7+ Kf8 17. Nxa8 Ba3+ 18. Kd2 Qc5 19. Qxc5+ Bxc5 20.
+Kc1 Bd7 21. Nb3 Ba3+ 22. Kb1 Ke7 23. Nb6 Bb5 24. c4 Bc6 25. f3 Rb8 26. c5 Bxc5
+27. Nxc5 Rxb6+ 28. Nb3 Nd7 29. Rc1 Ne5 30. Rhd1 g5 31. Rc5 f6 32. Kb2 g4 33. f4
+Nd7 34. Rc4 f5 35. exf5 exf5 36. g3 Nf6 37. Rc5 Bd7 38. Rd4 Re6 39. Re5 Rxe5
+40. fxe5 Ne4 41. a4 h5 42. a5 Bb5 43. Rb4 Bd3 44. Nd4 Nc5 45. Rb8 h4 46. Rh8
+hxg3 47. hxg3 Be4 48. Kc3 f4 49. gxf4 g3 50. Ne2 g2 51. Kd4 Na4 52. Kxe4 Nc3+
+53. Kf3 Nxe2 54. Kxg2 Nxf4+ 55. Kf3 Ng6 56. Rh7+ Ke6 57. Rh6 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.2"]
+[White "Lalic, Bogdan"]
+[Black "Roberson, Peter T"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2393"]
+[BlackElo "2429"]
+[PlyCount "37"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+b6 9. O-O Bb7 10. Bb2 Rc8 11. Rad1 c5 12. cxd5 Nxd5 13. Nxd5 Bxd5 14. e4 Bb7
+15. dxc5 Nxc5 16. e5 Nd7 17. Qd3 Bxf3 18. Qxf3 Be7 19. Bb5 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.3"]
+[White "Moreby, James"]
+[Black "Fitzsimons, David"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2319"]
+[BlackElo "2365"]
+[PlyCount "35"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. e3 d4
+9. exd4 cxd4 10. Re1 Re8 11. a3 a5 12. d3 Bc5 13. Ne5 Nxe5 14. Rxe5 Qd6 15. Qe1
+Bd7 16. Nd2 Bc6 17. Re2 Bxg2 18. Kxg2 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.4"]
+[White "Rowson, Jonathan"]
+[Black "Cherniaev, Alexander"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2561"]
+[BlackElo "2395"]
+[PlyCount "73"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 b6 2. e4 Bb7 3. Bd3 Nf6 4. Qe2 Nc6 5. c3 e5 6. Nf3 d6 7. O-O Be7 8. d5
+Nb8 9. c4 O-O 10. Nc3 a5 11. a3 Na6 12. Rb1 Nc5 13. Bc2 a4 14. Be3 Nfd7 15. Qd1
+Ba6 16. Nd2 Bg5 17. Nxa4 Bxe3 18. fxe3 Qh4 19. Nc3 Nf6 20. Qe1 Qh6 21. Rf3 Bc8
+22. Nb5 Bg4 23. Rg3 Rfc8 24. b4 Na4 25. Nf1 Bd7 26. Rf3 Ne8 27. Bb3 g6 28. Ra1
+Ra6 29. Qd1 Rca8 30. Qc2 Qg5 31. Re1 h5 32. Nd2 Kg7 33. Ref1 f6 34. Re1 c6 35.
+dxc6 Bxc6 36. Rg3 Qh6 37. Nf3 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.5"]
+[White "Willow, Jonah B"]
+[Black "Royal, Shreyas"]
+[Result "0-1"]
+[ECO "C95"]
+[WhiteElo "2385"]
+[BlackElo "2412"]
+[PlyCount "82"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b3
+g6 16. Bb2 Nh5 17. Bf1 Nf4 18. g3 Ne6 19. b4 Qc7 20. Nb3 Nb6 21. axb5 axb5 22.
+dxe5 dxe5 23. Qc2 Nc4 24. Bxc4 bxc4 25. Nbd2 Ba6 26. Ra5 Bb5 27. Rea1 Rxa5 28.
+Rxa5 Rb8 29. Nf1 c5 30. Ra1 Bg7 31. Rd1 Qa7 32. Ra1 Qb7 33. Ba3 Ra8 34. bxc5
+Nxc5 35. N3d2 Nd3 36. Ne3 Qc8 37. Nd5 Qxh3 38. Nc7 Rxa3 39. Rb1 Ba4 40. Rb8+
+Bf8 41. Qb1 Rxc3 0-1
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.1"]
+[White "Czopor, Maciej"]
+[Black "Royal, Shreyas"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2415"]
+[BlackElo "2412"]
+[PlyCount "61"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 d6 8.
+f4 Bg4 9. Bxf6 Bxd1 10. Bxd8 Rxd8 11. Rxd1 Nxc2 12. Nc3 Nxa1 13. Rxa1 exf4 14.
+Nd5 O-O 15. Be2 c6 16. Nxf4 Rde8 17. Bf3 f5 18. exf5 Rxf5 19. Nd3 d5 20. Rd1 h5
+21. h3 Kh7 22. b4 Kh6 23. a4 Re3 24. a5 Rf6 25. Nc5 b6 26. axb6 axb6 27. Nd7
+Rf7 28. Nxb6 Rb7 29. Nxd5 cxd5 30. Rxd5 Rxf3 31. gxf3 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.2"]
+[White "Cherniaev, Alexander"]
+[Black "Willow, Jonah B"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2395"]
+[BlackElo "2385"]
+[PlyCount "157"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. d4 cxd4 6. cxd4 g6 7. Qb3 e6 8. Nc3
+Nxc3 9. bxc3 d6 10. Bg5 Be7 11. Bh6 dxe5 12. Bg7 Rg8 13. Bxe5 Nxe5 14. Nxe5 Kf8
+15. Be2 Kg7 16. O-O Qc7 17. Bf3 Bd6 18. Rfe1 f6 19. Nd3 Bxh2+ 20. Kh1 Bd6 21.
+c4 Rd8 22. Rab1 Bf8 23. d5 exd5 24. cxd5 Bd6 25. Re4 Bf5 26. Rc4 Qb6 27. Qc2
+Qa6 28. Qb3 Rac8 29. Qxb7+ Qxb7 30. Rxb7+ Kg8 31. Nb2 Rb8 32. Rb3 Rxb3 33. axb3
+Rb8 34. Rc6 Be5 35. Nc4 Rxb3 36. Nxe5 fxe5 37. d6 Rd3 38. Be2 Rd2 39. Bc4+ Kg7
+40. Kg1 h5 41. Ra6 Kh6 42. Rxa7 Rxd6 43. Ra2 Kg5 44. Re2 e4 45. Re3 Kf4 46. Be2
+Rd2 47. g3+ Ke5 48. Kf1 Ra2 49. Ke1 Ra1+ 50. Kd2 Ra2+ 51. Ke1 Kd4 52. Rb3 Be6
+53. Rb8 Kc3 54. Rd8 Ra1+ 55. Rd1 Ra2 56. Rd6 Bf5 57. Rd8 Ra1+ 58. Rd1 Rxd1+ 59.
+Bxd1 Bg4 60. Ba4 g5 61. Kf1 Kd2 62. Kg1 Ke1 63. Bc6 Bf3 64. Bd7 Ke2 65. Bb5+
+Kd2 66. Bd7 Ke1 67. Bc8 Be2 68. Bf5 Bd3 69. Bd7 Kd2 70. Be8 Be2 71. Bg6 Bf3 72.
+Be8 Bg4 73. Bg6 e3 74. fxe3 Kxe3 75. Kg2 Bf3+ 76. Kg1 Bd1 77. Kg2 Be2 78. Be8
+Bf3+ 79. Kg1 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.3"]
+[White "Fitzsimons, David"]
+[Black "Rowson, Jonathan"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2365"]
+[BlackElo "2561"]
+[PlyCount "114"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Nf3 Be7 8. c5
+O-O 9. Bb5 Ne4 10. Bxe7 Nxe7 11. Rc1 Ng6 12. O-O Bd7 13. Bxd7 Qxd7 14. Re1 f5
+15. b4 a6 16. Na4 Rad8 17. Nb6 Qe7 18. a4 Rf6 19. Qb3 Qc7 20. b5 axb5 21. Qxb5
+Ne7 22. Ne5 Nc6 23. Nxc6 bxc6 24. Qe2 Rh6 25. h3 e5 26. f3 exd4 27. fxe4 fxe4
+28. a5 d3 29. Qd2 Qa7 30. Qa2 Re6 31. Re3 Qa6 32. Rb1 h6 33. Kh2 Kh8 34. Rd1
+Rde8 35. Qa4 R8e7 36. Qb4 Qa7 37. Nc8 Qc7+ 38. Nd6 Qd8 39. a6 Qf8 40. Kh1 Rf6
+41. Ree1 e3 42. Rxd3 Rf4 43. Rd4 Rf1+ 44. Kh2 Qf2 45. Rxf1 Qxf1 46. Qb8+ Kh7
+47. a7 e2 48. a8=Q e1=Q 49. Qh8+ Kg6 50. Rg4+ Kh5 51. Rh4+ Kxh4 52. Qa4+ Re4
+53. Qd8+ g5 54. Qxe4+ dxe4 55. Nf5+ Qxf5 56. Qd6 Qf4+ 57. g3+ Qexg3+ 0-1
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.4"]
+[White "Roberson, Peter T"]
+[Black "Moreby, James"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2429"]
+[BlackElo "2319"]
+[PlyCount "86"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8.
+g4 e6 9. g5 Nd5 10. Ne4 Qb6 11. Bg2 c5 12. c4 Nb4 13. dxc5 Bxc5 14. Nxc5 Qxc5
+15. Qc3 N8c6 16. O-O Qe5 17. Bd2 Qf5 18. Qxg7 O-O-O 19. Bxb4 Rhg8 20. Qf6 Qxf6
+21. gxf6 Nxb4 22. Rfd1 Rxd1+ 23. Rxd1 Rg6 24. Rd4 Rxf6 25. a3 Nc6 26. Bxc6 bxc6
+27. Kg2 Kc7 28. b4 e5 29. Rh4 h6 30. Rh5 Kd6 31. f3 Rg6+ 32. Kf2 Ke6 33. b5
+cxb5 34. cxb5 f5 35. a4 Rf6 36. Ke3 Kd5 37. Rh4 f4+ 38. Kd3 a6 39. Rg4 axb5 40.
+axb5 Rb6 41. Rg8 Rxb5 42. Rd8+ Ke6 43. Rh8 Rb3+ 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.5"]
+[White "Grieve, Harry"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2418"]
+[BlackElo "2393"]
+[PlyCount "32"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 cxd4 7. cxd4 Qb6 8. O-O
+Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Qh5 Ne7 12. Nf3 Ng6 13. Bd2 Bc5 14. b4 Be7
+15. Rac1 O-O 16. Bg5 Bb5 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.1"]
+[White "Lalic, Bogdan"]
+[Black "Czopor, Maciej"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2393"]
+[BlackElo "2415"]
+[PlyCount "71"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c5 7. d5 e6 8. dxe6
+fxe6 9. Nc3 Nc6 10. Bf4 Ne8 11. Qd2 Nd4 12. Bh6 Bxh6 13. Qxh6 Nf5 14. Qd2 Bd7
+15. Rad1 Bc6 16. e4 Nfg7 17. Ne5 Qf6 18. Nxc6 bxc6 19. e5 Qxe5 20. Bxc6 Rb8 21.
+Rfe1 Qf6 22. b3 Rb6 23. Ne4 Qf5 24. Bxe8 Nxe8 25. f4 h6 26. Qe2 Qf7 27. Rd3 Qe7
+28. Nc3 Nc7 29. Nd5 Nxd5 30. cxd5 e5 31. fxe5 dxe5 32. Qxe5 Qf7 33. d6 Rxd6 34.
+Rxd6 Qf2+ 35. Kh1 Qf3+ 36. Kg1 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.2"]
+[White "Moreby, James"]
+[Black "Grieve, Harry"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2319"]
+[BlackElo "2418"]
+[PlyCount "49"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 Nf6 8.
+O-O-O Ne5 9. Qg3 b5 10. Bxb5 axb5 11. Ndxb5 Qb8 12. Bf4 d6 13. Rxd6 Nh5 14. Qg5
+Bxd6 15. Nxd6+ Qxd6 16. Bxe5 Ra5 17. Nd5 Qd7 18. Bxg7 Rg8 19. Qxh5 exd5 20.
+Qxh7 Rxg7 21. Qxg7 Rxa2 22. Qh8+ Ke7 23. Qe5+ Kf8 24. Qh8+ Ke7 25. Qe5+ 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.3"]
+[White "Rowson, Jonathan"]
+[Black "Roberson, Peter T"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2561"]
+[BlackElo "2429"]
+[PlyCount "61"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd2 O-O 8. h3
+e5 9. g4 exd4 10. Nxd4 Ne5 11. cxd5 Nxd5 12. Nxd5 cxd5 13. Bc3 Bd7 14. Bg2 Rc8
+15. Qe2 Re8 16. Bxd5 Ng6 17. Qd2 b5 18. Rd1 Nf4 19. Bb3 b4 20. Bxb4 Bxb4 21.
+Qxb4 Qh4 22. Ne2 Ng2+ 23. Kf1 Bc6 24. Rh2 Rxe3 25. fxe3 Nxe3+ 26. Kg1 Nxd1 27.
+Bxd1 Bf3 28. Kf1 Bxe2+ 29. Rxe2 Qxh3+ 30. Rg2 Qh1+ 31. Rg1 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.4"]
+[White "Willow, Jonah B"]
+[Black "Fitzsimons, David"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2385"]
+[BlackElo "2365"]
+[PlyCount "87"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 c5 7. O-O Nxe4 8.
+Bxe4 Nf6 9. Bd3 cxd4 10. Nxd4 Be7 11. c3 O-O 12. Qe2 Bd7 13. Rd1 Re8 14. Bf4
+Qb6 15. Be5 Red8 16. Bc2 Bc6 17. Nxe6 Bb5 18. c4 Qxe6 19. cxb5 Ng4 20. Qe4 f5
+21. Qxg4 fxg4 22. Bb3 Qxb3 23. axb3 Bc5 24. Kf1 Bb6 25. Rac1 Rxd1+ 26. Rxd1 Rf8
+27. Rd2 Rf5 28. Bc3 h5 29. Ke1 g5 30. f3 gxf3 31. gxf3 Kf7 32. Rd7+ Ke6 33. Rg7
+Rxb5 34. Ke2 Bd8 35. Rh7 h4 36. b4 Be7 37. Kd3 a6 38. Ke4 Bxb4 39. Rh6+ Kd7 40.
+Be5 Be7 41. Rh7 Ke6 42. Rh6+ Kd7 43. Rh7 Ke6 44. Rh6+ 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.5"]
+[White "Royal, Shreyas"]
+[Black "Cherniaev, Alexander"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2412"]
+[BlackElo "2395"]
+[PlyCount "59"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 e5 5. e3 Nd7 6. Be2 Ngf6 7. O-O O-O 8. b4
+Re8 9. Qc2 a5 10. b5 b6 11. dxe5 Nxe5 12. Nxe5 Rxe5 13. Bf3 Rb8 14. Bb2 Re8 15.
+Rad1 Bg4 16. Bxg4 Nxg4 17. h3 Ne5 18. Nd5 Nd7 19. Bxg7 Kxg7 20. Qc3+ f6 21. Rd4
+Rf8 22. h4 Rf7 23. h5 Nc5 24. Rg4 Qd7 25. f3 Ne6 26. h6+ Kxh6 27. Nxf6 Qd8 28.
+Rh4+ Kg5 29. f4+ Kxh4 30. Qe1# 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.1"]
+[White "Czopor, Maciej"]
+[Black "Cherniaev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2415"]
+[BlackElo "2395"]
+[PlyCount "83"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 g6 4. d4 Bg7 5. h3 Nh6 6. Bd3 f6 7. O-O O-O 8. Re1
+Nf7 9. e5 fxe5 10. dxe5 e6 11. Bf4 c5 12. Qd2 Nc6 13. Bg3 a6 14. Bf1 b5 15. a3
+Bb7 16. Na2 Qb6 17. h4 Bh6 18. Qd1 Ne7 19. Bh2 d4 20. Nd2 Bxd2 21. Qxd2 Nf5 22.
+h5 Qc6 23. Qe2 g5 24. Qg4 Kh8 25. Bd3 Rg8 26. Be4 Qb6 27. Rad1 N7h6 28. Qe2
+Raf8 29. Nc1 Ne3 30. fxe3 Bxe4 31. exd4 Bd5 32. dxc5 Qxc5+ 33. Qe3 Qc6 34. Rd2
+Nf5 35. Qc3 Qb6+ 36. Kh1 Rc8 37. Qd3 Rc4 38. Rf1 Rd4 39. Qc3 Rc4 40. Qd3 Rd4
+41. Qc3 Rc4 42. Qd3 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.2"]
+[White "Fitzsimons, David"]
+[Black "Royal, Shreyas"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[WhiteElo "2365"]
+[BlackElo "2412"]
+[PlyCount "77"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6 dxc6 7. d3 Nd7 8.
+Ne2 Re8 9. Bg5 f6 10. Be3 Nf8 11. Nh4 Ng6 12. Nxg6 hxg6 13. f4 Bg4 14. fxe5
+Rxe5 15. h3 Rxe4 16. dxe4 Qxd1 17. Rfxd1 Bxe2 18. Rd7 Bd6 19. b3 g5 20. g4 Bf3
+21. c4 c5 22. e5 Bxe5 23. Rf1 Bc6 24. Rd3 b6 25. Rfd1 Bd6 26. Bf2 Re8 27. Bg3
+Bxg3 28. Rxg3 Re2 29. Rd8+ Kh7 30. Rc8 Rxa2 31. Rxc7 Be4 32. Re3 f5 33. gxf5
+Bxf5 34. Ree7 Rb2 35. Rxg7+ Kh6 36. Rgf7 Rb1+ 37. Kg2 Rb2+ 38. Kg1 Rb1+ 39. Kg2
+1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.3"]
+[White "Roberson, Peter T"]
+[Black "Willow, Jonah B"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2429"]
+[BlackElo "2385"]
+[PlyCount "64"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Na3 Nc6 7. Be3 cxd4 8.
+Nb5 Qd7 9. Nbxd4 Nd5 10. Qc2 Nxe3 11. fxe3 a6 12. O-O-O Qc7 13. Bd3 g6 14. Nxc6
+bxc6 15. h4 Bh6 16. h5 Bb7 17. hxg6 hxg6 18. Bxg6 Bxe3+ 19. Kb1 Rxh1 20. Rxh1
+O-O-O 21. Rh7 Qd6 22. Rxf7 Rg8 23. a3 c5 24. Be4 Bxe4 25. Qxe4 Qd1+ 26. Ka2
+Qd5+ 27. Qxd5 exd5 28. Rf5 Rxg2 29. Rxd5 Bc1 30. Rxc5+ Kb7 31. Kb3 Rxb2+ 32.
+Kc4 Rf2 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.4"]
+[White "Grieve, Harry"]
+[Black "Rowson, Jonathan"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2418"]
+[BlackElo "2561"]
+[PlyCount "49"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. Qb3
+e6 9. Bd2 Nd7 10. Nf3 Ne7 11. Nc3 Nf5 12. a4 Nb6 13. a5 Nc4 14. Bg5 Rc8 15. Ne2
+b6 16. O-O bxa5 17. bxa5 Be7 18. Bxe7 Kxe7 19. Rfb1 Rhd8 20. Nf4 c5 21. Nxh5
+Nxd4 22. Nxd4 cxd4 23. Qg3 g6 24. Nf6 Nd2 25. Qa3+ 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.5"]
+[White "Lalic, Bogdan"]
+[Black "Moreby, James"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2393"]
+[BlackElo "2319"]
+[PlyCount "37"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. c4 c6 2. e4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nc6 7. Bb5 e6 8.
+O-O Nxc3 9. dxc3 Qxd1 10. Rxd1 Bd7 11. Be3 f6 12. Rd2 e5 13. Rad1 Be6 14. Ne1
+Be7 15. Nd3 O-O-O 16. Bxc6 bxc6 17. b3 a6 18. Bb6 Rd7 19. f3 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.1"]
+[White "Moreby, James"]
+[Black "Czopor, Maciej"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2319"]
+[BlackElo "2415"]
+[PlyCount "108"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. c4 e6 2. e4 c5 3. Nf3 Nc6 4. Nc3 Nd4 5. d3 Ne7 6. Nxd4 cxd4 7. Ne2 Nc6 8. g3
+Bb4+ 9. Bd2 Qa5 10. a3 Bxd2+ 11. Qxd2 Qxd2+ 12. Kxd2 e5 13. Bg2 d6 14. f4 Ke7
+15. b4 Bd7 16. Rhc1 f6 17. Ng1 g5 18. Ne2 h5 19. f5 h4 20. g4 Rhb8 21. Rcb1 b5
+22. Nc1 a5 23. cxb5 Rxb5 24. bxa5 Rbxa5 25. Rb3 R8a7 26. Bf3 Nd8 27. Bd1 Nb7
+28. Rb4 Nc5 29. Nb3 Rxa3 30. Rxa3 Rxa3 31. Bc2 Ra2 32. Nxc5 dxc5 33. Rb7 Kd8
+34. Kc1 Ra1+ 35. Bb1 c4 36. Kb2 Ra4 37. Bc2 c3+ 38. Kb1 Ra5 39. Bb3 Rb5 40.
+Rxb5 Bxb5 41. Bc2 Kc7 42. Ka2 Kb6 43. Ka3 Kc5 44. h3 Bc6 45. Kb3 Kb5 46. Bd1
+Be8 47. Ka3 Ka5 48. Bb3 Bc6 49. Bd1 c2 50. Bxc2 Bb5 51. Kb2 Kb4 52. Bb1 Ba4 53.
+Kc1 Kc3 54. Bc2 Bb5 0-1
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.2"]
+[White "Rowson, Jonathan"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2561"]
+[BlackElo "2393"]
+[PlyCount "44"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Qa4+ Nc6 7. Bg5 h6 8.
+Bxf6 Qxf6 9. e3 O-O 10. Be2 Be6 11. O-O a6 12. Qc2 Rfd8 13. Rfc1 Bd6 14. Na4
+Ne7 15. Nc5 Bc8 16. e4 Bf4 17. e5 Qc6 18. Nd2 Nf5 19. Ncb3 Qxc2 20. Rxc2 c5 21.
+Rxc5 Bxd2 22. Nxd2 Nxd4 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.3"]
+[White "Willow, Jonah B"]
+[Black "Grieve, Harry"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2385"]
+[BlackElo "2418"]
+[PlyCount "96"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. g4 Nxd4 8.
+Qxd4 b5 9. O-O-O Bb7 10. f3 Rc8 11. Kb1 b4 12. Bf4 Qc6 13. Ne2 d5 14. Qd2 dxe4
+15. Nd4 Qb6 16. Bc4 Nf6 17. g5 Rxc4 18. gxf6 Rxd4 19. Qxd4 Qxd4 20. Rxd4 exf3
+21. fxg7 Bxg7 22. Rxb4 Bd5 23. Rg1 Bf6 24. c4 Bc6 25. c5 e5 26. Bxe5 Bxe5 27.
+Re1 f6 28. Rb8+ Ke7 29. Rxh8 Bb5 30. c6 f2 31. Rc1 f1=Q 32. Rxf1 Bxf1 33. Rxh7+
+Kd8 34. Rd7+ Ke8 35. Rg7 Bh3 36. a4 a5 37. Ra7 f5 38. Rh7 Bg2 39. c7 Bb7 40.
+Kc1 f4 41. Kd2 Bd4 42. Rh3 Be3+ 43. Rxe3+ fxe3+ 44. Kxe3 Kd7 45. Kd4 Kxc7 46.
+Kc5 Bc6 47. b4 axb4 48. Kxb4 Be4 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.4"]
+[White "Royal, Shreyas"]
+[Black "Roberson, Peter T"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2412"]
+[BlackElo "2429"]
+[PlyCount "140"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Qc2 dxc4 5. Qxc4 Nf6 6. g3 b5 7. Qb3 Bb7 8. Bg2
+a6 9. Be3 Nbd7 10. a4 Be7 11. O-O O-O 12. Nbd2 Rb8 13. Rfc1 Nd5 14. Ne4 bxa4
+15. Qd3 Nxe3 16. Qxe3 Qb6 17. Nc5 Nxc5 18. dxc5 Qxb2 19. Rab1 Qa2 20. Ne5 Ba8
+21. Rxb8 Rxb8 22. Bxc6 a3 23. Bxa8 Rxa8 24. Nc4 Rc8 25. Nb6 Rc7 26. Na4 g6 27.
+Qd3 h5 28. Nc3 Qb2 29. Rb1 a2 30. Rxb2 a1=Q+ 31. Rb1 Qa3 32. Rb8+ Kg7 33. Qd4+
+Bf6 34. Qd6 Qxc5 35. Ne4 Qxd6 36. Nxd6 Rc1+ 37. Kg2 Be5 38. Rb6 a5 39. f4 Bxd6
+40. Rxd6 Rc3 41. Ra6 Ra3 42. e4 a4 43. h4 Ra1 44. Ra8 a3 45. e5 f5 46. exf6+
+Kxf6 47. Ra7 a2 48. Ra5 Ke7 49. Kh2 Kd6 50. Kg2 Kc6 51. Kh2 Kb6 52. Ra8 Kc5 53.
+Kg2 Kc4 54. Ra6 Kb3 55. Rb6+ Kc3 56. Rc6+ Kb4 57. Ra6 Kc4 58. Ra8 Kd5 59. Ra6
+Kd4 60. Ra8 Kd3 61. Ra3+ Ke4 62. Ra6 Kf5 63. Ra5+ Kf6 64. Ra7 e5 65. Ra6+ Kf5
+66. fxe5 Kxe5 67. Ra8 Kd4 68. Rd8+ Kc5 69. Rc8+ Kb6 70. Ra8 Kb7 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.5"]
+[White "Cherniaev, Alexander"]
+[Black "Fitzsimons, David"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2395"]
+[BlackElo "2365"]
+[PlyCount "17"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 e6 5. Nge2 Nf6 6. O-O a6 7. a4 d5 8. exd5
+exd5 9. Ba2 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.1"]
+[White "Czopor, Maciej"]
+[Black "Fitzsimons, David"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2415"]
+[BlackElo "2365"]
+[PlyCount "85"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. dxc5 Bxc5 8. b4
+Bxd3 9. Qxd3 Bf8 10. O-O Nc6 11. Be3 Qc7 12. Na3 a6 13. c4 Bxb4 14. cxd5 exd5
+15. Rab1 Nge7 16. Nc2 Ba5 17. Bf4 O-O 18. Ne3 Rad8 19. Bg3 Qd7 20. Ng5 Ng6 21.
+f4 Bb4 22. Rfc1 Be7 23. h4 Bxg5 24. hxg5 b5 25. Rc5 Nge7 26. Rbc1 d4 27. Nf1
+Rc8 28. Bf2 Rfd8 29. Ng3 Nd5 30. Qf3 Nc3 31. Nh5 Ne7 32. Rxc8 Rxc8 33. Rc2 d3
+34. Rd2 Rd8 35. Bb6 Rb8 36. Rxd3 Ned5 37. Bc5 b4 38. Bd6 Rb5 39. Kh2 a5 40.
+Nf6+ gxf6 41. gxf6 Qf5 42. Qg3+ Qg6 43. Qh3 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.2"]
+[White "Roberson, Peter T"]
+[Black "Cherniaev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2429"]
+[BlackElo "2395"]
+[PlyCount "81"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 c6 5. f4 b5 6. a3 a6 7. Nf3 Nd7 8. Be2 Nb6
+9. O-O Nf6 10. Qe1 a5 11. Bd3 b4 12. axb4 axb4 13. Rxa8 Nxa8 14. Nd1 Qb6 15. e5
+Nd5 16. exd6 O-O 17. dxe7 Re8 18. Bd2 Rxe7 19. Qf2 Nac7 20. c4 bxc3 21. bxc3
+Ba6 22. Bxa6 Qxa6 23. Re1 Rxe1+ 24. Qxe1 c5 25. dxc5 Bf8 26. g3 Bxc5+ 27. Kg2
+Qa2 28. Nf2 Ne6 29. Qe5 h5 30. f5 gxf5 31. c4 Qxc4 32. Ng5 Nxg5 33. Bxg5 Bxf2
+34. Kxf2 Qe4 35. Qb8+ Kg7 36. Qb2+ f6 37. Bd2 h4 38. Qb7+ Kg6 39. Qc8 Qd4+ 40.
+Ke2 Qe4+ 41. Kf2 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.3"]
+[White "Grieve, Harry"]
+[Black "Royal, Shreyas"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2418"]
+[BlackElo "2412"]
+[PlyCount "79"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. e5 Ne4 8.
+Nxd4 Nxd4 9. Qxd4 Nc5 10. Nc3 O-O 11. Bb3 Nxb3 12. cxb3 d6 13. Bf4 dxe5 14.
+Qxe5 Bd6 15. Qd4 Bxf4 16. Qxf4 Be6 17. Rad1 Qe7 18. Rfe1 c6 19. Rd3 Rfe8 20.
+Rg3 Kh8 21. h4 Rad8 22. Ree3 h6 23. Ne4 Qf8 24. Rxg7 Qxg7 25. Nf6 Rd1+ 26. Kh2
+Red8 27. Rg3 R1d4 28. Rxg7 Kxg7 29. Qe5 Kf8 30. Nh7+ Kg8 31. Nf6+ Kf8 32. h5
+Rd2 33. Ne4 Re2 34. f3 Bd5 35. Qh8+ Ke7 36. Qf6+ Kd7 37. Nc3 Rd2 38. Nxd5 cxd5
+39. Qxf7+ Kc6 40. Qf6+ 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.4"]
+[White "Lalic, Bogdan"]
+[Black "Willow, Jonah B"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[WhiteElo "2393"]
+[BlackElo "2385"]
+[PlyCount "12"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.5"]
+[White "Moreby, James"]
+[Black "Rowson, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2319"]
+[BlackElo "2561"]
+[PlyCount "62"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 c6 7. e3 Be7 8.
+Bd3 O-O 9. Qc2 Re8 10. h3 Nf8 11. Bf4 Be6 12. O-O Rc8 13. Rfd1 Ng6 14. Bh2 Bd6
+15. Bxd6 Qxd6 16. Rab1 Bd7 17. b4 Re7 18. b5 c5 19. dxc5 Rxc5 20. Qd2 Re8 21.
+Na4 Rc7 22. Rdc1 b6 23. Rxc7 Qxc7 24. Rc1 Qd6 25. Qc3 Nf8 26. Nd4 Rc8 27. Qb2
+Rxc1+ 28. Qxc1 Ne6 29. Qc3 Nc5 30. Nxc5 Qxc5 31. Qb2 Kf8 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.1"]
+[White "Rowson, Jonathan"]
+[Black "Czopor, Maciej"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "2561"]
+[BlackElo "2415"]
+[PlyCount "42"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Bd6 7. e3 O-O 8. Bd3
+h6 9. Bh4 Re8 10. Nge2 a5 11. h3 Na6 12. a3 Nc7 13. g4 Ne6 14. a4 Bd7 15. Kf1
+Rc8 16. Rd1 c5 17. Kg2 g5 18. Bg3 Bxg3 19. Kxg3 cxd4 20. exd4 Kg7 21. Kg2 Qb6
+1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.2"]
+[White "Willow, Jonah B"]
+[Black "Moreby, James"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2385"]
+[BlackElo "2319"]
+[PlyCount "53"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Ne7 6. Nf3 Nd7 7. Be2 Nc8 8. O-O
+Be7 9. a4 O-O 10. a5 a6 11. Bd2 Na7 12. Ra4 c5 13. dxc5 Bxc5 14. Nxc5 Nxc5 15.
+Rf4 Qc7 16. Bb4 Rfc8 17. c4 Be4 18. cxd5 Bxd5 19. Qb1 Bxf3 20. Bxf3 Qxe5 21.
+Rc4 Nb3 22. Rh4 g6 23. Bxb7 Rab8 24. Bxc8 Rxc8 25. Qd3 Qxb2 26. Rc4 Nc6 27.
+Rxc6 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.3"]
+[White "Royal, Shreyas"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[WhiteElo "2412"]
+[BlackElo "2393"]
+[PlyCount "51"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 Nc6 9. O-O b6 10. Be3 Na5 11. Bd3 c5 12. Qd2 e5 13. Bg5 Qd6 14. Bh6 cxd4
+15. cxd4 exd4 16. Bxg7 Kxg7 17. f4 f6 18. Rf3 Bg4 19. Rg3 Bxe2 20. Bxe2 Rae8
+21. Bd3 Nb7 22. Rh3 Kh8 23. f5 g5 24. Re1 Nc5 25. Qd1 Nxd3 26. Rxd3 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.4"]
+[White "Cherniaev, Alexander"]
+[Black "Grieve, Harry"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2395"]
+[BlackElo "2418"]
+[PlyCount "39"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. Bc4 d6 6. d4 cxd4 7. cxd4 Be7 8. O-O
+O-O 9. Qe2 a6 10. Rd1 b5 11. Bxd5 exd5 12. Nc3 Be6 13. Bf4 Nc6 14. Rac1 Rc8 15.
+h3 Re8 16. Qe3 Qd7 17. Ne2 Bf5 18. Nc3 Be6 19. Ne2 Bf5 20. Nc3 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.5"]
+[White "Fitzsimons, David"]
+[Black "Roberson, Peter T"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2365"]
+[BlackElo "2429"]
+[PlyCount "103"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 Be7 8. a3
+O-O 9. Nf4 Qa5 10. Ra2 Nxd4 11. Nxd4 cxd4 12. b4 Qb6 13. cxd4 f6 14. exf6 Nxf6
+15. Bd3 Bd6 16. Be3 a5 17. b5 Qc7 18. g3 e5 19. dxe5 Bxe5 20. O-O Qf7 21. Be2
+Kh8 22. Rc2 Bf5 23. Bd3 Bd7 24. Be2 d4 25. Bc4 Qe8 26. Bc1 Bxb5 27. Bxb5 Qxb5
+28. Ne6 Rfc8 29. Nxd4 Qd5 30. Rxc8+ Rxc8 31. Nf3 Qxd1 32. Rxd1 Bc3 33. Rd6 b5
+34. Rb6 b4 35. axb4 Bxb4 36. Bd2 Bxd2 37. Nxd2 Ra8 38. Nb1 h5 39. Nc3 a4 40.
+Rb2 Nd7 41. Ne4 Ne5 42. Rb5 a3 43. Nc3 Nf3+ 44. Kg2 Ne1+ 45. Kf1 Nc2 46. Rxh5+
+Kg8 47. Na2 Rb8 48. Ra5 Rb2 49. Nc3 Rb3 50. Na2 Rb2 51. Nc3 Rb3 52. Na2 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.1"]
+[White "Czopor, Maciej"]
+[Black "Roberson, Peter T"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2415"]
+[BlackElo "2429"]
+[PlyCount "75"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1
+Nh6 9. Qe2 Be7 10. a3 Nf5 11. b4 Rc8 12. Bb2 O-O 13. Bxf5 exf5 14. cxd4 Be6 15.
+Rd1 g5 16. Nc3 Qd8 17. Rac1 f4 18. h3 Qd7 19. Nh2 Bf5 20. Qf3 Rcd8 21. Ng4 Qe6
+22. Nxd5 Rxd5 23. Nh6+ Qxh6 24. Qxd5 Qe6 25. Qf3 Qa2 26. Ba1 Bd8 27. d5 Ne7 28.
+e6 Bb6 29. d6 Qxe6 30. dxe7 Qxe7 31. Re1 Qd6 32. Qc3 f6 33. Rcd1 Qb8 34. Re7
+Bg6 35. Qc4+ Bf7 36. Rdd7 f3 37. Rxf7 Bxf2+ 38. Kxf2 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.2"]
+[White "Grieve, Harry"]
+[Black "Fitzsimons, David"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "2418"]
+[BlackElo "2365"]
+[PlyCount "43"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. b3 c5 5. Bb2 Nbd7 6. Nbd2 Be7 7. Bd3 b6 8. O-O
+Bb7 9. Qe2 O-O 10. Ne5 Nxe5 11. dxe5 Ne4 12. Nxe4 dxe4 13. Ba6 Bxa6 14. Qxa6
+Qc8 15. Qxc8 Raxc8 16. c4 Rfd8 17. Rfd1 Rxd1+ 18. Rxd1 Rd8 19. Rxd8+ Bxd8 20.
+g4 g5 21. Kf1 Be7 22. Ke2 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.3"]
+[White "Lalic, Bogdan"]
+[Black "Cherniaev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[WhiteElo "2393"]
+[BlackElo "2395"]
+[PlyCount "25"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. d5 e5
+9. dxe6 Bxe6 10. b3 Na6 11. Ng5 Qe7 12. Nxe6 Qxe6 13. Bb2 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.4"]
+[White "Moreby, James"]
+[Black "Royal, Shreyas"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2319"]
+[BlackElo "2412"]
+[PlyCount "28"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 Nxb5 7. a4 Nbd4 8.
+Nxd4 Nxd4 9. Qxd4 d5 10. exd6 Qxd6 11. Qe4+ Qe6 12. Qd4 Qd6 13. Qe4+ Qe6 14.
+Qd4 Qd6 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.5"]
+[White "Rowson, Jonathan"]
+[Black "Willow, Jonah B"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2561"]
+[BlackElo "2385"]
+[PlyCount "101"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 c5 5. d5 O-O 6. f3 d6 7. e4 exd5 8. cxd5
+Nh5 9. g4 Qh4+ 10. Ke2 Ng3+ 11. hxg3 Qxh1 12. Kf2 c4 13. Be3 h5 14. Bg2 Qh2 15.
+Nb5 Nd7 16. Ne2 hxg4 17. f4 Nc5 18. Kf1 Nd3 19. Qc2 Bc5 20. Bxc5 Nxc5 21. Nxd6
+b6 22. b4 cxb3 23. axb3 Ba6 24. Rxa6 Nxa6 25. e5 Rad8 26. Nf5 Rfe8 27. d6 Qh5
+28. Ned4 Nc5 29. b4 Ne6 30. Nc6 g6 31. Nfe7+ Kg7 32. Nd5 Qh2 33. Qf2 Rh8 34. b5
+Rh3 35. f5 gxf5 36. Nxd8 Nxd8 37. Qxf5 Rh6 38. Nf4 Qxg3 39. Qg5+ Rg6 40. Nxg6
+Qd3+ 41. Kg1 Qd4+ 42. Kh1 fxg6 43. Qf6+ Kh7 44. Qe7+ Kh6 45. Qh4+ Kg7 46. Qf6+
+Kh7 47. Kh2 Qe3 48. Qe7+ Kh6 49. Qh4+ Kg7 50. Qf6+ Kh7 51. Qe7+ 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.1"]
+[White "Willow, Jonah B"]
+[Black "Czopor, Maciej"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2385"]
+[BlackElo "2415"]
+[PlyCount "93"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. e5 Ne4 8.
+Nxd4 Nxd4 9. Qxd4 Nc5 10. Nc3 O-O 11. Rd1 d6 12. Be3 Be6 13. exd6 Qxd6 14. Qb4
+Qb6 15. Qa3 Qa5 16. Bd2 Bd6 17. Bf4 Bxf4 18. b4 Qb6 19. bxc5 Qa5 20. Ne2 Be5
+21. Nd4 Bc4 22. Rab1 Bb5 23. Rb4 Bxd4 24. Rbxd4 Bxa4 25. Rxa4 Rad8 26. Rf1 Qb5
+27. Qb3 Qc6 28. Rb4 Qxc5 29. Rxb7 h6 30. Qa4 Rd6 31. Rb4 Rc6 32. c4 Rd8 33. Qb3
+a5 34. Rb5 Qxc4 35. Qxc4 Rxc4 36. Rxa5 Rd2 37. Ra7 Rb2 38. g3 g6 39. a4 Ra2 40.
+a5 Kg7 41. Ra8 h5 42. a6 Rc6 43. a7 Rca6 44. Rc8 Rxa7 45. Rc1 Ra1 46. R8xc7
+Rxc7 47. Rxa1 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.2"]
+[White "Royal, Shreyas"]
+[Black "Rowson, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2412"]
+[BlackElo "2561"]
+[PlyCount "50"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. Qc2 h6 10. Bc3 d6 11. a3 Bxc3 12. Nxc3 Nbd7 13. e4 e5 14. d5 c6 15. dxc6
+Bxc6 16. Rfd1 Qc7 17. Qd3 Qb7 18. Qxd6 Rfe8 19. b4 axb4 20. axb4 Rxa1 21. Rxa1
+Nxe4 22. Nxe4 Bxe4 23. Nh4 Nf6 24. Re1 Bxg2 25. Nxg2 Ne4 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.3"]
+[White "Cherniaev, Alexander"]
+[Black "Moreby, James"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2395"]
+[BlackElo "2319"]
+[PlyCount "137"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. c4 e6 2. g3 d5 3. d4 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Qc2 Nbd7 8. Rd1
+b6 9. Nc3 Ba6 10. b3 Rc8 11. e4 dxc4 12. Bf4 Bb4 13. Nd2 Qe7 14. Nxc4 Bxc4 15.
+bxc4 e5 16. dxe5 Nxe5 17. Ne2 Bc5 18. Nd4 Rfd8 19. Nb3 Bd6 20. h3 c5 21. Be3
+Qe6 22. Rac1 Bb8 23. Rxd8+ Rxd8 24. f4 Nc6 25. e5 Ne8 26. Bf2 Ne7 27. Rd1 Qc8
+28. Rxd8 Qxd8 29. Nd2 f6 30. exf6 Nxf6 31. Ne4 Nxe4 32. Qxe4 Kh8 33. Be1 Qd4+
+34. Qxd4 cxd4 35. Be4 Bd6 36. Kf2 g6 37. Ke2 Kg7 38. Bf2 Bc5 39. Kd3 Kf6 40.
+Bxd4+ Bxd4 41. Kxd4 Ke6 42. c5 bxc5+ 43. Kxc5 Nc8 44. g4 Nd6 45. Bd5+ Kd7 46.
+Kd4 Ne8 47. Ke5 Ke7 48. Bc4 h6 49. Bd3 Kf7 50. g5 hxg5 51. fxg5 Ng7 52. Kd6 Nh5
+53. Ke5 Ng3 54. a4 Nh1 55. h4 Ng3 56. a5 Nh5 57. a6 Ng7 58. Kd6 Nh5 59. Kc7 Nf4
+60. Be4 Ke7 61. Kb7 Kd7 62. Bc6+ Kd6 63. Be8 Ne6 64. Bxg6 Nc5+ 65. Kxa7 Kc7 66.
+h5 Nd7 67. h6 Nb6 68. Bf5 Nc8+ 69. Bxc8 1-0
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.4"]
+[White "Fitzsimons, David"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2365"]
+[BlackElo "2393"]
+[PlyCount "20"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bg5 Ba6 10. Qa4 c5 1/2-1/2
+
+[Event "Mindsports Masters GM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.5"]
+[White "Roberson, Peter T"]
+[Black "Grieve, Harry"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "2429"]
+[BlackElo "2418"]
+[PlyCount "95"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. g4 Nxd4 8.
+Qxd4 b5 9. O-O-O Bb7 10. Kb1 Nf6 11. g5 Ng4 12. Bf4 e5 13. Nd5 O-O-O 14. f3
+exd4 15. Bxc7 Re8 16. Bg3 Bxd5 17. exd5 Ne3 18. Rxd4 Nf5 19. Re4 Rxe4 20. fxe4
+Nxg3 21. hxg3 Bd6 22. a4 bxa4 23. Bxa6+ Kc7 24. Bb5 Re8 25. Rxh7 Rxe4 26. Bd3
+Re1+ 27. Ka2 Be5 28. Rh4 Kd6 29. Rxa4 Kxd5 30. Bc4+ Kc5 31. Bxf7 Bxg3 32. g6
+Be5 33. c3 d6 34. Rc4+ Kb6 35. Kb3 Rg1 36. Rb4+ Kc6 37. Rc4+ Kd7 38. Rb4 Kc6
+39. Be8+ Kc7 40. Ka4 Ra1+ 41. Kb3 Rg1 42. Rc4+ Kd8 43. Bf7 Kd7 44. Ka4 Ra1+ 45.
+Kb5 Ra8 46. b4 Ra3 47. Bd5 Rxc3 48. Rxc3 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.1"]
+[White "Bezuidenhout, Roland"]
+[Black "Large, Peter G"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2269"]
+[BlackElo "2298"]
+[PlyCount "112"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Qe2 Nf6 4. Nf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O b6 8. e5 Nd7
+9. c4 Nf8 10. h4 h6 11. Nc3 Bb7 12. h5 Qd7 13. Rd1 d4 14. Ne4 Qc7 15. Bf4 g5
+16. Nd6+ Bxd6 17. exd6 Qd8 18. Bd2 Qxd6 19. a3 Nd7 20. b4 O-O-O 21. b5 Na5 22.
+Bxa5 bxa5 23. Nd2 f5 24. Bxb7+ Kxb7 25. Nb3 Qb6 26. a4 g4 27. Qe1 Ka8 28. Nxa5
+Qd6 29. Kh2 Ne5 30. Qh1+ Nf3+ 31. Kg2 Rc8 32. Nb3 Rhe8 33. Nd2 Ng5 34. Kf1+ Kb8
+35. a5 e5 36. Re1 Re7 37. Rab1 Rce8 38. Qc6 Qxc6 39. bxc6+ Kc7 40. Rb5 Nf3 41.
+Nxf3 gxf3 42. Rxc5 Kd6 43. Rd5+ Kxc6 44. Rb1 Rd7 45. Rdb5 Kd6 46. Ke1 Ke6 47.
+Kd2 Kf6 48. Rb7 Rxb7 49. Rxb7 e4 50. Rxa7 e3+ 51. Ke1 Kg5 52. Rg7+ Kxh5 53. a6
+Re5 54. g4+ Kh4 55. fxe3 dxe3 56. Kf1 e2+ 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.2"]
+[White "Maycock Bates, David Henry"]
+[Black "Derakhshani, Borna"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2253"]
+[BlackElo "2367"]
+[PlyCount "131"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Ngf3
+Qa6 9. c4 Nh6 10. O-O Nf5 11. b3 Be7 12. a4 Qb6 13. b4 Qd8 14. g3 Bxb4 15. Ba3
+a5 16. cxd5 Qxd5 17. Nc4 Nd7 18. Qe2 O-O 19. Ne3 Nxe3 20. fxe3 Qe4 21. Ng5 Qg6
+22. Kh2 Rae8 23. Bxb4 axb4 24. Rab1 f6 25. exf6 gxf6 26. Nh3 c5 27. Nf4 Qg4 28.
+Qxg4+ hxg4 29. dxc5 Nxc5 30. Rxb4 Ra8 31. Ng6 Rf7 32. Rxg4 Rxa4 33. Rxa4 Nxa4
+34. Nf4 e5 35. Nd5 Kg7 36. Ra1 Nc5 37. Ra5 Ne4 38. Kg2 Rd7 39. Kf3 Nd2+ 40. Kg4
+Nc4 41. Rc5 Nd6 42. Nb6 f5+ 43. Kf3 Re7 44. Nd5 Rf7 45. Nc3 Kf6 46. e4 fxe4+
+47. Nxe4+ Ke6+ 48. Ke3 Nf5+ 49. Kd3 Rd7+ 50. Kc3 Rd4 51. Rc4 Rd1 52. Nc5+ Kd5
+53. Nd3 Nxg3 54. Rb4 Rh1 55. Rb5+ Kc6 56. Rxe5 Rxh4 57. Nb4+ Kb6 58. Nd5+ Ka7
+59. Kb3 Ne4 60. Nc3 Nd2+ 61. Kc2 Nf3 62. Re4 Rh2+ 63. Kd3 Rh3 64. Re3 Ne5+ 65.
+Ke4 Rxe3+ 66. Kxe3 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.3"]
+[White "Holland, James P"]
+[Black "Wadsworth, Matthew J"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2247"]
+[BlackElo "2423"]
+[PlyCount "68"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Bd3 cxd4 7. O-O Bd7 8. Re1
+Rc8 9. h4 h6 10. h5 Nge7 11. Nbd2 dxc3 12. bxc3 Na5 13. Nb3 Nc4 14. Nfd4 Nc6
+15. f4 Nxd4 16. Nxd4 Bc5 17. Rb1 Qa5 18. Kh2 Qxc3 19. Ne2 Qa5 20. Ng3 Bf2 21.
+Rf1 Bxg3+ 22. Kxg3 O-O 23. Rxb7 Bc6 24. Rb3 Ba4 25. Bb1 f5 26. exf6 Rxf6 27.
+Qd3 Rf5 28. Qe2 Rf6 29. Rbf3 Nd6 30. Qe5 Qa6 31. f5 Bc2 32. Bxc2 Rxc2 33. fxe6
+Ne4+ 34. Kh2 Qe2 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.4"]
+[White "Schulze, Lara"]
+[Black "Zapolskis, Antanas"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2288"]
+[BlackElo "2257"]
+[PlyCount "61"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 d6 6. a3 Be6 7. Nd5 h6 8. O-O
+Qd7 9. Re1 O-O-O 10. b4 g5 11. b5 Na5 12. Nxe7+ Qxe7 13. Bxe6+ Qxe6 14. Bd2 b6
+15. Bxa5 bxa5 16. c4 Qg4 17. Re3 Qh5 18. Nd2 g4 19. Nb3 a4 20. Na5 Rdg8 21. Nc6
+Kd7 22. d4 Nh7 23. dxe5 Ng5 24. Kh1 Nf3 25. gxf3 g3 26. fxg3 Rxg3 27. Rd3 Qh3
+28. Qf1 Qh5 29. exd6 Rhg8 30. dxc7+ Kxc7 31. Qf2 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.5"]
+[White "Johnson, Daniel"]
+[Black "Dong Bao Nghia"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2211"]
+[BlackElo "2294"]
+[PlyCount "62"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Qc2 O-O 5. Nf3 d5 6. Bg5 Nbd7 7. e3 c5 8. dxc5
+Qa5 9. Nd2 Qxc5 10. Bxf6 Nxf6 11. a3 Bxc3 12. Qxc3 dxc4 13. Qxc4 Qe5 14. Qb5
+Qb8 15. Be2 Rd8 16. Bf3 Qc7 17. Rd1 a6 18. Qc4 Qa5 19. O-O Bd7 20. Qh4 Bb5 21.
+Nb3 Qc7 22. Rfe1 e5 23. Rc1 Qb6 24. Nc5 Bc6 25. b4 Rac8 26. Bxc6 Qxc6 27. Rcd1
+Rxd1 28. Rxd1 b6 29. Nxa6 Qa4 30. Rb1 Qxa6 31. h3 Qxa3 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.1"]
+[White "Large, Peter G"]
+[Black "Dong Bao Nghia"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "2298"]
+[BlackElo "2294"]
+[PlyCount "80"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 b6 8. Bb5+
+Bd7 9. Bd3 Ba4 10. O-O c4 11. Be2 Qd7 12. Re1 Na6 13. Bf1 h6 14. h4 O-O-O 15.
+g3 Nc7 16. Bh3 Rdg8 17. Nh2 Nf5 18. Kg2 Kb7 19. Rb1 a5 20. Ng4 Nb5 21. Qd2 Qe7
+22. f3 Ka6 23. Nf2 Nc7 24. Qe2 g6 25. Ne4 Ne8 26. Nf6 Nxf6 27. exf6 Qxf6 28.
+Bf4 Nxh4+ 29. Kf2 Nf5 30. Be5 Qg5 31. g4 Qh4+ 32. Kg2 h5 33. Rh1 Bxc2 34. Rbe1
+Bd3 35. Qb2 hxg4 36. fxg4 Qd8 37. gxf5 gxf5+ 38. Kf3 Qg5 39. a4 Rxh3+ 40. Rxh3
+Qg4+ 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.2"]
+[White "Zapolskis, Antanas"]
+[Black "Johnson, Daniel"]
+[Result "0-1"]
+[ECO "C52"]
+[WhiteElo "2257"]
+[BlackElo "2211"]
+[PlyCount "76"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. O-O
+Bb6 9. Nbd2 Na5 10. Qc2 Qe7 11. Ba3 f6 12. Rab1 Bd7 13. Bb4 Rb8 14. a4 Nh6 15.
+Bd5 c6 16. Ba2 Nf7 17. Rfd1 O-O 18. Nf1 Bc7 19. Ne3 Be6 20. d5 Bd7 21. dxc6
+bxc6 22. Qd3 Nb7 23. Ba3 Be6 24. Bxe6 Qxe6 25. Nc4 Rfd8 26. Qe3 Qxc4 27. Qxa7
+Qxe4 28. Rxb7 Rxb7 29. Qxb7 Qxa4 30. Ra1 Qa5 31. Qxc6 Bb6 32. h3 Qa7 33. Ra2
+Bxf2+ 34. Rxf2 Qxa3 35. Nh4 Qa8 36. Qb5 Qa1+ 37. Kh2 Qe1 38. Rf3 Qxh4 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.3"]
+[White "Wadsworth, Matthew J"]
+[Black "Schulze, Lara"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2423"]
+[BlackElo "2288"]
+[PlyCount "145"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. c4 e6 5. Qb3 Qb6 6. d3 Nd7 7. Be3 Bc5 8. Bxc5
+Qxb3 9. axb3 Bxf3 10. Bxf3 Nxc5 11. Nd2 Nf6 12. Ra5 Ncd7 13. O-O O-O 14. Rfa1
+a6 15. b4 Rac8 16. b3 Rfd8 17. Kf1 Kf8 18. Bg2 Rc7 19. e3 c5 20. bxc5 Nxc5 21.
+d4 Ncd7 22. Ke2 Nb8 23. f4 Nc6 24. R5a2 a5 25. Rxa5 Nxa5 26. Rxa5 Ke7 27. Kd3
+h5 28. Bf3 g6 29. Nb1 Rdc8 30. Na3 Ne8 31. Nb5 dxc4+ 32. bxc4 Rd7 33. Ra7 b6
+34. Ra4 Nd6 35. Na7 Rxc4 36. Nc6+ Rxc6 37. Bxc6 Rc7 38. d5 exd5 39. Bxd5 f5 40.
+Ra6 Nc8 41. Ra8 Kd6 42. e4 fxe4+ 43. Bxe4 Ne7 44. Rf8 Ke6 45. h3 Rc1 46. g4
+hxg4 47. hxg4 Rg1 48. g5 Rd1+ 49. Ke3 Rd6 50. Rb8 Kf7 51. Rb7 Ke6 52. Kf3 Kf7
+53. Kg4 Ke6 54. Bxg6 Nxg6 55. f5+ Kd5 56. fxg6 Rxg6 57. Kf5 Rd6 58. g6 Kc6 59.
+Rb8 Rd5+ 60. Kf6 Rd6+ 61. Kf7 Rd7+ 62. Kf8 b5 63. g7 Rxg7 64. Kxg7 Kc5 65. Kf6
+b4 66. Ke5 Kc4 67. Ke4 Kc3 68. Ke3 b3 69. Rc8+ Kb2 70. Kd2 Kb1 71. Rb8 b2 72.
+Kc3 Ka1 73. Kc2 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.4"]
+[White "Derakhshani, Borna"]
+[Black "Holland, James P"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2367"]
+[BlackElo "2247"]
+[PlyCount "77"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 Bf5 5. f3 e6 6. g4 Bg6 7. h4 h5 8. g5 Nfd7
+9. Bd3 Bxd3 10. Qxd3 g6 11. e4 Nb6 12. Be5 Rg8 13. exd5 exd5 14. O-O-O Bd6 15.
+Nh3 Nc6 16. Rhe1 Ne7 17. Nf4 Kd7 18. Bxd6 cxd6 19. a4 Rc8 20. Kb1 Rc6 21. a5
+Nc4 22. Ncxd5 Nxd5 23. Nxd5 Rf8 24. Ne7 Nxa5 25. Nxc6 Nxc6 26. Qb3 Kc8 27. Re3
+Kb8 28. Qd5 Ne7 29. Qe4 Nf5 30. Rb3 Qc7 31. Rdd3 Qd7 32. Rb6 Rc8 33. Rdb3 Rc7
+34. Rxa6 Ng3 35. Qd5 Qf5 36. Qxd6 Qxc2+ 37. Ka2 Qc4 38. Qd8+ Rc8 39. Qa5 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.5"]
+[White "Bezuidenhout, Roland"]
+[Black "Maycock Bates, David Henry"]
+[Result "1-0"]
+[ECO "C23"]
+[WhiteElo "2269"]
+[BlackElo "2253"]
+[PlyCount "117"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Bc4 Nc6 3. d3 Nf6 4. Nc3 Na5 5. Bb3 Nxb3 6. axb3 Bb4 7. Nf3 d5 8.
+exd5 Nxd5 9. Bd2 O-O 10. O-O Nxc3 11. Bxc3 Bxc3 12. bxc3 Qf6 13. Qe1 Re8 14.
+Ra5 e4 15. dxe4 b6 16. Ra4 Bb7 17. Qe3 c5 18. Nd2 Qg6 19. f3 f5 20. e5 f4 21.
+Rxf4 Qxc2 22. Rg4 Rad8 23. Qg5 Rd7 24. Nc4 Qxc3 25. Qh5 Ree7 26. Qf5 Bd5 27.
+Rf4 Rf7 28. e6 Rxf5 29. exd7 Qf6 30. Rxf5 Qd4+ 31. Ne3 Be6 32. Re5 Bxd7 33. Re4
+Qf6 34. Rd1 Bc6 35. Ng4 Qf8 36. Re6 Be8 37. Rd8 Kf7 38. Re4 g5 39. Rdxe8 Qxe8
+40. Rxe8 Kxe8 41. Kf2 Kd7 42. Nf6+ Kc6 43. Nxh7 a5 44. Nxg5 c4 45. bxc4 a4 46.
+Ne4 a3 47. Nc3 Kc5 48. h4 Kxc4 49. h5 b5 50. h6 b4 51. h7 bxc3 52. h8=Q Kb3 53.
+Qb8+ Kc2 54. Qa7 Kb2 55. Qb6+ Kc2 56. Qa5 Kb2 57. Qb4+ Kc2 58. Qxa3 Kd1 59.
+Qa1+ 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.1"]
+[White "Maycock Bates, David Henry"]
+[Black "Large, Peter G"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "2253"]
+[BlackElo "2298"]
+[PlyCount "94"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 g6 5. Be3 Bg7 6. Qd2 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 f5 10. exf5 Bxf5 11. h3 Nf6 12. d5 Nb4 13. Nd4 Qd7 14. Bc4 c6 15.
+dxc6 Nxc6 16. Nxf5 Qxf5 17. O-O O-O-O 18. Rfe1 e5 19. Nd5 Kb8 20. Rad1 Nh5 21.
+b4 Nxg3 22. fxg3 e4 23. b5 Ne5 24. Bf1 g4 25. h4 Rhf8 26. Qe3 Nd7 27. Qxe4 Qf2+
+28. Kh2 Be5 29. Qe3 Qxc2 30. Bd3 Qxa2 31. Be4 Nc5 32. b6 axb6 33. Re2 Qa4 34.
+Rb1 Qxe4 35. Qxe4 Nxe4 36. Rxe4 h5 37. Nxb6 Rf2 38. Nc4 d5 39. Nxe5 dxe4 40.
+Nc6+ Kc7 41. Nxd8 Kxd8 42. Rxb7 e3 43. Kg1 Rc2 44. Rb3 Rc1+ 45. Kh2 Re1 46. Rb1
+Re2 47. Re1 Rxe1 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.2"]
+[White "Holland, James P"]
+[Black "Bezuidenhout, Roland"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2247"]
+[BlackElo "2269"]
+[PlyCount "82"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. g3 d5 4. exd5 exd5 5. Bg2 Qe7+ 6. Qe2 Qxe2+ 7. Kxe2 Nc6
+8. Re1 h6 9. Kf1+ Be6 10. b3 Be7 11. Bb2 Bf6 12. Bxf6 Nxf6 13. Nc3 O-O 14. Rac1
+Rac8 15. h4 Rfd8 16. Ne5 a6 17. Nxc6 Rxc6 18. Ne2 Rcd6 19. d4 b6 20. Rcd1 Bf5
+21. c3 Be4 22. f3 Bf5 23. g4 Bc8 24. Nf4 a5 25. Re5 Bb7 26. Rde1 Kf8 27. g5
+hxg5 28. hxg5 Nd7 29. R5e3 g6 30. Kf2 cxd4 31. cxd4 Nb8 32. Bh3 Nc6 33. Rd1 Bc8
+34. Bf1 Ne7 35. Bd3 Nc6 36. Bb5 Nb4 37. Rd2 Ba6 38. Bxa6 Nxa6 39. Nd3 Nc7 40.
+Ne5 Ne6 41. Rc3 Re8 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.3"]
+[White "Schulze, Lara"]
+[Black "Derakhshani, Borna"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2288"]
+[BlackElo "2367"]
+[PlyCount "87"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. Nf3 d5 3. d3 g6 4. e5 Bg7 5. d4 Bg4 6. Nbd2 Nd7 7. h3 Bxf3 8. Nxf3
+e6 9. Bd3 Ne7 10. O-O Nf5 11. c3 c5 12. Bg5 Qb6 13. g4 Ne7 14. Bxe7 Kxe7 15.
+Qd2 h5 16. Qg5+ Ke8 17. Qf4 Bh6 18. g5 Bg7 19. b4 cxd4 20. cxd4 Ke7 21. a3 Rhc8
+22. Rfc1 Qd8 23. Qd2 Rxc1+ 24. Rxc1 Rc8 25. Rc3 Nb6 26. Qc2 Rxc3 27. Qxc3 Qc8
+28. Qxc8 Nxc8 29. Kf1 Bf8 30. Ke2 Kd8 31. Kd2 Kc7 32. Kc3 a5 33. Bb5 Kd8 34.
+Kb3 axb4 35. axb4 Nb6 36. Kc3 Nc8 37. Kb3 Nb6 38. Nd2 Be7 39. f4 Na8 40. Ka4
+Nc7 41. Nf3 Kc8 42. Bd3 Kd7 43. Bb5+ Kc8 44. Bd3 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.4"]
+[White "Johnson, Daniel"]
+[Black "Wadsworth, Matthew J"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2211"]
+[BlackElo "2423"]
+[PlyCount "107"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. e3 e6 8. Bd3
+Be7 9. h3 b5 10. O-O Bb7 11. Rc1 Rc8 12. Bb1 O-O 13. Qe2 Na5 14. Ne5 Nc4 15. b3
+Na3 16. Bd3 Ne4 17. Qb2 f6 18. Nf3 Qa5 19. Ne2 b4 20. Nd2 Nc3 21. Nb1 Naxb1 22.
+Bxb1 Nxb1 23. Rxc8 Rxc8 24. Rxb1 Qb5 25. Rc1 Rc6 26. Rxc6 Bxc6 27. Qc2 Qb7 28.
+Bg3 Be8 29. Nf4 Qd7 30. h4 a5 31. f3 Bd6 32. Kh2 Bf7 33. Qc1 e5 34. Nd3 Qe8 35.
+dxe5 fxe5 36. Qb2 d4 37. exd4 e4 38. Bxd6 exd3 39. Be5 Qc6 40. Qd2 Qg6 41. Kg1
+h6 42. Kf2 Qa6 43. g4 a4 44. Qxb4 axb3 45. Qb8+ Kh7 46. Qf8 Qg6 47. h5 Qg5 48.
+Qxf7 b2 49. Qb7 Qd2+ 50. Kg3 Qe1+ 51. Kg2 Qd2+ 52. Kg3 Qe1+ 53. Kh3 Qh1+ 54.
+Kg3 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.5"]
+[White "Dong Bao Nghia"]
+[Black "Zapolskis, Antanas"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2294"]
+[BlackElo "2257"]
+[PlyCount "127"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 cxd5 5. e4 dxe4 6. Bb5+ Bd7 7. dxe5 Nc6 8.
+Nge2 Nxe5 9. O-O Nf6 10. Bf4 Nc6 11. Nd5 Rc8 12. Bg5 Be7 13. Bxf6 Bxf6 14.
+Nxf6+ Qxf6 15. Ng3 Bf5 16. Qd5 Be6 17. Qd6 Qe7 18. Nxe4 O-O 19. Rfc1 Rfd8 20.
+Qc5 Bd5 21. Bxc6 Qxc5 22. Nxc5 Bxc6 23. b4 Rd4 24. Rab1 Rcd8 25. b5 Bd5 26. h3
+b6 27. Na6 Bxa2 28. Ra1 Bc4 29. Nc7 R8d7 30. Ra4 a6 31. Rxa6 h5 32. Ra7 Kh7 33.
+Rca1 Rd1+ 34. Rxd1 Rxd1+ 35. Kh2 Rd7 36. f4 h4 37. g4 Bd5 38. Kg1 Be4 39. Ra4
+Bb7 40. Rc4 Rd3 41. Ne8 Bd5 42. Rc7 Rxh3 43. f5 Rh1+ 44. Kf2 Rh2+ 45. Ke3 Kh6
+46. Rd7 Bc4 47. Nd6 Rc2 48. Ne4 f6 49. Rd8 g6 50. Rd6 gxf5 51. Rxf6+ Kg7 52.
+gxf5 Re2+ 53. Kf3 Re1 54. Rg6+ Kf8 55. Nd6 h3 56. Rh6 Rf1+ 57. Kg3 Bxb5 58. f6
+Rg1+ 59. Kf2 Rg2+ 60. Ke3 Re2+ 61. Kf3 Kg8 62. Nxb5 Rd2 63. Ke4 Kf7 64. Nd4 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.1"]
+[White "Large, Peter G"]
+[Black "Zapolskis, Antanas"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2298"]
+[BlackElo "2257"]
+[PlyCount "123"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 c5 2. e3 a6 3. c4 d5 4. cxd5 Qxd5 5. Nc3 Qd8 6. b3 Nc6 7. Bb2 Nf6 8. Rc1
+b6 9. a3 Bb7 10. Qc2 e6 11. Bd3 Be7 12. O-O O-O 13. Ne4 Nd5 14. Ng3 g6 15. Rfd1
+Bf6 16. Ne4 Bxb2 17. Qxb2 f6 18. Bc4 Qe7 19. Nc3 Nxc3 20. Qxc3 Rfd8 21. d4 b5
+22. Bf1 cxd4 23. Nxd4 Nxd4 24. Rxd4 Rac8 25. Rxd8+ Qxd8 26. Qd3 Qxd3 27. Rxc8+
+Bxc8 28. Bxd3 Bb7 29. g3 Bf3 30. Kf1 Kf7 31. Ke1 Ke7 32. Kd2 Kd6 33. Kc3 Kc5
+34. h4 e5 35. Bf1 h6 36. Bh3 g5 37. b4+ Kb6 38. Bf5 gxh4 39. gxh4 Kc7 40. Kd3
+Bb7 41. Ke2 Kd6 42. e4 Bc6 43. Kf3 Be8 44. Kg4 h5+ 45. Kf3 Kc7 46. Ke3 Bf7 47.
+f4 Kb7 48. Bh7 Kc7 49. Kf3 Kd6 50. Bf5 Kc7 51. Ke3 Kd8 52. Bh3 Kc7 53. Bf1 Kb6
+54. Be2 Kc6 55. Bd1 Kb6 56. Bc2 a5 57. Bd3 axb4 58. axb4 Be8 59. Bf1 Kc7 60.
+Bh3 Kd6 61. Bf5 Ke7 62. Bh3 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.2"]
+[White "Wadsworth, Matthew J"]
+[Black "Dong Bao Nghia"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2423"]
+[BlackElo "2294"]
+[PlyCount "61"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 e6 4. c4 Nd7 5. Qb3 Nc5 6. Qe3 Bxf3 7. Qxf3 c6 8. d4
+Ne4 9. Qb3 Nd6 10. c5 Nf5 11. e3 b6 12. cxb6 axb6 13. Nc3 h5 14. e4 Nxd4 15.
+Qd1 e5 16. exd5 cxd5 17. O-O Ne7 18. Re1 f6 19. Nxd5 Ra5 20. Ne3 h4 21. Bd2
+hxg3 22. hxg3 Ra7 23. Bc3 Rd7 24. Bxd4 Rxd4 25. Qb3 Rh6 26. Rad1 Rxd1 27. Rxd1
+Qb8 28. Bf1 f5 29. Bb5+ Nc6 30. Qd5 Qc8 31. Rc1 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.3"]
+[White "Derakhshani, Borna"]
+[Black "Johnson, Daniel"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2367"]
+[BlackElo "2211"]
+[PlyCount "119"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 c6 7. Qb3 Qb6 8. Nc3
+Bf5 9. cxd5 Qxb3 10. axb3 cxd5 11. Nh4 Be6 12. Nb5 Nc6 13. Nc7 Rac8 14. Nxe6
+fxe6 15. Nf3 Ne4 16. Be3 a6 17. Rfd1 h6 18. Ne5 Nxe5 19. Bxe4 dxe4 20. dxe5
+Rfd8 21. Rxd8+ Rxd8 22. Ra4 Rd1+ 23. Kg2 Re1 24. Bd4 Rxe2 25. Kf1 Rc2 26. Rc4
+Rd2 27. Bc3 Rd5 28. Rxe4 Kf7 29. h4 Ke8 30. Ke2 h5 31. f4 Kd7 32. Re3 Rb5 33.
+Bd2 Rd5 34. Rc3 Rb5 35. Be3 Rb4 36. Bc5 Rb5 37. Kd3 b6 38. Bf2 a5 39. Kc2 Rb4
+40. Be1 Rd4 41. Bd2 Rd5 42. Be3 Rb5 43. Rc4 Bf8 44. Bd2 Rd5 45. Ra4 Kc6 46. Be3
+Rb5 47. Rc4+ Kd7 48. Rc3 Bg7 49. Kb1 Rb4 50. Ka2 Bf8 51. Ka3 Bg7 52. Rc4 Rxc4
+53. bxc4 Kc6 54. Ka4 Bf8 55. b3 Bg7 56. Bc1 Bh6 57. Bd2 Bg7 58. Bxa5 bxa5 59.
+Kxa5 Kc7 60. Ka6 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.4"]
+[White "Bezuidenhout, Roland"]
+[Black "Schulze, Lara"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2269"]
+[BlackElo "2288"]
+[PlyCount "110"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Qc7 7. c3 d6 8. h3
+Nf6 9. d4 cxd4 10. cxd4 O-O 11. Nc3 c5 12. e5 dxe5 13. dxe5 Rd8 14. Qa4 Nh5 15.
+Be3 Bb7 16. Ne4 c4 17. Ned2 Bxe5 18. Nxe5 Qxe5 19. Nxc4 Qe4 20. f3 Qh4 21. Nb6
+Qxa4 22. Nxa4 Ng3 23. Rac1 Rac8 24. Rxc8 Rxc8 25. Bxa7 Ra8 26. Rxe7 Rxa7 27.
+Nc5 Ra5 28. b4 Rxa2 29. Rxb7 h5 30. b5 Ne2+ 31. Kf1 Rc2 32. Nd7 Ng3+ 33. Ke1
+Nf5 34. b6 Rxg2 35. Rc7 Nd6 36. b7 Nxb7 37. Rxb7 Rg3 38. Kf2 Rxh3 39. Ne5 Rh2+
+40. Kg3 Re2 41. Nxf7 Kg7 42. Ng5+ Kg8 43. Ne4 Ra2 44. Kf4 Ra5 45. Nf6+ Kf8 46.
+Nd7+ Kg7 47. Ne5+ Kh6 48. Rb6 Ra4+ 49. Kg3 Kg5 50. Nxg6 h4+ 51. Kh3 Rc4 52. Rd6
+Ra4 53. Ne7 Ra3 54. Rg6+ Kf4 55. Rf6+ Ke3 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.5"]
+[White "Maycock Bates, David Henry"]
+[Black "Holland, James P"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2253"]
+[BlackElo "2247"]
+[PlyCount "83"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 cxd5 13. Bg5 Be6 14. Bc4 Qc7
+15. Bxd5 Nxd5 16. Nxd5 Bxd5 17. Rxd5 Rac8 18. Qd2 Rfe8 19. Re1 h6 20. Be3 e4
+21. c3 exf3 22. gxf3 Qc4 23. Kb1 Rb8 24. Ka1 Rxb2 25. Kxb2 Rb8+ 26. Kc1 Bxc3
+27. Rd8+ Kh7 28. Rxb8 Bxd2+ 29. Kxd2 Qxa2+ 30. Kd1 g5 31. Bd2 Qd5 32. Re4 Qd3
+33. Re3 Qf1+ 34. Kc2 Kg6 35. Rb4 Qh3 36. f4 Qxh2 37. fxg5 hxg5 38. Rb5 f6 39.
+Re6 Qf2 40. Ra5 g4 41. Raa6 g3 42. Rxf6+ 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.1"]
+[White "Holland, James P"]
+[Black "Large, Peter G"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[WhiteElo "2247"]
+[BlackElo "2298"]
+[PlyCount "85"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. c3 e5 5. exd5 Qxd5 6. Ngf3 exd4 7. Bc4 Qh5 8.
+O-O Nf6 9. Nxd4 Qxd1 10. Rxd1 Nxd4 11. cxd4 Be6 12. Re1 Kd7 13. Nf3 Bd6 14.
+Ne5+ Bxe5 15. Bb5+ c6 16. dxe5 Nd5 17. Bd3 h6 18. f4 g6 19. Be4 h5 20. Be3 Nxe3
+21. Rxe3 Rhd8 22. Kf2 Ke7 23. Rd3 Bc4 24. Rxd8 Rxd8 25. Ke3 Bd5 26. Rd1 Bxe4
+27. Rxd8 Kxd8 28. Kxe4 Ke7 29. g3 Ke6 30. h3 f6 31. exf6 Kxf6 32. g4 h4 33. Kd4
+b6 34. b4 Ke6 35. a4 Kd6 36. Kc4 Ke6 37. a5 Kd6 38. a6 Ke6 39. Kd4 Kf6 40. Kc4
+Ke6 41. Kd4 Kf6 42. Ke4 Ke6 43. Kd4 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.2"]
+[White "Schulze, Lara"]
+[Black "Maycock Bates, David Henry"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2288"]
+[BlackElo "2253"]
+[PlyCount "145"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nbd2 d5 8.
+exd5 Nxd5 9. O-O O-O 10. a3 Be7 11. Re1 h6 12. h3 b6 13. Ne4 Bb7 14. Ne5 Nf6
+15. Ba6 Na5 16. Bxb7 Nxb7 17. Qf3 Nxe4 18. Nc6 Qd7 19. Nxe7+ Qxe7 20. Rxe4 Qd6
+21. Bf4 Qf6 22. Bxc7 Qxf3 23. gxf3 Rac8 24. Re7 Rfe8 25. Rd7 Na5 26. Kf1 Nc4
+27. b4 Kf8 28. a4 Re7 29. Rxe7 Kxe7 30. Bf4 a5 31. bxa5 Nxa5 32. Rb1 Rc4 33.
+Be3 Rxa4 34. Rxb6 Nc4 35. Rb7+ Ke6 36. d5+ Kxd5 37. Rxf7 g5 38. Rf6 Ne5 39. Kg2
+Rh4 40. f4 gxf4 41. Bxf4 Nd7 42. Rd6+ Kc5 43. Bg3 Rd4 44. Rxh6 Nb6 45. Rh8 Rd7
+46. h4 Nd5 47. Be5 Ne7 48. Rh7 Kc6 49. h5 Nf5 50. Rxd7 Kxd7 51. Kf3 Ke6 52. Bb2
+Nd6 53. Kg4 Kf7 54. f4 Nc4 55. Bd4 Nd6 56. Be5 Ne4 57. Kf3 Nd2+ 58. Ke3 Nf1+
+59. Kf2 Nd2 60. Kg3 Kg8 61. Kg4 Kh7 62. Bf6 Nf1 63. Bg5 Ne3+ 64. Kf3 Nf5 65. h6
+Nd6 66. Ke3 Kg6 67. Kd4 Kf5 68. Kd5 Nf7 69. Kc6 Ke6 70. Kc7 Kf5 71. Kd7 Kg6 72.
+Ke7 Nh8 73. Kf8 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.3"]
+[White "Johnson, Daniel"]
+[Black "Bezuidenhout, Roland"]
+[Result "0-1"]
+[ECO "E33"]
+[WhiteElo "2211"]
+[BlackElo "2269"]
+[PlyCount "90"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 e5 7. d5 Bxc3 8. Bxc3
+Ne7 9. e4 O-O 10. Nd2 Ng6 11. g3 c6 12. Bd3 Bh3 13. f3 a5 14. dxc6 bxc6 15. c5
+d5 16. b3 Qe7 17. Bb2 Nd7 18. Rc1 f5 19. exd5 cxd5 20. c6 e4 21. Be2 Nde5 22.
+Kd1 Bg2 23. Re1 e3 24. Rg1 exd2 25. Qxd2 Bh3 26. Qxd5+ Kh8 27. c7 Rac8 28. Qxa5
+Qd7+ 29. Kc2 Rxc7+ 30. Kb1 Ra7 31. Qc3 f4 32. g4 h5 33. gxh5 Qf5+ 34. Ka1 Qxh5
+35. a4 Rfa8 36. Qd4 Be6 37. h4 Bxb3 38. Rc8+ Kh7 39. Rxa8 Rxa8 40. Bb5 Qxf3 41.
+h5 Qxh5 42. Qe4 Rd8 43. Be2 f3 44. Bxe5 Qxe5+ 45. Qxe5 Nxe5 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.4"]
+[White "Dong Bao Nghia"]
+[Black "Derakhshani, Borna"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2294"]
+[BlackElo "2367"]
+[PlyCount "120"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Nd7 6. Nge2 Ne7 7. Ng3 Bg6 8. h4 h6
+9. h5 Bh7 10. cxd5 Nxd5 11. a3 Qb6 12. Bc4 O-O-O 13. Na4 Qc7 14. Bd2 N5b6 15.
+Be2 Nxa4 16. Qxa4 Kb8 17. Rh4 Be7 18. Rg4 g5 19. hxg6 Bxg6 20. Ba5 Nb6 21. Qb3
+h5 22. Rxg6 fxg6 23. Qxe6 h4 24. Nf1 Rxd4 25. Qxg6 Ra4 26. Bd2 Nd5 27. Qg7 Rd8
+28. Bf3 Nf4 29. Bc3 Nd3+ 30. Ke2 Nf4+ 31. Ke1 Ne6 32. Qg6 Nd4 33. e6 h3 34.
+Bxd4 Raxd4 35. gxh3 Qa5+ 36. Ke2 Qb5+ 37. Ke1 Qa5+ 38. Ke2 Qb5+ 39. Ke1 Qxb2
+40. Rb1 Qc3+ 41. Ke2 Qc4+ 42. Ke1 Qc3+ 43. Ke2 Qc4+ 44. Ke1 Bxa3 45. Ne3 Bb4+
+46. Rxb4 Qxb4+ 47. Kf1 Rf4 48. Qg3 Ka8 49. e7 Re8 50. Bh5 Qb5+ 51. Be2 Qb1+ 52.
+Kg2 Qe4+ 53. Kg1 Rxe7 54. Bh5 Rf8 55. h4 Qb1+ 56. Kg2 Qe4+ 57. Kg1 Qe5 58. Qg4
+Qf4 59. Qxf4 Rxf4 60. Ng2 Rxh4 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.5"]
+[White "Zapolskis, Antanas"]
+[Black "Wadsworth, Matthew J"]
+[Result "0-1"]
+[ECO "B47"]
+[WhiteElo "2257"]
+[BlackElo "2423"]
+[PlyCount "60"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. Nb3
+b5 9. O-O d6 10. Bg5 Be7 11. e5 dxe5 12. a4 b4 13. Qf3 Bb7 14. Bxf6 gxf6 15.
+Ne4 f5 16. Nec5 e4 17. Qe3 Ne5 18. Nxb7 Qxb7 19. Kh1 Rc8 20. Rfc1 h5 21. h3 h4
+22. g4 Nxg4 23. hxg4 h3 24. Bf3 exf3 25. gxf5 Qd5 26. fxe6 fxe6 27. Rg1 Rxc2
+28. Rad1 Re2 29. Qa7 h2 30. Qb8+ Bd8 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.1"]
+[White "Large, Peter G"]
+[Black "Wadsworth, Matthew J"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2298"]
+[BlackElo "2423"]
+[PlyCount "86"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e3 d5 2. Nf3 Nf6 3. b3 Bg4 4. Bb2 Nbd7 5. d4 e6 6. Be2 c6 7. Nbd2 Qc7 8. c4
+a5 9. a3 Bd6 10. h3 Bh5 11. O-O O-O 12. Qc2 Qb8 13. Rfe1 Rc8 14. e4 dxe4 15.
+Nxe4 Nxe4 16. Qxe4 Bg6 17. Qe3 b5 18. Ne5 Bxe5 19. dxe5 bxc4 20. Bxc4 a4 21.
+Rac1 axb3 22. Qxb3 Qxb3 23. Bxb3 Rab8 24. Re3 c5 25. Ba1 h5 26. Bc4 Nb6 27. Ba6
+Rd8 28. Rec3 Ra8 29. Bb5 c4 30. Bxc4 Nxc4 31. Rxc4 Rxa3 32. Rc8 Rxc8 33. Rxc8+
+Kh7 34. Rc1 Be4 35. Re1 Bd5 36. Bd4 Ra4 37. Bc5 Kg6 38. Kh2 Kf5 39. Bf8 g5 40.
+Be7 Ra2 41. Kg1 g4 42. hxg4+ hxg4 43. Bh4 Be4 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.2"]
+[White "Derakhshani, Borna"]
+[Black "Zapolskis, Antanas"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2367"]
+[BlackElo "2257"]
+[PlyCount "53"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 b5 2. e4 a6 3. d4 Bb7 4. Bd3 e6 5. a4 b4 6. O-O d6 7. c3 c5 8. Qe2 cxd4
+9. cxd4 Nf6 10. Nbd2 h6 11. Rd1 Nbd7 12. a5 g5 13. Nb3 Be7 14. Bd2 d5 15. e5
+Ne4 16. Be1 Nf8 17. Nfd2 Ng6 18. Bxe4 Nf4 19. Qe3 dxe4 20. Nxe4 Qd5 21. f3 g4
+22. Nbc5 Nxg2 23. Kxg2 gxf3+ 24. Qxf3 f5 25. Nf6+ Bxf6 26. Nxb7 Rg8+ 27. Bg3
+1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.3"]
+[White "Bezuidenhout, Roland"]
+[Black "Dong Bao Nghia"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2269"]
+[BlackElo "2294"]
+[PlyCount "138"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. g3 Bd7
+9. h4 Ne7 10. Bh3 h6 11. O-O O-O-O 12. Rb1 Qc7 13. Re1 Kb8 14. Qc2 Nc8 15. Nf1
+Nb6 16. Bf4 Be7 17. Kg2 Rdg8 18. Bg4 g5 19. hxg5 hxg5 20. Bc1 Ba4 21. Qe2 Nd7
+22. Ne3 Nf8 23. Bd2 Ng6 24. Rh1 Rxh1 25. Rxh1 Nf4+ 26. gxf4 gxf4 27. Ne1 fxe3
+28. Bxe3 Qd8 29. Rh7 Be8 30. Kf1 Bg5 31. f4 f5 32. Bf3 Bg6 33. Rh3 Be7 34. Qh2
+Nc6 35. Bf2 b5 36. Bh4 Bxh4 37. Rxh4 a5 38. Bh5 Rh8 39. Nf3 Bxh5 40. Rxh5 Rxh5
+41. Qxh5 Qe7 42. Ng5 Kc7 43. Qh6 Kd7 44. Nh7 Nd8 45. Nf8+ Kc8 46. Qf6 Qe8 47.
+Qg7 b4 48. axb4 axb4 49. cxb4 Nc6 50. b5 Nxd4 51. b6 Qc6 52. Qa7 Nb5 53. Qa6+
+Kb8 54. Nxe6 d4 55. Kf2 c3 56. Nc7 c2 57. Nxb5 Qb7 58. Qa3 Qxb6 59. Qf8+ Kb7
+60. Nd6+ Kc6 61. Qc8+ Qc7 62. Qa6+ Kd7 63. Qa4+ Qc6 64. Qa7+ Kd8 65. Qb8+ Kd7
+66. Qe8+ Kc7 67. Qc8+ Kb6 68. Qb8+ Ka5 69. Qa7+ Kb4 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.4"]
+[White "Maycock Bates, David Henry"]
+[Black "Johnson, Daniel"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2253"]
+[BlackElo "2211"]
+[PlyCount "77"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
+d6 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Be3 exd4 13. cxd4 Nxe4 14. Qc2 Qe8 15.
+Nc3 Nf6 16. Rfe1 Qd7 17. Qd1 Nb4 18. Bg5 Qf5 19. g4 Nxg4 20. Ne4 Nh6 21. Ra3
+Qxh3 22. Qd2 Qg4+ 23. Ng3 Bb7 24. Bd1 Bxf3 25. Re4 Qd7 26. Rxf3 Nd5 27. Bxh6 f5
+28. Rh4 gxh6 29. Qxh6 Kh8 30. Bb3 Rf6 31. Qh5 c6 32. Bc2 Rbf8 33. Bxf5 Qg7 34.
+Bxh7 Rxf3 35. Bf5+ Kg8 36. Be6+ R3f7 37. Rg4 Bxd4 38. Nf5 Nf4 39. Ne7# 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.5"]
+[White "Holland, James P"]
+[Black "Schulze, Lara"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2247"]
+[BlackElo "2288"]
+[PlyCount "67"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 a6 5. cxd5 exd5 6. Bg5 Be6 7. e3 Nbd7 8.
+Ne5 h6 9. Bh4 Be7 10. Bd3 Nxe5 11. dxe5 Ng4 12. Bg3 Bh4 13. Qa4+ c6 14. Qd4
+Bxg3 15. hxg3 c5 16. Qxc5 Nxe5 17. Rd1 Nxd3+ 18. Rxd3 Rc8 19. Qb4 Qe7 20. Rh4
+Rc5 21. Qa4+ Bd7 22. Qd4 O-O 23. Nxd5 Qd6 24. Nf6+ Qxf6 25. Qxc5 Be6 26. Qd4
+Qf5 27. a3 Rc8 28. Rc3 Re8 29. Qd1 a5 30. Kf1 Qb5+ 31. Qe2 Qf5 32. Rd4 b5 33.
+Qd1 Bc4+ 34. Kg1 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.1"]
+[White "Schulze, Lara"]
+[Black "Large, Peter G"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2288"]
+[BlackElo "2298"]
+[PlyCount "98"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Bb5 7. dxc5 Bxc5 8. b4
+Bxf2+ 9. Kf1 Bd7 10. c4 Nh6 11. Bxh6 gxh6 12. c5 Qxb4 13. Kxf2 Qxc5+ 14. Qd4
+Qxd4+ 15. Nxd4 Nc6 16. Nf3 O-O 17. Nc3 f6 18. exf6 Rxf6 19. Rab1 b6 20. Rhe1
+Nd4 21. Kg1 Nxf3+ 22. Bxf3 Rc8 23. Rbc1 Rf4 24. Ne2 Rfc4 25. h3 Kf8 26. Rxc4
+Rxc4 27. Nc1 Rc2 28. Nb3 Kf7 29. Bg4 Rxa2 30. Nd4 Ra4 31. Nxe6 Re4 32. Rf1+ Ke7
+33. Nc7 Bc6 34. Bf3 Re5 35. Na6 Kd6 36. Ra1 d4 37. Rd1 Bxf3 38. gxf3 Kd5 39.
+Nb4+ Kc4 40. Nc6 Rd5 41. Nxa7 d3 42. Nc8 Kc3 43. Nxb6 Rb5 44. Rc1+ Kd2 45. Rc6
+Ke2 46. Nc4 Rg5+ 47. Kh2 Kf2 48. Rd6 Rg2+ 49. Kh1 Rg1+ 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.2"]
+[White "Johnson, Daniel"]
+[Black "Holland, James P"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2211"]
+[BlackElo "2247"]
+[PlyCount "134"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 a6 4. e3 Bf5 5. f3 e6 6. g4 Bg6 7. h4 h5 8. g5 Nfd7
+9. Bd3 Bxd3 10. Qxd3 c5 11. g6 f6 12. Nge2 Nc6 13. Bh2 Nb6 14. Nf4 Qd7 15.
+O-O-O Bd6 16. dxc5 Bxc5 17. Ne4 dxe4 18. Qxe4 Qe7 19. Nxe6 Ne5 20. Qf5 Nbc4 21.
+Bxe5 Bxe3+ 22. Kb1 fxe5 23. Nxg7+ Qxg7 24. Qe6+ Qe7 25. g7 Qxe6 26. gxh8=Q+ Ke7
+27. Qg7+ Ke8 28. Rd3 Bh6 29. Qh8+ Bf8 30. Qxh5+ Qf7 31. Qg4 Rd8 32. Rhd1 Rxd3
+33. Qc8+ Ke7 34. Rxd3 Nd6 35. Qc5 Qe6 36. h5 Kf7 37. Qc7+ Be7 38. a3 Kg7 39.
+Rd1 Kh6 40. Qb8 Kxh5 41. Rg1 Bg5 42. Qh8+ Kg6 43. Rh1 Nf7 44. Qh7+ Kf6 45. Qg8
+Qf5 46. Rh7 Qg6 47. Qxg6+ Kxg6 48. Rh1 Kf5 49. c4 Be3 50. Rh7 Kg6 51. Rh1 Ng5
+52. Kc2 Nxf3 53. Kd3 Bf4 54. Ke4 Ng5+ 55. Kd5 e4 56. b4 e3 57. Kd4 Kf5 58. Kd3
+Nf7 59. c5 Ne5+ 60. Ke2 Ke4 61. Rh8 Nc6 62. Re8+ Be5 63. a4 Nxb4 64. Re7 Nc6
+65. Rxb7 Nd4+ 66. Kf1 e2+ 67. Kf2 Bg3+ 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.3"]
+[White "Dong Bao Nghia"]
+[Black "Maycock Bates, David Henry"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2294"]
+[BlackElo "2253"]
+[PlyCount "73"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 d5 3. d4 g6 4. c4 c6 5. Bg2 Bg7 6. O-O O-O 7. b3 Nbd7 8. cxd5
+cxd5 9. Nc3 Nb6 10. Bf4 Bf5 11. Rc1 Nc8 12. Ne5 Nd6 13. Nxd5 Nxd5 14. Bxd5 Qa5
+15. Bg2 Qxa2 16. f3 g5 17. Bxg5 f6 18. Bh4 fxe5 19. dxe5 Bxe5 20. Bxe7 Rfd8 21.
+f4 Nf7 22. Bd5 Bb2 23. Rc7 Be6 24. Bxd8 Rxd8 25. Bxe6 Rxd1 26. Rxd1 Bd4+ 27.
+Kf1 Qa6 28. Bxf7+ Kf8 29. Rd7 Bb6 30. Bc4 Qa3 31. R1d5 Qc1+ 32. Kg2 Qg1+ 33.
+Kh3 Qf1+ 34. Kg4 Qb1 35. Rf5+ Ke8 36. Rxh7 Bd4 37. Bb5+ 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.4"]
+[White "Zapolskis, Antanas"]
+[Black "Bezuidenhout, Roland"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2257"]
+[BlackElo "2269"]
+[PlyCount "62"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bg5 Be6 7. O-O-O+
+Nbd7 8. f4 exf4 9. Bxf4 Ng4 10. Nh3 Bc5 11. Be2 Ne3 12. Rd3 Nxg2 13. Bd2 h6 14.
+Rg3 Nh4 15. Nf4 g5 16. Nxe6+ fxe6 17. Nb5 a6 18. Bc3 Rf8 19. Rd1 axb5 20. Rgd3
+Rf7 21. Bh5 Rh7 22. Bf6+ Kc8 23. Bg4 Ra6 24. e5 Ng2 25. h4 Nf4 26. Rb3 Nxf6 27.
+exf6 b4 28. c3 bxc3 29. Rxc3 Bd6 30. Rh1 gxh4 31. Rxh4 Be5 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.5"]
+[White "Wadsworth, Matthew J"]
+[Black "Derakhshani, Borna"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2423"]
+[BlackElo "2367"]
+[PlyCount "13"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. b3 c6 3. Bb2 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. c4 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.1"]
+[White "Large, Peter G"]
+[Black "Derakhshani, Borna"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2298"]
+[BlackElo "2367"]
+[PlyCount "85"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Nf3 g6 8.
+Bxf6 exf6 9. cxd5 Bxd5 10. Bb5 Bg7 11. Qe2+ Kf8 12. Nxd5 Qxd5 13. O-O Re8 14.
+Bxc6 Qxc6 15. Qd2 Qd6 16. Rfe1 Rd8 17. Qa5 a6 18. Rac1 Bh6 19. Rc7 b6 20. Qc3
+Kg7 21. Ree7 Rhf8 22. Qc4 Qd5 23. Qxd5 Rxd5 24. g3 Ra5 25. a3 Rb5 26. Re2 Rd8
+27. Kg2 a5 28. h4 Kg8 29. Ree7 Rf8 30. Re2 Rd8 31. Rc4 Bf8 32. Rec2 h5 33. Ng1
+Bg7 34. Rc8 Rxc8 35. Rxc8+ Kh7 36. Rc2 f5 37. Nf3 Bf6 38. Kf1 Kg7 39. Ke2 Kf8
+40. Kd3 Rb3+ 41. Ke2 Rb5 42. Kd3 Rb3+ 43. Ke2 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.2"]
+[White "Bezuidenhout, Roland"]
+[Black "Wadsworth, Matthew J"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2269"]
+[BlackElo "2423"]
+[PlyCount "100"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 Nf6 5. Qe2 Be7 6. e5 Nd5 7. c4 Ndb4 8. d3
+d5 9. a3 Na6 10. O-O Nc7 11. Nc3 O-O 12. Rd1 f6 13. Bf4 d4 14. exf6 gxf6 15.
+Ne4 e5 16. Bh6 Rf7 17. Ned2 Bg4 18. h3 Bh5 19. g4 Bg6 20. Nh4 Bf8 21. Bxf8 Qxf8
+22. Nxg6 hxg6 23. Bxc6 bxc6 24. Qe4 Qh6 25. Qxc6 Qxh3 26. Qg2 Qxg2+ 27. Kxg2
+Ne6 28. Ne4 f5 29. gxf5 gxf5 30. Nd6 Nf4+ 31. Kf3 Rf6 32. Rg1+ Kf8 33. Rh1 Ke7
+34. Nb5 Nxd3 35. Rh7+ Rf7 36. Rah1 e4+ 37. Ke2 Nf4+ 38. Kd2 a6 39. Na7 Rxh7 40.
+Rxh7+ Kf6 41. b4 Rg8 42. Rh6+ Kg5 43. Rh1 Ra8 44. Nc6 Nd3 45. bxc5 Nxc5 46. Ne7
+Rb8 47. Kc2 Nd3 48. Rg1+ Kf4 49. Nd5+ Kf3 50. Rg3+ Ke2 0-1
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.3"]
+[White "Maycock Bates, David Henry"]
+[Black "Zapolskis, Antanas"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2253"]
+[BlackElo "2257"]
+[PlyCount "62"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Be3 Nxd5 12. exd5 Ne7 13. c4 Nf5 14. Bd2
+bxc4 15. Nxc4 a5 16. Bd3 g6 17. O-O Be7 18. Qe1 Ba6 19. Bxa5 Qb8 20. Bc3 O-O
+21. Qe2 Qa7 22. Na5 Bxd3 23. Qxd3 Bd8 24. Nc6 Qa4 25. Rfe1 Qh4 26. Re4 Qg5 27.
+Qd2 Qh5 28. Qe2 Qh6 29. a4 Nh4 30. Nxd8 Raxd8 31. Bd2 g5 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.4"]
+[White "Holland, James P"]
+[Black "Dong Bao Nghia"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2247"]
+[BlackElo "2294"]
+[PlyCount "180"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 bxc6 8.
+Bd3 Bd6 9. Qe2 e5 10. exd5 cxd5 11. c4 Nf6 12. cxd5 O-O 13. O-O Bg4 14. f3 Bh5
+15. Nc4 Bc5+ 16. Be3 Qxd5 17. Bxc5 Qxc5+ 18. Qf2 Qc7 19. Rac1 Rad8 20. Rfe1
+Rxd3 21. Nxe5 Qd6 22. Nxd3 Qxd3 23. Qxa7 h6 24. b4 Rd8 25. Rcd1 Qxd1 26. Rxd1
+Rxd1+ 27. Kf2 Rd2+ 28. Ke3 Rxg2 29. Qa8+ Kh7 30. b5 Rb2 31. Qa3 Rxh2 32. Kd4
+Rh3 33. b6 Bxf3 34. Qd3+ g6 35. Ke5 Bg4 36. Qc4 Be6 37. Qc7 Nd7+ 38. Kd6 Nxb6
+39. Qxb6 Bxa2 40. Ke7 Be6 41. Qd4 g5 42. Qe4+ Kg7 43. Qe5+ Kg6 44. Qe4+ Kh5 45.
+Kf6 g4 46. Qe5+ Kh4 47. Qe1+ g3 48. Qb4+ Bg4 49. Qd2 g2 50. Qxg2 Rf3+ 51. Ke5
+Rf5+ 52. Kd4 h5 53. Qh2+ Kg5 54. Qd2+ Kg6 55. Qh2 f6 56. Ke3 Kg5 57. Qc7 Rf3+
+58. Kd4 Bf5 59. Qc1+ Kg6 60. Qg1+ Kf7 61. Qh2 Rd3+ 62. Kc4 Kg6 63. Qg1+ Kh7 64.
+Qf2 Kg6 65. Qg1+ Kf7 66. Qf2 Bg6 67. Qa7+ Kf8 68. Qc5+ Ke8 69. Qc8+ Ke7 70.
+Qc7+ Rd7 71. Qc5+ Kf7 72. Qf2 Re7 73. Kd5 Re5+ 74. Kd6 Re4 75. Qa7+ Kf8 76.
+Qb8+ Kg7 77. Qc7+ Bf7 78. Qc2 f5 79. Qg2+ Bg6 80. Qb2+ Kh7 81. Qb7+ Kh6 82. Qb8
+h4 83. Qh8+ Bh7 84. Qf6+ Kh5 85. Qg7 Bg6 86. Qh8+ Kg4 87. Qg8 Kg5 88. Qd8+ Kh6
+89. Qh8+ Bh7 90. Qf6+ Bg6 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.5"]
+[White "Schulze, Lara"]
+[Black "Johnson, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2288"]
+[BlackElo "2211"]
+[PlyCount "53"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nbd2 Nxe4
+8. d5 Ne7 9. O-O Nxd2 10. Nxd2 O-O 11. a3 Ba5 12. d6 cxd6 13. Ne4 d5 14. Bxd5
+Nxd5 15. Qxd5 d6 16. Bg5 Be6 17. Bxd8 Bxd5 18. Nf6+ gxf6 19. Bxa5 Bb3 20. Rac1
+Rac8 21. Rc3 Rxc3 22. Bxc3 Re8 23. Bxf6 Re6 24. Bc3 f5 25. f3 b5 26. Bd4 a5 27.
+Bc3 1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.1"]
+[White "Johnson, Daniel"]
+[Black "Large, Peter G"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2211"]
+[BlackElo "2298"]
+[PlyCount "93"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 b6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 Bb7 7. Bg2 O-O 8.
+Qc2 c5 9. dxc5 bxc5 10. O-O Qc7 11. e3 Rd8 12. Rfd1 Nc6 13. Nb1 Rab8 14. Nc3 a6
+15. Rac1 h6 16. b3 Nb4 17. Qb1 d6 18. Rd2 Bc6 19. Rcd1 Qb7 20. Ne1 Bxg2 21.
+Nxg2 Qe7 22. Ne4 Ne8 23. g4 Nc6 24. f4 Nb4 25. a3 Nc6 26. g5 hxg5 27. Nxg5 Nf6
+28. Rd3 g6 29. Qc2 a5 30. Qf2 d5 31. cxd5 exd5 32. Qh4 Kg7 33. Qh3 c4 34. Rc3
+Rxb3 35. Rxb3 cxb3 36. Nh4 Re8 37. e4 dxe4 38. Qg3 Qc5+ 39. Kh1 Rh8 40. Ne6+
+fxe6 41. Qxg6+ Kf8 42. Qxf6+ Kg8 43. Qg6+ Kf8 44. Qf6+ Kg8 45. Qxe6+ Kf8 46.
+Ng6+ Kg7 47. Rd7+ 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.2"]
+[White "Dong Bao Nghia"]
+[Black "Schulze, Lara"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2294"]
+[BlackElo "2288"]
+[PlyCount "93"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 e6 4. g3 Nd7 5. Bg2 Ngf6 6. O-O Bd6 7. d3 c6 8. Nbd2
+e5 9. e4 O-O 10. h3 Bh5 11. Qe1 Re8 12. Nh4 Qc7 13. Kh1 a5 14. a4 Bb4 15. f3
+Rad8 16. Rf2 Bc5 17. Re2 dxe4 18. Nxe4 Nxe4 19. Rxe4 f6 20. Nf5 Bg6 21. g4 Nf8
+22. Qg3 Ne6 23. Rae1 Qb6 24. Qh2 Bb4 25. Rb1 Qf2 26. Rc4 Bf7 27. Rf1 Qb6 28.
+Re4 Bf8 29. Bc1 Bg6 30. h4 Nd4 31. Bh3 Qc5 32. Rf2 b5 33. Be3 Bxf5 34. gxf5
+bxa4 35. bxa4 Qc3 36. h5 Rb8 37. Qg2 c5 38. h6 Re7 39. f4 Nc6 40. Qg1 exf4 41.
+Rxe7 Nxe7 42. Bxf4 Rb7 43. hxg7 Bxg7 44. Rg2 Nxf5 45. Bxf5 Qb4 46. Be4 Ra7 47.
+Bh6 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.3"]
+[White "Zapolskis, Antanas"]
+[Black "Holland, James P"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2257"]
+[BlackElo "2247"]
+[PlyCount "52"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. Kb1 Rb8 11. Ndb5 a6 12. exd5 axb5 13. dxc6 Qxd2 14. Rxd2
+bxc6 15. Bf4 Ra8 16. a3 Be6 17. Bd3 Ra6 18. Ne4 Nxe4 19. fxe4 Ra7 20. Rhd1 b4
+21. axb4 Rfa8 22. c4 Bc3 23. bxc3 Ra1+ 24. Kb2 R8a2+ 25. Kb3 Ra3+ 26. Kb2 R3a2+
+1/2-1/2
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.4"]
+[White "Wadsworth, Matthew J"]
+[Black "Maycock Bates, David Henry"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2423"]
+[BlackElo "2253"]
+[PlyCount "83"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 d4 7. e3 c5 8. exd4
+cxd4 9. Bb2 Nc6 10. Re1 Ng4 11. h3 Nh6 12. Ne5 Nxe5 13. Rxe5 f6 14. Re1 e5 15.
+Ba3 Nf7 16. Bxe7 Qxe7 17. f4 Be6 18. Qf3 Rae8 19. Qxb7 Qd8 20. Qxa7 exf4 21.
+Na3 f3 22. Bxf3 Ne5 23. Bg2 Bxh3 24. Bxh3 Nf3+ 25. Kf2 Nxe1 26. Rxe1 Rxe1 27.
+Kxe1 Qd6 28. Kf2 f5 29. Nb5 Qh6 30. Qxd4 Qxh3 31. Qh4 Qg4 32. Qxg4 fxg4+ 33.
+Kg2 Re8 34. Nc3 Kf7 35. a4 h5 36. a5 g5 37. b4 h4 38. b5 Ke6 39. a6 Kd6 40. d4
+Kc7 41. c5 Rd8 42. b6+ 1-0
+
+[Event "Mindsports Masters IM"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.5"]
+[White "Derakhshani, Borna"]
+[Black "Bezuidenhout, Roland"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2367"]
+[BlackElo "2269"]
+[PlyCount "79"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 Nc6 4. d4 Bg4 5. cxd5 Nxd5 6. Bb5 Nb6 7. Nc3 e6 8. h3
+Bxf3 9. Qxf3 Qd7 10. O-O a6 11. Bd3 Bd6 12. b3 Bb4 13. Bb2 Ne5 14. dxe5 Bxc3
+15. Bxc3 Qxd3 16. Bd4 Nd5 17. Rfd1 Qg6 18. Bc5 f5 19. exf6 Qxf6 20. Qh5+ Qf7
+21. Qh4 Ne7 22. Rac1 Nc6 23. Ba3 Qf6 24. Qe4 Rd8 25. Qc2 Kf7 26. Bb2 Qg6 27.
+Qc4 Qf5 28. Qh4 e5 29. Qc4+ Qe6 30. Qe4 Qg6 31. Qc4+ Qe6 32. Qh4 Qf6 33. Qg4
+Qe6 34. Qh4 Qf6 35. Qg3 Rhe8 36. Qg4 Qe6 37. Qe4 Qg6 38. Qc4+ Qe6 39. Qe4 Qg6
+40. Qc4+ 1/2-1/2
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.1"]
+[White "Keohane, Ben"]
+[Black "Pollack, Oscar"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2045"]
+[BlackElo "2068"]
+[PlyCount "102"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. Bg5 Qb6 7. dxc5 Bxc5 8.
+Qd2 Bxf2+ 9. Qxf2 Qxb2 10. Kd2 Qxa1 11. Bb5 Qxh1 12. Qc5 Qxg2+ 13. Kc1 Qxg5+
+14. Nxg5 Nc6 15. Bxc6 bxc6 16. Qxc6 Rb8 17. Nxe6 fxe6 18. Qxe6+ Kd8 19. Qxd5
+Rf8 20. e6 Ke7 21. Ne4 Rf1+ 22. Kd2 Rbb1 23. Qd6+ Kd8 24. e7+ Ke8 25. Qc6 Bb7
+26. Nd6+ Kxe7 27. Nxb7 Rf2+ 28. Kc3 Rf6 29. Qd5 Rbb6 30. Na5 h6 31. h4 Rfd6 32.
+Qe4+ Re6 33. Qg2 Kf7 34. Qa8 a6 35. Qa7 Re7 36. Kd2 Rd6+ 37. Kc1 Nb6 38. Nb7
+Kg6 39. Qxa6 Rf6 40. Qd3+ Kf7 41. Nc5 Re1+ 42. Kb2 Re3 43. Qd4 Re5 44. Ne4 Rfe6
+45. Nc3 Rc6 46. Kb3 Rec5 47. Qf4+ Kg8 48. Ne4 Rb5+ 49. Ka3 Nc4+ 50. Ka4 Rb7 51.
+Nf6+ Kh8 0-1
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "1.2"]
+[White "Cont, Arya"]
+[Black "Franco, Gaston"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1954"]
+[BlackElo "2027"]
+[PlyCount "42"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d6 8. exd6
+e6 9. cxd4 Bxd6 10. Nc3 O-O 11. O-O Bd7 12. Re1 Rc8 13. Bg5 Be7 14. Bxe7 Nxe7
+15. Ne5 Be8 16. Qd3 Nbd5 17. Rad1 f6 18. Nc4 Qd7 19. Ba4 Qc7 20. Bxe8 Rfxe8 21.
+Nxd5 Nxd5 1/2-1/2
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.1"]
+[White "Pollack, Oscar"]
+[Black "Cont, Arya"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2068"]
+[BlackElo "1954"]
+[PlyCount "85"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Be6
+8. Nd4 Qd7 9. Nxe6 Qxe6 10. Be2 Nc6 11. O-O O-O 12. Qd2 Rfe8 13. Bf3 Bf6 14.
+Rfe1 Qd7 15. h3 Re7 16. Bg4 Qe8 17. f4 Na5 18. b3 d5 19. Bc5 Rxe1+ 20. Rxe1 Qc6
+21. Qe3 b6 22. Bb4 Nb7 23. Bf3 Qd7 24. Bxd5 c6 25. Bf3 h6 26. Rd1 Qc7 27. Bg4
+c5 28. Rd7 Qc6 29. Qf3 Qxf3 30. Bxf3 cxb4 31. cxb4 a5 32. Bxb7 Rd8 33. Rxd8+
+Bxd8 34. bxa5 bxa5 35. Kf2 Kf8 36. Ke3 Ke7 37. Kd4 Kd6 38. Kc4 g5 39. fxg5 hxg5
+40. Kb5 f5 41. c4 g4 42. c5+ Kc7 43. Bd5 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.09"]
+[Round "2.2"]
+[White "Dignam, Matthew"]
+[Black "Keohane, Ben"]
+[Result "1-0"]
+[ECO "B02"]
+[WhiteElo "2116"]
+[BlackElo "2045"]
+[PlyCount "69"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. d4 d6 5. f4 g6 6. Bd3 Bg7 7. Nf3 Nc6 8. O-O
+Bg4 9. Be3 Nb4 10. Be2 O-O 11. h3 Bf5 12. Rc1 Bh6 13. g4 Be6 14. Qe1 Bg7 15. f5
+Bc4 16. Qh4 N4d5 17. fxg6 fxg6 18. Bxc4 Nxc4 19. Nxd5 Nxe3 20. Nxe3 e6 21. Qxd8
+Raxd8 22. exd6 cxd6 23. c3 e5 24. dxe5 dxe5 25. Rcd1 e4 26. Ng5 Rxf1+ 27. Kxf1
+Re8 28. h4 h6 29. Nh3 Rf8+ 30. Ke2 Rf7 31. Rd6 Kh7 32. Re6 Rf3 33. Nf2 Rf6 34.
+Rxf6 Bxf6 35. h5 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.1"]
+[White "Cont, Arya"]
+[Black "Dignam, Matthew"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1954"]
+[BlackElo "2116"]
+[PlyCount "61"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd2 e5 6. Nf3 exd4 7. Nd5 Qd8 8.
+Nxf6+ Qxf6 9. Bd3 Bg4 10. h3 Bxf3 11. Qxf3 Nd7 12. O-O Be7 13. Rae1 O-O 14. g4
+g6 15. Re2 Nc5 16. g5 Qe6 17. f5 Qxa2 18. f6 Bd8 19. b3 Nxd3 20. Qxd3 Bb6 21.
+Kh1 a5 22. Rf4 a4 23. Rh4 h5 24. Rxh5 gxh5 25. Qf3 d3 26. cxd3 axb3 27. Qxh5
+Qb1+ 28. Be1 Qxd3 29. g6 Qxh3+ 30. Qxh3 fxg6 31. Qxb3+ 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "3.2"]
+[White "Franco, Gaston"]
+[Black "Pollack, Oscar"]
+[Result "0-1"]
+[ECO "C17"]
+[WhiteElo "2027"]
+[BlackElo "2068"]
+[PlyCount "62"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Nf3 c5 6. Bd2 Nbc6 7. a3 Bxc3 8. Bxc3
+cxd4 9. Bxd4 O-O 10. h4 Nxd4 11. Qxd4 Nc6 12. Qe3 d4 13. Qe4 Qa5+ 14. c3 dxc3
+15. Bd3 cxb2+ 16. Ke2 f5 17. exf6 Qf5 18. fxg7 Qxe4+ 19. Bxe4 Rxf3 20. Rad1
+Rxa3 21. h5 Kxg7 22. h6+ Kg8 23. Rh5 b6 24. Rg5+ Kf8 25. f4 Ba6+ 26. Kf2 Rd8
+27. Rxd8+ Nxd8 28. Bxh7 Nf7 29. Rg8+ Ke7 30. Rg7 Bd3 31. f5 b1=Q 0-1
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.1"]
+[White "Dignam, Matthew"]
+[Black "Franco, Gaston"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2116"]
+[BlackElo "2027"]
+[PlyCount "124"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bf5 6. Be2 cxd4 7. cxd4 Bxb1 8.
+Rxb1 e6 9. O-O Nf6 10. b3 Rd8 11. Re1 Bb4 12. Bd2 O-O 13. Bxb4 Nxb4 14. Bc4 Qd6
+15. Qd2 Nbd5 16. Rbd1 Rc8 17. Ne5 Rfd8 18. Qg5 Qb4 19. Qd2 Rd6 20. g3 Rcd8 21.
+Nf3 Qxd2 22. Rxd2 Kf8 23. Bf1 Nb4 24. Bg2 Nfd5 25. Ne5 b5 26. Rc1 f6 27. Nf3
+Ne7 28. Re2 Kf7 29. Bh3 Nbd5 30. Rce1 Nc7 31. Rc1 R8d7 32. Rc5 b4 33. Ra5 Nc6
+34. Rh5 h6 35. Rc5 Nxd4 36. Nxd4 Rxd4 37. Ra5 a6 38. Rc5 f5 39. Rc6 Rd1+ 40.
+Kg2 R1d6 41. Rec2 Rxc6 42. Rxc6 Ke7 43. Kf3 Kd8 44. Bf1 a5 45. Bc4 Rd2 46. Rb6
+Kd7 47. Ke3 Rxa2 48. h4 Rc2 49. Kd4 Rxf2 50. Ke5 Rf3 51. Rd6+ Kc8 52. Rc6 Kb7
+53. Kd6 Nd5 54. Kxe6 Nb6 55. Kd6 Nxc4+ 56. bxc4 Rxg3 57. Rc7+ Kb8 58. c5 b3 59.
+Kc6 Rg6+ 60. Kd7 b2 61. Rc8+ Ka7 62. Rc7+ Ka6 0-1
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.10"]
+[Round "4.2"]
+[White "Keohane, Ben"]
+[Black "Cont, Arya"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2045"]
+[BlackElo "1954"]
+[PlyCount "140"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. e3 O-O 5. h3 d5 6. d3 c5 7. Nbd2 Nc6 8. g3
+Qc7 9. Bg2 e5 10. O-O Rd8 11. Qe2 a6 12. Rfd1 Nd7 13. Nh4 d4 14. Ne4 f5 15. Nd2
+Nf8 16. e4 fxe4 17. Nxe4 Ne7 18. Bc1 Ne6 19. a4 Nc6 20. Nf3 Rb8 21. Nfg5 b6 22.
+Nxe6 Bxe6 23. Ng5 Bd5 24. Qg4 Qc8 25. Qh4 h6 26. Ne4 g5 27. Qh5 Ne7 28. Re1 Bf7
+29. Qf3 Nd5 30. Kh2 Bg6 31. Bd2 Rf8 32. Qe2 Qc6 33. Rg1 a5 34. Raf1 Kh8 35. Qg4
+Bf5 36. Qh5 Bg6 37. Qe2 Qe6 38. Qg4 Bf5 39. Qh5 Kg8 40. f4 exf4 41. gxf4 Bg6
+42. Qg4 Qxg4 43. hxg4 gxf4 44. Nxc5 f3 45. Rxf3 Nf6 46. Ne6 Nxg4+ 47. Kh3 Rxf3+
+48. Bxf3 Ne5 49. Bd5 Bf5+ 50. Kh4 Bxe6 51. Bxe6+ Kf8 52. Kh5 Nf3 53. Rf1 Ke7
+54. Rxf3 Kxe6 55. Rg3 Bf6 56. Bf4 Rc8 57. Rg2 Bg5 58. Bxg5 hxg5 59. Re2+ Kd5
+60. Kxg5 Kc5 61. Re4 Rf8 62. Re2 Kb4 63. Re6 Kc3 64. Rc6+ Kb2 65. Rc4 Rf2 66.
+Rxd4 Kxc2 67. Rd6 Kxb3 68. Rxb6+ Kxa4 69. d4 Rd2 70. Rd6 Kb4 1/2-1/2
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.1"]
+[White "Franco, Gaston"]
+[Black "Keohane, Ben"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2027"]
+[BlackElo "2045"]
+[PlyCount "81"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 Nf6 5. Nbd2 c5 6. c3 Nc6 7. a3 Qc7 8. Qe2
+Be7 9. O-O d6 10. b4 Rd8 11. bxc5 dxc5 12. e5 Nd5 13. Ne4 cxd4 14. cxd4 h6 15.
+Bd2 g5 16. h3 Rg8 17. Rfc1 Qb8 18. a4 Qa8 19. a5 Nxa5 20. Ba6 Nf4 21. Qb5+ Kf8
+22. Bxb7 Qxb7 23. Nf6 a6 24. Qb1 Bxf6 25. exf6 Ne2+ 26. Kh1 Rg6 27. Bxa5 Nxc1
+28. Bxb6 Nd3 29. Bxd8 Nxf2+ 30. Kh2 Qxb1 31. Rxb1 g4 32. Ne5 g3+ 33. Kg1 Rg5
+34. Be7+ Kg8 35. Rb8+ Kh7 36. Rf8 Ne4 37. h4 Rg8 38. Rxf7+ Kh8 39. h5 Ng5 40.
+Ng6+ Rxg6 41. hxg6 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "5.2"]
+[White "Pollack, Oscar"]
+[Black "Dignam, Matthew"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2068"]
+[BlackElo "2116"]
+[PlyCount "33"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. O-O-O Bb7 10. Bxf6 gxf6 11. Qh5 Qc5 12. e5 b4 13. Nxe6 Qe3+ 14. Kb1 bxc3
+15. Nc7+ Kd7 16. Qxf7+ Kc6 17. Nd5 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.1"]
+[White "Pollack, Oscar"]
+[Black "Keohane, Ben"]
+[Result "1-0"]
+[ECO "B02"]
+[WhiteElo "2068"]
+[BlackElo "2045"]
+[PlyCount "73"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. f4 d6 5. Nf3 g6 6. d4 Bg7 7. a4 a5 8. Be2 Nc6
+9. O-O O-O 10. Be3 Nb4 11. Qd2 Bf5 12. Rac1 Bd7 13. b3 f6 14. Kh1 Kh8 15. d5
+dxe5 16. fxe5 Rc8 17. Rcd1 Bf5 18. Nd4 fxe5 19. Rxf5 exd4 20. Rxf8+ Qxf8 21.
+Bxd4 Bxd4 22. Qxd4+ Qf6 23. Qd2 Qe5 24. Bf3 Rd8 25. Re1 Qg7 26. Nb5 c6 27. Nc7
+Qf6 28. c4 cxd5 29. cxd5 N6xd5 30. Nxd5 Nxd5 31. Qxa5 b6 32. Qb5 Nc3 33. Qc4
+Rd2 34. h3 Rf2 35. Re6 Qg7 36. Qc8+ Qg8 37. Qxc3+ 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.12"]
+[Round "6.2"]
+[White "Franco, Gaston"]
+[Black "Cont, Arya"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2027"]
+[BlackElo "1954"]
+[PlyCount "38"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5 8.
+Ng5 Be7 9. Bxc6+ bxc6 10. Qh5 g6 11. Qh6 Bf8 12. Qh4 Be6 13. f3 Nxg5 14. Bxg5
+Be7 15. Qxd4 O-O 16. Bxe7 Qxe7 17. Nc3 Rfb8 18. a3 Qd6 19. Na4 Bf5 1/2-1/2
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.1"]
+[White "Cont, Arya"]
+[Black "Pollack, Oscar"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "1954"]
+[BlackElo "2068"]
+[PlyCount "92"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. b3 d5 3. Bb2 dxe4 4. Nc3 Nf6 5. Qe2 Bd7 6. Nxe4 Nxe4 7. Qxe4 Bc6 8.
+Qe3 Nd7 9. O-O-O Bc5 10. d4 Be7 11. Nf3 Bxf3 12. Qxf3 c6 13. d5 cxd5 14. Bxg7
+Rg8 15. Bb2 Bf6 16. Bb5 Bxb2+ 17. Kxb2 a6 18. Bxd7+ Qxd7 19. c4 d4 20. Qf6 Rd8
+21. g3 Qe7 22. Qxe7+ Kxe7 23. Rhe1 Rd7 24. Re4 Rgd8 25. Rh4 Kf6 26. Rxh7 Kg6
+27. Rh4 e5 28. Re4 Kf5 29. Rde1 f6 30. f4 Rh7 31. fxe5 Rxh2+ 32. Kb1 fxe5 33.
+Rxe5+ Kg4 34. Rd5 Rxd5 35. cxd5 Kf3 36. d6 Rh6 37. d7 Rd6 38. Re7 d3 39. Kc1
+d2+ 40. Kd1 Kxg3 41. d8=Q Rxd8 42. Rxb7 Kf4 43. Re7 a5 44. Re2 Rd3 45. Rxd2 Ke3
+46. Rxd3+ Kxd3 1/2-1/2
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "7.2"]
+[White "Keohane, Ben"]
+[Black "Dignam, Matthew"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2045"]
+[BlackElo "2116"]
+[PlyCount "94"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 5. f3 Nf6 6. Bc4 Nd5 7. Bxd5 exd5 8.
+fxe4 dxe4 9. Nh3 g6 10. c3 Qh4+ 11. Bf2 Qe7 12. Be3 Bg7 13. Nf4 O-O 14. Qb3+
+Qf7 15. d5 Re8 16. h4 c6 17. Nc4 Rd8 18. O-O-O cxd5 19. Nxd5 Be6 20. Ndb6 Nc6
+21. Nxa8 Rxa8 22. Rd6 Bxc4 23. Qd1 Bd3 24. Qb3 Qxb3 25. axb3 Rd8 26. Rxd8+ Nxd8
+27. Bxa7 Bh6+ 28. Kd1 Nc6 29. Bb6 Ne5 30. Rh3 Ng4 31. h5 e3 32. Ke1 Kf7 33.
+hxg6+ hxg6 34. b4 Ke6 35. b3 Kd5 36. c4+ Ke4 37. b5 e2 38. Ba5 Be3 39. Rf3 f4
+40. Bd2 Bxd2+ 41. Kxd2 Ne3 42. Rf2 Nc2 43. Rxe2+ Bxe2 44. Kxe2 Nd4+ 45. Kd2
+Nxb3+ 46. Kc3 Nc5 47. Kb4 b6 0-1
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.1"]
+[White "Dignam, Matthew"]
+[Black "Cont, Arya"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2116"]
+[BlackElo "1954"]
+[PlyCount "54"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1
+dxe4 9. dxe4 e5 10. c3 Qc7 11. Qc2 h6 12. b4 Be6 13. bxc5 Nd7 14. Nb3 Na5 15.
+Nfd2 Rfc8 16. Ba3 Bf8 17. Bb4 Nxb3 18. Nxb3 Bc4 19. c6 Qxc6 20. Bxf8 Nxf8 21.
+Na5 Qc7 22. Nxc4 Qxc4 23. Re3 Ne6 24. Bf1 Qc6 25. Rd1 Rd8 26. Red3 Kg7 27. Rd5
+Qc7 1/2-1/2
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.13"]
+[Round "8.2"]
+[White "Pollack, Oscar"]
+[Black "Franco, Gaston"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2068"]
+[BlackElo "2027"]
+[PlyCount "69"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. O-O Bg7 6. d3 Nh6 7. a4 a5 8. h3
+b6 9. Nc3 e5 10. Nxe5 Bxe5 11. Bxh6 Qh4 12. Be3 g5 13. d4 Bc7 14. e5 g4 15. g3
+Qxh3 16. Ne4 Bf5 17. Nf6+ Kf8 18. Qd2 h6 19. Bf4 Rd8 20. c3 Be6 21. f3 Bc4 22.
+Rf2 gxf3 23. Rh2 Qf5 24. Rh5 Qd3 25. Bxh6+ Ke7 26. Qxd3 Bxd3 27. Bg5 Ke6 28.
+Rxh8 Rxh8 29. Kf2 Rh2+ 30. Kxf3 Rxb2 31. Rh1 Bd8 32. Rh6 Bg6 33. Rh8 Bxf6 34.
+Bxf6 Rb3 35. Rd8 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.1"]
+[White "Franco, Gaston"]
+[Black "Dignam, Matthew"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2027"]
+[BlackElo "2116"]
+[PlyCount "54"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. O-O
+cxd4 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nf3 Qb6 12. a3 Be7 13. Re1 O-O 14. Ng5 f5
+15. Qh5 Bxg5 16. Bxg5 Qxb2 17. Be7 Rf7 18. Bd6 Qd4 19. Qe2 Nc5 20. Bb5 Ne4 21.
+Be8 Nxd6 22. exd6 Bd7 23. Bxd7 Rxd7 24. Qe4 e5 25. Qxe5 Rf7 26. Qe6 Qf6 27.
+Rac1 Rc8 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "9.2"]
+[White "Cont, Arya"]
+[Black "Keohane, Ben"]
+[Result "1-0"]
+[ECO "B02"]
+[WhiteElo "1954"]
+[BlackElo "2045"]
+[PlyCount "87"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. d4 d6 5. f4 g6 6. Be3 Bg7 7. Qf3 Nc6 8. O-O-O
+h5 9. h3 d5 10. Be2 h4 11. g4 hxg3 12. Qxg3 Bf5 13. Nf3 e6 14. h4 Nb4 15. Ne1
+Qe7 16. a3 Nc6 17. Nf3 O-O-O 18. h5 Rdg8 19. Nh4 Bf8 20. Rdg1 Na5 21. Bf2 Bh6
+22. Kb1 c6 23. Be3 Nac4 24. Bc1 a5 25. Bd3 Qf8 26. hxg6 fxg6 27. Bxf5 gxf5 28.
+Ng6 Qe8 29. Rxh6 Rxh6 30. Ne7+ Qxe7 31. Qxg8+ Qd8 32. Qxd8+ Kxd8 33. b3 Rh3 34.
+Nd1 a4 35. bxc4 Nxc4 36. Nf2 Nxa3+ 37. Bxa3 Rxa3 38. Nd3 Rc3 39. Rg7 b6 40. Rb7
+a3 41. Rxb6 a2+ 42. Kxa2 Rxc2+ 43. Kb3 Rc4 44. Rb4 1-0
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "10.1"]
+[White "Keohane, Ben"]
+[Black "Franco, Gaston"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "2045"]
+[BlackElo "2027"]
+[PlyCount "104"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. g3 d6 6. exd6 Qxd6 7. Bg2 Nc6 8. Ne2
+Bg4 9. O-O Rd8 10. Na3 a6 11. cxd4 e6 12. Nc4 Qb4 13. Ne3 Bxe2 14. Nxd5 Rxd5
+15. Qxe2 Nxd4 16. Qd3 Rd8 17. Qe4 Nc6 18. Be3 Bc5 19. Bxc5 Qxc5 20. Rac1 Qb5
+21. Rc3 Nd4 22. Rc7 b6 23. b3 O-O 24. Qg4 Nf5 25. Rc4 Rd2 26. Rb4 Qc5 27. Rc4
+Qe5 28. Re4 Qb2 29. Ra4 Ne3 30. Qf3 Nxf1 31. Bxf1 a5 32. Qe3 Rd1 33. Kg2 Qc1
+34. Qe2 Rfd8 35. Rc4 Qb1 36. Rc7 f6 37. Qf3 Qf5 38. Qxf5 exf5 39. Bb5 R1d2 40.
+a4 Kf8 41. Rc6 R8d6 42. Rc7 Rb2 43. Rc3 Rdd2 44. Rf3 Ke7 45. h3 Rbc2 46. g4
+fxg4 47. hxg4 Rd4 48. Kh3 Rc5 49. Be2 h5 50. gxh5 Rxh5+ 51. Kg3 Rg5+ 52. Kh3
+Rd8 0-1
+
+[Event "Mindsports Masters FIDE"]
+[Site "London"]
+[Date "2022.09.14"]
+[Round "10.2"]
+[White "Dignam, Matthew"]
+[Black "Pollack, Oscar"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2116"]
+[BlackElo "2068"]
+[PlyCount "85"]
+[EventDate "2022.09.09"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[SourceTitle "BritBase"]
+[Source "John Saunders"]
+[SourceDate "2022.12.07"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.12.07"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. e5 Nfd7 5. d4 c5 6. c3 Nc6 7. Ngf3 f6 8. exf6
+Qxf6 9. Bb5 Bd6 10. Nf1 e5 11. dxe5 Ndxe5 12. Be2 d4 13. Ng3 Nxf3+ 14. Bxf3
+Qe5+ 15. Be2 O-O 16. O-O dxc3 17. bxc3 Bc7 18. Rb1 b6 19. Bf3 Bb7 20. Re1 Qf6
+21. Qb3+ Kh8 22. Re6 Qf7 23. Rxc6 Qxb3 24. axb3 Bxc6 25. Bxc6 Rad8 26. Be3 Rd3
+27. Be4 Rd7 28. Kf1 Bxg3 29. hxg3 Re7 30. Bf3 Rd7 31. c4 a5 32. Bd5 h6 33. Bf4
+Ra7 34. Be5 Kh7 35. f4 Kg6 36. Be4+ Kf7 37. Rd1 a4 38. bxa4 Rxa4 39. Rd7+ Ke6
+40. Rd6+ Ke7 41. Rxb6 Rd8 42. Bd5 Rb4 43. Rg6 1-0
+
