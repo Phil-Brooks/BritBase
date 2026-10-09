@@ -1,0 +1,52 @@
+@page "/Players"
+@model BritBase.Pages.PlayersModel
+@{
+    ViewData["Title"] = "Player Collections";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-xxl-11">
+            <div class="card shadow-sm border-0">
+                <div class="card-body p-4 p-md-5">
+                    <h1 class="display-6 fw-bold mb-2">BritBase.info - British Chess Game Archive</h1>
+                    <h2 class="h4 mb-3">Player/Publication Collections</h2>
+
+                    <p class="text-body-secondary mb-4">
+                        This page features collections of games by player and by publication. I would like to feature more of these, reflecting various standards of players over different decades. Anyone rated/graded, say, 2000/175 at their peak, with games going back a few decades comes into consideration.
+                    </p>
+
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-sm align-middle shadow-sm" style="font-size:0.92rem;">
+                            <thead class="table-light">
+                                <tr>
+                                    <th style="width: 22%;">Player</th>
+                                    <th class="text-center" style="width: 8%;">Born</th>
+                                    <th class="text-center" style="width: 8%;">Died</th>
+                                    <th class="text-center" style="width: 11%;">No of Games</th>
+                                    <th style="width: 35%;">Notes</th>
+                                    <th class="text-center" style="width: 16%;">Updated</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var player in Model.Players)
+                                {
+                                    <tr>
+                                        <td>
+                                            <a href="/Index?query=@Uri.EscapeDataString(player.Query)">@player.Name</a>
+                                        </td>
+                                        <td class="text-center">@player.Born</td>
+                                        <td class="text-center">@player.Died</td>
+                                        <td class="text-center">@player.Games</td>
+                                        <td>@player.Notes</td>
+                                        <td class="text-center">@player.Updated</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

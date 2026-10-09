@@ -109,10 +109,9 @@
 <!-- Collections -->
 <div class="nav-section-title">Collections</div>
 <nav class="nav flex-column">
-    <a class="nav-link" href="/Index"
-       hx-get="/Index?handler=Search&query=Player Collections"
-       hx-target="#game-list-container"
-       data-bs-dismiss="offcanvas">
+    <a class="nav-link" href="/Players"
+       data-bs-dismiss="offcanvas"
+       onclick="window.location.href='/Players'; return false;">
         <i class="bi bi-people"></i> Player Collections
     </a>
     <a class="nav-link" href="/Index"
